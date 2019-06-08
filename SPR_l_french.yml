@@ -1,0 +1,25 @@
+﻿l_french:
+
+ SPR_spain.1.t:0 "Les Réactionnaires ont été Écrasés !"
+ SPR_spain.1.desc:0 "Après des efforts héroïques, le peuple espagnol, aidé par des antifascistes du monde entier, a écrasé les rebelles fascistes et assuré le triomphe du Front populaire. Notre victoire assure notre libération de la tyrannie des réactionnaires, mais les combats et les mesures de sécurité nécessaires ont fortement perturbé l'économie. Après toutes ces souffrances, il est clair que notre population n'a qu'un seul désir : la paix."
+ SPR_spain.1.a:0 "La paix, enfin !"
+
+# Companies
+altos_hornos:0 "Altos Hornos de Vizcaya"
+telefonica:0 "Telefónica"
+campsa:0 "CAMPSA"
+compania_espanola_petroleos:0 "Compañía Española de Petróleos"
+astra_unceta:0 "Astra Unceta y Cía"
+llama_gabilondo:0 "Llama-Gabilondo y Cia"
+star_bonifacio:0 "Star Bonifacio Echeverria"
+esperanza_cia:0 "Esperanza y Cia"
+fabrica_de_armas_trubia:0 "Fábrica de armas de Trubia"
+abadal_buick:0 "Abadal-Buick"
+irizar:0 "Irizar"
+compania_auxiliar_ferrocarriles:0 "Compañía Auxiliar de Ferrocarriles"
+hispano_suiza:0 "Hispano-Suiza"
+casa:0 "Construcciones Aeronáuticas S.A."
+aeronautica_industrial_sa:0 "Aeronáutica Industrial S.A."
+hispano_aviacion:0 "Hispano Aviación"
+secn:0 "Sociedad Española de Construcción Naval"
+euskalduna:0 "Euskalduna"

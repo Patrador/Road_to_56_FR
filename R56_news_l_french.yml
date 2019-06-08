@@ -1,0 +1,21 @@
+﻿l_english:
+ 
+#News
+r56.news_event.1.t:0 "Mussolini retiré du pouvoir"
+r56.news_event.1.desc:0 "Après la défaite de l'Italie en Éthiopie et le récent accord de paix entre les gouvernements italien et éthiopien, des manifestations massives se sont formées dans presque toutes les grandes villes italiennes pour demander l'exclusion de Mussolini au poste de Premier ministre italien et réclamer des élections. Avec des troubles sociaux massifs et la possibilité d'émeutes massives, Victor Emmanuel III a démis Mussolini de son poste de Premier ministre italien et a placé le général Pietro Badoglio au poste de Premier ministre par intérim. Une foule à Rome a ensuite pris d'assaut le siège du parti fasciste et a retrouvé Mussolini mort d'une blessure par balle auto-infligée."
+r56.news_event.1.a:0 "L'incompétence militaire italienne frappe à nouveau !"
+
+#1938 world cup
+
+r56.news_event.2.t:0 "Coupe du monde de 1938"
+r56.news_event.2.desc:0 "La Coupe du Monde s'est tenue récemment en France. C'était la troisième édition du tournoi. 15 équipes ont participé à un tournoi à élimination.\n\nLa Suisse contrarie l’Allemagne dès le premier tour en battant les Allemands aux tirs au but, bien que les Suisses aient été éliminés au tour suivant par la Hongrie. L’équipe hongroise s’est rendue jusqu’à la finale mais a finalement été battue par l’Italie. C'est la deuxième fois que l'Italie remporte le tournoi. Le Brésil a également battu la Suède dans la finale de consolation pour obtenir la troisième place.\n\nLa Coupe du Monde a été une distraction agréable pour beaucoup permettant d'éloigner les esprits de l'orage qui se forme en Europe."
+r56.news_event.2.a:0 "Faisons-la à nouveau dans quatre ans..."
+r56.news_event.2.b:0 "Gloire à l'Italie !"
+ 
+r56.news_event.3.t:0 "L'Albanie rejoint le Komintern"
+r56.news_event.3.d:0 "Enver Hoxha, président du Parti communiste albanais, a décidé d'envoyer une demande d'adhésion au Komintern. L'Union soviétique a accepté la demande d'adhésion de l'Albanie et l'ancien royaume d'Albanie fait maintenant partie de la Troisième Internationale. Les deux pays partageant les mêmes idées et ambitions, leur amitié semble solide et l'Albanie prévoit un avenir prometteur pour leur place en Europe." 
+r56.news_event.3.a:0 "Une autre victoire pour les idéaux communistes !"
+#was news 336
+r56.news_event.4.t:0 "L'Albanie rejoint l'Axe"
+r56.news_event.4.d:0 "L'Allemagne a accepté la demande de l'Albanie de rejoindre l'Axe. Ils s’opposent maintenant au communisme et aux nations démocratiques. Le roi Zog a exprimé la volonté de montrer au monde entier la puissance de son pays. Le Royaume-Uni et la France ont exprimé leur inquiétude face à la montée du fascisme en Europe et ont rappelé aux autorités allemandes les règles du Traité de Versailles que l'Allemagne devait respecter. Il semble que les démocraties occidentales ne semblent pas réagir contre l'Allemagne et l'Albanie."
+r56.news_event.4.a:0 "Jetoni Shqipërinë!"
