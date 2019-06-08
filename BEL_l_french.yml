@@ -1,13 +1,13 @@
 ﻿l_french:
- scw_over:0 "The Spanish Civil War is Over"
- unlock_congo_tree:0 "The Congo tree will be unlocked on the 14th of January"
+ scw_over:0 "La guerre civile espagnole est terminée"
+ unlock_congo_tree:0 "L'arbre du Congo sera débloqué le 14 janvier"
  
- COG_italian_research_name:0 "Congolese-Italian Research Collaboration"
+ COG_italian_research_name:0 "Collaboration de recherche italo-congolaise"
  
- recruit_dutch_generals_tooltip:0 "While the decision is active, up to 3 generals will be offered to join our cause."
- recruit_generals_tooltip:0 "While the decision is active, up to 3 generals will be offered to join our cause."
+ recruit_dutch_generals_tooltip:0 "Tant que la décision est active, jusqu'à trois généraux se verront proposer de se joindre à notre cause."
+ recruit_generals_tooltip:0 "Tant que la décision est active, jusqu'à trois généraux se verront proposer de se joindre à notre cause."
  
- VICTORY_POINTS_516:0 "Brussel-Bruxelles"
+ VICTORY_POINTS_516:0 "Bruxelles"
  VICTORY_POINTS_1950:0 "Stanleyville" 
  
  BEL_communism_party:0 "PCB/PKB"
@@ -26,7 +26,7 @@
  VLAcatholic_socialist_coalition_party:0 "KP-VWP"
  VLAcatholic_socialist_coalition_party_long:0 "Katholieke Partij-Vlaamsche Werkliedenpartij" 
  
- BEL_communism:0 "Belgian People's Republic" 
+ BEL_communism:0 "République populaire belge" 
  COG_neutrality_party:0 "GGC"
  COG_neutrality_party_long:0 "Gouvernorat Général du Congo" 
  COG_democratic_party:0 "ABAKO"  
