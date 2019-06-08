@@ -1,0 +1,100 @@
+﻿l_french:
+
+ ################################################
+ focus_event.0.t:0 "Organisation de "New Continuous Focuses""
+ focus_event.0.d:0 "Bonjour ! CrouchingLemur ici, créateur du mod "New Continuous Focuses". Ici, vous pouvez décider si la main-d'œuvre, les usines ou les ressources sont ajoutées ou non aux événements. Cela affectera toutes les nations du monde, y compris celles contrôlées par l'IA. Si vous souhaitez modifier ce paramètre ultérieurement, vous devez utiliser cette commande dans la console : event focus_event.0"
+ focus_event.0.a:0 "ACTIVER les événements déclenchés par "New Continuous Focuses"."
+ focus_event.0.b:0 "DÉSACTIVER les événements déclenchés par "New Continuous Focuses"."
+ ################################################
+ population_growth_i: "Croissance Démographique I"
+ population_growth_ii: "Croissance Démographique II"
+ construction_effort_i: "Effort de Construction I"
+ construction_effort_ii: "Effort de Construction II"
+ armament_effort_i: "Effort d'Armement I"
+ armament_effort_ii: "Effort d'Armement II"
+ excavation_effort_i: "Effort d'Excavation I"
+ excavation_effort_ii: "Effort d'Excavation II"
+ army_modernisation_i: "Modernisation de l'Armée I"
+ army_modernisation_ii: "Modernisation de l'Armée II"
+ airforce_modernisation_i: "Modernisation de l'Armée de l'Air I"
+ airforce_modernisation_ii: "Modernisation de l'Armée de l'Air II"
+ navy_modernisation_i: "Modernisation de la Marine I"
+ navy_modernisation_ii: "Modernisation de la MarineII"
+ #################################################
+ population_growth_i_desc: "Nous allons améliorer les conditions de vie dans notre pays. Cela augmentera la croissance de notre population et attirera des immigrants tous les quelques dizaines de jours."
+ population_growth_ii_desc: "Nous améliorerons encore les conditions de vie dans notre pays. Cela augmentera considérablement la croissance de notre population et attirera plus d'immigrants tous les quelques dizaines de jours."
+ construction_effort_i_desc: "Nous formerons des équipes de construction spécialisées axées sur le développement de notre industrie civile. Cela augmentera la vitesse de construction d'usines civiles et nous en donnera une gratuitement tous les quelques mois."
+ construction_effort_ii_desc: "Nous formerons des équipes de construction plus spécialisées, axées sur le développement de notre industrie civile. Cela augmentera considérablement la vitesse de construction d’usines civiles et nous en donnera 2 gratuitement tous les quelques mois."
+ armament_effort_i_desc: "Nous formerons des équipes de construction spécialisées axées sur le développement de notre industrie militaire. Cela augmentera la vitesse de construction des usines militaires et nous en donnera une gratuitement tous les quelques mois."
+ armament_effort_ii_desc: "Nous formerons des équipes de construction plus spécialisées, axées sur le développement de notre industrie militaire. Cela augmentera considérablement la vitesse de construction d’usines militaires et nous en donnera 2 gratuitement tous les quelques mois."
+ excavation_effort_i_desc: "Nous formerons des équipes d'excavation spécialisées qui amélioreront notre production de ressources et nous découvrirons peut-être même parfois de nouveaux petits gisements."
+ excavation_effort_ii_desc: "Nous formerons des équipes d'excavation plus spécialisées qui amélioreront considérablement notre production de ressources et pourront même parfois découvrir de nouveaux gisements."
+ army_modernisation_i_desc: "Nous allons dépenser des ressources supplémentaires pour moderniser notre armée. Nous pourrons modifier nos modèles de division et mettre à niveau les chars plus souvent. Nous aurons parfois des découvertes majeures, nous permettant soit d’acquérir plus d’expérience dans l’armée, soit de bénéficier de primes pour la recherche sur les technologies de guerre terrestre."
+ army_modernisation_ii_desc: "Nous allons dépenser encore plus de ressources pour moderniser notre armée. Nous pourrons modifier nos modèles de division et mettre à niveau les chars plus souvent. Nous aurons parfois des découvertes majeures, nous permettant soit d’acquérir plus d’expérience dans l’armée, soit de bénéficier de primes pour la recherche sur les technologies de guerre terrestre."
+ airforce_modernisation_i_desc: "Nous allons dépenser des ressources supplémentaires pour moderniser notre force aérienne. Nous pourrons améliorer les avions plus souvent. Nous aurons parfois des découvertes majeures, nous permettant soit d’acquérir plus d’expérience aérienne, soit de bénéficier de primes pour la recherche sur les technologies de la guerre aérienne."
+ airforce_modernisation_ii_desc: "Nous allons dépenser encore plus de ressources pour moderniser notre force aérienne. Nous pourrons améliorer les avions plus souvent. Nous aurons parfois des découvertes majeures, nous permettant soit d’acquérir plus d’expérience aérienne, soit de bénéficier de primes pour la recherche sur les technologies de la guerre aérienne."
+ navy_modernisation_i_desc: "Nous allons dépenser des ressources supplémentaires pour moderniser notre marine. Nous pourrons améliorer les navires plus souvent. Nous aurons parfois des découvertes majeures, nous permettant d’acquérir plus d’expérience navale ou d’obtenir des bonus pour la recherche sur les technologies de guerre navale."
+ navy_modernisation_ii_desc: "Nous allons dépenser des ressources supplémentaires pour moderniser notre marine. Nous pourrons améliorer les navires plus souvent. Nous aurons parfois des découvertes majeures, nous permettant d’acquérir plus d’expérience navale ou d’obtenir des bonus pour la recherche sur les technologies de guerre navale."
+ ##################################################
+ focus_event.1.t: "Immigrants Arrivés"
+ focus_event.1.d: "Les bonnes conditions de vie dans notre pays ont attiré des personnes d'autres nations. Ils s'installent maintenant sur notre territoire."
+ focus_event.1.a: "Bonnes nouvelles."
+ 
+ focus_event.2.t: "Beaucoup d'Immigrants Arrivés"
+ focus_event.2.d: "Les bonnes conditions de vie dans notre pays ont attiré beaucoup de personnes d'autres pays. Ils s'installent maintenant sur notre territoire."
+ focus_event.2.a: "Bonnes nouvelles."
+ 
+ focus_event.3.t: "Usine Civile Supplémentaire"
+ focus_event.3.d: "Nos équipes de construction spécialisées ont réussi à construire une usine civile pour nous."
+ focus_event.3.a: "Bonnes nouvelles."
+ 
+ focus_event.4.t: "2 Usines Civiles Supplémentaires"
+ focus_event.4.d: "Nos équipes de construction spécialisées ont réussi à construire 2 usines civiles pour nous."
+ focus_event.4.a: "Bonnes nouvelles."
+ 
+ focus_event.5.t: "Usine Militaire Supplémentaire"
+ focus_event.5.d: "Nos équipes de construction spécialisées ont réussi à construire 1 usine militaire pour nous."
+ focus_event.5.a: "Bonnes nouvelles."
+ 
+ focus_event.6.t: "2 Usines Militaires Supplémentaires"
+ focus_event.6.d: "Nos équipes de construction spécialisées ont réussi à construire 2 usines militaires pour nous."
+ focus_event.6.a: "Bonnes nouvelles."
+ 
+ focus_event.7.t: "Ressources Découvertes"
+ focus_event.7.d: "Nos équipes d'excavation ont découvert un nouveau gisement de ressources minuscules dans notre pays."
+ focus_event.7.a: "Bonnes nouvelles."
+ 
+ focus_event.8.t: "Ressources Découvertes"
+ focus_event.8.d: "Nos équipes d'excavation ont découvert un nouveau petit gisement de ressources dans notre pays."
+ focus_event.8.a: "Bonnes nouvelles."
+ 
+ focus_event.9.t: "Découverte Mineure de Guerre Terrestre"
+ focus_event.9.d: "Nos efforts pour moderniser l’armée ont porté leurs fruits. Nous avons fait une découverte concernant la guerre terrestre. Nous pouvons l’utiliser soit pour améliorer nos modèles de division et notre équipement existant, soit pour accélérer la recherche de nouvelles technologies."
+ focus_event.9.a: "Nous devrions nous concentrer ou rechercher de nouvelles technologies."
+ focus_event.9.b: "Concentrons-nous sur ce que nous avons déjà."
+ 
+ focus_event.10.t: "Découverte Majeure de la Guerre Terrestre"
+ focus_event.10.d: "Nos efforts pour moderniser l’armée ont porté leurs fruits. Nous avons fait une découverte concernant la guerre terrestre. Nous pouvons l’utiliser soit pour améliorer nos modèles de division et notre équipement existant, soit pour accélérer la recherche de nouvelles technologies."
+ focus_event.10.a: "Nous devrions nous concentrer ou rechercher de nouvelles technologies."
+ focus_event.10.b: "Concentrons-nous sur ce que nous avons déjà."
+ 
+ focus_event.11.t: "Découverte Mineure de Guerre Aérienne"
+ focus_event.11.d: "Nos efforts de modernisation ont porté leurs fruits. Nous avons fait une découverte concernant la guerre aérienne. Nous pouvons soit l'utiliser pour améliorer nos avions existants, soit pour accélérer la recherche de nouvelles technologies."
+ focus_event.11.a: "Nous devrions nous concentrer ou rechercher de nouvelles technologies."
+ focus_event.11.b: "Concentrons-nous sur ce que nous avons déjà."
+ 
+ focus_event.12.t: "Découverte Majeure de la Guerre Aérienne"
+ focus_event.12.d: "Nos efforts pour moderniser l'armée de l'air ont porté leurs fruits. Nous avons fait une découverte concernant la guerre aérienne. Nous pouvons soit l'utiliser pour améliorer nos avions existants, soit pour accélérer la recherche de nouvelles technologies."
+ focus_event.12.a: "Nous devrions nous concentrer ou rechercher de nouvelles technologies."
+ focus_event.12.b: "Concentrons-nous sur ce que nous avons déjà."
+ 
+ focus_event.13.t: "Découverte Mineure de Guerre Navale"
+ focus_event.13.d: "Nos efforts pour moderniser la marine ont porté leurs fruits. Nous avons fait une découverte concernant la guerre navale. Nous pouvons soit l'utiliser pour améliorer nos navires existants, soit pour accélérer la recherche de nouvelles technologies."
+ focus_event.13.a: "Nous devrions nous concentrer ou rechercher de nouvelles technologies."
+ focus_event.13.b: "Concentrons-nous sur ce que nous avons déjà."
+ 
+ focus_event.14.t: "Découverte Majeure de la Guerre Navale"
+ focus_event.14.d: "Nos efforts pour moderniser la marine ont porté leurs fruits. Nous avons fait une découverte concernant la guerre navale. Nous pouvons soit l'utiliser pour améliorer nos navires existants, soit pour accélérer la recherche de nouvelles technologies."
+ focus_event.14.a: "Nous devrions nous concentrer ou rechercher de nouvelles technologies."
+ focus_event.14.b: "Concentrons-nous sur ce que nous avons déjà."
+ ##################################################

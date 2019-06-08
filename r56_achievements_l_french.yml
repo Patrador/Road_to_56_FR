@@ -1,0 +1,26 @@
+﻿#####-----> Achievements Localization by Greatexperiment <><> <><> <><> <><> <><>
+
+l_french:
+
+###---> Achievements <><> <><> <><>
+ r56_local_text_achievements_group: "Collapse Me"
+ 
+#-> Achievement Tooltips <><>
+    r56_tooltip_achievements_01: "Le Nekrowombicon"
+        r56_tooltip_achievements_02: "Le Nekrowombicon"
+        r56_tooltip_achievements_03: "Le Nekrowombicon"
+        r56_tooltip_achievements_04: "Le Nekrowombicon"
+        r56_tooltip_achievements_05: "Le Nekrowombicon"
+        r56_tooltip_achievements_06: "Le Nekrowombicon"
+        r56_tooltip_achievements_07: "Le Nekrowombicon"
+        r56_tooltip_achievements_08: "Le Nekrowombicon"
+        r56_tooltip_achievements_09: "Le Nekrowombicon"
+        r56_tooltip_achievements_10: "Le Nekrowombicon"
+        r56_tooltip_achievements_11: "Le Nekrowombicon"
+        r56_tooltip_achievements_12: "Le Nekrowombicon"
+        r56_tooltip_achievements_13: "Le Nekrowombicon"
+        r56_tooltip_achievements_14: "Le Nekrowombicon"
+        r56_tooltip_achievements_15: "Le Nekrowombicon"
+ 
+ 
+#####-----> End of File <><> <><> <><> <><> <><>
