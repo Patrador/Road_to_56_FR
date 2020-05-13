@@ -1,2 +1,9 @@
 ﻿l_french:
  ARG_instituto_aerotecnico_de_cordoba:0 "Instituto Aerotecnico de Cordoba"
+ 
+ ARG_american_oil_concern:0 "Pétrole industriel"
+ ARG_american_oil_concern_desc:0 "Nos réserves de pétrole peuvent être développées, grâce à l'expertise américaine."
+ ARG_american_industrial_investments:0 "Investissements industriels américains"
+ ARG_american_industrial_investments_desc:0 "Le capital américain peut aider au développement de notre pays et cimenter notre importance stratégique."
+ ARG_join_the_defense_of_the_hemisphere:0 "Rejoindre la défense de l'hémisphère"
+ ARG_join_the_defense_of_the_hemisphere_desc:0 "Les États-Unis sont la force principale dans la défense de l'Amérique, pour assurer la paix que nous chérissons, nous devons les aider."

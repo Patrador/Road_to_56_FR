@@ -1,8 +1,63 @@
 ﻿l_french:
 
- YUG_construct_rupnik_line:0 "Construire la Ligne Rupnik"
+ YUG_construct_rupnik_line:0 "Construire la ligne Rupnik"
  YUG_construct_rupnik_line_desc:0 "L'expansion continue des nazis et l'agression italienne nous ont mis dans une position difficile. Nous devons construire des fortifications défensives le long de la frontière avec eux pour assurer la sécurité."
- YUG_dismantle_rupnik_line:0 "Démanteler la Ligne Rupnik"
- 
- YUG_construct_rupnik_line_tt:0 "Place des §YFortifications Terrestres§! en §YSlovénie§!."
+ YUG_dismantle_rupnik_line:0 "Démanteler la ligne Rupnik"
+ YUG_construct_rupnik_line_tt:0 "Place des §Yfortifications terrestres§! en §YSlovénie§!."
  YUG_construct_rupnik_line_warning_tt:0 "§RPas toutes les provinces le long de la frontière allemande.§!"
+ 
+ #YUG
+ YUG_JRZ_neutrality_party:0 "JRZ"
+ YUG_JRZ_neutrality_party_long:0 "Jugoslovenska Radikalna Zajednica"
+ YUG_JNS_neutrality_party:0 "JNS"
+ YUG_JNS_neutrality_party_long:0 "Jugoslovenska Nacionalna Stranka"
+ YUG_JRS_neutrality_party:0 "JRS"
+ YUG_JRS_neutrality_party_long:0 "Jugoslovenski Radnički Savez"
+ YUG_UO_neutrality_party:0 "Ujedinjena Opozicija"
+ YUG_UO_neutrality_party_long:0 "Ujedinjena Opozicija"
+ YUG_HSS_neutrality_party:0 "HSS"
+ YUG_HSS_neutrality_party_long:0 "Hrvatska Seljačka Stranka"
+ 
+ YUG_UST_fascism_party:0 "Ustaša"
+ YUG_UST_fascism_party_long:0 "Ustaša – Hrvatski Revolucionarni Pokret"
+ YUG_ZBR_fascism_party:0 "ZBOR"
+ YUG_ZBR_fascism_party_long:0 "Jugoslovenski Narodni Pokret Zbor"
+ 
+ #SER
+ SER_KMV_fascism_party:0 "Komesarska Vlada"
+ SER_KMV_fascism_party_long:0 "Komesarska Vlada"
+ 
+ ##############################################################
+ 
+ YUG_prince_paul:0 "Prince Paul"
+ YUG_prince_paul_desc:0 "Prince Paul Karađorđević est le cousin germain du roi Alexandre Ier, aujourd'hui décédé. Il est le régent de la Yougoslavie depuis que le fils d'Alexandre est mineur."
+ YUG_peter_II:0 "Petar II"
+ YUG_peter_II_desc:0 "Petar II, du nom du dernier roi de Serbie Petar I, est le fils du défunt roi Alexandre I. Bien qu'étant officiellement le monarque, il a été incapable de gouverner en raison de son âge."
+ 
+ YUG_milan_grol:0 "Milan Grol"
+ YUG_ivo_andric:0 "Ivo Andrić"
+ 
+ SER_aleksandar_rankovic:0 "Aleksandar Ranković"
+ SER_sreten_zujovic:0 "Sreten Zujović"
+ SER_dobrivoje_radosavljevic:0 "Dobrivoje Radosavljević"
+ YUG_milojko_jankovic:0 "Milojko Janković"
+ YUG_dusan_trifunovic:0 "Dušan Trifunović"
+ YUG_aleksandar_beric:0 "Aleksandar Berić"
+ SER_marko_pericin_kamenjar:0 "Marko Peričin Kamenjar"
+ YUG_rade_susa:0 "Rade Suša"
+ SER_koca_popovic:0 "Koča Popović"
+ SER_petar_drapsin:0 "Petar Drapšin"
+ SER_stevan_roglic:0 "Stevan Roglić"
+ SER_milan_acimovic:0 "Milan Aćimović"
+ SER_velibor_jonic:0 "Velibor Jonić"
+ SER_ognjen_kuzmanovic:0 "Ognjen Kuzmanović"
+ SER_tanasije_dinic:0 "Tanasije Dinić"
+ SER_kosta_musicki:0 "Kosta Mušicki"
+ 
+ r56_yugoslavia.1.t:0 "Le régent entre en scène"
+ r56_yugoslavia.1.d:0 "En raison de l'incapacité de Stojadinović à résoudre la « question croate », le prince régent Paul est intervenu et l'a forcé à quitter le pouvoir. Il a choisi le politicien de Niš, Dragiša Cvetković, comme successeur."
+ r56_yugoslavia.1.a:0 "Le régent sait mieux que quiconque..."
+ r56_yugoslavia_deaths.1.t:0 "Ljubomir Davidović décède"
+ r56_yugoslavia_deaths.1.d:0 "Ljubomir Davidović, chef du Parti démocrate qui a été premier ministre de 1919 à 1920 et en 1924, est décédé. Soutenant le rétablissement du parlementarisme en Yougoslavie, il a été un symbole important pour la démocratie yougoslave."
+ r56_yugoslavia_deaths.1.a:0 "Il nous manquera."
+ r56_yugoslavia_deaths.1.b:0 "Bon débarras."

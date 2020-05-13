@@ -3,131 +3,131 @@
  #DANISH REGION ===============================================================================================================================
  
  #Fixed Link
- DEN_fixed_link:0 "Fixed Link"
- DEN_fixed_link_desc:0 "The Danish Belt in the modernday takes an hour to cross by ferry. This is simply unacceptable for any modern nation - and with war looming, it may be fatal. Our infrastructure must be updated before any other project can be considered."
- DEN_fixed_link_tt:0 "Add maximum §YInfrastructure§! in §YSjaelland§! and §YJutland§!"
+ DEN_fixed_link:0 "Liaison fixe"
+ DEN_fixed_link_desc:0 "La ceinture danoise prend aujourd'hui une heure à traverser en ferry. C'est tout simplement inacceptable pour toute nation moderne - et avec la guerre qui menace, cela peut être fatal. Notre infrastructure doit être mise à jour avant que tout autre projet puisse être envisagé."
+ DEN_fixed_link_tt:0 "Ajouter le maximum d'§Yinfrastructure§! en §YSjælland§! et au §YJutland§!"
  
  #Industrialise Scania
- DEN_industrialise_scania:0 "Industrialise Scania"
- DEN_industrialise_scania_desc:0 "Sweden is a very modernized country, and an example for us all, but there is room for improvement. The industrialisation of mainland Scandinavia will begin close to our home."
+ DEN_industrialise_scania:0 "Industrialiser la Scanie"
+ DEN_industrialise_scania_desc:0 "La Suède est un pays très modernisé, et un exemple pour nous tous, mais il y a place à l'amélioration. L'industrialisation de la Scandinavie continentale va commencer près de chez nous."
  
  #Industrialise Southern Sweden
- DEN_industrialise_southern_sweden:0 "Industrialise Southern Sweden"
- DEN_industrialise_southern_sweden_desc:0 "Scania was an excellent first step, but we can do better. We will reach our efforts northwards, and our capacity will increase in turn. The densely populated south of Sweden is ripe for modernisation."
+ DEN_industrialise_southern_sweden:0 "Industrialiser le sud de la Suède"
+ DEN_industrialise_southern_sweden_desc:0 "Scania a été un excellent premier pas, mais nous pouvons faire mieux. Nous allons faire porter nos efforts vers le nord, et notre capacité augmentera à son tour. Le sud de la Suède, densément peuplé, est mûr pour la modernisation."
  
  #Industrialise Northern Sweden
- DEN_industrialise_northern_sweden:0 "Industrialise Northern Sweden"
- DEN_industrialise_northern_sweden_desc:0 "Our work is almost done, and logically ends in the north. Our efforts will bring Sweden firmly into the modern age."
+ DEN_industrialise_northern_sweden:0 "Industrialiser le nord de la Suède"
+ DEN_industrialise_northern_sweden_desc:0 "Notre travail est presque terminé, et se termine logiquement au nord. Nos efforts permettront à la Suède d'entrer résolument dans l'ère moderne."
  
  #Road To The North
- DEN_road_to_the_north:0 "Road to the North"
- DEN_road_to_the_north_desc:0 "Now that Sweden is industrialised, we must turn our attention to their infrastructure. It will be a mammoth undertaking, but integration with our own Fixed Link is both feasible and necessary."
- DEN_road_to_the_north_tt:0 "Add maximum §YInfrastructure§! in §YScania§!, §YSmåland§!, §YVästergötland§!, §YSvealand§!, §YNorrland§! and §YLappland§!"
+ DEN_road_to_the_north:0 "La route vers le Nord"
+ DEN_road_to_the_north_desc:0 "Maintenant que la Suède est industrialisée, nous devons porter notre attention sur leur infrastructure. Ce sera une entreprise gigantesque, mais l'intégration avec notre propre liaison fixe est à la fois possible et nécessaire."
+ DEN_road_to_the_north_tt:0 "Ajouter le maximum d'§Yinfrastructure§! en §YScanie§!, en §YSmåland§!, en §YVästergötland§!, au §YSvealand§!, au §YNorrland§! et en §YLaponie§!"
  
  #The Baltic Sea Wall
- DEN_the_baltic_sea_wall:0 "The Baltic Sea Wall"
- DEN_the_baltic_sea_wall_desc:0 "The Scandinavian people have the potential for complete leverage over the Baltic, but for that to be the case we must first protect ourselves from seaborne forces. This will be the next step in bringing Sweden up to Danish standards."
+ DEN_the_baltic_sea_wall:0 "Le mur de la Baltique"
+ DEN_the_baltic_sea_wall_desc:0 "Les Scandinaves ont le potentiel pour exercer une influence totale sur la Baltique, mais pour cela, nous devons d'abord nous protéger des forces maritimes. Ce sera la prochaine étape pour amener la Suède au niveau des normes danoises."
  
  #The Lappland Line
- DEN_the_lappland_line:0 "The Lappland Line"
- DEN_the_lappland_line_desc:0 "The Soviet interest in Finland means that we cannot leave our eastern security up to chance. With our means of production and our protection by sea secured, we must ensure that nothing will enter Sweden unasked for by land."
- DEN_the_lappland_line_tt:0 "Add §Y12 Land Forts§! on the Finnish border.\n"
+ DEN_the_lappland_line:0 "La ligne de Laponie"
+ DEN_the_lappland_line_desc:0 "L'intérêt soviétique pour la Finlande signifie que nous ne pouvons pas laisser notre sécurité à l'Est au hasard. Nos moyens de production et notre protection par mer étant assurés, nous devons veiller à ce que rien n'entre en Suède sans avoir été invité."
+ DEN_the_lappland_line_tt:0 "Ajoute §Y12 fortifications terrestres§! à la frontière finlandaise.\n"
  
  #Industrialise Ostlandet
- DEN_industrialise_ostlandet:0 "Industrialise Ostlandet"
- DEN_industrialise_ostlandet_desc:0 "Norway features precious little good land for industrial building, but what there is we shall leverage to its fullest potential to make Norwegian land a potent force for Scandinavian interests."
+ DEN_industrialise_ostlandet:0 "Industrialiser l'Østlandet"
+ DEN_industrialise_ostlandet_desc:0 "La Norvège ne dispose que de très peu de bonnes terres pour la construction industrielle, mais ce qu'il y a, nous allons l'exploiter au maximum pour faire du territoire norvégien une force puissante pour les intérêts scandinaves."
  
  #Norwegian Naval Industry
- DEN_norwegian_naval_industry:0 "Norwegian Naval Industry"
- DEN_norwegian_naval_industry_desc:0 "The Norwegian naval industry is already nothing to be sniffed at, but we can expand it further and attempt to cement our place in the Baltic and North Sea, and beyond."
+ DEN_norwegian_naval_industry:0 "Industrie navale norvégienne"
+ DEN_norwegian_naval_industry_desc:0 "L'industrie navale norvégienne n'est déjà pas à négliger, mais nous pouvons la développer davantage et tenter de consolider notre place dans la mer Baltique et la mer du Nord, et au-delà."
  
  #Offshore Drilling Platforms
- DEN_offshore_drilling_platforms:0 "Offshore Drilling Platforms"
- DEN_offshore_drilling_platforms_desc:0 "Our industrial surveyors have presented evidence of undersea oil off the coast of Vestlandet. Getting to it will be a feat of engineering, but recent American advances have shown that offshore drilling is possible. We will try to emulate this."
+ DEN_offshore_drilling_platforms:0 "Plateformes de forage en mer"
+ DEN_offshore_drilling_platforms_desc:0 "Nos inspecteurs industriels ont présenté des preuves de la présence de pétrole sous-marin au large des côtes du Vestlandet. S'y rendre sera un exploit d'ingénierie, mais de récentes avancées américaines ont montré que le forage en mer est possible. Nous essaierons de nous en inspirer."
  
  #Fortify The Norwegian Coast
- DEN_fortify_the_norwegian_coast:0 "Fortify the Norwegian Coast"
- DEN_fortify_the_norwegian_coast_desc:0 "Great swathes of Norway's coastline are inaccessible and hard to defend. We have made them accessible, and now we will make them defensible. We must guard against the North Sea."
+ DEN_fortify_the_norwegian_coast:0 "Fortifier la côte norvégienne"
+ DEN_fortify_the_norwegian_coast_desc:0 "De grandes parties du littoral norvégien sont inaccessibles et difficiles à défendre. Nous les avons rendues accessibles, et nous allons maintenant les rendre défendables. Nous devons nous protéger contre la mer du Nord."
  
  #Great Coastal Road
- DEN_great_coastal_road:0 "Great Coastal Road"
- DEN_great_coastal_road_desc:0 "Our plans for a great Scandinavian network of transport continue in Norway. We will bring standardise and modernise their roads and continue to bring Scandinavian transport into the twentieth century."
- DEN_great_coastal_road_tt:0 "Add maximum §YInfrastructure§! in §YOstlandet§!, §YVestlandet§!, §YTrondelag§! and §YNord-Norge§!"
+ DEN_great_coastal_road:0 "Grande route côtière"
+ DEN_great_coastal_road_desc:0 "Nos plans pour un grand réseau de transport scandinave se poursuivent en Norvège. Nous allons normaliser et moderniser leurs routes et continuer à faire entrer les transports scandinaves dans le XXème siècle."
+ DEN_great_coastal_road_tt:0 "Ajouter le maximum d'§Yinfrastructure§! en §YØstlandet§!, en §YVestlandet§!, au §YTrøndelag§! et au §YNord-Norge§!"
  
  #Industrialise Helsinki
- DEN_industrialise_helsinki:0 "Industrialise Helsinki"
- DEN_industrialise_helsinki_desc:0 "Finnland is a nation full of potential, and we will do our best to bring that potential to the fore. Helsinki and the surrouding area in particular are promising."
+ DEN_industrialise_helsinki:0 "Industrialiser Helsinki"
+ DEN_industrialise_helsinki_desc:0 "La Finlande est une nation pleine de potentiel, et nous ferons de notre mieux pour mettre ce potentiel en valeur. Helsinki et la région environnante en particulier sont prometteuses."
  
  #Road To The East
- DEN_road_to_the_east:0 "Finnish Road Projects"
- DEN_road_to_the_east_desc:0 "Our efforts continue with the Finnish transport system. Finland can be inhospitable for those who do not know how to navigate it - we plan to eliminate this issue."
- DEN_road_to_the_east_tt:0 "Add maximum §YInfrastructure§! in §YUusimaa§!, §YPohjanmaa§!, §YSavo§! and §YLappi§!"
+ DEN_road_to_the_east:0 "Projets routiers finlandais"
+ DEN_road_to_the_east_desc:0 "Nos efforts se poursuivent avec le système de transport finlandais. La Finlande peut être inhospitalière pour ceux qui ne savent pas comment s'y retrouver - nous prévoyons d'éliminer ce problème."
+ DEN_road_to_the_east_tt:0 "Ajouter le maximum d'§Yinfrastructure§! en §YUusimaa§!, en §YOstrobotnie§!, en §YSavonie§! et en §YLappi§!"
  
  #Finish The Mannerheim Line
- DEN_finish_the_mannerheim_line:0 "Finish the Mannerheim Line"
+ DEN_finish_the_mannerheim_line:0 "Achever la ligne Mannerheim"
  DEN_finish_the_mannerheim_line_desc:0 "The Soviet threat cannot be understated. If we are to survive a potential incursion, we must be ready to defend - and fortifications are a necessary first step. We must finish the fortifications we were preparing for the Soviet threat."
  DEN_finish_the_mannerheim_line_tt:0 "Add §Y8 Land Forts§! near Leningrad.\n"
  
  #Paint The Skies Red
- DEN_paint_the_skies_red:0 "Fortify the Finnish Lakelands"
- DEN_paint_the_skies_red_desc:0 "The southern fortifications have simply eliminated the path of least resistance. We must continue to fortify along key chokepoints in our own territory - such as the land bridges between the Finnish lakes."
+ DEN_paint_the_skies_red:0 "Fortifier la région des lacs de Finlande"
+ DEN_paint_the_skies_red_desc:0 "Les fortifications du sud ont simplement éliminé la voie de la moindre résistance. Nous devons continuer à fortifier le long des principaux points d'étranglement de notre propre territoire - comme les ponts terrestres entre les lacs finlandais."
  
  #Industrialise Jutland 
- DEN_industrialise_jutland:0 "Industrialise Jutland"
- DEN_industrialise_jutland_desc:0 "Jutland has long been our link with the mainland, and we should make sure that it is a good example of European industriousness. There is room for improvement in all areas of production - improvement we intend to make."
+ DEN_industrialise_jutland:0 "Industrialiser le Jutland"
+ DEN_industrialise_jutland_desc:0 "Le Jutland est depuis longtemps notre lien avec le continent, et nous devons nous assurer qu'il est un bon exemple de l'assiduité européenne. Il y a place pour des améliorations dans tous les domaines de la production - améliorations que nous avons l'intention d'apporter."
  
  #Industrialise the Islands
- DEN_industrialise_the_islands:0 "Industrialise Sjaelland"
- DEN_industrialise_the_islands_desc:0 "Sjaelland is a large part of the Danish lands, but it is woefully lacking in industrial capacity. We must remedy this as soon as possible, both to bring employment to our people and to construct an acceptably modern military."
+ DEN_industrialise_the_islands:0 "Industrialiser Seeland"
+ DEN_industrialise_the_islands_desc:0 "L'île de Seeland est une grande partie des terres danoises, mais elle manque cruellement de capacités industrielles. Nous devons y remédier le plus rapidement possible, à la fois pour apporter de l'emploi à notre population et pour construire une armée moderne acceptable."
  
  #Militarise the Mainland
- DEN_militarise_the_mainland:0 "Militarise Jutland"
- DEN_militarise_the_mainland_desc:0 "Jutland is our connection with the mainland, and all the threats that come from the mainland. We must arm ourselves to defend it, and so we must militarise Jutland itself."
+ DEN_militarise_the_mainland:0 "Militariser le Jutland"
+ DEN_militarise_the_mainland_desc:0 "Le Jutland est notre lien avec le continent, et toutes les menaces qui viennent du continent. Nous devons nous armer pour le défendre, et nous devons donc militariser le Jutland lui-même."
  
  #Militarise the Islands
- DEN_militarise_the_islands:0 "Militarise Sjaelland"
- DEN_militarise_the_islands_desc:0 "Sjaelland is separated from the mainland by straits in all directions. There is no more secure a place to develop our military production - and there has never been a more pressing time to do so."
+ DEN_militarise_the_islands:0 "Militariser Seeland"
+ DEN_militarise_the_islands_desc:0 "L'île de Seeland est séparée du continent par des détroits dans toutes les directions. Il n'y a pas de lieu plus sûr pour développer notre production militaire - et il n'y a jamais eu de moment plus pressant pour le faire."
  
  #Fortress Denmark
- DEN_fortress_denmark:0 "Fortress Denmark"
- DEN_fortress_denmark_desc:0 "We are surrounded by potential enemies. Our only friend is our naturally inaccessible geography - and we will exploit this to maximum effect. Minimal fortifications should render us completely inaccessible by land with minimal resistance."
+ DEN_fortress_denmark:0 "La forteresse danoise"
+ DEN_fortress_denmark_desc:0 "Nous sommes entourés d'ennemis potentiels. Notre seul ami est notre géographie naturellement inaccessible - et nous allons l'exploiter au maximum. Des fortifications minimales devraient nous rendre totalement inaccessibles par voie terrestre avec une résistance minimale."
  
  #Icelandic Militarisation
- DEN_icelandic_militarisation:0 "Icelandic Militarisation"
- DEN_icelandic_militarisation_desc:0 "Iceland's isolation is both a strength and a weakness. It is difficult to attack - but any defending forces are entirely on their own. We must fortify against a potential incursion, so we can never be taken by surprise."
+ DEN_icelandic_militarisation:0 "Militarisation de l'Islande"
+ DEN_icelandic_militarisation_desc:0 "L'isolement de l'Islande est à la fois une force et une faiblesse. Il est difficile d'attaquer - mais toute force de défense est entièrement autonome. Nous devons nous fortifier contre une incursion potentielle, afin de ne jamais être pris par surprise."
  
  #The Winter Base
- DEN_the_winter_base:0 "The Winter Base"
- DEN_the_winter_base_desc:0 "Greenland is a featureless wasteland of ice, devoid of use except for a small naval base. A little expansion and fortification would go a long way to making it a powerful staging area for future operations."
- DEN_the_winter_base_tt:0 "Add §Y3§! §YInfrastructure§! in §YGreenland§!.\n"
+ DEN_the_winter_base:0 "La base hivernale"
+ DEN_the_winter_base_desc:0 "Le Groenland est un désert de glace sans caractéristiques, dépourvu de toute utilité, à l'exception d'une petite base navale. Un peu d'expansion et de fortification contribuerait grandement à en faire une puissante zone d'étape pour de futures opérations."
+ DEN_the_winter_base_tt:0 "Ajoute §Y3§! §Yinfrastructures§! au §YGroenland§!.\n"
  
  #Industrialise the North Sea Provinces
- DEN_industrialise_the_north_sea_provinces:0 "Industrialise the Faroe Islands & Iceland"
- DEN_industrialise_the_north_sea_provinces_desc:0 "The Faroe Islands and Iceland are isolated in the Atlantic and the North Sea - perfect places to build industry away from our potential enemies in the south and east."
+ DEN_industrialise_the_north_sea_provinces:0 "Industrialiser les îles Féroé et l'Islande"
+ DEN_industrialise_the_north_sea_provinces_desc:0 "Les îles Féroé et l'Islande sont isolées dans l'Atlantique et la mer du Nord - des endroits parfaits pour construire une industrie loin de nos ennemis potentiels au sud et à l'est."
  
  #Upgrade the Ports
- DEN_upgrade_the_ports:0 "Upgrade the Dockyards"
- DEN_upgrade_the_ports_desc:0 "We purport to control the Baltic Sea, and yet we are woefully underdeveloped in our naval industry. Our dockyards must be overhauled if we are to have a hope of producing a serious navy."
+ DEN_upgrade_the_ports:0 "Améliorer les chantiers navals"
+ DEN_upgrade_the_ports_desc:0 "Nous prétendons contrôler la mer Baltique, et pourtant nous sommes terriblement sous-développés dans notre industrie navale. Nos chantiers navals doivent être rénovés si nous voulons avoir l'espoir de produire une marine sérieuse."
  
  #Invest in the Oil and Coal Industry
- DEN_invest_in_the_oil_and_coal_industry:0 "Invest in the Oil and Coal Industry"
- DEN_invest_in_the_oil_and_coal_industry_desc:0 "Fossil fuels are a necessary component of our modern world in almost every aspect, and yet Denmark is producing no usable amounts of them. We must remedy this with governmental investment."
+ DEN_invest_in_the_oil_and_coal_industry:0 "Investir dans l'industrie pétrolière et charbonnière"
+ DEN_invest_in_the_oil_and_coal_industry_desc:0 "Les combustibles fossiles sont une composante nécessaire de notre monde moderne à presque tous les égards, et pourtant le Danemark n'en produit aucune quantité utilisable. Nous devons y remédier par des investissements gouvernementaux."
  
  #Invest in the Steel Industry
- DEN_invest_in_the_steel_industry:0 "Invest in the Steel Industry"
- DEN_invest_in_the_steel_industry_desc:0 "Steel is the driving force and backbone of any military industry, and we must produce our own supply if we are to produce a modern military. A government stake in existing Danish industries will ensure our supply."
+ DEN_invest_in_the_steel_industry:0 "Investir dans l'industrie sidérurgique"
+ DEN_invest_in_the_steel_industry_desc:0 "L'acier est la force motrice et l'épine dorsale de toute industrie militaire, et nous devons produire notre propre approvisionnement si nous voulons produire une armée moderne. Une participation du gouvernement dans les industries danoises existantes garantira notre approvisionnement."
  
  #Fund Danish Universities
- DEN_fund_danish_universities:0 "Fund Danish Universities"
- DEN_fund_danish_universities_desc:0 "Denmark is filled to the brim with great minds who lack the resources to bring out the full potential in themselves and their country. We can and must remedy this. A program of government-subsidised higher education is both logical and necessary."
+ DEN_fund_danish_universities:0 "Financer les universités danoises"
+ DEN_fund_danish_universities_desc:0 "Le Danemark est rempli à ras bord de grands esprits qui n'ont pas les ressources nécessaires pour faire ressortir tout leur potentiel en eux-mêmes et dans leur pays. Nous pouvons et devons remédier à cette situation. Un programme d'enseignement supérieur subventionné par le gouvernement est à la fois logique et nécessaire."
  
  #Theoretical Weaponry
- DEN_theoretical_weaponry:0 "Theoretical Weaponry"
- DEN_theoretical_weaponry_desc:0 "Our investment has paid for itself manyfold. Powerful new applications of exotic new materials have emerged in the Danish scientific community, and we can exploit this newfound knowledge to great and possibly world-changing effect."
+ DEN_theoretical_weaponry:0 "Armement théorique"
+ DEN_theoretical_weaponry_desc:0 "Notre investissement a été largement amorti. De nouvelles applications puissantes de nouveaux matériaux exotiques sont apparues dans la communauté scientifique danoise, et nous pouvons exploiter ces nouvelles connaissances pour obtenir des résultats importants, voire changer le monde."
  
  #North Sea RADAR
- DEN_north_sea_RADAR:0 "North Sea RADAR"
- DEN_north_sea_RADAR_desc:0 "Radio detection is the latest concept in intelligence, and it may give us the capacity to see potential threats well into the North Sea. We have an opportunity to install this system now - we should not pass this up."
+ DEN_north_sea_RADAR:0 "Radar de la mer du Nord"
+ DEN_north_sea_RADAR_desc:0 "La détection radio est le dernier concept en date dans le domaine du renseignement, et elle pourrait nous permettre de voir les menaces potentielles bien au-delà de la mer du Nord. Nous avons la possibilité d'installer ce système dès maintenant - nous ne devons pas laisser passer cette occasion."
  
  ########################
  ### MILITARY SECTION ###
@@ -135,270 +135,270 @@
  
  #Army Reforms
  DEN_army_reforms:0 "Army Reforms"
- DEN_army_reforms_desc:0 "On an international scale, our army is both small and under-equipped. We must put serious effort into modernizing our tactics and equipment, or else we will be overtaken figuratively and literally by larger forces."
+ DEN_army_reforms_desc:0 "À l'échelle internationale, notre armée est à la fois petite et sous-équipée. Nous devons faire de sérieux efforts pour moderniser nos tactiques et nos équipements, sinon nous serons dépassés, au sens propre et au sens figuré, par des forces plus importantes."
  
  #Form The Danish Volunteer Corps
- DEN_form_the_danish_volunteer_corps:0 "Form the Danish Volunteer Korps"
- DEN_form_the_danish_volunteer_corps_desc:0 "We cannot fight every war on earth, but it is in our best interests to be involved in the ones that might be relevant to our international interests. The Danish Volunteer Korps will be a useful way to fight proxy wars abroad."
+ DEN_form_the_danish_volunteer_corps:0 "Former le corps de volontaires danois"
+ DEN_form_the_danish_volunteer_corps_desc:0 "Nous ne pouvons pas mener toutes les guerres du monde, mais il est dans notre intérêt de participer à celles qui pourraient être pertinentes pour nos intérêts internationaux. Le corps des volontaires danois sera un moyen utile de mener des guerres par procuration à l'étranger."
  
  #Expand Foreign Operations
- DEN_expand_foreign_operations:0 "Expand Foreign Operations"
- DEN_expand_foreign_operations_desc:0 "Our small population makes it difficult to lend aid to our foreign allies, but we must offer help if we are to secure our interests and oppose the dangerous elements loose in the world today. Expansion of our foreign operations is just the ticket."
+ DEN_expand_foreign_operations:0 "Développer les opérations à l'étranger"
+ DEN_expand_foreign_operations_desc:0 "Notre faible population rend difficile l'aide à nos alliés étrangers, mais nous devons offrir notre aide si nous voulons défendre nos intérêts et nous opposer aux éléments dangereux qui sont en liberté dans le monde aujourd'hui. L'expansion de nos opérations à l'étranger n'est qu'un moyen d'y parvenir."
  
  #Foreign Military Advisors
  DEN_foreign_military_advisors:0 "Dansk Industri Syndikat"
- DEN_foreign_military_advisors_desc:0 "The Dansk Industri Syndikat are a company that mainly specialises in the casting of metal. A little political and economic leverage should go a long way towards convincing them to specialise further into producing weapons for the Danish army."
+ DEN_foreign_military_advisors_desc:0 "Le Dansk Industri Syndikat est une entreprise qui se spécialise principalement dans la fonte des métaux. Un peu d'influence politique et économique devrait contribuer à les convaincre de se spécialiser davantage dans la production d'armes pour l'armée danoise."
  
  #German Military Doctrine
- DEN_german_military_doctrine:0 " German Arms & Armour"
- DEN_german_military_doctrine_desc:0 "For many people the developing German war machine is a source of considerable opportunity. Our military advisors spy an opportunity in their armour technology - if we can deal with the access to our internal politics this gives them."
+ DEN_german_military_doctrine:0 "Armes et blindés allemands"
+ DEN_german_military_doctrine_desc:0 "Pour beaucoup de gens, la machine de guerre allemande en développement est une source d'opportunités considérables. Nos conseillers militaires espionnent une opportunité dans leur technologie de blindage - si nous pouvons nous occuper de l'accès à notre politique intérieure que cela leur donne."
  
  #Soviet Military Doctrine
- DEN_soviet_military_doctrine:0 " Soviet Arms & Artillery"
- DEN_soviet_military_doctrine_desc:0 "If there is one thing that has come out of the Soviet Union in large amounts in recent years, it is guns. Soviet artillery stands to revolutionise the field, but we must consider their revolutionary intent if we are to explore this field."
+ DEN_soviet_military_doctrine:0 "Armes et artillerie soviétiques"
+ DEN_soviet_military_doctrine_desc:0 "If there is one thing that has come out of the Soviet Union in large amounts in recent years, it is guns. SovieRéformes de l'arméet artillery stands to revolutionise the field, but we must consider their revolutionary intent if we are to explore this field."
  
  #British Military Doctrine
- DEN_british_military_doctrine:0 " British Arms & Electronics"
- DEN_british_military_doctrine_desc:0 "The British have recently made great advances in electronics and mechanical engineering. With a little political give and take, we can gain access to this field, and all the potential it contains, with British expertise."
+ DEN_british_military_doctrine:0 "Armes et électronique britanniques"
+ DEN_british_military_doctrine_desc:0 "Les Britanniques ont récemment fait de grands progrès dans le domaine de l'électronique et de l'ingénierie mécanique. Avec un peu de concessions politiques, nous pouvons accéder à ce domaine, et à tout le potentiel qu'il contient, grâce à l'expertise britannique."
  
  #Infantry Focus
- DEN_infantry_focus:0 "Infantry Focus"
- DEN_infantry_focus_desc:0 "Engine-driven warfare has changed the face of the world, but infantry are still the backbone of any strong army. We should direct our efforts accordingly."
+ DEN_infantry_focus:0 "Priorité à l'infanterie"
+ DEN_infantry_focus_desc:0 "La guerre motorisée a changé la face du monde, mais l'infanterie reste l'épine dorsale de toute armée forte. Nous devrions orienter nos efforts en conséquence."
 
  #Mechanised Focus
- DEN_mechanised_focus:0 "Mechanised Focus"
- DEN_mechanised_focus_desc:0 "The ability to transport infantry and equipment over great distances quickly used to be limited by the breeding stock of the nation's horses. Now we can just produce all the horsepower we need in a factory. We should exploit this as a priority."
+ DEN_mechanised_focus:0 "Priorité au mécanisé"
+ DEN_mechanised_focus_desc:0 "La capacité à transporter l'infanterie et l'équipement sur de grandes distances était rapidement limitée par le stock de chevaux de la nation. Aujourd'hui, nous pouvons simplement produire tous les moteurs dont nous avons besoin dans une usine. Nous devrions exploiter cela en priorité."
 
  #Armor Focus
- DEN_armor_focus:0 "Armour Focus"
- DEN_armor_focus_desc:0 "Tanks were unwieldy and tactically inflexible during the Great War, but this has changed in recent years. We should direct research into the possibilities of modern armor."
+ DEN_armor_focus:0 "Priorité aux blindés"
+ DEN_armor_focus_desc:0 "Les chars étaient peu maniables et tactiquement inflexibles pendant la Grande Guerre, mais cela a changé ces dernières années. Nous devrions orienter les recherches sur les possibilités des blindages modernes."
  
  #Modernise the Army
- DEN_modernise_the_army:0 "Modernise the Army"
- DEN_modernise_the_army_desc:0 "Directed research efforts are well and good, but we must still improve across the board to bring our arms and armor into the competitive ranks. There is improvement to be made in all areas, always."
+ DEN_modernise_the_army:0 "Moderniser l'armée"
+ DEN_modernise_the_army_desc:0 "Les efforts de recherche dirigés sont bons, mais nous devons encore nous améliorer dans tous les domaines pour amener nos armes et nos blindés dans les rangs de la concurrence. Il y a des améliorations à faire dans tous les domaines, toujours."
  
  #Found the Danish Air Force
- DEN_found_the_danish_air_force:0 "Found the Danish Air Force"
- DEN_found_the_danish_air_force_desc:0 "Not long ago the naval and army air corps of the Danish military were formed. The time has come to produce our own dedicated airforce as a branch of our military unto itself. Expansion of our facilities and updated aeronautical designs are a start."
+ DEN_found_the_danish_air_force:0 "Fonder l'Armée de l'air danoise"
+ DEN_found_the_danish_air_force_desc:0 "Il n'y a pas longtemps, les corps d'aviation de la marine et de l'armée de terre de l'armée danoise ont été formés. Le temps est venu de créer notre propre force aérienne, une branche de notre armée à part entière. L'expansion de nos installations et la mise à jour de nos conceptions aéronautiques sont un début."
  
  #Indigenious Designs
  DEN_indigenious_designs:0 "Skandinavisk Aero Industri"
- DEN_indigenious_designs_desc:0 "Now that our airforce is formally in existence, we can focus our efforts on fighter production. Skandinavisk Aero Industri is a private-sector company that may be able to streamline our efforts and produce superior warplane designs."
+ DEN_indigenious_designs_desc:0 "Maintenant que notre force aérienne existe officiellement, nous pouvons concentrer nos efforts sur la production de chasseurs. Skandinavisk Aero Industri est une entreprise du secteur privé qui pourrait être en mesure de rationaliser nos efforts et de produire des avions de combat de conception supérieure."
  
  #Luftwaffe Tactics
- DEN_luftwaffe_tacticts:0 "German Naval Bombers"
- DEN_luftwaffe_tacticts_desc:0 "German naval efforts have created a generation of advanced naval bombers, ideal for our efforts in the North Sea and Baltic. Opening ourselves up to their military input may well expose us to their ideology, however."
+ DEN_luftwaffe_tacticts:0 "Bombardiers navals allemands"
+ DEN_luftwaffe_tacticts_desc:0 "Les efforts navals allemands ont créé une génération de bombardiers navals avancés, idéale pour nos efforts en mer du Nord et en mer Baltique. Cependant, nous ouvrir à leur contribution militaire pourrait bien nous exposer à leur idéologie."
  
  #Royal Air Force Tactics
- DEN_royal_air_force_tacticts:0 "British Heavy Bombers"
- DEN_royal_air_force_tacticts_desc:0 "The British have in circulation many revolutionary strategic aircraft, capable of dropping massive loads of explosive and incendiary ordinance over extreme distances. They may share these designs - if we offer some political concessions."
+ DEN_royal_air_force_tacticts:0 "Bombardiers lourds britanniques"
+ DEN_royal_air_force_tacticts_desc:0 "Les Britanniques ont en circulation de nombreux avions stratégiques révolutionnaires, capables de larguer des charges massives d'explosifs et d'engins incendiaires sur des distances extrêmes. Ils peuvent partager ces conceptions - si nous leur offrons quelques concessions politiques."
  
  #Soviet Air Force Tactics
- DEN_soviet_air_force_tacticts:0 "Soviet Medium Bombers"
- DEN_soviet_air_force_tacticts_desc:0 "The Soviets have many new and interesting ideas in the field of tactical bombers, and they may share these designs with us - we should be wary of their unceasing efforts to spread their revolution in the process, however.""
+ DEN_soviet_air_force_tacticts:0 "Bombardiers moyens soviétiques"
+ DEN_soviet_air_force_tacticts_desc:0 "Les Soviétiques ont de nombreuses idées nouvelles et intéressantes dans le domaine des bombardiers tactiques, et ils peuvent partager ces conceptions avec nous - nous devons cependant nous méfier de leurs efforts incessants pour répandre leur révolution dans le processus."
  
  #Expand the Air Force
- DEN_expand_the_air_force:0 "Expand the Air Force"
- DEN_expand_the_air_force_desc:0 "With some external consultation and hard work, we have created something like the foundation of a modern airforce. However, our work is not nearly done. Further expansion is very necessary to ensure the security of our skies."
+ DEN_expand_the_air_force:0 "Développer l'Armée de l'air"
+ DEN_expand_the_air_force_desc:0 "Grâce à des consultations externes et à un travail acharné, nous avons créé quelque chose qui ressemble aux fondations d'une force aérienne moderne. Cependant, notre travail est loin d'être terminé. Une nouvelle expansion est très nécessaire pour assurer la sécurité de notre ciel."
  
  #Keep the Seas Clear
- DEN_keep_the_seas_clear:0 "Keep the Straits Clear"
- DEN_keep_the_seas_clear_desc:0 "The Baltic Sea - and especially the waters around our own Danish belt - is of vital strategic importance. We must direct our efforts towards development of updated naval torpedo planes to keep our home waters safe."
+ DEN_keep_the_seas_clear:0 "Sécuriser la mer"
+ DEN_keep_the_seas_clear_desc:0 "La mer Baltique - et en particulier les eaux qui entourent notre propre détroit danois - est d'une importance stratégique vitale. Nous devons orienter nos efforts vers le développement d'avions torpilles navals modernisés pour assurer la sécurité de nos eaux intérieures."
  
  #Keep the Skies Clear
- DEN_keep_the_skies_clear:0 "Keep Denmark Clear"
- DEN_keep_the_skies_clear_desc:0 "Our navy will look after the straits. The concern of our airforce must be keeping the skies over Denmark itself clear of outside forces, and our research efforts must reflect this. Updated fighter models are a priority."
+ DEN_keep_the_skies_clear:0 "Sécuriser le Danemark"
+ DEN_keep_the_skies_clear_desc:0 "Notre marine s'occupera des détroits. La préoccupation de notre force aérienne doit être de garder le ciel au-dessus du Danemark lui-même à l'abri des forces extérieures, et nos efforts de recherche doivent en tenir compte. La mise à jour des modèles de chasseurs est une priorité."
 
 #Jet Experiments
-DEN_jet_experiments:0 "Jet Experiments"
-DEN_jet_experiments_desc:0 "Theoretical research has presented to us the possibility of a new kind of air engine, which makes use of internal jet turbines to produce unprecedented speed, range and agility in cutting-edge fighter and bomber models."
+DEN_jet_experiments:0 "Expérimentations sur les avions à réaction"
+DEN_jet_experiments_desc:0 "La recherche théorique nous a présenté la possibilité d'un nouveau type de moteur aérien, qui utilise des turbines à réaction internes pour produire une vitesse, une portée et une agilité sans précédent dans les modèles de chasseurs et de bombardiers de pointe."
 
 #Expand Naval Operations
-DEN_expand_naval_operations:0 "Expand Naval Operations"
-DEN_expand_naval_operations_desc:0 "The Baltic and North Sea are key to the security of our nation. To secure our place amongst the waves, we must expand our naval production and maintenance capabilities."
+DEN_expand_naval_operations:0 "Développer les opérations navales"
+DEN_expand_naval_operations_desc:0 "La mer Baltique et la mer du Nord sont essentielles à la sécurité de notre nation. Pour assurer notre place parmi les vagues, nous devons développer nos capacités de production et de maintenance navales."
 
 #Secure the Straits
-DEN_secure_the_straits:0 "Secure the Straits"
+DEN_secure_the_straits:0 "Sécuriser les détroits"
 DEN_secure_the_straits_desc:0 "We cannot trust chance to keep our domestic waters safe. We must fortify against naval invasion - as a partially island-based nation, we are particularly vulnerable to this strategy."
 
 #Naval Wolf Packs
-DEN_naval_wolf_packs:0 "Naval Wolf Packs"
-DEN_naval_wolf_packs_desc:0 "We cannot hope to produce a navy to challenge the industrial giants on all sides, but we can attempt to starve them out with submarine packs of our own. We should direct research and production into U-boat designs."
+DEN_naval_wolf_packs:0 "Loups de mer"
+DEN_naval_wolf_packs_desc:0 "Nous ne pouvons pas espérer produire une marine pour défier les géants industriels de tous bords, mais nous pouvons tenter de les affamer avec nos propres sous-marins. Nous devrions orienter la recherche et la production vers la conception de sous-marins."
 
 #Home Sea Defence
-DEN_home_sea_defence:0 "Home Sea Defence"
-DEN_home_sea_defence_desc:0 "We share coastline in the Baltic Sea with both the Soviets and the Nazis. If we are to hope to maintain our naval security, we must direct research into updating our inland sea fleet."
+DEN_home_sea_defence:0 "Défense maritime intérieure"
+DEN_home_sea_defence_desc:0 "Nous partageons les côtes de la mer Baltique avec les Soviétiques et les Nazis. Si nous voulons espérer maintenir notre sécurité navale, nous devons orienter les recherches vers la modernisation de notre flotte de navigation intérieure."
 
 #North Sea Superiority
-DEN_north_sea_superiority:0 "North Sea Superiority"
-DEN_north_sea_superiority_desc:0 "With some very real industrial effort and directed prototyping, we may be able to project our naval forces into the North Sea. Right now our forces cannot safely engage anything more than a light incursion - but we can easily become a naval power."
+DEN_north_sea_superiority:0 "Supériorité en mer du Nord"
+DEN_north_sea_superiority_desc:0 "Avec un effort industriel très sérieux et un prototypage dirigé, nous pourrions être en mesure de projeter nos forces navales dans la mer du Nord. Pour l'instant, nos forces ne peuvent engager en toute sécurité rien de plus qu'une légère incursion - mais nous pouvons facilement devenir une puissance navale."
 
 #Danish Merchant Marine
-DEN_danish_merchant_marine:0 "Danish Merchant Marine"
-DEN_danish_merchant_marine_desc:0 "The key to our entire industrial operation, from land to air to sea, is the ability to safely bring resources from our trade partners to our shores. A dedicated Merchant Navy would go a long way towards assuring this."
+DEN_danish_merchant_marine:0 "Marine marchande danoise"
+DEN_danish_merchant_marine_desc:0 "La clé de toute notre activité industrielle, de la terre à l'air en passant par la mer, est la capacité à faire venir en toute sécurité sur nos côtes les ressources de nos partenaires commerciaux. Une marine marchande dévouée contribuerait grandement à assurer cette sécurité."
 
 #German Dealings
-DEN_german_dealings:0 "German U-Boat Programme"
-DEN_german_dealings_desc:0 "The reports of ridiculously advanced German U-boats have not gone unnoticed by our naval advisors. We are interested in attaining some of this revolutionary stealth technology for ourselves - and the Germans are interested in potential allies."
+DEN_german_dealings:0 "Programme allemand de U-Boats"
+DEN_german_dealings_desc:0 "Les rapports sur les U-boats allemands ridiculement avancés ne sont pas passés inaperçus de nos conseillers navals. Nous sommes intéressés par l'acquisition d'une partie de cette technologie furtive révolutionnaire pour nous-mêmes - et les Allemands sont intéressés par des alliés potentiels."
 
 #British Dealings
-DEN_british_dealings:0 "British Battleship Programme"
-DEN_british_dealings_desc:0 "The British navy was famous in the Great War, and remains so. They have developed some revolutionary battleship models, and may share them if we show some token loyalty to the democratic ideal."
+DEN_british_dealings:0 "Programme britannique de cuirassés"
+DEN_british_dealings_desc:0 "La marine britannique était célèbre pendant la Grande Guerre, et elle l'est toujours. Elle a développé des modèles de cuirassés révolutionnaires, et pourrait les partager si nous faisons preuve d'une certaine loyauté symbolique envers l'idéal démocratique."
 
 #Soviet Dealings
-DEN_soviet_dealings:0 "Soviet Cruiser Programme"
-DEN_soviet_dealings_desc:0 "The Soviet presence in the Baltic cannot be denied, and their experience with seafaring goes back almost as far as ours. Their strong industrial base has produced some revolutionary cruisers - but they will take any chance to export their revolution."
+DEN_soviet_dealings:0 "Programme soviétique de croiseurs"
+DEN_soviet_dealings_desc:0 "La présence soviétique dans la Baltique ne peut être niée, et leur expérience de la navigation remonte presque aussi loin que la nôtre. Leur forte base industrielle a produit quelques croiseurs révolutionnaires, mais ils sont prêts à tout pour exporter leur révolution."
 
 #Control the Baltic
-DEN_control_the_baltic:0 "Control the Baltic"
-DEN_control_the_baltic_desc:0 "We cannot hand control of the Baltic Sea to any other outside force. We must make preparations to field a larger navy, and be ready to use it to secure our domestic waters."
+DEN_control_the_baltic:0 "Contrôler la Baltique"
+DEN_control_the_baltic_desc:0 "Nous ne pouvons confier le contrôle de la mer Baltique à aucune autre force extérieure. Nous devons nous préparer à mettre en place une marine plus importante et être prêts à l'utiliser pour sécuriser nos eaux nationales."
 
 #########################
 ### POLITICAL SECTION ###
 #########################
  
 #International Relations
-DEN_international_relations:0 "International Relations"
-DEN_international_relations_desc:0 "Our nation is small, but our strategic position astride the Great Belt and our belligerent neighbours to the south and east ensure that we will find allies. We have only to reach out and see who will take the offered hand."
+DEN_international_relations:0 "Relations internationales"
+DEN_international_relations_desc:0 "Notre nation est petite, mais notre position stratégique à cheval sur le Grand Belt et nos voisins belligérants au sud et à l'est nous assurent de trouver des alliés. Il nous suffit de tendre la main et de voir qui prendra la main offerte."
 
 #An Empire Once More
-DEN_an_empire_once_more:0 "Recreate the Kalmar Union"
-DEN_an_empire_once_more_desc:0 "The machinations of Denmark were the unifying lynchpin in the alliance of the nations of Denmark, Norway and Sweden in 1397. The time has come to revive that union, now that we are once again working towards shared goals."
-DEN_an_empire_once_more_tt:0 "Denmark owns or has puppets that control §YStockhom§! and §YOslo§!"
+DEN_an_empire_once_more:0 "Recréer l'Union de Kalmar"
+DEN_an_empire_once_more_desc:0 "Les manœuvres du Danemark ont été la clé de l'alliance des nations du Danemark, de la Norvège et de la Suède en 1397. Le temps est venu de relancer cette union, maintenant que nous travaillons à nouveau à des objectifs communs."
+DEN_an_empire_once_more_tt:0 "Le Danemark possède ou a des fantoches qui contrôlent §YStockholm§! et §YOslo§!"
 
 ####FASCIST SECTION####
 
 #Nationalist Teachings
-DEN_nationalist_teachings:0 "Nationalist Teachings"
-DEN_nationalist_teachings_desc:0 "The most overrated ideal of an 'enlightened' society is the idea that power lies in reliance on outside forces. The time has come and gone that we seized our own destiny - but it may not be too late."
+DEN_nationalist_teachings:0 "Enseignements nationalistes"
+DEN_nationalist_teachings_desc:0 "L'idéal le plus surfait d'une société « éclairée » est l'idée que le pouvoir réside dans la dépendance à l'égard des forces extérieures. Le temps est venu et passé où nous avons pris en main notre propre destin - mais il n'est peut-être pas trop tard."
 
 #Right Wing Rallies
-DEN_right_wing_rallies:0 "Right-Wing Rallies"
-DEN_right_wing_rallies_desc:0 "The democratic powers that be are fond of preaching freedom of speech as an ideal to be pursued, but never before have they allowed the nationalist voice of reason to speak out. We will correct that error by any means we must employ."
+DEN_right_wing_rallies:0 "Ralliement de la droite"
+DEN_right_wing_rallies_desc:0 "Les pouvoirs démocratiques aiment prêcher la liberté d'expression comme un idéal à poursuivre, mais jamais auparavant ils n'avaient permis à la voix nationaliste de la raison de s'exprimer. Nous corrigerons cette erreur par tous les moyens dont nous disposons."
 
 #Denmark Stands Alone
-DEN_denmark_stands_alone:0 "Denmark Stands Alone"
-DEN_denmark_stands_alone_desc:0 "We may not have always been proud of our government, but we were always proud of our nation. The Nazis were quick to befriend us once our goals aligned with theirs, but it is easy to see through their lies to their imperialist aims."
+DEN_denmark_stands_alone:0 "Le Danemark reste seul"
+DEN_denmark_stands_alone_desc:0 "Nous n'avons peut-être pas toujours été fiers de notre gouvernement, mais nous avons toujours été fiers de notre nation. Les nazis ont été prompts à se lier d'amitié avec nous une fois que nos objectifs se sont alignés sur les leurs, mais il est facile de voir à travers leurs mensonges leurs objectifs impérialistes."
 
 #Befriend Germany
-DEN_befriend_germany:0 "Befriend Germany"
-DEN_befriend_germany_desc:0 "A man with pride in his country is rare and precious in this day and age, and the pride of Hitler and his Nazis in their united country is particularly admirable, and equal to ours. Our goals are complimentary - and our course of action is clear."
+DEN_befriend_germany:0 "Se rapprocher de l'Allemagne"
+DEN_befriend_germany_desc:0 "Un homme fier de son pays est rare et précieux à notre époque, et la fierté d'Hitler et de ses nazis dans leur pays uni est particulièrement admirable, et égale à la nôtre. Nos objectifs sont complémentaires - et notre ligne de conduite est claire."
 
 #Viking Heraldry
-DEN_viking_heraldry:0 "Viking Heraldry"
-DEN_viking_heraldry_desc:0 "In days long gone, Europe feared the raiding Danes, who took what they wanted with fire and axework. We have forgotten a great deal of exemplary and necessary history. We must remind the people of who built their country."
+DEN_viking_heraldry:0 "L'héritage Viking"
+DEN_viking_heraldry_desc:0 "Autrefois, l'Europe craignait les raids des Danois, qui prenaient ce qu'ils voulaient avec du feu et des haches. Nous avons oublié une grande partie de l'histoire exemplaire et nécessaire. Nous devons rappeler aux gens qui ont construit leur pays."
 
 #Conquerors of Scandanavia
-DEN_conquerors_of_scandanavia:0 "Conquerors of Scandanavia"
-DEN_conquerors_of_scandanavia_desc:0 "Denmark has always held a position integral to both control of the Baltic Sea and control of Scandinavia itself. We hold the key to the entire Scandinavian Peninsula - and the weak, transient democratic states in the north will not stand in our way."
+DEN_conquerors_of_scandanavia:0 "Les conquérants de Scandinavie"
+DEN_conquerors_of_scandanavia_desc:0 "Le Danemark a toujours occupé une position qui fait partie intégrante du contrôle de la mer Baltique et de la Scandinavie elle-même. Nous détenons la clé de toute la péninsule scandinave - et les États démocratiques faibles et transitoires du nord ne nous feront pas obstacle."
 
 #Rally Beneath The Dannebrog
-DEN_rally_beneath_the_dannebrog:0 "Rally Beneath the Dannebrog"
-DEN_rally_beneath_the_dannebrog_desc:0 "Even our pure and proud population will have its share of malcontents and cowards, but raise the flag and all good patriots will flock to it. Come one, come all, proud citizens of Denmark. Rally beneath the Dannebrog!"
+DEN_rally_beneath_the_dannebrog:0 "Rassemblement sous le Dannebrog"
+DEN_rally_beneath_the_dannebrog_desc:0 "Même notre population pure et fière aura sa part de mécontents et de lâches, mais hissez le drapeau et tous les bons patriotes y afflueront. Venez, venez tous, fiers citoyens du Danemark. Rassemblez-vous sous le Dannebrog !"
 
 #Invade Osel
-DEN_invade_osel:0 "Invade Ösel"
-DEN_invade_osel_desc:0 "To an Estonian, the island of Osel may well be called home. To a Dane, it's an opportunity to cement Danish control over the Baltic. A swift invasion may be prudent."
+DEN_invade_osel:0 "Envahir Ösel"
+DEN_invade_osel_desc:0 "Pour un Estonien, l'île d'Osel peut très bien être considérée comme sa maison. Pour un Danois, c'est l'occasion de consolider le contrôle danois sur la Baltique. Une invasion rapide pourrait être judicieuse."
 
 #Control Riga
-DEN_control_riga:0 "Control Riga"
-DEN_control_riga_desc:0 "Latvia is not an imposing power, but their capital, Riga, is still a centre of Baltic industry.we must secure Latvia, and secure our influence in the Baltic states."
+DEN_control_riga:0 "Contrôler Riga"
+DEN_control_riga_desc:0 "La Lettonie n'est pas une puissance imposante, mais sa capitale, Riga, est toujours un centre de l'industrie balte. Nous devons sécuriser la Lettonie, et assurer notre influence dans les pays baltes."
 
 #Close The Baltic Gap
-DEN_close_the_baltic_gap:0 "Close the Baltic Gap"
-DEN_close_the_baltic_gap_desc:0 "The Soviets specialise in projecting themselves into spaces they're not welcome in. The time has come to remove our main enemy from the Baltic Sea. For the good of our people, we will take Leningrad from the Soviet bear."
+DEN_close_the_baltic_gap:0 "Fermer la Baltique"
+DEN_close_the_baltic_gap_desc:0 "Les Soviétiques sont spécialisés dans la projection dans des espaces où ils ne sont pas les bienvenus. Le temps est venu de retirer notre principal ennemi de la mer Baltique. Pour le bien de notre peuple, nous allons prendre Léningrad à l'ours soviétique."
 
 #Industrialise Latvia
-DEN_industrialise_latvia:0 "Industrialise Latvia"
-DEN_industrialise_latvia_desc:0 "Latvia is a strong staging point across the sea, but it is pitifully underdeveloped. We will take steps to remedy this and secure a strong foothold on the Soviet land border."
-DEN_industrialise_latvia_tt:0 "Add maximum §YInfrastructure§! in §YKurzeme§! and §YVidzeme§!\n"
+DEN_industrialise_latvia:0 "Industrialiser la Lettonie"
+DEN_industrialise_latvia_desc:0 "La Lettonie est une étape importante de l'autre côté de la mer, mais elle est pitoyablement sous-développée. Nous prendrons des mesures pour remédier à cette situation et nous assurer un solide ancrage à la frontière terrestre soviétique."
+DEN_industrialise_latvia_tt:0 "Ajoute le maximum d'§Yinfrastructure§! en §YCourlande§! et en §YVidzeme§!\n"
 
 #Industrialise Estonia
-DEN_industrialise_estonia:0 "Industrialise Estonia"
-DEN_industrialise_estonia_desc:0 "The Estonian islands as staging points are useful, but Estonia itself also presents an opportunity to increase our production across the board. We should leverage this opportunity."
-DEN_industrialise_estonia_tt:0 "Add maximum §YInfrastructure§! in §YHarju§! and §YTartu§!\n"
+DEN_industrialise_estonia:0 "Industrialiser l'Estonie"
+DEN_industrialise_estonia_desc:0 "Les îles estoniennes en tant que points d'étape sont utiles, mais l'Estonie elle-même présente également une opportunité d'augmenter notre production dans tous les domaines. Nous devrions tirer parti de cette opportunité."
+DEN_industrialise_estonia_tt:0 "Ajoute le maximum d'§Yinfrastructure§! en §YHarju§! et en §YTartu§!\n"
 
 #Reclaim Schleswig-Holstein
-DEN_reclaim_schleswig_holstein:0 "Reclaim Schleswig-Holstein"
-DEN_reclaim_schleswig_holstein_desc:0 "'Schleswig-Holstein' is what the Germans are fond of calling South Jutland nowadays. They readily forget that they took it from the Danish royalty in the long-ago. Perhaps we should show them how long the memory of the Dane can be."
+DEN_reclaim_schleswig_holstein:0 "Récupérer le Schleswig-Holstein"
+DEN_reclaim_schleswig_holstein_desc:0 "Le « Schleswig-Holstein » est ce que les Allemands se plaisent à appeler aujourd'hui le Jutland du Sud. Ils oublient volontiers qu'ils l'ont pris à la royauté danoise il y a longtemps. Peut-être devrions-nous leur montrer combien la mémoire des Danois peut être longue."
 
 #Influence France
-DEN_influence_france:0 "Influence France"
-DEN_influence_france_desc:0 "The French have been through a great deal, and it seems that they have a great deal more to go through. French national pride may be at an all-time low, but we should take steps to reawaken that old identity."
+DEN_influence_france:0 "Influencer la France"
+DEN_influence_france_desc:0 "Les Français ont vécu beaucoup de choses et il semble qu'ils aient encore beaucoup de choses à vivre. La fierté nationale française est peut-être au plus bas, mais nous devrions prendre des mesures pour réveiller cette ancienne identité."
 
 #Befriend France
-DEN_befriend_france:0 "Befriend France"
-DEN_befriend_france_desc:0 "The nationalist party of France has come into its own recently, and a powerful alliance is waiting for us to step forward and forge it. We stand ready to act with French national interests at heart."
+DEN_befriend_france:0 "Se rapprocher de la France"
+DEN_befriend_france_desc:0 "Le parti nationaliste français a récemment pris son essor et une puissante alliance nous attend. Nous sommes prêts à agir en ayant à cœur les intérêts nationaux français."
 
 #Reclaim Normandy
-DEN_reclaim_normandy:0 "Reclaim Normandy"
-DEN_reclaim_normandy_desc:0 "The fiefdom of Normandy which the British so proudly occupied in the dark ages was created by and for a Dane - Hrolf Ragnvaldsson. France has had time to seize its own destiny. It is time we took ours."
+DEN_reclaim_normandy:0 "Reconquérir la Normandie"
+DEN_reclaim_normandy_desc:0 "Le fief de Normandie que les Britanniques ont si fièrement occupé au cours de l'âge des ténèbres a été créé par et pour un Danois - Hrolf Ragnvaldsson. La France a eu le temps de prendre en main son propre destin. Il est temps que nous prenions le nôtre."
 
 #Influence Britain
-DEN_influence_britain:0 "Influence Britain"
-DEN_influence_britain_desc:0 "In the not-so-distant past, Britain was a proud colonial power, with control over a huge swathe of the world. It has descended from that former glory, and now is practically beholden to its own commonwealth. We should reawaken the old imperial giant."
+DEN_influence_britain:0 "Influencer le Royaume-Uni"
+DEN_influence_britain_desc:0 "Dans un passé pas si lointain, la Grande-Bretagne était une fière puissance coloniale, qui contrôlait une grande partie du monde. Elle est descendue de cette gloire passée, et est maintenant pratiquement redevable à son propre Commonwealth. Nous devrions réveiller le vieux géant impérial."
 
 #Befriend Britain
-DEN_befriend_britain:0 "Befriend Britain"
-DEN_befriend_britain_desc:0 "Long ago, Britain was the target of unchecked Danish raiding. We may be proud of our past, but we recognise that Britain now is a valuable ally, and we are prepared to put that past well behind us to forge a future together."
+DEN_befriend_britain:0 "Se rapprocher du Royaume-Uni"
+DEN_befriend_britain_desc:0 "Il y a longtemps, la Grande-Bretagne a été la cible de raids danois incontrôlés. Nous sommes peut-être fiers de notre passé, mais nous reconnaissons que la Grande-Bretagne est aujourd'hui un allié précieux et nous sommes prêts à laisser ce passé derrière nous pour forger un avenir ensemble."
 
 #Operation Longboat
-DEN_operation_longboat:0 "Operation Longboat"
-DEN_operation_longboat_desc:0 "Britain, especially the Scottish lands, was once practically Norse territory. How can we entrust the Britons with their own territory? We should revive the old Danish raiding culture, and take these lands for our own."
+DEN_operation_longboat:0 "Opération Longboat"
+DEN_operation_longboat_desc:0 "La Grande-Bretagne, en particulier les terres écossaises, était autrefois pratiquement un territoire scandinave. Comment peut-on confier aux Britanniques leur propre territoire ? Nous devrions faire revivre l'ancienne culture des raids danois et nous approprier ces terres."
 
 #Influence Norway
-DEN_influence_norway:0 "Influence Norway"
-DEN_influence_norway_desc:0 "The Norwegians had a proud history once upon a time, but they have willfully forgotten it in favor of a gentler, weaker path. No matter - we remember who the vikings were, and we shall remind them."
+DEN_influence_norway:0 "Influencer la Norvège"
+DEN_influence_norway_desc:0 "Les Norvégiens ont eu une histoire fière dans le passé, mais ils l'ont volontairement oubliée au profit d'un chemin plus doux et plus faible. Peu importe - nous nous souvenons de qui étaient les vikings, et nous le leur rappellerons."
 
 #Cross The Straits
-DEN_cross_the_strait:0 "Cross the Strait"
-DEN_cross_the_strait_desc:0 "Perhaps Norway can be relied upon to see sense. Perhaps not. Either way, we have waited long enough to bring true Scandinavian land into the true Scandinavian fold. A war of unification is our right and only course."
+DEN_cross_the_strait:0 "Franchir le détroit"
+DEN_cross_the_strait_desc:0 "On peut peut-être compter sur la Norvège pour y voir clair. Peut-être pas. Quoi qu'il en soit, nous avons attendu assez longtemps pour faire entrer la vraie terre scandinave dans le vrai pays scandinave. Une guerre d'unification est notre droit et notre seule voie."
 
 #Befriend Norway
-DEN_befriend_norway:0 "Puppet Norway"
-DEN_befriend_norway_desc:0 "The Norwegian people have seen sense in their internal policy - and since we are so closely aligned, why not bring our nations even closer together? With Norwegian military cooperation, we can together only succeed."
+DEN_befriend_norway:0 "Assujetir la Norvège"
+DEN_befriend_norway_desc:0 "Le peuple norvégien a compris le sens de sa politique intérieure - et puisque nous sommes si étroitement alignés, pourquoi ne pas rapprocher encore plus nos nations ? Avec la coopération militaire norvégienne, nous ne pouvons que réussir ensemble."
 
 #Influence Sweden
-DEN_influence_sweden:0 "Influence Sweden"
-DEN_influence_sweden_desc:0 "The Swedish empire was a world power as early as three hundred years ago. Perhaps we can stir the old imperial giant to action once again, and rouse the Swedish population to stand proudly under their own banners."
+DEN_influence_sweden:0 "Influencer la Suède"
+DEN_influence_sweden_desc:0 "L'empire suédois était déjà une puissance mondiale il y a trois cents ans. Peut-être pouvons-nous inciter le vieux géant impérial à agir une fois de plus, et inciter la population suédoise à se tenir fièrement sous ses propres bannières."
 
 #Befriend Sweden
-DEN_befriend_sweden:0 "Puppet Sweden"
-DEN_befriend_sweden_desc:0 "The Swedish seem to have realized that they were great once - and have announced to the world their intent to be great again. It is only right and proper that they meet in cooperation with us, who guided them so patiently to the right and proper way."
-DEN_befriend_sweden_tt:0 "If Sweden accepts, transfers ownership of §YScania§! to Denmark"
+DEN_befriend_sweden:0 "Assujetir la Suède"
+DEN_befriend_sweden_desc:0 "Les Suédois semblent avoir réalisé qu'ils étaient grands autrefois - et ont annoncé au monde leur intention de l'être à nouveau. Il n'est que juste et approprié qu'ils se rencontrent en coopération avec nous, qui les avons guidés si patiemment vers la voie juste et appropriée."
+DEN_befriend_sweden_tt:0 "Si la Suède accepte, transfère la région de §YScanie§! au Danemark"
 
 #Reclaim scania
-DEN_reclaim_scania:0 "Reclaim Scania"
-DEN_reclaim_scania_desc:0 "Scania was ruled by the Danish under King Harald Bluetooth until the Swedish wrested it from us. They have the potential to be great - but we will not allow them to pretend over land that is rightfully ours. War is our only recourse."
+DEN_reclaim_scania:0 "Revendiquer la Scanie"
+DEN_reclaim_scania_desc:0 "La Scanie était dirigée par les Danois sous le roi Harald Bluetooth jusqu'à ce que les Suédois nous l'arrachent. Ils ont le potentiel pour être grands - mais nous ne leur permettrons pas de faire semblant sur des terres qui nous appartiennent de droit. La guerre est notre seul recours."
 
 #Influence Finland
-DEN_influence_finland:0 "Influence Finland"
-DEN_influence_finland_desc:0 "Finland has only relatively recently found its freedom from Russia, narrowly escaping the tyranny of the Soviet Bear. They have a long and proud Scandinavian history, and ours is the example that shall remind them of that glorious past."
+DEN_influence_finland:0 "Influencer la Finlande"
+DEN_influence_finland_desc:0 "La Finlande n'a trouvé que relativement récemment sa liberté par rapport à la Russie, échappant de justesse à la tyrannie de l'ours soviétique. Ils ont une longue et fière histoire scandinave, et la nôtre est l'exemple qui leur rappellera ce passé glorieux."
 
 #For Their Own Good
-DEN_for_their_own_good:0 "For Their Own Good"
-DEN_for_their_own_good_desc:0 "The Finnish live on a knife's edge, but they evidently fail to see it. They have done nothing to avert the Soviet Union, and blithely toddle on towards their fate. If they will not ready for war with the communists, we will ready them by force."
+DEN_for_their_own_good:0 "Pour leur propre bien"
+DEN_for_their_own_good_desc:0 "Les Finlandais vivent sur le fil du rasoir, mais ils ne le voient évidemment pas. Ils n'ont rien fait pour éviter l'Union soviétique, et continuent joyeusement à avancer vers leur destin. S'ils ne sont pas prêts pour la guerre avec les communistes, nous les préparerons par la force."
 
 #Befriend Finland
-DEN_befriend_finland:0 "Puppet Finland"
-DEN_befriend_finland_desc:0 "Finland is a place of great cultural and strategic importance. They have come into their full knowledge of this only recently. We can help them towards realization of their visions with a few well-placed Danish advisors in their governmental system."
+DEN_befriend_finland:0 "Assujetir la Finlande"
+DEN_befriend_finland_desc:0 "La Finlande est un lieu d'une grande importance culturelle et stratégique. Ils n'en ont pris pleinement conscience que récemment. Nous pouvons les aider à réaliser leurs visions avec quelques conseillers danois bien placés dans leur système gouvernemental."
 
 #Expand The Union
-DEN_expand_the_union:0 "Expand the Union"
-DEN_expand_the_union_desc:0 "The Kalmar Union is complete, ostensibly, but is still lacking a key part of its heritage. Finland was a part of the Swedish empire before, and now the emerging Danish empire will welcome its entry into our glorious union."
+DEN_expand_the_union:0 "Étendre l'Union"
+DEN_expand_the_union_desc:0 "L'Union de Kalmar est complète, apparemment, mais il lui manque encore une partie essentielle de son patrimoine. La Finlande faisait auparavant partie de l'empire suédois, et maintenant l'empire danois naissant accueillera son entrée dans notre glorieuse union."
 
 #A State Undivided
-DEN_a_state_undivided:0 "A State Undivided"
-DEN_a_state_undivided_desc:0 "The ready militaries of the Norwegians, Swedish and Finnish were useful for a time, but the time has come to claim the lands for ourselves. Soon we will announce the unification of all of rightful Denmark, a state undivided."
-DEN_a_state_undivided_tt:0 "Denmark owns or has puppets that control §YStockhom§!, §YOslo§! and §YHelsinki§!"
+DEN_a_state_undivided:0 "Un État indivisible"
+DEN_a_state_undivided_desc:0 "Les armées des Norvégiens, des Suédois et des Finlandais ont été utiles pendant un temps, mais le temps est venu de réclamer les terres pour nous-mêmes. Bientôt, nous annoncerons l'unification de tout le Danemark légitime, un État indivisible."
+DEN_a_state_undivided_tt:0 "Le Danemark possède ou a des fantoches qui contrôlent §YStockholm§!, §YOslo§! et §YHelsinki§!"
 
 #Karelia Is Ours
-DEN_karelia_is_ours:0 "Karelia is Ours"
-DEN_karelia_is_ours_desc:0 "The importance of Karelia to the Scandinavian people cannot be overstated, and the bitterness that we feel over its loss is strong even today. The Soviets are imposing, but taking what is ours is the only right thing to do. It is war!"
+DEN_karelia_is_ours:0 "La Carélie est à nous"
+DEN_karelia_is_ours_desc:0 "L'importance de la Carélie pour le peuple scandinave ne peut être surestimée, et l'amertume que nous ressentons pour sa perte est encore forte aujourd'hui. Les Soviétiques s'imposent, mais prendre ce qui nous appartient est la seule chose à faire. C'est la guerre !"
 
 #Operation Vinland
-DEN_operation_vinland:0 "Operation Vinland"
-DEN_operation_vinland_desc:0 "The overproud Spaniards and Portuguese like to comfort themselves with the illusion that Christopher Columbus discovered the new world. In reality, the colonisation of the new world was begun by the Icelander Leif Erikson. We will take his land back."
+DEN_operation_vinland:0 "Opération Vinland"
+DEN_operation_vinland_desc:0 "Les Espagnols et les Portugais trop fiers aiment se consoler de l'illusion que Christophe Colomb a découvert le nouveau monde. En réalité, la colonisation du nouveau monde a été entamée par l'Islandais Leif Erikson. Nous reprendrons ses terres."
 
 ####DEMOCRATIC SECTION####
 
@@ -472,7 +472,7 @@ DEN_the_danish_struggle_desc:0 "The vision of communism may have originated with
 DEN_the_international_struggle:0 "The International Struggle"
 DEN_the_international_struggle_desc:0 "The struggle of the worker knows no borders or nationalities. The Communist International is an admirable venture, and every working man of Denmark will be proud to have a chance to be part of it. Workers of the world, unite!"
 
-#Socialist Propoganda
+#Socialist Propaganda
 DEN_socialist_propoganda:0 "Socialist Propaganda"
 DEN_socialist_propoganda_desc:0 "Emerging only now is the message that the people do not need to be afraid of any government or military power. We shall take command of our own destiny, and our country will stand behind it not as a sterile ruling entity, but as a people united."
 

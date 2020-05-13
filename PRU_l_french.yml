@@ -1,0 +1,14 @@
+﻿l_french:
+
+ PRS_fascism:0 "État prussien"
+ PRS_fascism_DEF:0 "l'État prussien"
+ PRS_democratic:0 "République de Prusse"
+ PRS_democratic_DEF:0 "la République de Prusse"
+ PRS_neutrality:0 "Royaume de Prusse"
+ PRS_neutrality_DEF:0 "le Royaume de Prusse"
+ PRS_communism:0 "République populaire de Prusse"
+ PRS_communism_DEF:0 "la République populaire de Prusse"
+ PRS_fascism_ADJ:0 "prussien"
+ PRS_democratic_ADJ:0 "prussien"
+ PRS_neutrality_ADJ:0 "prussien"
+ PRS_communism_ADJ:0 "prussien"

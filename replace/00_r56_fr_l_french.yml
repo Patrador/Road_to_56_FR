@@ -1,0 +1,49 @@
+﻿###########################################################
+########## The Road to 56 - Traduction française ##########
+###########################################################
+
+l_french:
+
+##### Corrections du jeu vanilla #####
+
+ SAU_neutrality:0 "Arabie saoudite" # vanilla : Arabie séoudite
+ SAU_neutrality_DEF:0 "l'Arabie saoudite" # vanilla : l'Arabie séoudite
+
+ VICTORY_POINTS_8248:0 "Luanda" # vanilla : Louanda
+
+##### Trad des textes bruts de R56 #####
+
+## Technologies
+ # Infanterie
+ CLIMATE_SPECIFIC_EQUIPMENT:0 "ÉQUIPEMENT SPÉCIFIQUE AU CLIMAT"
+
+ # Blindés
+ TROOP_TRANSPORTS:0 "TRANSPORT DE TROUPES"
+ ARMOURED_CARS:0 "VOITURES BLINDÉES"
+ ARMORED_VECHICLES:0 "VÉHICULES BLINDÉS"
+ Mechanized_Transports:0 "Transports mécanisés"
+ Motorized_Rocket_Artillery:0 "Artillerie motorisée"
+ Amphibious_Transports:0 "Transports amphibies"
+
+ # Doctrine terrestre
+ ASYMMETRICAL_WARFARE_DOCTRINE:0 "DOCTRINE DE LA GUERRE ASYMÉTRIQUE"
+ ASYMMETRICAL_WARFARE_DOCTRINE_DESC:0 "Contre des armées plus puissantes, nous devons déjouer tactiquement nos ennemis et leur faire payer le prix des combats dans notre pays."
+
+ # Aérien
+ AIR_TITLE_CV_FIGHTER:0 "Chasseur embarqué"
+ AIR_TITLE_DIVE_BOMBER:0 "Bomb. en piqué"
+ AIR_TITLE_CV_DIVE_BOMBER:0 "Bomb. en piqué embarqué"
+ AIR_TITLE_TORPEDO_BOMBER:0 "Bomb.-torpilleur"
+ AIR_TITLE_MEDIUM_BOMBER:0 "Bombardier moyen"
+ AIR_TITLE_MARITIME_PATROL:0 "Patrouille maritime"
+ AIR_TITLE_HEAVY_BOMBER:0 "Bombardier lourd"
+
+ # Industrie
+ Machine_Tools:0 "Machines-outils"
+ Industry:0 "Industrie"
+ Construction:0 "Construction"
+ Synthetics:0 "Matières synthétiques"
+ Oil_Storage:0 "Stockage de carburant"
+ Refineries:0 "Raffineries"
+ Metal_Foundries:0 "Fonderies de métaux"
+ Rubber_Plants:0 "Usines de caoutchouc"

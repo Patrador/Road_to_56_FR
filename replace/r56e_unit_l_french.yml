@@ -1,0 +1,11 @@
+﻿l_french:
+category_light_armor:0 "Véhicules blindés légers & variantes"
+militia:0 "Milice"
+militia_desc:0 "La milice est une force terrestre informelle qui peut être déployée à la hâte sans les exigences d'une unité militaire traditionnelle. Le personnel de la milice n'a pas besoin de l'entraînement intensif ou des grandes quantités d'équipement dont un bataillon d'infanterie traditionnel a besoin. Bien qu'il faille dire qu'ils ne remplacent pas l'infanterie traditionnelle en ce qui concerne l'efficacité au combat."
+r56_allow_militia_formation:0 "Formaliser la formation des milices"
+r56_allow_militia_formation_desc:0 "Notre gouvernement légalisera la formation de bataillons de milice irréguliers pour combattre aux côtés des unités traditionnelles de notre armée."
+r56_militia_tech:0 "Milice"
+r56_militia_tech_desc:0 "La milice est une force terrestre informelle qui peut être déployée à la hâte sans les exigences d'une unité militaire traditionnelle. Le personnel de la milice n'a pas besoin de l'entraînement intensif ou des grandes quantités d'équipement dont un bataillon d'infanterie traditionnel a besoin. Bien qu'il faille dire qu'ils ne remplacent pas l'infanterie traditionnelle en ce qui concerne l'efficacité au combat."
+r56_militia_tt:0 "Permet les §Ymilices§!"
+mot_shocktroop:0 "Troupes de choc motorisées"
+mot_shocktroop_desc:0 "Les troupes de choc motorisées peuvent se frayer un passage dans les lignes ennemies. Ceci est presque essentiel à toute forme de combat en profondeur et peut contribuer grandement à désorganiser les défenseurs."

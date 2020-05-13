@@ -3,14 +3,14 @@
  CAT_deploy_the_aragonese_fleet:0 "Déployer la flotte aragonaise" 
 
  CAT_fascism:0 "État catalan"
- CAT_fascism_DEF:0 "L'État catalan"
+ CAT_fascism_DEF:0 "l'État catalan"
  CAT_democratic:0 "République catalane"
- CAT_democratic_DEF:0 "La République catalane"
+ CAT_democratic_DEF:0 "la République catalane"
  CAT_neutrality:0 "Catalogne"
- CAT_neutrality_DEF:0 "La Catalogne"
+ CAT_neutrality_DEF:0 "la Catalogne"
  CAT_communism:0 "République populaire catalane"
- CAT_communism_DEF:0 "La République populaire catalane"
- CAT_fascism_ADJ:0 "Catalan"
+ CAT_communism_DEF:0 "la République populaire catalane"
+ CAT_fascism_ADJ:0 "catalan"
 
  
  CAT_miquel_badia:0 "Miquel Badia"
@@ -40,9 +40,9 @@
  CAT_fabrica_hidroavions_tarragona:0 "Fabrica Hidroavions Tarragona"
  CAT_commisio_dindustries_de_guerra:0 "Commisio Dindustries de Guerra"
  
- CAT_motorized_equipment_manufacturer:0 "Fabricant d'Équipement Motorisé"
- CAT_infantry_equipment_manufacturer:0 "Fabricant d'Équipement d'Infanterie"
- CAT_artillery_manufacturer:0 "Fabricant d'Artillerie"
+ CAT_motorized_equipment_manufacturer:0 "Fabricant d'équipement motorisé"
+ CAT_infantry_equipment_manufacturer:0 "Fabricant d'équipement d'infanterie"
+ CAT_artillery_manufacturer:0 "Fabricant d'artillerie"
  
  CAT_electroquimica_de_flix:0 "Electroquimica de Flix"
  
@@ -55,8 +55,17 @@
  CAT_carles_botet_i_vehi:0 "Carles Botet i Vehi"
  CAT_jaume_pahissa_i_bonoms:0 "Jaume Pahissa i Bonoms"
  
- CAT_fascist_demagogue:0 "Démagogue Fasciste"
+ CAT_fascist_demagogue:0 "Démagogue fasciste"
  
  CAT_guillermo_de_la_pena_cusi:0 "Guillermo de la Peña Cusi"
  CAT_jose_villalba_rubio:0 "José Villalba Rubio"
  CAT_eduardo_medrano_rivas:0 "Eduardo Medrano Rivas"
+ 
+ CAT_infantry_equipment_0:0 "Mauser M93"
+ CAT_infantry_equipment_0_short:0 "Mauser M93"
+ CAT_infantry_equipment_1:0 "Carabine Destroyer"
+ CAT_infantry_equipment_1_short:0 "Carabine Destroyer"
+ CAT_infantry_equipment_2:0 "Labora Fontbernat M38"
+ CAT_infantry_equipment_2_short:0 "Labora Fontbernat M38"
+ CAT_infantry_equipment_3:0 "EMP-Coruña"
+ CAT_infantry_equipment_3_short:0 "EMP-Coruña"  

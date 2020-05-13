@@ -1,0 +1,252 @@
+﻿l_french:
+
+ #####-----> Game Rules Localization <><> <><> <><> <><> <><>
+
+ ###---> Country Boosts <><> <><> <><>
+ CUSTOM_DIFFICULTY_GROUP_NAME:0 "Boosts de pays"
+
+ ###---> Focus Tree Selection <><> <><> <><>
+ RULE_GROUP_CHOOSE_FOCUS_TREE:0 "Sélection des arbres des priorités"
+
+ RULE_OPTION_R56_TREE:0 "Arbre des priorités de Road to 56"
+ RULE_OPTION_R56_TREE_DESC:0 "Utiliser l'arbre de priorités par défaut de Road to 56 qui est inclu dans le mod."
+ RULE_OPTION_STANDARD_TREE:0 "Arbre des priorités standard"
+ RULE_OPTION_STANDARD_TREE_DESC:0 "Utiliser l'arbre de priorités standard. Inclut des ajustements et des changements mineurs."
+
+ AST_FOCUS_TREE_SELECTION:0 "@AST Australie"
+ HOL_FOCUS_TREE_SELECTION:0 "@HOL Pays-Bas"
+ MEX_FOCUS_TREE_SELECTION:0 "@MEX Mexico"
+ SAF_FOCUS_TREE_SELECTION:0 "@SAF Afrique du Sud"
+ SPR_FOCUS_TREE_SELECTION:0 "@SPR Espagne"
+ POR_FOCUS_TREE_SELECTION:0 "@POR Portugal"
+
+ ###---> AI Behavior <><> <><> <><>
+ RULE_GROUP_AI_BEHAVIOR:0 "Comportement de l'IA"
+ RULE_OPTION_DEFAULT_AI_DESC:0 "L'IA prendra des décisions basées sur d'autres paramètres de gameplay, tels que l'option de forcer les priorités historiques et d'autres scénarios de gameplay."
+ 
+ #-> Generic <><>
+ RULE_OPTION_AUTHORITARIAN:0 "Autoritaire"
+ RULE_OPTION_AUTHORITARIAN_HISTORICAL:0 "Autoritaire - Historique"
+ RULE_OPTION_MONARCHIST:0 "Monarchiste"
+ RULE_OPTION_MONARCHIST_HISTORICAL:0 "Monarchiste - Historique"
+ RULE_OPTION_DEMOCRATIC_ALTERNATE_AI_DESC:0 "Le pays suivra une voie démocratique non historique."
+ 
+ #-> ALB: Albania <><>
+ ALB_AI_BEHAVIOR:0 "@ALB Albanie"
+ RULE_OPTION_MONARCHIST_HISTORICAL_ALB_AI_DESC:0 "L'IA albanaise soutiendra le roi et s'orientera vers une monarchie constitutionnelle, en empruntant la voie appropriée dans l'arbre des priorités."
+
+ #-> AUS: Austria <><>
+ AUS_AI_BEHAVIOR:0 "@AUS Autriche"
+ RULE_OPTION_AUTHORITARIAN_HISTORICAL_AUS_AI_DESC:0 "L'IA autrichienne ne se concentrera pas sur les affaires politiques, mais développera plutôt son industrie en suivant la voie appropriée dans l'arbre des priorités."
+ 
+ #-> ENG: United Kingdom <><>
+ RULE_OPTION_VISIT_GERMANY:0 "Visite d'État en Allemagne"
+ RULE_OPTION_VISIT_GERMANY_ENG_AI_DESC:0 "L'IA Britannique ordonnera une Visite d'État en Allemagne et deviendra fasciste en empruntant la voie appropriée dans l'arbre des priorités."
+
+ #-> FRA: France <><>
+ FRA_AI_BEHAVIOR:0 "@FRA France"
+ RULE_OPTION_DEMOCRATIC_LITTLE_ENTENTE_FRA:0 "Démocratique - Petite Entente"
+ RULE_OPTION_DEMOCRATIC_LITTLE_ENTENTE_FRA_AI_DESC:0 "L'IA française soutiendra Blum et établira l'alliance de la Petite Entente, en empruntant le chemin approprié dans l'arbre des priorités nationales."
+ RULE_OPTION_DEMOCRATIC_HISTORICAL_FRA_AI_DESC:0 "L'IA française soutiendra Daladier, suivra le statu quo et rejoindra les Alliés, en empruntant le chemin approprié dans l'arbre des priorités nationales."
+ RULE_OPTION_COMMUNIST_HUMANITE_UNIE_FRA:0 "Communiste - Humanité Unie"
+ RULE_OPTION_COMMUNIST_HUMANITE_UNIE_FRA_AI_DESC:0 "L'IA française radicalisera le front et rejettera l'autorité de Moscou pour établir sa propre alliance communiste, en empruntant le chemin approprié dans l'arbre des priorités nationales."
+ RULE_OPTION_COMMUNIST_COMINTERN_FRA:0 "Communiste - Komintern"
+ RULE_OPTION_COMMUNIST_COMINTERN_FRA_AI_DESC:0 "L'IA française radicalisera le front, restera fidèle aux Soviétiques et tentera finalement de rejoindre le Komintern, en empruntant le chemin approprié dans l'arbre des priorités nationales."
+ RULE_OPTION_FASCIST_FRONT_LIBERTE_FRA:0 "Fasciste - Front Liberté"
+ RULE_OPTION_FASCIST_FRONT_LIBERTE_FRA_AI_DESC:0 "L'AI française soutiendra les ligues d'extrême droite et lancera un référendum, conduisant un État fasciste à vouloir rejoindre l'Axe, en empruntant la voie appropriée dans l'arbre des priorités nationales."
+ RULE_OPTION_FASCIST_LA_CAGOULE_COUP_FRA:0 "Fasciste - Coup d'État de La Cagoule"
+ RULE_OPTION_FASCIST_LA_CAGOULE_COUP_FRA_AI_DESC:0 "L'IA française soutiendra les ligues d'extrême droite et lancera un coup d'État, conduisant à un État fasciste agressif contre l'Allemagne, en suivant la voie appropriée dans l'arbre des priorités nationales."
+ RULE_OPTION_MONARCHIST_ORLEANISTS_FRA:0 "Monarchiste - Orléanistes"
+ RULE_OPTION_MONARCHIST_ORLEANISTS_FRA_AI_DESC:0 "L'IA française rétablira la monarchie, se rangera du côté des Orléanistes et formera l'alliance de l'Union latine, en empruntant le chemin approprié dans l'arbre des priorités nationales."
+ RULE_OPTION_MONARCHIST_BONAPARTISTS_FRA:0 "Monarchiste - Bonapartistes"
+ RULE_OPTION_MONARCHIST_BONAPARTISTS_FRA_AI_DESC:0 "L'IA française rétablira la monarchie, se rangera du côté des Bonapartistes et établira le nouveau Système Continental, en empruntant le chemin approprié dans l'arbre des priorités nationales."
+
+ #-> BEL: Belgium <><>
+ BEL_AI_BEHAVIOR:0 "@BEL Belgique"
+ RULE_OPTION_DEMOCRATIC_BEL_ALLY_BRITAIN:0 "Démocratique - S'allier la Grande-Bretagne"
+ RULE_OPTION_DEMOCRATIC_BEL_ALLY_BRITAIN_AI_DESC:0 "L'IA va essayer de former une alliance avec la Grande-Bretagne dès que possible."
+ RULE_OPTION_DEMOCRATIC_BEL_BENELUX:0 "Démocratique - Former le Benelux"
+ RULE_OPTION_DEMOCRATIC_BEL_BENELUX_AI_DESC:0 "L'IA va essayer de diriger les démocraties du Benelux."
+ RULE_OPTION_COMMUNISM_BEL_COMINTERN:0 "Communiste - Rejoindre le Komintern"
+ RULE_OPTION_COMMUNISM_BEL_COMINTERN_AI_DESC:0 "L'IA va essayer de devenir communiste et de suivre les ordres de Moscou."
+ RULE_OPTION_COMMUNISM_BEL_INDEPENDENT:0 "Communiste - Révolution indépendante"
+ RULE_OPTION_COMMUNISM_BEL_INDEPENDENT_AI_DESC:0 "L'IA va essayer de devenir communiste et d'éviter Moscou."
+ RULE_OPTION_FASCISM_BEL_VERDINASO:0 "Fasciste - Verdinaso"
+ RULE_OPTION_FASCISM_BEL_VERDINASO_AI_DESC:0 "L'IA va essayer de devenir fasciste et de mettre Joris Van Severen dirigeant."
+ RULE_OPTION_FASCISM_BEL_REX:0 "Fasciste - Rex"
+ RULE_OPTION_FASCISM_BEL_REX_AI_DESC:0 "L'IA va essayer de devenir fasciste et de mettre Léon Degrelle dirigeant."
+
+  #-> CHL Chile <><>
+ CHL_AI_BEHAVIOR:0 "@CHL Chile"
+ RULE_OPTION_NEUTRALITY_CHL_LIBERAL_PARTY:0 "Neutrality - Liberal Party"
+ RULE_OPTION_NEUTRALITY_CHL_LIBERAL_PARTY_AI_DESC:0 "The Liberal Party will keep power"
+ RULE_OPTION_FASCISM_CHL:0 "Fascist"
+ RULE_OPTION_FASCISM_CHL_AI_DESC:0 "The Prussia of the South will embrace South American Nazism"
+ RULE_OPTION_COMMUNISM_CHL:0 "Communist"
+ RULE_OPTION_COMMUNISM_CHL_AI_DESC:0 "Become communist"
+
+
+
+ #-> GER: Germany <><>
+ GER_AI_BEHAVIOR:0 "@GER Reich allemand"
+ RULE_OPTION_FASCIST_HISTORICAL_GER_AI_DESC:0 "L'IA allemande remilitarisera la Rhénanie et élargira son Lebensraum et suivra de près l'histoire, en empruntant le chemin approprié dans l'arbre des priorités nationales."
+
+ #-> ITA: Italy <><>
+ ITA_AI_BEHAVIOR:0 "@ITA Italie"
+ RULE_OPTION_FASCIST_HISTORICAL_ITA_AI_DESC:0 "L'IA italienne va (essayer de) gagner en Éthiopie et poursuivre sa lente expansion militaire en Europe avant de s'allier avec l'Allemagne, en empruntant la voie appropriée dans l'arbre des priorités nationales."
+ RULE_OPTION_FASCIST_STRESA_FRONT:0 "Fasciste - Raviver le front de Stresa"
+ RULE_OPTION_FASCIST_STRESA_FRONT_ITA_AI_DESC:0 "L'IA italienne tentera d'amener la Grande-Bretagne et la France à relancer le Front de Stresa en réponse à l'hostilité croissante de l'Allemagne et se concentrera sur la protection de l'Europe, en empruntant la voie appropriée dans l'arbre des priorités nationales."
+ RULE_OPTION_FASCIST_ROME_PROTOCOLS:0 "Fasciste - Militariser les Protocoles de Rome"
+ RULE_OPTION_FASCIST_ROME_PROTOCOLS_ITA_AI_DESC:0 "L'IA italienne tentera de militariser les protocoles de Rome avec l'Autriche et la Hongrie. Ceci sera suivi d'une tentative d'expansion territoriale en Europe et d'une faction croissante de membres latins, en empruntant la voie appropriée dans l'arbre des priorités nationales."
+
+ #-> MEX: Mexico <><>
+ MEX_AI_BEHAVIOR:0 "@MEX Mexique"
+
+ #-> SIA: Siam <><>
+ SIA_AI_BEHAVIOR:0 "@SIA Siam"
+ RULE_OPTION_DEMOCRATIC_LIBERAL_SIA:0 "Démocratique - Libéral"
+ RULE_OPTION_DEMOCRATIC_LIBERAL_SIA_AI_DESC:0 "L'IA siamoise formera un gouvernement démocratique libéral et tentera de s'allier à une autre nation démocratique, en empruntant la voie appropriée dans l'arbre des priorités nationales."
+ RULE_OPTION_DEMOCRATIC_CONSERVATIVE_SIA:0 "Démocratique - Conservateur"
+ RULE_OPTION_DEMOCRATIC_CONSERVATIVE_SIA_AI_DESC:0 "L'IA siamoise formera un gouvernement démocratique conservateur et tentera de s'allier à une autre nation démocratique, en empruntant la voie appropriée dans l'arbre des priorités nationales."
+ RULE_OPTION_COMMUNIST_SOVIET_SIA:0 "Communiste - Modèle soviétique"
+ RULE_OPTION_COMMUNIST_SOVIET_SIA_AI_DESC:0 "L'IA siamoise établira un régime communiste en suivant le modèle soviétique et tentera de rejoindre le Komintern, en suivant le chemin approprié dans l'arbre des priorités nationales."
+ RULE_OPTION_COMMUNIST_PEASANT_SIA:0 "Communiste - Communisme paysan"
+ RULE_OPTION_COMMUNIST_PEASANT_SIA_AI_DESC:0 "L'IA siamoise établira un régime communiste en construisant un socialisme destiné à leurs paysans et tentera de former une alliance avec d'autres nations communistes asiatiques, en empruntant la voie appropriée dans l'arbre des priorités nationales."
+ RULE_OPTION_FASCIST_HISTORICAL_SIA_AI_DESC:0 "L'IA siamoise consolidera le Khana Ratsadon, s'inclinera davantage vers le fascisme et pourra s'allier à l'une des puissances de l'Axe, en empruntant le chemin approprié dans l'arbre des priorités nationales."
+ RULE_OPTION_MONARCHIST_SIA_AI_DESC:0 "L'IA siamoise va restaurer la monarchie en faisant revenir Rama VII, en empruntant le chemin approprié dans l'arbre des priorités nationales."
+ 
+ #-> SWE: Sweden
+ SWE_AI_BEHAVIOR:0 "@SWE Suède"
+ RULE_OPTION_DEMOCRATIC_HISTORICAL:0 "Démocratique - Historique"
+ RULE_OPTION_DEMOCRATIC_HISTORICAL_AI_DESC:0 "Le pays s'efforcera de rester neutre et démocratique."
+ RULE_OPTION_COMMUNIST_SWE:0 "Communiste"
+ RULE_OPTION_COMMUNIST_SWE_AI_DESC:0 "L'IA va mettre les communistes au pouvoir." 
+ RULE_OPTION_FASCIST_SWE:0 "Fasciste"
+ RULE_OPTION_FASCIST_SWE_AI_DESC:0 "L'IA va mettre les nazis suédois au pouvoir."
+ RULE_OPTION_MONARCHIST_SWE:0 "Monarchiste"
+ RULE_OPTION_MONARCHIST_SWE_AI_DESC:0 "Le roi prendra les pleins pouvoirs et formera la faction des aurores boréales."
+
+ ###---> Map Fragmentation <><> <><> <><>
+ RULE_GROUP_GAME_SETUP:0 "Fragmentation de la carte"
+
+ #adding flags base game titles
+ ENG_FRAGMENTATION_STATUS:0 "@ENG Division du Royaume-Uni"
+ YUG_FRAGMENTATION_STATUS:0 "@YUG Division de la Yougoslavie"
+ SOV_FRAGMENTATION_STATUS:0 "@SOV Division de l'Union soviétique"
+ RAJ_FRAGMENTATION_STATUS:0 "@RAJ Division de l'Inde"
+
+ RULE_OPTION_YUG_FRAGMENTED_DESC:0 "Toutes les nations libérables en Yougoslavie sont libérées en tant que nations libres et indépendantes dès le début de la partie. Si vous sélectionnez la Yougoslavie, vous commencerez avec la Serbie."
+ RULE_OPTION_YUG_FRAGMENTED_SERBIA:0 "YOUG divisée - Serbie"
+ RULE_OPTION_YUG_FRAGMENTED_SERBIA_DESC:0 "Lorsque vous sélectionnerez la Yougoslavie, vous commencerez avec la Serbie."
+ RULE_OPTION_YUG_FRAGMENTED_CROATIA:0 "YOUG divisée - Croatie"
+ RULE_OPTION_YUG_FRAGMENTED_CROATIA_DESC:0 "Lorsque vous sélectionnerez la Yougoslavie, vous commencerez avec la Croatie."
+
+
+ #new fragmentations
+ BEL_FRAGMENTATION_STATUS:0 "@BEL Division de la Belgique"
+ RULE_OPTION_BEL_FRAGMENTED:0 "Belgique divisée"
+ RULE_OPTION_BEL_FRAGMENTED_DESC:0 "Toutes les nations libérables en Belgique sont libérées en tant que nations libres et indépendantes dès le début de la partie. Sélectionner la Belgique vous fera jouer la Flandre."
+ RULE_OPTION_BEL_FRAGMENTED_GREATER_FLANDERS:0 "Grande Flandre"
+ RULE_OPTION_BEL_FRAGMENTED_GREATER_FLANDERS_DESC:0 "Division de la Belgique entre la Flandre et la Wallonie, la Flandre prend le contrôle de la région Nord Pas-de-Calais. Sélectionner la Belgique vous fera jouer la Flandre."
+
+ CZE_FRAGMENTATION_STATUS:0 "@CZE Division de la Tchécoslovaquie"
+ RULE_OPTION_CZE_FRAGMENTED:0 "Tchécoslovaquie divisée"
+ RULE_OPTION_CZE_FRAGMENTED_DESC:0 "Toutes les nations libérables en Tchécoslovaquie sont libérées en tant que nations libres et indépendantes dès le début de la partie."
+ RULE_OPTION_CZE_DECENTRALIZED:0 "Tchécoslovaquie décentralisée"
+ RULE_OPTION_CZE_DECENTRALIZED_DESC:0 "Toutes les nations libérables en Tchécoslovaquie sont libérées en tant que nations fantoches dès le début de la partie."
+ RULE_OPTION_ENG_FRAGMENTED_IRE_UNITED:0 "Irlande unie"
+ RULE_OPTION_ENG_FRAGMENTED_IRE_UNITED_DESC:0 "Au lieu de libérer l'Irlande du Nord avec les autres pays formant le Royaume-Uni, l'Éire en prendra le contrôle."
+ DEN_FRAGMENTATION_STATUS:0 "@DEN Division du Danemark"
+ RULE_OPTION_DEN_FRAGMENTED:0 "Danemark divisé"
+ RULE_OPTION_DEN_FRAGMENTED_DESC:0 "Toutes les nations libérables au Danemark sont libérées en tant que nations libres et indépendantes dès le début de la partie."
+ RULE_OPTION_DEN_DECENTRALIZED:0 "Danemark décentralisé"
+ RULE_OPTION_DEN_DECENTRALIZED_DESC:0 "Toutes les nations libérables au Danemark sont libérées en tant que nations fantoches dès le début de la partie."
+
+ SPR_FRAGMENTATION_STATUS:0 "@SPR Division de l'Espagne"
+ RULE_OPTION_SPR_FRAGMENTED:0 "Espagne divisée"
+ RULE_OPTION_SPR_FRAGMENTED_DESC:0 "Toutes les nations libérables en l'Espagne sont libérées en tant que nations libres et indépendantes dès le début de la partie."
+ RULE_OPTION_SPR_DECENTRALIZED:0 "Espagne décentralisée"
+ RULE_OPTION_SPR_15TH_CENTURY_ARAGON:0 "Aragon du XVe siècle"
+ RULE_OPTION_SPR_15TH_CENTURY_ARAGON_DESC:0 "La Catalogne contrôlera le sud de l'Italie, pour jouer la Catalogne, cliquez sur Espagne."
+ RULE_OPTION_SPR_DECENTRALIZED_DESC:0 "Toutes les nations libérables en Espagne sont libérées en tant que nations fantoches dès le début de la partie."
+ FRA_FRAGMENTATION_STATUS:0 "@FRA Division de la France métropolitaine"
+ RULE_OPTION_FRA_FRAGMENTED:0 "France divisée"
+ RULE_OPTION_FRA_FRAGMENTED_DESC:0 "Toutes les nations libérables en France métropolitaine sont libérées en tant que nations libres et indépendantes dès le début de la partie."
+ RULE_OPTION_FRA_DECENTRALIZED:0 "France décentralisée"
+ RULE_OPTION_FRA_DECENTRALIZED_DESC:0 "Toutes les nations libérables en France métropolitaine sont libérées en tant que nations fantoches dès le début de la partie."
+ CAN_FRAGMENTATION_STATUS:0 "@CAN Division du Canada"
+ RULE_OPTION_CAN_FRAGMENTED:0 "Canada divisé"
+ RULE_OPTION_CAN_FRAGMENTED_DESC:0 "Toutes les nations libérables au Canada sont libérées en tant que nations libres et indépendantes dès le début de la partie."
+ RULE_OPTION_CAN_DECENTRALIZED:0 "Canada décentralisé"
+ RULE_OPTION_CAN_DECENTRALIZED_DESC:0 "Toutes les nations libérables au Canada sont libérées en tant que nations fantoches dès le début de la partie."
+ POL_FRAGMENTATION_STATUS:0 "@POL Division de la Pologne"
+ RULE_OPTION_POL_FRAGMENTED:0 "Pologne divisée"
+ RULE_OPTION_POL_FRAGMENTED_DESC:0 "Toutes les nations libérables en Pologne sont libérées en tant que nations libres et indépendantes dès le début de la partie."
+ RULE_OPTION_POL_DECENTRALIZED:0 "Pologne décentralisée"
+ RULE_OPTION_POL_DECENTRALIZED_DESC:0 "Toutes les nations libérables en Pologne sont libérées en tant que nations fantoches dès le début de la partie."
+ RULE_OPTION_POL_COMMONWEALTH:0 "Commonwealth polono-lituanien"
+ RULE_OPTION_POL_COMMONWEALTH_DESC:0 "Le Commonwealth polono-lituanien vit jusqu'au XXème siècle et constitue un puissant rempart contre ses voisins totalitaires."
+ ITA_FRAGMENTATION_STATUS:0 "@ITA Division de l'Italie"
+ RULE_OPTION_ITA_FRAGMENTED:0 "Italie divisée"
+ RULE_OPTION_ITA_FRAGMENTED_DESC:0 "Toutes les nations constitutives de l'Italie sont libérées en tant que nations libres et indépendantes dès le début de la partie."
+ RULE_OPTION_ITA_FRAGMENTED_NEAPOLITAN_SICILY:0 "Sicile napolitaine"
+ RULE_OPTION_ITA_FRAGMENTED_NEAPOLITAN_SICILY_DESC:0 "L'Italie sera fragmentée, mais Naples possédera également la Sicile."
+ RULE_OPTION_ITA_DECENTRALIZED:0 "Italie décentralisée"
+ RULE_OPTION_ITA_DECENTRALIZED_DESC:0 "Toutes les nations constitutives de l'Italie qui peuvent être libérées sont libérées en tant que nations fantoches dès le début de la partie."
+ RULE_OPTION_ITA_FRAGMENTED_SERENISSIMA:0 "Sérénissime"
+ RULE_OPTION_ITA_FRAGMENTED_SERENISSIMA_DESC:0 "Venise commencera par la Dalmatie, la Crète et plus de troupes (principalement prises de l'Italie). Pour San Marco !"
+ RULE_OPTION_ITA_FRAGMENTED_SERENISSIMA_TWO_SICILES:0 "Sérénissime et Deux Siciles"
+ RULE_OPTION_ITA_FRAGMENTED_SERENISSIMA_TWO_SICILES_DESC:0 "Naples et Venise sont fortes, choisir l'Italie vous fera jouer Venise."
+
+ SAM_LIBERATION_STATUS:0 "@SAM Libération de la Laponie"
+ RULE_OPTION_SAM_LIBERATED:0 "Laponie libérée"
+ RULE_OPTION_SAM_LIBERATED_DESC:0 "Tous les pays contrôlant des états nationaux lapons libéreront la Laponie, la capitale sera située au Norrland norvégien."
+ RULE_OPTION_SAM_LIBERATED_NOR_SWITCH:0 "Pour jouer avec la Laponie, sélectionnez la Norvège"
+ RULE_OPTION_SAM_LIBERATED_NOR_SWITCH_DESC:0 "Pour jouer avec la Laponie, sélectionnez la Norvège."
+ KUR_LIBERATION_STATUS:0 "@KUR Libération du Kurdistan"
+ RULE_OPTION_KUR_LIBERATED:0 "Kurdistan libéré"
+ RULE_OPTION_KUR_LIBERATED_DESC:0 "Tous les pays contrôlant des états nationaux kurdes libéreront le Kurdistan, la capitale sera située au Kurdistan irakien."
+ RULE_OPTION_KUR_LIBERATED_IRQ_SWITCH:0 "Pour jouer avec le Kurdistan, sélectionnez l'Irak"
+ RULE_OPTION_KUR_LIBERATED_IRQ_SWITCH_DESC:0 "Pour jouer avec le Kurdistan, sélectionnez l'Irak, vous aurez cependant 0 usine"
+ CENTRAL_AMERICA_UNIFICATION_STATUS:0 "@HON Unification de l'Amérique centrale"
+
+ GER_FRAGMENTATION_STATUS:0 "@GER Division de l'Allemagne"
+ RULE_OPTION_GER_FRAGMENTED:0 "Allemagne divisée"
+ RULE_OPTION_GER_FRAGMENTED_DESC:0 "Toutes les nations libérables en Allemagne sont libérées en tant que nations libres et indépendantes dès le début de la partie."
+ RULE_OPTION_GER_DECENTRALIZED:0 "Allemagne décentralisée"
+ RULE_OPTION_GER_DECENTRALIZED_DESC:0 "Toutes les nations libérables en Allemagne sont libérées en tant que nations fantoches dès le début de la partie."
+ RULE_OPTION_GER_EAST_VS_WEST:0 "Est vs Ouest"
+ RULE_OPTION_GER_EAST_VS_WEST_DESC:0 "L'Allemagne sera remplacée par l'Allemagne de l'Est et l'Allemagne de l'Ouest, mais il se peut qu'elle casse certains arbres de priorités."
+ RULE_OPTION_GER_EAST_VS_WEST_COM:0 "Le Foyer de la Révolution"
+ RULE_OPTION_GER_EAST_VS_WEST_COM_DESC:0 "Jouer l'Allemagne de l'Est contre l'Allemagne de l'Ouest"
+ RULE_OPTION_GER_EAST_VS_WEST_VS_BAVARIA:0 "Est vs Ouest vs Bavière"
+ RULE_OPTION_GER_GERMAN_KINGDOMS:0 "Royaumes allemands"
+ RULE_OPTION_GER_GERMAN_KINGDOMS_DESC:0 "L'Allemagne sera divisée en royaumes et en duchés."
+ RULE_OPTION_GER_GERMAN_KINGDOMS2:0 "Royaumes allemands - une faction"
+ RULE_OPTION_GER_GERMAN_KINGDOMS2_DESC:0 "L'Allemagne sera divisée en royaumes et en duchés et unie sous une faction."
+
+ RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED:0 "Le Honduras forme l'Amérique centrale"
+ RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED_DESC:0 "Tous les pays d'Amérique centrale sont annexés par le Honduras, vous obtenez des états nationaux sur ces pays et votre nom change pour les États-Unis d'Amérique centrale."
+  
+ RULE_IDEOLOGY_JOIN_FACTION:0 "Rejoindre la faction d'une idéologie différente"
+ RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_DESC:0 "Vous ne pouvez rejoindre que des factions de la même idéologie ou par le biais de priorités/événements."
+ RULE_ALLOW_JOIN_FACTION_DESC:0 "Toute idéologie peut rejoindre n'importe quelle faction, si les circonstances s'y prêtent."
+ RULE_OPTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED:0 "Même idéologie - Sauf non-alignés"
+ RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED_DESC:0 "Les pays ne peuvent rejoindre une faction que si celle-ci représente 30 % de l'idéologie dominante du chef de la faction, à l'exception des pays non alignés (autoritaires) ou par le biais de priorités/événements."
+ RULE_OPTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED:0 "Même idéologie - Sauf non-alignés"
+ RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED_DESC:0 "Les pays ne peuvent rejoindre une faction que si celle-ci représente 30 % de l'idéologie dominante du chef de la faction, à l'exception des pays non alignés (autoritaires) ou par le biais de priorités/événements." 
+ RULE_OPTION_EVENTS_ONLY:0 "Événements seulement"
+ RULE_IDEOLOGY_JOIN_FACTION_EVENTS_ONLY_DESC:0 "Les pays ne rejoindront les factions que grâce à des événements ou à des priorités."
+ RULE_STARTING_FACTIONS:0 "Factions de départ"
+ RULE_OPTION_DEFAULT_STARTING_FACTIONS_DESC:0 "Les factions de départ ne seront pas touchées et bénéficieront de l'habituel Axe contre Alliés (contre Komintern contre la Sphère de coprospérité de la Grande Asie orientale)."
+ RULE_OPTION_DISBANDED:0 "Démantelées"
+ RULE_OPTION_STARTING_FACTIONS_DISBANDED_DESC:0 "Les factions de départ seront dissoutes dès le départ et le monde sera certainement encore plus chaotique."
+# RULE_OPTION_POPULARITY_FACTION_LEADER_IDEOLOGY:0 "Influence de l'idéologie du chef de la faction"
+# RULE_OPTION_POPULARITY_FACTION_LEADER_IDEOLOGY_DESC:0 "Vous ne pouvez rejoindre une faction que si vous avez 30% de l'idéologie du parti au pouvoir du leader de celle-ci."
+
+  ###---> Gameplay Rules <><> <><> <><>
+ RULE_ALLOW_NATIONAL_CHARACTERS:0 "Caractères nationaux"
+ RULE_ALLOW_NATIONAL_CHARACTERS_ALLOWED_DESC:0 "Les pays sont libres d'utiliser les caractères nationaux"
+ RULE_ALLOW_NATIONAL_CHARACTERS_BLOCKED_DESC:0 "Les pays sont empêchés d'utiliser les caractères nationaux"
+ NATIONAL_CHARACTERS_BLOCKED:0 " Désactiver les caractères nationaux"
+ #####-----> End of File <><> <><> <><> <><> <><>

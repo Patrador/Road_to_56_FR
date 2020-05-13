@@ -1,6 +1,18 @@
 ﻿l_french:
  
- CAN_canadian_pacific_railway:0 "Canadian Pacific Railway"
+ CAN_support_a_synarchist_baja:0 "Soutenir les communes synarchistes"
+ CAN_reopen_the_toronto_shipyards:0 "Réouvrir les chantiers navals de Toronto"
+
+ #Scarborough’s General Engineering Company: mines, ammunition factory event airports
+ 
+ CAN_rowell_sirois_commission_idea:0 "Commission Rowell-Sirois"
+ CAN_canada_pacific_railway_idea:0 "Chemin de fer Canadien Pacifique"
+ CAN_maritime_colonial_railway_idea:0 "Chemin de fer maritime-colonial"
+ CAN_national_housing_act_idea:0 "Loi nationale sur l'habitation"
+ CAN_dollar_a_year_men_idea:0 "Salaire d'un dollar"
+ CAN_henry_angus:0 "Henry Angus"
+
+ CAN_canadian_pacific_railway:0 "Chemin de fer Canadien Pacifique"
  CAN_montreal_locomotive_works:0 "Montreal Locomotive Works"
  CAN_dominion_foundries:0 "Dominion Foundries"
  CAN_northern_electric:0 "Northern Electric"
@@ -12,3 +24,12 @@
  CAN_marine_industries:0 "Marine Industries"
  CAN_davie_shipbuilding:0 "Davie Shipbuilding"
  pratt_and_whitney:0 "Pratt & Whitney"
+ CAN_boeing_of_canada:0 "Boeing of Canada"
+ CAN_victory_aircraft:0 "Victory Aircraft"
+ CAN_canadair:0 "Canadair"
+ CAN_imperial_oil_idea:0 "Imperial Oil"
+ CAN_sorel_steel_and_foundries:0 "Sorel Steel and Foundries"
+
+ CAN_ernest_james_renaud:0 "Ernest James Renaud"
+
+ QBC_generic_electronics_concern:0 "Compagnie canadienne Marconi"

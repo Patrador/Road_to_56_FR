@@ -1,4 +1,29 @@
 ﻿l_french:
+ USA_bethlehem_steel:0 "Bethlehem Steel"
+ USA_bethlehem_shipbuilding_corporation:0 "Bethlehem Shipbuilding Corporation"
+ USA_william_c_lee:0 "William C. Lee"
+ USA_elwood_richard_quesada:0 "Elwood R. Quesada"
+
  USA_curtiss_wright:0 "Curtiss-Wright"
  USA_claude_shannon:0 "Claude Shannon"
  USA_waco:0 "WACO"
+ USA_standard_oil_new_jersey:0 "Standard Oil of New Jersey"
+ USA_lima_locomotive_works:0 "Lima Locomotive Works"
+ 
+ r56_USA_decision_the_jumping_general:0 "Le général sautant"
+ 
+ r56_USA_decision_rural_electrification_act:0 "Loi sur l'électrification rurale"
+ r56_USA_decision_flood_control_act:0 "Loi sur la protection contre les inondations"
+ r56_USA_decision_anti_price_discrimination_act:0 "Loi sur la discrimination anti-prix"
+ r56_USA_decision_foreign_agents_registration_act:0 "Loi sur l'enregistrement des agents étrangers"
+ r56_USA_decision_second_vinson_act:0 "Deuxième loi Vinson"
+ 
+ USA_expand_unoffical_operations:0 "Développer les opérations non-officielles"
+ USA_expand_unoffical_operations_desc:0 "L'expérience nous a appris que les renseignements peuvent faire la différence entre la victoire et la défaite. Ils peuvent nous aider à remporter la victoire mais aussi à prévenir la guerre. Une bombe bien placée peut remplacer une flotte de bombardiers et un agent bien placé peut remplacer une division."
+
+
+
+ r56_usa.1.t:0 "Les élections de 1948"
+ r56_usa.1.desc:0 "Une fois de plus, Thomas Dewey est le titulaire contre le candidat actuel. Cette fois-ci, Harry Truman se présente à la présidence en tant que successeur de Franklin Roosevelt."
+ r56_usa.1.a:0 "Truman remporte les élections"
+ r56_usa.1.a:0 "Dewey remporte les élections"

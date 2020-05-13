@@ -1,0 +1,11 @@
+﻿#####-----> Startup Content Localisation by Greatexperiment <><> <><> <><> <><> <><>
+
+l_french:
+
+ ###---> Welcome to the Road! <><> <><> <><>
+ r56.startup.event.01.title: "Bienvenue sur la Route !"
+ r56.startup.event.01.description: "Salutations de la part de l'équipe de Road to 56 !\n\nS'il vous plaît, aidez-nous à rendre votre expérience de jeu aussi optimale que possible en indiquant si cette session est pour un jeu multijoueur ou non. Cela nous aide vraiment à tout équilibrer et à réduire les bugs.\n\nRemarque importante : ce mod se met à jour officiellement tous les mois vers les 7/8ème (avec un retard occasionnel). Nous vous recommandons de terminer la plupart de vos parties/campagnes avant ces dates car la plupart de nos mises à jour ont tendance à endommager les sauvegardes. Merci de votre compréhension.\n\nMerci de jouer à notre mod, et passez une bonne journée !"
+ r56.startup.event.01.option_yes: "Multijoueur"
+ r56.startup.event.01.option_no: "Un joueur"
+ 
+#####-----> End of File <><> <><> <><> <><> <><>

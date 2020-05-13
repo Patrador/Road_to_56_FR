@@ -1,16 +1,19 @@
 ﻿l_french:
- fate_of_georgia_category:0 "Le Destin de la Géorgie"
+ fate_of_georgia_category:0 "Le destin de la Géorgie"
  fate_of_georgia_category_desc:0 "La Géorgie, un ancien royaume dont la riche histoire remonte au Moyen-Âge, s'est brièvement libérée du joug russe après la guerre mondiale. Avec les bolcheviks, un autre type de domination russe est apparu. Grâce à des volontaires du pays et à des membres de la vieille élite vivant en exil, la liberté du pays de Tamar pourrait être restaurée."
  GEO_liberators:0 "Libérateur de la Géorgie"
  
- GEO_form_georgian_national_council:0 "Former un Conseil National Géorgien"
- GEO_establish_georgian_legion:0 "Recruter une Légion Géorgienne"
+ GEO_form_georgian_national_council:0 "Former un conseil national géorgien"
+ GEO_establish_georgian_legion:0 "Recruter une légion géorgienne"
  GEO_establish_georgian_legion_cost:0 "£army_experience §H10§! £pol_power §H25§! £command_power §H25§!"
  GEO_establish_georgian_legion_cost_blocked:0 "£army_experience §R10§! £pol_power §R25§! £command_power §R25§!"
  GEO_establish_georgian_legion_cost_tooltip:0 "Cela coûte £army_experience 10, £pol_power 25 et  £command_power 25 pour sélectionner cela."
- GEO_establish_national_georgian_government:0 "Établir un Gouvernement National Géorgien"
+ GEO_establish_national_georgian_government:0 "Établir un gouvernement national géorgien"
  
- GEO_event.1.t:0 "Les Volontaires veulent Rentrer !"
- GEO_event.1.desc:0 "Les divisions de volontaires ont été formées dans le but de combattre l'[SOV.GetName] et de libérer la Géorgie. Avec la défaite de l'État [SOV.GetAdjective], ces volontaires ont le sentiment que leur mission est accomplie et ils veulent être renvoyés chez eux." 
+ GEO_event.1.t:0 "Les volontaires veulent rentrer !"
+ GEO_event.1.desc:0 "Les divisions de volontaires ont été formées dans le but de combattre [SOV.GetLeLaLNP] [SOV.GetName] et de libérer la Géorgie. Avec la défaite de l'État [SOV.GetAdjMS], ces volontaires ont le sentiment que leur mission est accomplie et ils veulent être renvoyés chez eux." 
  GEO_event.1.a:0 "Les convaincre de rester un peu plus longtemps"
  GEO_event.1.b:0 "Dissoudre leur division." 
+
+
+ GEO_generic_light_aircraft_manufacturer:0 "Tbilisi Aircraft State Association"

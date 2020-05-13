@@ -1,0 +1,10 @@
+﻿l_french:
+ 
+#Parties
+ MLT_democratic_party:0 "PC"
+ MLT_democratic_party_long:0 "Parti constitutionnel"
+ MLT_fascism_party:0 "PN"
+ MLT_fascism_party_long:0 "Partit Nazzjonalista" 
+ MLT_communism_party:0 "PCM"
+ MLT_communism_party_long:0 "Parti communiste maltais"  
+ 

@@ -18,8 +18,8 @@ GRL_Aage_de_Lemos:0 "Aage de Lemos"
 
 
 #events
-grl.1:0 "L'Accord Hull-Kauffmann"
-grl.1.t:0 "L'Accord Hull-Kauffmann"
+grl.1:0 "L'accord Hull-Kauffmann"
+grl.1.t:0 "L'accord Hull-Kauffmann"
 grl.1.d:0 "Le Danemark est tombé, mais pas leurs territoires coloniaux : le Groenland reste libre de toute ingérence allemande. Henrik Kauffmann, diplomate danois de tradition, nous a contactés au sujet de la situation au Groenland. Agissant au nom du roi, il est prêt à nous céder le contrôle du Groenland. Les responsables de Nuuk préféreraient l’occupation des États-Unis à celle du Commonwealth. Bien que cela puisse ne pas être complètement légal au regard du droit international. Nous avons la responsabilité de protéger toutes les terres et tous les peuples du nouveau monde, y compris le Groenland. Comment devrions-nous aborder cela ?"
 grl.1.a:0 "Cela semble être une bonne idée. Mettez le Groenland sous notre contrôle immédiatement"
 grl.1.b:0 "Laissez le gouvernement local de Nuuk prendre le contrôle. Cependant, nous devrions baser nos troupes là-bas."

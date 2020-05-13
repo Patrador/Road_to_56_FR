@@ -1,0 +1,16 @@
+﻿l_french:
+ TNG_neutrality:0 "Tunganistan"
+ TNG_neutrality_DEF:0 "le Tunganistan"
+ TNG_fascism:0 "Tunganistan"
+ TNG_fascism_DEF:0 "le Tunganistan"
+ TNG_communism:0 "Tunganistan"
+ TNG_communism_DEF:0 "le Tunganistan"
+ TNG_democratic:0 "Tunganistan"
+ TNG_democratic_DEF:0 "le Tunganistan"  
+
+ TNG_neutrality_ADJ:0 "tungan"
+ TNG_fascism_ADJ:0 "tungan"
+ TNG_communism_ADJ:0 "tungan"
+ TNG_democratic_ADJ:0 "tungan" 
+
+ TNG_generic_industrial_concern:0 "Khotan Mint"

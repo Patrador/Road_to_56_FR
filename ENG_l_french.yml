@@ -1,32 +1,57 @@
 ﻿l_french:
+#Country Stuff
+ENG_establish_the_colony_of_aden:0 "Établir la colonie d'Aden"
+ENG_establish_the_colony_of_aden_desc:0 "Le port d'Aden est l'un des plus importants dans le commerce entre l'Inde, l'Europe et l'Extrême-Orient. La loi de 1935 sur le Gouvernement indien prévoyait le transfert du contrôle de ce port directement au Gouvernement de Londres, alors qu'il était auparavant administré comme une province du Commissaire en chef. Les derniers préparatifs sont maintenant terminés pour l'établissement d'Aden en tant que colonie séparée."
+#Focus
+ENG_war_with_ussr:0 "Opération impensable"
+uk_naval_gunnery:0 "Artillerie navale"
+uk_naval_gunnery_desc:0 "Améliorer l'efficacité de notre équipement naval pour frapper plus fort et dominer les mers."
+#Custom Tooltips
 
-british_alternate_focus:0 "Arbre des Priorités de l'Empire Britanique"
-british_alternate_focus_tt:0 "§RUn autre arbre des priorités sera chargé une fois que cette priorité est terminée et contient toutes les priorités fascistes. Il n'y pas de retour en arrière ! Choisir judicieusement.§!"
+#Flags
 
+#Ideas
+ENG_crypto_bomb_idea_lar:0 "Bombe cryptologique"
+
+
+#Events
+englandmod.99.t:0 "Archibald Wavell arrive en Inde"
+englandmod.99.d:0 "Le général Archibald Wavell a récemment été promu afin de commander l'armée britannique indienne, il devrait arriver dans quelques jours."
+englandmod.99.a:0 "Compris."
+
+
+#Decisions
+ENG_speech_against_war:0 "Discours contre la guerre"
+ENG_speech_against_war_desc:0 "Le sang de notre plus belle jeunesse ne sera pas versé en vain à cause de rabâchures étrangères. La Grande-Bretagne doit rester en paix si la Grande-Bretagne doit endurer. Notre voix doit être entendue dans chaque rue. Nous exigeons la paix ! Mais nous serons prêts à défendre notre sol, à être armés contre les envahisseurs étrangers. À ceux qui prétendent que nous voulons causer des troubles, provoquer des guerres, nous répondons d'une voix unanime : la Grande-Bretagne vit et avance, en paix !"
+#Advisors
+ENG_john_dill:0 "John Dill"
+ENG_alan_turing:0"Alan Turing"
+#Companies
 #ENG_industrial_concern:0 "English Steel Corporation Ltd"
 ENG_guest_keen_baldwins:0 "Guest Keen Baldwins"
+ENG_barrow_hematite_steel_company:0 "Barrow Hematite Steel Company"
 ENG_chatham_dockyard:0 "Chatham Dockyard"
 ENG_hawthorn_leslie_and_company:0 "Hawthorn Leslie and Company"
 ENG_london_aircraft_production_group:0 "London Aircraft Production Group"
 ENG_vauxhall_tanks:0 "Vauxhall"
 ENG_blackburn_aircraft:0 "Blackburn Aircraft"
 ENG_general_aircraft_limited:0 "General Aircraft Limited"
+ENG_bristol:0 "Bristol Aeroplane Company"
+ENG_gloster_aircraft:0 "Gloster Aircraft"
+ENG_ROF_nottingham:0 "ROF Nottingham"
+#Traits
 
-ENG_john_dill:0 "John Dill"
-ENG_alan_turing:0"Alan Turing"
-
-englandmod.99.t:0 "Archibald Wavell arrive en Inde"
-englandmod.99.d:0 "Le général Archibald Wavell a récemment été promu afin de commander l'armée britannique indienne, il devrait arriver dans quelques jours."
-englandmod.99.a:0 "Compris."
+#Misc
+british_alternate_focus:0 "Arbre des priorités de l'Empire britannique"
+british_alternate_focus_tt:0 "§RUn autre arbre des priorités sera chargé une fois que cette priorité est terminée et contient toutes les priorités fascistes. Il n'y pas de retour en arrière ! Choisir judicieusement.§!"
 
 
 
 
-#extra canada
+r56_eng.1.t:0 "Seul le fascisme peut préserver la paix !"
+r56_eng.1.desc:0 "Le fascisme signifie la paix parce que le fascisme seul combat la vraie cause de la guerre. Une politique autarcique forte permettrait d'échapper à la concurrence impossible à gagner pour les marchés qui ont causé tant de guerres. C'est pourquoi la paix et l'Empire sont compatibles. Ils vont de pair pour assurer l'indépendance économique !"
+r56_eng.1.a:0 "Nous allons empêcher la guerre !"
 
-CAN_rowell_sirois_commission_idea:0 "Rowell Sirois Commission"
-CAN_canada_pacific_railway_idea:0 "Canada Pacific Railway"
-CAN_maritime_colonial_railway_idea:0 "Maritime Colonial Railway"
-CAN_national_housing_act_idea:0 "National Housing Act"
-CAN_dollar_a_year_men_idea:0 "Dollar A Year Men"
-CAN_henry_angus:0 "Henry Angus"
+r56_eng.2.t:0 "Les guerres à l'étranger"
+r56_eng.2.desc:0 "Les Britanniques ne doivent se battre que pour la Grande-Bretagne ! La vue des fils de la Grande-Bretagne quittant nos côtes afin de mourir pour des querelles étrangères doit devenir une entrée dans vos livres d'histoire. Les Britanniques ne doivent se battre que pour la Grande-Bretagne et la défense de l'Empire."
+r56_eng.2.a:0 "Nous ne mourrons pas sur des rivages étrangers !"

@@ -1,3 +1,61 @@
 ﻿l_french:
+
+ JAP_revolutionary_fervour:0 "Ferveur révolutionnaire"
+ 
+ JAP_SOV_sakhalin_oil_agreement:0 "Accord pétrolier de Sakhaline"
  JAP_kawanishi:0 "Kawanishi"
  JAP_japan_international_aviation_industries:0 "Japan Int. Aviation Industries"
+ JAP_japan_steel_works:0 "Usines sidérurgiques du Japon"
+ JAP_nippon_oil:0 "Pétrole du Nippon"
+
+ JAP_fascism_ideology_desc:0 "L'§YAssociation de soutien à l'autorité impériale§! (Taisei Yokusankai) a été créé par le Premier ministre Fumimaro Konoe pour promouvoir les objectifs de son mouvement §MShintaisei§! (« Nouvel ordre »). Elle s'est transformée en une Parti politique §Yétatiste§! au pouvoir qui visait à supprimer le sectionnalisme dans la politique et l'économie de l'Empire du Japon pour créer un §HÉtat totalitaire à parti unique§! afin de maximiser l'efficacité de l'effort de §Rguerre totale§! du Japon."
+
+ JAP_germano_japanese_technological_exchange:0 "Échange technologique germano-japonais"
+ JAP_army_expansion_idea:0 "Expansion de l'Armée de terre"
+
+ #Switch nav bombers to maritime patrol, CV nav bombers to nav bombers
+##Base game
+# JAP_nav_bomber_equipment_2:1 "Mitsubishi G4M"
+# JAP_nav_bomber_equipment_2_short:1 "G4M"
+# JAP_nav_bomber_equipment_3:1 "Yokosuka P1Y Ginga"
+# JAP_nav_bomber_equipment_3_short:1 "P1Y Ginga"
+# JAP_cv_nav_bomber_equipment_1:0 "Nakajima B5N"
+# JAP_cv_nav_bomber_equipment_1_short:0 "B5N"
+# JAP_tac_bomber_equipment_2:1 "Kawasaki Ki-48"
+# JAP_tac_bomber_equipment_2_short:1 "Ki-48"
+# JAP_cv_nav_bomber_equipment_3:0 "Aichi B7A"
+# JAP_cv_nav_bomber_equipment_3_short:0 "B7A" 
+# JAP_nav_bomber_equipment_1:0 "G3M1 Model 11"
+# JAP_nav_bomber_equipment_1_short:0 "G3M1"
+# JAP_cv_nav_bomber_equipment_2:0 "Nakajima B6N"
+# JAP_cv_nav_bomber_equipment_2_short:0 "B6N"
+ 
+ 
+ ##Fixed
+
+ JAP_nav_bomber_equipment_1:0 " Nakajima B5N"
+ JAP_nav_bomber_equipment_1_short:0 "B5N"
+ JAP_nav_bomber_equipment_2:0 " Nakajima B6N"
+ JAP_nav_bomber_equipment_2_short:0 "B6N" 
+ JAP_nav_bomber_equipment_3:0 " Aichi B7A"
+ JAP_nav_bomber_equipment_3_short:0 "B7A"
+
+ 
+#Maritme bombers
+ JAP_flying_boat_equipment_equipment_1:0 " G3M1 Model 11"
+ JAP_flying_boat_equipment_1_short:0 "G3M1" 
+ JAP_flying_boat_equipment_2:1 " Mitsubishi G4M"
+ JAP_flying_boat_equipment_2_short:1 "G4M"
+ JAP_flying_boat_equipment_3:1 " Yokosuka P1Y Ginga"
+ JAP_flying_boat_equipment_3_short:1 "P1Y Ginga"
+ 
+ JAP_redesign_the_naval_guns:0 "Modifier les canons de la marine"
+ JAP_redesign_the_naval_guns_desc:0 "Afin de permettre la suprématie de nos navires, des canons modernes doivent être conçus, améliorant la portée et l'efficacité de nos honorables flottes."
+ 
+
+  r56_japan.1.t:0 "L'incident du 26 février" 
+  r56_japan.1.desc:0 "Il semble qu'une tentative de coup d'État ait été faite par de jeunes officiers de l'armée. Prétendant être une « armée vertueuse », ils ont tué de nombreux politiciens et critiques qui n'étaient pas d'accord avec leur rhétorique trop nationaliste. Nous avons réagi rapidement et avons mis fin à cette rébellion. Beaucoup des membres de ce coup d'état sont de la faction Kōdōha au sein de notre gouvernement et de notre armée."
+  r56_japan.1.a:0 "L'insurrection ne sera pas tolérée"
+  r56_japan.2.t:0 "Coopération technologique japonaise"
+  r56_japan.2.desc:0 "Afin d'assurer notre supériorité militaire, le gouvernement [JAP.GetAdjMS] encourage la coopération technologique avec ses alliés. Ils préparent leurs plans dès que possible."
+  r56_japan.2.a:0 "Excellent."

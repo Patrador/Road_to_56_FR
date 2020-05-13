@@ -1,0 +1,33 @@
+﻿l_french:
+
+ CRI_fascism:0 "État de Crimée"
+ CRI_fascism_DEF:0 "l'État de Crimée"
+ CRI_neutrality:0 "Crimée"
+ CRI_neutrality_DEF:0 "la République de Crimée"
+ CRI_democratic:0 "Crimée"
+ CRI_democratic_DEF:0 "la République de Crimée"
+ CRI_communism:0 "République soviétique de Crimée"
+ CRI_communism_DEF:0 "la République soviétique de Crimée"
+ CRI_fascism_ADJ:0 "criméen"
+ CRI_communism_ADJ:0 "criméen"
+ CRI_democratic_ADJ:0 "criméen"
+ CRI_neutrality_ADJ:0 "criméen"
+ CRI_SOV_subject:0 "RSSA de Crimée"
+ CRI_SOV_autonomy_colony:0 "RSSA de Crimée"
+ CRI_SOV_autonomy_integrated_puppet:0 "RSSA de Crimée"
+ CRI_SOV_autonomy_dominion:0 "RSSA de Crimée"
+
+ CRI_amet_ozenbashli:0 "Amet Ozenbashli"
+ CRI_sahip_bolat_abdurrahim:0 "Sahip Bolat Abdurrahim"
+ CRI_salix_saydas:0 "Salix Saydas"
+ CRI_septar_mehmet_yakub:0 "Septar Mehmet Yakub"
+ CRI_jaffer_seydamegt_kirimeger:0 "Jaffer Seydamegt Kirimeger"
+ CRI_mustafa_edige_kirimal:0 "Mustafa Edige Kirimal"
+ CRI_abdul_celil_menbariyev:0 "Abdul-Celil Menbariyev"
+ CRI_pavel_novitsky:0 "Pavel Novitsky"
+ CRI_yusuf_isa_halim:0 "Yusuf Isa Halim"
+ CRI_memet_ibraimov:0 "Memet Ibraimov"
+
+
+ CRI_generic_industrial_concern:0 "Usine de l'État de Simferopol" #identical to factory 3, can't name it boshevik
+ CRI_generic_motorized_equipment_manufacturer:0 "Usine de Simferopol 3"

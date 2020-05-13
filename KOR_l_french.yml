@@ -1,2 +1,26 @@
 ﻿l_french:
- r56_KOR_decision_kim_il_sung_takes_command:0 "Kim Il Sung prend le commandement de l'armée"
+
+#Country Stuff
+KOR_neutrality_party_independence_long:0 "Parti pour l'Indépendance de la Corée"
+KOR_neutrality_party_independence:0 "PIC" 
+#Focus
+ KOR_military_industrial_cooperation:0 "Coopération militaro-industrielle"
+ KOR_military_industrial_cooperation_desc:0 "L'armée ne peut pas exister sans les ingénieurs et les petites mains qui conçoivent les armes de guerre modernes."
+ KOR_expanded_research_program:0 "Programme de recherche étendu"
+ KOR_expanded_research_program_desc:0 "L'extension de nos capacités nous permet désormais de financer encore plus de programmes d'armement."
+#Custom Tooltips
+#Flags
+#Ideas
+#Events
+#Decisions
+r56_KOR_decision_kim_il_sung_takes_command:0 "Kim Il Sung prend le commandement de l'armée"
+#Advisors
+#Companies
+KOR_generic_light_aircraft_manufacturer:0 "Pyeongtaek Airbase Workshop"
+KOR_generic_infantry_equipment_manufacturer:0 "Jinsen Arsenal"
+KOR_generic_industrial_concern:0 "Hyundai Engineering & Construction"
+KOR_generic_electronics_concern:0 "Samsung"
+KOR_hanjin_heavy_industries:0 "Hanjin Heavy Industries"
+KOR_daelim_petrochemicals:0 "Daelim Petrochemicals"
+#Traits
+#Misc

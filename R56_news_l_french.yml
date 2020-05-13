@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_french:
  
 #News
 r56.news_event.1.t:0 "Mussolini retiré du pouvoir"
@@ -8,9 +8,9 @@ r56.news_event.1.a:0 "L'incompétence militaire italienne frappe à nouveau !"
 #1938 world cup
 
 r56.news_event.2.t:0 "Coupe du monde de 1938"
-r56.news_event.2.desc:0 "La Coupe du Monde s'est tenue récemment en France. C'était la troisième édition du tournoi. 15 équipes ont participé à un tournoi à élimination.\n\nLa Suisse contrarie l’Allemagne dès le premier tour en battant les Allemands aux tirs au but, bien que les Suisses aient été éliminés au tour suivant par la Hongrie. L’équipe hongroise s’est rendue jusqu’à la finale mais a finalement été battue par l’Italie. C'est la deuxième fois que l'Italie remporte le tournoi. Le Brésil a également battu la Suède dans la finale de consolation pour obtenir la troisième place.\n\nLa Coupe du Monde a été une distraction agréable pour beaucoup permettant d'éloigner les esprits de l'orage qui se forme en Europe."
-r56.news_event.2.a:0 "Faisons-la à nouveau dans quatre ans..."
-r56.news_event.2.b:0 "Gloire à l'Italie !"
+r56.news_event.2.desc:0 "La Coupe du Monde s'est tenue récemment en France. C'était la troisième édition du tournoi. Quinze équipes ont participé à un tournoi à élimination.\n\n[SWI.GetNameDefCap] contrarie [GER.GetNameDef], bien que les [SWI.GetHabitants] aient été éliminés au tour suivant par [HUN.GetNameDef]. L’équipe [HUN.GetAdjFS] s’est rendue jusqu’à la finale mais a finalement été battue par [ITA.GetNameDef]. C'est la deuxième fois que [ITA.GetNameDef] remporte le tournoi. Le Brésil a également battu la Suède dans la finale de consolation pour obtenir la troisième place.\n\nLa Coupe du Monde a été une distraction agréable pour beaucoup permettant d'éloigner les esprits de l'orage qui se forme dans le monde entier."
+r56.news_event.2.a:0 "Faisons-la à nouveau dans quatre ans !"
+r56.news_event.2.b:0 "Gloire aux [ITA.GetHabitants] !"
  
 r56.news_event.3.t:0 "L'Albanie rejoint le Komintern"
 r56.news_event.3.d:0 "Enver Hoxha, président du Parti communiste albanais, a décidé d'envoyer une demande d'adhésion au Komintern. L'Union soviétique a accepté la demande d'adhésion de l'Albanie et l'ancien royaume d'Albanie fait maintenant partie de la Troisième Internationale. Les deux pays partageant les mêmes idées et ambitions, leur amitié semble solide et l'Albanie prévoit un avenir prometteur pour leur place en Europe." 
@@ -18,4 +18,12 @@ r56.news_event.3.a:0 "Une autre victoire pour les idéaux communistes !"
 #was news 336
 r56.news_event.4.t:0 "L'Albanie rejoint l'Axe"
 r56.news_event.4.d:0 "L'Allemagne a accepté la demande de l'Albanie de rejoindre l'Axe. Ils s’opposent maintenant au communisme et aux nations démocratiques. Le roi Zog a exprimé la volonté de montrer au monde entier la puissance de son pays. Le Royaume-Uni et la France ont exprimé leur inquiétude face à la montée du fascisme en Europe et ont rappelé aux autorités allemandes les règles du Traité de Versailles que l'Allemagne devait respecter. Il semble que les démocraties occidentales ne semblent pas réagir contre l'Allemagne et l'Albanie."
-r56.news_event.4.a:0 "Jetoni Shqipërinë!"
+r56.news_event.4.a:0 "Jetoni Shqipërinë !"
+#Mythical Event, Prob would had been held in South America due to FIFA internal politics. 
+
+#1942 world cup
+
+r56.news_event.6.t:0 "Coupe du monde de 1942"
+r56.news_event.6.desc:0 "La Coupe du Monde s'est tenue récemment [URG.GetAuEnANP] [URG.GetName]. C'était la quatrième édition du tournoi. Seize équipes ont participé à un tournoi à élimination. \n \nLes anciens champions [ITA.GetAdjMP] ont été battus au deuxième tour par les hôtes. Bien que la course des hôtes se termine en demi-finale, car ils ont été battus par [GER.GetNameDef]. L'équipe [GER.GetAdjFS] a finalement gagné en battant [BRA.GetNameDef] en finale lors un match tendu. C'était la première fois que [GER.GetNameDef] remporte le tournoi.\n \n La Coupe du monde a été une agréable distraction pour beaucoup. Elle a permis d'éloigner les esprits de la situation politique tendue qui se développe dans le monde entier."
+r56.news_event.6.a:0 "Faisons-la à nouveau dans quatre ans !"
+r56.news_event.6.b:0 "Gloire aux [GER.GetHabitants] !"

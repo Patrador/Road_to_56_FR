@@ -1,16 +1,16 @@
 ﻿l_french:
- The_destiny_of_azerbaijan_category:0 "Le Destin de l'Azerbaïdjan"
+ The_destiny_of_azerbaijan_category:0 "Le destin de l'Azerbaïdjan"
  The_destiny_of_azerbaijan_category_desc:0 "Au carrefour des mondes depuis des siècles, le pétrole de Bakou a fait de l’Azerbaïdjan une région encore plus stratégique que jamais. Après l’échec de la première République, qui s’est effondrée sous le régime bolchevique, l’espoir d’une indépendance restaurée a survécu au cœur de certains. Avec notre soutien actif et une contre-attaque décisive contre l'Empire Rouge, un nouvel espoir peut s'allumer et le retour de la souveraineté azéri peut être garanti." 
  AZR_liberators:0 "Libérateur de l'Azerbaïdjan"
  
- AZR_form_azerbaijani_national_council:0 "Former un Conseil National Azéri"
- AZR_establish_azerbaijani_legion:0 "Recruter une Légion Azérie"
+ AZR_form_azerbaijani_national_council:0 "Former un conseil national azéri"
+ AZR_establish_azerbaijani_legion:0 "Recruter une légion azérie"
  AZR_establish_azerbaijani_legion_cost:0 "£army_experience §H10§! £pol_power §H25§! £command_power §H25§!"
  AZR_establish_azerbaijani_legion_cost_blocked:0 "£army_experience §R10§! £pol_power §R25§! £command_power §R25§!"
  AZR_establish_azerbaijani_legion_cost_tooltip:0 "Cela coûte £army_experience 10, £pol_power 25 et  £command_power 25 pour sélectionner cela."
- AZR_establish_national_azerbaijani_government:0 "Établir un Gouvernement National Azéri"
+ AZR_establish_national_azerbaijani_government:0 "Établir un gouvernement national azéri"
  
- AZR_event.1.t:0 "Les Volontaires veulent Rentrer !"
- AZR_event.1.desc:0 "Les divisions de volontaires ont été formées dans le but de combattre l'[SOV.GetName] et de libérer l'Azerbaïdjan. Avec la défaite de l'État [SOV.GetAdjective], ces volontaires ont le sentiment que leur mission est accomplie et ils veulent être renvoyés chez eux."  
+ AZR_event.1.t:0 "Les volontaires veulent rentrer !"
+ AZR_event.1.desc:0 "Les divisions de volontaires ont été formées dans le but de combattre [SOV.GetLeLaLNP] [SOV.GetName] et de libérer l'Azerbaïdjan. Avec la défaite de l'État [SOV.GetAdjMS], ces volontaires ont le sentiment que leur mission est accomplie et ils veulent être renvoyés chez eux."  
  AZR_event.1.a:0 "Les convaincre de rester un peu plus longtemps"
  AZR_event.1.b:0 "Dissoudre leur division."

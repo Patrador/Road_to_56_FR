@@ -1,0 +1,11 @@
+﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
+
+#--> All the modifiers created by new buildings/techs
+
+l_french: 
+
+   naval_armor_tech_research:0 "Vitesse de recherche du blindage navals"
+   naval_gunnery_tech_research:0 "Vitesse de recherche de l'artillerie navale"
+   modifier_production_speed_steel_mill_factor:0 "Vitesse de constructions de l'§Yaciérie§!"
+   modifier_production_speed_aluminum_mill_factor:0 "Vitesse de constructions de l'§Yusine d'aluminium§!"
+   modifier_production_speed_rubber_refinery_factor:0 "Vitesse de constructions de la §Yraffinerie de caoutchouc§!"

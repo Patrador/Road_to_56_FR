@@ -1,8 +1,20 @@
 ﻿l_french: 
 
+ HUN_form_the_mdp:0 "Former le MDP"
+ HUN_form_the_mdp_desc:0 "Une réorganisation des partis politiques doit se faire en créant un front uni et en incluant les nombreux partis de gauche, avec le Parti communiste à sa tête."
+ HUN_turn_the_adriatic_red:0 "Tourner l'Adriatique en rouge"
+
+ HUN_liberate_the_austrians:0 "Libérer les Autrichiens"
+
+ HUN_expand_the_levente:0 "Développer le Levente"
+ HUN_expand_the_levente_desc:0 "L'association Levente est une organisation paramilitaire qui existe depuis 1921, créée à l'origine à des fins d'entraînement physique et de santé, mais qui a ensuite été militarisée pour contourner les restrictions du traité de Trianon."
+ HUN_acquire_skoda_naval_artillery_experience:0 "Acquérir l'expérience de l'artillerie navale Skoda"
+ HUN_acquire_skoda_naval_artillery_experience_desc:0 "Skoda a conçu les canons de la marine austro-hongroise, il est temps de mettre cette expérience à profit une fois de plus." 
+
+
  HUN_john_von_neumann:0 "János Lajos Neumann"
  HUN_paul_erdos:0 "Paul Erdős"
- HUN_carrier:0 "Recherche de Porte-Avions"
+ HUN_carrier:0 "Recherche de porte-avions"
  HUN_carrier_desc:0 "Les avions navals sont le prochain palier dans la guerre navale."
  mavag_tank:0 "MÁVAG"
  mw_tank:0 "Manfred Weiss"
@@ -10,3 +22,22 @@
  raba:0 "Rába "
  maort:0 "Magyar-Amerikai Olajipari"
  haesz:0 "HAESZ"
+ HUN_generic_medium_aircraft_manufacturer:0 "Repülő Muszaki Intézet"
+ HUN_generic_heavy_aircraft_manufacturer:0 "Repülő Muszaki Intézet"
+ HUN_diosgyor_iron_and_steelworks:0 "Diósgyőr Iron and Steelworks"
+ HUN_generic_naval_aircraft_manufacturer:0 "AVIS"
+ HUN_ikarus:0 "Usine des forges et de l'atelier automobile d'Imre Uhri"
+
+ HUN_amphibious_tank_equipment_1:0 "Straussler V–4"
+ #
+
+ #kinda easter egg
+ HUN_impose_admiralty_government_GER:0 "Imposer à l'Allemagne un gouvernement dirigé par l'amirauté"
+ HUN_impose_admiralty_government_FRA:0 "Imposer à la France un gouvernement dirigé par l'amirauté"
+
+ HUN_organize_workers_collectives:0 "Organiser les collectifs de travailleurs"
+ HUN_organize_workers_collectives_desc:0 "En organisant des collectifs de travailleurs, nous pourrons prendre le contrôle de l'économie et enfin enterrer le capitalisme."
+ HUN_new_invasion_of_slovakia:0 "Nouvelle invasion de la Slovaquie"
+ HUN_new_invasion_of_slovakia_desc:0 "Soumettons les Slovaques une fois pour toutes et prenons notre revanche sur notre échec de 1919."
+ HUN_oil_refining_infrastructure:0 "Infrastructure de raffinage du pétrole"
+ HUN_oil_refining_infrastructure_desc:0 "Afin d'assurer l'exploitation de nos champs pétroliers, nous devons équiper le pays des raffineries et des silos à carburant nécessaires."

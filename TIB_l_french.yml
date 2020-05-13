@@ -91,10 +91,10 @@ l_french:
  TIB_monasteries_up_tt:0 "§GIncrease§! the opinion of the monasteries.\n"
  TIB_monasteries_down_tt:0 "§RDecrease§! the opinion of the monasteries.\n"
 
- TIB_communism:0 "Tibetan People's Republic"
- TIB_communism_DEF:0 "The Tibetan People's Republic"
- TIB_democratic:0 "Reformed Tibet"
- TIB_democratic_DEF:0 "The Reformed Tibet"
+ TIB_communism:0 "République populaire du Tibet"
+ TIB_communism_DEF:0 "la République populaire du Tibet"
+ TIB_democratic:0 "Tibet réformé"
+ TIB_democratic_DEF:0 "le Tibet réformé"
  
  TIB_democratic_party:0 "Kyicho Küntün"
  TIB_democratic_party_long:0 "Kyicho Küntün Party"
@@ -145,6 +145,7 @@ l_french:
  TIB_chikyak_khenpo_lobsang_geleg:0 "Chikyak Khenpo Lobsang Geleg"
  TIB_rinzin_dorji:0 "Rinzin Dorji Ringang"
  TIB_changra_sapron:0 "Changra Sapron"
+ TIB_thubten_kunphela:0 "Thubten Kunphela"
 
  TIB_mountainous_people:0 "Mountainous People"
  TIB_mountainous_people_desc:0 "§WInfantry has §G+10%§! §Yspeed§! §Wand §G+2%§! §Yattack on mountains§!"
