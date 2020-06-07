@@ -68,3 +68,88 @@
  saudi.3.t:0 "L'Allemagne refuse d'envoyer des troupes"
  saudi.3.d:0 "Citant en particulier la priorité qu'elle accorde à la défense du territoire allemand, l'Allemagne refuse d'envoyer des troupes pour défendre l'Arabie saoudite."
  saudi.3.a:0 "Nous devrons nous défendre seuls"
+ 
+ ############################
+ #######ARMYLOCALISATION#####
+ ############################
+ 
+ SAU_army_focus_1:0 "L'armée saoudienne"
+ SAU_army_focus_1_desc:0 "Il est temps de lancer des programmes et de consacrer des ressources à l'amélioration de la technologie et des performances de notre armée en général."
+
+ SAU_army_infantry:0 "Technologie d'infanterie"
+ SAU_army_infantry_desc:0 "Notre équipement d'infanterie doit être mis à niveau pour être plus performant, nous devons faire des efforts dans la conception de nouveaux équipements d'infanterie."
+
+ SAU_army_infantry_desert:0 "Équipement du désert"
+ SAU_army_infantry_desert_desc:0 "L'armée saoudienne doit être fortement préparée à combattre dans l'environnement naturel de l'Arabie - le désert. Nous devons nous efforcer de fournir à nos soldats l'équipement nécessaire pour une telle tâche." 
+
+ SAU_artillery:0 "Artillerie"
+ SAU_artillery_desc:0 "Nos forces doivent disposer de pièces d'artillerie adéquates pour rivaliser avec les autres nations sur la scène mondiale."
+
+ SAU_land_doctrine1:0 "Nouvelles tactiques"
+ SAU_land_doctrine1_desc:0 "Nous devrions nous efforcer d'innover nos tactiques militaires pour améliorer l'armée saoudienne dans son ensemble."
+
+ SAU_desert_buff:0 "Spécialisation du désert saoudien"
+ SAU_desert_buff_desc:0 "Nous devrions faire encore plus d'efforts et insister sur l'importance de préparer réellement l'armée saoudienne au combat dans l'environnement naturel de l'Arabie."
+
+ SAU_yemen_lessons:0 "Les leçons de 1934"
+ SAU_yemen_lessons_desc:0 "Nous devons nous souvenir de notre expérience de la guerre avec le Yémen en 1934, et nous devrions commencer à prendre des mesures actives pour créer de nouvelles tactiques militaires qui nous prépareraient mieux à une situation comme celle du Yémen."
+
+ SAU_strengthen_weakness:0 "Notre revers au Yémen"
+ SAU_strengthen_weakness_desc:0 "Une des seules choses que les Yéménites avaient un avantage pour nous pendant la guerre de 1934 était l'expérience de leurs troupes dans la guerre en montagne. Nous devrions activement prendre des mesures pour améliorer nos troupes afin de répondre à un tel environnement."
+
+ SAU_romanticize_army:0 "Romancer le service militaire"
+ SAU_romanticize_army_desc:0 "Nous devrions prendre des mesures pour faire de l'idée générale du service militaire une entreprise spectaculaire et une aventure. De plus en plus de personnes s'engageront ainsi."
+
+ SAU_military_academies:0 "Créer des académies militaires"
+ SAU_military_academies_desc:0 "L'expertise militaire et la bravoure de nos ancêtres historiques ont disparu depuis longtemps, nous devrions maintenant essayer de faire revenir la planification militaire et l'expertise tactique arabes."
+
+ SAU_cavalry_focus:0 "L'ancienne cavalerie"
+ SAU_cavalry_focus_desc:0 "La cavalerie et les chevaux arabes sont toujours utilisés en grand nombre, et les nouvelles doctrines sont négligées pour conserver les anciennes. Nous devrions prendre des mesures actives pour moderniser notre cavalerie."
+
+ SAU_incorporate_nomad_tactics:0 "Intégrer des tactiques de cavalerie nomade"
+ SAU_incorporate_nomad_tactics_desc:0 "Les tactiques nomades des tribus arabes peuvent être utiles si nous théorisons des moyens de les mettre en œuvre dans les doctrines militaires modernes."
+
+ SAU_special_forces_focus:0 "Forces spéciales saoudiennes"
+ SAU_special_forces_focus_desc:0 "Nous devons nous concentrer sur la création d'hommes qui dépassent les limites de la guerre normale. Des hommes que les autres nations craignent. Nos forces spéciales devraient être parmi les meilleures du monde."
+
+ SAU_motorization:0 "Une armée motorisée"
+ SAU_motorization_desc:0 "Nous devrions prendre des mesures pour faire une armée saoudienne motorisée afin de concurrencer les autres puissances, y compris les puissances européennes."
+
+ SAU_tank_focus:0 "Chars saoudiens"
+ SAU_tank_focus_desc:0 "Nous devrions nous efforcer de créer de nouveaux modèles de chars d'assaut qui rivalisent avec les puissances européennes."
+
+ SAU_tank_innovations:0 "Innovations sur les chars"
+ SAU_tank_innovations_desc:0 "Comme nous n'avons pas la même capacité ni la même base industrielle pour produire autant de chars que les puissances européennes, nous devrions travailler sur des méthodes permettant de fabriquer nos chars d'une manière fiable, mais moins coûteuse."
+
+ SAU_general_army_buff:0 "Revigorer l'armée saoudienne"
+ SAU_general_army_buff_desc:0 "Nous sommes sur le point d'achever la création d'une armée saoudienne revigorée et puissante grâce à tous les efforts que nous avons déployés dans notre doctrine et notre technologie."
+
+ SAU_desert_buff1:0 "Spécialisation du désert saoudien"
+ SAU_desert_buff1_desc:0 "L'armée saoudienne est très bien préparée pour le combat en milieu désertique."
+
+ SAU_romanticize_army1:0 "Service militaire romancé"
+ SAU_romanticize_army1_desc:0 "Le peuple saoudien considère que s'engager et combattre dans l'armée est une belle et romantique entreprise."
+
+ SAU_tank_innovations1:0 "Innovations sur les chars"
+ SAU_tank_innovations1_desc:0 "Nous avons créé des méthodes nouvelles et moins coûteuses de production de chars."
+
+ SAU_general_army_buff1:0 "Armée saoudienne revigorée"
+ SAU_general_army_buff1_desc:0 "L'armée saoudienne est maintenant une force de combat puissante et revigorée grâce à nos efforts en matière de technologie et de doctrine."
+ 
+ SAU_incorporate_nomad_tactics1:0 "Tactiques nomades intégrées"
+ SAU_incorporate_nomad_tactics1_desc:0 "Nous avons intégré des aspects de la guerre arabe nomade dans notre doctrine militaire moderne."
+
+ SAU_encourage_general_creativity:0 "Encourager de nouvelles tactiques d'infanterie"
+ SAU_encourage_general_creativity_desc:0 "Nous devrions donner plus de liberté à nos généraux au lieu de nous conformer aux vieilles tactiques arabes en raison de la nature changeante de la guerre."
+
+ SAU_creative_generals:0 "Généraux créatifs"
+ SAU_creative_generals_desc:0 "Nos généraux ont plus de liberté pour décider de la bonne ou de la mauvaise ligne de conduite."
+
+ SAU_support_companies:0 "Compagnies de soutien"
+ SAU_support_companies_desc:0 "Nous devrions faire des efforts pour mettre en place des compagnies de soutien dans notre armée"
+
+ SAU_radio_innovations:0 "Innovations radio"
+ SAU_radio_innovations_desc:0 "Nous connaissons déjà l'importance et la force de l'utilisation de la radio dans la guerre, nous devrions maintenant faire un effort pour renforcer l'utilisation de la radio par l'armée saoudienne."
+
+ SAU_radio_innovations1:0 "Innovations radio"
+ SAU_radio_innovations1_desc:0 "Nous avons fait des efforts pour renforcer l'utilisation de la radio par l'armée saoudienne."

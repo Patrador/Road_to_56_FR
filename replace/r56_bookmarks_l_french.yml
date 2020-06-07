@@ -4,7 +4,6 @@
  #Keep in mind countries that don't appear here might use their localization from the base game or country-specific files.
 
  ###---> Currently Used <><> <><> <><>
-
  GRE_GATHERING_STORM_DESC:0 "Pour la Grèce, la Grande Guerre n'a pas pris fin en 1918. La guerre désastreuse avec la Turquie et les terribles effets du schisme national ont laissé de nombreuses blessures ouvertes à la nation grecque. La Grande Dépression, le chômage, l'instabilité sociale et politique et la montée du radicalisme ont amené le petit pays de Grèce à la croisée des chemins pour décider de son propre avenir, surmonter les nombreux problèmes et envisager l'avenir comme leur héritage le demande."
 
  HOL_GATHERING_STORM_DESC:0 "Les Pays-Bas traversent actuellement une crise profonde. Le pays a été touché un peu plus tard que d’autres par la Grande Dépression : il souffre actuellement de ses effets les plus graves. Le taux de chômage a atteint un niveau record et le gouvernement n'a pas encore réagi, préférant s'en tenir jusqu'ici à une politique d'équilibre budgétaire et de confiance dans l'étalon-or. Heureusement, la doctrine économique du gouvernement est en train de changer en raison de la pression de la rue. Pour aggraver les choses, l'Allemagne se réarme et le gouvernement sait qu'il sera extrêmement difficile de rester neutre cette fois-ci si l'Europe brûlait à nouveau."
@@ -13,7 +12,9 @@
  
  SIA_GATHERING_STORM_DESC:0 "En 1932, un coup d'État met fin à la monarchie absolue, la première constitution est mise en place et Khana Ratsadon (Parti populaire) prend le relais. Néanmoins, l'armée assumait un rôle croissant dans l'arène politique: renversant le Premier ministre et le remplaçant par Phraya Phahonphonphonphayuhasena. Alors que le spectre du fascisme incarné par Plaek Phibunsongkhram semble gagner du terrain au sein de l'armée, la division entre les ailes du parti s'élargit. Auparavant frères, les courants sont devenus des rivaux et un seul sera autorisé à présider au destin du pays."
 
- IRE_GATHERING_STORM_DESC:0 "L'Irlande est dans une situation difficile depuis de nombreuses années. Après avoir obtenu son indépendance de la Grande-Bretagne, l'Irlande se débat dans une guerre commerciale sans fin avec le Royaume-Uni, et la question de la constitution reste à voir."
+ TUR_GATHERING_STORM_DESC:0 "Après la chute de l'Empire ottoman lors de la Grande Guerre, l'avenir de la Turquie semblait bien sombre. Mais la Turquie s'est relevée comme un phénix des feux de la guerre d'indépendance turque. Dirigée par Mustafa Kemal Atatürk et son idéologie kémaliste, la Turquie semble forte et sûre. Mais son peuple est fatigué et a besoin de paix. Il faudra un autre grand changement pour réveiller ce lion endormi."
+ 
+ LUX_GATHERING_STORM_DESC:0 "Le Grand-Duché de Luxembourg est un pays enclavé qui a beaucoup souffert au cours des dernières années. Des invasions répétées de pays étrangers, mais le petit pays se tient toujours entre les géants. Avec la tempête qui se prépare actuellement... il est temps pour le Luxembourg de se préparer et de prendre une position ferme."
  
  ###---> Currently Unused <><> <><> <><>
  BEL_GATHERING_STORM_DESC:0 "La Belgique peut sembler être un territoire insignifiant entre la France et l’Allemagne, mais c’est un pays à forte densité industrielle qui tire des ressources précieuses de sa colonie congolaise. Le pays est en train de se remettre de la Grande Dépression, les projets d'infrastructure battent leur plein et l'activité industrielle se redresse lentement. Sur la scène politique, un plus grand nombre d'électeurs cherchent des solutions dans les discours extrémistes. Léon Degrelle gagne en popularité jour après jour et peut menacer les coalitions traditionnelles de partis démocratiques. Pendant ce temps, les nationalistes flamands sont également actifs, propageant la dissidence parmi les rangs inférieurs de l'armée..."
@@ -32,6 +33,8 @@
 
  ICE_GATHERING_STORM_DESC:0 "L'Acte d'Union entre le Danemark et l'Islande, un accord signé le 1er décembre 1918 et valable pour 25 ans, reconnaissait l'Islande comme un État pleinement souverain et indépendant formant une union personnelle avec le Danemark. Le gouvernement islandais a établi une ambassade à Copenhague et a demandé au Danemark de s'occuper en son nom de certaines affaires de défense et d'affaires étrangères, sous réserve de consultations avec l'Althing."
  
+ IRE_GATHERING_STORM_DESC:0 "L'Irlande est dans une situation difficile depuis de nombreuses années. Après avoir obtenu son indépendance de la Grande-Bretagne, l'Irlande se débat dans une guerre commerciale sans fin avec le Royaume-Uni, et la question de la constitution reste à voir."
+ 
  LAT_GATHERING_STORM_DESC:0 "La Lettonie est à un carrefour important. À l'est, à l'est, notre ancien dirigeant, les Russes se sont réformés et sont devenus l'Union soviétique, le regard tourné vers l'ouest, affamés. À l'ouest, une Allemagne renaissante s'est réorganisée et semble plus prête que jamais à tenter de détruire les États baltes. Les prochaines années seront bonnes ou mauvaises pour la Lettonie. Allons-nous nous allier avec un des deux monstres, ou allons-nous emprunter une nouvelle voie ? Seul le temps le dira, mais le temps presse."
  
  SWI_GATHERING_STORM_DESC:0 "Depuis la conférence de Vienne sur les affaires internationales de 1815 après la défaite de Napoléon, la Confédération suisse est tenue de faire preuve de neutralité dans tout conflit entre nations. Cependant, avec la montée des fascistes en Allemagne, en Italie et même en Autriche. Les Suisses peuvent-ils rester dans leur neutralité ? Ou devront-ils prendre parti dans un futur conflit potentiel... ?"
@@ -45,7 +48,10 @@
 
 
  ###---> Scenario Names <><> <><> <><>
- GATHERING_STORM_NAME:0 "La tempête s'annonce (Recommandé)"
- BLITZKRIEG_NAME:0 "Que l'enfer se déchaîne"
+ GATHERING_STORM_NAME:0 "La tempête s'annonce"
+ BLITZKRIEG_NAME:0 "NON SUPPORTÉ"
+ 
+ FE_HISTORICAL:0 "Priorités historiques de l'IA"
+ FE_HISTORICAL_TOOLTIP:0 "L'AI choisira des §Ypriorités nationales§! dans l'ordre historique ainsi que des choix historiques dans les §Yévénements§! et les §Ydécisions§!. Sélectionnez cette option si vous souhaitez que d'autres pays suivent leur parcours historique plus fidèlement."
  
  #####-----> End of File <><> <><> <><> <><> <><>

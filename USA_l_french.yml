@@ -3,6 +3,9 @@
  USA_bethlehem_shipbuilding_corporation:0 "Bethlehem Shipbuilding Corporation"
  USA_william_c_lee:0 "William C. Lee"
  USA_elwood_richard_quesada:0 "Elwood R. Quesada"
+ rt56_j_edgar_hoover:0 "J. Edgar Hoover"
+ rt56_j_edgar_hoover_mil:0 "J. Edgar Hoover"
+ rt56_john_j_pershing:0 "John J. Pershing"
 
  USA_curtiss_wright:0 "Curtiss-Wright"
  USA_claude_shannon:0 "Claude Shannon"
@@ -27,3 +30,17 @@
  r56_usa.1.desc:0 "Une fois de plus, Thomas Dewey est le titulaire contre le candidat actuel. Cette fois-ci, Harry Truman se présente à la présidence en tant que successeur de Franklin Roosevelt."
  r56_usa.1.a:0 "Truman remporte les élections"
  r56_usa.1.a:0 "Dewey remporte les élections"
+ 
+ r56_usa.2.t:0 "L'armée de l'air demande une plus grande autonomie"
+ r56_usa.2.desc:0 "\nLes officiers de l'armée de l'air et le haut commandement de l'armée de terre ont toujours eu des conflits entre eux depuis la création de l'armée de l'air sur l'autonomie de l'armée de l'air au sein de l'armée de terre. Il semble que cette question ait pris de l'ampleur avec la création récente de la division des plans de guerre aérienne. Dans le passé, nous avons fait taire les officiers de l'armée de l'air qui s'exprimaient sur cette question, notamment Henry Arnold. Mais il semble que nous ne puissions plus ignorer la question et que nous devions prendre une décision finale sur l'autonomie de l'armée de l'air au sein de nos forces armées."
+ r56_usa.2.c:0 "L'armée de l'air reste dans l'armée de terre !"
+ r56_usa.2.a:0 "Promouvoir Henry Arnold est une bonne chose."
+ r56_usa.2.b:0 "Accorder à l'armée de l'air l'autonomie qu'elle souhaite."
+
+
+
+
+ USA_carrier_1:0 "Classe Langley"
+ USA_carrier_1_desc:0 "Le porte-avions de la classe Langley est né de la conversion de la coque d'un navire de la classe Jupiter. Cela lui a permis de se conformer aux limites imposées par le traité naval de Washington. Cette classe a été la première classe de porte-avions opérationnels de la marine américaine et a passé plus d'une décennie à améliorer les opérations des porte-avions."
+
+ r56_j_edgar_hoover_given_army_command:0 "Est actuellement un général"

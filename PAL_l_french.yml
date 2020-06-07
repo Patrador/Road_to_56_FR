@@ -1,6 +1,10 @@
 ﻿l_french:
  PAL_shell_palestine:0 "Bombarder la Palestine"
 
+ PAL_tarab_abdul_hadi:0 "Tarab Abdul Hadi"
+ PAL_generic_communist_revolutionary:0 "Sami Taha"
+
+
  ISR_generic_light_aircraft_manufacturer:0 "Bedek Aviation"
 
  ISR_generic_communist_revolutionary:0 "Eliezer Preminger"

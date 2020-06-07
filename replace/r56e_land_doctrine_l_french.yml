@@ -37,7 +37,7 @@ r56_last_stand_desc:0 "Quand il n'y a plus de terrain à donner, vous devez creu
 R56_BREAKOUT_LABEL:0 "PERCÉE"
 R56_BREAKOUT_LABEL_TT:0 "§WLorsque l'ennemi s'épuise enfin sur notre défense, nous pouvons alors planifier une contre-attaque et une percée.§!"
 r56_breakout:0 "Percée"
-r56_breakout_desc:0 "Lorsque l'ennemi s'épuise enfin, nous pouvons alors planifier une contre-attaque et une percée à partir de notre défense."
+r56_breakout_desc:0 "§WLorsque l'ennemi s'épuise enfin, nous pouvons alors planifier une contre-attaque et une percée à partir de notre défense.§!"
 r56_breakthrough_priority:0 "Priorité à la percée"
 r56_breakthrough_priority_desc:0 "En élargissant la concentration opérationnelle, tous les besoins du front sont subordonnés à la nécessité de concentrer les forces pour les percées. Les défaites locales sont sans conséquence par rapport à un coup décisif."
 r56_operational_concentration:0 "Concentration opérationnelle"

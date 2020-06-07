@@ -5,9 +5,16 @@
  HUN_turn_the_adriatic_red:0 "Tourner l'Adriatique en rouge"
 
  HUN_liberate_the_austrians:0 "Libérer les Autrichiens"
+ HUN_liberate_the_austrians_desc:0 " "
 
  HUN_expand_the_levente:0 "Développer le Levente"
  HUN_expand_the_levente_desc:0 "L'association Levente est une organisation paramilitaire qui existe depuis 1921, créée à l'origine à des fins d'entraînement physique et de santé, mais qui a ensuite été militarisée pour contourner les restrictions du traité de Trianon."
+  
+ HUN_demand_the_coastline:0 "[ROOT.GetHUNdemandthecoastline]"
+ HUN_demand_the_coastline_desc:0 " "
+ GetHUNdemandthecoastlinenormal_KEY:0 "Exiger le littoral"
+ GetHUNdemandthecoastlineitaly_KEY:0 "Négocier le littoral"
+ 
  HUN_acquire_skoda_naval_artillery_experience:0 "Acquérir l'expérience de l'artillerie navale Skoda"
  HUN_acquire_skoda_naval_artillery_experience_desc:0 "Skoda a conçu les canons de la marine austro-hongroise, il est temps de mettre cette expérience à profit une fois de plus." 
 
@@ -34,6 +41,7 @@
  #kinda easter egg
  HUN_impose_admiralty_government_GER:0 "Imposer à l'Allemagne un gouvernement dirigé par l'amirauté"
  HUN_impose_admiralty_government_FRA:0 "Imposer à la France un gouvernement dirigé par l'amirauté"
+ HUN_try_to_reconcile_with_horthy_loyalists:0 "Tenter de se réconcilier avec les loyalistes de Horthy"
 
  HUN_organize_workers_collectives:0 "Organiser les collectifs de travailleurs"
  HUN_organize_workers_collectives_desc:0 "En organisant des collectifs de travailleurs, nous pourrons prendre le contrôle de l'économie et enfin enterrer le capitalisme."
@@ -41,3 +49,11 @@
  HUN_new_invasion_of_slovakia_desc:0 "Soumettons les Slovaques une fois pour toutes et prenons notre revanche sur notre échec de 1919."
  HUN_oil_refining_infrastructure:0 "Infrastructure de raffinage du pétrole"
  HUN_oil_refining_infrastructure_desc:0 "Afin d'assurer l'exploitation de nos champs pétroliers, nous devons équiper le pays des raffineries et des silos à carburant nécessaires."
+ 
+ HUN_revolt_of_the_arrow_crosses:0 "Révolte des Croix fléchées"
+ HUN_revolt_of_the_arrow_crosses_desc:0 "Le soi-disant régent a trahi la patrie et son armée pendant des années en gardant le pouvoir pour lui tout en étant complaisant avec les oppresseurs étrangers."
+ HUN_favor_the_army:0 "Privilégier l'armée"
+ HUN_favor_the_army_desc:0 "Il est de notre devoir de privilégier l'armée afin de donner à la Hongrie ses frontières historiques. Nous devons donc tout faire pour favoriser l'intérêt des officiers et guérir la division causée par le déplacement du traître Horthy."
+ HUN_foreign_aeronautical_assistance:0 "Assistance aéronautique étrangère"
+ HUN_foreign_aeronautical_assistance_desc:0 "Nos alliés peuvent nous aider à produire plus d'avions"
+ HUN_foreign_aeronautical_assistance_idea:0 "Assistance aéronautique étrangère"

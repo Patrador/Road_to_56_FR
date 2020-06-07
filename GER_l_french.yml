@@ -452,4 +452,6 @@ GER_operation_bolivar_desc:0 "Les différentes communautés d'exilés en Amériq
  GER_REUNITED_democratic:0 "République fédérale d'Allemagne"
  GER_REUNITED_fascism:0 "Reich allemand"
  GER_REUNITED_neutrality:0 "Empire allemand"
- GER_REUNITED_communism:0 "République socialiste allemande"  
+ GER_REUNITED_communism:0 "République socialiste allemande"
+ 
+ GER_cede_819_to_HUN:0 "Céder le Prekmurje à la Hongrie"

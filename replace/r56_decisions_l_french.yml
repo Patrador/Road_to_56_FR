@@ -102,3 +102,16 @@
  democratic_political_violence:0 "Inciter à la violence politique"
  communist_political_violence:0 "Inciter à la violence politique"
  fascism_political_violence:0 "Inciter à la violence politique"
+
+ try_to_recruit_lithuanian_officers:0 "Essayer de recruter des officiers lituaniens"
+ try_to_recruit_estonian_officers:0 "Essayer de recruter des officiers estoniens"
+ try_to_recruit_latvian_officers:0 "Essayer de recruter des officiers lettons"
+
+
+ try_to_recruit_norwegian_officers:0 "Essayer de recruter des officiers norvégiens"
+ try_to_recruit_finnish_officers:0 "Essayer de recruter des officiers finlandais"
+ try_to_recruit_swedish_officers:0 "Essayer de recruter des officiers suédois"
+ try_to_recruit_danish_officers:0 "Essayer de recruter des officiers danois"
+
+ try_to_recruit_mongol_officers:0 "Essayer de recruter des officiers mongols"
+ try_to_recruit_mengjiang_officers:0 "Essayer de recruter des officiers mengkiangais"

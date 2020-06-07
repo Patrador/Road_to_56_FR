@@ -918,6 +918,29 @@
  LBA_fascism_ADJ:0 "libyen"
  LBA_democratic_ADJ:0 "libyen"
  LBA_neutrality_ADJ:0 "libyen"
+ 
+ #KSV
+ KSV_fascism:0 "État kosovar"
+ KSV_fascism_DEF:0 "l'État kosovar"
+ KSV_democratic:0 "République du Kosovo"
+ KSV_democratic_DEF:0 "la République du Kosovo"
+ KSV_neutrality:0 "Kosovo"
+ KSV_neutrality_DEF:0 "le Kosovo"
+ KSV_communism:0 "République socialiste du Kosovo"
+ KSV_communism_DEF:0 "la République socialiste du Kosovo"
+ KSV_fascism_ADJ:0 "kosovar"
+ KSV_democratic_ADJ:0 "kosovar"
+ KSV_neutrality_ADJ:0 "kosovar"
+ KSV_communism_ADJ:0 "kosovar"
+ KSV_SER_autonomy_puppet:0 "Kosovo autonome"
+ KSV_YUG_autonomy_puppet:0 "Kosovo autonome"
+ KSV_SER_communism_autonomy_puppet:0 "Kosovo socialiste autonome"
+ KSV_YUG_communism_autonomy_puppet:0 "Kosovo socialiste autonome"
+ KSV_SER_fascism_autonomy_puppet:0 "État kosovar autonome"
+ KSV_YUG_fascism_autonomy_puppet:0 "État kosovar autonome"
+ KSV_SOV_communism_autonomy_puppet:0 "RSS du Kosovo"
+
+
 
  #LIT
  LIT_fascism:0 "Grand duché de Lituanie"
@@ -1199,7 +1222,7 @@
  PAR_fascism_ADJ:0 "paraguayen"
  PAR_democratic_ADJ:0 "paraguayen"
  PAR_neutrality_ADJ:0 "paraguayen"
- PAR_communism_ADJ:0 "paraguayen révolutionnaire"
+ PAR_communism_ADJ:0 "paraguayen"
  PAR_BRA_fascism:0 "Mato Grosso occidental"
  PAR_BRA_democratic:0 "Mato Grosso occidental"
  PAR_BRA_subject:0 "Mato Grosso occidental"
@@ -1309,6 +1332,23 @@
  SAD:0 "Sardaigne"
  SAD_DEF:0 "la Sardaigne"
  SAD_ADJ:0 "sarde"
+ 
+ #SER
+ SER_fascism:0 "État serbe"
+ SER_fascism_DEF:0 "l'État serbe"
+ SER_democratic:0 "Serbie"
+ SER_democratic_DEF:0 "la Serbie"
+ SER_neutrality:0 "Royaume de Serbie"
+ SER_neutrality_DEF:0 "le Royaume de Serbie"
+ SER_communism:0 "République socialiste de Serbie"
+ SER_communism_DEF:0 "la République socialiste de Serbie"
+ SER_fascism_ADJ:0 "serbe"
+ SER_democratic_ADJ:0 "serbe"
+ SER_neutrality_ADJ:0 "serbe"
+ SER_communism_ADJ:0 "serbe"
+ SER:0 "Serbie"
+ SER_DEF:0 "la Serbie"
+ SER_ADJ:0 "serbe"
 
  #SAU -missing line base game
  SAU_neutrality_ADJ:0 "saudien"

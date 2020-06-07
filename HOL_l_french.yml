@@ -299,7 +299,7 @@
  
  
  
- netherlands.1.t:0 ""The Prime Minister Has an Affair with a German Woman!""
+ netherlands.1.t:0 "The Prime Minister Has an Affair with a German Woman!"
  netherlands.1.desc:0 "A journal alledged in today's edition that the Prime Minister himself is in a relationship with a German woman named Hella Schultz. According to the journal's source, he was seen with her dining in Nice and they went to the same hotel in London a few months later. In addition the Dutch State security believes that even if she was officially expelled from Germany, she may actually be a German agent." 
  netherlands.1.a:0 "It was a private matter, I helped her to settle in Argentina."
  netherlands.1.b:0 "Deny Everything!" 
@@ -611,4 +611,7 @@
  HOL_revive_the_buffer_state_proposal_tt4:0 "§Y[HOL.GetName]§!: Has higher £legitimacy §YLegitimacy§! than §Y[WLL.GetName]§!"
  #benelux tooltip
  HOL_form_the_benelux_vla_tt:0 "Gets event '§YThe Netherlands invites [VLA.GetName] to the Benelux§!'.\n"
- HOL_form_the_benelux_wll_tt:0 "Gets event '§YThe Netherlands invites [WLL.GetName] to the Benelux§!'.\n" 
+ HOL_form_the_benelux_wll_tt:0 "Gets event '§YThe Netherlands invites [WLL.GetName] to the Benelux§!'.\n"
+ 
+ #form the benelux mtg focus (rewritten to make sense if VLA/WLL exists)
+ HOL_propose_benelux_unification_tt:0 "§REveryone must approve of the agreement for the bonuses to take effect.§!"

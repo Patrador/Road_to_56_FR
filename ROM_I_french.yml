@@ -7,3 +7,6 @@ ROM_philips_sar:0 "Philips S.A.R."
 DOD_romania.1000.t:0 "Le nouveau personnel"
 DOD_romania.1000.d:0 "Le nouveau régime communiste cherche à réorganiser l'armée et à remplacer les officiers de droite par des officiers de gauche, nous avons rassemblé des officiers prometteurs et nous nous préparons à les promouvoir."
 DOD_romania.1000.a:0 "Je suis sûr qu'ils peuvent faire leur travail"
+
+ROM_oil_refining_infrastructure:0 "Infrastructure de raffinage du pétrole"
+ROM_oil_refining_infrastructure_desc:0 "Afin d'exploiter efficacement notre pétrole, l'infrastructure de raffinage doit être développée."

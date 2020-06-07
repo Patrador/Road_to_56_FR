@@ -72,6 +72,7 @@
  develop_dushanzi_oil_field_with_soviet_help:0 "Développer le gisement pétrolier de Douchanzi avec l'aide soviétique"
  develop_nauru_phosphate_deposits:0 "Développer les dépôts de phosphate de Nauru"
  exploit_central_albanian_chromium_deposits:0 "Exploiter les dépots de chrome d'Albanie centrale"
+ exploit_dubova_chromium_deposits:0 "Exploiter les gisements de chrome de Dubova"
  exploit_cypriot_chromium_deposits:0 "Exploiter les dépôts de chrome chypriotes"
  exploit_sierra_leonean_chromium_deposits:0 "Exploiter les gisements de chrome de la Sierra Leone"
  develop_zambales_chromium_deposits:0 "Développer les dépôts de chrome de Zambales"
@@ -81,6 +82,11 @@
  develop_kamysh_burunsky_iron_deposits:0 "Développer les gisements de fer de Kamysh-Burunsky"
  exploit_amazonian_rubber:0 "Exploiter le caoutchouc amazonien"
  develop_kolymas_tungsten_mines_in_alaskinskaya:0 "Développer les mines de tungstène de Kolyma en Alaskinskaya"
+ develop_saguenay_aluminium_industry:0 "Développer l'industrie d'aluminium de Saguenay"
+ expand_the_ljubija_iron_mine:0 "Développer la mine de fer de Ljubija"
+ expand_the_erzberg_iron_mine:0 "Développer la mine de fer de l'Erzberg"
+ expand_the_mittersil_tungsten_mine:0 "Développer la mine de tungstène de Mittersill" 
+ reopen_montbelleux_tunsten_mine:0 "Réouvrir la mine de tungstène de Montbelleux"
 
 
 
@@ -150,6 +156,7 @@
  develop_dushanzi_oil_field_with_soviet_help_wtt:0 "Développer le gisement pétrolier de Douchanzi avec l'aide soviétique"
  develop_nauru_phosphate_deposits_wtt:0 "Développer les dépôts de phosphate de Nauru"
  exploit_central_albanian_chromium_wtt:0 "Exploiter le chrome d'Albanie centrale"
+ exploit_dubova_chromium_deposits_wtt:0 "Exploiter les gisements de chrome de Dubova"
  exploit_cypriot_chromium_deposits_wtt:0 "Exploiter les dépôts de chrome chypriotes"
  exploit_sierra_leonean_chromium_deposits_wtt:0 "Exploiter les gisements de chrome de la Sierra Leone"
  develop_zambales_chromium_deposits_wtt:0 "Développer les dépôts de chrome de Zambales"
@@ -160,6 +167,10 @@
  exploit_amazonian_rubber_wtt:0 "Exploiter le caoutchouc amazonien"
  develop_saguenay_aluminium_industry_wtt:0 "Développer l'industrie d'aluminium au Saguenay"
  develop_kolymas_tungsten_mines_in_alaskinskaya_wtt:0 "Développer les mines de tungstène de Kolyma en Alaskinskaya"
+ expand_the_ljubija_iron_mine_wtt:0 "Développer la mine de fer de Ljubija"
+ expand_the_erzberg_iron_mine_wtt:0 "Développer la mine de fer de l'Erzberg"
+ expand_the_mittersil_tungsten_mine_wtt:0 "Développer la mine de tungstène de Mittersill" 
+ reopen_montbelleux_tunsten_mine_wtt:0 "Réouvrir la mine de tungstène de Montbelleux"
 
 
  #ADAPTATION OF wtt
@@ -186,7 +197,6 @@
  develop_cornwall_tungsten_deposits_2:0 "Agrandir la mine Hemerdon"
  r56_develop_cornwall_tungsten_deposits_1:0 "Réouvrir la mine Hemerdon"
  r56_develop_cornwall_tungsten_deposits_2:0 "Agrandir la mine Hemerdon"
- develop_saguenay_aluminium_industry:0 "Développer l'industrie d'aluminium au Saguenay"
 
  #Flags
  kelham_hills_oil_field_developed:0 "Le gisement de pétrole des collines de Kelham est exploité"

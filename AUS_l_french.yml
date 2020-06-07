@@ -83,7 +83,7 @@
 
  AUS_balkan_highways_project:0 "Projet d'autoroute des Balkans"
  AUS_balkan_highways_project_desc:0 "La Yougoslavie a fait un travail médiocre pour subvenir à ses besoins. Maintenant que nous possédons leurs terres, essayons de réparer certaines de leurs erreurs."
- AUS_balkan_highways_project_tt:0 "Ajoute §Y3 infrastructures§! en §YSlovénie§!, en §YCroatie§! et en §YBosnie§!. Posséder la §YDalmatie§!, la §YVoïvodine§!, la §YSerbie§!, le §YMonténégro§!, la §YMoravie§! ou la §YMacédoine§! étendra la construction"
+ AUS_balkan_highways_project_tt:0 "Ajoute §Y1 infrastructure§! en §YSlovénie§!, en §YCroatie§! et en §YBosnie§!. Posséder la §YDalmatie§!, la §YVoïvodine§!, la §YSerbie§!, le §YMonténégro§!, la §YMoravie§! ou la §YMacédoine§! étendra la construction"
 
  AUS_exploit_the_romanian_oil_fields:0 "Exploiter les gisements de pétrole roumains"
  AUS_exploit_the_romanian_oil_fields_desc:0 "La Roumanie possède de grandes quantités de pétrole par rapport aux régions environnantes. Les réserves peuvent être considérables, mais le processus d’extraction est jusqu’à présent inefficace. Nous pouvons prendre des mesures pour augmenter le rendement."
@@ -111,7 +111,7 @@
 
  AUS_slovakian_roads_and_railways:0 "Routes et chemins de fer slovaques"
  AUS_slovakian_roads_and_railways_desc:0 "La région slovaque a un système de transport sous-développé ; les troupes présentes dans cette zone ne peuvent pas se permettre de s’enliser en transit. Nous devons réparer et rénover leurs infrastructures."
- AUS_slovakian_roads_and_railways_tt:0 "Ajoute §Y2 infrastructures§! en région slovaque"
+ AUS_slovakian_roads_and_railways_tt:0 "Ajoute §Y1 infrastructure§! en régions slovaques et en Carpatho-Ukraine"
 
  AUS_expand_czech_industry:0 "Développer l'industrie tchèque"
  AUS_expand_czech_industry_desc:0 "Le gouvernement tchécoslovaque a négligé sa population, refusant de créer des usines et donc des emplois là où il est tout à fait possible de le faire. Nous pouvons et devons prendre des mesures pour corriger cela."
@@ -1303,3 +1303,7 @@
  AUS_mountaineers:0 "Gebirgsjäger"
  AUS_mountaineers_desc:0 "Les combats dans les chaînes de montagnes exposent les troupes à de nombreux périls, mais sont parfois inévitables. En fournissant à nos soldats une formation spécialisée dans cet environnement, nous pouvons minimiser ces risques."
  
+ AUS_try_to_recruit_hungarian_officers:0 "Essayer de recruter des officiers Hongrois"
+ AUS_try_to_recruit_czech_officers:0 "Essayer de recruter des officiers Tchèques"
+ AUS_try_to_recruit_croat_officers:0 "Essayer de recruter des officiers Croates" 
+ AUS_try_to_recruit_german_officers:0 "Essayer de recruter des officiers Allemands"
