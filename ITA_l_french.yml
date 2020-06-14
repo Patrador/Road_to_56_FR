@@ -44,36 +44,36 @@
  # Events
 
  r56_italy.1.t:0 "Le Roi retire le pouvoir à Mussolini"
- r56_italy.1.d:0 "À la suite d'un conseil d'urgence convoqué par le Roi Victor Emmanuel III, ce dernier a rencontré Mussolini, lui demandant sa démission, soulignant en particulier l'énorme dette accumulée par l'Italie et que ce dernier n'a pas été capable de régler en presque quinze ans d'exercice du pouvoir, le gouffre financier qu'était la campagnie éthiopienne, ainsi que les problèmes suscités par les embargos ayant suivi l'invasion.\n\nSous la pression du Grand Conseil du fascisme, qui a commencé à se retourner contre lui, en particulier sous l'influence des royalistes qui tentent de se créer une meilleure position, Mussolini n'a pas eu d'autre choix que de se soumettre à cet ordre, ne souhaitant pas aller en prison. Pietro Badoglio a ensuite été nommé Premier Ministre. Ce dernier, malgré ses nombreux liens avec l'administration fasciste, est peràu comme une figure bien plus modérée.\n\nIl est clair que le Roi essaie de sauver la face de l'Italie, dont la situation s'effondre continuellement."
- r56_italy.1.a:0 "Espérons que la situation pourra être résolue."
+ r56_italy.1.d:0 "À la suite d'un conseil d'urgence convoqué par le Roi Victor Emmanuel III, ce dernier a rencontré Mussolini, lui demandant sa démission, soulignant en particulier l'énorme dette accumulée par l'Italie et que ce dernier n'a pas été capable de régler en presque quinze ans d'exercice du pouvoir, le gouffre financier qu'était la campagnie éthiopienne, ainsi que les problèmes suscités par les embargos ayant suivi l'invasion.\n\nSous la pression du Grand Conseil du fascisme, qui a commencé à se retourner contre lui, en particulier sous l'influence des royalistes qui tentent de se créer une meilleure position, Mussolini n'a pas eu d'autre choix que de se soumettre à cet ordre, ne souhaitant pas aller en prison. Pietro Badoglio a ensuite été nommé Premier Ministre. Ce dernier, malgré ses nombreux liens avec l'administration fasciste, est vu comme une figure bien plus modérée.\n\nIl est clair que le Roi essaie de sauver la face de l'Italie, dont la situation s'effondre continuellement."
+ r56_italy.1.a:0 "Espérons que la situation puisse être résolue."
 
  r56_italy.2.t:0 "L'armistice d'Éthiopie"
  r56_italy.2.d:0 "Un des premiers objectifs de Badoglio était de mettre fin aux coûteux conflits en Éthiopie. Le nouveau Ministre des Affaires étrangères, Alfredo Covelli, a été envoyé pour négocier une fin aux hostilités entre nos deux pays, et a réussi à négocier la paix, mais nous a forcés à payer des réparations de guerre pour les nombreuses destructions civiles qui sont survenues durant le conflit."
  r56_italy.2.a:0 "Mieux valent quelques réparations maintenant qu'un gouffre financier permanent."
 
  r56_italy.3.t:0 "Le nouveau cabinet"
- r56_italy.3.d:0 "Quelques jours après sa nomination comme Premier Ministre, Pietro Badoglio a formé son nouveau gouvernement. Même si Badoglio prétend toujours agir au nom du Partito Nazional Fascista, l'influence fasciste a été réduite au sein des ministères, avec la participationde nombreux monarchistes dans le nouveau cabinet, probablement sous l'impulsion du roi, inquiet des nouveaux problèmes qui pourraient survenir en maintenant les politiques économiques et sociales des fascistes."
+ r56_italy.3.d:0 "Quelques jours après sa nomination comme Premier Ministre, Pietro Badoglio a formé son nouveau gouvernement. Même si Badoglio prétend toujours agir au nom du Partito Nazional Fascista, l'influence fasciste a été réduite au sein des ministères, avec la participation de nombreux monarchistes dans le nouveau cabinet, probablement sous l'impulsion du roi, inquiet des nouveaux problèmes qui pourraient survenir en maintenant les politiques économiques et sociales des fascistes."
  r56_italy.3.a:0 "Adieu l'ancien, place au neuf !"
 
  r56_italy.4.t:0 "Proposition de Giovanni Messe"
- r56_italy.4.d:0 "Giovanni Messe, major général, ancien commandant de la Troisième Division de Cavalerie, et Ministre de l'Intérieur dans le gouvernement de Pietro Badoglio, a soumis à ce dernier une proposition assez spécifique aujourd'hui. Il était en effet assez clair pour Messe que le but ultime de Badoglio était le retrait du pouvoir aux fascistes.\n\nCe dernier a proposé d'utiliser de potentiels monarchistes au sein des Chemises Noires et d'autres organisations très proches des leaders du Partito Nazional Fascista afin d'éliminer de l'intérieur les figures principales du parti. Ainsi, une fois privé de ses meneurs, l'élimination de ses derniers éléments sera possible sans avoir à faire couler trop de sang."
+ r56_italy.4.d:0 "Giovanni Messe, major général, ancien commandant de la Troisième Division de Cavalerie, et Ministre de l'Intérieur dans le gouvernement de Pietro Badoglio, a soumis à ce dernier une proposition assez spécifique aujourd'hui. Il était en effet assez clair pour Messe que le but ultime de Badoglio était le retrait du pouvoir aux fascistes.\n\nCe dernier a proposé d'utiliser de potentiels monarchistes au sein des chemises noires et d'autres organisations très proches des leaders du Partito Nazional Fascista afin d'éliminer de l'intérieur les figures principales du parti. Ainsi, une fois privé de ses meneurs, l'élimination de ses derniers éléments sera possible sans avoir à faire couler trop de sang."
  r56_italy.4.a:0 "En détruisant ses points vitaux, le mouvement s'effondrera de lui-même."
- r56_italy.4.b:0 "Et si ça se retourne contre nous ? N'utilisons pas de si dangereuses méthodes."
+ r56_italy.4.b:0 "Et si cela se retourne contre nous ? N'utilisons pas de si dangereuses méthodes."
 
  r56_italy.5.t:0 "Mort d'Arturo Bocchini"
  r56_italy.5.d:0 "Arturo Bocchini, chef de la police mais surtout de l'Organizzazione per la Vigilanza e la Repressione dell' Antifascismo, la police secrète du Partito Nazional Fascista, a été retrouvé mort à son domicile, deux balles dans la tête.\n\nIl avait été choisi comme première cible par crainte que l'OVRA ne découvre le complot du gouvernement. Le poste est désormais vacant, réduisant fortement le risque d'être découverts par cette dernière."
  r56_italy.5.a:0 "Excellent"
 
  r56_italy.6.t:0 "Les fascistes attribuent l'assassinat aux communistes"
- r56_italy.6.d:0 "Le meurtre d'Arturo Bocchini a choqué de nombreux dirigeants du Partito Nazional Fascista. Dans « Il Popolo d'Italia », le journal officiel du parti, on pouvait voir « La menace communiste renaissante » écrit en grosses lettres, accusant effectivement des membres potentiels du Partito Communista Italiano de l'assassinat.\n\nLuigi Russo, chef des Chemises Noires, a appelé à une vigilence accrue de celles-ci contre tout élément supposé « anti-fasciste »."
- r56_italy.6.a:0 "Au moins ils ne nous suspectent pas..."
+ r56_italy.6.d:0 "Le meurtre d'Arturo Bocchini a choqué de nombreux dirigeants du Partito Nazional Fascista. Dans « Il Popolo d'Italia », le journal officiel du parti, on pouvait voir « La menace communiste renaissante » écrit en grosses lettres, accusant effectivement des membres potentiels du Partito Communista Italiano de l'assassinat.\n\nLuigi Russo, chef des chemises noires, a appelé à une vigilence accrue de celles-ci contre tout élément supposé « anti-fasciste »."
+ r56_italy.6.a:0 "Au moins, ils ne nous suspectent pas..."
 
  r56_italy.7.t:0 "Meurtre des frères Rosselli"
- r56_italy.7.d:0 "Carlo Rosselli et Sabatino Rosselli, deux activistes anti-fascistes exilés, qui ont notoirement participé à la guerre d'Espagne aux côtés des Républicains, ont été assassinés par l'organisation française "La Cagoule", alors qu'ils se trouvaient à Bagnoles-de-l'Orne, en Normandie, pour être soignés d'une phlébite qu'ils avaient attrapée durant leur combat en Espagne.\n\nIls étaient connus pour avoir fondé le mouvement "Giustizia e Libertà" avec d'autres exilés anti-Mussolini, en particulier des républicains aux idées allant du libéralisme au socialisme."
+ r56_italy.7.d:0 "Carlo Rosselli et Sabatino Rosselli, deux activistes anti-fascistes exilés, qui ont notoirement participé à la guerre d'Espagne aux côtés des Républicains, ont été assassinés par l'organisation française « La Cagoule », alors qu'ils se trouvaient à Bagnoles-de-l'Orne, en Normandie, pour être soignés d'une phlébite qu'ils avaient attrapée durant leur combat en Espagne.\n\nIls étaient connus pour avoir fondé le mouvement « Giustizia e Libertà » avec d'autres exilés anti-Mussolini, en particulier des républicains aux idées allant du libéralisme au socialisme."
  r56_italy.7.a:0 "Deux problèmes de moins !"
 
  r56_italy.8.t:0 "Incident à la Société des Nations"
- r56_italy.8.d:0 "Lors d'un discours à la Société des Nations prononcé par Haïlé Sélassié Ier, Empereur d'Éthiopie, qui s'indignait de l'invasion italienne et demandait une aide diplomatique pour mettre fin au conflit, les journalistes italiens présents ont commencé à se moquer de l'Empereur.\n\nEn réaction à ce qu'il a considéré comme « de la stupidité », Nicolae Titulescu, un diplomate roumain présent à ce moment, a répondu en demandant le départ de ces mêmes journalistes, allant jusqu'à déclarer « Dehors les sauvages ! »"
+ r56_italy.8.d:0 "Lors d'un discours à la Société des Nations prononcé par Haïlé Sélassié Ier, empereur d'Éthiopie, qui s'indignait de l'invasion italienne et demandait une aide diplomatique pour mettre fin au conflit, les journalistes italiens présents ont commencé à se moquer de l'empereur.\n\nEn réaction à ce qu'il a considéré comme « de la stupidité », Nicolae Titulescu, un diplomate roumain présent à ce moment, a répondu en demandant le départ de ces mêmes journalistes, allant jusqu'à déclarer « Dehors les sauvages ! »"
  r56_italy.8.a:0 "Pour qui se prend-il ?"
  ITA_diplomatic_incident_at_the_league_of_nations:0 "Incident diplomatique à la Société des Nations"
 
@@ -82,20 +82,20 @@
  r56_italy.9.a:0 "Peut-être que cela garantira la stabilité en Europe centrale..."
 
  r56_italy.10.t:0 "Le Deuxième Front de Stresa"
- r56_italy.10.d:0 "Faisant face à ce qu'ils considèrent comme une "menace allemande croissante", les gouvernements italien, français et britannique se sont à nouveau rencontrés dans la ville de Stresa pour annoncer la recréation du Front du même nom, qui avait été rompu suite à l'invasion italienne de l'Abyssinie. En échange, les gouvernements français et britannique acceptent de lever les embargos sur l'Italie.\n\nLeur but est de maintenir l'intégrité de l'Autriche face au Reich allemand, ainsi que de s'assurer que celui-ci respecte le Traité de Versailles."
+ r56_italy.10.d:0 "Faisant face à ce qu'ils considèrent comme une « menace allemande croissante », les gouvernements italien, français et britannique se sont à nouveau rencontrés dans la ville de Stresa pour annoncer la recréation du Front du même nom, qui avait été rompu suite à l'invasion italienne de l'Abyssinie. En échange, les gouvernements français et britannique acceptent de lever les embargos sur l'Italie.\n\nLeur but est de maintenir l'intégrité de l'Autriche face au Reich allemand, ainsi que de s'assurer que celui-ci respecte le Traité de Versailles."
  r56_italy.10.a:0 "Des gouvernements radicalement différents s'unissent pour préserver leur victoire passée."
 
  r56_italy.11.t:0 "Le Pacte d'Acier"
- r56_italy.11.d:0 "Les différents embargos dont souffre l'Italie depuis son invasion de l'Abyssinie ont conduit à son rapprochement avec des nations différentes de ses alliés habituels, en particulier l'Allemagne, avec qui les relations se sont réchauffées quand l'Italie a accepté de cesser de garantir l'Autriche, que l'Allemagne espérait annexer, malgré la violation du Traité de Versaille que cela représentait.\n\nS'en est suivie la signature d'un Pacte d'Amitié et d'Alliance entre l'Allemagne et l'Italie, qui ont décidé de se soutenir mutuellement sur le plan militaire dans les années à venir."
+ r56_italy.11.d:0 "Les différents embargos dont souffre l'Italie depuis son invasion de l'Abyssinie ont conduit à son rapprochement avec des nations différentes de ses alliés habituels, en particulier l'Allemagne, avec qui les relations se sont réchauffées quand l'Italie a accepté de cesser de garantir l'Autriche, que l'Allemagne espérait annexer, malgré la violation du Traité de Versaille que cela représentait.\n\nS'en est suivie la signature d'un Pacte d'amitié et d'alliance entre l'Allemagne et l'Italie, qui ont décidé de se soutenir mutuellement sur le plan militaire dans les années à venir."
  r56_italy.11.a:0 "Qu'est-ce que cela signifiera pour l'Europe ?"
 
  r56_italy.12.t:0 "L'Italie veut reformer le Front de Stresa"
- r56_italy.12.d:0 "Craignant que le gouvernement nazi cherche à transgresser le Traité de Versailles, en particulier du fait de sa rhétorique revancharde, l'Italie nous a appelés pour reformer le Front de Stresa, en assurant notamment qu'aucune agression gratuite comme celle qui est survenue en Abyssinie ne se répéterait.\n\nNous déciderions allors de garantir l'intégrité territoriale de l'Autriche et les termes du Traité de Versailles, ce qui pourrait mener à une réponse militaire si nécessaire."
- r56_italy.12.a:0 "Le Traité de Versailles doit être défendu à tout prix"
- r56_italy.12.b:0 "Nous ne pouvons plus faire confiance à l'Italie"
+ r56_italy.12.d:0 "Craignant que le gouvernement nazi cherche à transgresser le Traité de Versailles, en particulier du fait de sa rhétorique revancharde, l'Italie nous a appelés pour reformer le Front de Stresa, en assurant notamment qu'aucune agression gratuite comme celle qui est survenue en Abyssinie ne se répéterait.\n\nNous déciderions alors de garantir l'intégrité territoriale de l'Autriche et les termes du Traité de Versailles, ce qui pourrait mener à une réponse militaire si nécessaire."
+ r56_italy.12.a:0 "Le Traité de Versailles doit être défendu à tout prix."
+ r56_italy.12.b:0 "Nous ne pouvons plus faire confiance à l'Italie."
 
  r56_italy.13.t:0 "L'Italie veut reformer le Front de Stresa"
- r56_italy.13.d:0 "Craignant que le gouvernement nazi cherche à transgresser le Traité de Versailles, en particulier du fait de sa rhétorique revancharde, l'Italie nous a appelés pour reformer le Front de Stresa, en assurant notamment qu'aucune agression gratuite comme celle qui est survenue en Abyssinie ne se répéterait.\n\nNous déciderions allors de garantir l'intégrité territoriale de l'Autriche et les termes du Traité de Versailles, ce qui pourrait mener à une réponse militaire si nécessaire."
+ r56_italy.13.d:0 "Craignant que le gouvernement nazi cherche à transgresser le Traité de Versailles, en particulier du fait de sa rhétorique revancharde, l'Italie nous a appelés pour reformer le Front de Stresa, en assurant notamment qu'aucune agression gratuite comme celle qui est survenue en Abyssinie ne se répéterait.\n\nNous déciderions alors de garantir l'intégrité territoriale de l'Autriche et les termes du Traité de Versailles, ce qui pourrait mener à une réponse militaire si nécessaire."
  r56_italy.13.a:0 "Il serait prudent d'accepter"
  r56_italy.13.b:0 "L'Italie a déjà dépassé les limites une fois, qu'est-ce qui garantit qu'elle ne le refera pas ?"
 
@@ -141,7 +141,7 @@
  r56_italy.22.a:0 "Ils savaient à quoi s'en tenir, envahissons-les."
  r56_italy.22.b:0 "Nous n'avons pas le temps pour une guerre en Albanie."
 
- r56_italy.23.t:0 "L'Italie demande la Dalmatie"
+ r56_italy.23.t:0 "L'Italie exige la Dalmatie"
  r56_italy.23.d:0 "Citant les populations italiennes historiques dans la région dalmate, le gouvernement italien nous a envoyé une requête pour le retour de la province de Dalmatie à l'Italie, avec l'évacuation des troupes [ROOT.GetAdjFP] dans les 72 heures suivant le transfert du territoire. Des menaces de représailles militaires ont été lancées en cas de refus."
  r56_italy.23.a:0 "Si cela évite une guerre, qu'il en soit ainsi."
  r56_italy.23.b:0 "La Dalmatie nous appartient de plein droit !"
@@ -149,7 +149,7 @@
  r56_italy.24.t:0 "La Yougoslavie refuse d'abandonner la Dalmatie !"
  r56_italy.24.d:0 "Le gouvernement yougoslave nous a annoncé qu'il n'allait pas « se mettre à genoux devant un gouvernement qui ne souhaite pas respecter les populations slaves vivant en Dalmatie », et il y a une augmentation significative de la présence militaire dans la région et le long de notre frontière commune. Que devrions-nous faire ?"
  r56_italy.24.a:0 "Ils auraient dû la donner pacifiquement. Nous serons réunis par la force !"
- r56_italy.24.b:0 "Nous reviendrons plus tard"
+ r56_italy.24.b:0 "Nous reviendrons plus tard."
 
  r56_italy.25.t:0 "Le Front de Stresa garantit l'Autriche"
  r56_italy.25.d:0 "Déclarant qu'il s'agit d'une « priorité du Front de Stresa », le gouvernement italien a suggéré de signer une déclaration officielle de protection de l'Autriche, lui permettant de compter sur nous en cas de conflit, en particulier avec l'Allemagne."
@@ -176,8 +176,8 @@
  r56_italy.29.c:0 "Concentrons-nous encore plus sur la Regia Marina !"
 
  r56_italy.30.t:0 "Événement pour décider si Italo Balbo meurt"
- r56_italy.30.d:0 "Vous n'êtes pas censés voir ça"
- r56_italy.30.a:0 "Ok"
+ r56_italy.30.d:0 "Vous n'êtes pas censés voir ça."
+ r56_italy.30.a:0 "D'accord."
 
  r56_italy.31.t:0 "Italo Balbo tué dans un accident"
  r56_italy.31.d:0 "Alors qu'il était passager d'un Savoia-Marchetti SM.79 devant atterrir à Tobrouk en Libye, son avion a été confondu avec un chasseur ennemi, et abattu par des batteries antiaériennes censées défendre le terrain d'aviation.\n\nUn héros de l'aviation italienne et l'un des principaux organisateurs du Partito Nazional Fascista et de la Marche sur Rome, il était pour beaucoup dans la popularisation de l'aviation en Italie."
@@ -622,7 +622,7 @@ pirelli:0 "Pirelli"
 ansaldo_tank_manufacturer:0 "Concepteur de chars"
 ansaldo_navy_manufacturer:0 "Architecte naval"
 
-ITA_RSI_fascism:0 "République sociale d'Italie"
+ITA_RSI_fascism:0 "République socialiste d'Italie"
 
 #Faction
 stresa_front_faction:0 "Front de Stresa"

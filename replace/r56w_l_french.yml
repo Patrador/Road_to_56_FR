@@ -12,9 +12,9 @@ l_french:
  
 #The Necrowombaticon can be studied
  r56w.event.31.t:0 "Rapport de nos chercheurs"
- r56w.event.31.d:0 "Après une période d'étude, il est devenu clair que le livre décrit un rituel élaboré pour gagner de grandes quantités de pouvoir. Elle nécessite entre autres de grandes quantités de bougies parfumées, un chat noir et beaucoup d'uranium enrichi.\n\nAvec la traduction pour le rituel vient une malédiction énigmatique, « Attention ! Poursuivre avec cela va vraiment gâcher votre jeu, et aboutir à quelque chose de très stupide. Sauvegardez maintenant, en cas de doute. »\n\nFaut-il continuer ou abandonner complètement cette voie ?"
+ r56w.event.31.d:0 "Après une période d'étude, il est devenu clair que le livre décrit un rituel élaboré pour gagner de grandes quantités de pouvoir. Elle nécessite entre autres de grandes quantités de bougies parfumées, un chat noir et beaucoup d'uranium enrichi.\n\nAvec la traduction pour le rituel vient une malédiction énigmatique, « Attention ! Poursuivre avec cela va vraiment gâcher votre partie, et aboutir à quelque chose de très stupide. Sauvegardez maintenant, en cas de doute. »\n\nFaut-il continuer ou abandonner complètement cette voie ?"
  r56w.event.31.a:0 "Je mange du danger au petit-déjeuner."
- r56w.event.31.b:0 "...mais, et l'historique !"
+ r56w.event.31.b:0 "Mais... et l'historique !"
  
 #The Necrowombaticon's deadly power is revealed
  r56w.event.32.t:0 "Une distorsion dimensionnelle"
@@ -59,7 +59,7 @@ l_french:
 #The World Learns of the Stache
  r56w.event.40.t:0 "Problème de moustache"
  r56w.event.40.d:0 "Ce matin, le dirigeant du Reich allemand s'est réveillé pour constater qu'une atrocité absolue avait été commise sur sa barbe. Inutile de dire qu'il était fuhrious - et a déclaré que toutes les moustaches sont maintenant interdites jusqu'à ce qu'il puisse faire repousser les siennes. "
- r56w.event.40.a:0 "Un monument national a été profané"
+ r56w.event.40.a:0 "Un monument national a été profané."
  
 #Proposal for Taking Europe
  r56w.event.41.t:0 "Une proposition simple"
@@ -74,7 +74,7 @@ l_french:
 
 #News of the Belgian Takeover
  r56w.event.44.t:0 "Révolution délicieuse"
- r56w.event.44.d:0 "La Belgique a connu récemment un changement inattendu de gouvernement. Une conférence de presse a été organisée par ce qui semblait être une Waffle (gauffre) sensible, qui s'est ensuite transformée en loup et a déchiqueté un vice ministre voisin. Les experts ne sont pas encore certains de ce que les décisions de politique internationale des nouveaux dirigeants entraîneront, mais il ne s'agira certainement pas de sirop d'érable."
+ r56w.event.44.d:0 "La Belgique a connu récemment un changement inattendu de gouvernement. Une conférence de presse a été organisée par ce qui semblait être une gauffre sensible, qui s'est ensuite transformée en loup et a déchiqueté un vice ministre voisin. Les experts ne sont pas encore certains de ce que les décisions de politique internationale des nouveaux dirigeants entraîneront, mais il ne s'agira certainement pas de sirop d'érable."
  r56w.event.44.a:0 "Le petit-déjeuner ne sera plus jamais le même."
 
 #GE Adopts a Cat
@@ -86,18 +86,18 @@ l_french:
 #The Cat Runs Away
  r56w.event.46.t:0 "Pas assez d'herbe à chat"
  r56w.event.46.d:0 "Au cours de la nuit, le chat fumeur de cigares a disparu du palais présidentiel. Apparemment, seule une note étrange a été trouvée par la suite, suggérant le besoin d'une litière plus grande."
- r56w.event.46.a:0 "Je sens un retournement de situation"
+ r56w.event.46.a:0 "Je sens un retournement de situation."
 
 #News of the Cat Takeover
  r56w.event.48.t:0 "L'ascension des furries fantastiques"
- r56w.event.48.d:0 "Au cœur des déserts de l'Arabie Saoudite, une armée formidable et légèrement agacée a surgi de nulle part. Après s'être déclarés et avoir pris du territoire, ils ont exigé à juste titre du thon et qu'on les caresse quand ils en auront reçu."
+ r56w.event.48.d:0 "Au cœur des déserts de l'Arabie saoudite, une armée formidable et légèrement agacée a surgi de nulle part. Après s'être déclarés et avoir pris du territoire, ils ont exigé à juste titre du thon et qu'on les caresse quand ils en auront reçu."
  r56w.event.48.a:0 "Impossible !"
  
 #Daniel Craig Appears
  r56w.event.49.t:0 "Relâchez le Craigken !"
  r56w.event.49.d:0 "Un homme est apparu, prétendant être un super espion d'un futur lointain. N'ayant donné aucun détail ou raisonnement, il affirme qu'il est vital pour la chronologie qu'il soit autorisé à prendre le pouvoir au Tibet. Le destin du monde en dépend."
  r56w.event.49.a:0 "Oui, bien sûr. Peu importe."
- r56w.event.49.b:0 "Transforme-le en colle."
+ r56w.event.49.b:0 "Transformez-le en colle."
  
 #Someone Found a Puppet
  r56w.event.51.t:0 "Quelque chose de moelleux de cette façon arrive"
@@ -112,12 +112,12 @@ l_french:
  
 #Hitler and Baldur's Gate
  r56w.event.100.t:0 "Une porte curieuse"
- r56w.event.100.desc:0 "Aujourd'hui à la Chancellerie du Reich, Baldur von Schirach a proposé au Führer son propre projet pour la construction de « Germania ».\n\nToujours prêt à discuter des questions de culture, il a conçu en secret un nouveau type de porte qui provoque une certaine division dans le cercle restreint d'Hitler. Les motifs sont jugés indignes de la capitale de l'Europe par Albert Speer alors que la rumeur circule que Himmler admire les références mythologiques nordiques et la juge « authentiquement allemande ».\n\nToday, no important work was done at the Reich Chancellery as the Nazi leadership was too busy discussing Baldur's gate."
+ r56w.event.100.desc:0 "Aujourd'hui à la Chancellerie du Reich, Baldur von Schirach a proposé au Führer son propre projet pour la construction de « Germania ».\n\nToujours prêt à discuter des questions de culture, il a conçu en secret un nouveau type de porte qui provoque une certaine division dans le cercle restreint d'Hitler. Les motifs sont jugés indignes de la capitale de l'Europe par Albert Speer alors que la rumeur circule que Himmler admire les références mythologiques nordiques et la juge « authentiquement allemande ».\n\nAujourd'hui, aucun travail important n'a été effectué à la Chancellerie du Reich car les dirigeants nazis étaient trop occupés à discuter de la porte de Baldur."
  r56w.event.100.a:0 "Envoyez les plans à Arno Breker."
 
 #Comet Tank sighted
 r56w.event.101.t:0 "Char Comet en vue !"
-r56w.event.101.desc:0 "Alors qu'il roulait trop près de la limite de la base militaire de Bovington, une variante expérimentale de notre nouveau char Comet a été aperçue par inadvertance par quelques civils de passage. Nous devons agir rapidement afin de nous assurer que la question sera traitée avec la discrétion nécessaire. Les députés sont, à juste titre, irrités et le conducteur du char d'assaut va certainement se faire réprimander.\n\nSi les bouches ouvertes coulent les navires, elles peuvent aussi percer les armures."
+r56w.event.101.desc:0 "Alors qu'il roulait trop près de la limite de la base militaire de Bovington, une variante expérimentale de notre nouveau char Comet a été aperçue par inadvertance par quelques civils de passage. Nous devons agir rapidement afin de nous assurer que la question sera traitée avec la discrétion nécessaire. Les députés sont, à juste titre, irrités et le conducteur du char d'assaut va certainement se faire réprimander.\n\nSi les bouches ouvertes coulent les navires, elles peuvent aussi percer le blindage."
 r56w.event.101.a:0 "Passons quelques coups de téléphone."
 
 ###------> Tooltips <><> <><> <><> <><> <><>

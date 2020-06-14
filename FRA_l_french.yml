@@ -968,7 +968,7 @@
  worldnews.4.a:0 "TO DO"
  worldnews.5.t:0 "L'exposition universelle de Paris" 
  worldnews.5.d:0 "La France est fière de lancer en grande fanfare l'exposition universelle de 1937. À Paris, sur environ 101 hectares, 44 pays proposent cent quatre-vingt-dix pavillons sur le thème des arts et techniques appliqués à la vie moderne. Près de 32 millions de visiteurs se précipiteront pour venir. À l'époque, Paris retiendra le palais de Chaillot, le palais de la découverte et le palais de Tokyo. L'esprit et le nouvel art triomphent partout. Le monde veut croire un instant que l'exposition réunira enfin tout ce qui unit les hommes. Mais les esprits sont frappés par des pavillons [SOV.GetAdjMP] et allemands monumentaux qui se font face pour se défier : l'un avec une statue de vingt-cinq mètres « L'Ouvrier et la Kolkhozienne » brandissant une faucille et un marteau, l'autre avec une sculpture monumentale d'un aigle tenant une croix gammée dans ses serres."
- worldnews.5.a:0 "Un grand succès mondial"
+ worldnews.5.a:0 "Un grand succès mondial !"
 
  ############################
 				#### DECISIONS ####
@@ -983,7 +983,7 @@
 	############################
 	
  indochina.1.t:0 "[FRA.GetLeLaLNP] [FRA.GetName] cèd[FRA.GetEEntNP] face au Japon"
- indochina.1.d:0 "[FRA.GetLeLaLNP] [FRA.GetName] [FRA.GetAOntNP] ordonné à notre gouvernement de céder au Japon les régions de Tonkin et d'Indochine du Sud. Ces régions sont les plus importantes pour nous, contenant le plus de ressources, de population et d'industrie dans toute l'Indochine. Donnons-nous l'ordre, ou restons fermes ?"
+ indochina.1.d:0 "[FRA.GetLeLaLNP] [FRA.GetName] [FRA.GetAOntNP] ordonné à notre gouvernement de céder au Japon les régions de Tonkin et d'Indochine du Sud. Ces régions sont les plus importantes pour nous, contenant le plus de ressources, de population et d'industrie dans toute l'Indochine. Donnons-nous l'ordre, ou restons-nous fermes ?"
  indochina.1.a:0 "Nous ne pouvons pas céder !"
  indochina.1.b:0 "Nous devons faire ce qu'on nous ordonne."
 	
