@@ -34,7 +34,7 @@ l_french:
  BHU_fledgling_army:0 "Jeune armée"
  #spicyalfredo edit
  BHU_treaty_with_britain:0 "Traités avec la Grande-Bretagne"
- BHU_treaty_with_britain_desc:0 "Les traités avec la Grande-Bretagne nous ont placés sous leur protection et leur sphère d'influence. Bien que nous perdions une certaine indépendance dans nos affaires. Nous bénéficions de la « sécurité » de l'Empire britannique.\n§W--------------- \nPour gagner§! §Gl'indépendance§! §Wdu Royaume-Uni. Nous devons avoir un soutien important pour un parti politique qui ne soutient pas la dynastie Wangchuck.§! Cela déverrouillera une §Ydécision§! §Wpour mettre fin à notre £autonomy_texticon §Rsoumission§!."
+ BHU_treaty_with_britain_desc:0 "Les traités avec la Grande-Bretagne nous ont placés sous leur protection et leur sphère d'influence. Bien que nous perdions une certaine indépendance dans nos affaires. Nous bénéficions de la « sécurité » de l'Empire britannique.\n§W--------------\n§!Pour gagner§! §Gl'indépendance§! §Wdu Royaume-Uni. Nous devons avoir un soutien important pour un parti politique qui ne soutient pas la dynastie Wangchuck.§! Cela déverrouillera une §Ydécision§! §Wpour mettre fin à notre £autonomy_texticon §Rsoumission§!."
  BHU_first_inspection_idea:0 "Inspection de l'armée"
  BHU_first_inspection_idea_desc:0 "Inspection en cours"
  BHU_1921_modernization_roadmap_idea:0 "Modernisation de 1921"

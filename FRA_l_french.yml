@@ -152,6 +152,7 @@
  heavy_aircraft_manufacturer_2:0 "Concepteur d'avions lourds"
  jet_concern:0 "Concepteur d'avions à réaction"
  refinery_concern:0 "Entreprise de raffinerie"
+ connetable_of_france:0 "Connétable de France"
 
  ############################
 			#### COSMETIC TAGS ####
@@ -769,11 +770,59 @@
  FRA_reorganize_air_army_desc:0 "Nous avons acquis suffisamment d'expérience pour tester de nouvelles théories de la guerre aérienne à un rythme plus rapide, mais avec notre structure de commandement actuelle, l'armée de l'air est difficile à gérer. Nous devons d'abord procéder à une réorganisation."
  FRA_parachute_battalions:0 "G.I.A 601-602"
  FRA_parachute_battalions_desc:0 "Les Soviétiques ont créé un nouveau détachement aéroporté pour larguer des soldats et du matériel et nous devrions créer un groupe militaire similaire."
-  
+
+ ### FREE FRANCE ###
+
+ FRA_improve_equatorial_roads:0 "Améliorer les routes équatoriales"
+ FRA_improve_equatorial_roads_desc:0 "Alors qu'elles étaient traditionnellement négligées, les nécessités d'organiser une économie de guerre et une armée en Afrique équatoriale ont rendu nécessaire l'amélioration du réseau routier."
+ FRA_radio_brazzaville:0 "Radio [Root.Capital.GetName]"
+ FRA_radio_brazzaville_desc:0 "Une radio puissante dans notre capitale en exil permettra de faire entendre notre voix dans le monde entier et de montrer que nous sommes prêts à libérer la France métropolitaine."
+ FRA_equatorial_african_gold_mining_desc:0 "L'or des colonies doit être exploité au maximum de son potentiel afin d'alimenter l'effort de guerre."
+ FRA_equatorial_african_gold_mining:0 "Exploitation de l'or d'Afrique équatoriale"
+ FRA_exploit_rubber_vines:0 "Exploiter les vignes à caoutchouc"
+ FRA_exploit_rubber_vines_desc:0 "Pour compléter la plantation de caoutchouc, les vignes sauvages de caoutchouc pourraient être exploitées. Cependant, ce travail est très difficile et mécontentera probablement certains travailleurs indigènes."
+ FRA_an_african_army:0 "L'armée africaine"
+ FRA_an_african_army_desc:0 "Notre nouvelle base est en Afrique et c'est de là que la bannière française ne cessera jamais de voler... et finira par écraser ses ennemis."
+ FRA_improved_logistics:0 "Amélioration de la logistique"
+ FRA_improved_logistics_desc:0 "La nature exilée de notre armée l'oblige à se battre dans tout l'Empire tout en préparant le retour en Métropole. Ces efforts ont fait apparaître qu'une planification logistique claire est essentielle pour assurer notre libération."
+ FRA_continue_the_fight_in_africa:0 "Poursuivre la guerre en Afrique"
+ FRA_continue_the_fight_in_africa_desc:0 "La Métropole est peut-être temporairement sous contrôle ennemi, mais la guerre n'est pas encore terminée..."
+ FRA_mobilize_the_empire:0 "Mobiliser l'Empire" 
+ FRA_mobilize_the_empire_desc:0 "Pour sauver la France, le peuple de l'Empire sera essentiel. Il est temps pour eux de montrer leur gratitude après des années de soins nourrissants de la part du phare civilisateur du monde." 
+
+ FRA_improve_equatorial_roads2:0 "Améliorer les routes équatoriales"
+ FRA_improve_equatorial_roads2_desc:0 "Alors qu'elles étaient traditionnellement négligées, les nécessités d'organiser une économie de guerre et une armée en Afrique équatoriale ont rendu nécessaire l'amélioration du réseau routier."
+ FRA_radio_brazzaville2:0 "Radio [Root.Capital.GetName]"
+ FRA_radio_brazzaville2_desc:0 "Une radio puissante dans notre capitale en exil permettra de faire entendre notre voix dans le monde entier et de montrer que nous sommes prêts à libérer la France métropolitaine."
+ FRA_equatorial_african_gold_mining2_desc:0 "L'or des colonies doit être exploité au maximum de son potentiel afin d'alimenter l'effort de guerre."
+ FRA_equatorial_african_gold_mining2:0 "Exploitation de l'or d'Afrique équatoriale"
+ FRA_exploit_rubber_vines2:0 Exploiter les vignes à caoutchouc"
+ FRA_exploit_rubber_vines2_desc:0 "Pour compléter la plantation de caoutchouc, les vignes sauvages de caoutchouc pourraient être exploitées. Cependant, ce travail est très difficile et mécontentera probablement certains travailleurs indigènes."
+ FRA_an_african_army2:0 "L'armée africaine"
+ FRA_an_african_army2_desc:0 "Notre nouvelle base est en Afrique et c'est de là que la bannière française ne cessera jamais de voler... et finira par écraser ses ennemis."
+ FRA_improved_logistics2:0 "Amélioration de la logistique"
+ FRA_improved_logistics2_desc:0 "La nature exilée de notre armée l'oblige à se battre dans tout l'Empire tout en préparant le retour en Métropole. Ces efforts ont fait apparaître qu'une planification logistique claire est essentielle pour assurer notre libération."
+
+ FRA_continue_the_fight2:0 "Poursuivre le combat"
+ FRA_continue_the_fight2_desc:0 "Il est temps de reconstruire notre armée."
+
+ FRA_the_free_french_navy2:0 "Organiser la marine en exil"
+ FRA_continue_the_fight2_desc:0 "La mer est le premier front entre l'empire et la métropole. Ce sera la première étape de notre reconquête."
+ FRA_colonial_recruitment2:0 "Recrutement colonial"
+ FRA_colonial_recruitment2_desc:0 "Le sang remboursera le prix payé par la France pour leur éclaircissement progressif."
+ FRA_prepare_for_our_return:0 "Préparer notre retour"
+ FRA_prepare_for_our_return_desc:0 "Seules des opérations amphibies nous permettront de remettre les pieds sur notre patrie." 
+ FRA_prepare_for_our_return2:0 "Préparer notre retour"
+ FRA_prepare_for_our_return2_desc:0 "Seules des opérations amphibies nous permettront de remettre les pieds sur notre patrie." 
+ FRA_the_regiment_normandie2:0 "Le régiment de Normandie"
+ FRA_the_regiment_normandie2_desc:0 "Comme nous avons un ennemi commun avec [SOV.GetNameDef], l'envoi de quelques pilotes à leur secours contribuerait à notre effort de guerre commun."
+
+
 	#### FLAGS ####
  front_explosed:0 "Front populaire dissous"
  matignon_agreements:0 "Accords de Matignon"
-  
+
+
 	############################
 					#### EVENTS ####
 	############################
@@ -973,7 +1022,9 @@
  ############################
 				#### DECISIONS ####
 	############################
-	
+
+ FRA_reestablish_the_government_in_paris:0 "Rétablir le gouvernement à Paris"
+
 	#### ECONOMIC ####
  
  
@@ -1016,4 +1067,4 @@
  #### MISC				####
  ############################
  absolute_monarch:0 "Monarque absolu"
- 
+ count_of_paris:0 "Comte de Paris"

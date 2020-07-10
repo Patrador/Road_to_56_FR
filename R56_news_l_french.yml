@@ -6,7 +6,6 @@ r56.news_event.1.desc:0 "Après la défaite de l'Italie en Éthiopie et le réce
 r56.news_event.1.a:0 "L'incompétence militaire italienne frappe à nouveau !"
 
 #1938 world cup
-
 r56.news_event.2.t:0 "Coupe du monde de 1938"
 r56.news_event.2.desc:0 "La Coupe du Monde s'est tenue récemment en France. C'était la troisième édition du tournoi. Quinze équipes ont participé à un tournoi à élimination.\n\n[SWI.GetNameDefCap] contrarie [GER.GetNameDef], bien que les [SWI.GetHabitants] aient été éliminés au tour suivant par [HUN.GetNameDef]. L’équipe [HUN.GetAdjFS] s’est rendue jusqu’à la finale mais a finalement été battue par [ITA.GetNameDef]. C'est la deuxième fois que [ITA.GetNameDef] remporte le tournoi. Le Brésil a également battu la Suède dans la finale de consolation pour obtenir la troisième place.\n\nLa Coupe du Monde a été une distraction agréable pour beaucoup, permettant d'éloigner les esprits de l'orage qui se forme dans le monde entier."
 r56.news_event.2.a:0 "Faisons-la à nouveau dans quatre ans !"
@@ -19,11 +18,48 @@ r56.news_event.3.a:0 "Une autre victoire pour les idéaux communistes !"
 r56.news_event.4.t:0 "L'Albanie rejoint l'Axe"
 r56.news_event.4.d:0 "L'Allemagne a accepté la demande de l'Albanie de rejoindre l'Axe. Ils s’opposent maintenant au communisme et aux nations démocratiques. Le roi Zog a exprimé la volonté de montrer au monde entier la puissance de son pays. Le Royaume-Uni et la France ont exprimé leur inquiétude face à la montée du fascisme en Europe et ont rappelé aux autorités allemandes les règles du Traité de Versailles que l'Allemagne devait respecter. Il semble que les démocraties occidentales ne semblent pas réagir contre l'Allemagne et l'Albanie."
 r56.news_event.4.a:0 "Jetoni Shqipërinë !"
+
 #Mythical Event, Prob would had been held in South America due to FIFA internal politics. 
-
 #1942 world cup
-
 r56.news_event.6.t:0 "Coupe du monde de 1942"
 r56.news_event.6.desc:0 "La Coupe du Monde s'est tenue récemment [URG.GetAuEnANP] [URG.GetName]. C'était la quatrième édition du tournoi. Seize équipes ont participé à un tournoi à élimination.\n\nLes anciens champions [ITA.GetAdjMP] ont été battus au deuxième tour par les hôtes. Bien que la course des hôtes se termine en demi-finale, car ils ont été battus par [GER.GetNameDef]. L'équipe [GER.GetAdjFS] a finalement gagné en battant [BRA.GetNameDef] en finale lors un match tendu. C'était la première fois que [GER.GetNameDef] remporte le tournoi.\n\nLa Coupe du monde a été une agréable distraction pour beaucoup, permettant d'éloigner les esprits de la situation politique tendue qui se développe dans le monde entier."
 r56.news_event.6.a:0 "Faisons-la à nouveau dans quatre ans !"
 r56.news_event.6.b:0 "Gloire aux [GER.GetHabitants] !"
+
+#Brazil took imperialism
+r56.news_event.7.t:0 "[BRA.Getleader] prend le pouvoir au Brésil"
+r56.news_event.7.d:0 "Des nouvelles ce matin qui ont choqué une grande partie de l'Amérique latine. En effet, D Pedro III a pris le contrôle du gouvernement et de l'armée brésilienne. Le retournement soudain de la position du gouvernement a surpris de nombreux observateurs internationaux et même certains citoyens brésiliens. De nombreux responsables politiques brésiliens ont cependant déclaré qu'un tel changement était attendu compte tenu des luttes internes que le pays a connues au cours de la dernière décennie.\n\nPersonne ne sait où ce nouveau gouvernement mènera, bien que beaucoup soupçonnent qu'il cherchera une expansion immédiate."
+r56.news_event.7.a:0 "Un développement intéressant."
+r56.news_event.7.b:0 "Ordem e progresso!"
+
+#Pargauy coup 
+r56.news_event.8.t:0 "Coup d'État militaire au Paraguay"
+r56.news_event.8.d:0 "Après la guerre du Chaco de l'année dernière que le Paraguay a réussi à gagner, le gouvernement paraguayen a conservé le faible commandement d'Eusebio Ayala, mais [PAR.Getleader] a orchestré un coup d'État après avoir passé du temps en exil. [PAR.Getleader] a rapidement mis en place un régime militaire beaucoup plus fort.\n\nLe gouvernement du Paraguay devra très probablement se réorganiser après l'éviction de nombreux loyalistes d'Ayala."
+r56.news_event.8.a:0 "Un développement intéressant."
+r56.news_event.8.b:0 "C'était nécessaire."
+
+
+#Pargauy civil war
+r56.news_event.9.t:0 "Guerre civile au Paraguay"
+r56.news_event.9.d:0 "Après la guerre du Chaco de l'année dernière, que le Paraguay a réussi à gagner, le gouvernement paraguayen a conservé le faible commandement d'Eusebio Ayala, mais le colonel Rafael Franco a tenté d'orchestrer un coup d'État après avoir passé du temps en exil à l'extérieur du pays. Le coup d'État était une tentative d'établir un régime militaire beaucoup plus fort. Mais il ne s'est pas déroulé comme prévu car Eusebio Ayala a été averti d'une possible tentative de coup d'État et a rallié d'autres partis politiques pour s'armer afin de repousser les militaires.\n\nIl semble que ce différend politique ne puisse être réglé que par le sang."
+r56.news_event.9.a:0 "Espérons que cela se terminera rapidement."
+r56.news_event.9.b:0 "Nous vaincrons !"
+
+#Generic tree warns neighbor of expansive policy
+r56.news_event.10.t:0 "[From.GetNameDef] proclam[From.GetEEntNP] une politique expansionniste"
+r56.news_event.10.d:0 "\nAujourd'hui, dans la capitale [From.GetDuDelaDelNP] [From.GetName], [From.GetLeader] a dit au peuple de sa nation qu'il doit regarder au-delà de ses frontières pour trouver la gloire et le bonheur, qu'il est nécessaire d'étendre les frontières que le pays inhibe actuellement. [From.Getleader] a également fait de nombreuses mentions des transgressions perçues [Root.GetDuDelaDelNP] [Root.GetName] à l'égard [From.GetDuDelaDelNP] [From.GetName]. On ne sait pas encore si ce ne sont que des paroles dures ou si ces ambitions vont se transformer en conflit. Bien que les voisins [From.GetDuDelaDelNP] [From.GetName] s'inquiètent d'un éventuel conflit dans la région, beaucoup espèrent une solution diplomatique aux problèmes [From.GetDuDelaDelNP] [From.GetName] avec ses voisins."
+r56.news_event.10.a:0 "C'est pour le moins inquiétant."
+
+#Hondrous going fascist 
+r56.news_event.11.t:0 "La United Fruit Company prend le contrôle du Honduras"
+r56.news_event.11.d:0 "La United Fruit Company est présente au Honduras depuis 1899, date à laquelle elle a racheté sept producteurs de bananes locaux et a commencé à exporter des bananes vers la Nouvelle-Orléans. Depuis lors, la United Fruit Company s'est de plus en plus impliquée dans la politique hondurienne, bien que cette dernière initiative de la société soit une escalade de son implication dans le pays. Il semble que la United Fruit Company ait fait un rachat complet du petit pays d'Amérique latine.\n\nPersonne ne sait ce que cela implique pour le reste de l'Amérique centrale."
+r56.news_event.11.a:0 "Cela sent les ennuis."
+r56.news_event.11.b:0 "« Au moins, les bananes seront bon marché » - D. Goodenough"
+r56.news_event.11.c:0 "Ce n'est que business."
+
+#Hondrous going ancap
+r56.news_event.12.t:0 "Création d'une « zone libre des entreprises » en Amérique centrale."
+r56.news_event.12.d:0 "\nDepuis le rachat du Honduras par la United Fruit companies, les affaires ont été bonnes pour l'entreprise de Samuel Zemurray. Bien qu'il semble qu'il y ait eu sous la surface un mécontentement pour l'impitoyabilité de l'homme d'affaires et son contrôle total de l'entreprise d'État. Depuis ce matin, un groupe de puissants membres de la United Fruit Company a renversé Zemurray lors d'un coup d'État. Ils ont rapidement mis en place un nouveau gouvernement qui, selon eux, offrira un environnement « idéal » pour les entreprises. Le coup d'État a permis aux entreprises privées de contrôler entièrement le fonctionnement quotidien du pays. La première mesure radicale qu'ils ont prise pour atteindre cet objectif a été de privatiser l'armée et les forces de l'ordre sous la tutelle d'agences concurrentes de transfert et de récupération des fonds." 
+r56.news_event.12.a:0 "Une expérience intéressante."
+r56.news_event.12.b:0 "Libérez le marché, libérez le peuple !"
+r56.news_event.12.c:0 "Une entité répugnante."

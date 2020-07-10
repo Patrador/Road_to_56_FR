@@ -119,24 +119,20 @@
  RULE_OPTION_FASCIST_HISTORICAL_SIA_AI_DESC:0 "L'IA siamoise consolidera le Khana Ratsadon, s'inclinera davantage vers le fascisme et pourra s'allier à l'une des puissances de l'Axe, en empruntant le chemin approprié dans l'arbre des priorités nationales."
  RULE_OPTION_MONARCHIST_SIA_AI_DESC:0 "L'IA siamoise va restaurer la monarchie en faisant revenir Rama VII, en empruntant le chemin approprié dans l'arbre des priorités nationales."
  
- #-> SWE: Sweden
+ #-> SWE: Sweden <><>
  SWE_AI_BEHAVIOR:0 "@SWE Suède"
- RULE_OPTION_DEMOCRATIC_HISTORICAL:0 "Démocratique - Historique"
- RULE_OPTION_DEMOCRATIC_HISTORICAL_AI_DESC:0 "Le pays s'efforcera de rester neutre et démocratique."
- RULE_OPTION_COMMUNIST_SWE:0 "Communiste"
- RULE_OPTION_COMMUNIST_SWE_AI_DESC:0 "L'IA va mettre les communistes au pouvoir." 
- RULE_OPTION_FASCIST_SWE:0 "Fasciste"
- RULE_OPTION_FASCIST_SWE_AI_DESC:0 "L'IA va mettre les nazis suédois au pouvoir."
- RULE_OPTION_MONARCHIST_SWE:0 "Monarchiste"
- RULE_OPTION_MONARCHIST_SWE_AI_DESC:0 "Le roi prendra les pleins pouvoirs et formera la faction des aurores boréales."
+ RULE_OPTION_DEMOCRATIC_HISTORICAL_SWE_AI_DESC:0 "L'AI suédoise se concentrera sur la neutralité et s'engagera en faveur de la démocratie."
+ RULE_OPTION_COMMUNIST_SWE_AI_DESC:0 "L'IA suédoise va rejeter la Convention d'Åland et se tourner vers le communisme."
+ RULE_OPTION_FASCIST_SWE_AI_DESC:0 "L'IA suédoise va rejeter la Convention d'Åland et se tourner vers le fascisme."
+ RULE_OPTION_MONARCHIST_SWE_AI_DESC:0 "Les Suédois choisiront la priorité « Le Roi en Conseil », prenant le plein pouvoir et formant la faction des aurores boréales."
  
  #-> TUR: Turkey <><>
  TUR_AI_BEHAVIOR:0 "@TUR Turquie"
- RULE_OPTION_DEMOCRATIC_TUR_AI_DESC:0 "L'AI turque suivra l'héritage d'Atatürk, mais après l'influence hostile toujours croissante en Europe, elle finira par s'orienter vers une démocratie et rejoindra les Alliés, en empruntant la voie approprié dans l'arbre des priorités nationales."
- RULE_OPTION_COMMUNIST_TUR_AI_DESC:0 "L'AI turque va libérer Hüsnü de l'exil, qui mène à une révolution communiste à part entière, qui s'ensuit soit en coopération avec les Soviétiques, soit dans sa propre sphère d'influence, en empruntant la voie appropriée dans l'arbre des priorités nationales."
- RULE_OPTION_FASCIST_TUR_AI_DESC:0 "L'AI turque soutiendra les officiers fascistes, ce qui conduit à une dictature fasciste et à une coopération étroite avec l'Allemagne et à une éventuelle adhésion à l'Axe, en empruntant la voie pertinente dans l'arbre des priorités nationales."
+ RULE_OPTION_DEMOCRATIC_TUR_AI_DESC:0 "L'IA turque suivra l'héritage d'Atatürk, mais après l'influence hostile toujours croissante en Europe, elle se dirigera finalement vers une démocratie et rejoindra les Alliés."
+ RULE_OPTION_COMMUNIST_TUR_AI_DESC:0 "L'IA turque va libérer Hüsnü de son exil, ce qui conduira à une révolution communiste à part entière, suivie soit d'une coopération avec les Soviétiques, soit de sa propre sphère d'influence."
+ RULE_OPTION_FASCIST_TUR_AI_DESC:0 "L'IA turque soutiendra les officiers fascistes, ce qui conduit à une dictature fasciste et à une coopération étroite avec l'Allemagne ainsi qu'à une éventuelle adhésion à l'Axe."
  RULE_OPTION_ATATURK_HISTORICAL:0 "L'héritage d'Atatürk - Historique"
- RULE_OPTION_ATATURK_HISTORICAL_TUR_AI_DESC:0 "L'IA turque renforcera l'héritage d'Atatürk et se concentrera sur la neutralité, en signant plusieurs pactes avec d'autres nations, en empruntant la voie appropriée dans l'arbre des priorités nationales."
+ RULE_OPTION_ATATURK_HISTORICAL_TUR_AI_DESC:0 "L'IA turque renforcera l'héritage d'Atatürk et se concentrera sur la neutralité, en signant plusieurs pactes avec d'autres nations."
 
  ###---> Map Fragmentation <><> <><> <><>
  RULE_GROUP_GAME_SETUP:0 "Fragmentation de la carte"
@@ -281,5 +277,9 @@
  RULE_OPTION_ALL_MAJORS_AND_STRONG_MINORS_DESC:0 "Les grandes puissances et beaucoup de puissances mineures commenceront avec une agence."
  RULE_OPTION_ALL_COUNTRIES:0 "Tous les pays"
  RULE_OPTION_ALL_COUNTRIES_DESC:0 "Chaque pays commencera la partie avec une agence de renseignement."
- 
+
+ RULE_ALLOW_EXTENDED_TECHS:0 "Autoriser les technologies supplémentaires"
+ RULE_ALLOW_R56_TECHS_ALLOWED_DESC:0 "L'arbre technologique de recherches spéciales sur les divisions sera disponible."
+ RULE_ALLOW_R56_TECHS_BLOCKED_DESC:0 "L'arbre technologique de recherches spéciales sur les divisions ne sera pas disponible."
+
  #####-----> End of File <><> <><> <><> <><> <><>

@@ -33,3 +33,13 @@
  CAN_ernest_james_renaud:0 "Ernest James Renaud"
 
  QBC_generic_electronics_concern:0 "Compagnie canadienne Marconi"
+
+ CAN_american_intervention:0 "Intervention américaine"
+ CAN_observers_on_the_american_front:0 "Observateurs sur le front américain"
+ CAN_observers_on_the_american_front_desc:0 "La guerre civile qui ravage les États-Unis est l'occasion idéale d'étudier de nouvelles tactiques."
+ CAN_intervene_in_the_american_civil_war:0 "Intervenir dans la guerre civile américaine"
+ CAN_intervene_in_the_american_civil_war_desc:0 "Nous devons aider nos alliés idéologiques au sud de la frontière et soutenir la cause [ROOT.GetRulingIdeologyNoun]"
+
+ CAN_sorel_steel_and_foundry:0 "Sorel Steel and Foundry"
+ CAN_sorel_steel_and_foundry_desc:0 "Sorel sera le cœur de notre production d'acier et sera en parfaite harmonie avec le chantier naval voisin et la future usine d'armement."
+ CAN_sorel_industries_desc:0 "L'emplacement avantageux le long du Saint-Laurent et la proximité des aciéries sont parfaits pour la production d'équipements militaires lourds tels que les pièces d'artillerie."

@@ -135,6 +135,9 @@ l_french:
  hfighter_bomber_equipment_2:0 "Chasseur-bombardier lourd 40"
  hfighter_bomber_equipment_2_short:0 "Chasseur-bombardier lourd II"
  hfighter_bomber_equipment_2_desc:0 "Un des premiers chasseurs lourds modifié pour un rôle d'attaque au sol."
+ hfighter_bomber_equipment_3:0 "Chasseur-bombardier lourd 44"
+ hfighter_bomber_equipment_3_short:0 "Chasseur-bombardier lourd III"
+ hfighter_bomber_equipment_3_desc:0 "Un des premiers chasseurs lourds modifié pour un rôle d'attaque au sol."
  
  
 #-> Medium bomber <><>

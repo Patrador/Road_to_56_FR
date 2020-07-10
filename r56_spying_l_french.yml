@@ -10,5 +10,14 @@ r56_spying_event.2.a:0 "Recrutons-le."
 r56_spying_event.2.b:0 "Une recrue qualifiée serait préférable."
 
 r56_spying_event.3.t:0 "Semen Semenov diplômé du MIT"
-r56_spying_event.3.desc:0 "Après des années d'études aux États-Unis, l'agent Semenov est maintenant prêt à opérer dans le pays en tant qu'ingénieur. Il a profité de ses études pour entrer en contact avec les milieux scientifiques et devrait pouvoir se plonger dans les dernières innovations américaines."
-r56_spying_event.3.a:0 "Excellent !"
+r56_spying_event.3.desc:0 "Après des années d'études aux États-Unis, l'agent Semenov est devenu un « castor » en sortant du MIT (tel est le surnom qu'ils ont donné à leurs anciens élèves). Il est maintenant prêt à opérer dans le pays en tant qu'ingénieur. Il a profité de ses études pour entrer en contact avec les milieux scientifiques et devrait pouvoir se plonger dans les dernières innovations américaines."
+r56_spying_event.3.a:0 "Excellent, tovaritch !"
+
+r56_spying_event.4.t:0 "Ilie Cătărău est de retour."
+r56_spying_event.4.desc:0 "Après des années d'errance à travers le monde, y compris selon lui en devenant le roi d'une tribu polynésienne, Ilie Cătărău est revenu au pays. Déjà actif dans certaines opérations en Hongrie en 1914, il refuse de prêter serment d'allégeance à la Moldavie lorsqu'elle décerne son indépendance. Cet homme à la vie très mouvementée a peut-être d'autres volumes à ajouter à sa biographie compliquée..."
+r56_spying_event.4.a:0 "Excellent !"
+
+r56_spying_event.5.t:0 "Agents communistes recrutés"
+r56_spying_event.5.desc:0 "Fidèles à la cause de la révolution, les nouvelles recrues sont prêtes à servir dans l'ombre."
+r56_spying_event.6.t:0 "Agents communistes recrutés"
+r56_spying_event.6.desc:0 "Fidèles à la cause de la révolution, les nouvelles recrues sont prêtes à servir dans l'ombre."

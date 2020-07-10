@@ -277,6 +277,8 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  GER_5_factor_desc:0 "Le passage à 5 facteurs améliorera considérablement notre cryptage."
  GER_8_factor:0 "Enigma : 8 facteurs"
  GER_8_factor_desc:0 "Passer à 8 facteurs rendra notre cryptage sûrement impossible à déchiffrer !"
+ GER_demmand_northern_schleswig:0 "Demander le Schleswig du Nord"
+ GER_demmand_northern_schleswig_desc:0 "Le Schleswig du Nord nous a été pris et donné aux Danois dans le traité de Versailles. Nous devons exiger la restitution de ces terres !"
  
  #Ideas
  GER_foreign_volunteers_idea:0 "Volontaires étrangers"
@@ -422,7 +424,7 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  #germany.1001:0 "Heydrich assassiné"
  #r56_ENG_operation_anthropoid:0 "Opération Anthropoid"
 
-GER_abwehr_contacts:0 "Contacts au [GER.GetAgency]"
+GER_abwehr_contacts:0 "Contacts au [ROOT.GetAgency]"
 GER_operation_bolivar:0 "Opération Bolívar"
 GER_operation_bolivar_desc:0 "Les différentes communautés d'exilés en Amérique du Sud devraient nous permettre de déployer des agents et d'opérer facilement sur le continent américain."
 
@@ -455,3 +457,6 @@ GER_operation_bolivar_desc:0 "Les différentes communautés d'exilés en Amériq
  GER_REUNITED_communism:0 "République socialiste allemande"
  
  GER_cede_819_to_HUN:0 "Céder le Prekmurje à la Hongrie"
+ GER_cede_102_to_ITA:0 "Céder Ljubljana à l'Italie"
+
+ PRE_call_other_german_states:0 "Appeler les autres États allemands"

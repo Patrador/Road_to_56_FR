@@ -87,7 +87,14 @@
  expand_the_erzberg_iron_mine:0 "Développer la mine de fer de l'Erzberg"
  expand_the_mittersil_tungsten_mine:0 "Développer la mine de tungstène de Mittersill" 
  reopen_montbelleux_tunsten_mine:0 "Réouvrir la mine de tungstène de Montbelleux"
-
+ exploit_togolese_chromium:0 "Exploiter le chrome du Togo"
+ develop_oloibiri_oil_field:0 "Exploiter le champ pétrolier d'Oloibiri"
+ exploit_bomi_hills_iron_ore:0 "Exploiter le minerai de fer de Bomi Hills"
+ expand_marmpa_mining:0 "Développer l'exploitation minière en Marampa"
+ exploit_orenoque_iron:0 "Exploiter le fer d'Orénoque"
+ exploit_cerro_san_isidro_iron:0 "Exploiter le fer de Cerro San Isidro"
+ stimulate_colorado_tungsten_production:0 "Stimuler la production de tungstène au Colorado"
+ exploit_virginia_oil_field:0 "Exploiter le pétrole du comté de Lee"
 
 
 
@@ -171,6 +178,26 @@
  expand_the_erzberg_iron_mine_wtt:0 "Développer la mine de fer de l'Erzberg"
  expand_the_mittersil_tungsten_mine_wtt:0 "Développer la mine de tungstène de Mittersill" 
  reopen_montbelleux_tunsten_mine_wtt:0 "Réouvrir la mine de tungstène de Montbelleux"
+ build_sibenik_aluminium_plant_wtt:0 "Construire l'usine d'aluminium de Šibenik"
+ develop_oloibiri_oil_field_wtt:0 "Exploiter le champ pétrolier d'Oloibiri"
+ exploit_bomi_hills_iron_ore_wtt:0 "Exploiter le minerai de fer de Bomi Hills"
+ expand_marmpa_mining_wtt:0 "Développer l'exploitation minière en Marampa"
+ exploit_orenoque_iron_wtt:0 "Exploiter le fer d'Orénoque"
+ exploit_cerro_san_isidro_iron_wtt:0 "Exploiter le fer de Cerro San Isidro"
+ stimulate_colorado_tungsten_production_wtt:0 "Stimuler la production de tungstène au Colorado"
+ exploit_virginia_oil_field_wtt:0 "Exploiter le pétrole du comté de Lee"
+
+
+ expand_basque_steel_works_wtt:0 "Développer les aciéries basques"
+ expand_western_aragon_steel_works_wtt:0 "Développer les aciéries de l'ouest de l'Aragon"
+ expand_granada_steel_works_wtt:0 "Développer l'aciérie de Grenade"
+ develop_salamanca_tungsten_deposits_wtt:0 "Développer les gisements de tungstène de Salamanque"
+ develop_valladolid_tungsten_deposits_wtt:0 "Développer les gisements de tungstène à Valladolid"
+ develop_galicia_tungsten_deposits_wtt:0 "Développer les gisements de tungstène en Galice"
+ expand_extremadura_tungsten_mines_wtt:0 "Développer les mines de tungstène d'Estrémadure"
+ expand_madrid_bauxite_mines_wtt:0 "Développer les mines de bauxite de Madrid"
+ exploit_togolese_chromium_wtt:0 "Exploiter le chrome du Togo"
+ build_sibenik_aluminium_plant:0 "Construire l'usine d'aluminium de Šibenik"
 
 
  #ADAPTATION OF wtt
@@ -197,6 +224,16 @@
  develop_cornwall_tungsten_deposits_2:0 "Agrandir la mine Hemerdon"
  r56_develop_cornwall_tungsten_deposits_1:0 "Réouvrir la mine Hemerdon"
  r56_develop_cornwall_tungsten_deposits_2:0 "Agrandir la mine Hemerdon"
+
+ #Adaptation of LaR
+ expand_basque_steel_works2:0 "Développer les aciéries basques"
+ expand_western_aragon_steel_works2:0 "Développer les aciéries de l'ouest de l'Aragon"
+ expand_granada_steel_works2:0 "Développer l'aciérie de Grenade"
+ develop_salamanca_tungsten_deposits2:0 "Développer les gisements de tungstène de Salamanque"
+ develop_valladolid_tungsten_deposits2:0 "Développer les gisements de tungstène à Valladolid"
+ develop_galicia_tungsten_deposits2:0 "Développer les gisements de tungstène en Galice"
+ expand_extremadura_tungsten_mines2:0 "Développer les mines de tungstène d'Estrémadure"
+ expand_madrid_bauxite_mines2:0 "Développer les mines de bauxite de Madrid"
 
  #Flags
  kelham_hills_oil_field_developed:0 "Le gisement de pétrole des collines de Kelham est exploité"

@@ -55,6 +55,7 @@
  liberal_grandee:0 "Grand libéral"
  compromised_beliefs:0 "Croyances compromises"
  all_business:0 "Tous business"
+ voluntaryism:0 "Volontariat"
  
  ##Australia
  aboriginal_journalist:0 "Journaliste autochtone"
@@ -67,3 +68,7 @@
 
  wary_of_the_high_command:0 "Se méfie du haut commandement"
  himmler_terrorizing_monomaniac:0 "Monomaniaque terrorisant"
+
+#Adviors 
+ intervention_advocate:0 "Avocat d'intervention"
+ law_enforcement_militarizer_3:0 "Policier militariste\n(Génie)"

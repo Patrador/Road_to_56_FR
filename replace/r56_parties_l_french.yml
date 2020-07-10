@@ -1,8 +1,12 @@
 ﻿l_french:
 
  #NEW
+ anarcho_capitalism:0 "Anarcho-capitalisme"
+ anarcho_capitalism_desc:0 "L'§Yanarcho-capitalisme§! est un rejet de l'§RÉtat centralisé§! lui-même en faveur de §Gl'auto-propriété, la propriété privée et les marchés libres§!."
+ anarcho_capitalism_n:0 "Anarcho-capitalisme"
+ anarcho_capitalism_n_desc:0 "L'§Yanarcho-capitalisme§! est un rejet de l'§RÉtat centralisé§! lui-même en faveur de §Gl'auto-propriété, la propriété privée et les marchés libres§!."
  corporatism:0 "Corporatisme"
- corporatism_desc:0 "Selon l'idéologie corporatiste, les travailleurs et les employeurs seraient organisés en sociétés industrielles et professionnelles représentant leurs intérêts au niveau de l'État. Le corporatisme a une démocratie fondamentale, mais le peuple est fortement séparé des dirigeants du pays par plusieurs niveaux de hiérarchie."
+ corporatism_desc:0 "Selon l'idéologie §Ycorporatiste§!, les travailleurs et les employeurs seraient organisés en sociétés industrielles et professionnelles représentant leurs intérêts au niveau de l'État. Le corporatisme a une démocratie fondamentale, mais le peuple est fortement séparé des dirigeants du pays par plusieurs niveaux de hiérarchie."
  centrism_democratic:0 "Centrisme démocratique"
  centrism_democratic_desc:0 "Le §Ycentrisme§! est une forme de gouvernement visant à trouver des §Ysolutions basées sur le bon sens§!, qui répondent de manière pertinente aux besoins actuels et futurs. Cela renforce la §Mconfiance du public§! et sert le §Hbien commun§! en prenant en considération les risques et les moyens en fonction des besoins."
  absolute_monarchism:0 "Monarchisme absolu"
@@ -117,7 +121,7 @@
  
  #BRA
  BRA_monarchy_party:0 "AIPB"
- BRA_monarchy_party_long:0 "Acção Imperial Patrianovista Brasileira"
+ BRA_monarchy_party_long:0 "Ação Imperial Patrianovista Brasileira"
  
  #BRI
  BRI_fascism_party:0 "PNB"
@@ -165,6 +169,8 @@
  COL_democratic_party_long:0 "Partido Liberal Colombiano"
  COL_neutrality_party:0 "Conservador"
  COL_neutrality_party_long:0 "Partido Conservador Colombiano"
+ COL_fascism_party:0 "Radical Conservador" #made up since native fascist elements fell under the Partido Conservador
+ COL_fascism_party_long:0 "Radical Partido Conservador Colombiano"
 
  #CZE
  CZE_communism_party:0 "KSČ"
@@ -179,6 +185,13 @@
  #DOM
  DOM_neutrality_party:0 "Partido Dominicano"
  DOM_neutrality_party_long:0 "Partido Dominicano"
+ DOM_fascism_party:0 "Dominicano Military Junta" #made up since Partido Dominicano were kinda fasicts aswell 
+ DOM_fascism_party_long:0 "Partido Dominicano Military Junta"
+ DOM_democratic_party:0 "PRD"
+ DOM_democratic_party_long:0 "Partido Revolucionario Dominicano"
+ DOM_communism_party:0 "PTD" #Big reach but better than nothing
+ DOM_communism_party_long:0 "Partido de los Trabajadores Dominicanos"
+
 
  #ELS
  ELS_neutrality_party:0 "Pro-Patria"
@@ -390,8 +403,8 @@
  NIC_fascism_party:0 "Nationalistes"
 
  #PAR
- PAR_communism_party:0 "PRF"
- PAR_communism_party_long:0 "Partido Revolucionario Febrerista"
+ PAR_communism_party:0 "PCP"
+ PAR_communism_party_long:0 "Partido Comunista Paraguayo"
  PAR_democratic_party:0 "Partido Liberal"
  PAR_democratic_party_long:0 "Partido Liberal"
 

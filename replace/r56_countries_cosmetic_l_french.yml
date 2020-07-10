@@ -1,0 +1,557 @@
+﻿l_english:
+
+ #ANCAP
+
+ ANCAP_democratic:0 "Zone libre des entreprises"
+ ANCAP_neutrality:0 "Zone libre des entreprises"
+ ANCAP_democratic_DEF:0 "la Zone libre des entreprises"
+ ANCAP_democratic_ADJ:0 "« ZLE »"
+ ANCAP_neutrality_DEF:0 "la Zone libre des entreprises"
+ ANCAP_fascism:0 "Zone libre des entreprises"
+ ANCAP_fascism_DEF:0 "la Zone libre des entreprises"
+ ANCAP_communism:0 "Zone libre des entreprises populaires" #I throw up just thinking about it
+
+
+
+ #ARA
+ ARA_UNIFIED_neutrality:0 "Fédération arabe"
+ ARA_UNIFIED_fascism:0 "Califat arabe"
+ ARA_UNIFIED_democratic:0 "Fédération arabe"
+ ARA_UNIFIED_communism:0 "Républiques arabes socialistes unies"
+ ARA_UNIFIED_neutrality_DEF:0 "la Fédération arabe"
+ ARA_UNIFIED_fascism_DEF:0 "le Califat arabe"
+ ARA_UNIFIED_democratic_DEF:0 "la Fédération arabe"
+ ARA_UNIFIED_communism_DEF:0 "les Républiques arabes socialistes unies"
+ ARA_UNIFIED_communism_ADJ:0 "arabe"
+ ARA_UNIFIED_neutrality_ADJ:0 "arabe"
+ ARA_UNIFIED_democratic_ADJ:0 "arabe"
+ ARA_UNIFIED_fascism_ADJ:0 "arabe"
+
+ #ARG
+ ARG_BRA_fascism:0 "Territoire de la Plata"
+ ARG_BRA_democratic:0 "Territoire de la Plata"
+ ARG_BRA_subject:0 "Territoire de la Plata"
+ ARG_BRA_autonomy_colony:0 "Territoire de la Plata"
+ ARG_BRA_autonomy_integrated_puppet:0 "Territoire de la Plata"
+ ARG_BRA_autonomy_dominion:0 "Argentine brésilienne"
+
+ #AST_ALT
+ AST_ALT_fascism:0 "État libre australien"
+ AST_ALT_fascism_DEF:0 "l'État libre australien"
+ AST_ALT_democratic:0 "Commonwealth d'Australie"
+ AST_ALT_democratic_DEF:0 "le Commonwealth d'Australie"
+ AST_ALT_neutrality:0 "Commonwealth d'Australie"
+ AST_ALT_neutrality_DEF:0 "le Commonwealth d'Australie"
+ AST_ALT_communism:0 "République populaire d'Australie"
+ AST_ALT_communism_DEF:0 "la République populaire d'Australie"
+ AST_ALT_fascism_ADJ:0 "australien"
+ AST_ALT_democratic_ADJ:0 "australien"
+ AST_ALT_neutrality_ADJ:0 "australien"
+ AST_ALT_communism_ADJ:0 "australien"
+
+ #AUSHUN
+ AUSHUN_fascism:0 "Empire austro-hongrois"
+ AUSHUN_fascism_DEF:0 "l'Empire austro-hongrois"
+ AUSHUN_fascism_ADJ:0 "austro-hongrois"
+
+ #AHV
+ AHV_subject:0 "Territoire $OVERLORDADJ$ autonome d'Åland"
+
+ #BAL
+ BAL_UNIFIED_ADJ:0 "Baltique"
+
+ #BRA
+ BRA_IDB_fascism:0 "Empire du Brésil"
+ BRA_IDB_fascism_ADJ:0 "brésilien"
+ BRA_IDB_fascism_DEF:0 "l'Empire du Brésil"
+ BRA_IDB_neutrality:0 "Empire du Brésil"
+ BRA_IDB_neutrality_ADJ:0 "brésilien"
+ BRA_IDB_neutrality_DEF:0 "l'Empire du Brésil"
+ BRA_IDB_democratic:0 "Empire du Brésil"
+ BRA_IDB_democratic_ADJ:0 "brésilien"
+ BRA_IDB_democratic_DEF:0 "l'Empire du Brésil"
+ BRA_IDB_communism:0 "République socialiste brésilienne"
+ BRA_IDB_communism_ADJ:0 "brésilien"
+ BRA_IDB_communism_DEF:0 "la République socialiste brésilienne"
+
+ #BEL
+ BEL2_fascism:0 "Dietsland"
+ BEL2_fascism_DEF:0 "le Dietsland"
+ BEL2_communism_DEF:0 "la République populaire de Belgique"
+ BEL2_democratic_DEF:0 "la Belgique"
+ BEL2_neutrality_DEF:0 "la Belgique"
+ BEL2_fascism_ADJ:0 "diets"
+ BEL2_communism_ADJ:0 "belge"
+ BEL2_democratic_ADJ:0 "belge"
+ BEL2_neutrality_ADJ:0 "belge"
+ BEL3_fascism:0 "Empire thiois"
+ BEL3_fascism_DEF:0 "l'Empire thiois"
+ BEL3_GER_fascism:0 "État de Bourgogne"
+ BEL3_GER_fascism_DEF:0 "l'État de Bourgogne"
+ BEL3_GER_autonomy_dominion:0 "État de Bourgogne"
+ BEL3_GER_autonomy_colony:0 "État de Bourgogne"
+ BEL3_GER_autonomy_puppet:0 "État de Bourgogne"
+ BEL3_GER_autonomy_integrated_puppet:0 "État de Bourgogne"
+ BEL3_GER_autonomy_dominion_DEF:0 "l'État de Bourgogne"
+ BEL3_GER_autonomy_colony_DEF:0 "l'État de Bourgogne"
+ BEL3_GER_autonomy_puppet_DEF:0 "l'État de Bourgogne"
+ BEL3_GER_autonomy_integrated_puppet_DEF:0 "l'État de Bourgogne"
+ BEL3_communism_DEF:0 "la République populaire de Bourgogne"
+ BEL3_communism:0 "République populaire de Bourgogne"
+ BEL3_democratic_DEF:0 "les États-Unis de Belgique"
+ BEL3_democratic:0 "États-Unis de Belgique"
+ BEL3_neutrality_DEF:0 "le Royaume de Lotharingie"
+ BEL3_neutrality:0 "Royaume de Lotharingie"
+ BEL3_fascism_ADJ:0 "thiois"
+ BEL3_communism_ADJ:0 "belge"
+ BEL3_democratic_ADJ:0 "belge"
+ BEL3_neutrality_ADJ:0 "belge"
+ BEL3_communism_ADJ:0 "belge"
+ BEL3_democratic_ADJ:0 "belge"
+ BEL3_neutrality_ADJ:0 "belge"
+ BEL4_fascism:0 "Dietsche Rijk"
+ BEL4_fascism_DEF:0 "le Dietsche Rijk"
+ BEL4_communism_DEF:0 "la République populaire diets"
+ BEL4_democratic_DEF:0 "les États-Unis de Belgique"
+ BEL4_neutrality_DEF:0 "le Royaume de Lotharingie"
+ BEL4_fascism_ADJ:0 "diets"
+ BEL4_communism_ADJ:0 "belge"
+ BEL4_democratic_ADJ:0 "belge"
+ BEL4_neutrality_ADJ:0 "belge"
+
+ #BOL
+ BOL_BRA_fascism:0 "Territoire de l'Altiplano"
+ BOL_BRA_democratic:0 "Territoire de l'Altiplano"
+ BOL_BRA_subject:0 "Territoire de l'Altiplano"
+ BOL_BRA_autonomy_colony:0 "Territoire de l'Altiplano"
+ BOL_BRA_autonomy_integrated_puppet:0 "Territoire de l'Altiplano"
+ BOL_BRA_autonomy_dominion:0 "Bolivie brésilienne"
+
+ #BOT
+ BOT_ENG_autonomy_integrated_puppet:0 "Bechuanaland $OVERLORDADJ$"
+ BOT_ENG_autonomy_integrated_puppet_DEF:0 "le Bechuanaland $OVERLORDADJ$"
+
+ #BUL
+ BUL_republican_democratic:0 "République de Bulgarie"
+ BUL_republican_democratic_DEF:0 "la République de Bulgarie"
+ BUL_republican_democratic_ADJ:0 "bulgare"
+
+ #BYZ
+ BYZ_UNIFIED_neutrality:0 "Byzance"
+ BYZ_UNIFIED_fascism:0 "Empire byzantin"
+ BYZ_UNIFIED_democratic:0 "Byzance"
+ BYZ_UNIFIED_communism:0 "Union des Communes balkaniques-anatoliennes"
+ BYZ_UNIFIED_neutrality_DEF:0 "Byzance"
+ BYZ_UNIFIED_fascism_DEF:0 "l'Empire byzantin"
+ BYZ_UNIFIED_democratic_DEF:0 "Byzance"
+ BYZ_UNIFIED_communism_DEF:0 "l'Union des Communes balkaniques-anatoliennes"
+ BYZ_UNIFIED_communism_ADJ:0 "balkanique-anatolien"
+ BYZ_UNIFIED_democratic_ADJ:0 "byzantin"
+ BYZ_UNIFIED_fascism_ADJ:0 "byzantin"
+ BYZ_UNIFIED_neutrality_ADJ:0 "byzantin"
+
+ #CAN
+ CAN_UK_autonomy_integrated_puppet:0 "Canada $OVERLORDADJ$"
+ CAN_UK_autonomy_integrated_puppet_DEF:0 "le Canada $OVERLORDADJ$"
+ CAN_FRA_autonomy_puppet:0 "Grand royaume du Québec"
+
+ #CZE_VLK
+ CZE_VLK_fascism:0 "République nationale-socialiste tchécoslovaque"
+ CZE_VLK_fascism_ADJ:0 "tchécoslovaque"
+ CZE_VLK_fascism_DEF:0 "la République nationale-socialiste tchécoslovaque"
+
+ #CZE_ONLY
+ CZE_ONLY_ADJ:0 "tchèque"
+ CZE_ONLY_fascism_ADJ:0 "bohémien"
+ CZE_ONLY_neutrality:0 "Royaume de Bohême"
+ CZE_ONLY_neutrality_DEF:0 "le Royaume de Bohême"
+ CZE_ONLY_neutrality_ADJ:0 "bohémien"
+
+ #CHI
+ CHI_JAP_fascism:0 "Gouvernement nationaliste réorganisé"
+ CHI_JAP_fascism_DEF:0 "le Gouvernement nationaliste réorganisé"
+ CHI_JAP_neutrality:0 "Gouvernement nationaliste réorganisé"
+ CHI_JAP_neutrality_DEF:0 "le Gouvernement nationaliste réorganisé"
+
+ #CMP
+ CaharCouncilCtag_neutrality:0 "Comité politique mongol tchakhar"
+ CaharCouncilCtag_neutrality_DEF:0 "le Comité politique mongol tchakhar"
+
+ #ETH
+ ETH_ITA_fascism_autonomy_reichskommissariat:0 "Éthiopie $OVERLORDADJ$"
+ ETH_ITA_fascism_autonomy_integrated_puppet:0 "Éthiopie $OVERLORDADJ$"
+ ETH_ITA_fascism_autonomy_reichskommissariat_DEF:0 "Éthiopie $OVERLORDADJ$"
+ ETH_ITA_fascism_autonomy_integrated_puppet_DEF:0 "Éthiopie $OVERLORDADJ$"
+
+ #ENG
+ ENG_FRA_autonomy_puppet:0 "Duché de Grande-Bretagne"
+
+ #ECS
+ ECSAR_fascism:0 "Région autonome spéciale de Chahaer"
+
+ #EUR
+ EUR_UNIFIED_ADJ:0 "européen"
+
+ #FIJ
+ FIJ_ENG:1 "Colonie de Fidji"
+ FIJ_ENG_DEF:1 "la Colonie de Fidji"
+ FIJ_ENG_ADJ:1 "fidjien"
+
+ #FRA
+ FRA_GER_fascism_autonomy_puppet:0 "France de Vichy"
+ FRA_GER_fascism_autonomy_puppet_DEF:0 "la France de Vichy"
+
+ #FRA_UK
+ FRA_UK_ADJ:0 "franco-britannique"
+ FRA_UK_fascism_ADJ:0 "normand"
+ FRA_UK_communism_ADJ:0 "européen"
+
+ #FengClique
+ FengClique_fascism:0 "Nouvelle clique de Fengtian"
+ FengClique_fascism_DEF:0 "la Nouvelle clique de Fengtian"
+
+ #KEN
+ KEN_ENG_autonomy_integrated_puppet:0 "Kenya $OVERLORDADJ$"
+ KEN_ENG_autonomy_integrated_puppet_DEF:0 "le Kenya $OVERLORDADJ$"
+
+ #KSV
+ KSV_SER_autonomy_puppet:0 "Kosovo autonome"
+ KSV_YUG_autonomy_puppet:0 "Kosovo autonome"
+ KSV_SER_communism_autonomy_puppet:0 "Kosovo socialiste autonome"
+ KSV_YUG_communism_autonomy_puppet:0 "Kosovo socialiste autonome"
+ KSV_SER_fascism_autonomy_puppet:0 "État autonome du Kosovo"
+ KSV_YUG_fascism_autonomy_puppet:0 "État autonome du Kosovo"
+ KSV_SOV_communism_autonomy_puppet:0 "RSS du Kosovo"
+
+ #HUN_EMPIRE
+ HUN_EMPIRE_neutrality:0 "Empire austro-hongrois"
+ HUN_EMPIRE_neutrality_DEF:0 "l'Empire austro-hongrois"
+ HUN_EMPIRE_ADJ:0 "austro-hongrois"
+ HUN_EMPIRE_communism_ADJ:0 "danubien"
+ HUN_EMPIRE_democratic_ADJ:0 "danubien"
+ 
+ #SCA_UNIFIED
+ SCA_UNIFIED_ADJ:0 "scandinave"
+ 
+ #SCA
+ SCA_fascism:0 "Empire nordique"
+ SCA_fascism_DEF:0 "l'Empire nordique"
+ SCA_democratic:0 "Union nordique"
+ SCA_democratic_DEF:0 "l'Union nordique"
+ SCA_neutrality:0 "Union nordique"
+ SCA_neutrality_DEF:0 "l'Union nordique"
+ SCA_communism:0 "Union populaire des pays nordiques"
+ SCA_communism_DEF:0 "l'Union populaire des pays nordiques"
+ SCA_fascism_ADJ:0 "nordique"
+ SCA_democratic_ADJ:0 "nordique"
+ SCA_neutrality_ADJ:0 "nordique"
+ SCA_communism_ADJ:0 "nordique"
+ 
+ #SPQR
+ SPQR_UNIFIED_communism:0 "Res Publica Proletariorum Romanorum"
+ SPQR_UNIFIED_communism_DEF:0 "Res Publica Proletariorum Romanorum"
+ SPQR_UNIFIED_neutrality:0 "Imperium Romanum"
+ SPQR_UNIFIED_neutrality_DEF:0 "Imperium Romanum"
+ SPQR_UNIFIED_communism_ADJ:0 "romain"
+ SPQR_UNIFIED_neutrality_ADJ:0 "romain"
+ SPQR_UNIFIED_democratic_ADJ:0 "romain"
+ SPQR_UNIFIED_fascism_ADJ:0 "romain"
+ 
+ #RAJ
+ RAJ_UK_democratic:0 "Raj $OVERLORDADJ$"
+ RAJ_UK_democratic_DEF:0 "le Raj $OVERLORDADJ$"
+ RAJ_UK_neutrality:0 "Raj $OVERLORDADJ$"
+ RAJ_UK_neutrality_DEF:0 "le Raj $OVERLORDADJ$"
+ 
+ #RFPmck
+ RFPmck_fascism:0 "Parti fasciste russe"
+ RFPmck_fascism_DEF:0 "le Parti fasciste russe"
+ RFPmck_fascism_ADJ:0 "fasciste russe"
+ 
+ #ROYAUSHUN
+ ROYAUSHUN_neutrality:0 "Empire austro-hongrois"
+ ROYAUSHUN_neutrality_ADJ:0 "austro-hongrois"
+ ROYAUSHUN_neutrality_DEF:0 "l'Empire austro-hongrois"
+ 
+ #LBA
+ LBA_subject:0 "Lybie $OVERLORDADJ$"
+ LBA_ITA_fascism_autonomy_reichskommissariat:0 "Lybie $OVERLORDADJ$"
+ LBA_ITA_fascism_autonomy_integrated_puppet:0 "Lybie $OVERLORDADJ$"
+ LBA_ITA_fascism_autonomy_reichskommissariat_DEF:0 "Lybie $OVERLORDADJ$"
+ LBA_ITA_fascism_autonomy_integrated_puppet_DEF:0 "Lybie $OVERLORDADJ$"
+ 
+ #ICE
+ ICE_DEN_autonomy_dominion:0 "Dominion d'Islande"
+ ICE_DEN_autonomy_puppet:0 "Islande"
+ ICE_DEN_autonomy_integrated_puppet:0 "Islande autonome"
+ ICE_DEN_autonomy_colony:0 "Islande"
+ ICE_GER_fascism_autonomy_colony:0 "Reichscollony Island"
+ ICE_GER_fascism_autonomy_reichskomissariat:0 "Reichskomissariat Island"
+ ICE_GER_fascism_autonomy_reichsprotectorate:0 "Reichsprotektorat Island"
+ 
+ #IRE
+ IRE_free_state_democratic:0 "État libre d'Irlande"
+ IRE_free_state_democratic_DEF:0 "l'État libre d'Irlande"
+
+ #ITA
+ ITA_FRA_autonomy_puppet:0 "Royaume d'Italie"
+
+ #MAJ
+ MAJ_UNIFIED_ADJ:0 "majapahit"
+ 
+ #MAN
+ MAN_qing_restored:0 "Empire Qing"
+ MAN_qing_restored_ADJ:0 "Qing"
+ MAN_qing_restored_DEF:0 "l'Empire Qing"
+ mck_liberate:0 "État libre de Mandchourie"
+ rfp_white_movement:0 "Mouvement blanc"
+ qing_dynasty:0 "Empire céleste"
+ 
+ #MAG
+ MAGmen_fascism:0 "Gouvernement autonome unifié de Mongolie"
+ MAGmen_fascism_DEF:0 "le Gouvernement autonome unifié de Mongolie"
+
+ #MMGmen
+ MMGmen_fascism:0 "Gouvernement militaire mongol"
+ MMGmen_fascism_DEF:0 "le Gouvernement militaire mongol"
+
+ #MCP
+ MongalCouncilCtag_neutrality:0 "Comité politique mongol"
+ MongalCouncilCtag_neutrality_DEF:0 "le Comité politique mongol"
+ 
+ #MUT
+ MUT_UNIFIED_ADJ:0 "monomotapa"
+ 
+ #NDC
+ NDC_UNIFIED_ADJ:0 "nordique"
+ 
+ #NWND
+ NWND_communism:0 "Gouvernement de la Défense nationale du Nord-Ouest"
+ NWND_communism_DEF:0 "le Gouvernement de la Défense nationale du Nord-Ouest"
+ NWND_fascism:0 "Gouvernement de la Défense nationale du Nord-Ouest"
+ NWND_fascism_DEF:0 "le Gouvernement de la Défense nationale du Nord-Ouest"
+ 
+ #OTT
+ OTT_UNIFIED_neutrality:0 "Empire ottoman"
+ OTT_UNIFIED_fascism:0 "Empire ottoman"
+ OTT_UNIFIED_democratic:0 "Fédération ottomane"
+ OTT_UNIFIED_communism:0 "République socialiste du Proche-Orient"
+ OTT_UNIFIED_neutrality_DEF:0 "l'État ottoman sublime"
+ OTT_UNIFIED_fascism_DEF:0 "l'État ottoman sublime"
+ OTT_UNIFIED_democratic_DEF:0 "la Fédération ottomane"
+ OTT_UNIFIED_communism_DEF:0 "la République socialiste du Proche-Orient"
+ OTT_UNIFIED_neutrality_ADJ:0 "ottoman"
+ OTT_UNIFIED_fascism_ADJ:0 "ottoman"
+ OTT_UNIFIED_democratic_ADJ:0 "ottoman"
+ OTT_UNIFIED_communism_ADJ:0 "proche-oriental" 
+ 
+ #HRE
+ HRE_UNIFIED_neutrality:0 "Saint-Empire romain germanique"
+ HRE_UNIFIED_fascism:0 "Saint-Empire romain germanique"
+ HRE_UNIFIED_democratic:0 "Sainte-Fédération romaine germanique"
+ HRE_UNIFIED_communism:0 "République d'Europe centrale"
+ HRE_UNIFIED_neutrality_DEF:0 "le Saint-Empire romain germanique"
+ HRE_UNIFIED_fascism_DEF:0 "le Saint-Empire romain germanique"
+ HRE_UNIFIED_democratic_DEF:0 "la Sainte-Fédération romaine germanique"
+ HRE_UNIFIED_communism_DEF:0 "la République d'Europe centrale"
+ HRE_UNIFIED_neutrality_ADJ:0 "romain-germanique sacré"
+ HRE_UNIFIED_fascism_ADJ:0 "romain-germanique sacré"
+ HRE_UNIFIED_democratic_ADJ:0 "romain-germanique sacré"
+ HRE_UNIFIED_communism_ADJ:0 "centre-européen"
+ 
+ #HAN
+ HAN_neutrality:0 "Hanovre"
+ HAN_neutrality_DEF:0 "Hanovre"
+ HAN_neutrality_ADJ:0 "hanovrien"
+
+ #HREAUS
+ HREAUS_neutrality:0 "Saint-Empire romain germanique"
+ HREAUS_neutrality_DEF:0 "le Saint-Empire romain germanique"
+ HREAUS_neutrality_ADJ:0 "romain-germanique sacré" 
+
+ #HAN_WST
+ HAN_WST_fascism:1 "État de Westphalie"
+ HAN_WST_fascism_DEF:1 "l'État de Westphalie"
+ HAN_WST_democratic:1 "État libre de Westphalie"
+ HAN_WST_democratic_DEF:1 "l'État libre de Westphalie"
+ HAN_WST_neutrality:0 "Royaume de Westphalie"
+ HAN_WST_neutrality_DEF:0 "le Royaume de Westphalie"
+ HAN_WST_communism:1 "République populaire de Westphalie"
+ HAN_WST_communism_DEF:1 "la République populaire de Westphalie"
+ HAN_WST_fascism_ADJ:0 "westphalien"
+ HAN_WST_democratic_ADJ:0 "westphalien"
+ HAN_WST_neutrality_ADJ:0 "westphalien"
+ HAN_WST_communism_ADJ:0 "westphalien"
+
+ #HCPC
+ HCPC_neutrality:0 "Conseil politique du Hebei-Chahaer"
+ HCPC_neutrality_DEF:0 "le Conseil politique du Hebei-Chahaer"
+
+ #GER
+ GER_FRA_autonomy_dominion:0 "Protectorat allemand"
+ GER_FRA_autonomy_colony:0 "Protectorat allemand"
+ GER_FRA_autonomy_puppet:0 "Protectorat allemand"
+ GER_FRA_autonomy_integrated_puppet:0 "Protectorat allemand"
+ 
+ #GRL
+ GRL_DEN_autonomy_dominion:0 "Groenland"
+ GRL_DEN_autonomy_puppet:0 "Groenland"
+ GRL_DEN_autonomy_integrated_puppet:0 "Colonie du sud du Groenland"
+ GRL_DEN_autonomy_colony:0 "Groenland"
+ GRL_GER_fascism_autonomy_puppet:0 "Nordamerikanicher Grönland"
+ GRL_GER_fascism_autonomy_dominion:0 "Nordamerikanicher Grönland"
+ GRL_GER_fascism_autonomy_integrated_puppet:0 "Nordamerikanicher Grönland"
+ GRL_GER_fascism_autonomy_colony:0 "Nordamerikanicher Grönland"
+ GRL_GER_fascism_autonomy_Reichskomissariat:0 "Reich von Grönland"
+ GRL_GER_fascism_autonomy_Reichsprotectorate:0 "Größeres Reich von Grönland"
+ GRL_GER_fascism_autonomy_Satellite:0 "Nordamerikanicher Grönland"
+ 
+ #GCD
+ GCDguerilla_communism:0 "République soviétique chinoise"
+ GCDguerilla_communism_DEF:0 "la République soviétique chinoise"
+ GCDsgn_communism:0 "Région frontalière du Shaan-Gan-Ning"
+ GCDsgn_communism_DEF:0 "la Région frontalière du Shaan-Gan-Ning"
+ GCDcivilwar_communism:0 "Chine communiste"
+ GCDcivilwar_communism_DEF:0 "la Chine communiste"
+ 
+ #GCOL
+ GCOL_fascism:0 "Grande Colombie"
+ GCOL_fascism_DEF:0 "la Grande Colombie"
+ GCOL_democratic:0 "Grande Colombie"
+ GCOL_democratic_DEF:0 "la Grande Colombie"
+ GCOL_neutrality:0 "Grande Colombie"
+ GCOL_neutrality_DEF:0 "la Grande Colombie"
+ GCOL_communism:0 "Union socialiste des Andes"
+ GCOL_communism_DEF:0 "l'Union socialiste des Andes"
+ GCOL_fascism_ADJ:0 "grand-colombien"
+ GCOL_democratic_ADJ:0 "grand-colombien"
+ GCOL_neutrality_ADJ:0 "grand-colombien"
+ GCOL_communism_ADJ:0 "andin"
+ 
+ #GCO_UNIFIED
+ GCO_UNIFIED_ADJ:0 "colombien"
+ 
+ #PAR
+ PAR_BRA_autonomy_integrated_puppet:0 "Territoire du Gran Chaco"
+ PAR_BRA_autonomy_puppet:0 "État du Gran Chaco"
+ PAR_BRA_autonomy_colony:0 "État du Gran Chaco"
+ PAR_BRA_autonomy_dominion:0 "État du Gran Chaco"
+ PAR_BRA_autonomy_integrated_puppet_DEF:0 "le Territoire du Gran Chaco"
+ PAR_BRA_autonomy_puppet_DEF:0 "l'État du Gran Chaco"
+ PAR_BRA_autonomy_colony_DEF:0 "l'État du Gran Chaco"
+ PAR_BRA_autonomy_dominion_DEF:0 "l'État du Gran Chaco"
+ 
+ #PAL
+ ENG_PAL_neutrality:0 "Palestine mandataire"
+ ENG_PAL_neutrality_DEF:0 "la Palestine mandataire"
+ ENG_PAL_neutrality_ADJ:0 "palestinien"
+ ENG_PAL_democratic:0 "Palestine mandataire"
+ ENG_PAL_democratic_DEF:0 "la Palestine mandataire"
+ ENG_PAL_democratic_ADJ:0 "palestinien"
+ ENG_PAL_democratic:0 "Palestine socialiste populaire"
+ ENG_PAL_democratic_DEF:0 "la Palestine socialiste populaire"
+ ENG_PAL_democratic_ADJ:0 "palestinien"
+ ENG_PAL_fascism:0 "Djund palestinien"
+ ENG_PAL_fascism_DEF:0 "le Djund palestinien"
+ ENG_PAL_fascism_ADJ:0 "palestinien"
+ 
+ #POL
+ POL_GER_autonomy_colony:0 "Gouvernement central"
+ POL_GER_autonomy_integrated_puppet:0 "Gouvernement central"
+
+ #PAR
+ PAR_BRA_autonomy_dominion:0 "Paraguay brésilien"
+
+ #PRC
+ PRC_nwnd_gov:0 "Gouvernement de la Défense nationale du Nord-Ouest"
+ PRC_nwnd_gov_short:0 "GDN-NO"
+ 
+ #PER
+ PER_UNIFIED_neutrality:0 "Empire perse"
+ PER_UNIFIED_fascism:0 "Empire perse"
+ PER_UNIFIED_democratic:0 "Perse"
+ PER_UNIFIED_communism:0 "Grande République socialiste iranienne"
+ PER_UNIFIED_neutrality_DEF:0 "l'Empire perse"
+ PER_UNIFIED_fascism_DEF:0 "l'Empire perse"
+ PER_UNIFIED_democratic_DEF:0 "la Perse"
+ PER_UNIFIED_communism_DEF:0 "la Grande République socialiste iranienne"
+ PER_UNIFIED_communism_ADJ:0 "iranien"
+ PER_UNIFIED_democratic_ADJ:0 "perse"
+ PER_UNIFIED_neutrality_ADJ:0 "perse"
+ PER_UNIFIED_fascism_ADJ:0 "perse"
+ 
+ #PLC
+ PLC_UNIFIED_ADJ:0 "polono-lituanien"
+ 
+ #RAT
+ RAT_UNIFIED_ADJ:0 "thaïlandais"
+ 
+ #JAP
+ JAP_FRA_autonomy_puppet:0 "Royaume français du Japon"
+ 
+ #UNL
+ UNL_UNIFIED_neutrality:0 "Provinces-Unies des Pays-Bas"
+ UNL_UNIFIED_fascism:0 "Leonis Batavica"
+ UNL_UNIFIED_democratic:0 "Royaume-Uni des Pays-Bas"
+ UNL_UNIFIED_communism:0 "État socialiste des Pays-Bas"
+ UNL_UNIFIED_neutrality_DEF:0 "les Provinces-Unies des Pays-Bas"
+ UNL_UNIFIED_fascism_DEF:0 "Leonis Batavica"
+ UNL_UNIFIED_democratic_DEF:0 "le Royaume-Uni des Pays-Bas"
+ UNL_UNIFIED_communism_DEF:0 "l'État socialiste des Pays-Bas"
+ UNL_UNIFIED_neutrality_ADJ:0 "néerlandais"
+ UNL_UNIFIED_fascism_ADJ:0 "batavica"
+ UNL_UNIFIED_democratic_ADJ:0 "néerlandais"
+ UNL_UNIFIED_communism_ADJ:0 "néerlandais"
+
+ #USC
+ USC_UNIFIED_ADJ:0 "centre-américain"
+
+ #United Polynesia
+ united_polynesia_democratic_ADJ:0 "polynésien"
+ 
+ #VEN
+ VEN_BRA_autonomy_integrated_puppet:0 "Territoires des Caraïbes"
+ VEN_BRA_autonomy_puppet:0 "États des Caraïbes"
+ VEN_BRA_autonomy_colony:0 "États des Caraïbes"
+ VEN_BRA_autonomy_dominion:0 "États des Caraïbes"
+ VEN_BRA_autonomy_integrated_puppet_DEF:0 "les Territoires des Caraïbes"
+ VEN_BRA_autonomy_puppet_DEF:0 "l'États des Caraïbes"
+ VEN_BRA_autonomy_colony_DEF:0 "l'États des Caraïbes"
+ VEN_BRA_autonomy_dominion_DEF:0 "l'États des Caraïbes"
+ 
+ #URG
+ URG_BRA_autonomy_integrated_puppet:0 "Territoire cisplatin"
+ URG_BRA_autonomy_puppet:0 "État cisplatin"
+ URG_BRA_autonomy_colony:0 "État cisplatin"
+ URG_BRA_autonomy_dominion:0 "État cisplatin"
+ URG_BRA_autonomy_integrated_puppet_DEF:0 "le Territoire cisplatin"
+ URG_BRA_autonomy_puppet_DEF:0 "l'État cisplatin"
+ URG_BRA_autonomy_colony_DEF:0 "l'État cisplatin"
+ URG_BRA_autonomy_dominion_DEF:0 "l'État cisplatin"
+ 
+ #USA
+ USA_UK_autonomy_puppet:0 "États-Unis $OVERLORDADJ$"
+ USA_UK_autonomy_puppet_DEF:0 "les États-Unis $OVERLORDADJ$"
+ USA_SAF_EDW_autonomy_puppet:0 "États-Unis $OVERLORDADJ$"
+ USA_SAF_EDW_autonomy_puppet_DEF:0 "les États-Unis $OVERLORDADJ$"
+ USA_FRA_autonomy_dominion:0 "Grand royaume de Louisiane"
+ USA_FRA_autonomy_puppet:0 "Royaume de Louisiane"
+ USA_FRA_autonomy_colony:0 "Colonie de Louisiane"
+ USA_FRA_autonomy_integrated_puppet:0 "District de Louisiane"
+ USA_GER_fascism_autonomy_dominion:0 "Nordamerikanicher Zustand"
+ USA_GER_fascism_autonomy_puppet:0 "Nordamerikanicher Siedlung"
+ USA_GER_fascism_autonomy_integrated_puppet:0 "Nordamerikanicher Siedlung"
+ USA_GER_fascism_autonomy_colony:0 "Nordamerikanicher Siedlung"
+ USA_GER_fascism_autonomy_Reichskomissariat:0 "Reich von Nordamerikanicher"
+ USA_GER_fascism_autonomy_Reichsprotectorate:0 "Größeres Reich von Nordamerikanicher"
+ USA_GER_fascism_autonomy_Satellite:0 "Reichskomissariat américain"
+ 
+ #ZIM
+ ZIM_ENG_autonomy_dominion:0 "Rhodésie du Sud"
+ ZIM_ENG_autonomy_colony:0 "Rhodésie du Sud"
+ ZIM_ENG_autonomy_puppet:0 "Rhodésie du Sud"
+ ZIM_ENG_autonomy_integrated_puppet:0 "Rhodésie du Sud"
+ ZIM_ENG_autonomy_dominion_DEF:0 "la Colonie de Rhodésie du Sud"
+ ZIM_ENG_autonomy_colony_DEF:0 "la Colonie de Rhodésie du Sud"
+ ZIM_ENG_autonomy_puppet_DEF:0 "la Colonie de Rhodésie du Sud"
+ ZIM_ENG_autonomy_integrated_puppet_DEF:0 "la Colonie de Rhodésie du Sud"

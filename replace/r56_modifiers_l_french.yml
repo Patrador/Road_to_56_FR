@@ -3,7 +3,7 @@
 #--> All the modifiers created by new buildings/techs
 
 l_french: 
-
+   neutrality_acceptance:0 "Acceptation de la diplomatie autoritaire"
    naval_armor_tech_research:0 "Vitesse de recherche du blindage naval"
    naval_gunnery_tech_research:0 "Vitesse de recherche de l'artillerie navale"
    modifier_production_speed_steel_mill_factor:0 "Vitesse de construction de l'§Yaciérie§!"

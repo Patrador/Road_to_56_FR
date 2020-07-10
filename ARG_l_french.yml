@@ -1,4 +1,9 @@
 ﻿l_french:
+ ARG_spanish_civil_war_involvement:0 "Participer à la guerre civile espagnole"
+ ARG_spanish_civil_war_involvement_desc:0 "Nous ne pouvons pas laisser nos frères espagnols se battre et ne pas nous impliquer d'une manière ou d'une autre."
+ r56_ARG_spanish_civil_war_involvement:0 "Participer à la guerre civile espagnole"
+
+
  ARG_instituto_aerotecnico_de_cordoba:0 "Instituto Aerotecnico de Cordoba"
  
  ARG_american_oil_concern:0 "Pétrole industriel"
@@ -30,3 +35,7 @@
  ARG_leon_scasso:0 "León Scasso"
  ARG_humberto_sosa_molina:0 "Humberto Sosa Molina"
  ARG_agustin_pedro_justo:0 "Agustín Pedro Justo"
+
+
+ ARG_supremacy_over_brazil:0 "Suprématie sur le Brésil"
+ ARG_supremacy_over_brazil_desc:0 "Suprématie sur le Brésil."
