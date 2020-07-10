@@ -334,7 +334,7 @@
     SCA_iceland.2.t:0 "La Grande-Bretagne exige notre coopération"
     SCA_iceland.2.desc:0 "La Grande-Bretagne nous a lancé un ultimatum. Soit nous permettons à ses troupes de se mettre en garnison dans notre pays et d'utiliser nos ports, soit ils nous forcent à le faire."
     SCA_iceland.2.a:0 "Nous n'avons donc guère le choix."
-    SCA_iceland.2.b:0 "JAMAIS! (Le Royaume-Uni déclare la guerre [ROOT.GetAuAlaAlNP] [ROOT.GetName])"
+    SCA_iceland.2.b:0 "JAMAIS ! (Le Royaume-Uni déclare la guerre [ROOT.GetAuAlaAlNP] [ROOT.GetName])"
     
  SCA_iceland.3:0 "L'Islande affirme son soutien à la démocratie"
  SCA_iceland.3.t:0 "L'Islande affirme son soutien à la démocratie"
@@ -363,7 +363,7 @@
  
  SCA_iceland.8:0 "Coup d'État fasciste"
  SCA_iceland.8.t:0 "Le coup d'État de Flokkur Þjóðernissinna"
- SCA_iceland.8.desc:0 "Aujourd'hui, les membres du Flokkur Þjóðernissinna ont organisé un coup d'État soudain contre le gouvernement. Prétendant représenter la "volonté du peuple", [ICE.Fascism.GetLeader] s'est proclamé le nouveau chef du gouvernement qui doit être restructuré pour s'éloigner du modèle parlementaire et se diriger vers un modèle corporatiste avec [ICE.Fascism.GetLeader] à sa tête. Bien qu'il y ait des rumeurs de mécontentement au sein du parti, leur suprématie est définitivement incontestée, du moins pour l'instant."
+ SCA_iceland.8.desc:0 "Aujourd'hui, les membres du Flokkur Þjóðernissinna ont organisé un coup d'État soudain contre le gouvernement. Prétendant représenter la « volonté du peuple », [ICE.Fascism.GetLeader] s'est proclamé le nouveau chef du gouvernement qui doit être restructuré pour s'éloigner du modèle parlementaire et se diriger vers un modèle corporatiste avec [ICE.Fascism.GetLeader] à sa tête. Bien qu'il y ait des rumeurs de mécontentement au sein du parti, leur suprématie est définitivement incontestée, du moins pour l'instant."
  SCA_iceland.8.a:0 "L'Islande sera amenée à une nouvelle ère de grandeur."
  
  SCA_iceland.9:0 "Débat sur les gardes-côtes"

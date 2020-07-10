@@ -59,16 +59,16 @@ GUA_napoleon_2:0 "Réincarnation de Napoléon"
 #Events
 r56_guatemala.1.t:0 "[GUA.GetLeLaLNPCap] [GUA.GetName] demande à rejoindre notre faction"
 r56_guatemala.1.d:0 "[GUA.GetLeLaLNPCap] [GUA.GetName] [GUA.GetAOntNP] demandé à rejoindre notre alliance et à se joindre à la guerre contre l'Allemagne."
-r56_guatemala.1.a:0 "Absolument"
-r56_guatemala.1.b:0 "Non"
+r56_guatemala.1.a:0 "Absolument."
+r56_guatemala.1.b:0 "Non."
 
 r56_guatemala.2.t:0 "Les [USA.GetHabitants] disent oui !"
 r56_guatemala.2.d:0 "[USA.GetLeLaLNPCap] [USA.GetName] [USA.GetAOntNP] accepté que nous entrons dans leur alliance et attendent maintenant notre déclaration de guerre à l'Allemagne comme promis."
-r56_guatemala.2.a:0 "Merveilleux"
+r56_guatemala.2.a:0 "Merveilleux."
 
 r56_guatemala.3.t:0 "Les [USA.GetHabitants] disent non"
 r56_guatemala.3.d:0 "[USA.GetLeLaLNPCap] [USA.GetName] [USA.GetAOntNP] répondu avec un non, souhaitant s'éloigner de nous."
-r56_guatemala.3.a:0 "Un désastre"
+r56_guatemala.3.a:0 "Un désastre."
 
 #Custom Effect Tooltip
 ubiquistas_generals:0 "Assigne 2 Ubiquistes comme généraux"

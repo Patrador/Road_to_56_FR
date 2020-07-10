@@ -14,7 +14,7 @@ l_french:
  r56i_laws_social:0 "Ordre social"
  r56i_laws_social_normal:0 "Normes culturelles"
  r56i_laws_social_hierarchy:0 "Hiérarchie"
- r56i_laws_social_revolutionary:0 "Ésprits révolutionnaires"
+ r56i_laws_social_revolutionary:0 "Esprits révolutionnaires"
  r56i_laws_social_diversity:0 "Melting pot"
  r56i_laws_social_unity:0 "Bien commun"
  
@@ -54,7 +54,7 @@ l_french:
  r56i_idea_suppress_spend_desc:0 "Nous affectons des fonds fédéraux aux programmes réclamés par les émeutiers."
  
 #Decisions
- #r56i_national_character_decisions:0 "National Decisions"
+ #r56i_national_character_decisions:0 "Décisions nationales"
  r56i_decision_suppress_revolts:0 "Lutter contre les troubles civils"
  r56i_decision_suppress_revolts_desc:0 "Lorsque la botte est correctement appliquée, le cou doit se plier."
  r56i_decision_talk_revolts:0 "Négocier avec les leaders"
@@ -64,9 +64,9 @@ l_french:
 
 #Tooltips
 
-r56i_tooltip_suppress_spend:0 "Retire l'esprit national §YTroubles civils§!\n §g'Nous allons essayer de nous sortir du problème.'§!"
-r56i_tooltip_suppress_talks:0 "Retire l'esprit national §YTroubles civils§!\n §g'Nous allons parler avec les leaders des émeutes et voir ce qui peut être fait.'§!"
-r56i_tooltip_suppress_harsh:0 "Retire l'esprit national §YTroubles civils§!\n §g'Nous enverrons la police militaire pour faire le nécessaire.'§!"
+r56i_tooltip_suppress_spend:0 "Retire l'esprit national « §YTroubles civils§! »\n §g« Nous allons essayer de nous sortir du problème. »§!"
+r56i_tooltip_suppress_talks:0 "Retire l'esprit national « §YTroubles civils§! »\n §g« Nous allons parler avec les leaders des émeutes et voir ce qui peut être fait. »§!"
+r56i_tooltip_suppress_harsh:0 "Retire l'esprit national « §YTroubles civils§! »\n §g« Nous enverrons la police militaire pour faire le nécessaire. »§!"
 r56i_laws_security_order_tt:0 "§WRisque de grèves§! :§G -100%§!"
 
 #Events
@@ -74,7 +74,7 @@ r56i_laws_security_order_tt:0 "§WRisque de grèves§! :§G -100%§!"
  #People are unhappy
  r56i.event.01.title:0 "Émeutes dans les rues"
  r56i.event.01.description:0 "Il semble que le public ait été trop longtemps ignoré. Irrité par la situation actuelle et incapable d'en supporter plus, la violence a éclaté. Bien que leurs demandes soient assez modérées, elles sont certainement coûteuses."
- r56i.event.01.default:0 "Le plus dérangeant."
+ r56i.event.01.default:0 "C'est dérangeant."
  r56i.event.01.democratic:0 "Nos citoyens souffrent."
  r56i.event.01.communism:0 "Nos frères sont manipulés."
  r56i.event.01.fascism:0 "Il faut donner une main forte au peuple."
@@ -82,7 +82,7 @@ r56i_laws_security_order_tt:0 "§WRisque de grèves§! :§G -100%§!"
  #People are unhappy again
  r56i.event.02.title:0 "Le retour des émeutes"
  r56i.event.02.description:0 "Les émeutes se poursuivent et se sont aggravées. De plus en plus d’intellectuels de notre société les soutiennent et les demandes considérées à l’origine comme extrêmes sont beaucoup plus nombreuses."
- r56i.event.02.default:0 "Que pouvons-nous faire?"
+ r56i.event.02.default:0 "Que pouvons-nous faire ?"
  r56i.event.02.democratic:0 "Il doit sûrement y avoir une solution."
  r56i.event.02.communism:0 "Ce ne sont pas de vrais communistes !"
  r56i.event.02.fascism:0 "Peut-être que des mesures extrêmes sont nécessaires."
@@ -105,7 +105,7 @@ r56i_laws_security_order_tt:0 "§WRisque de grèves§! :§G -100%§!"
  
  #Talk suppression is a success
  r56i.event.06.title:0 "Succès des discussions"
- r56i.event.06.description:0 "Comme tout autre être humain, un organisateur de manifestation est faillible. Des promesses vagues et vides ont suffi à rassurer certains des leaders, tandis que d'autres devaient être remboursées par ... des dons pour les efforts de paix du trésor de l'État. Quoi qu’il en soit, avec plus d’organisation, les manifestations semblent s’être épuisées."
+ r56i.event.06.description:0 "Comme tout autre être humain, un organisateur de manifestation est faillible. Des promesses vagues et vides ont suffi à rassurer certains des leaders, tandis que d'autres devaient être remboursées par... des dons pour les efforts de paix du trésor de l'État. Quoi qu’il en soit, avec plus d’organisation, les manifestations semblent avoir disparu."
  r56i.event.06.default:0 "Le stylo est puissant."
  r56i.event.06.democratic:0 "La démocratie prévaut encore."
  r56i.event.06.communism:0 "La dialectique nous sert bien."
@@ -144,8 +144,8 @@ r56i_laws_security_order_tt:0 "§WRisque de grèves§! :§G -100%§!"
  #Event to leave faction in case of revolution
   r56i.event.10.title:0 "Une nouvelle orientation diplomatique ?"
   r56i.event.10.description:0 "La mise en place d'un nouveau gouvernement soulève un certain nombre de questions concernant l'avenir de [ROOT.GetDuDelaDelNP] [ROOT.GetName]. [ROOT.GetLeader] se méfie de l'orientation idéologique [ROOT.GetDuDelaDelFaction] [ROOT.GetFactionName] et craint qu'une telle coopération ne conduise à une guerre contre des pays sympathisants de la cause [ROOT.GetRulingIdeology] et l'orientation politique [ROOT.GetDuDelaDelPartiPouv] [ROOT.GetRulingParty]."
-  r56i.event.10.a:0 "Ce sont les alliés du gouvernement précédent"
-  r56i.event.10.b:0 "Respecter nos engagements diplomatiques"
+  r56i.event.10.a:0 "Ce sont les alliés du gouvernement précédent."
+  r56i.event.10.b:0 "Respecter nos engagements diplomatiques."
 
 
   r56i.event.11.title:0 "[FROM.GetLeLaLNPCap] [FROM.GetName] quitte [ROOT.GetLeLaLFaction] [From.GetFactionName]"
@@ -155,7 +155,7 @@ r56i_laws_security_order_tt:0 "§WRisque de grèves§! :§G -100%§!"
   r56i.event.12.title:0 "Une opportunité historique"
   r56i.event.12.description:0 "La mise en place de notre gouvernement soulève des questions concernant l'avenir de [ROOT.GetDuDelaDelNP] [ROOT.GetName]. Pour la plupart d'entre nous, la réponse est claire : il est temps de gagner notre indépendance. Il est clair que notre ascension est un signe clair de la légitimité de la cause [ROOT.GetRulingIdeology] et nous devons aligner notre situation diplomatique sur le manifeste politique [ROOT.GetDuDelaDelPartiPouv] [ROOT.GetRulingParty]."
   r56i.event.12.a:0 "Nous sommes enfin libres !"
-  r56i.event.12.b:0 "C'est trop risqué"
+  r56i.event.12.b:0 "C'est trop risqué."
 
 
   r56i.event.13.title:0 "[From.GetLeader] déclare l'indépendance [From.GetAdjFS]"
