@@ -58,7 +58,7 @@
  AHV_subject:0 "Territoire $OVERLORDADJ$ autonome d'Åland"
 
  #BAL
- BAL_UNIFIED_ADJ:0 "Baltique"
+ BAL_UNIFIED_ADJ:0 "balte"
 
  #BRA
  BRA_IDB_fascism:0 "Empire du Brésil"
@@ -367,7 +367,7 @@
  #HREAUS
  HREAUS_neutrality:0 "Saint-Empire romain germanique"
  HREAUS_neutrality_DEF:0 "le Saint-Empire romain germanique"
- HREAUS_neutrality_ADJ:0 "romain-germanique sacré" 
+ HREAUS_neutrality_ADJ:0 "romain-germanique sacré"
 
  #HAN_WST
  HAN_WST_fascism:1 "État de Westphalie"
@@ -448,9 +448,9 @@
  ENG_PAL_democratic:0 "Palestine mandataire"
  ENG_PAL_democratic_DEF:0 "la Palestine mandataire"
  ENG_PAL_democratic_ADJ:0 "palestinien"
- ENG_PAL_democratic:0 "Palestine socialiste populaire"
- ENG_PAL_democratic_DEF:0 "la Palestine socialiste populaire"
- ENG_PAL_democratic_ADJ:0 "palestinien"
+ ENG_PAL_communism:0 "Palestine socialiste populaire"
+ ENG_PAL_communism_DEF:0 "la Palestine socialiste populaire"
+ ENG_PAL_communism_ADJ:0 "palestinien"
  ENG_PAL_fascism:0 "Djund palestinien"
  ENG_PAL_fascism_DEF:0 "le Djund palestinien"
  ENG_PAL_fascism_ADJ:0 "palestinien"
@@ -470,11 +470,11 @@
  PER_UNIFIED_neutrality:0 "Empire perse"
  PER_UNIFIED_fascism:0 "Empire perse"
  PER_UNIFIED_democratic:0 "Perse"
- PER_UNIFIED_communism:0 "Grande République socialiste iranienne"
+ PER_UNIFIED_communism:0 "Grande république socialiste iranienne"
  PER_UNIFIED_neutrality_DEF:0 "l'Empire perse"
  PER_UNIFIED_fascism_DEF:0 "l'Empire perse"
  PER_UNIFIED_democratic_DEF:0 "la Perse"
- PER_UNIFIED_communism_DEF:0 "la Grande République socialiste iranienne"
+ PER_UNIFIED_communism_DEF:0 "la Grande république socialiste iranienne"
  PER_UNIFIED_communism_ADJ:0 "iranien"
  PER_UNIFIED_democratic_ADJ:0 "perse"
  PER_UNIFIED_neutrality_ADJ:0 "perse"
@@ -499,7 +499,7 @@
  UNL_UNIFIED_democratic_DEF:0 "le Royaume-Uni des Pays-Bas"
  UNL_UNIFIED_communism_DEF:0 "l'État socialiste des Pays-Bas"
  UNL_UNIFIED_neutrality_ADJ:0 "néerlandais"
- UNL_UNIFIED_fascism_ADJ:0 "batavica"
+ UNL_UNIFIED_fascism_ADJ:0 "Batavica"
  UNL_UNIFIED_democratic_ADJ:0 "néerlandais"
  UNL_UNIFIED_communism_ADJ:0 "néerlandais"
 

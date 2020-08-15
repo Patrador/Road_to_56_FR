@@ -805,7 +805,7 @@
  
  #MEN
  MEN_communism:0 "République populaire de Mongolie intérieure"
- MEN_communism_ADJ:0 "mongol intérieur"
+ MEN_communism_ADJ:0 "mongol-intérieur"
  MEN_communism_DEF:0 "la République populaire de Mongolie intérieure"
 
  #MLI
@@ -1157,7 +1157,7 @@
  SIK_neutrality_DEF:0 "la République du Turkestan oriental"
  SIK_communism:0 "Clique du Xinjiang"
  SIK_communism_DEF:0 "la Clique du Xinjiang"
- SIK_fascism_ADJ:0 "ouïghouristanais"
+ SIK_fascism_ADJ:0 "ouïghour"
  SIK_democratic_ADJ:0 "turkestanais"
  SIK_neutrality_ADJ:0 "turkestanais"
  SIK_communism_ADJ:0 "xinjiangais"
