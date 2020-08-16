@@ -23,7 +23,8 @@
  
  USA_expand_unoffical_operations:0 "Développer les opérations non-officielles"
  USA_expand_unoffical_operations_desc:0 "L'expérience nous a appris que les renseignements peuvent faire la différence entre la victoire et la défaite. Ils peuvent nous aider à remporter la victoire mais aussi à prévenir la guerre. Une bombe bien placée peut remplacer une flotte de bombardiers et un agent bien placé peut remplacer une division."
-
+ USA_office_of_economic_warfare:0 "Bureau de la guerre économique"
+ USA_office_of_economic_warfare_desc:0 "Les nécessités de la guerre exigent que les ressources naturelles ne soient pas envoyées à l'étranger mais alimentent plutôt notre économie de guerre. Le bureau de la guerre économique sera chargé de superviser cette transformation."
 
 
  r56_usa.1.t:0 "Les élections de 1948"
@@ -31,14 +32,22 @@
  r56_usa.1.a:0 "Truman remporte les élections"
  r56_usa.1.a:0 "Dewey remporte les élections"
  
+ USA_mobilize_the_national_guard:0 "Mobiliser les réserves"
+ USA_mobilize_the_national_guard_desc:0 "La mobilisation des réserves contribuera grandement à la croissance de notre armée."
+
  r56_usa.2.t:0 "L'armée de l'air demande une plus grande autonomie"
- r56_usa.2.desc:0 "\nLes officiers de l'armée de l'air et le haut commandement de l'armée de terre ont toujours eu des conflits entre eux depuis la création de l'armée de l'air sur l'autonomie de l'armée de l'air au sein de l'armée de terre. Il semble que cette question ait pris de l'ampleur avec la création récente de la division des plans de guerre aérienne. Dans le passé, nous avons fait taire les officiers de l'armée de l'air qui s'exprimaient sur cette question, notamment Henry Arnold. Mais il semble que nous ne puissions plus ignorer la question et que nous devions prendre une décision finale sur l'autonomie de l'armée de l'air au sein de nos forces armées."
+ r56_usa.2.desc:0 "Les officiers de l'armée de l'air et le haut commandement de l'armée de terre ont toujours eu des conflits entre eux depuis la création de l'armée de l'air sur l'autonomie de l'armée de l'air au sein de l'armée de terre. Il semble que cette question ait pris de l'ampleur avec la création récente de la division des plans de guerre aérienne. Dans le passé, nous avons fait taire les officiers de l'armée de l'air qui s'exprimaient sur cette question, notamment Henry Arnold. Mais il semble que nous ne puissions plus ignorer la question et que nous devions prendre une décision finale sur l'autonomie de l'armée de l'air au sein de nos forces armées."
  r56_usa.2.c:0 "L'armée de l'air reste dans l'armée de terre !"
  r56_usa.2.a:0 "Promouvoir Henry Arnold est une bonne chose."
  r56_usa.2.b:0 "Accorder à l'armée de l'air l'autonomie qu'elle souhaite."
 
+ r56_USA_the_alaskan_trap:0 "Le piège de l'Alaska"
+ r56_USA_the_alaskan_trap_desc:0 "En faisant passer l'Alaska pour un point d'invasion attrayant pour nos ennemis de l'Est et avec quelques travaux mineurs de l'USACE. Nous pouvons transformer l'Alaska en un piège pour une force d'invasion."
 
+ rt56_far_left_suppression:0 "Répression de l'extrême gauche"
+ rt56_far_left_suppression_desc:0 "Les événements qui ont conduit à la Peur Rouge des années 1920 ont laissé une impression durable sur les responsables de l'application des lois et sur le public américain. Cette impression a conduit à la poursuite et au harcèlement des mouvements d'extrême gauche dans l'ensemble des États-Unis. Ces dernières années, les efforts de répression contre les groupes d'extrême gauche sont menés par le Federal Bureau of Investigation de J. Edgar Hoover."
 
+ rt56_USA_mobilize_the_national_guard:0 "Mobilisation des réserves"
 
  USA_carrier_1:0 "Classe Langley"
  USA_carrier_1_desc:0 "Le porte-avions de la classe Langley est né de la conversion de la coque d'un navire de la classe Jupiter. Cela lui a permis de se conformer aux limites imposées par le traité naval de Washington. Cette classe a été la première classe de porte-avions opérationnels de la marine américaine et a passé plus d'une décennie à améliorer les opérations des porte-avions."

@@ -270,8 +270,13 @@ euskalduna:0 "Euskalduna"
  SPR_una_grande_y_libre:0 "Una, grande y libre"
  SPR_una_grande_y_libre_desc:0 "L'Espagne est une nation libre de toute influence étrangère, nous n'avons pas besoin de l'aide d'une quelconque puissance pour affirmer notre place dans ce monde !"
  
+ SPR_befriend_portugal:0 "Se rapprocher du Portugal"
+ SPR_befriend_portugal_desc:0 "Notre partenaire ibérique est un partenaire essentiel dans ce monde agité."
+ 
  SPR_francisco_franco:0 "Francisco Franco"
  
+ SPR_tallares_mecanicos_y_garaje:0 "Talleres Mecánicos y Garaje RAG S.A."
+
   #used in DLC tree for now
   SPR_naval_design_bureau:0 "Bureau de conception navale"
   SPR_naval_design_bureau_desc:0 "Rassembler les ingénieurs pour créer le Bureau de conception navale permettra aux meilleurs esprits de repenser l'équipement de notre marine."

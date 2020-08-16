@@ -29,8 +29,8 @@
  raba:0 "Rába "
  maort:0 "Magyar-Amerikai Olajipari"
  haesz:0 "HAESZ"
- HUN_generic_medium_aircraft_manufacturer:0 "Repülő Muszaki Intézet"
- HUN_generic_heavy_aircraft_manufacturer:0 "Repülő Muszaki Intézet"
+ HUN_generic_medium_aircraft_manufacturer:0 "Repülő Müszaki Intézet"
+ HUN_generic_heavy_aircraft_manufacturer:0 "Repülő Müszaki Intézet"
  HUN_diosgyor_iron_and_steelworks:0 "Diósgyőr Iron and Steelworks"
  HUN_generic_naval_aircraft_manufacturer:0 "AVIS"
  HUN_ikarus:0 "Usine des forges et de l'atelier automobile d'Imre Uhri"
@@ -51,7 +51,7 @@
  HUN_oil_refining_infrastructure_desc:0 "Afin d'assurer l'exploitation de nos champs pétroliers, nous devons équiper le pays des raffineries et des silos à carburant nécessaires."
  
  HUN_revolt_of_the_arrow_crosses:0 "Révolte des Croix fléchées"
- HUN_revolt_of_the_arrow_crosses_desc:0 "Le soi-disant régent a trahi la patrie et son armée pendant des années en gardant le pouvoir pour lui tout en étant complaisant avec les oppresseurs étrangers."
+ HUN_revolt_of_the_arrow_crosses_desc:0 "Le soi-disant régent a trahi la mère patrie et son armée pendant des années en gardant le pouvoir pour lui tout en étant complaisant avec les oppresseurs étrangers." # it's motherland (anyaföld) in hungarian, not fatherland
  HUN_favor_the_army:0 "Privilégier l'armée"
  HUN_favor_the_army_desc:0 "Il est de notre devoir de privilégier l'armée afin de donner à la Hongrie ses frontières historiques. Nous devons donc tout faire pour favoriser l'intérêt des officiers et guérir la division causée par le déplacement du traître Horthy."
  HUN_foreign_aeronautical_assistance:0 "Assistance aéronautique étrangère"

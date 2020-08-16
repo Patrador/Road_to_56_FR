@@ -146,8 +146,8 @@
  r56_italy.23.a:0 "Si cela évite une guerre, qu'il en soit ainsi."
  r56_italy.23.b:0 "La Dalmatie nous appartient de plein droit !"
 
- r56_italy.24.t:0 "La Yougoslavie refuse d'abandonner la Dalmatie !"
- r56_italy.24.d:0 "Le gouvernement yougoslave nous a annoncé qu'il n'allait pas « se mettre à genoux devant un gouvernement qui ne souhaite pas respecter les populations slaves vivant en Dalmatie », et il y a une augmentation significative de la présence militaire dans la région et le long de notre frontière commune. Que devrions-nous faire ?"
+ r56_italy.24.t:0 "[103.Owner.GetLeLaLNPCap] [103.Owner.GetName] refus[103.Owner.GetEEntNP] d'abandonner la Dalmatie !"
+ r56_italy.24.d:0 "Le gouvernement [103.Owner.GetAdjMS] nous a annoncé qu'il n'allait pas « se mettre à genoux devant un gouvernement qui ne souhaite pas respecter les populations vivant en Dalmatie », et il y a une augmentation significative de la présence militaire dans la région et le long de notre frontière commune. Que devrions-nous faire ?"
  r56_italy.24.a:0 "Ils auraient dû la donner pacifiquement. Nous serons réunis par la force !"
  r56_italy.24.b:0 "Nous reviendrons plus tard."
 
@@ -617,10 +617,13 @@ ferrovie_meridionali_sarde:0 "Ferrovie Meridionali Sarde"
 scotti:0 "Scotti"
 astaldi:0 "Astaldi"
 pirelli:0 "Pirelli"
+ITA_finsider:0 "Finsider"
 
 #Traits
 ansaldo_tank_manufacturer:0 "Concepteur de chars"
 ansaldo_navy_manufacturer:0 "Architecte naval"
+fondatore_dell_impero:0 "Fondatore dell'impero"
+
 
 ITA_RSI_fascism:0 "République socialiste d'Italie"
 

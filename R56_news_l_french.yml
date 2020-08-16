@@ -63,3 +63,15 @@ r56.news_event.12.d:0 "\nDepuis le rachat du Honduras par la United Fruit compan
 r56.news_event.12.a:0 "Une expérience intéressante."
 r56.news_event.12.b:0 "Libérez le marché, libérez le peuple !"
 r56.news_event.12.c:0 "Une entité répugnante."
+
+#Grand Columbia
+r56.news_event.14.t:0 "[COL.GetNameDef] proclame les ambitions de la Grande Colombie."
+r56.news_event.14.d:0 "\nAujourd'hui, dans la capitale [COL.GetDuDelaDelNP] [COL.GetName]. [COL.GetLeader] a dit au peuple de sa nation qu'il doit regarder au-delà de ses frontières pour trouver la gloire et le bonheur. Qu'ils doivent étendre les frontières que le pays inhibe actuellement. [FROM.GetLeader] a également fait de nombreuses mentions de la récupération des anciennes terres qui constituaient la Grande Colombie. Il reste à voir si ce ne sont que des paroles dures ou si de telles ambitions se concrétiseront en conflit. Toutefois, les voisins [COL.GetDuDelaDelNP] [COL.GetName] s'inquiètent d'un éventuel conflit. Il semble que la guerre se profile à l'horizon pour les voisins [COL.GetDuDelaDelNP] [COL.GetName]."
+r56.news_event.14.a:0 "Un développement intéressant."
+r56.news_event.14.b:0 "Il se peut que nous devions intervenir."
+r56.news_event.14.c:0 "Nos ambitions ne seront pas arrêtées."
+
+r56.news_event.13.t:0 "La troisième guerre civile chilienne"
+r56.news_event.13.d:0 "Suite aux récents événements politiques au Chili, le mouvement Nacistas est devenu plus contrarié et plus combatif avec le gouvernement chilien actuel. Ce sentiment semble s'être concrétisé, puisque ce matin, un grand nombre de factions militantes dirigées par Jorge González von Marées ont tenté de renverser le gouvernement chilien par un coup d'État. Le gouvernement chilien a réussi à sécuriser les militaires dans le nord et prépare une réponse. Bien qu'il semble avoir gravement sous-estimé la force des mouvements Nacistas, de nombreux anciens officiers militaires chiliens et quelques officiers subalternes actuels ont rejoint leur cause. Malheureusement, les combats entre les deux forces se sont intensifiés au cours des dernières vingt-quatre heures et ont dégénéré en une véritable guerre civile."
+r56.news_event.13.a:0 "Un développement intéressant."
+r56.news_event.13.b:0 "Nous allons écraser la mascarade fasciste !"

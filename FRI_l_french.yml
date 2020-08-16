@@ -1,4 +1,11 @@
 ﻿l_french:
+ #New Stuff 
+ r56_FRI_nationist_uprising_2:0 "Soulèvement vietnamien"
+ r56_FRI_nationist_uprising_2_desc:0 "Depuis la mutinerie de Yen Bai, les mouvements indépendantistes vietnamiens sont devenus plus militants et plus combatifs. Il semble qu'un second soulèvement soit maintenant une question de « quand » et non de « si »."
+ r56_FRI_strikes:0 "Grèves imminentes"
+ r56_FRI_strikes_happened:0 "§WLes§! §Y« Grèves de 1936 »§! §Wont eu lieu.§!"
+ FRI_the_second_yen_bai_mutiny_2_tt:0 "§WRetire les jours §Yrestants§!§W de la mission§! §YSoulèvement vietnamien§!"
+
 
  FRI_fascism_party:0 "Faction de Cuong De"
  FRI_democratic_party:0 "VNQDD"
@@ -44,6 +51,7 @@
  FRI_tran_trong_kim:0 "Tran Trong Kim"
 
  FRI_colonial_army:0 "Armée coloniale"
+ FRI_growing_vietnamese_nationalism_tt:0 "§RLa crainte de soulèvements parmi les fonctionnaires coloniaux nous empêche de dissoudre notre armée de base.§!"
  FRI_colonial_army_desc:0 "Malgré la conscription de certains autochtones, notamment au sein des tirailleurs indochinois, l'Indochine reste largement dépendante de la France pour sa défense. La conscription locale est assez faible en raison du caractère colonial de l'administration et du faible potentiel de mobilisation car une grande partie de la population est composée d'agriculteurs."
  FRI_illiteracy:0 "Illettrisme"
  FRI_illiteracy_desc:0 "Depuis le début de la présence française en Indochine, de grands efforts ont été faits pour améliorer l'accès à l'éducation. En 1907, l'Université de Hanoï est fondée et à partir de 1917, le français est enseigné dans toutes les écoles franco-indigènes. Malgré tout, plus de 80 % de la population reste analphabète, surtout au Laos et au Cambodge où les efforts en faveur de l'éducation ont été beaucoup moins importants et où il n'existe pas d'écoles secondaires."
@@ -131,7 +139,8 @@
 
  invite_phan_boi_chau_to_the_government:0 "Inviter Phan Bội Châu au gouvernement"
 
-
+ FRI_inevitable_uprising_3:0 "La fin inévitable"
+ FRI_inevitable_uprising_3_desc:0 "Après la mutinerie de Yen Bai, il est devenu évident pour tout responsable français raisonnable que le contrôle sur l'Indochine finira par prendre fin. Que cette fin intervienne la semaine prochaine ou dans plusieurs décennies, elle est à la merci de la politique interne de la colonie, qui ne cesse d'évoluer. Pour l'instant, notre travail consiste à maintenir la stabilité et à garder la région sous contrôle français."
 
 
 
@@ -148,17 +157,19 @@
 
  # EVENTS
  frenchindochina.1.t:0 "Jules Brévié nommé gouverneur général"
- frenchindochina.1.d:0 "Jules Brévié, ancien gouverneur de l'Afrique de l'Ouest française, a été nommé gouverneur général de l'Indochine par le gouvernement du Front populaire, en remplacement de René Robin.\nHumaniste et libéral, Brévié est très attaché à une approche de la colonisation qu'il qualifie de « scientifique », à partir d'une étude approfondie des cultures indigènes et de l'amélioration de leurs conditions de vie, puisqu'il a mis en œuvre de nombreuses réformes sociales pendant la Grande dépression en Afrique française, subventionnant les travailleurs sénégalais et mettant en place des programmes pour augmenter la production alimentaire.\nLa victoire du Front populaire aux élections françaises a suscité de grands espoirs notamment parmi les Vietnamiens, avec la nomination de Marius Moutet, ancien opposant à la répression qui a suivi la mutinerie du Yen Bai comme ministre des Colonies, ainsi que Léon Blum à la tête du gouvernement, lui aussi fortement opposé à la répression coloniale.\nBrévié a prévu la mise en œuvre de réformes sociales similaires à celle qu'il a mise en œuvre en Afrique et en France métropolitaine."
+ frenchindochina.1.d:0 "Jules Brévié, ancien gouverneur de l'Afrique de l'Ouest française, a été nommé gouverneur général de l'Indochine par le gouvernement [FRA.GetDuDelaDelPartiPouv] [FRA.GetRulingParty], en remplacement de René Robin.\nHumaniste et libéral, Brévié est très attaché à une approche de la colonisation qu'il qualifie de « scientifique », à partir d'une étude approfondie des cultures indigènes et de l'amélioration de leurs conditions de vie, puisqu'il a mis en œuvre de nombreuses réformes sociales pendant la Grande dépression en Afrique française, subventionnant les travailleurs sénégalais et mettant en place des programmes pour augmenter la production alimentaire.\nLa victoire du Front populaire aux élections françaises a suscité de grands espoirs notamment parmi les Vietnamiens, avec la nomination de Marius Moutet, ancien opposant à la répression qui a suivi la mutinerie du Yen Bai comme ministre des Colonies, ainsi que Léon Blum à la tête du gouvernement, lui aussi fortement opposé à la répression coloniale.\nBrévié a prévu la mise en œuvre de réformes sociales similaires à celle qu'il a mise en œuvre en Afrique et en France métropolitaine."
  frenchindochina.1.a:0 "Voyons ce que son approche scientifique apportera"
  french_indochina_jules_brevie_governor_event_tt:0 "Débloque l'§Yarbre politique§!."
 
- frenchindochina.2.t:0 "Grèves !"
+ frenchindochina.2.t:0 "Grèves de 1936"
  frenchindochina.2.d:0 "Le mois de juin a vu le début d'un mouvement de grève majeur en Indochine, porté par une hausse des prix ajoutée à la baisse des salaires que les travailleurs subissent depuis plusieurs années déjà. Plus de 300 de ces mouvements ont été enregistrés, impliquant des centaines de milliers de personnes jusqu'aux campagnes où les plantations sont paralysées par la mobilisation des agriculteurs contre les impôts. Il en résulte une économie qui s'est arrêtée brusquement et des mouvements séparatistes qui en profitent pour gagner en popularité et diffuser des idées d'indépendance parmi la population."
  frenchindochina.2.a:0 "Une solution doit être trouvée, et rapidement !"
 
- frenchindochina.3.t:0 "Soulèvement vietnamien en Indochine"
- frenchindochina.3.d:0 "Alors que l'Indochine entière était déjà paralysée par des grèves depuis plusieurs mois, l'absence de réaction du gouvernement a contribué à la forte hausse du sentiment d'indépendance. Le point de rupture a été atteint lorsque des soldats de la Garde indigène se sont mutinés à Yên Bái.\n\nIl n'a fallu que quelques heures pour que la mutinerie se transforme en insurrection générale, couvrant l'ensemble de la région du Vietnam.\nLes multiples forces indépendantistes ont réussi à consolider leur contrôle dans le nord du pays, tandis que dans le sud, le gouvernement colonial s'apprête à contre-attaquer contre la plus grande rébellion antifrançaise que l'Indochine ait jamais connue."
- frenchindochina.3.a:0 "Une attaque féroce contre le colonialisme"
+ r56.news_event.15.t:0 "Soulèvement vietnamien en Indochine"
+ r56.news_event.15.d:0 "Alors que l'Indochine entière était déjà paralysée par des grèves depuis plusieurs mois, l'absence de réaction du gouvernement a contribué à la forte hausse du sentiment d'indépendance. Le point de rupture a été atteint lorsque des soldats de la Garde indigène se sont mutinés à Yên Bái.\n\nIl n'a fallu que quelques heures pour que la mutinerie se transforme en insurrection générale, couvrant l'ensemble de la région du Vietnam.\nLes multiples forces indépendantistes ont réussi à consolider leur contrôle dans le nord du pays, tandis que dans le sud, le gouvernement colonial s'apprête à contre-attaquer contre la plus grande rébellion antifrançaise que l'Indochine ait jamais connue."
+ r56.news_event.15.a:0 "Une attaque féroce contre le colonialisme"
+ r56.news_event.15.b:0 "Nous rétablirons l'ordre en Indochine"
+ r56.news_event.15.c:0 "Nous allons éliminer les impérialistes !"
 
  frenchindochina.4.t:0 "Le dilemme indochinois"
  frenchindochina.4.d:0 "Pendant que les troupes allemandes occupaient Paris, un nouveau gouvernement, dirigé par le maréchal Pétain, avait été mis en place, prétendant être le gouvernement français légitime, et ayant adopté une politique de collaboration avec l'Allemagne.\nCependant, depuis Londres, le général De Gaulle appelle à la résistance et à poursuivre la lutte contre l'Allemagne, considérant le gouvernement de Vichy comme un traître.\nSi certaines colonies ont déjà rallié De Gaulle, l'Indochine reste théoriquement sous le contrôle du gouvernement en France métropolitaine, mais compte tenu de la légitimité de ce dernier, nous pourrions parfaitement nous ranger du côté des troupes du Général et nous montrer décisifs en matière d'approvisionnement en ressources pour les troupes françaises libres."
@@ -176,11 +187,12 @@
  frenchindochina.6.a:0 "Excellent !"
 
  frenchindochina.7.t:0 "La France refuse d'envoyer des troupes"
- frenchindochina.7.d:0 "Citant la situation dans laquelle se trouve la Métropole, et déclarant que le plus grand nombre possible de troupes devrait être sous son commandement, le gouvernement parisien a refusé d'envoyer les troupes demandées."
+ frenchindochina.7.d:0 "Citant la situation dans laquelle se trouve la Métropole, et déclarant que le plus grand nombre possible de troupes devrait être sous son commandement, le gouvernement parisien a refusé d'envoyer le nombre de troupes demandé."
  frenchindochina.7.a:0 "Nous allons devoir faire avec ce que nous avons."
 
-
-
+ frenchindochina.8.t:0 "Soulèvement vietnamien en Indochine"
+ frenchindochina.8.d:0 "Alors que l'Indochine entière était déjà paralysée par des grèves depuis plusieurs mois, l'absence de réaction du gouvernement a contribué à la forte hausse du sentiment d'indépendance. Le point de rupture a été atteint lorsque des soldats de la Garde indigène se sont mutinés à Yên Bái.\n\nIl n'a fallu que quelques heures pour que la mutinerie se transforme en insurrection générale, couvrant l'ensemble de la région du Vietnam.\nLes multiples forces indépendantistes ont réussi à consolider leur contrôle dans le nord du pays, tandis que dans le sud, le gouvernement colonial s'apprête à contre-attaquer contre la plus grande rébellion antifrançaise que l'Indochine ait jamais connue."
+ frenchindochina.8.a:0 "Nous vaincrons !"
 
 
 
@@ -266,11 +278,11 @@
  FRI_create_coastal_fortifications_tt:0 "Créer des §Yforts cotiers de niveau 2§! dans nos ports"
  FRI_expand_the_northern_air_bases:0 "Développer les bases aériennes du Nord"
  FRI_expand_the_northern_air_bases_desc:0 "Notre capacité d'accueil des avions français est assez faible, avec seulement ces petits aérodromes. Si nous voulons que la France puisse protéger notre ciel, nous devons développer nos installations aéronautiques."
- FRI_gouverneur_jules_brevie:0 "Gouverneur Jules Brévié"
- FRI_gouverneur_jules_brevie_desc:0 "La victoire du Front populaire signifie un grand changement pour l'Indochine, mais surtout le remplacement de René Robin par Jules Brévié comme gouverneur général d'Indochine. Brévié, socialiste, est favorable à une approche scientifique de la colonisation et espère mettre en œuvre de nombreuses réformes visant à améliorer la qualité de vie en Indochine."
+ FRI_gouverneur_jules_brevie:0 "Nommer Jules Brévié"
+ FRI_gouverneur_jules_brevie_desc:0 "La victoire [FRA.GetDuDelaDelPartiPouv] [FRA.GetRulingParty] signifie un grand changement pour l'Indochine, mais surtout le remplacement de René Robin par Jules Brévié comme gouverneur général d'Indochine. Brévié, socialiste, est favorable à une approche scientifique de la colonisation et espère mettre en œuvre de nombreuses réformes visant à améliorer la qualité de vie en Indochine."
  FRI_gouverneur_jules_brevie_tt:0 "§MJules Brévie deviendra Gouverneur général en septembre 1936§!\n"
- FRI_concessions_to_the_strikers:0 "Compromis avec les grévistes"
- FRI_concessions_to_the_strikers_desc:0 "La reprise économique de 1936 a fait grimper les prix en Indochine, même si les travailleurs souffraient déjà depuis des années d'une baisse des salaires. Si nous ne voulons pas voir l'administration coloniale s'effondrer, nous allons accélérer les réformes prévues par Brévié."
+ FRI_concessions_to_the_strikers:0 "Compromis avec les travailleurs"
+ FRI_concessions_to_the_strikers_desc:0 "La reprise économique de 1936 a fait grimper les prix en Indochine, même si les travailleurs souffraient déjà depuis des années d'une baisse des salaires. Si nous ne voulons pas voir l'administration coloniale s'effondrer, nous allons accélérer les réformes prévues par [FRI.GetLeader]."
  FRI_expansion_of_the_strikes:0 "Expansion des grèves"
  FRI_expansion_of_the_strikes_desc:0 "En ces temps difficiles, avec la crise économique qui continue de frapper notre économie, nous ne pouvons pas faire de compromis à la population locale. Espérons que les grèves s'arrêteront d'elles-mêmes..."
  FRI_amnesty_law:0 "Amnistie pour les indépendantistes"
@@ -286,7 +298,7 @@
  FRI_gain_support_from_the_soviet_union_desc:0 "La stratégie des fronts populaires préconisée par l'Union soviétique a conduit le Parti communiste indochinois à accepter de se rapprocher des autres éléments du mouvement indépendantiste. Des dirigeants comme Nguyen Ai Quoc seront d'une grande aide en raison de la forte augmentation de la popularité des mouvements communistes au Vietnam, en particulier en Cochinchine."
  FRI_the_second_yen_bai_mutiny:0 "La deuxième mutinerie de Yên Bái"
  FRI_the_second_yen_bai_mutiny_desc:0 "Une mutinerie des différents régiments de fusiliers indochinois sera le point de départ de notre guerre d'indépendance. Une mutinerie similaire a eu lieu en 1930 mais n'a pas reçu le soutien qu'elle espérait, mais maintenant, avec le soutien de millions de grévistes dans toutes les régions, nous devrions avoir beaucoup moins de mal à nous débarrasser de la présence française."
- FRI_the_second_yen_bai_mutiny_tt:0 "Vous contrôlerez le §YVietnam§!, et §Rdéclarerez la guerre§! à l'§YIndochine française§!.\nSi vous parvenez à prendre le contrôle de l'ensemble de l'§YIndochine§! ou à tenir plus d'un an en contrôlant l'ensemble de votre territoire, une §gpaix blanche§! aura lieu et vous serez libre.\nPendant la guerre d'indépendance, une §Rlutte de pouvoir§! aura lieu entre quatre §Yfactions§!, qui déterminera l'idéologie du §YVietnam§! lorsque la guerre d'indépendance sera terminée.\nSi vous prenez le contrôle du §YLaos§! et du §YCambodge§!, ils seront libérés lorsque la guerre sera terminée.\n"
+ FRI_the_second_yen_bai_mutiny_tt:0 "Vous contrôlerez le §YVietnam§!, et §Rdéclarerez la guerre§! à l'§YIndochine française§!.\nSi vous parvenez à prendre le contrôle de l'ensemble de l'Indochine ou à tenir plus d'un an en contrôlant l'ensemble de votre territoire, une §Gpaix blanche§! aura lieu et vous serez libre.\nPendant la guerre d'indépendance, une §Rlutte de pouvoir§! aura lieu entre quatre §Yfactions§!, qui déterminera l'idéologie du §YVietnam§! lorsque la guerre d'indépendance sera terminée.\nSi vous prenez le contrôle du §YLaos§! et du §YCambodge§!, ils seront libérés lorsque la guerre sera terminée.\n"
  FRI_allow_political_parties:0 "Autoriser les partis politiques"
  FRI_allow_political_parties_desc:0 "La formation de partis politiques modérés sera autorisée. Deux d'entre eux ont déjà vu le jour et sont principalement destinés à représenter la bourgeoisie indochinoise : le Parti constitutionnaliste et le Parti démocrate. Ces derniers n'aspirent qu'à une certaine autonomie pour l'Indochine, à l'instar des dominions britanniques."
  FRI_bring_back_stability:0 "Rétablir la stabilité"

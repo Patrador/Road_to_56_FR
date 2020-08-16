@@ -7,7 +7,7 @@
  r56_alone_faction_leader_desc:0 "L'incapacité à trouver des alliés rendrait notre position diplomatique absurde et nous obligerait à nous ouvrir à de nouvelles opportunités diplomatiques." 
 
  ENG_restore_the_UK:0 "Unifier la Grande-Bretagne"
- ENG_restore_the_UK_desc:0 "Nous devons mettre fin à la division, écraser les Gallois et les Écossais traîtres et restaurer l'unité britannique"
+ ENG_restore_the_UK_desc:0 "Nous devons mettre fin à la division de la Grande-Bretagne, restaurer notre union séculaire et la cimenter à nouveau afin de rassembler la force nécessaire pour réévaluer notre place sur la scène mondiale."
  unite_britain:0 "Rétablir l'unité britannique"
  
  reunite_germany:0 "Réunifier l'Allemagne"
@@ -115,5 +115,8 @@
 
  try_to_recruit_mongol_officers:0 "Essayer de recruter des officiers mongols"
  try_to_recruit_mengjiang_officers:0 "Essayer de recruter des officiers mengkiangais"
+
+ try_to_recruit_irish_officers:0 "Essayer de recruter des officiers irlandais"
+ try_to_recruit_scottish_officers:0 "Essayer de recruter des officiers écossais"
 
  r56_declare_independence:0 "Déclarer notre indépendance"

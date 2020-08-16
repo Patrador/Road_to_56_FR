@@ -139,7 +139,7 @@
  ARM_the_triumph_over_communism:0 "Triomphe sur le communisme"
  ARM_the_triumph_over_communism_desc:0 "Les bolcheviks nous ont trahis en ces temps difficiles. Nous devons nous en débarrasser."
  ARM_war_propaganda:0 "Propagande de guerre"
- ARM_war_propaganda_desc:0 "Aucune nation n'a jamais gagné sa liberté sans être prête à verser le sang de l'envahisseur."
+ ARM_war_propaganda_desc:0 "Aucune nation n'a jamais gagné sa liberté sans être prête à verser le sang des envahisseurs."
  ARM_planned_defense_policy:0 "Politique de défense planifiée"
  ARM_planned_defense_policy_desc:0 "Chaque journée passée à préparer la guerre préserve des semaines de libertés pour nos fils et nos filles."
  ARM_build_the_bek_line:0 "Construire la ligne Davit Bek"
@@ -302,6 +302,6 @@
  ARM_event.7.a:0 "Les convaincre de rester un peu plus longtemps." 
  ARM_event.7.b:0 "Dissoudre leur unité." 
  ARM_event.8.t:0 "Les volontaires rentrent chez eux !"
- ARM_event.8.desc:0 "Après des combats héroïques pour assurer la libération de notre patrie de l'oppression étrangère, les volontaires qui ont répondu à l'appel de se battre pour [ROOT.GetLeLaLNP] [ROOT.GetName] sont rentrés chez eux. Ils ont défilé dans le centre-ville sous les aclamations de la foule."
+ ARM_event.8.desc:0 "Après des combats héroïques pour assurer la libération de notre patrie de l'oppression étrangère, les volontaires qui ont répondu à l'appel de se battre pour [ROOT.GetLeLaLNP] [ROOT.GetName] sont rentrés chez eux. Ils ont défilé dans le centre-ville sous les acclamations de la foule."
  ARM_event.8.a:0 "Nous nous sommes libérés !"
  

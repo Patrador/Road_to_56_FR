@@ -1,24 +1,24 @@
 ﻿l_french:
  ########################## Basics ##########################       \n      §H§!
-
+ GEN_seeking_expansive_t:0 "Rechercher une politique d'expansion"
  GEN_Industrial_Start:0 "Commencer le renforcement industriel"
- GEN_Industrial_Start_desc:0 ""
+ GEN_Industrial_Start_desc:0 "Une ère de changement s'annonce. Des investissements arrivent, des machines sont inventées et notre pays doit s'adapter pour faire face à ces évolutions."
  GEN_Expand_Infra:0 "Améliorer les infrastructures"
- GEN_Expand_Infra_desc:0 ""
+ GEN_Expand_Infra_desc:0 "Un bon réseau d'infrastructures contribue à relier notre nation en un ensemble unique et cohérent."
  GEN_Futher_Investments:0 "Encourager les investisseurs étrangers"
- GEN_Futher_Investments_desc:0 ""
+ GEN_Futher_Investments_desc:0 "Les puissances étrangères ont une industrie beaucoup plus importante que la nôtre, c'est pourquoi nous devons nous fier à leurs connaissances."
  GEN_Civilian_One:0 "Développer les industries civiles"
- GEN_Civilian_One_desc:0 ""
+ GEN_Civilian_One_desc:0 "Les nouvelles usines sont essentielles pour un pays moderne."
  GEN_Civilian_Two:0 "Améliorer la capacité d'industrie civile"
- GEN_Civilian_Two_desc:0 ""
+ GEN_Civilian_Two_desc:0 "Notre industrie doit être modernisée pour répondre aux exigences de notre époque."
  GEN_Research:0 "Nouvelles écoles & enseignement moderne"
- GEN_Research_desc:0 ""
+ GEN_Research_desc:0 "L'instruction est la base de la science et la clé pour s'adapter au monde actuel."
  GEN_Excavation:0 "Révéler la richesse minérale"
- GEN_Excavation_desc:0 ""
+ GEN_Excavation_desc:0 "Les richesses nécessaires à la guerre peuvent être cachées profondément sous notre sol et il est de notre devoir de les révéler."
  GEN_Refinery:0 "Focus sur le traitement synthétique"
- GEN_Refinery_desc:0 ""
+ GEN_Refinery_desc:0 "La fabrication de pétrole et de caoutchouc à partir du charbon permet de s'affranchir de la nécessité d'importer du pétrole ou de contrôler les champs pétrolifères. Ce pétrole synthétique est cependant beaucoup plus polluant et coûteux à produire."
  GEN_Autarky:0 "Réformer les taxes"
- GEN_Autarky_desc:0 ""
+ GEN_Autarky_desc:0 "Avec un pouvoir administratif mieux organisé, l'État sera mieux équipé pour faire face aux difficultés actuelles."
  ABC_establish_a_general_staff:0 "L'État-major [ROOT.GetAdjMS]"
  ABC_establish_a_general_staff_desc:0 ""
  ABC_army_reform:0 "Réforme de l'armée"
@@ -234,6 +234,7 @@
  
  gen_invited_american:0 "Investisseurs américains invités"
  gen_invited_german:0 "Investisseurs allemands invités"
+ gen_invited_soviet:0 "Investisseurs soviétiques invités"
  
  gen_armor_soviet:0 "Mission de blindés soviétiques"
  gen_armor_france:0 "Mission de blindés français"
@@ -275,19 +276,19 @@
  GEN_medium_tank_usa:0 "Acheter des chars moyens américains"
 
  ABC_training_exercise:0 "Exercices d'entraînement"
- ABC_training_exercise_decs:0 ""
+ ABC_training_exercise_desc:0 ""
 
  ABC_motorize_the_army:0 "Motoriser l'armée"
- ABC_motorize_the_army_decs:0 ""
+ ABC_motorize_the_army_desc:0 ""
 
  ABC_tank_research:0 "Recherche de blindés"
- ABC_tank_research_decs:0 ""
+ ABC_tank_research_desc:0 ""
 
  ABC_small_arms_research:0 "Recherche d'armes légères"
- ABC_small_arms_research_decs:0 ""
+ ABC_small_arms_research_desc:0 ""
 
  ABC_army_effort:0 "Effort de l'armée"
- ABC_army_effort_decs:0 " " 
+ ABC_army_effort_desc:0 " " 
 
  ########################## Ideas ##########################
 
@@ -306,10 +307,10 @@
  ABC_establish_a_military_academy_idea_desc:0 ""
 
  ABC_modern_logistics_idea:0 "Logistiques"
- ABC_modern_logistics_idea_decs:0 ""
+ ABC_modern_logistics_idea_desc:0 ""
 
  ABC_motorized_effort_idea:0 "Armée motorisée"
- ABC_motorized_effort_idea_decs:0 " "
+ ABC_motorized_effort_idea_desc:0 " "
 
  GEN_Autarky_I:0 "Monnaie stable"
  GEN_Autarky_I_desc:0 ""
@@ -323,7 +324,7 @@
  GEN_Good_Units_I:0 "Formation prolongée"
  GEN_Good_Units_I_desc:0 ""
  
- GEN_Licences_I:0 "Effort d'achat de licence étrangère"
+ GEN_Licences_I:0 "Acheter des licences étrangères"
  GEN_Licences_I_desc:0 "Comme nous sommes maintenant capables de produire des équipements modernes, nous pouvons acheter les modèles les plus modernes d’autres pays. Même si un certain prix doit être payé, il en vaudra la peine."
  
  GEN_Industrial_Boom_I:0 "Boom industriel"
@@ -341,10 +342,10 @@
  GEN_Collectivist_Propaganda_I:0 "Culture du travailleur"
  GEN_Collectivist_Propaganda_I_desc:0 ""
  
- GEN_Conquer_I:0 "Politique expansive"
+ GEN_Conquer_I:0 "Politique expansionniste"
  GEN_Conquer_I_desc:0 ""
  
- GEN_Intervene_I:0 "Politique d'interférence"
+ GEN_Intervene_I:0 "Interventionnisme"
  GEN_Intervene_I_desc:0 ""
  
  GEN_Strenghten_Monarchy_I:0 "Renforcer l'autocratie"

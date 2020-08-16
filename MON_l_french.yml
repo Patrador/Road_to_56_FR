@@ -14,3 +14,8 @@ MON_decision_integrate_irkutsk:0 "Intégrer Irkoutsk"
 
 MON_go_on_pilgrimage_to_the_burkhan_khaldun:0 "Pèlerinage au Burkhan Khaldoun"
 MON_go_on_pilgrimage_to_the_burkhan_khaldun_desc:0 "Montagne la plus sainte de Mongolie, le Burkhan Khaldoun pourrait également être le lieu de repos de Gengis Khan et de ses successeurs. Un lieu d'une grande importance pour tout Mongol désireux de dominer tout ce qui se trouve sous le ciel."
+
+mongol.7.t:0 "Les ombres dansantes"
+mongol.7.d:0 "Depuis les remaniements politiques massifs qui ont eu lieu [SOV.GetAuEnANP] [SOV.GetName], de nombreux fonctionnaires au sein [SOV.GetDuDelaDelNP] [SOV.GetName] craignent que [ROOT.GetLeLaLNP] [Root.GetName] puisse protéger les ennemis du régime de [SOV.GetLeader]. Ils demandent que les éventuels ennemis [SOV.GetDuDelaDelNP] [SOV.GetName] soient extradés. Par ailleurs, [SOV.GetLeader] a ciblé [Root.GetLeader] comme quelqu'un qui a protégé les ennemis [SOV.GetDuDelaDelNP] [SOV.GetName] et veut qu'il soit jugé et exécuté rapidement."
+mongol.7.a:0 "Il n'y a pas de cinquième colonne ici. [Root.GetLeader] est un patriote et un communiste loyal."
+mongol.7.b:0 "[SOV.GetLeLaLNPCap] [SOV.GetName] a raison, les ombres anti-communistes sont partout."

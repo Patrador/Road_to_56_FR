@@ -117,7 +117,7 @@ LIT_strengthen_the_coalition:0 "Renforcer la coalition"
 
 #Ideas
 LIT_constitutional_loophole:0 "Capitale"
-LIT_constitutional_loophole_desc:0 "La capitale temporaire Kaunas a été temporaire pendant des décennies depuis que les Polonais ont occupé notre vraie capitale, Vilnius, en octobre 1920 avec l'opération "Żeligowski", puisque le problème n'a jamais été résolu par nous ou un tiers comme la Ligue des nations, notre constitution déclare que Vilnius est en fait, notre capitale."
+LIT_constitutional_loophole_desc:0 "Notre capitale Kaunas est temporaire depuis des décennies, depuis que la Pologne a occupé notre capitale d'origine, Vilnius, en octobre 1920, sous le nom de code « Żeligowski ». Comme la question n'a jamais été résolue par nous ou par une tierce partie telle que la §YSociété des Nations§ !, notre constitution stipule que Vilnius est notre capitale de jure."
 LIT_stable_currency:0 "Monnaie stable"
 LIT_stable_currency_2:0 "Monnaie stable"
 LIT_stable_currency_3:0 "Monnaie stable"
@@ -142,7 +142,7 @@ LIT_activated_war_plan:0 "A activé un plan de guerre"
 
 #Events
 LIT_event.1.t:0 "Victoire communiste"
-LIT_event.1.d:0 "Après leur victoire aux élections, le Parti communiste de Lituanie est maintenant propulsé à la tête du pays. Inattendu par une grande partie de la population, le nouveau gouvernement s'oppose à tous ceux que la Lituanie a connus, beaucoup plus radicaux et déterminés à faire la transition du pays vers une économie communiste, la Lituanie ouvre un tout nouveau chapitre de son histoire."
+LIT_event.1.d:0 "Après leur victoire aux élections, le Parti communiste de Lituanie est maintenant propulsé à la tête du pays. Inattendu par une grande partie de la population, le nouveau gouvernement s'oppose à tous ceux que la Lituanie a connus, beaucoup plus radicaux et déterminés à faire la transition du pays vers une économie communiste. La Lituanie ouvre un tout nouveau chapitre de son histoire."
 LIT_event.1.a:0 "Au XXe siècle"
 
 #Misc

@@ -92,7 +92,8 @@
  flag_LAT_contacted_attaches:0 "La Lettonie a  £decision_icon_small §Ydiscuté avec l'attaché§! au moins deux fois"
  LAT_negociate_submarine_contract:0 "Négocier un contrat de sous-marin"
  LAT_negociate_destroyer_contract:0 "Négocier un contrat de destroyer"
- LAT_attache_decision_in_progress:0 "déjà discuté avec un autre attaché étranger"
+ LAT_attache_decision_in_progress:0 "déjà en train de discuter avec un autre attaché étranger"
+ LAT_naval_contract_tt:0 "A discuté avec un §Yattaché étranger§! deux fois"
 
  LAT_mobilization_plans:0 "Plans de mobilisation lettons"
  LAT_mobilization_plans_desc:0 "Les différents plans de mobilisation élaborés par notre état-major nous permettront de répondre en fonction d'une agression étrangère."
@@ -276,7 +277,7 @@
 
  LAT_event.4.t:0 "Le mandat d'Alberts Kviesis touche à sa fin"
  LAT_event.4.desc:0 "Comme le prévoit la Constitution, la présidence de la Kviesis prend fin. Alors que la Constitution stipule que le président du Parlement doit lui succéder, le ministre-président Ulmanis a élaboré une loi afin de cumuler sa position actuelle avec la présidence. Il pourra ainsi concentrer encore plus de pouvoir et renforcer sa dictature."
- LAT_event.4.a:0 "Tout a été truqué dès le début"
+ LAT_event.4.a:0 "Tout a été truqué dès le début..."
  LAT_event.4.b:0 "Invalidez cette action, maintenant !"
 
  LAT_event.5.t:0 "L'invalidation d'Ulmanis"
