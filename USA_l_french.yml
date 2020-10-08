@@ -1,4 +1,7 @@
 ﻿l_french:
+
+
+
  USA_bethlehem_steel:0 "Bethlehem Steel"
  USA_bethlehem_shipbuilding_corporation:0 "Bethlehem Shipbuilding Corporation"
  USA_william_c_lee:0 "William C. Lee"
@@ -6,6 +9,10 @@
  rt56_j_edgar_hoover:0 "J. Edgar Hoover"
  rt56_j_edgar_hoover_mil:0 "J. Edgar Hoover"
  rt56_john_j_pershing:0 "John J. Pershing"
+ rt56_USA_cash_and_carry_away:0 "Cash and Carry"
+ rt56_USA_cash_and_carry_away_desc:0 "L'amendement « Cash and Carry » à la loi sur la neutralité nous permet d'acheter du matériel de non-guerre auprès [USA.GetDuDelaDelNP] [USA.getname] si nous payons d'avance et que nous l'expédions. Nous en profitons, car [USA.GETNAMEDEF] nous laissent « emprunter » de l'argent à leur trésorerie que nous pouvons ensuite utiliser pour payer les marchandises."
+ rt56_USA_cash_and_carry_home:0 "Projet Cash and Carry"
+ rt56_USA_cash_and_carry_home_desc:0 "Nous apportons une aide matérielle à nos alliés jusqu'à ce que le Congrès prenne connaissance du projet et que nos avocats ne puissent plus faire valoir d'objections à la pratique devant les tribunaux."
 
  USA_curtiss_wright:0 "Curtiss-Wright"
  USA_claude_shannon:0 "Claude Shannon"
@@ -25,12 +32,16 @@
  USA_expand_unoffical_operations_desc:0 "L'expérience nous a appris que les renseignements peuvent faire la différence entre la victoire et la défaite. Ils peuvent nous aider à remporter la victoire mais aussi à prévenir la guerre. Une bombe bien placée peut remplacer une flotte de bombardiers et un agent bien placé peut remplacer une division."
  USA_office_of_economic_warfare:0 "Bureau de la guerre économique"
  USA_office_of_economic_warfare_desc:0 "Les nécessités de la guerre exigent que les ressources naturelles ne soient pas envoyées à l'étranger mais alimentent plutôt notre économie de guerre. Le bureau de la guerre économique sera chargé de superviser cette transformation."
+ USA_cash_and_carry:0 "Projet Cash and Carry"
+ USA_cash_and_carry_desc:0 "L'amendement « Cash and Carry » à la loi sur la neutralité permet aux pays de nous acheter du matériel non militaire s'ils paient d'avance et l'expédient eux-mêmes. Le Congrès part du principe qu'aucun pays ne profitera de cette possibilité, en raison du manque de capital initial. Nous pouvons abuser de cet amendement pour fournir du matériel à nos alliés en laissant les pays « emprunter » de l'argent à notre trésorerie qu'ils peuvent ensuite utiliser pour payer les marchandises."
+ USA_double_victory:0 "Double victoire"
+ USA_double_victory_desc:0 "Il est important d'obtenir le soutien de la communauté afro-américaine lorsque nous sommes en guerre. Le recours à des campagnes de propagande ciblées permettra d'y parvenir. Elles peuvent être trompeuses, mais nous ne pouvons pas laisser le pays être divisé à nos moments les plus critiques."
 
 
  r56_usa.1.t:0 "Les élections de 1948"
  r56_usa.1.desc:0 "Une fois de plus, Thomas Dewey est le titulaire contre le candidat actuel. Cette fois-ci, Harry Truman se présente à la présidence en tant que successeur de Franklin Roosevelt."
  r56_usa.1.a:0 "Truman remporte les élections"
- r56_usa.1.a:0 "Dewey remporte les élections"
+ r56_usa.1.b:0 "Dewey remporte les élections"
  
  USA_mobilize_the_national_guard:0 "Mobiliser les réserves"
  USA_mobilize_the_national_guard_desc:0 "La mobilisation des réserves contribuera grandement à la croissance de notre armée."
@@ -40,9 +51,13 @@
  r56_usa.2.c:0 "L'armée de l'air reste dans l'armée de terre !"
  r56_usa.2.a:0 "Promouvoir Henry Arnold est une bonne chose."
  r56_usa.2.b:0 "Accorder à l'armée de l'air l'autonomie qu'elle souhaite."
+ r56_usa.3.t:0 "L'élection présidentielle de 1952"
+ r56_usa.3.desc:0 "Les nouvelles élections arrivent ! Après les deux mandats du président Truman, les démocrates ont choisi Aldai Stevenson pour poursuivre l'héritage de Roosevelt tandis que les républicains ont choisi nul autre que Dwight D. Eisenhower lui-même."
+ r56_usa.3.a:0 "Stevenson remporte les élections"
+ r56_usa.3.b:0 "Eisenhower remporte les élections"
 
  r56_USA_the_alaskan_trap:0 "Le piège de l'Alaska"
- r56_USA_the_alaskan_trap_desc:0 "En faisant passer l'Alaska pour un point d'invasion attrayant pour nos ennemis de l'Est et avec quelques travaux mineurs de l'USACE. Nous pouvons transformer l'Alaska en un piège pour une force d'invasion."
+ r56_USA_the_alaskan_trap_desc:0 "En faisant passer l'Alaska pour un point d'invasion attrayant pour nos ennemis de l'Est et avec quelques travaux mineurs de l'USACE. Nous pouvons transformer l'Alaska en un piège mortel pour une force d'invasion."
 
  rt56_far_left_suppression:0 "Répression de l'extrême gauche"
  rt56_far_left_suppression_desc:0 "Les événements qui ont conduit à la Peur Rouge des années 1920 ont laissé une impression durable sur les responsables de l'application des lois et sur le public américain. Cette impression a conduit à la poursuite et au harcèlement des mouvements d'extrême gauche dans l'ensemble des États-Unis. Ces dernières années, les efforts de répression contre les groupes d'extrême gauche sont menés par le Federal Bureau of Investigation de J. Edgar Hoover."
@@ -53,3 +68,16 @@
  USA_carrier_1_desc:0 "Le porte-avions de la classe Langley est né de la conversion de la coque d'un navire de la classe Jupiter. Cela lui a permis de se conformer aux limites imposées par le traité naval de Washington. Cette classe a été la première classe de porte-avions opérationnels de la marine américaine et a passé plus d'une décennie à améliorer les opérations des porte-avions."
 
  r56_j_edgar_hoover_given_army_command:0 "Est actuellement un général"
+
+
+ USA_cult_of_washington:0 "Le culte de Washington"
+ USA_cult_of_washington_desc:0 "Le fondateur de notre pays doit être un exemple pour nous tous. En tant que militaire fort destiné à la grandeur, il a clairement été le premier fasciste, construisant une république pour tous les vrais Américains grâce à son habileté et à sa volonté de cisaillement."
+ USA_celebrate_americas_founder:0 "Célébrer le fondateur des États-Unis d'Amérique"
+ USA_modify_the_pledge:0 "Rectifier le serment d'allégeance"
+ USA_constitutional_convention_washington:0 "Convention constitutionnelle de Washington"
+ USA_proclaim_washington_to_be_the_first_fascist:0 "Proclamer Washington comme le premier fasciste"
+ USA_raise_washington_to_general_of_the_armies:0 "Élever Washington au rang de général des armées"
+
+ #Vanilla Overrides 
+ USA_manifest_destiny_r56:0 "Le nouveau manifeste du destin" #revist with better name. band-aide fix
+ USA_manifest_destiny_r56_desc:0 "Notre pays est devenu grand grâce à la politique d'expansion agressive de notre nation. Il est temps que nous y revenions."

@@ -1,7 +1,8 @@
 ﻿l_french:
-
+ SOV_ukrainian_reclaimation_desc:0 "Les nationalistes ukrainiens tentent une fois de plus de diviser [SOV.GetNameDef] et le gouvernement est déterminé à éliminer les éléments nationalistes."
  SOV_anti_bolshevik_revolt:0 "Révolte anti-bolchevique"
  SOV_put_down_the_ukrainian_revolt:0 "Mettre fin à la révolte ukrainienne"
+ SOV_crush_ukrainian_opposition:0 "Écraser l'opposition ukrainienne"
 
  soviet_focus:0 "Priorités nationales soviétiques"
  SOV_Lenin_Cult:0 "Culte de Lénine"
@@ -257,3 +258,7 @@
  SOV_tankograd:0  "Usine de tracteurs de Tcheliabinsk"
  SOV_plant_37:0 "Usine 37"
  SOV_voronezh_komintern_factory:0 "Usine de Voronezh Komintern"
+
+ SOV_relocate_industry_from_kiev:0 "Délocaliser l'industrie de Kiev"
+ SOV_relocate_industry_from_kharkov:0 "Délocaliser l'industrie de Kharkov"
+ SOV_industry_relocation_desc:0 "La guerre est en cours et nos ennemis menacent nos bassins industriels à l'Ouest. Déplaçons-les loin, dans l'Oural, hors de portée de leurs plus gros bombardiers. De cette façon, nous pourrons protéger notre industrie, construire davantage d'équipements militaires et lancer des contre-attaques décisives au nom de [SOV.getleader] et sa vision du [SOV.GetRulingIdeologyNoun]."

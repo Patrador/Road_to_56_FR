@@ -137,7 +137,9 @@ SWE_independence:0"Soutien à l'indépendance islandaise"
 SWE_sthlm_conf:0"Le Communiqué de Stockholm"
 SWE_aland_convention:0"Convention d'Åland"
 
-
+################party names
+SWE_kings_council_party_long:0 "Konungens Kabinett"
+SWE_kings_council_party:0 "Konungens Kabinett"
 
 ##################National Focuses Sweden
 SWE_motti_tactic:0"Défense active"
@@ -743,3 +745,5 @@ news.912.d:0"Bien que la population islandaise soit peu nombreuse et que sa soif
 news.912.a:0"Comment les Danois vont-ils réagir ?"
 news.912.b:0"Bonnes nouvelles !"
 news.912.c:0"C'est scandaleux !"
+
+SWE_integrate_aland:0 "Intégrer les îles Åland"

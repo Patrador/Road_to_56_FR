@@ -12,6 +12,8 @@
 
  JAP_germano_japanese_technological_exchange:0 "Échange technologique germano-japonais"
  JAP_army_expansion_idea:0 "Expansion de l'Armée de terre"
+ JAP_kempetai_repression:0 "Répression Kempetai"
+ JAP_kempetai_repression:0 "La Kempetai répond au ministère de l'intérieur lorsqu'elle est à la maison, mais elle est sous les ordres de l'armée lorsqu'elle est à l'étranger. Ils sont essentiels pour la sécurité de nos dominions impériaux." 
 
  #Switch nav bombers to maritime patrol, CV nav bombers to nav bombers
 ##Base game
@@ -30,7 +32,18 @@
 # JAP_cv_nav_bomber_equipment_2:0 "Nakajima B6N"
 # JAP_cv_nav_bomber_equipment_2_short:0 "B6N"
  
+ JAP_kenji_miyamoto:0 "Kenji Miyamoto"
+
+ JAP_stimulate_mongol_traditions:0 "Stimuler les traditions mongoles"
+ JAP_stimulate_mongol_traditions_desc:0 "Les Mongols ont souffert de décennies de règles communistes qui ont attaqué leurs traditions bouddhistes. La restauration des temples et leur respect nous apporteront la gratitude de la population."
+ JAP_pro_mongol_propaganda:0 "Propagande pro-mongole"
  
+ JAP_proclaim_philippines_liberation:0 "Proclamer la libération des Philippines"
+ JAP_philippines_liberation_proclamation:0 "Proclamation de libération des Philippines"
+ JAP_proclaim_philippines_liberation_desc:0 "Montrons aux Philippins que l'ère du colonialisme occidental barbare est enfin terminée et que l'Asie triomphera sous la direction bienveillante du Japon."
+
+ JAP_proclaim_indonesian_liberation:0 "Proclamer la libération de l'Indonésie"
+ JAP_proclaim_indonesian_liberation_desc:0 "Montrons aux Indonésiens que l'ère du colonialisme occidental barbare est enfin terminée et que l'Asie triomphera sous la direction bienveillante du Japon."
  ##Fixed
 
  JAP_nav_bomber_equipment_1:0 " Nakajima B5N"

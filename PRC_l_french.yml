@@ -1,11 +1,4 @@
 ﻿l_french:
- ### Cosmetic Tag ###
- PRC_nation_founded_communism:0 "République populaire de Chine"
- PRC_nation_founded_communism_DEF:0 "la République populaire de Chine"
- PRC_nation_founded_communism_adj:0 "chinois"
-
-
-
  ### Focus ###
  PRC_lower_defeatism_penalty:0 "Réduire la pénalité de §YDéfaitisme§!"
  prc_sov_supply_tt:0 "Est le voisin d'un des pays suivants :\n       §YUnion soviétique§!\n       Membre de la faction de l'§YUnion soviétique§!\n       §YXinjiang§! communiste avec un avis positif à l'égard de l'§YUnion soviétique§."

@@ -49,6 +49,15 @@
  HUN_new_invasion_of_slovakia_desc:0 "Soumettons les Slovaques une fois pour toutes et prenons notre revanche sur notre échec de 1919."
  HUN_oil_refining_infrastructure:0 "Infrastructure de raffinage du pétrole"
  HUN_oil_refining_infrastructure_desc:0 "Afin d'assurer l'exploitation de nos champs pétroliers, nous devons équiper le pays des raffineries et des silos à carburant nécessaires."
+ HUN_ally_yugoslavia:0 "S'allier à la Yougoslavie"
+ HUN_ally_yugoslavia_desc:0 "La Yougoslavie doit être soutenue et être notre alliée dans notre lutte pour la libération des travailleurs du monde !"
+ HUN_ally_greece:0 "S'allier à la Grèce"
+ HUN_ally_greece_desc:0 "La Grèce doit être soutenue et être notre alliée dans notre lutte pour la libération des travailleurs du monde !"
+ HUN_ally_bulgaria:0 "S'allier à la Bulgarie"
+ HUN_ally_bulgaria_desc:0 "La Bulgarie doit être soutenue et être notre alliée dans notre lutte pour la libération des travailleurs du monde !"
+ HUN_ally_austria:0 "S'allier à l'Autriche"
+ HUN_ally_austria_desc:0 "L'Autriche doit être soutenue et être notre alliée dans notre lutte pour la libération des travailleurs du monde !" 
+
  
  HUN_revolt_of_the_arrow_crosses:0 "Révolte des Croix fléchées"
  HUN_revolt_of_the_arrow_crosses_desc:0 "Le soi-disant régent a trahi la mère patrie et son armée pendant des années en gardant le pouvoir pour lui tout en étant complaisant avec les oppresseurs étrangers." # it's motherland (anyaföld) in hungarian, not fatherland
@@ -57,3 +66,41 @@
  HUN_foreign_aeronautical_assistance:0 "Assistance aéronautique étrangère"
  HUN_foreign_aeronautical_assistance_desc:0 "Nos alliés peuvent nous aider à produire plus d'avions"
  HUN_foreign_aeronautical_assistance_idea:0 "Assistance aéronautique étrangère"
+
+ HUN_invite_yugoslavia:0 "Inviter la Yougoslavie"
+ HUN_invite_yugoslavia_desc:0 "Le soutien de la Yougoslavie est essentiel pour l'avenir d'une coalition balkanique durable."
+ HUN_invite_czechoslovakia:0 "Inviter la Tchécoslovaquie"
+ HUN_invite_czechoslovakia_desc:0 "Le soutien de la Tchécoslovaquie est essentiel pour l'avenir d'une coalition balkanique durable." 
+ HUN_invite_greece:0 "Inviter la Grèce"
+ HUN_invite_greece_desc:0 "Le soutien de la Grèce est essentiel pour l'avenir d'une coalition balkanique durable" 
+ HUN_protect_ruthenia:0 "Protéger la Ruthénie"
+ HUN_protect_ruthenia_desc:0 "Il est dans notre intérêt, dans celui des Magyarones et des Rusyns, de protéger la Ruthénie et de faire en sorte que chaque communauté vive en paix avec les autres. Ces temps sont déjà assez troublés. Nous n'avons pas besoin d'ennemis internes."
+ HUN_join_the_little_entente:0 "Rejoindre la Petite Entente"
+ HUN_join_the_little_entente_desc:0 "Les efforts diplomatiques ont finalement convaincu les Français que nous ne sommes pas une menace et que la situation des Magyars vivant en dehors des frontières hongroises peut être résolue pacifiquement. La présence de tyrans menaçant la paix est plutôt une préoccupation beaucoup plus grande contre laquelle les nations libres doivent s'unir."
+ HUN_join_the_cordon_sanitaire:0 "Rejoindre le Cordon Sanitaire"
+ HUN_join_the_cordon_sanitaire_desc:0 "L'alliance polono-roumaine est le rempart de l'Europe de l'Est contre la tyrannie, elle sert la cause de la liberté de les rejoindre."
+ HUN_hungarian_minorities_recruitment_agreement:0 "Accord sur le recrutement des minorités hongroises"
+ HUN_hungarian_minorities_recruitment_agreement_desc:0 "Faites pression sur nos alliés pour que leurs citoyens d'origine hongroise puissent servir dans l'armée hongroise." 
+
+ HUN_rearmament_refused:0 "§YLes membres de la Petite Entente se voient refuser le réarmement§!"
+
+ HUN_bernadotte_dynastic_ties_decision_category:0 "Les liens dynastiques de Beradotte"
+ HUN_bernadotte_dynastic_ties_decision_category_desc:0 "Le nouveau roi de notre nation est né et a grandi en Suède et entretient des liens étroits avec la nation de sa jeunesse."
+ HUN_hungarian_minorities_recruitment_decision_category:0 "Recrutement des minorités hongroises"
+ HUN_hungarian_minorities_recruitment_decision_category_desc:0 "Au lieu de pleurer le démantèlement de la Grande Hongrie, la coopération internationale avec nos voisins nous réconfortera. Certains Hongrois ethniques vivant à l'étranger pourraient être plus motivés à servir sous le drapeau hongrois, évitant ainsi la barrière linguistique potentielle. Nos alliés voisins ont fait l'objet d'un lobbying consciencieux et sont convaincus que c'est pour le bien de la cause commune et que la gravité de notre époque ouvre la porte à des solutions improbables."
+ HUN_form_swedish_democratic_government_in_exile:0 "Former un gouvernement démocratique suédois en exil"
+ HUN_recruit_magyars_in_carpathian_ruthenia:0 "Recruter des Magyars en Ruthénie des Carpates"
+ HUN_recruit_magyars_in_vojvodina:0 "Recruter des Magyars en Voïvodine"
+ HUN_recruit_magyars_in_southern_transylvania:0 "Recruter des Magyars dans le sud de la Transylvanie"
+ HUN_recruit_magyars_in_northern_transylvania:0 "Recruter des Magyars dans le nord de la Transylvanie"
+ HUN_recruit_magyars_in_southern_slovakia:0 "Recruter des Magyars dans le sud de la Slovaquie"
+ HUN_support_swedish_democratic_government:0 "Soutenir le gouvernement démocratique suédois"
+ HUN_restore_swedish_democracy:0 "Restaurer la démocratie suédoise"
+
+ r56_hungary_6.t:0 "Rejoindre Charles Bernadotte"
+
+ HUN_balkan_pact_preparation:0 "[HUN.getfactionname] Military Preparations"
+
+ r56_hungary_6.desc:0 "Rejoindre Charles Bernadotte"
+ r56_hungary_6.a:0 "Pour la victoire !"
+ r56_hungary_6.b:0 "Plûtot mourrir"

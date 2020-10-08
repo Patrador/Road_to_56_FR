@@ -96,7 +96,7 @@
  LAT_naval_contract_tt:0 "A discuté avec un §Yattaché étranger§! deux fois"
 
  LAT_mobilization_plans:0 "Plans de mobilisation lettons"
- LAT_mobilization_plans_desc:0 "Les différents plans de mobilisation élaborés par notre état-major nous permettront de répondre en fonction d'une agression étrangère."
+ LAT_mobilization_plans_desc:0 "Les différents plans de mobilisation élaborés par notre état-major général nous permettront de répondre efficacement à une agression étrangère. Trois grands plans ont été préparés.\n\nLe §Yplan A§! anticipe une attaque de l'URSS par l'est et éventuellement par le nord.\n\nLe §Yplan D§! anticipe une offensive allemande depuis le sud.\n\nLe §Yplan K§!, considéré comme extrêmement improbable, postule une frappe simultanée de l'Allemagne et de l'Union soviétique."
  LAT_plan_A:0 "Plan A"
  LAT_plan_D:0 "Plan D"
  LAT_plan_K:0 "Plan K"

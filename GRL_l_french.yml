@@ -23,3 +23,8 @@ grl.1.t:0 "L'accord Hull-Kauffmann"
 grl.1.d:0 "Le Danemark est tombé, mais ses territoires coloniaux, le Groenland, restent libres de toute interférence allemande. Un diplomate danois, Henrik Kauffmann, nous a contactés au sujet de la situation au Groenland. Agissant au nom du roi. Il est prêt à nous céder le contrôle du Groenland, les fonctionnaires de Nuuk préférant une occupation américaine plutôt que du Commonwealth ; même si cela n'est pas tout à fait légal au regard du droit international. Nous avons la responsabilité de protéger la terre et les peuples du nouveau monde, y compris le Groenland. Comment devrions-nous aborder cette question ?"
 grl.1.a:0 "Cela semble être une bonne idée. Mettez le Groenland sous notre contrôle immédiatement"
 grl.1.b:0 "Laissez le gouvernement local de Nuuk prendre le contrôle. Cependant, nous devrions baser nos troupes là-bas."
+
+#Parties
+
+GRL_democratic_party:0 "Grønlands Styrelse"
+GRL_democratic_party_long:0 "Grønlands Styrelse"

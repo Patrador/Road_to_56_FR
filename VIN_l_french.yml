@@ -12,9 +12,6 @@
  VIN_comittee_independent_vietnam_party_long:0 "Comité de Restauration du Vietnam Indépendant"
  VIN_la_lutte_party_long:0 "La Lutte"
 
- VIN_neutrality:0 "Empire du Vietnam"
- VIN_neutrality_DEF:0 "L'Empire du Vietnam"
-
  # EVENTS #######################################################################################
 
  vietnam.1.t:0 "Entrée du Vietnam dans le Comintern"

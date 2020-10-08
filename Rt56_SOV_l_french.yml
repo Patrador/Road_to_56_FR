@@ -350,8 +350,13 @@
  SOV_counter_coup:0 "Contre coup d'État"
  SOV_counter_coup_desc:0 ""
 
- #Ideas
+ #Idea Modifery Tooltips 
+ SOV_poor_railnetworks_tt:0 "§RNous connaîtrons périodiquement des ralentissements industriels en raison de notre réseau ferroviaire surchargé.§!"
+ SOV_trotskyit_plot_tt:0 "§RSi la situation politique n'est pas traitée à temps, le pays sera plongé dans une guerre civile.§!"
+ SOV_revolutionized_industry_ghost_tt:0 "§WPour §!§Gretirer§!§W cet esprit national, nous devons §!§Ycontinuer§! §Wnotre feuille de route industrielle actuelle.§!"
+ SOV_revolutionized_industry_tt:0 "§RCompléter§! §Ydes priorités§! §Rqui utilisent des ressources industrielles augmente la durée de cet esprit national.§!"
 
+ #Ideas
  SOV_social_welfare_focus:0 "Sécurité sociale"
  #
  SOV_low_literacy_rate_idea:0 "Faible taux d'alphabétisation"
@@ -369,11 +374,11 @@
  SOV_poor_railnetworks_2:0 "Mauvais réseaux ferroviaires"
  SOV_poor_railnetworks_2_desc:0 "Notre industrie accuse le sous-développement de notre réseau ferroviaire."
  SOV_revolutionized_industry_ghost:0 "Industrie révolutionnée"
- SOV_revolutionized_industry_ghost_desc:0 "§WPour §!§Gretirer§!§W cet esprit national, nous devons faire §!§Yprogresser§! §Wnotre feuille de route industrielle actuelle.\n--------------§!\nNous industrialisons rapidement notre grande nation. Bien que parfois ce soit à un prix élevé."
+ SOV_revolutionized_industry_ghost_desc:0 "Nous industrialisons rapidement notre grande nation. Bien que parfois ce soit à un prix élevé."
  SOV_revolutionized_industry_1:0 "Industrie révolutionnée"
- SOV_revolutionized_industry_1_desc:0 "§Nous sommes en train de terminer notre feuille de route industrielle. Compléter des §Ypriorités§! qui utilisent des ressources industrielles §Raugmente§! la durée de cet esprit national.\n--------------§!\nNous industrialisons rapidement notre grande nation. Bien que parfois ce soit à un prix élevé.\n"
+ SOV_revolutionized_industry_1_desc:0 "Nous industrialisons rapidement notre grande nation. Bien que parfois ce soit à un prix élevé."
  SOV_revolutionized_industry_2:0 "Industrie révolutionnée"
- SOV_revolutionized_industry_2_desc:0 "§WNous sommes en train de terminer notre feuille de route industrielle. Compléter des §Ypriorités§! qui utilisent des ressources industrielles §Raugmente§! la durée de cet esprit national\n--------------§!\nNous industrialisons rapidement notre grande nation. Bien que parfois ce soit à un prix élevé.\n"
+ SOV_revolutionized_industry_2_desc:0 "Nous industrialisons rapidement notre grande nation. Bien que parfois ce soit à un prix élevé."
  SOV_industry_slow_down:0 "Ralentissement de l'industrie"
  #
  SOV_risk_of_disease:0 "Risque de maladie"
@@ -385,7 +390,7 @@
  SOV_engineering_push:0 "Poussée industrielle"
  #
  SOV_poorly_educated_population:0 "Faible taux d'alphabétisation"
- SOV_poorly_educated_population_desc:0 "L'éducation globale de notre population ne progresse pas aussi rapidement que celle de notre industrie. Cela commence à nuire à nos progrès technologiques."
+ SOV_poorly_educated_population_desc:0 "L'éducation globale de notre population ne progresse pas aussi rapidement que celle de notre industrie. Cela commence à nuire à nos progrès technologiques ainsi qu'à notre force aérienne."
  progress_cult_focus_2:0 "Culte du progrès"
  #
  SOV_transpolar_flights_idea:0 "Vols transpolaires continus"
@@ -530,24 +535,11 @@
  SOV_mass_immunizations_happened_1:0 "Vaccinations de masse"
  relocate_industry_from_leningrad:0 "L'industrie a été délocalisée de Leningrad"
 
- #tags
+ #party names
 
- SOV2_communism_DEF:0 "la RSFS de Russie"
- SOV2_communism_ADF:0 "RSFS de Russie"
- SOV2_communism:0 "RSFS de Russie"
- SOV2_neutrality:0 "Confédération russe"
- SOV2_neutrality_ADF:0 "Confédération russe"
- SOV2_neutrality_DEF:0 "la Confédération russe"
- SOV3_neutrality_ADF:0 "Empire russe"
- SOV3_neutrality:0 "Empire russe"
- SOV3_neutrality_DEF:0 "l'Empire russe"
+ r56_SOV_neu:0 "Maison Romanov"
 
- #Party names
-
- r56_SOV_neu_long:0 "Maison Romanov"
- r56_SOV_neu_short:0 "Maison Romanov"
-
- #adviors
+ #advisors
 
  konstantin_nechaev:0 "Konstantin Nechaev"
  SOV_andrey_vlasov:0 "Andrey Vlasov"

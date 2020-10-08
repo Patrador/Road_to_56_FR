@@ -43,3 +43,6 @@
  CAN_sorel_steel_and_foundry:0 "Sorel Steel and Foundry"
  CAN_sorel_steel_and_foundry_desc:0 "Sorel sera le cœur de notre production d'acier et sera en parfaite harmonie avec le chantier naval voisin et la future usine d'armement."
  CAN_sorel_industries_desc:0 "L'emplacement avantageux le long du Saint-Laurent et la proximité des aciéries sont parfaits pour la production d'équipements militaires lourds tels que les pièces d'artillerie."
+
+ CAN_conscription_crisis_tt:0 "Réserves locales §R-75%§! dans les États nationaux §Yquébecois§!."
+ CAN_conscription_crisis_mended_tt:0 "Réserves locales §R-10%§! dans les États nationaux §Yquébecois§!."

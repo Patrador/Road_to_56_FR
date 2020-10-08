@@ -6,12 +6,6 @@
  BAY_neutrality_party:0 "Bayernpartei"
  BAY_fascism_party:0 "BNSP"
  BAY_fascism_party_long:0 "Bayerische Nationalsozialistische Partei"
- 
- #Bayerische Räterepublik
- BAY_communism:0 "République du conseil bavarois"
- BAY_democratic:0 "État libre de Bavière"
- BAY_neutrality:0 "Royaume de Bavière"
- BAY_fascism:0 "Bavière" 
 
  #made panzerschrecks
  BAY_generic_infantry_equipment_manufacturer:0 "Schricker & Co."

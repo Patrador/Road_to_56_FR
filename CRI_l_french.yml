@@ -1,22 +1,5 @@
 ﻿l_french:
 
- CRI_fascism:0 "État de Crimée"
- CRI_fascism_DEF:0 "l'État de Crimée"
- CRI_neutrality:0 "Crimée"
- CRI_neutrality_DEF:0 "la République de Crimée"
- CRI_democratic:0 "Crimée"
- CRI_democratic_DEF:0 "la République de Crimée"
- CRI_communism:0 "République soviétique de Crimée"
- CRI_communism_DEF:0 "la République soviétique de Crimée"
- CRI_fascism_ADJ:0 "criméen"
- CRI_communism_ADJ:0 "criméen"
- CRI_democratic_ADJ:0 "criméen"
- CRI_neutrality_ADJ:0 "criméen"
- CRI_SOV_subject:0 "RSSA de Crimée"
- CRI_SOV_autonomy_colony:0 "RSSA de Crimée"
- CRI_SOV_autonomy_integrated_puppet:0 "RSSA de Crimée"
- CRI_SOV_autonomy_dominion:0 "RSSA de Crimée"
-
  CRI_amet_ozenbashli:0 "Amet Ozenbashli"
  CRI_sahip_bolat_abdurrahim:0 "Sahip Bolat Abdurrahim"
  CRI_salix_saydas:0 "Salix Saydas"

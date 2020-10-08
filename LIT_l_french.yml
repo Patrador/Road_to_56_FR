@@ -145,5 +145,9 @@ LIT_event.1.t:0 "Victoire communiste"
 LIT_event.1.d:0 "Après leur victoire aux élections, le Parti communiste de Lituanie est maintenant propulsé à la tête du pays. Inattendu par une grande partie de la population, le nouveau gouvernement s'oppose à tous ceux que la Lituanie a connus, beaucoup plus radicaux et déterminés à faire la transition du pays vers une économie communiste. La Lituanie ouvre un tout nouveau chapitre de son histoire."
 LIT_event.1.a:0 "Au XXe siècle"
 
+LIT_event.2.t:0 "Les forces armées [SOV.GetAdjFP] se retirent de Vilnius"
+LIT_event.2.desc:0 "Après leur pacte avec les Allemands concernant le sort de la Pologne, [SOV.getleader] a considéré à juste titre que Vilnius ne faisait pas partie de la Pologne et nous a donc donné le contrôle de notre capitale, Vilnius, et de ses environs.\n\nUne grande arche a été construite pour accueillir nos forces armées et la population lituanienne fait signe à nos troupes qui défilent dans les rues. Les autres communautés sont en fait soulagées d'échapper à l'occupation [SOV.GetAdjFS]."
+LIT_event.2.a:0 "C'est un grand jour !"
+
 #Misc
 LIT_political_path_decided:0 "Chemin politique décidé"

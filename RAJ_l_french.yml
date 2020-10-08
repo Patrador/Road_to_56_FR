@@ -7,6 +7,10 @@
  india.1.t:0 "La Grande-Bretagne prend le contrôle de l'Aden"
  india.1.desc:0 "Le port d'Aden est l'un des plus importants dans le commerce entre l'Inde, l'Europe et l'Extrême-Orient. La loi de 1935 sur le Gouvernement indien prévoyait le transfert du contrôle de ce port directement au Gouvernement de Londres, alors qu'il était auparavant administré comme une province du Commissaire en chef. Le gouvernement britannique a maintenant officiellement pris le contrôle du port et l'a établi comme une colonie séparée."
  india.1.a:0 "Comme prévu"
+ india.2.t:0 "[HYD.GetNameDef] demande l'union"
+ india.2.desc:0 "Avec l'évolution de la situation, les efforts de [HYD.getnameDef] pour l'unification de la région avec l'Inde se fait entendre de plus en plus fort. La majorité hindoue ne veut pas accepter la domination musulmane sur l'État et préfère s'épanouir dans le cadre d'une Inde unie."
+ india.2.a:0 "Hyderabad a toujours fait partie de l'Inde"
+ india.2.b:0 "Ils doivent rester autonomes"
  
  
  r56_raj.1.t:0 "Nouveau gouverneur général"
@@ -92,3 +96,5 @@ RAJ_operation_polo_desc:0 "Punissons Hyderabad pour avoir déclaré son indépen
 RAJ_tfv_land_reform:0 "Réforme foncière"
 RAJ_tfv_land_reform:0 "Redistribuons les terres !"
 
+RAJ_crush_hyderabad:0 "Écraser Hyderabad"
+RAJ_crush_hyderabad_desc:0 "L'élite musulmane de [HYD.getnameDef] opprime les pieux hindous. Ils sont un obstacle sur la voie de la liberté totale des hindous et de l'unification de toute l'Inde."

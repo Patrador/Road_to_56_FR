@@ -1,18 +1,5 @@
 ﻿l_french:
 
- GLC_fascism:0 "État galicien"
- GLC_fascism_DEF:0 "l'État galicien"
- GLC_neutrality:0 "Royaume de Galice"
- GLC_neutrality_DEF:0 "le Royaume de Galice"
- GLC_democratic:0 "Galice"
- GLC_democratic_DEF:0 "la République de Galice"
- GLC_communism:0 "République populaire de Galice"
- GLC_communism_DEF:0 "la République populaire de Galice"
- GLC_fascism_ADJ:0 "galicien"
- GLC_communism_ADJ:0 "galicien"
- GLC_democratic_ADJ:0 "galicien"
- GLC_neutrality_ADJ:0 "galicien"
-
  GLC_santiago_casares_quiroga:0 "Santiago Casares Quiroga"
  GLC_juan_tizon:0 "Juan Tizón"
  GLC_ramon_suarez_picallo:0 "Ramón Suárez Picallo"

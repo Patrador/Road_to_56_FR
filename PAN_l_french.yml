@@ -2,7 +2,10 @@
 ###Parties###
  PAN_fascism_party:0 "PNR"
  PAN_fascism_party_long:0 "Partido Nacional Revolucionario"
+ PAN_neutrality_party:0 "PLD"
+ PAN_neutrality_party_long:0 "Partido Liberal Democratico"
  
- panama.1.t:0 "Juan Demóstenes Arosemena Barreati élu président"
- panama.1.d:0 "À l'approche des nouvelles élections législatives et présidentielles, le président Harmodio Arias Madrid a choisi de soutenir Juan Demóstenes Arosemena Barreati, son ministre des Affaires étrangères, au lieu de soutenir le candidat de son propre parti doctrinaire libéral, Domingo Díaz Arosemena. Pendant la campagne, Arosemena a continué d'occuper un poste au gouvernement.\nL'élection a été marquée par une forte action gouvernementale contre l'opposition, avec la distribution de cartes de vote en double, la destruction d'urnes et la détention de certains membres des partis d'opposition, qui a abouti à une victoire majeure pour Arosemena."
- panama.1.a:0 "La succession naturelle"
+###Events###
+ panama.1.t:0 "Arosemena « élu »"
+ panama.1.d:0 "La démocratie ne vaut pas la peine d'être préservée.\n\nAprès avoir abandonné le parti qui l'avait fait élire en premier lieu, Harmodio Arias Madrid s'est consacré à garder le pouvoir dans son petit cercle de fidèles et a jeté tout son soutien derrière son ministre des affaires étrangères Juan Demóstenes Arosemena Barreati. Bien sûr, gagner une élection à la fois contre le parti que vous dirigiez et contre l'opposition régulière serait tout un défi, mais Madrid et Barreati étaient bien préparés pour l'occasion - au lieu de compter sur des électeurs paresseux et peu fiables, Madrid s'est contenté de le faire lui-même et de fabriquer ses propres votes. Quelques citoyens arrogants se sont énervés à ce sujet et ont exprimé leur mécontentement, mais la détention des plus influents les a rapidement fait taire.\n\nLa communauté internationale est restée muette jusqu'à présent. Prétendre soutenir de grands concepts comme la « démocratie » ou la « liberté d'expression » est facile, organiser des embargos ou même des interventions militaires est difficile. En outre, la plupart des dirigeants étrangers se contentent de Barreati - un régime autoritaire stable est beaucoup plus prévisible qu'une démocratie dont les dirigeants et les valeurs changent constamment."
+ panama.1.a:0 "¡Viva Barreati!"

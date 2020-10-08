@@ -11,8 +11,6 @@
 
  FRA_payment_for_bombers:0 "Paiement pour les bombardiers"
 
- FRAEMPIRE_neutrality:0 "Empire français"
- FRAEMPIRE_neutrality_DEF:0 "l'Empire français"
  continental_system:0 "Blocus continental"
  FRA_the_american_napoleon:0 "Le Napoléon américain"
  FRA_repatriate_the_remains_of_napoleon_ii:0 "Rapatrier les restes de l'Aiglon"
@@ -155,25 +153,6 @@
  connetable_of_france:0 "Connétable de France"
 
  ############################
-			#### COSMETIC TAGS ####
-	############################
-
- FRA_GER_fascism_autonomy_puppet:0 "France de Vichy"
- FRA_GER_fascism_autonomy_puppet_DEF:0 "la France de Vichy"
- GER_FRA_autonomy_dominion:0 "Protectorat d'Allemagne"
- GER_FRA_autonomy_colony:0 "Confédération du Rhin"
- GER_FRA_autonomy_puppet:0 "Westphalie"
- GER_FRA_autonomy_integrated_puppet:0 "Francie orientale"
- ITA_FRA_autonomy_puppet:0 "États italiens"
- ENG_FRA_autonomy_puppet:0 "Bretagne"
- USA_FRA_autonomy_puppet:0 "Louisiane"
- CAN_FRA_autonomy_puppet:0 "Québec"
- JAP_FRA_autonomy_puppet:0 "Colonie du Japon"
- VIN_FRA_neutrality:0 "Protectorat d'Annam-Tonkin"
- LAO_FRA_neutrality:0 "Protectorat du Laos"
- CAM_FRA_neutrality:0 "Protectorat du Cambodge"
- FRA_EMPIRE_neutrality:0 "Empire français"
- FRA_KINGDOM_neutrality:0 "Royaume de France"
 
 	############################
 			#### NATIONAL FOCUSES ####

@@ -33,20 +33,11 @@
  SPR_proclaim_a_general_strike_desc:0 "Proclamer une grève générale et commencer à collecter des armes à feu !"
  SPR_proclaim_a_general_strike_tt:0 "§WLes§! §Yrépublicains§! §Wcommenceront la guerre civile avec un bonus de :\n§Y1.00K§! §Wunités de§! §Ymatériel d'infanterie.§!"
 
- SPR_republican_spain_cosmetic_democratic:0 "Espagne républicaine"
- SPR_republican_spain_cosmetic_democratic_DEF:0 "l'Espagne républicaine"
-
  SPR_pcd_democratic_party:0 "PCD"
  SPR_pcd_democratic_party_long:0 "Partido Del Centro Democrático"
 
  SPR_izquierda_republicana_party:0 "IR"
  SPR_izquierda_republicana_party_long:0 "Izquierda Republicana"
-
- SPR_communism:0 "République populaire d'Espagne"
- SPR_communism_DEF:0 "la République populaire d'Espagne"
-
- SPR_spanish_state_cosmetic_fascism:0 "État espagnol"
- SPR_spanish_state_cosmetic_fascism_DEF:0 "l'État espagnol"
 
  SPR_GATHERING_STORM_DESC:0 "La République espagnole n'a que cinq ans, mais elle s'est vue confrontée à l'instabilité des deux côtés de l'échiquier politique. L'échec du soulèvement asturien de 1934 a laissé de nombreuses traces dans la société espagnole, et la corruption du gouvernement d'Alejandro Lerroux n'a fait que faire perdre davantage confiance aux Espagnols, entraînant une radicalisation de la population.\n\nÀ gauche, le Front populaire, uni dans son antifascisme et son désir de réforme de la république, tandis qu'à droite, la CEDA se rapproche de plus en plus de l'autoritarisme et du corporatisme et la Phalange devient de plus en plus menaçante."
 

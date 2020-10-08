@@ -1,18 +1,4 @@
 ﻿l_french:
- SLV_fascism:0 "Slovénie"
- SLV_fascism_DEF:0 "la Slovénie"
- SLV_democratic:0 "République slovénienne"
- SLV_democratic_DEF:0 "la République slovénienne"
- SLV_neutrality:0 "État libre de Slovénie"
- SLV_neutrality_DEF:0 "l'État libre de Slovénie"
- SLV_YUG_neutrality:0 "Drava Banovina"
- SLV_YUG_neutrality_DEF:0 "le Drava Banovina" 
- SLV_communism:0 "République socialiste slovénienne"
- SLV_communism_DEF:0 "la République socialiste slovénienne"
- SLV_fascism_ADJ:0 "slovénien"
- SLV_democratic_ADJ:0 "slovénien"
- SLV_neutrality_ADJ:0 "slovénien"
- SLV_communism_ADJ:0 "slovénien"
  
  SLV_fascism_party:0 "SSSS"
  SLV_fascism_party_long:0 "SS-Stranka Slovenije"

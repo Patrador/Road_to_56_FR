@@ -43,6 +43,7 @@
  tank_manufacturer2:0 "Fabricant de chars"
  spare_parts_tank_manufacturer:0 "Spécialiste des pièces de rechange pour chars"
  licensed_medium_aircraft_manufacturer:0 "Fabricant agréé d'avions moyens"
+ mining_concern:0 "Intérêt pour l'industrie minière"
 
 ##Leaders 
  tank_enthusiast:0 "Passionné de chars"
@@ -56,6 +57,14 @@
  compromised_beliefs:0 "Croyances compromises"
  all_business:0 "Tous business"
  voluntaryism:0 "Volontariat"
+ r56_promised_democracy:0 "Démocratie promise"
+ corrupt:0 "Corrompu"
+ r56_trait_opposed_to_communism:0 "Opposé au communisme"
+ r56_trait_opposed_to_fascism:0 "Opposé au fascisme"
+ r56_trait_opposed_to_democracy:0 "Opposé à la démocratie"
+
+ wary_of_the_high_command:0 "Se méfie du haut commandement"
+ himmler_terrorizing_monomaniac:0 "Monomaniaque terrorisant" 
  
  ##Australia
  aboriginal_journalist:0 "Journaliste autochtone"
@@ -63,14 +72,10 @@
  odinist:0 "Odiniste"
  black_suffragette:0 "Suffragette noire"
 
- corrupt:0 "Corrompu"
- r56_trait_opposed_to_communism:0 "Opposé au communisme"
-
- wary_of_the_high_command:0 "Se méfie du haut commandement"
- himmler_terrorizing_monomaniac:0 "Monomaniaque terrorisant"
-
 #Adviors 
  intervention_advocate:0 "Avocat d'intervention"
  law_enforcement_militarizer_3:0 "Policier militariste\n(Génie)"
+reactionary_media_owner:0 "Propriétaire d'un média réactionnaire"
+
 
 guerilla_expert:0 "Expert en guérilla"

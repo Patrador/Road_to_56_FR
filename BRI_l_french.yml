@@ -8,9 +8,7 @@
  BRI_arsenal_de_lorient:0 "Arsenal de Lorient"
  BRI_generic_naval_aircraft_manufacturer:0 "Base d'aéronautique navale de Lann-Bihoué"
  BRI_generic_tank_manufacturer:0 "Brissonneau et Lotz"
- 
 
- 
  BRI_modernized_agriculture:0 "Agriculture modernisée"
  
  #made up manufacturers
@@ -43,21 +41,8 @@
  BRI_henri_bourgeois:0 "Henri Bourgeois"
  BRI_paul_vibert:0 "Paul Vibert"
  BRI_abeozen:0 "Abeozen"
-
- BRI_fascism:0 "Breizh"
- BRI_fascism_DEF:0 "Breizh"
- BRI_democratic:0 "République de Bretagne"
- BRI_democratic_DEF:0 "la République de Bretagne"
- BRI_neutrality:0 "Breizh"
- BRI_neutrality_DEF:0 "Breizh"
- BRI_communism:0 "République populaire de Bretagne"
- BRI_communism_DEF:0 "la République populaire de Bretagne"
- BRI_fascism_ADJ:0 "breton"
- BRI_democratic_ADJ:0 "breton"
- BRI_neutrality_ADJ:0 "breton"
- BRI_communism_ADJ:0 "breton"
  
-  #Brittany semi generic
+ #Brittany semi generic
  BRI_army_effort:0 "Lu Brezhon"
  BRI_army_effort_desc:0 "Malgré les possibilités croissantes de la guerre aérienne et navale, le combat au sol reste la clé des guerres de demain. Avec de la préparation, nous pouvons éviter de revivre l'enfer des tranchées."
  BRI_equipment_effort:0 "Moderniser l'équipement"
