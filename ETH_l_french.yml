@@ -166,10 +166,14 @@
  ETH_develop_airforce_desc:0 "Si nous voulons rester compétitifs dans le domaine de la domination aérienne, nous devons continuer à investir pour notre avenir."
  ETH_hold_the_line:0 "Positions améliorées"
  
+ ETH_diplomatic_legitimacy:0 "Légitimité diplomatique"
+ ETH_diplomatic_legitimacy_desc:0 "L'invasion italienne étant repoussée, le pays peut devenir le leader de l'indépendance contre l'oppression impérialiste."
+
  ETH_japanese_navy:0 "Conseillers navals japonais"
  ETH_leopold_reul:0 "Léopold Reul"
  ETH_feodor_konovalov:0 "Feodor Konovalov"
- 
+ ETH_the_long_lance:0 "La Longue Lance"
+
  ethiopia.1.t:0 "L'invasion italienne déjouée"
  ethiopia.1.d:0 "L'envahisseur italien a été chassé de nos frontières et jeté à la mer ! C'est un jour glorieux pour les enfants de Salomon. Nous avons enfin récupéré les terres ancestrales volées à notre peuple et reforgé une nation plus forte, prête à la grandeur."
  ethiopia.2.t:0 "L'Occident impose un embargo à l'Italie"
