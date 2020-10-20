@@ -10,3 +10,5 @@ l_french:
    modifier_production_speed_aluminum_mill_factor:0 "Vitesse de construction de l'§Yusine d'aluminium§!"
    modifier_production_speed_rubber_refinery_factor:0 "Vitesse de construction de la §Yraffinerie de caoutchouc§!"
    darien_gap:0 "Région du Darién"
+   quebec_conscription_crisis:0 "Crise sur la conscription au Québec"
+   quebec_conscription_crisis_compromise:0 "Compromis sur la conscription au Québec"

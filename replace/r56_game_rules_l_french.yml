@@ -31,7 +31,14 @@
  RULE_OPTION_MONARCHIST:0 "Monarchiste"
  RULE_OPTION_MONARCHIST_HISTORICAL:0 "Monarchiste - Historique"
  RULE_OPTION_DEMOCRATIC_ALTERNATE_AI_DESC:0 "Le pays suivra une voie démocratique non historique."
- 
+
+ #-> Rt56 AI <><>
+ RT56_AI_BEHAVIOR:0 "Comportement de l'IA de Road to 56"
+ RULE_OPTION_DEFAULT_RT56_AI:0 "Par défaut (recommandé)"
+ RULE_OPTION_DEFAULT_RT56_AI_DESC:0 "Le paramètre recommandé pour l'IA de Road to 56. Active les scripts et les stratégies d'IA pour empêcher l'IA de faire des choix inadéquats."
+ RULE_OPTION_OLD_SCHOOL:0 "Vieille école"
+ RULE_OPTION_OLD_SCHOOL_AI_DESC:0 "Désactive les scripts et les stratégies d'IA qui empêchent l'IA de faire des choix inadéquats. Similaire à la façon dont l'IA réagissait lors de la version 2017 de Road to 56. Cela inclut les trahisons d'alliés et les mauvaises déclarations de guerre."
+
  #-> ALB: Albania <><>
  ALB_AI_BEHAVIOR:0 "@ALB Albanie"
  RULE_OPTION_MONARCHIST_HISTORICAL_ALB_AI_DESC:0 "L'IA albanaise soutiendra le roi et s'orientera vers une monarchie constitutionnelle, en empruntant la voie appropriée dans l'arbre des priorités."
@@ -118,6 +125,10 @@
  RULE_OPTION_COMMUNIST_PEASANT_SIA_AI_DESC:0 "L'IA siamoise établira un régime communiste en construisant un socialisme destiné à leurs paysans et tentera de former une alliance avec d'autres nations communistes asiatiques, en empruntant la voie appropriée dans l'arbre des priorités nationales."
  RULE_OPTION_FASCIST_HISTORICAL_SIA_AI_DESC:0 "L'IA siamoise consolidera le Khana Ratsadon, s'inclinera davantage vers le fascisme et pourra s'allier à l'une des puissances de l'Axe, en empruntant le chemin approprié dans l'arbre des priorités nationales."
  RULE_OPTION_MONARCHIST_SIA_AI_DESC:0 "L'IA siamoise va restaurer la monarchie en faisant revenir Rama VII, en empruntant le chemin approprié dans l'arbre des priorités nationales."
+
+ #-> SOV: Russia <><>
+ RULE_OPTION_ANTI_CAPITALIST_DIPLOMACY:0 "Diplomatie anticapitaliste"
+ RULE_OPTION_ANTI_CAPITALIST_DIPLOMACY_SOV_AI_DESC:0 "L'Union soviétique ignorera la menace fasciste et sapera les grandes puissances capitalistes. Tout en recherchant une expansion agressive en Chine et au Moyen-Orient."
  
  #-> SWE: Sweden <><>
  SWE_AI_BEHAVIOR:0 "@SWE Suède"
@@ -219,6 +230,8 @@
  RULE_OPTION_KUR_LIBERATED_IRQ_SWITCH:0 "Pour jouer avec le Kurdistan, sélectionnez l'Irak"
  RULE_OPTION_KUR_LIBERATED_IRQ_SWITCH_DESC:0 "Pour jouer avec le Kurdistan, sélectionnez l'Irak, vous aurez cependant 0 usine"
  CENTRAL_AMERICA_UNIFICATION_STATUS:0 "@HON Unification de l'Amérique centrale"
+ 
+ HISPANOAMERICA_UNIFICATION_STATUS:0 "Unification de l'Amérique hispanique"
 
  GER_FRAGMENTATION_STATUS:0 "@GER Division de l'Allemagne"
  RULE_OPTION_GER_FRAGMENTED:0 "Allemagne divisée"
@@ -237,6 +250,12 @@
 
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED:0 "Le Honduras forme l'Amérique centrale"
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED_DESC:0 "Tous les pays d'Amérique centrale sont annexés par le Honduras, vous obtenez des états nationaux sur ces pays et votre nom change pour les États-Unis d'Amérique centrale."
+
+ RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED:0 "Le Chili réunifie l'Amérique hispanique"
+ RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_DESC:0 "Tous les pays hispaniques d'Amérique du Sud sont annexés par le Chili, vous obtenez des États nationaux sur ces pays et votre nom change pour Hispanoamérica."
+
+ RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_BIGGER:0 "Le Chili réunifie l'Amérique hispanique - Extension"
+ RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_BIGGER_DESC:0 "Tous les pays d'Amérique hispanique sont annexés par le Chili, vous obtenez des États nationaux sur ces pays et votre nom change pour Hispanoamérica."
   
  RULE_IDEOLOGY_JOIN_FACTION:0 "Rejoindre la faction d'une idéologie différente"
  RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_DESC:0 "Vous ne pouvez rejoindre que des factions de la même idéologie ou par le biais de priorités/événements."

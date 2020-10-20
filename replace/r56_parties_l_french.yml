@@ -400,7 +400,8 @@
  NIC_neutrality_party_1937_long:0 "Régime de Somoza"
  NIC_communism_party:0 "PSN"
  NIC_communism_party_long:0 "Partido Socialista Nicaragüense"
- NIC_fascism_party:0 "Nationalistes"
+ NIC_fascism_party:0 "Chemises bleues"
+ NIC_fascism_party_long:0 "Chemises bleues"
 
  #PAR
  PAR_communism_party:0 "PCP"
@@ -454,8 +455,6 @@
  PGR_neutrality_party:0 "Xin Beiyang"
 
  #PRU
- PRU_fascism_party:0 "Assemblée Constituante"
- PRU_fascism_party_long:0 "Assemblée Constituante"
  PRU_communism_party:0 "PCP"
  PRU_communism_party_long:0 "Partido Comunista del Perú"
 

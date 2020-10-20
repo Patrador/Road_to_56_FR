@@ -149,7 +149,7 @@ r56i_laws_security_order_tt:0 "§WRisque de grèves§! :§G -100%§!"
 
 
   r56i.event.11.title:0 "[FROM.GetLeLaLNPCap] [FROM.GetName] quitte [ROOT.GetLeLaLFaction] [From.GetFactionName]"
-  r56i.event.11.description:0 "\nDécidé à changer radicalement sa position diplomatique, le nouveau gouvernement [FROM.GetRulingIdeology] [FROM.GetAdjMS] a choisi de se retirer [ROOT.GetDuDelaDelFaction] [FROM.GetFactionName]. Cette nouvelle a suscité des remous parmi les membres [ROOT.GetDuDelaDelFaction] [FROM.GetFactionName] car ils se demandent si d'autres départs pourraient entraîner l'effondrement de leur alliance.\n\n [FROM.GetLeader] a déclaré que la nécessité de réorienter la politique du pays en fonction du programme [ROOT.GetDuDelaDelPartiPouv] [ROOT.GetRulingParty] a motivé sa décision. Déclarant que son gouvernement fera tout pour préserver l'indépendance [From.GetAdjFS]."
+  r56i.event.11.description:0 "\nDécidé à changer radicalement sa position diplomatique, le nouveau gouvernement [FROM.GetRulingIdeology] [FROM.GetAdjMS] a choisi de se retirer [ROOT.GetDuDelaDelFaction] [FROM.GetFactionName]. Cette nouvelle a suscité des remous parmi les membres [ROOT.GetDuDelaDelFaction] [FROM.GetFactionName] car ils se demandent si d'autres départs pourraient entraîner l'effondrement de leur alliance.\n\n [FROM.GetLeader] a expliqué que la nécessité de réorienter la politique du pays en fonction du programme [ROOT.GetDuDelaDelPartiPouv] [ROOT.GetRulingParty] a motivé sa décision, déclarant que son gouvernement fera tout pour préserver l'indépendance [From.GetAdjFS]."
   r56i.event.11.a:0 "Le monde change."
 
   r56i.event.12.title:0 "Une opportunité historique"
@@ -169,4 +169,22 @@ r56i_laws_security_order_tt:0 "§WRisque de grèves§! :§G -100%§!"
   r56i.event.15.title:0 "[From.GetNameDef] supprim[ROOT.GetEEntNP] [ROOT.GetSaLeurNP] faction !"
   r56i.event.15.description:0 "\n\nDans l'impossibilité de trouver des partenaires diplomatiques, le gouvernement [FROM.GetAdjMS] a annoncé qu'il ne cherchera plus à diriger une coalition internationale. Ils sont donc ouverts à des actions diplomatiques afin de rejoindre une alliance plus forte."
   r56i.event.15.a:0 "Intéressant."  
+
+  r56i.event.16.t:0 "[alliance_inviter.GetLeLaLFaction] [alliance_inviter.GetFactionName] et la faction [alliance_applicant.GetAdjFS] s'unissent en une seule alliance !"
+  r56i.event.16.d:0 "\n\n La politique mondiale évolue à un rythme rapide et, par conséquent, les dirigeants [alliance_inviter.GetDuDelaDelFaction] [alliance_inviter.GetFactionName] et [alliance_applicant.GetLeader] ont reconnu qu'il était inutile de se présenter sous forme de coalitions séparées. Au lieu de cela, ils ont décidé de se battre côte à côte.\nCela inquiétera probablement les chancelleries étrangères car leur force combinée pourrait devenir bien plus menaçante."
+  r56i.event.16.a:0 "Intéressant."
+  r56i.event.16.a:0 "Nous sommes plus forts ensemble."
+  r56i.event.16.b:0 "Ils recherchent la force dans le nombre."
+  r56i.event.16.c:0 "Cela ne les avantagera pas !"
+  r56i.event.16.e:0 "La guerre s'aggrave..."
+  r56i.event.16.f:0 "Notre alliance se renforce." 
 #####---------------------------------------------------------------------> End
+
+#  r56i.event.16.t:0 "The [HUN.GetFactionName] absorbs the [YUG.GetAdjective] faction into a single alliance!"
+#  r56i.event.16.d:0 "\n\n World politics are shifting at a rapid pace and therefore the leaders of the [HUN.GetFactionName] and [YUG.GetLeader] recognized that it was useless to fight as separate coalitions instead of forming a united coalition fighting for the triumph of their ideology."
+#  r56i.event.16.a:0 "Interesting."
+#  r56i.event.16.a:0 "We are stronger together."
+#  r56i.event.16.b:0 "They seek strength in numbers."
+#  r56i.event.16.c:0 "It will not avail them!"
+#  r56i.event.16.e:0 "The war escalates..."
+#  r56i.event.16.f:0 "Our alliance grows stronger." 

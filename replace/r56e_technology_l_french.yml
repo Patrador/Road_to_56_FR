@@ -16,7 +16,9 @@ l_french:
   naval_gunnery_tech:0 "Technologies d'armement naval"
   naval_shell_tech:0 "Technologies de bombardement naval"
   damage_control_tech:0 "Technologies de contrôle des dégâts"
-
+  steel_tech:0 "Technologies de production d'acier"
+  metallurgy_tech:0 "Technologies métallurgiques"
+  aluminium_tech:0 "Technologies de production d'aluminium"
 ### Extra Special Forced Tech Categories
  r56_desert_infantry_tech:0 "Infanterie du désert"
  r56_jaeger_infantry_tech:0 "Chasseur à pied"
