@@ -6,9 +6,6 @@ l_french:
 
 ##### Corrections du jeu vanilla #####
 
- SAU_neutrality:0 "Arabie saoudite" # vanilla : Arabie séoudite
- SAU_neutrality_DEF:0 "l'Arabie saoudite" # vanilla : l'Arabie séoudite
-
  VICTORY_POINTS_8248:0 "Luanda" # vanilla : Louanda
 
 ##### Trad des textes bruts de R56 #####
