@@ -20,6 +20,9 @@
  SAF_FOCUS_TREE_SELECTION:0 "@SAF Afrique du Sud"
  SPR_FOCUS_TREE_SELECTION:0 "@SPR Espagne"
  POR_FOCUS_TREE_SELECTION:0 "@POR Portugal"
+ GRE_FOCUS_TREE_SELECTION:0 "@GRE Grèce"
+ BUL_FOCUS_TREE_SELECTION:0 "@BUL Bulgarie"
+ TUR_FOCUS_TREE_SELECTION:0 "@TUR Turquie"  
 
  ###---> AI Behavior <><> <><> <><>
  RULE_GROUP_AI_BEHAVIOR:0 "Comportement de l'IA"
@@ -138,6 +141,7 @@
  RULE_OPTION_MONARCHIST_SWE_AI_DESC:0 "Les Suédois choisiront la priorité « Le Roi en Conseil », prenant le plein pouvoir et formant la faction des aurores boréales."
  
  #-> TUR: Turkey <><>
+ TUR_AI_BEHAVIOR_R56:0 "@TUR Turquie : Arbre de R56"
  TUR_AI_BEHAVIOR:0 "@TUR Turquie"
  RULE_OPTION_DEMOCRATIC_TUR_AI_DESC:0 "L'IA turque suivra l'héritage d'Atatürk, mais après l'influence hostile toujours croissante en Europe, elle se dirigera finalement vers une démocratie et rejoindra les Alliés."
  RULE_OPTION_COMMUNIST_TUR_AI_DESC:0 "L'IA turque va libérer Hüsnü de son exil, ce qui conduira à une révolution communiste à part entière, suivie soit d'une coopération avec les Soviétiques, soit de sa propre sphère d'influence."
@@ -251,10 +255,10 @@
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED:0 "Le Honduras forme l'Amérique centrale"
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED_DESC:0 "Tous les pays d'Amérique centrale sont annexés par le Honduras, vous obtenez des états nationaux sur ces pays et votre nom change pour les États-Unis d'Amérique centrale."
 
- RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED:0 "Le Chili réunifie l'Amérique hispanique"
+ RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED:0 "Amérique du sud hispanique"
  RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_DESC:0 "Tous les pays hispaniques d'Amérique du Sud sont annexés par le Chili, vous obtenez des États nationaux sur ces pays et votre nom change pour Hispanoamérica."
 
- RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_BIGGER:0 "Le Chili réunifie l'Amérique hispanique - Extension"
+ RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_BIGGER:0 "Amérique hispanique unifiée"
  RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_BIGGER_DESC:0 "Tous les pays d'Amérique hispanique sont annexés par le Chili, vous obtenez des États nationaux sur ces pays et votre nom change pour Hispanoamérica."
   
  RULE_IDEOLOGY_JOIN_FACTION:0 "Rejoindre la faction d'une idéologie différente"
@@ -298,6 +302,11 @@
  RULE_OPTION_ALL_MAJORS_AND_STRONG_MINORS_DESC:0 "Les grandes puissances et beaucoup de puissances mineures commenceront avec une agence."
  RULE_OPTION_ALL_COUNTRIES:0 "Tous les pays"
  RULE_OPTION_ALL_COUNTRIES_DESC:0 "Chaque pays commencera la partie avec une agence de renseignement."
+ 
+ RULE_SPECIAL_FORCES_LIMIT:0 "Nombre de forces spéciales"
+ RULE_OPTION_DEFAULT_SPECIAL_FORCES_DESC:0 "Par défaut"
+ RULE_OPTION_100_SPECIAL_FORCES:0 "Numéro de divisions +10000%"
+ RULE_OPTION_100_SPECIAL_FORCES_DESC:0 "Fatigué de la limite de division des forces spéciales ? Je suppose que ce modificateur vous suffira. Allez nuke puis vous parachuter partout aux USA."
 
  RULE_ALLOW_EXTENDED_TECHS:0 "Autoriser les technologies supplémentaires"
  RULE_ALLOW_R56_TECHS_ALLOWED_DESC:0 "L'arbre technologique de recherches spéciales sur les divisions sera disponible."

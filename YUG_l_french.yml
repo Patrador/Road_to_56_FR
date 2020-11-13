@@ -25,6 +25,34 @@
  ina:0 "INA"
 
  YUG_kraljevo_state_airlines_factory:0 "Usine de Kraljevo State Airlines"
+ YUG_kraljevo_state_airlines_factory_desc:0 "Conçue à l'origine pour entretenir les avions des compagnies aériennes, l'usine s'est spécialisée dans la production sous licence en raison de l'origine étrangère des avions qu'elle devait construire et entretenir."
+
+ SER_kraljevo_state_airlines_factory:0 "Usine de Kraljevo State Airlines"
+ SER_kraljevo_state_airlines_factory_desc:0 "Conçue à l'origine pour entretenir les avions des compagnies aériennes, l'usine s'est spécialisée dans la production sous licence en raison de l'origine étrangère des avions qu'elle devait construire et entretenir."
 
  YUG_stealth_upgrades:0 "Amélioration de la furtivité"
  YUG_stealth_upgrades_desc:0 "De meilleurs schnorchels pour des sous-marins moins chers."
+
+ YUG_skilled_pilots:0 "Pilotes expérimentés"
+ YUG_skilled_pilots_desc:0 "Les nombreuses îles de la côte dalmate ont rendu nécessaire la coordination de tous les ordres et leur communication claire afin d'éviter les accidents et de tirer le meilleur parti du terrain." 
+
+ YUG_adriatic_specialization:0 "Spécialisation dans l'Adriatique"
+ YUG_adriatic_specialization_desc:0 "Les nombreuses îles de la côte dalmate constituent une caractéristique très spécifique qui pourrait être utilisée pour surprendre nos ennemis."  
+ 
+ SER_adriatic_specialization:0 "Spécialisation dans l'Adriatique"
+ SER_adriatic_specialization_desc:0 "Les nombreuses îles de la côte dalmate constituent une caractéristique très spécifique qui pourrait être utilisée pour surprendre nos ennemis."  
+
+ SER_skilled_pilots:0 "Pilotes expérimentés"
+ SER_skilled_pilots_desc:0 "Les nombreuses îles de la côte dalmate ont rendu nécessaire la coordination de tous les ordres et leur communication claire afin d'éviter les accidents et de tirer le meilleur parti du terrain." 
+
+ yugoslav_serb_adriatic_training:0 "Spécialisation dans l'Adriatique yougoslave"
+ yugoslav_croat_adriatic_training:0 "Spécialisation dans l'Adriatique yougoslave"
+ yugoslav_montenegrin_adriatic_training:0 "Spécialisation dans l'Adriatique yougoslave" 
+
+ YUG_form_mechanics:0 "Former des équipes de mécaniciens"
+ YUG_form_mechanics_desc:0 "En fin de compte, quelle est la différence entre un avion abattu par des balles ennemies, par un incendie soudain du moteur ou un avion incapable de voler à cause de pannes mécaniques si nous ne pouvons pas les réparer ?  Afin de réduire les risques de défaillances mécaniques, la seule solution est d'avoir des mécaniciens dévoués et bien formés qui connaissent l'intérieur de ces avions plus qu'un chirurgien ne connaît l'anatomie."
+ YUG_expanded_repair_facilities:0 "Installations de réparation élargies"
+ YUG_expanded_repair_facilities_desc:0 "Pour que nos avions restent en l'air, il est essentiel de réduire le nombre d'accidents. Espérons que les différents plans étrangers pourront aider à tirer le meilleur parti de la production de plusieurs pays."
+
+ SER_expanded_repair_facilities:0 "Installations de réparation élargies"
+ SER_expanded_repair_facilities_desc:0 "Pour que nos avions restent en l'air, il est essentiel de réduire le nombre d'accidents. Espérons que les différents plans étrangers pourront aider à tirer le meilleur parti de la production de plusieurs pays." 

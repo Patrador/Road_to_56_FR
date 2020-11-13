@@ -7,12 +7,20 @@
  USA_william_c_lee:0 "William C. Lee"
  USA_elwood_richard_quesada:0 "Elwood R. Quesada"
  rt56_j_edgar_hoover:0 "J. Edgar Hoover"
+ rt56_j_edgar_hoover_desc:0 "« Nous sommes uniquement une organisation de collecte de faits. Nous n'innocentons personne. Nous ne condamnons personne. »"
  rt56_j_edgar_hoover_mil:0 "J. Edgar Hoover"
+ rt56_j_edgar_hoover_mil_desc:0 "« La justice est essentielle à l'ordre public »"
  rt56_john_j_pershing:0 "John J. Pershing"
  rt56_USA_cash_and_carry_away:0 "Cash and Carry"
  rt56_USA_cash_and_carry_away_desc:0 "L'amendement « Cash and Carry » à la loi sur la neutralité nous permet d'acheter du matériel de non-guerre auprès [USA.GetDuDelaDelNP] [USA.getname] si nous payons d'avance et que nous l'expédions. Nous en profitons, car [USA.GETNAMEDEF] nous laissent « emprunter » de l'argent à leur trésorerie que nous pouvons ensuite utiliser pour payer les marchandises."
+ sons_of_liberty:0 "Fils de la Liberté"
+ sons_of_liberty_desc:0 "Nous avons combattu la tyrannie une fois, nous la combattrons à nouveau."
+ deo_vindice:0 "Deo vidice"
+ deo_vindice_desc:0 "« Sous Dieu, notre vengeur »"
+
  rt56_USA_cash_and_carry_home:0 "Projet Cash and Carry"
  rt56_USA_cash_and_carry_home_desc:0 "Nous apportons une aide matérielle à nos alliés jusqu'à ce que le Congrès prenne connaissance du projet et que nos avocats ne puissent plus faire valoir d'objections à la pratique devant les tribunaux."
+ r56_usa_three_dimensional_assault_force:0 "Force d'assaut tridimensionnelle"
 
  USA_curtiss_wright:0 "Curtiss-Wright"
  USA_claude_shannon:0 "Claude Shannon"
@@ -36,7 +44,8 @@
  USA_cash_and_carry_desc:0 "L'amendement « Cash and Carry » à la loi sur la neutralité permet aux pays de nous acheter du matériel non militaire s'ils paient d'avance et l'expédient eux-mêmes. Le Congrès part du principe qu'aucun pays ne profitera de cette possibilité, en raison du manque de capital initial. Nous pouvons abuser de cet amendement pour fournir du matériel à nos alliés en laissant les pays « emprunter » de l'argent à notre trésorerie qu'ils peuvent ensuite utiliser pour payer les marchandises."
  USA_double_victory:0 "Double victoire"
  USA_double_victory_desc:0 "Il est important d'obtenir le soutien de la communauté afro-américaine lorsque nous sommes en guerre. Le recours à des campagnes de propagande ciblées permettra d'y parvenir. Elles peuvent être trompeuses, mais nous ne pouvons pas laisser le pays être divisé à nos moments les plus critiques."
-
+ USA_three_dimensional_assault_force:0 "Force d'assaut tridimensionnelle"
+ USA_three_dimensional_assault_force_desc:0 "En développant une doctrine d'assaut amphibie qui intègre non seulement un débarquement bien équipé mais aussi une attaque aérienne et un bombardement naval, nous pouvons nous assurer que nos débarquements ont plus de chances de réussir et de gagner une tête de pont."
 
  r56_usa.1.t:0 "Les élections de 1948"
  r56_usa.1.desc:0 "Une fois de plus, Thomas Dewey est le titulaire contre le candidat actuel. Cette fois-ci, Harry Truman se présente à la présidence en tant que successeur de Franklin Roosevelt."
@@ -68,7 +77,7 @@
  USA_carrier_1_desc:0 "Le porte-avions de la classe Langley est né de la conversion de la coque d'un navire de la classe Jupiter. Cela lui a permis de se conformer aux limites imposées par le traité naval de Washington. Cette classe a été la première classe de porte-avions opérationnels de la marine américaine et a passé plus d'une décennie à améliorer les opérations des porte-avions."
 
  r56_j_edgar_hoover_given_army_command:0 "Est actuellement un général"
-
+ USA_three_dimensional_assault_force_tt:0 "§YHolland Smith§! est actuellement un général."
 
  USA_cult_of_washington:0 "Le culte de Washington"
  USA_cult_of_washington_desc:0 "Le fondateur de notre pays doit être un exemple pour nous tous. En tant que militaire fort destiné à la grandeur, il a clairement été le premier fasciste, construisant une république pour tous les vrais Américains grâce à son habileté et à sa volonté de cisaillement."

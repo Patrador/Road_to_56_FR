@@ -1,5 +1,10 @@
 ﻿l_french:
 
+ # Missions 
+ GRE_legislative_elections:0 "Élections législatives"
+ GRE_demertzis_illing_health:0 "Santé défaillante de Demertzís"
+ GRE_communist_insurrection:0 "Grèves syndicales"
+
  # Politics
  GRE_despotism_desc:0 "Le §Ymetaxisme§! est une idéologie nationaliste totalitaire associée au politicien grec §WIoánnis Metaxás§!. Elle appelle à la §Yrégénération§! de la nation grecque et l'établissement d'une §HGrèce moderne, culturellement homogène§!. Le métaxisme dénigre le libéralisme et subordonne les intérêts individuels à ceux de la nation, cherchant à mobiliser le peuple grec comme une masse disciplinée au service de la création d'une §Mnouvelle Grèce§!."
  GRE_absolute_monarchism_desc:0 "La §Ymaison de Schleswig-Holstein-Sonderbourg-Glücksbourg§! est une branche dano-allemande de la maison d'Oldenbourg. Elle a acquis le trône de Grèce en 1863 lorsque Georges Ier est devenu §Mroi des Hellènes§!."

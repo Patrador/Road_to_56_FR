@@ -1,4 +1,5 @@
 ﻿l_french:
+ seize_machine_toolings_in_state:0 "Saisir des machines-outils [FROM.GetAuEnANP] [FROM.GetName]"
 
  the_return_of_the_old_guard_category:0 "Le retour de la Vieille Garde"
  hold_the_neutrality_national_referendum:0 "Former un gouvernement réactionnaire"
@@ -25,6 +26,7 @@
 
 
  combat_reports:0 "Rapports de combat"
+ r56_adopt_camelry:0 "Former un corps de chameaux"
  r56_ENG_decision_support_percy_hobart:0 "Soutenir Percy Hobart"
  r56_ENG_decision_support_percy_hobart_desc:0 "Percy Hobart a peut-être une vision étrange sur la façon d'utiliser les chars et peut également être assez impopulaire parmi les généraux en raison de ces opinions, mais son approche révolutionnaire de la conception et de l'utilisation des chars pourrait devenir extrêmement utile."
  percy_hobart_decision_cost:0 "§H100§!£army_experience  §H50§!£pol_power"
@@ -63,6 +65,9 @@
  r56_deploy_heavy_aa_capital_cost:0 "£command_power §H25§! £pol_power §H25§!"
  r56_deploy_heavy_aa_capital_cost_blocked:0 "£command_power §R25§! £pol_power §R25§!"
  r56_deploy_heavy_aa_capital_cost_tooltip:0 "Cela coûte £command_power §H25§! et £pol_power §H25§! de sélectionner cela"
+ r56_25_command_power_cost:0 "£command_power §H25§!"
+ r56_25_command_power_cost_blocked:0 "£command_power §R25§!"
+ r56_25_command_power_cost_tooltip:0 "Cela coûte £command_power §H25§! de sélectionner cela."
 
  r56_send_combat_reports_to_the_small_arms_manufacturers:0 "Rapports aux fabricants d'armes légères"
  r56_send_combat_reports_to_the_artillery_manufacturers:0 "Rapports aux fabricants d'artillerie"
@@ -119,7 +124,7 @@
  try_to_recruit_irish_officers:0 "Essayer de recruter des officiers irlandais"
  try_to_recruit_scottish_officers:0 "Essayer de recruter des officiers écossais"
 
- try_to_recruit_irish_officers:0 "Essayer de recruter des officiers brésiliens" 
+ try_to_recruit_brazilian_officers:0 "Essayer de recruter des officiers brésiliens" 
 
  r56_declare_independence:0 "Déclarer notre indépendance"
  

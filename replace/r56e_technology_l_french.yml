@@ -19,6 +19,7 @@ l_french:
   steel_tech:0 "Technologies de production d'acier"
   metallurgy_tech:0 "Technologies métallurgiques"
   aluminium_tech:0 "Technologies de production d'aluminium"
+  r56_special_forces_training_tech:0 "Formation des forces spéciales"
 ### Extra Special Forced Tech Categories
  r56_desert_infantry_tech:0 "Infanterie du désert"
  r56_jaeger_infantry_tech:0 "Chasseur à pied"
@@ -27,6 +28,7 @@ l_french:
  r56_mountain_infantry_tech:0 "Montagnards"
  r56_paratroops_infantry_tech:0 "Parachutistes"
  r56_shock_infantry_tech:0 "Infanterie de choc"
+ cat_r56_guerilla_warfare_research:0 "Guerre de guérilla"
 
 ### tech categories for focus tree interface
  summer_clothing_tech:0 "Technologies de vêtements d'été"

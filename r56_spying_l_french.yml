@@ -26,7 +26,9 @@ r56_spying_event.7.desc:0 "Des officiers proches d'un de nos commandants ont ét
 lar_operative_event.7.t:0 "Mission secrète terminée"
 lar_operative_event.7.desc:0 "Nos agents ont accompli leur mission. Des contacts ont été établis avec les responsables et des rapports sont en cours de rédaction. Les agents seront prêts à poursuivre de nouvelles opérations dès que possible."
 lar_operative_event.7.a:0 "Classifiez ce dossier."
-
+r56_spying_event.9.t:0 "Une recrue compétente"
+r56_spying_event.9.desc:0 "Un candidat a été recommandé par les formateurs de la [ROOT.GetAgency]. Ses capacités d'infiltration ont été décrites comme « presque magiques » et il a fait preuve d'un certain talent d'acteur avant d'attaquer vicieusement le formateur dans ce qui était, espérons-le, une attaque simulée. Son dossier mentionne qu'il a d'abord essayé de devenir pilote, mais qu'il n'a pas pu le faire à cause d'une lésion de l'un de ses yeux. En lisant ce dossier, le recruteur aurait dit : « Tu voleras pas, imbécile ! » Ses formateurs ont remarqué un détail gênant. Avant d'attaquer quelqu'un, son cri préféré est « En garde ! », et cela a agacé certaines personnes car il le répète un peu trop souvent." 
+r56_spying_event.9.a:0 "Très bien, gardez le secret."
 upgrade_expanded_departments:0 "Départements développés"
 upgrade_r56_home_guard:0 "Garde nationale civile"
 upgrade_r56_home_guard_desc:0 "§LLa Garde Nationale a le potentiel d'être un outil vital pour notre département de contre-espionnage. Les individus patriotes peuvent rendre la collecte de renseignements plus difficile pour les agents ennemis, ainsi que le signalement de personnes suspectes.\n \n « Si vous voyez quelque chose, dites quelque chose »§!"

@@ -11,6 +11,28 @@
  army_unification:0 "Unification militaire"
  economic_unification:0 "Unification économique"
 
+ 
+ #Scandinavia shared
+ SCA_scandinavian_unification:0 "Unification scandinave"
+ SCA_scandinavian_unification_desc:0 "Le peuple frère est enfin uni."
+ SCA_northern_swedish_iron:0 "Le fer du nord de la Suède"
+ SCA_northern_swedish_iron_desc:0 "La Norvège et la Suède étant réunies sous un seul gouvernement, chaque étape de l'extraction et de l'expédition du fer suédois peut être rationalisée."
+ SCA_trelleborg_rubber_factory:0 "Usine de caoutchouc de Trelleborg"
+ SCA_trelleborg_rubber_factory_desc:0 "Les pneus sont essentiels pour nos véhicules."
+ SCA_norwegian_aluminium_sector:0 "Aluminium norvégien"
+ SCA_norwegian_aluminium_sector_desc:0 "L'eau qui coule dans les montagnes norvégiennes est essentielle pour la production d'aluminium."
+ SCA_unified_armament_industries:0 "Industries d'armement unifiées"
+ SCA_unified_armament_industries_desc:0 "Notre unification offre la possibilité de spécialiser diverses usines afin de produire ce qu'elles font le mieux."
+
+#Austria Hungary Shared
+
+ AH_austro_hungarian_unification:0 "Unification austro-hongroise"
+ AH_develop_vienna:0 "Développer Vienne"
+ AH_form_mechanics:0 "Mécaniciens formés"
+ AH_czech_tyres:0 "Pneus tchèques"
+ AH_rijeka_naval_academy:0 "Académie navale de Rijeka"
+ AH_coordinate_the_land_equipment_manufacturers:0 "Coordonner la fabrication d'équipement"
+ AH_increase_naval_production:0 "Augmenter la production navale"
  #Improved Byzantium#
  byz_integrate_albania:0 "Intégrer l'Albanie"
  byz_albania_integrated:0 "Albanie intégrée"

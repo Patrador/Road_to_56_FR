@@ -118,6 +118,9 @@
  exploit_faryumad_chromium:0 "Exploiter le chrome près de Faryumad"
  develop_eastern_desert_chromium_mining:0 "Mine de chrome dans le désert d'Égypte orientale"
  exploit_marcona_iron:0 "Exploiter le fer de Marcona"
+ exploit_gabons_oil_field:0 "Exploiter le pétrole du Gabon"
+ exploit_sumy_oil_field:0 "Exploiter le champ pétrolier de Sumy" 
+ expand_sumy_oil_field:0 "Agrandir le champ pétrolier de Sumy"
 
 
 
@@ -164,11 +167,11 @@
  exploit_volga_ural_basin_magnitogorsk_wtt:0 "Exploiter le bassin de la Volga-Oural près de Magnitogorsk" 
  exploit_the_lena_angara_plateau_wtt:0 "Exploiter le plateau de Lena-Angara"
  exploit_turner_valley_oil_wtt:0 "Exploiter le pétrole de Turner Valley"
+ exploit_norman_wells_wtt:0 "Exploiter Norman Wells"
  exploit_leduc_woodbend_oil_wtt:0 "Exploiter le gisement pétrolier de Leduc-Woodbend"
  exploit_redwater_oil_wtt:0 "Exploiter le champ pétrolier de Redwater"
  exploit_pembina_oil_wtt:0 "Exploiter le gisement de pétrole de Pembina"
  exploit_rolla_oil_wtt:0 "Exploiter le pétrole de Rolla"
- exploit_norman_wells_wtt:0 "Exploiter Norman Wells"
  exploit_virden_oil_wtt:0 "Exploiter le pétrole de Virden"
  exploit_budafapuszta_oil_wtt:0 "Exploiter le pétrole découvert à Budafapuszta"
  exploit_nagylengyel_oil_wtt:0 "Exploiter le pétrole découvert à Nagylengyel"
@@ -213,7 +216,20 @@
  exploit_dobrich_oil_field_wtt:0 "Exploiter le champ pétrolier de Dobrich"
  exploit_alaouite_mountains_chromium_wtt:0 "Exploiter le chrome des monts alaouites"
  exploit_damascene_iron_wtt:0 "Exploiter le fer de Damas"
-
+ expand_kryvyi_rih_iron_mine_wtt:0 "Agrandir la mine de fer de Krivoï Rog"
+ develop_hamme_mining_district_in_virginia_wtt:0 "Développer la section de Virginie du district minier de Hamme"
+ develop_hamme_mining_district_in_north_carolina_wtt:0 "Développer la section de Caroline du Nord du district minier de Hamme" 
+ exploit_mississippi_oil_field_wtt:0 "Développer le champ pétrolier du comté de Yazoo dans le Mississippi"
+ exploit_mississippi_oil_field_2_wtt:0 "Développer le champ pétrolifère de Gwinville"
+ expand_cuban_chromium_wtt:0 "Développer l'extraction du chrome à Cuba"
+ exploit_queensland_chromium_wtt:0 "Exploiter le chrome du Queensland"
+ exploit_northeastern_canadian_chromium_wtt:0 "Exploiter le chrome du nord-est du Canada"
+ exploit_faryab_chromium_wtt:0 "Mine de chrome près de Faryab"
+ exploit_faryumad_chromium_wtt:0 "Exploiter le chrome près de Faryumad"
+ develop_eastern_desert_chromium_mining_wtt:0 "Mine de chrome dans le désert d'Égypte orientale"
+ exploit_gabons_oil_field_wtt:0 "Exploiter le pétrole du Gabon"
+ exploit_sumy_oil_field_wtt:0 "Exploiter le champ pétrolier de Sumy"
+ expand_sumy_oil_field_wtt:0 "Agrandir le champ pétrolier de Sumy"
 
  expand_basque_steel_works_wtt:0 "Développer les aciéries basques"
  expand_western_aragon_steel_works_wtt:0 "Développer les aciéries de l'ouest de l'Aragon"
@@ -224,7 +240,15 @@
  expand_extremadura_tungsten_mines_wtt:0 "Développer les mines de tungstène d'Estrémadure"
  expand_madrid_bauxite_mines_wtt:0 "Développer les mines de bauxite de Madrid"
  exploit_togolese_chromium_wtt:0 "Exploiter le chrome du Togo"
- build_sibenik_aluminium_plant:0 "Construire l'usine d'aluminium de Šibenik"
+ sierra_grande_iron_mine_wtt:0 "Exploiter les gisements de fer de la Sierra Grande"
+ las_alumbres_iron_mine_wtt:0 "Exploiter les gisements de fer de Las Alumbres"
+ exploit_piracanjuba_chromium_wtt:0 "Exploiter le chrome de Piracanjuba"
+ exploit_oregonian_chromium_wtt:0 "Exploiter le chrome de l'Oregon"
+ exploit_californian_chromium_wtt:0 "Exploiter le chrome californien"
+ exploit_alaskan_tungsten_wtt:0 "Exploiter le tungstène de l'Alaska"
+ exploit_marcona_iron_wtt:0 "Exploiter le fer de Marcona"
+
+
 
 
  #ADAPTATION OF wtt

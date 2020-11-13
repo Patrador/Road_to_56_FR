@@ -119,7 +119,7 @@ l_french:
  custom_diff_strong_kaz:0 "@KAZ Renforcer le Kazakhstan"
  custom_diff_strong_ken:0 "@KEN Renforcer le Kenya"
  custom_diff_strong_kor:0 "@KOR Renforcer la Corée"
- custom_diff_strong_ksv:0 "@KSV Renforcer le Kosovo"
+ custom_diff_strong_kos:0 "@KOS Renforcer le Kosovo"
  custom_diff_strong_kur:0 "@KUR Renforcer le Kurdistan"
  
  ###---> Minors: L <><> <><> <><>
@@ -133,7 +133,7 @@ l_french:
  
  ###---> Minors: M <><> <><> <><>
  custom_diff_strong_mad:0 "@MAD Renforcer Madagascar"
- custom_diff_strong_mcd:0 "@MCD Renforcer la Macédoine"
+ custom_diff_strong_mac:0 "@MAC Renforcer la Macédoine"
  custom_diff_strong_man:0 "@MAN Renforcer le Mandchoukouo"
  custom_diff_strong_mrt:0 "@MRT Renforcer la Mauritanie"
  custom_diff_strong_mek:0 "@MEK Renforcer le Mecklembourg"
@@ -201,6 +201,7 @@ l_french:
  custom_diff_strong_swe:0 "@SWE Renforcer la Suède"
  custom_diff_strong_swi:0 "@SWI Renforcer la Suisse"
  custom_diff_strong_syr:0 "@SYR Renforcer la Syrie"
+ custom_diff_strong_szk:0 "@SZK Renforcer le Pays sicule"
  
  ###---> Minors: T <><> <><> <><>
  custom_diff_strong_tan:0 "@TAN Renforcer le Tannou-Touva"

@@ -6,13 +6,16 @@ ENG_establish_the_colony_of_aden_desc:0 "Le port d'Aden est l'un des plus import
 ENG_war_with_ussr:0 "Opération impensable"
 uk_naval_gunnery:0 "Artillerie navale"
 uk_naval_gunnery_desc:0 "Améliorer l'efficacité de notre équipement naval pour frapper plus fort et dominer les mers."
+ENG_tube_alloys:0 "Alliages des tubes"
+ENG_tube_alloys_desc:0 "Les équations physiques montrent que la fission de l'uranium pourrait libérer une quantité gigantesque d'énergie. Cela pourrait potentiellement conduire à la création d'une bombe d'une puissance presque inconcevable."
+ENG_admiralty_naval_staff_desc:0 "Le personnel naval de l'Amirauté est le véritable noyau de notre marine, un organisme qui peut coordonner et influencer le fonctionnement de nos navires dans le monde entier."
 #Custom Tooltips
 
 #Flags
 
 #Ideas
 ENG_crypto_bomb_idea_lar:0 "Bombe cryptologique"
-
+ENG_admiralty_naval_staff:0 "État-major de l'Amirauté"
 
 #Events
 englandmod.99.t:0 "Archibald Wavell arrive en Inde"

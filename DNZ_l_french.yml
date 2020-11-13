@@ -133,6 +133,7 @@
  
  autonomy_mandate_city:0 "Ville mandataire"
  autonomy_free_city:0 "Ville libre"
+ autonomy_protectorate:0 "Protectorat"
 
  DNZ_commissioner_removed:0 "Commissaire de Dantzig remplacé"
 

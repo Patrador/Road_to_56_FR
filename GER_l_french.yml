@@ -420,6 +420,7 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  GER_Wilhelm_von_Gayl:0 "Wilhelm Von Gayl"
  authoritarian_centralizer:0 "Authoritarian Centralizer"
  GER_Paul_Lejeune_Jung:0 "Paul Lejeune-Jung"
+ GER_robert_knauss:0 "Robert Knauss"
  #operation_anthropoid:0 " Opération Anthropoid"
  #germany.1001:0 "Heydrich assassiné"
  #r56_ENG_operation_anthropoid:0 "Opération Anthropoid"
@@ -460,3 +461,6 @@ GER_operation_bolivar_desc:0 "Les différentes communautés d'exilés en Amériq
  GER_cede_102_to_ITA:0 "Céder Ljubljana à l'Italie"
 
  PRE_call_other_german_states:0 "Appeler les autres États allemands"
+
+ GER_naval_gunnery_r56:0 "Artillerie navale"
+ GER_naval_gunnery_r56_desc:0 "Notre flotte de surface aura besoin des plus gros canons."

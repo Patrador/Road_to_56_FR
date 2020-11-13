@@ -1,5 +1,7 @@
 ﻿l_french:
 
+ AUS_gottfried_von_banfield:0 "Gottfried von Banfield" 
+
  #POLITICS
  AUS_fascism_ideology_desc:0 "L'§Yaustrofascisme§! est le système autoritaire installé en Autriche avec la Constitution de mai 1934. Il est basé sur un parti au pouvoir, le §YFront patriotique§! (Vaterländische Front) et la milice paramilitaire §YHeimwehr§! (Garde nationale), et épouse le §Hcatholicisme d'État§!, §Gcorporatisme§! et §Mnationalisme autrichien§!."
 
@@ -397,41 +399,66 @@
  AUS_request_balkan_support:0 "Demander le soutien des Balkans"
  AUS_request_balkan_support_desc:0 "De nombreux États des Balkans en particulier ont des raisons de craindre une incursion nazie. Nous sommes le bouclier entre l'Allemagne et beaucoup d'entre eux, et nous aurons besoin de leur aide pour inverser la tendance. Nous devons faire appel à leur aide."
 
- AUS_a_red_future:0 "Un avenir rouge"
- AUS_a_red_future_desc:0 "L'Autriche a souffert de toutes sortes de gouvernements traditionnels, à la fois impériaux et démocratiques. Cependant, l'Union soviétique appelle les travailleurs du monde entier à s'engager sur une autre voie."
+##communist
 
- AUS_rise_up_fight:0 "Lève-toi, combat !"
- AUS_rise_up_fight_desc:0 "Nous avons pris des mesures pour libérer nos propres travailleurs, mais dans presque tous les pays de la planète, des masses prolétariennes opprimées sont asservies au processus capitaliste. Tout le monde doit se porter volontaire au service de l'État socialiste autrichien !"
+AUS_organise_local_raterepubliks:0 "Organiser des Räterepubliks locales"
+AUS_organise_local_raterepubliks_desc:0 ""
+AUS_continue_the_tolerant_stance:0 "Maintenir la position de tolérance"
+AUS_continue_the_tolerant_stance_desc:0 ""
+AUS_republikanischer_shutzbund_integration:0 "Intégration de la Republikanischer Schutzbund"
+AUS_republikanischer_shutzbund_integration_desc:0 ""
+AUS_rso_assistance:0 "Assistance au RSO"
+AUS_rso_assistance_desc:0 ""
+AUS_inspire_bundesheer_desertion:0 "Inspirer la désertion de la Bundesheer"
+AUS_inspire_bundesheer_desertion_desc:0 ""
+AUS_occupy_workplaces:0 "Occuper les lieux de travail"
+AUS_occupy_workplaces_desc:0 ""
+AUS_condemn_social_democracy:0 "Condamner la social-démocratie"
+AUS_condemn_social_democracy_desc:0 ""
+AUS_reproachment_for_the_7th_world_congress:0 "Reproches pour le 7e Congrès mondial"
+AUS_reproachment_for_the_7th_world_congress_desc:0 ""
+AUS_appeal_for_urgent_soviet_support:0 "Appel au soutien urgent de l'Union soviétique"
+AUS_appeal_for_urgent_soviet_support_desc:0 ""
+AUS_the_balkan_road:0 "La route des Balkans"
+AUS_the_balkan_road_desc:0 ""
+AUS_covertly_return_the_exiles:0 "Renvoyer secrètement les exilés"
+AUS_covertly_return_the_exiles_desc:0 ""
+AUS_seal_rural_workers_support:0 "Garantir le soutien aux travailleurs ruraux"
+AUS_seal_rural_workers_support_desc:0 ""
+AUS_a_new_rote_garde:0 "Rote Garde"
+AUS_a_new_rote_garde_desc:0 ""
+AUS_assassinate_schuschnigg:0 "Assassiner Schuschnigg"
+AUS_assassinate_schuschnigg_desc:0 ""
+AUS_hunt_down_the_stragglers:0 "Pourchasser les traînards"
+AUS_hunt_down_the_stragglers_desc:0 ""
+AUS_form_the_supreme_raterepublik:0 "Former la Räterepublik suprême"
+AUS_form_the_supreme_raterepublik_desc:0 ""
+AUS_disband_the_rote_garde:0 "Démanteler la Rote Garde"
+AUS_disband_the_rote_garde_desc:0 ""
+AUS_offer_rehabilitation_to_opposing_troops:0 "Offrir la réadaptation aux troupes adverses"
+AUS_offer_rehabilitation_to_opposing_troops_desc:0 ""
+AUS_a_new_volkswehr:0 "Une nouvelle Volkswehr"
+AUS_a_new_volkswehr_desc:0 ""
+AUS_membership_into_the_comintern:0 "Adhésion au Komintern"
+AUS_membership_into_the_comintern_desc:0 ""
+AUS_assist_the_allies:0 "Aider les Alliés"
+AUS_assist_the_allies_desc:0 ""
+AUS_border_preparations:0 "Préparatifs aux frontières"
+AUS_border_preparations_desc:0 ""
+AUS_liberate_red_hungarians:0 "Libérer les Hongrois rouges"
+AUS_liberate_red_hungarians_desc:0 ""
+AUS_inspire_the_SKH:0 "Inspirer le KPJ"
+AUS_inspire_the_SKH_desc:0 ""
+AUS_an_incursion_into_yugoslavia:0 "Incursion en Yougoslavie"
+AUS_an_incursion_into_yugoslavia_desc:0 ""
+AUS_demand_a_free_slovakia:0 "Exiger une Slovaquie libre"
+AUS_demand_a_free_slovakia_desc:0 "Afin de continuer à consolider notre influence sur la région, nous devrions exiger que les Tchèques se séparent de la Slovaquie, en les libérant sous un nouveau gouvernement financé et aidé par nous-mêmes !"
+AUS_break_a_stick_in_the_fasces:0 "Mettre un bâton dans les roues"
+AUS_break_a_stick_in_the_fasces_desc:0 ""
+AUS_plead_our_case_to_our_allies:0 "Plaider notre cause"
+AUS_plead_our_case_to_our_allies_desc:0 ""
 
- AUS_seek_soviet_support:0 "Chercher le soutien soviétique"
- AUS_seek_soviet_support_desc:0 "La Russie a plongé notre nation dans la boue, mais la nation russe est tombée et a remplacé l'État socialiste soviétique. Ce paradis du travailleur est un exemple pour notre pays, et leur soutien sera précieux pour assurer notre avenir."
-
- AUS_break_the_fascist_shackles:0 "Briser les chaînes fascistes"
- AUS_break_the_fascist_shackles_desc:0 "Nous avons fait des compromis avec les totalitaires allemands parce qu'ils avaient le pouvoir de nous écraser. Maintenant, cependant, avec la révolution globale de notre côté, nous pouvons nous élever ! À bas les fascistes !"
-
- AUS_request_balkan_support_sov:0 "Demander le soutien des Balkans"
- AUS_request_balkan_support_sov_desc:0 "Il doit y avoir des sympathisants communistes dans les Balkans qui feront un pas en avant quand ils seront appelés aux armes. La menace fasciste doit être traitée - les communistes des Balkans, unissez-vous !"
-
- AUS_destroy_the_horthy_fascists:0 "Détruire les fascistes Horthy"
- AUS_destroy_the_horthy_fascists_desc:0 "Miklos Horthy dirige la Hongrie sans compromis depuis seize ans. Ce ne le sera plus. Nous allons le prendre pour tâche pour ce qu'il a fait, que nous utilisions ou non des armes !"
-
- AUS_free_the_italian_workers:0 "Libérer les ouvriers italiens"
- AUS_free_the_italian_workers_desc:0 "Mussolini a terrassé tous les Italiens sous son talon et les a utilisés comme de simples outils pour construire une machine de guerre afin d’étendre son règne. Nous allons réparer l'erreur de son accession au pouvoir."
-
- AUS_the_balkan_revolution:0 "La révolution balkanique"
- AUS_the_balkan_revolution_desc:0 "Nos frères travailleurs des pays des Balkans n'ont pas encore pris les armes au service de leurs propres frères. Tout simplement, nous avons le pouvoir de les libérer - un pouvoir que nous devons utiliser si nous voulons nous appeler fièrement communistes."
-
- AUS_war_against_the_stalinists:0 "Guerre contre les Staliniens"
- AUS_war_against_the_stalinists_desc:0 "L'État stalinien est en train de pourrir à la base, avec une base industrielle puissante mais pas de nourriture ni de commodités pour la population. Nous avons entendu dire à quel point ils souffrent - le communisme soviétique a échoué. Il est temps de mettre fin à l'enfer du travailleur soviétique."
-
- AUS_fund_the_french_revolution:0 "Financer la révolution française"
- AUS_fund_the_french_revolution_desc:0 "La France a imposé de terribles sanctions à notre nation et à toutes les puissances centrales à la fin de la Grande Guerre, mais elles en ont souffert depuis la fin de la Grande Guerre. Le sentiment communiste en France est à son plus haut niveau ; nous devons soutenir cela."
-
- AUS_start_the_french_revolution:0 "Commencer la révolution française"
- AUS_start_the_french_revolution_desc:0 "Nous avons pris des mesures pour assurer l'avenir de la France en tant qu'État favorable aux travailleurs, mais il semble que le pouvoir en place n'écoute pas ce que veulent les citoyens. Voilà pour la démocratie. Nous devons aider le peuple français dans sa révolution le plus tôt possible !"
-
- AUS_the_polish_revolution:0 "La révolution polonaise"
- AUS_the_polish_revolution_desc:0 "La Pologne s'est révélée incapable de prendre soin de ses propres terres. Entre les fascistes à l’ouest et les communistes à l’est, la voie à suivre pour leur avenir est claire. Nous pouvons agir pour les guider."
+AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
 
 ### ROYALIST SECTION ###
 
@@ -614,6 +641,14 @@
  AUS_romanian_nationalists:0 "Nationalistes roumains"
  AUS_romanian_nationalists_2:0 "Nationalistes roumains"
  AUS_empire_reformed:0 "Empire réformé"
+ AUS_raterepubliks:0 "Räterepubliks locales"
+ AUS_republikanischer_shutzbund:0 "Restes de la Republikanischer Schutzbund"
+ AUS_rso_manpower:0 "Réserves du RSO"
+ AUS_internationale_diktats:0 "Dictature internationale"
+ AUS_rote_garde:0 "Rote Garde"
+ AUS_raterepubliks2:0 "Une Räterepublik suprême"
+ AUS_rote_garde2:0 "Une armée professionnelle"
+ AUS_rote_garde3:0 "Rote Garde"
  
  AUS_ernst_rudiger_starhemberg:0 "Ernst Rüdiger Starhemberg"
  AUS_ernst_kaltenbrunner:0 "Ernst Kaltenbrunner"
@@ -621,6 +656,14 @@
  AUS_otto_von_habsburg:0 "Otto von Habsburg"
  AUS_wilhelm_miklas:0 "Wilhelm Miklas"
  AUS_alfred_jansa:0 "Alfred Jansa"
+ AUS_johann_koplenig:0 "Johann Koplenig"
+ AUS_bruno_frei:0 "Bruno Frei"
+ AUS_ernst_fischer:0 "Ernst Fischer"
+ AUS_ernst_fabri:0 "Ernst Fabri"
+ AUS_lucien_laurat:0 "Lucien Laurat"
+
+ AUS_exiles_returned:0 "Les communistes exilés sont de retour"
+ AUS_anti_stalin:0 "Une position plus tolérante a été adoptée"
  
  AUS_german_aero_tech:0 "Modèles d'avions allemands"
  AUS_german_aero_tech_desc:0 "Nos alliés allemands nous ont donné accès à leurs plus récents modèles d'avion."
@@ -1260,6 +1303,40 @@
  austria.5023.t:0 "La Yougoslavie a cédé la Slovénie"
  austria.5023.d:0 "Le gouvernement yougoslave, que ce soit par crainte d'un conflit armé ou simplement parce qu'il s'est rendu compte que la terre ne lui appartenait pas de droit, a accepté nos demandes pour la Slovénie."
  austria.5023.a:0 "Une province de l'Empire une fois de plus !"
+
+ austria.5034.t:0 "L'assassinat de Kurt Schuschnigg"
+ austria.5034.d:0 "Selon une déclaration officielle du gouvernement autrichien, le Chancelier Kurt Schuschnigg a été assassiné plus tôt ce matin.\n\nOn ne sait toujours pas comment le meurtre s'est déroulé, mais des sources indiquent qu'un sympathisant communiste a réussi à se faufiler dans sa résidence privée et à lui tendre une embuscade avec un piolet. Jusqu'à présent, aucun lien entre lui et des groupes politiques organisés n'a pu être établi, mais le fait qu'il se soit suicidé en prenant des pilules de cyanure cachées lors de sa capture laisse présager une aide extérieure.\n\nUn certain nombre de dirigeants communistes influents ont célébré ouvertement la mort de Schushnigg. Des marches de célébration suivies de violentes émeutes ont éclaté à Vienne, et il est devenu évident que la violence politique n'est plus interdite. Les observateurs étrangers craignent une escalade rapide menant à quelque chose de bien pire, car l'Autriche se retrouve maintenant sans une figure anticommuniste inébranlable au plus haut niveau."
+ austria.5034.a:0 "Mort aux oppresseurs !"
+
+ austria.5035.t:0 "Déserteurs de la Bundesheer"
+ austria.5035.d:0 ""
+ austria.5035.a:0 "Bien."
+
+ austria.5036.t:0 "Généraux sociaux-démocrates"
+ austria.5036.d:0 ""
+ austria.5036.a:0 "Bien."
+
+ austria.5037.t:0 "L'Autriche exige une Slovaquie libre"
+ austria.5037.d:0 "L'Autriche a exigé que nous déclarions la Slovaquie comme un État indépendant, une telle démarche permettra sûrement aux Autrichiens de faire entrer la Slovaquie dans leur sphère d'influence, mais c'est sûrement préférable à une éventuelle guerre ?"
+ austria.5037.a:0 "Nous ferons à contrecœur ce qu'ils nous demandent"
+ austria.5037.b:0 "Ils demandent l'impossible, nous ne le ferons pas"
+
+ austria.5038.t:0 "La Tchécoslovaquie se sépare de la Slovaquie"
+ austria.5038.d:0 "La République tchèque s'est séparée de la Slovaquie, un gouvernement ami a déjà pris ses fonctions. Il ne nous reste plus qu'à les attirer dans notre sphère."
+ austria.5038.a:0 "Merveilleuses nouvelles."
+
+ austria.5039.t:0 "La Tchécoslovaquie a refusé notre demande"
+ austria.5039.d:0 "La Tchécoslovaquie a refusé notre demande, nous sommes maintenant à un tournant de notre histoire dans ce que nous devons faire face à cette situation."
+ austria.5039.a:0 "Ils nous ont poussé à bout, nous n'avons plus le choix"
+ austria.5039.b:0 "Retirez les troupes, il n'y aura pas de guerre cette année"
+
+ austria.5040.t:0 "Les Italiens acceptent notre proposition d'intervention"
+ austria.5040.d:0 "Désireux de sauver son pays contre le fascisme républicain, [ITA.GetLeaderName] a accepté de concéder des terres en échange d'une victoire garantie dans la guerre civile."
+ austria.5040.a:0 "Nous sommes en guerre."
+
+ austria.5041.t:0 "Les Italiens ont refusé"
+ austria.5041.d:0 "Prêt à tout parier sur leur victoire, [ITA.GetLeaderName] a refusé notre proposition de donner certaines terres en échange d'une aide dans leur guerre civile."
+ austria.5041.a:0 "Nous sommes en guerre." 
  
  #Research
  AUS_support_weapons:0 "Schwarlose M. 7"
@@ -1308,3 +1385,14 @@
  AUS_try_to_recruit_czech_officers:0 "Essayer de recruter des officiers Tchèques"
  AUS_try_to_recruit_croat_officers:0 "Essayer de recruter des officiers Croates" 
  AUS_try_to_recruit_german_officers:0 "Essayer de recruter des officiers Allemands"
+
+ ##misc
+
+ anti_moscow_comm:0 "A désobéi à la ligne internationale soviétique"
+ AUS_sov_relations:0 "§RCela augmentera considérablement les relations avec Moscou et garantira leur soutien dans notre tentative de renverser le gouvernement, cependant, une telle aide n'est pas gratuite !§!\n"
+ AUS_desertion:0 "§RAvec les soldats qui désertent la Bundesheer, notre nombre de membres désireux de se battre pour leur liberté a augmenté.§!\n"
+ AUS_desertion2:0 "§YDès le début de la guerre civile, nous gagnerons§! §G3§! §Yunités supplémentaires !§!\n"
+ AUS_purged_minister:0 "§RMinistère purgé§!\n"
+ AUS_purged_ministers_tt:0 "§RNous allons traquer et arrêter tous les agitateurs de droite du gouvernement précédent.§!\n"
+
+ AUS_bunkers_1:0 "Préparatifs aux frontières"
