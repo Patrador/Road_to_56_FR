@@ -13,6 +13,8 @@
  ALB_fascism_DEF:0 "le Grand Royaume d'Albanie"
  ALB_neutrality:0 "Royaume d'Albanie"
  ALB_neutrality_DEF:0 "le Royaume d'Albanie"
+ ALB_communism:0 "République socialiste populaire d'Albanie"
+ ALB_communism_DEF:0 "la République socialiste populaire d'Albanie"
 
  #AFG
  AFG_fascism:0 "Khanat afghan"
@@ -113,9 +115,10 @@
  AZR_communism_DEF:1 "la République socialiste soviétique d'Azerbaïdjan"
 
  #ADU
- ADU_neutrality:0 "Islamic Republic of Al-Andalus"
- ADU_neutrality_DEF:0 "the Islamic Republic of Al-Andalus"
- ADU_communism_DEF:0 "the People's Republic of Andalusia"
+ ADU_neutrality:0 "République islamique d'Al-Andalus"
+ ADU_neutrality_DEF:0 "la République islamique d'Al-Andalus"
+ ADU_communism_DEF:0 "la République populaire d'Andalousie"
+ ADU_ADJ:0 "andalou"
 
  #BAY
  BAY_communism:0 "République du conseil bavarois"
@@ -327,7 +330,8 @@
  CAR_communism_ADJ:0 "centrafricain"
 
  #CAT
- CAT_democratic_DEF:0 "la République libre catalane"
+ CAT_democratic:0 "République catalane"
+ CAT_democratic_DEF:0 "la République catalane"
  CAT_neutrality:0 "République catalane"
  CAT_neutrality_DEF:0 "la République catalane"
  CAT_communism:0 "République populaire catalane"
@@ -338,6 +342,7 @@
  #CAM
  CAM_fascism:0 "Empire khmer"
  CAM_fascism_DEF:0 "l'Empire khmer"
+ CAM_fascism_ADJ:0 "khmer"
 
  #CAN
  CAN_fascism:0 "Fédération canadienne unie"
@@ -500,8 +505,8 @@
  CZE_communism_DEF:0 "la République socialiste de Tchécoslovaquie"
  CZE_fascism:0 "État tchécoslovaque"
  CZE_fascism_DEF:0 "l'État tchécoslovaque"
- CZE_democratic:0 "Tchécoslovaquie"
- CZE_democratic_DEF:0 "la Tchécoslovaquie"
+ CZE_democratic:0 "République tchécoslovaque"
+ CZE_democratic_DEF:0 "la République tchécoslovaque"
 
  #CYP
  CYP_fascism:1 "Royaume hellénique de Chypre"
@@ -717,6 +722,7 @@
  #EST
  EST_fascism:0 "Suur-Eesti Riik"
  EST_fascism_DEF:0 "le Suur-Eesti Riik"
+ EST_fascism_ADJ:0 "Suur-Eesti"
  EST_neutrality:0 "République d'Estonie"
  EST_neutrality_DEF:0 "la République d'Estonie"
  EST_democratic:0 "République d'Estonie"
@@ -888,16 +894,16 @@
  GHA_communism_ADJ:0 "ghanéen"
 
  #GRE
- GRE_fascism:0 "Royaume de Grèce"
- GRE_fascism_DEF:0 "le Royaume de Grèce"
- GRE_democratic:0 "Royaume de Grèce"
- GRE_democratic_DEF:0 "le Royaume de Grèce"
+ GRE_fascism:0 "Union nationale hellénique"
+ GRE_fascism_DEF:0 "l'Union nationale hellénique"
+ GRE_democratic:0 "République hellénique"
+ GRE_democratic_DEF:0 "la République hellénique"
  GRE_neutrality:0 "Royaume de Grèce"
  GRE_neutrality_DEF:0 "le Royaume de Grèce"
  GRE_communism:0 "République socialiste héllenique"
  GRE_communism_DEF:0 "la République socialiste héllenique"
- GRE_fascism_ADJ:0 "grec"
- GRE_democratic_ADJ:0 "grec"
+ GRE_fascism_ADJ:0 "hellénique"
+ GRE_democratic_ADJ:0 "hellénique"
  GRE_neutrality_ADJ:0 "grec"
  GRE_communism_ADJ:0 "héllenique"
 
@@ -1314,8 +1320,8 @@
  LIT_neutrality_DEF:0 "la République de Lituanie"
  LIT_democratic:0 "République de Lituanie"
  LIT_democratic_DEF:0 "la République de Lituanie"
- LIT_communism:0 "RSS Lituanienne"
- LIT_communism_DEF:0 "la RSS Lituanienne"
+ LIT_communism:0 "République socialiste soviétique lituanienne"
+ LIT_communism_DEF:0 "la République socialiste soviétique lituanienne"
  LIT_fascism_ADJ:0 "lituanien"
  LIT_neutrality_ADJ:0 "lituanien"
  LIT_democratic_ADJ:0 "lituanien"
@@ -1611,6 +1617,8 @@
  NIC_fascism_DEF:0 "l'Union nationale du Nicaragua"
  NIC_communism:0 "République populaire internationaliste du Nicaragua"
  NIC_communism_DEF:0 "la République populaire internationaliste du Nicaragua"
+ NIC_neutrality:0 "République du Nicaragua"
+ NIC_neutrality_DEF:0 "la République du Nicaragua"
 
  #NEP
  NEP_fascism:0 "Empire Gurkha"
@@ -1768,8 +1776,8 @@
  #PRS
  PRS_fascism:0 "État libre de Prusse"
  PRS_fascism_DEF:0 "l'État libre de Prusse"
- PRS_democratic:0 "République de Prusse"
- PRS_democratic_DEF:0 "la République de Prusse"
+ PRS_democratic:0 "République prussienne"
+ PRS_democratic_DEF:0 "la République prussienne"
  PRS_neutrality:0 "Royaume de Prusse"
  PRS_neutrality_DEF:0 "le Royaume de Prusse"
  PRS_communism:0 "République populaire de Prusse"
@@ -2119,9 +2127,6 @@
  SZK_fascism_ADJ:0 "sicule"
  SZK_democratic_ADJ:0 "sicule"
  SZK_neutrality_ADJ:0 "sicule"
- SZK_ROM_autonomy_puppet:0 "Pays sicule autonome"
- SZK_HUN_autonomy_puppet:0 "Hongrie mineure autonome"
- SZK_SOV_communism_autonomy_puppet:0 "RSS du Pays sicule"
 
  #SZL
  SZL_neutrality:0 "Royaume du Swaziland"
@@ -2278,20 +2283,6 @@
  #UAE
  UAE_fascism:1 "Émirats arabes unis"
  UAE_fascism_DEF:1 "les Émirats arabes unis"
- 
- #UFC
- UFC_communism:0 "République socialiste bananière"
- UFC_communism_ADJ:0 "bananier"
- UFC_communism_DEF:0 "la République socialiste bananière"
- UFC_democratic:0 "République bananière"
- UFC_democratic_ADJ:0 "bananier"
- UFC_democratic_DEF:0 "la République bananière"
- UFC_fascism:0 "Empire bananier"
- UFC_fascism_ADJ:0 "bananier"
- UFC_fascism_DEF:0 "l'Empire bananier"
- UFC_neutrality:0 "Empire bananier"
- UFC_neutrality_ADJ:0 "bananier"
- UFC_neutrality_DEF:0 "Empire bananier"
 
  #UKR
  UKR_fascism:0 "État ukrainien"
@@ -2540,6 +2531,15 @@
  NKR_communism:0 "République populaire démocratique de Corée"
  NKR_communism_DEF:0 "la République populaire démocratique de Corée"
  NKR_communism_ADJ:0 "nord-coréen"
+ NKR_democratic:0 "République de Corée du Nord"
+ NKR_democratic_DEF:0 "la République de Corée du Nord"
+ NKR_democratic_ADJ:0 "nord-coréen"
+ NKR_fascism:0 "État coréen"
+ NKR_fascism_DEF:0 "l'État coréen"
+ NKR_fascism_ADJ:0 "nord-coréen"
+ NKR_neutrality:0 "République de Corée du Nord"
+ NKR_neutrality_DEF:0 "la République de Corée du Nord"
+ NKR_neutrality_ADJ:0 "nord-coréen"
 
  #NZL
  NZL_fascism:0 "Nation libre de Nouvelle-Zélande"

@@ -271,12 +271,30 @@ euskalduna:0 "Euskalduna"
  
  SPR_tallares_mecanicos_y_garaje:0 "Talleres Mecánicos y Garaje RAG S.A."
 
-  #used in DLC tree for now
-  SPR_naval_design_bureau:0 "Bureau de conception navale"
-  SPR_naval_design_bureau_desc:0 "Rassembler les ingénieurs pour créer le Bureau de conception navale permettra aux meilleurs esprits de repenser l'équipement de notre marine."
-  SPR_naval_equipment:0 "Équipement naval"
-  SPR_naval_equipment_desc:0 "Pour que la marine républicaine soit prête à faire face aux menaces de notre époque, nous devons améliorer les équipements fournis à notre marine."
-  SPA_naval_equipment:0 "Équipement naval"
-  SPA_naval_equipment_desc:0 "La nouvelle marine a besoin des équipements les plus modernes afin de pouvoir défier ses rivaux. Revigorons l'Armada."
-  SPA_equip_the_new_armada:0 "Équiper la nouvelle Armada"
-  SPA_equip_the_new_armada_desc:0 "La nouvelle marine a besoin des équipements les plus modernes afin de pouvoir défier ses rivaux. Revigorons l'Armada."
+ #used in DLC tree for now
+ SPR_naval_design_bureau:0 "Bureau de conception navale"
+ SPR_naval_design_bureau_desc:0 "Rassembler les ingénieurs pour créer le Bureau de conception navale permettra aux meilleurs esprits de repenser l'équipement de notre marine."
+ SPR_naval_equipment:0 "Équipement naval"
+ SPR_naval_equipment_desc:0 "Pour que la marine républicaine soit prête à faire face aux menaces de notre époque, nous devons améliorer les équipements fournis à notre marine."
+ SPA_naval_equipment:0 "Équipement naval"
+ SPA_naval_equipment_desc:0 "La nouvelle marine a besoin des équipements les plus modernes afin de pouvoir défier ses rivaux. Revigorons l'Armada."
+ SPA_equip_the_new_armada:0 "Équiper la nouvelle Armada"
+ SPA_equip_the_new_armada_desc:0 "La nouvelle marine a besoin des équipements les plus modernes afin de pouvoir défier ses rivaux. Revigorons l'Armada."
+
+ SPA_spanish_austrian_diplomatic_unity:0 "Unité diplomatique hispano-autrichienne"
+ SPA_spanish_austrian_diplomatic_unity_desc:0 "Bien que les couronnes d'Autriche et d'Espagne ne soient plus liées de manière dynastique depuis le début du XVIIIe siècle, les menaces du monde moderne soulignent clairement la nécessité d'une alliance forte des monarques d'Europe."
+
+ SPA_r56_spanish_austrian_diplomatic_unity:0 "Unité diplomatique hispano-autrichienne"
+ SPA_r56_spanish_austrian_diplomatic_unity_desc:0 "Bien que les couronnes d'Autriche et d'Espagne ne soient plus liées de manière dynastique depuis le début du XVIIIe siècle, les menaces du monde moderne soulignent clairement la nécessité d'une alliance forte des monarques d'Europe."
+
+ SPA_alliance_with_the_kaiserreich:0 "Alliance avec le Kaiserreich"
+ SPA_alliance_with_the_kaiserreich_desc:0 "Le retour des Hohenzollern sur le trône d'Allemagne offre l'opportunité de rejoindre leur alliance afin de défendre le droit divin de régner." 
+ 
+ SPA_carlist_diplomacy:0 "Diplomatie carliste"
+ SPA_carlist_diplomacy_desc:0 "Nous devons trouver des alliés dans ce monde en constante évolution, afin de pouvoir rester fermes sur notre trône." 
+
+ SPA_r56_alliance_with_the_kaiserreich:0 "Alliance avec le Kaiserreich"
+ SPA_r56_alliance_with_the_kaiserreich_desc:0 "Le retour des Hohenzollern sur le trône d'Allemagne offre l'opportunité de rejoindre leur alliance afin de défendre le droit divin de régner." 
+ 
+ SPA_r56_carlist_diplomacy:0 "Diplomatie carliste"
+ SPA_r56_carlist_diplomacy_desc:0 "Nous devons trouver des alliés dans ce monde en constante évolution, afin de pouvoir rester fermes sur notre trône." 

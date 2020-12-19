@@ -11,4 +11,9 @@ targeted_assassinate_division_commander:0 "Cibler le général"
 targeted_assassinate_division_commander_desc:0 "Il n'y a pas de meilleur moyen de désorganiser une division que d'en décapiter la tête. Cela démoralisera les troupes et obligera l'armée [FROM.GetAdjFS] à nommer un remplaçant moins expérimenté."
 targeted_assassinate_divison_commander_outcome:0 "En utilisant la furtivité et la surprise, des grenades ont été lancées dans la voiture du commandant, suivies de tirs supplémentaires afin de disperser les poursuivants."
 targeted_attack_theater_outcome:0 "C'était rapide, bref. Nos agents attendaient la voiture du commandant. Quelques grenades, quelques balles et c'était fait."
-operation_outcome_officers_assassinated_tt:0 "Un [FROM.GetNameWithFlag] §Ycommandant§! menant des divisions obtiendra le trait §YBléssé§! pendant §Y90 jours§!"
+operation_outcome_officers_assassinated_tt:0 "Un [FROM.GetNameWithFlag] §Ycommandant§! aléatoire menant des divisions obtiendra le trait §YBléssé§! pendant §Y90 jours§!"
+
+operation_targeted_plant_false_new_order_intel:0 "Fausse carte allemande"
+operation_targeted_plant_false_new_order_intel_desc:0 "En forçant la découverte d'une fausse carte censée représenter les plans allemands pour l'hémisphère occidental, nous pouvons irriter [USA.GetLeader] et l'obliger à adopter une position plus ferme à l'égard [GER.GetDuDelaDelNP] [GER.GetName]."
+
+operation_outcome_new_order_map_planted_tt:0 "§Y[FROM.GetNameWithFlag]§! obtiendra §G+5%§! de soutien à la guerre et diminuera son opinion sur §Y[GER.GetNameDef]§!!"

@@ -132,6 +132,8 @@
  #-> SOV: Russia <><>
  RULE_OPTION_ANTI_CAPITALIST_DIPLOMACY:0 "Diplomatie anticapitaliste"
  RULE_OPTION_ANTI_CAPITALIST_DIPLOMACY_SOV_AI_DESC:0 "L'Union soviétique ignorera la menace fasciste et sapera les grandes puissances capitalistes. Tout en recherchant une expansion agressive en Chine et au Moyen-Orient."
+ RULE_OPTION_WORLD_REVOLUTION:0 "Révolution mondiale trotskiste"
+ RULE_OPTION_ANTI_WORLD_REVOLUTION_SOV_AI_DESC:0 "L'Union soviétique va essayer de ramener Trotsky et de terminer la branche de la révolution mondiale."
  
  #-> SWE: Sweden <><>
  SWE_AI_BEHAVIOR:0 "@SWE Suède"
@@ -194,6 +196,8 @@
  RULE_OPTION_SPR_15TH_CENTURY_ARAGON:0 "Aragon du XVe siècle"
  RULE_OPTION_SPR_15TH_CENTURY_ARAGON_DESC:0 "La Catalogne contrôlera le sud de l'Italie, pour jouer la Catalogne, cliquez sur Espagne."
  RULE_OPTION_SPR_DECENTRALIZED_DESC:0 "Toutes les nations libérables en Espagne sont libérées en tant que nations fantoches dès le début de la partie."
+ RULE_OPTION_SPR_ANDALUSIA:0 "Al-Andalus"
+ RULE_OPTION_SPR_ANDALUSIA_DESC:0 "Pour jouer Al-Andalus, sélectionner l'Espagne"
  FRA_FRAGMENTATION_STATUS:0 "@FRA Division de la France métropolitaine"
  RULE_OPTION_FRA_FRAGMENTED:0 "France divisée"
  RULE_OPTION_FRA_FRAGMENTED_DESC:0 "Toutes les nations libérables en France métropolitaine sont libérées en tant que nations libres et indépendantes dès le début de la partie."

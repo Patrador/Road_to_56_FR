@@ -464,3 +464,5 @@ GER_operation_bolivar_desc:0 "Les différentes communautés d'exilés en Amériq
 
  GER_naval_gunnery_r56:0 "Artillerie navale"
  GER_naval_gunnery_r56_desc:0 "Notre flotte de surface aura besoin des plus gros canons."
+
+ r56_GER_decision_promote_hans_von_luck:0 "Promouvoir Hans von Luck"

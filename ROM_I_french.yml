@@ -19,3 +19,27 @@ ROM_alexandru_ioanitiu:0 "Alexandru Ioanitiu"
 ROM_florea_tenescu:0 "Florea Tenescu"
 
 ROM_eugeniu_rosca:0 "Eugeniu Roșca"
+ROM_petre_barbuneanu:0 "Petre Bărbuneanu"
+
+ROM_claim_debar:0 "Revendiquer Debar"
+ROM_claim_mitrovica:0 "Revendiquer Mitrovica"
+ROM_claim_west_sandzak:0 "Revendiquer le Sandzak occidental"
+ROM_claim_banja_luka:0 "Revendiquer Banja Luka"
+ROM_claim_kvarner:0 "Revendiquer le Kvarner"
+ROM_claim_slavonia:0 "Revendiquer la Slavonie"
+ROM_claim_syrmia:0 "Revendiquer la Syrmie"
+ROM_claim_prekmurje:0 "Revendiquer le Prekmurje"
+ROM_claim_lower_styria:0 "Revendiquer Basse-Styrie"
+ROM_claim_herzegovina:0 "Revendiquer l'Herzégovine"
+
+DOD_romania.800.t:0 "[BUL.getLeader] exige la Macédoine"
+DOD_romania.800.desc:0 "Alors que le pays était un spectateur dans les négociations menant au démantèlement de la Yougoslavie, le gouvernement bulgare demande le contrôle de la Macédoine, arguant que la population est ethniquement bulgare et que ce serait un signe de bonne volonté."
+DOD_romania.800.a:0 "Très bien"
+DOD_romania.800.b:0 "Demander un contrôle exclusif sur les mines"
+DOD_romania.800.c:0 "Nous gardons ce que nous venons de gagner."
+
+
+DOD_romania.801.t:0 "[BUL.getLeader] exige les territoires albanais"
+DOD_romania.801.desc:0 "Alors que le pays était un spectateur dans les négociations qui ont conduit au démantèlement de la Yougoslavie, le gouvernement bulgare demande le contrôle des territoires qu'il juge être occupés par des populations d'origine albanaise. Ils font valoir que ce serait un signe de bonne volonté et qu'il serait plus facile d'obtenir la bonne volonté de la population."
+DOD_romania.801.a:0 "Très bien"
+DOD_romania.801.b:0 "Nous gardons ce que nous venons de gagner."

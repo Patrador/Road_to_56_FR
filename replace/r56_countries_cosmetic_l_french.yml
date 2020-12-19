@@ -73,9 +73,9 @@
  AUSHUN_communism:0 "Association des États autonomes danubiens"
  AUSHUN_communism_ADJ:0 "danubien"
  AUSHUN_communism_DEF:0 "l'Association des États autonomes danubiens"
- AUSHUN_democratic:0 "Confédération du Danube"
+ AUSHUN_democratic:0 "Fédération du Danube"
  AUSHUN_democratic_ADJ:0 "danubien"
- AUSHUN_democratic_DEF:0 "la Confédération du Danube"
+ AUSHUN_democratic_DEF:0 "la Fédération du Danube"
 
  #AHV
  AHV_subject:0 "Territoire $OVERLORDADJ$ autonome d'Åland"
@@ -503,6 +503,20 @@
  CRCA_neutrality:0 "République d'Amérique centrale"
  CRCA_neutrality_ADJ:0 "centramericain"
  CRCA_neutrality_DEF:0 "la République d'Amérique centrale"
+ #United Fruit Company
+ UFC_democratic:0 "République bananière"
+ UFC_democratic_ADJ:0 "bananier"
+ UFC_democratic_DEF:0 "la République bananière"
+ UFC_fascism:0 "Empire bananier"
+ UFC_fascism_ADJ:0 "bananier"
+ UFC_fascism_DEF:0 "l'Empire bananier"
+ UFC_neutrality:0 "Empire bananier"
+ UFC_neutrality_ADJ:0 "bananier"
+ UFC_neutrality_DEF:0 "l'Empire bananier"
+ #Kingdom
+ HON_kingdon_neutrality:0 "Royaume du Honduras"
+ HON_kingdon_neutrality_ADJ:0 "hondurien"
+ HON_kingdon_neutrality_DEF:0 "le Royaume du Honduras"
  #New Spain
  NEWSPA_communism:0 "Union des Républiques socialistes soviétiques centraméricaines du Nord"
  NEWSPA_communism_ADJ:0 "centraméricain du nord"
@@ -516,16 +530,14 @@
  NEWSPA_neutrality:0 "Vice-royauté de Nouvelle-Espagne"
  NEWSPA_neutrality_ADJ:0 "néo-espagnol"
  NEWSPA_neutrality_DEF:0 "la Vice-royauté de Nouvelle-Espagne"
- #Kingdom
- HON_kingdon_neutrality:0 "Royaume du Honduras"
- HON_kingdon_neutrality_ADJ:0 "hondurien"
- HON_kingdon_neutrality_DEF:0 "le Royaume du Honduras"
  
  #HUN
  HUN_EMPIRE_neutrality:0 "Empire austro-hongrois"
  HUN_EMPIRE_neutrality_DEF:0 "l'Empire austro-hongrois"
  HUN_EMPIRE_communism:0 "Association des États autonomes danubiens"
  HUN_EMPIRE_communism_DEF:0 "l'Association des États autonomes danubiens"
+ HUN_EMPIRE_democratic:0 "Fédération du Danube"
+ HUN_EMPIRE_democratic_DEF:0 "la Fédération du Danube"
  HUN_EMPIRE_ADJ:0 "austro-hongrois"
  HUN_EMPIRE_communism_ADJ:0 "danubien"
  HUN_EMPIRE_democratic_ADJ:0 "danubien"
@@ -543,16 +555,16 @@
  #SCA_UNIFIED
  SCA_UNIFIED_democratic:0 "Fédération scandinave"
  SCA_UNIFIED_democratic_DEF:0 "la Fédération scandinave"
- SCA_UNIFIED_fascism:0 "Union de Kalmar renaissante"
- SCA_UNIFIED_fascism_DEF:0 "l'Union de Kalmar renaissante"
+ SCA_UNIFIED_fascism:0 "État scandinave"
+ SCA_UNIFIED_fascism_DEF:0 "l'État scandinave"
  SCA_UNIFIED_communism:0 "Union scandinave des États socialistes"
  SCA_UNIFIED_communism_DEF:0 "l'Union scandinave des États socialistes"
  SCA_UNIFIED_ADJ:0 "scandinave"
  SCA_UNIFIED_fascism_ADJ:0 "kalmar"
  
  #SCA
- SCA_fascism:0 "Union de Kalmar renaissante"
- SCA_fascism_DEF:0 "l'Union de Kalmar renaissante"
+ SCA_fascism:0 "État scandinave"
+ SCA_fascism_DEF:0 "l'État scandinave"
  SCA_democratic:0 "Fédération scandinave"
  SCA_democratic_DEF:0 "la Fédération scandinave"
  SCA_neutrality:0 "Fédération scandinave"
@@ -630,6 +642,10 @@
  SPR_R56SPRNAT_fascism:0 "Espagne nationaliste"
  SPR_R56SPRNAT_fascism_DEF:0 "l'Espagne nationaliste"
  SPR_R56SPRNAT_fascism_ADJ:0 "nationaliste"
+ SPR_Juan_democratic:0 "Royaume d'Espagne"
+ SPR_Juan_democratic_def:0 "le Royaume d'Espagne"
+ SPR_Juan_neutrality:0 "Royaume d'Espagne"
+ SPR_Juan_neutrality_def:0 "le Royaume d'Espagne"
  
  #SWI
  SWI_old_confederacy_neutrality:0 "Confédération suisse"
@@ -669,6 +685,14 @@
  SWI_alamannia_communism_ADJ:0 "alaman"
  SWI_alamannia_communism_DEF:0 "les Cantons confédérés des travailleurs alamans"
  
+ #SZK
+ SZK_ROM_autonomy_puppet:0 "État autonome du Pays sicule"
+ SZK_ROM_autonomy_puppet_DEF:0 "l'État autonome du Pays sicule"
+ SZK_HUN_autonomy_puppet:0 "État autonome de la Petite Hongrie"
+ SZK_HUN_autonomy_puppet_DEF:0 "l'État autonome de la Petite Hongrie"
+ SZK_SOV_communism:0 "République socialiste soviétique sicule"
+ SZK_SOV_communism_DEF:0 "la République socialiste soviétique sicule"
+ 
  #SPQR
  SPQR_UNIFIED_communism:0 "Res Publica Proletariorum Romanorum"
  SPQR_UNIFIED_communism_DEF:0 "Res Publica Proletariorum Romanorum"
@@ -700,17 +724,17 @@
  ROYAUSHUN_communism:0 "Association des États autonomes danubiens"
  ROYAUSHUN_communism_ADJ:0 "danubien"
  ROYAUSHUN_communism_DEF:0 "l'Association des États autonomes danubiens"
- ROYAUSHUN_democratic:0 "Confédération danubienne"
+ ROYAUSHUN_democratic:0 "Fédération du Danube"
  ROYAUSHUN_democratic_ADJ:0 "danubien"
- ROYAUSHUN_democratic_DEF:0 "la Confédération danubienne"
+ ROYAUSHUN_democratic_DEF:0 "la Fédération du Danube"
  
  #RUT
- RUT2_fascism:0 "Ukraine"
- RUT2_fascism_DEF:0 "l'Ukraine"
+ RUT2_fascism:0 "État ukrainien"
+ RUT2_fascism_DEF:0 "l'État ukrainien"
  RUT2_democratic:0 "République d'Ukraine"
  RUT2_democratic_DEF:0 "la République d'Ukraine"
- RUT2_neutrality:0 "Ukraine"
- RUT2_neutrality_DEF:0 "l'Ukraine"
+ RUT2_neutrality:0 "République d'Ukraine"
+ RUT2_neutrality_DEF:0 "la République d'Ukraine"
  RUT2_communism:1 "République socialiste d'Ukraine"
  RUT2_communism_DEF:1 "la République socialiste d'Ukraine"
  RUT2_fascism_ADJ:0 "ukrainien"
@@ -949,8 +973,8 @@
  NOR_KINGDOM_communism_DEF:0 "l'État soviétique de Norvège"
  
  #NDC
- NDC_UNIFIED_fascism:0 "Union de Kalmar renaissante"
- NDC_UNIFIED_fascism_DEF:0 "l'Union de Kalmar renaissante"
+ NDC_UNIFIED_fascism:0 "Empire nordique"
+ NDC_UNIFIED_fascism_DEF:0 "l'Empire nordique"
  NDC_UNIFIED_democratic:1 "Ligue nordique"
  NDC_UNIFIED_democratic_DEF:1 "la Ligue nordique"
  NDC_UNIFIED_communism:0 "Union nordique des États socialistes"

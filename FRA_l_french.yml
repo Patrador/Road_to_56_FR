@@ -8,6 +8,8 @@
  FRA_fascism_party2_long:0 "Parti populaire français"
  FRA_fascism_party3:0 "CSAR"
  FRA_fascism_party3_long:0 "Comité secret d'action révolutionnaire"
+ FRA_rnp_long:0 "Rassemblement national populaire"
+ FRA_rnp:0 "RNP"
 
  FRA_payment_for_bombers:0 "Paiement pour les bombardiers"
 
@@ -623,6 +625,8 @@
  FRA_napoleon_iii_legacy_desc:0 "Une Italie unie n'existerait pas sans l'aide de Napoléon III. Nous devrions tendre une main amicale aux Italiens et nous allier ensemble pour le plus grand bien."
  FRA_anti_german_front:0 "Front anti-allemand"
  FRA_anti_german_front_desc:0 "L'Allemagne a toujours été l'ennemi naturel de la France et il ne faudra pas longtemps pour qu'elle entraîne l'Europe dans une nouvelle guerre brutale. Nous devrions créer un front uni contre l'agression allemande avec d'autres nations européennes partageant les mêmes idées."
+ FRA_chantilly_accord:0 "Accords de Chantilly"
+
 
  FRA_support_the_legitimatises:0 "Soutenir les Légitimistes"
  FRA_support_the_legitimatises_desc:0 "Depuis la révolution de juillet 1830, les Légitimistes cherchent à obtenir du roi Charles X le retour de la branche masculine directe de la dynastie des Bourbons. Actuellement, cette branche appartient à l'ancien roi espagnol Alfonso XIII et à son fils l'Infante Jaime."

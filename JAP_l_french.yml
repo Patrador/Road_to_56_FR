@@ -48,6 +48,27 @@
 
  JAP_proclaim_indonesian_liberation:0 "Proclamer la libération de l'Indonésie"
  JAP_proclaim_indonesian_liberation_desc:0 "Montrons aux Indonésiens que l'ère du colonialisme occidental barbare est enfin terminée et que l'Asie triomphera sous la direction bienveillante du Japon."
+
+ JAP_indian_independence_league:0 "Ligue pour l'indépendance de l'Inde"
+ JAP_indian_liberation_army:0 "Armée de libération de l'Inde"
+ JAP_indian_liberation_army_desc:0 "Les nationalistes indiens doivent être mobilisés pour faire en sorte que les étrangers soient expulsés d'Inde."
+ JAP_support_burmese_liberation_movement:0 "Soutenir le mouvement de libération de la Birmanie"
+ JAP_support_burmese_liberation_movement_desc:0 "Les Birmans ont leur place en Asie de l'Est."
+
+ JAP_support_the_indian_independence_league:0 "Soutenir la Ligue pour l'indépendance de l'Inde"
+ JAP_support_the_indian_independence_league_desc:0 "Une armée doit être mise en place pour assurer la libération de l'Inde."
+
+ JAP_support_the_burmese_liberation_movement:0 "Soutenir le mouvement de libération de la Birmanie"
+
+ JAP_join_the_anti_bolshevik_pact:0 "Rejoindre le pacte anti-bolchevique"
+ JAP_join_the_anti_bolshevik_pact_desc:0 "[TUR.GetNameDefCap] sembl[TUR.GetEEntNP] déterminé[TUR.GetXENP][TUR.GetXSNP] à lutter contre les horreurs du boshevisme soviétique. Notre alliance les frappera à l'Est et à l'Ouest."
+
+ JAP_nippon_nordic_friendship_treaty:0 "Traité d'amitié nippon-nordique"
+ 
+ JAP_nordic_strategy:0 "La stratégie nordique"
+ JAP_nordic_strategy_desc:0 "Pour compléter la stratégie nordique, il est logique d'essayer de trouver des pays du Nord qui partagent nos points de vue concernant [SOV.GetNameDef]. La Scandinavie et la Finlande s'inquiètent depuis longtemps des activités [SOV.getAdjFP], et les relations diplomatiques se termineront probablement par la signature d'un traité de coopération. Vive le traité d'amitié nippon-nordique !"
+
+
  ##Fixed
 
  JAP_nav_bomber_equipment_1:0 " Nakajima B5N"

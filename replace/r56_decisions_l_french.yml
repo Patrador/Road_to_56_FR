@@ -37,6 +37,11 @@
  frederick_browning_decision_cost:0 "§H25§!£army_experience §H25§!£air_experience §H25§!£pol_power"
  frederick_browning_decision_cost_blocked:0 "§R25§!£army_experience  §H25§!£air_experience  §R25§!£pol_power"
  frederick_browning_decision_cost_tooltip:0 "Cela coûte 25£army_experience 25£air_experience et 25£pol_power de sélectionner cela."
+
+ promote_general_decision_cost:0 "§H25§!£army_experience §H50§!£pol_power"
+ promote_general_decision_cost_blocked:0 "§R25§!£army_experience §R50§!£pol_power"
+ promote_general_decision_cost_tooltip:0 "Cela coûte 25£army_experience et 50£pol_power de sélectionner cela."  
+
  r56_ENG_decision_send_wavell_to_india:0 "Envoyer Archibald Wavell en Inde"
  r56_ENG_decision_send_wavell_to_india_desc:0 "Archibald Wavell n’est pas utilisé au mieux de ses capacités ici et pourrait être beaucoup plus utile s’il renforçait l’Armée Indienne Britannique."
 

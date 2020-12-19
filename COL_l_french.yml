@@ -232,7 +232,7 @@
  COL_naval_effort_desc:0 "L'expansion de notre marine devrait être notre première priorité. Affectez toutes les ressources disponibles aux nouveaux arsenaux maritimes et à la recherche sur les navires de surface légers."
  COL_doctrine_navy:0 "Doctrine navale"
  COL_doctrine_navy_desc:0 "Réinventer la guerre navale"
- COL_navy_production:0 "Production navale"
+ COL_navy_production:0 "Priorité à l'expansion navale"
  COL_navy_production_desc:0 "Notre capacité de production est limitée. Il est temps de choisir entre l'air et l'eau."
  COL_submarine_effort:0 "Effort de sous-marins"
  COL_submarine_effort_desc:0 "La guerre sous-marine est le développement naval le plus passionnant depuis l'invention du torpilleur. Nous ferions bien de ne pas seulement nous protéger contre les sous-marins, mais aussi de les utiliser contre les navires ennemis."

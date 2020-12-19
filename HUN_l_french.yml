@@ -16,7 +16,16 @@
  HUN_demand_the_coastline_desc:0 " "
  GetHUNdemandthecoastlinenormal_KEY:0 "Exiger le littoral"
  GetHUNdemandthecoastlineitaly_KEY:0 "Négocier le littoral"
- 
+
+ HUN_integrate_southern_slovakia:0 "Intégrer la Slovaquie du Sud"
+ HUN_gyor_program_investment:0 "Investissement du programme Gyor"
+
+ HUN_gyor_program_decision_category:0 "Le programme Gyor"
+ HUN_gyor_program_decision_category_desc:0 "Le programme Gyor est le plan qui permettra au pays d'augmenter sa production d'armement et de rééquiper l'armée [ROOT.GetAdjFS]." 
+ HUN_support_manufacturers_coordination:0 "Soutenir la coordination des fabricants"
+
+ HUN_idea_support_armament_manufacturers:0 "Coordination des fabricants d'armement"
+
  HUN_acquire_skoda_naval_artillery_experience:0 "Acquérir l'expérience de l'artillerie navale Skoda"
  HUN_acquire_skoda_naval_artillery_experience_desc:0 "Skoda a conçu les canons de la marine austro-hongroise, il est temps de mettre cette expérience à profit une fois de plus." 
 

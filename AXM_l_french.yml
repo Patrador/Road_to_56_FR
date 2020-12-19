@@ -20,11 +20,13 @@ l_french:
  axis_minors_balance_event_tooltip:0 "Cet événement accorde une subvention au PP sur la base de l'année en cours afin de compenser partiellement le pouvoir politique non acquis lorsque le pays était inexistant.\n"
 
  ##Add in focus tree fight between german influenced and more radical Hlinka guard, more and more imitating the SS and the Slovak Popular Party (still fascist)
- aftermath_of_the_munich_agreement:0 "Les conséquences de l'accord de Munich"
+ aftermath_of_the_munich_agreement:0 "Les conséquences de la dissolution de la Tchécoslovaquie"
  aftermath_of_the_munich_agreement_desc:0 "La désintégration de la Tchécoslovaquie a conduit à de multiples événements et opportunités politiques qui étaient presque impensables quelques années auparavant." 
  RUT_puppet_yourself_to_survive:0 "Rechercher un compromis avec l'Allemagne"
  SLO_seek_support_from_german_slovaks:0 "Rechercher le soutien des Volkdeutschs slovaques"
  volkdeutsch_support:0 "Nous avons le soutient des §YVolkdeutschs§!"
+ RUT_provide_autonomy_to_ruthenia:0 "Accorder l'autonomie à la Carpatho-Ukraine"
+ RUT_award_ruthenia_to_hungary:0 "Donner la Carpatho-Ukraine [HUN.GetAuAlaAlNP] [HUN.GetName]"
  
 #Bulgaria 2 and 3 were not working and removed.
 

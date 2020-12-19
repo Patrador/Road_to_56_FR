@@ -1,6 +1,8 @@
 ﻿#####---------------------------------------------------------------------> Mod by GreatExperiment
 
 l_french:
+#Flags
+ rt56_old_school:0 ""
 
 #Ideas
  etgi_ideas:0 "Caractère national"
@@ -171,7 +173,7 @@ r56i_laws_security_order_tt:0 "§WRisque de grèves§! :§G -100%§!"
   r56i.event.15.a:0 "Intéressant."  
 
   r56i.event.16.t:0 "[alliance_inviter.GetLeLaLFaction] [alliance_inviter.GetFactionName] et la faction [alliance_applicant.GetAdjFS] s'unissent en une seule alliance !"
-  r56i.event.16.d:0 "\n\n La politique mondiale évolue à un rythme rapide et, par conséquent, les dirigeants [alliance_inviter.GetDuDelaDelFaction] [alliance_inviter.GetFactionName] et [alliance_applicant.GetLeader] ont reconnu qu'il était inutile de se présenter sous forme de coalitions séparées. Au lieu de cela, ils ont décidé de se battre côte à côte.\nCela inquiétera probablement les gouvernements étrangers car leur force combinée pourrait devenir bien plus menaçante."
+  r56i.event.16.d:0 "\n\n La politique mondiale évolue à un rythme rapide et, par conséquent, les dirigeants [alliance_inviter.GetDuDelaDelFaction] [alliance_inviter.GetFactionName] et [alliance_applicant.GetLeader] ont reconnu qu'il était inutile de se présenter sous forme de coalitions séparées. Au lieu de cela, ils ont décidé de se battre côte à côte.\n\nCela inquiétera probablement les gouvernements étrangers car leur force combinée pourrait devenir bien plus menaçante."
   r56i.event.16.a:0 "Intéressant."
   r56i.event.16.a:0 "Nous sommes plus forts ensemble."
   r56i.event.16.b:0 "Ils recherchent la force dans le nombre."

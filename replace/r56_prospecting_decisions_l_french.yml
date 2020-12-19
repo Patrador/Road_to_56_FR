@@ -122,7 +122,9 @@
  exploit_sumy_oil_field:0 "Exploiter le champ pétrolier de Sumy" 
  expand_sumy_oil_field:0 "Agrandir le champ pétrolier de Sumy"
 
-
+ exploit_norrland_chromium:0 "Exploiter le chrome du Jämtland"
+ exploit_kvarntorp_shale_oil:0 "Exploiter le pétrole de schiste de Kvarntorp" 
+ develop_swabian_shale_oil:0 "Exploiter le pétrole de schiste souabe"
 
  open_kajaran_mine_wtt:0 "Ouvrir la mine de Kajaran" #change effect if copper is added
  extract_northern_armenia_deposits_wtt:0 "Exploiter l'aluminium du nord de l'Arménie"
@@ -230,6 +232,7 @@
  exploit_gabons_oil_field_wtt:0 "Exploiter le pétrole du Gabon"
  exploit_sumy_oil_field_wtt:0 "Exploiter le champ pétrolier de Sumy"
  expand_sumy_oil_field_wtt:0 "Agrandir le champ pétrolier de Sumy"
+ exploit_norrland_chromium_wtt:0 "Exploiter le chrome du Jämtland"
 
  expand_basque_steel_works_wtt:0 "Développer les aciéries basques"
  expand_western_aragon_steel_works_wtt:0 "Développer les aciéries de l'ouest de l'Aragon"
@@ -247,8 +250,9 @@
  exploit_californian_chromium_wtt:0 "Exploiter le chrome californien"
  exploit_alaskan_tungsten_wtt:0 "Exploiter le tungstène de l'Alaska"
  exploit_marcona_iron_wtt:0 "Exploiter le fer de Marcona"
+ exploit_kvarntorp_shale_oil_wtt:0 "Exploiter le pétrole de schiste de Kvrantorp"
 
-
+ develop_swabian_shale_oil_wtt:0 "Exploiter le pétrole de schiste souabe"
 
 
  #ADAPTATION OF wtt

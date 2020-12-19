@@ -45,7 +45,7 @@ r56.news_event.9.a:0 "Espérons que cela se terminera rapidement."
 r56.news_event.9.b:0 "Nous vaincrons !"
 
 #Generic tree warns neighbour of expansive policy
-r56.news_event.10.t:0 "[From.GetNameDef] proclam[From.GetEEntNP] une politique expansionniste"
+r56.news_event.10.t:0 "[From.GetNameDefCap] proclam[From.GetEEntNP] une politique expansionniste"
 r56.news_event.10.d:0 "\nAujourd'hui, dans la capitale [From.GetDuDelaDelNP] [From.GetName], [From.GetLeader] a dit au peuple de sa nation qu'il doit regarder au-delà de ses frontières pour trouver la gloire et le bonheur, qu'il est nécessaire d'étendre les frontières que le pays inhibe actuellement. [From.Getleader] a également fait de nombreuses mentions des transgressions perçues [Root.GetDuDelaDelNP] [Root.GetName] à l'égard [From.GetDuDelaDelNP] [From.GetName]. On ne sait pas encore si ce ne sont que des paroles dures ou si ces ambitions vont se transformer en conflit. Bien que les voisins [From.GetDuDelaDelNP] [From.GetName] s'inquiètent d'un éventuel conflit dans la région, beaucoup espèrent une solution diplomatique aux problèmes [From.GetDuDelaDelNP] [From.GetName] avec ses voisins."
 r56.news_event.10.a:0 "C'est pour le moins inquiétant."
 
@@ -64,7 +64,7 @@ r56.news_event.12.b:0 "Libérez le marché, libérez le peuple !"
 r56.news_event.12.c:0 "Une entité répugnante."
 
 #Grand Columbia
-r56.news_event.14.t:0 "[COL.GetNameDef] proclame les ambitions de la Grande Colombie."
+r56.news_event.14.t:0 "[COL.GetNameDefCap] proclame les ambitions de la Grande Colombie."
 r56.news_event.14.d:0 "\nAujourd'hui, dans la capitale [COL.GetDuDelaDelNP] [COL.GetName]. [COL.GetLeader] a dit au peuple de sa nation qu'il doit regarder au-delà de ses frontières pour trouver la gloire et le bonheur. Qu'ils doivent étendre les frontières que le pays inhibe actuellement. [FROM.GetLeader] a également fait de nombreuses mentions de la récupération des anciennes terres qui constituaient la Grande Colombie. Il reste à voir si ce ne sont que des paroles dures ou si de telles ambitions se concrétiseront en conflit. Toutefois, les voisins [COL.GetDuDelaDelNP] [COL.GetName] s'inquiètent d'un éventuel conflit. Il semble que la guerre se profile à l'horizon pour les voisins [COL.GetDuDelaDelNP] [COL.GetName]."
 r56.news_event.14.a:0 "Un développement intéressant."
 r56.news_event.14.b:0 "Il se peut que nous devions intervenir..."
@@ -81,9 +81,9 @@ r56.news_event.16.t:0 "Escalade du conflit entre l'Équateur et le Pérou"
 r56.news_event.16.d:0 "Depuis 1938, les escarmouches aux frontières se poursuivent entre les garnisons [ECU.GetAdjFP] et [PRU.GetAdjFP] dans la région contestée de Pichincha. Si les efforts diplomatiques entre les deux pays ont permis d'éviter que les escarmouches n'éclatent en un conflit à part entière, ils n'en ont pas moins permis de faire de la coopération entre les deux pays une priorité. Les récentes joutes diplomatiques entre les deux gouvernements ont abouti aux escarmouches les plus récentes qui ont provoqué une impasse entre les deux parties. Cette impasse s'est transformée en une guerre totale au cours de la semaine dernière.\n\nLes observateurs espèrent que ce conflit restera localisé dans la région de Pichincha et n'entraînera pas les deux nations dans la situation internationale désastreuse actuelle."
 r56.news_event.16.a:0 "Ce n'est pas le moment des petits conflits !"
 
-r56.news_event.17.t:0 "Révolte contre l'occupation [FROM.GetAdjFS] !"
-r56.news_event.17.d:0 "Après des mois de guérilla intense, un pays entier s'est soulevé contre l'oppression [FROM.GetAdjFS]. Les garnisons ont rapidement été encerclées et voyant le désespoir de leur situation, elles se sont repliées en territoire [FROM.GetAdjMS]. Bien qu'il s'agisse d'un recul important pour [FROM.GetLeader] et ses forces armées, la guerre n'est pas encore terminée et une contre-attaque est toujours possible."
-r56.news_event.17.a:0 "Cette effusion de sang va-t-elle s'arrêter un jour ?"
+r56.news_event.17.t:0 "[new_controller.GetNameDefCap] se révolt[ROOT.GetEEntNP] contre l'occupation [FROM.GetAdjFS] !"
+r56.news_event.17.d:0 "\nAprès des mois de guérilla intense, les forces de résistance [new_controller.GetAdjFP] ont décidé de sortir de la clandestinité et ont lancé une révolte coordonnée contre l'opression [FROM.GetAdjFS]. Les garnisons ont rapidement été encerclées et ont constaté le caractère désastreux de leur situation, les forces [FROM.GetAdjFP] se sont repliés vers les territoires sous leur contrôle.\n\nBien qu'il s'agisse d'un revers important pour [FROM.GetLeader] et ses forces armées, la guerre n'est pas encore terminée et une contre-attaque est toujours possible.\nEn effet, il est clair que le mouvement de résistance [new_controller.GetAdjMS] devra être organisée en une véritable armée si elle veut mener des opérations militaires traditionnelles."
+r56.news_event.17.a:0 "Cette effusion de sang s'arrêtera-t-elle un jour ?"
 
 #Hispanoamerican unification
 r56.news_event.18.t:1 "L'Amérique hispanique réunifiée"
@@ -92,8 +92,8 @@ r56.news_event.18.a:1 "Un pas de plus vers le rêve."
 r56.news_event.18.b:1 "L'esprit de Bolivar est-il revenu ?"
 
 #Greenland sizeure 
-r56.news_event.19.t:0 "[USA.getname] saisit le Groenland"
-r56.news_event.19.d:0 "\nÉtrange nouvelle en provenance de Washington ce matin, alors qu'un diplomate danois du nom de Henrik Kauffmann a récemment signé et remis le contrôle du Groenland à [USA.GetAuAlaAlNP] [USA.getname]. Kauffmann a rencontré représentants de [USA.GetLeader] pour formaliser l'accord. Les fonctionnaires de Nuuk ont contacté Kauffmann pour lui demander de proposer cet accord, car ils préféreraient une occupation américaine plutôt qu'une éventuelle occupation par [ENG.getnameDEF] ou [CAN.getnameDEF]. Les observateurs ont exprimé des inquiétudes quant au fait que l'accord est juridiquement douteux au regard du droit international. Mais ces inquiétudes sont restées sans réponse, le gouvernement américain n'ayant pas tardé à signer l'accord."
+r56.news_event.19.t:0 "[USA.GetNameDefCap] annex[USA.GetEEnt] le Groenland"
+r56.news_event.19.d:0 "\nÉtrange nouvelle en provenance de Washington ce matin, alors qu'un diplomate danois du nom de Henrik Kauffmann a récemment signé et remis le contrôle du Groenland à [USA.GetAuAlaAlNP] [USA.GetName]. Kauffmann a rencontré représentants de [USA.GetLeader] pour formaliser l'accord. Les fonctionnaires de Nuuk ont contacté Kauffmann pour lui demander de proposer cet accord, car ils préféreraient une occupation américaine plutôt qu'une éventuelle occupation par [ENG.getnameDEF] ou [CAN.getnameDEF]. Les observateurs ont exprimé des inquiétudes quant au fait que l'accord est juridiquement douteux au regard du droit international. Mais ces inquiétudes sont restées sans réponse, le gouvernement américain n'ayant pas tardé à signer l'accord."
 r56.news_event.19.a:0 "Le Groenland ? Un territoire en plus, ça fait toujours plaisir."
 r56.news_event.19.b:0 "Un geste audacieux de la part [USA.GetDuDelaDelNP] [USA.GetName]."
 r56.news_event.19.c:0 "Comment osent-ils kidnapper ce que nous avons légitimement volé !"

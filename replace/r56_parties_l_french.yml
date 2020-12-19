@@ -57,6 +57,17 @@
  moderatism_desc:1 "Le §Ymodérantisme§! est une forme de gouvernement qui §Yévite les extrêmes de gauche et de droite§! en adoptant une §Mposition ou des mesures modérées§!."
  centrism:1 "Centrisme"
  centrism_desc:1 "Le §Ycentrisme§! est une forme de gouvernement visant à trouver des §Ysolutions basées sur le bon sens§!, qui répondent de manière pertinente aux besoins actuels et futurs. Cela renforce la §Yconfiance du public§! et sert le §Ybien commun§! en prenant en considération les risques et les moyens en fonction des besoins."
+
+ #ADU
+ ADU_neutrality_party:0 "PFP"
+ ADU_neutrality_party_long:0 "Parti Foi et Progrès"
+ ADU_communism_party:0 "PCA"
+ ADU_communism_party_long:0 "Parti communiste andalou"
+ ADU_democratic_party:0 "PR"
+ ADU_democratic_party_long:0 "Parti réformiste"
+ ADU_fascism_party:0 "FM"
+ ADU_fascism_party_long:0 "Frères musulmans"
+
  #ALB
  ALB_neutrality_party:0 "Constitutionnalistes"
  ALB_neutrality_party_long:0 "Constitutionnalistes"

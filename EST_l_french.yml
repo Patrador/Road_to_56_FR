@@ -82,8 +82,8 @@
  EST_tartu_university_studies_desc:0 "Nos scientifiques font du bon travail, ce qui a ouvert de nouvelles possibilités en matière de R&D que nous devrions poursuivre. Avec une université technique de pointe au cœur de notre pays, nous pouvons mener davantage de recherches."
  EST_additional_research_slot:0 "Institut technique de Tallinn"
  EST_additional_research_slot_desc:0 "Les périodes d'occupation ont réduit de moitié les progrès, mais maintenant que nous sommes libres, nous pouvons rattraper la technologie moderne."
- EST_the_defence:0 "La défense"
- EST_the_defence_desc:0 "Des stratégies encore plus audacieuses doivent être élaborées si l'on veut que la défense de notre patrie soit couronnée de succès."
+ EST_foreign_cooperation:0 "Coopération extérieure"
+ EST_foreign_cooperation_desc:0 "L'Estonie compte beaucoup sur les pays disposés à l'aider dans sa lutte contre [SOV.getNameDef]."
  EST_expand_port_paldiski:0 "Développer le port de Paldiski"
  EST_expand_port_paldiski_desc:0 "Paldiski est notre principal accès à la mer Baltique, il est proche de notre capitale et du golfe de Finlande. Si nous voulons assurer un flux constant de ressources en provenance des mers, nous devons améliorer ce port."
  EST_prepare_for_war:0 "Se préparer à la guerre"
@@ -286,6 +286,9 @@
  
  NK:0 "Noored Kotkad"
  NK_desc:0 "Les organisations affiliées à la Ligue de défense regroupent au total plus de 21 000 volontaires et comprennent le corps féminin de la Ligue de défense estonienne Naiskodukaitse, le corps masculin de la Ligue de défense estonienne Noored Kotkad et le corps féminin de la Ligue de défense estonienne Kodutütred."
+
+ riigihoidja:0 "Riigihoidja"
+
 
  EST_generic_light_aircraft_manufacturer:0 "Aviotehas"
  

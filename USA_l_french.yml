@@ -1,7 +1,4 @@
 ﻿l_french:
-
-
-
  USA_bethlehem_steel:0 "Bethlehem Steel"
  USA_bethlehem_shipbuilding_corporation:0 "Bethlehem Shipbuilding Corporation"
  USA_william_c_lee:0 "William C. Lee"
@@ -29,6 +26,8 @@
  USA_lima_locomotive_works:0 "Lima Locomotive Works"
  
  r56_USA_decision_the_jumping_general:0 "Le général sautant"
+ r56_USA_decision_join_us_research_collaboration_program:0 "Rejoindre le programme [USA.GetAdjMS] de coopération sur la recherche"
+ r56_USA_decision_initiate_us_research_collaboration_program:0 "Faire pression pour une coopération accrue dans la recherche avec [USA.GetNameDef]"
  
  r56_USA_decision_rural_electrification_act:0 "Loi sur l'électrification rurale"
  r56_USA_decision_flood_control_act:0 "Loi sur la protection contre les inondations"
@@ -64,9 +63,13 @@
  r56_usa.3.desc:0 "Les nouvelles élections arrivent ! Après les deux mandats du président Truman, les démocrates ont choisi Aldai Stevenson pour poursuivre l'héritage de Roosevelt tandis que les républicains ont choisi nul autre que Dwight D. Eisenhower lui-même."
  r56_usa.3.a:0 "Stevenson remporte les élections"
  r56_usa.3.b:0 "Eisenhower remporte les élections"
+ r56_usa.4.t:0 "[USA.GetNameDefCap] s'engag[USA.GetEEntNP] à partager les résultats de recherches"
+ r56_usa.4.desc:0 "Un document récent du gouvernement [USA.GetAdjMS] a annoncé qu'ils allaient partager les recherches avec leurs alliés. L'adhésion nécessitera une certaine restructuration qui suscitera probablement une certaine résistance, mais nous n'avons rien à craindre de cette adhésion."
+ r56_usa.4.a:0 "Nous pouvons le faire, ensemble !"
+ r56_usa.4.b:0 "Peut-être plus tard"
 
  r56_USA_the_alaskan_trap:0 "Le piège de l'Alaska"
- r56_USA_the_alaskan_trap_desc:0 "En faisant passer l'Alaska pour un point d'invasion attrayant pour nos ennemis de l'Est et avec quelques travaux mineurs de l'USACE. Nous pouvons transformer l'Alaska en un piège mortel pour une force d'invasion."
+ r56_USA_the_alaskan_trap_desc:0 "En faisant passer l'Alaska pour un point d'invasion attrayant pour nos ennemis de l'Est et avec quelques travaux mineurs de l'USACE, nous pouvons transformer l'Alaska en un piège mortel pour une force d'invasion."
 
  rt56_far_left_suppression:0 "Répression de l'extrême gauche"
  rt56_far_left_suppression_desc:0 "Les événements qui ont conduit à la Peur Rouge des années 1920 ont laissé une impression durable sur les responsables de l'application des lois et sur le public américain. Cette impression a conduit à la poursuite et au harcèlement des mouvements d'extrême gauche dans l'ensemble des États-Unis. Ces dernières années, les efforts de répression contre les groupes d'extrême gauche sont menés par le Federal Bureau of Investigation de J. Edgar Hoover."
@@ -86,6 +89,46 @@
  USA_constitutional_convention_washington:0 "Convention constitutionnelle de Washington"
  USA_proclaim_washington_to_be_the_first_fascist:0 "Proclamer Washington comme le premier fasciste"
  USA_raise_washington_to_general_of_the_armies:0 "Élever Washington au rang de général des armées"
+
+ USA_combating_jim_crow:0 "Marginalisation des Afro-Américains du Sud"
+ USA_combating_jim_crow_desc:0 "La défaite du Sud pendant la guerre civile américaine et l'humiliation perçue comme telle qui s'est accumulée à l'époque de la Reconstruction étaient trop pour les cultivateurs et la bourgeoisie du Sud. Ils ont canalisé leur frustration face à la récente déresponsabilisation politique, et l'ont utilisée pour conspirer contre la population afro-américaine nouvellement autonomisée. Les intrigues politiques du Sud ont culminé avec le Compromis de 1877. Le Compromis a vu la fin officielle de la Reconstruction dans le Sud et la levée des dernières protections pour les communautés afro-américaines et les politiciens du Sud. Le compromis était fonctionnellement une trahison et un abandon des Afro-Américains par leurs alliés politiques du Nord.\n \nDepuis lors, les législateurs des États du Sud, poussés par une population encore plus hostile, ont adopté des lois qui marginalisent les Afro-Américains. Des lois qui séparent les Afro-Américains du reste de la population du Sud sur la base de la « race » dans les lieux publics tout en supprimant leur droit de vote. Dans le même temps, la population de ces États mène ses propres campagnes extrajudiciaires pour terroriser et tourmenter les Afro-Américains. Ces pratiques ont été appelées lois « Jim Crow ».\n\nBien que nous ayons actuellement des problèmes plus urgents, nous ne pouvons pas ignorer le fait que la pratique des lois Jim Crow continue à mettre notre pays à rude épreuve. Un pays qui promet « la liberté et la justice pour tous »."
+ USA_combating_jim_crow_map:0 "Ces États disposent actuellement de lois Jim Crow."
+ USA_pass_a_new_civil_rights_bill:0 "Adopter une nouvelle loi sur les droits civils"
+ USA_pass_a_new_civil_rights_bill_tt:0 "L'un de nos États possède les lois Jim Crow."
+ USA_pass_a_new_civil_rights_bill_effect_tt:0 "Débloque les décisions visant à combattre les lois Jim Crow dans les États."
+ r56_jim_crow_removed_tt:0 "§Gretire§! les lois Jim Crow dans l'État"
+ r56_jim_crow_lowered_tt:0 "§Gdiminue§! l'intensité des lois Jim Crow dans l'État"
+ r56_jim_crow_state:0 "a actuellement les lois Jim Crow."
+ USA_pass_a_new_civil_rights_bill_flag:0 "Nous avons adopté une nouvelle loi sur les droits civils"
+ USA_fight_jim_crow_in_wv:0 "Lutter contre les lois Jim Crow dans [829.GetName]"
+ USA_fight_jim_crow_in_my:0 "Lutter contre les lois Jim Crow dans [361.GetName]"
+ USA_fight_jim_crow_in_vg:0 "Lutter contre les lois Jim Crow dans [362.GetName]"
+ USA_fight_jim_crow_in_kt:0 "Lutter contre les lois Jim Crow dans [369.GetName]"
+ USA_fight_jim_crow_in_nc:0 "Lutter contre les lois Jim Crow dans [363.GetName]"
+ USA_fight_jim_crow_in_tn:0 "Lutter contre les lois Jim Crow dans [368.GetName]"
+ USA_fight_jim_crow_in_sc:0 "Lutter contre les lois Jim Crow dans [364.GetName]"
+ USA_fight_jim_crow_in_ga:0 "Lutter contre les lois Jim Crow dans [365.GetName]"
+ USA_fight_jim_crow_in_fl:0 "Lutter contre les lois Jim Crow dans [366.GetName]"
+ USA_fight_jim_crow_in_mi:0 "Lutter contre les lois Jim Crow dans [373.GetName]"
+ USA_fight_jim_crow_in_ak:0 "Lutter contre les lois Jim Crow dans [372.GetName]"
+ USA_fight_jim_crow_in_al:0 "Lutter contre les lois Jim Crow dans [367.GetName]"
+ USA_fight_jim_crow_in_ms:0 "Lutter contre les lois Jim Crow dans [370.GetName]"
+ USA_fight_jim_crow_in_ok:0 "Lutter contre les lois Jim Crow dans [374.GetName]"
+ USA_fight_jim_crow_in_tx:0 "Lutter contre les lois Jim Crow dans [375.GetName]"
+
+ USA_population_migration:0 "Migrations de population"
+ USA_population_migration_desc:0 "Si les efforts actuels de relance économique ont aidé beaucoup de gens, il y a eu beaucoup de retour en arrière dans certains de nos efforts passés. Le principal inconvénient de notre politique est l'aggravation de la situation des petits agriculteurs ruraux du sud. Nombre d'entre eux, qui ne peuvent plus joindre les deux bouts, ont dû se déraciner et s'installer là où il y a du travail, qui sont actuellement les villes industrielles du nord."
+ USA_population_migration_mission_0:0 "Migration interne de la population"
+
+ r56_usa.5.t:0 "Sables mouvants"
+ r56_usa.5.desc:0 "Les routes du sud des États-Unis sont un signe de l'évolution des temps. De nombreux agriculteurs ont vendu leur maison et ont emballé toutes leurs affaires dans leur voiture pour se rendre au nord. Ces migrations soudaines ont été stimulées par la dégradation des conditions de vie dans le sud rural, de nombreuses familles ne pouvant plus joindre les deux bouts. L'objectif de beaucoup de ces personnes est de trouver un emploi dans les centres industriels du nord."
+ r56_usa.5.a:0 "Vous pouvez obtenir des choses à Detroit !"
+
+
+
+ USA_shifting_sands_tt:0 "§YÉtat du sud aléatoire§! §WRéserves :§!§R-10000§!§W.§!"
+ USA_shifting_sands_2_tt:0 "§YÉtat du nord aléatoire§! §WRéserves :§!§G+10000§!§W.§!"
+
 
  #Vanilla Overrides 
  USA_manifest_destiny_r56:0 "Le nouveau manifeste du destin" #revist with better name. band-aide fix

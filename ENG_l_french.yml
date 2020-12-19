@@ -9,6 +9,10 @@ uk_naval_gunnery_desc:0 "Améliorer l'efficacité de notre équipement naval pou
 ENG_tube_alloys:0 "Alliages des tubes"
 ENG_tube_alloys_desc:0 "Les équations physiques montrent que la fission de l'uranium pourrait libérer une quantité gigantesque d'énergie. Cela pourrait potentiellement conduire à la création d'une bombe d'une puissance presque inconcevable."
 ENG_admiralty_naval_staff_desc:0 "Le personnel naval de l'Amirauté est le véritable noyau de notre marine, un organisme qui peut coordonner et influencer le fonctionnement de nos navires dans le monde entier."
+
+ENG_tank_variant_focus:0 "Développer des variantes de char"
+ENG_tank_variant_focus_desc:0 "Les chars peuvent jouer bien plus de rôles que le combat direct. Ils peuvent être rendus amphibies, être équipés de pièces d'artillerie ; ils peuvent détruire les défenses ennemies ou devenir des plateformes anti-aériennes pour protéger les troupes environnantes contre les attaques aériennes."
+
 #Custom Tooltips
 
 #Flags
