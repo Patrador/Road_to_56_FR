@@ -76,6 +76,8 @@
  SOV_union_of_fascist_little_ones_2:0 "Union des petits fascistes"
  SOV_russian_women_fascist_movement_2:0 "Mouvement féministe fasciste russe"
  SOV_alligences_tt:0 "Cette priorité s'ajoutera soit au Mouvement féministe fasciste russe, soit à l'Union des petits fascistes"
+ SOV_strike_the_eagle:0 "Frapper l'aigle"
+ SOV_strike_the_eagle_desc:0 "L'expansion de l'État allemand doit être stoppée. Pour le bien de l'Europe, ainsi que pour la santé et l'avenir de notre nation."
 
  SOV_civil_war_konev:0 "Restauration de l'ancien régime"
  SOV_civil_war_konev_desc:0 "La guerre étant enfin terminée, nous pouvons rétablir l'ordre dans notre nation."
@@ -258,6 +260,11 @@
  r56.soviet.43.t:0 "Décès de Cyrille Vladimirovitch"
  r56.soviet.43.d:0 "Cyrille Vladimirovitch est décédé aujourd'hui. Après avoir restauré son trône et inscrit le droit de succession dans la politique russe moderne, son fils Vladimir Kirillovitch a repris le flambeau."
  r56.soviet.43.a:0 "Que Vladimir Kirillovitch nous mène à la gloire."
+
+ r56.soviet.44.t:0 "Léon Trotsky est mort"
+ r56.soviet.44.d:0 "Luttant inlassablement pour les travailleurs et le triomphe de la Révolution mondiale, le camarade Léon Trotsky est décédé. Le Politburo s'est réuni pour choisir Leonid Sérébriakov comme son successeur."
+ r56.soviet.44.a:0 "La Révolution ne mourra jamais !"
+
 
 
  #Trotsky Tree (Focuses & Desc)
@@ -502,8 +509,8 @@
  r56.soviet.27.d:0 "Staline a été arrêté et rapidement exécuté par des membres du Parti communiste. [SOV.GetLeader] est entré dans le bureau de Staline avec des agents du NKVD et l'a fait arrêter alors qu'il dressait la liste des crimes qu'il avait commis contre le peuple russe. Un procès a eu lieu le lendemain où il a été condamné à mort et pendu plus tard dans l'après-midi. En outre, de nombreux fonctionnaires du gouvernement russe qui ont été accusés d'avoir participé aux crimes de Staline sont en train d'être arrêtés et emprisonnés ou exécutés. Personne ne sait qui va maintenant diriger [SOV.GetLeLaLNP] [SOV.GetName]. La rumeur dit que [SOV.GetLeader] a invité Trotsky à revenir et à diriger."
  r56.soviet.27.a:0 "Le faux révolutionnaire est mort !"
  r56.soviet.27.b:0 "Le château de cartes de Staline est enfin tombé."
- r56.soviet.28.t:0 "Gouvernement soviétique renversé"
- r56.soviet.28.d:0 "Presque aussitôt que Trotsky revint pour diriger le gouvernement soviétique dans une ère post-stalinienne, il a été renversé par une importante faction de responsables anticommunistes et d'officiers. Cette faction avait rapidement formé un grand nombre d'adeptes dans l'armée et le gouvernement et s'est tout simplement débarrassée des fonctionnaires pro-communistes du jour au lendemain, semble-t-il. Certains experts soupçonnent que les purges des loyalistes staliniens par Trotsky et le chaos qui a suivi le coup d'État ont peut-être affaibli le Parti communiste de façon irréparable. Le chef du renversement ; [SOV.GetLeader] a maintenant la tâche apparemment impossible de stabiliser le nouveau gouvernement [SOV.GetDuDelaDelNP] [SOV.GetName] et les nombreuses factions qui le composent. "
+ r56.soviet.28.t:0 "La fin du régime communiste en Russie"
+ r56.soviet.28.d:0 "\nPresque aussitôt que Trotsky revint pour diriger le gouvernement soviétique dans une ère post-stalinienne, il a été renversé par une importante faction de responsables anticommunistes et d'officiers. Cette faction avait rapidement formé un grand nombre d'adeptes dans l'armée et le gouvernement et s'est tout simplement débarrassée des fonctionnaires pro-communistes du jour au lendemain, semble-t-il. Certains experts soupçonnent que les purges des loyalistes staliniens par Trotsky et le chaos qui a suivi le coup d'État ont peut-être affaibli le Parti communiste de façon irréparable. Le chef du renversement ; [SOV.GetLeader] a maintenant la tâche apparemment impossible de stabiliser le nouveau gouvernement [SOV.GetDuDelaDelNP] [SOV.GetName] et les nombreuses factions qui le composent. "
  r56.soviet.28.a:0 "Nous devons maintenant conduire les Hommes de notre pays vers un avenir meilleur"
  r56.soviet.28.b:0 "Heureux que cette petite « expérience » soit terminée"
  r56.soviet.28.c:0 "Nous devons poursuivre la révolution nous-mêmes"

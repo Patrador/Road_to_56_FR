@@ -64,7 +64,10 @@
  LAT_destroyer_contract_tt:0 "Acheter 2 nouveaux destroyers"
  LAT_submarine_contract_tt:0 "Acheter 2 nouveaux sous-marins"
 
-
+ LAT_destroyer_contract_legacy:0 "Contrat de destroyer"
+ LAT_destroyer_contract_mtg:0 "Contrat de destroyer"
+ LAT_submarine_contract_legacy:0 "Contrat de sous-marin"
+ LAT_submarine_contract_mtg:0 "Contrat de sous-marin"
 
  #flags
  ask_attache_about_artillery:0 "Discuter avec un attaché étranger de la modernisation de l'artillerie"

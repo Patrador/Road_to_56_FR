@@ -633,3 +633,11 @@ stresa_front_faction:0 "Front de Stresa"
 #Avanti!
 ABILITY_avanti:0 "Avanti !"
 ABILITY_avanti_desc:0 "Avanti ! Avanti !"
+
+ITA_ethiopian_war:0 "La guerre d'Éthiopie"
+ITA_ethiopian_war_desc:0 "L'Italie doit terminer la conquête de l'Éthiopie pour avoir enfin son empire."
+r56_ITA_vanquish_ethiopia:0 "Vaincre l'Éthiopie"
+
+
+SAD_move_capital_to_turin:0 "Déplacer la capitale à Turin"
+ITA_REBORN_move_capital_to_rome:0 "Déplacer la capitale à Rome"

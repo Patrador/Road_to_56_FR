@@ -9,6 +9,8 @@
  JAP_nippon_oil:0 "Pétrole du Nippon"
 
  JAP_teruhisa_komatsu:0 "Teruhisa Komatsu"
+ JAP_minoru_takano:0 "Minoru Takano"
+ JAP_tomin_suzuki:0 "Tomin Suzuki"
 
  JAP_fascism_ideology_desc:0 "L'§YAssociation de soutien à l'autorité impériale§! (Taisei Yokusankai) a été créé par le Premier ministre Fumimaro Konoe pour promouvoir les objectifs de son mouvement §MShintaisei§! (« Nouvel ordre »). Elle s'est transformée en une Parti politique §Yétatiste§! au pouvoir qui visait à supprimer le sectionnalisme dans la politique et l'économie de l'Empire du Japon pour créer un §HÉtat totalitaire à parti unique§! afin de maximiser l'efficacité de l'effort de §Rguerre totale§! du Japon."
 
@@ -37,6 +39,8 @@
  
  JAP_kenji_miyamoto:0 "Kenji Miyamoto"
  JAP_kantaro_suzuki:0 "Kantarō Suzuki"
+ JAP_ichizo_kobayashi:0 "Ichizō Kobayashi"
+ JAP_koyata_iwasaki:0 "Koyata Iwasaki"
 
  JAP_stimulate_mongol_traditions:0 "Stimuler les traditions mongoles"
  JAP_stimulate_mongol_traditions_desc:0 "Les Mongols ont souffert de décennies de règles communistes qui ont attaqué leurs traditions bouddhistes. La restauration des temples et leur respect nous apporteront la gratitude de la population."
@@ -67,6 +71,29 @@
  
  JAP_nordic_strategy:0 "La stratégie nordique"
  JAP_nordic_strategy_desc:0 "Pour compléter la stratégie nordique, il est logique d'essayer de trouver des pays du Nord qui partagent nos points de vue concernant [SOV.GetNameDef]. La Scandinavie et la Finlande s'inquiètent depuis longtemps des activités [SOV.getAdjFP], et les relations diplomatiques se termineront probablement par la signature d'un traité de coopération. Vive le traité d'amitié nippon-nordique !"
+
+ JAP_sumitomo_rubber_industries:0 "Sumitomo Rubber Industries"
+ JAP_sumitomo_rubber_industries_desc:0 "Au début, seul un partenaire de Dunlop Japan, la branche caoutchouc du Sumitomo zaibatsu, pouvait s'allier à la branche chimique du conglomérat et créer son propre caoutchouc de fabrication japonaise."
+
+ JAP_diversified_tank_roles:0 "Rôles diversifiés des chars"
+ JAP_diversified_tank_roles_desc:0 "Équipés de différents types de canons et de différents systèmes de traction, les systèmes blindés peuvent alors remplir des missions plus variées sur le champ de bataille."
+ JAP_red_pacific_fleet:0 "La flotte du Pacifique rouge"
+ JAP_red_pacific_fleet_desc:0 "Nous devons reconstruire notre flotte selon des critères idéologiques."
+ JAP_corporate_developments:0 "Développements des entreprises"
+ JAP_corporate_developments_desc:0 "Notre collaboration avec les Zaibatsus sera certainement fructueuse."
+
+ JAP_airframe_supplies_improvements:0 "Améliorer le ravitaillement des cellules d'avion"
+ JAP_airframe_supplies_improvements_desc:0 "La nécessité d'augmenter la production d'avions a rendu nécessaire une réforme de la production des différentes parties des avions de chasse." 
+ JAP_reform_airframe_production:0 "Réforme de la production des cellules d'avion"
+ JAP_reform_airframe_production_desc:0 "La nécessité d'augmenter la production d'avions a rendu nécessaire une réforme de la production des différentes parties des avions de chasse." 
+ JAP_submarine_modernization:0 "Modernisation des sous-marins"
+ JAP_submarine_modernization_desc:0 "Si l'on considère le débat grand porte-avions contre cuirassé, les sous-marins sont néanmoins un élément essentiel de la marine japonaise car la rupture de l'approvisionnement peut paralyser temporairement toute armée ennemie entrante." 
+ JAP_supply_disruption:0 "Perturbation de l'approvisionnement"
+ JAP_supply_disruption_desc:0 "Au lieu de combattre l'ennemi de front, nous pourrions retarder et affaiblir sa projection de force en attaquant ses lignes de ravitaillement naval."
+ JAP_finance_the_naval_arsenals:0 "Financer les arsenaux navals"
+ JAP_finance_the_naval_arsenals_desc:0 "Afin de garantir la sécurité de l'océan Pacifique, une marine plus importante est nécessaire."
+ JAP_increased_repair_capabilities:0 "Accroître les capacités de réparation"
+ JAP_increased_repair_capabilities_desc:0 "Notre marine ne peut être efficace que si elle est réparée rapidement et efficacement, en reprenant son service de combat avant que l'ennemi n'endommage les navires."
 
 
  ##Fixed

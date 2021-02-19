@@ -132,6 +132,12 @@ KOR_seoul_busan_infrastructure_desc:0 "C'est assez clair, non ?"
  KOR_militarism:0 "Militarisme"
  KOR_devotion_to_the_emperor:0 "Dévotion à l'empereur"
  KOR_youth_units:0 "Radicaliser la jeunesse"
+ KOR_invade_soviet_union:0 "Envahir [SOV.getnameDef]"
+ KOR_invade_soviet_union:0 "[SOV.getnameDefCap] [SOV.GetAOntNP] fait pression sur l'Asie pendant des décennies : il faut [SOV.GetLuiLeurNP] donner une leçon."
+ KOR_invade_manchuria:0 "Envahir la Mandchourie"
+ KOR_invade_manchuria_desc:0 "Le gouvernement de Mandchourie opprime les Coréens vivant au nord de l'Amrok depuis bien trop longtemps."
+ KOR_cement_monarchic_rule:0 "Consolider le régime monarchique"
+ KOR_cement_monarchic_rule_desc:0 "C'est le droit de l'empereur de régner. Ses loyaux sujets ne sont là que pour obéir à ses ordres célestes."
 
  KOR_1936:0 "Armée coréenne réformée"
 

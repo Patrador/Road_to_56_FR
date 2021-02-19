@@ -100,6 +100,7 @@
  r56_jim_crow_lowered_tt:0 "§Gdiminue§! l'intensité des lois Jim Crow dans l'État"
  r56_jim_crow_state:0 "a actuellement les lois Jim Crow."
  USA_pass_a_new_civil_rights_bill_flag:0 "Nous avons adopté une nouvelle loi sur les droits civils"
+ USA_pass_a_new_civil_rights_bill_flag_desc:0 "Un nouveau projet de loi sur les droits civils est un bon premier pas dans la lutte contre les lois Jim Crow dans le Sud."
  USA_fight_jim_crow_in_wv:0 "Lutter contre les lois Jim Crow dans [829.GetName]"
  USA_fight_jim_crow_in_my:0 "Lutter contre les lois Jim Crow dans [361.GetName]"
  USA_fight_jim_crow_in_vg:0 "Lutter contre les lois Jim Crow dans [362.GetName]"
@@ -113,6 +114,7 @@
  USA_fight_jim_crow_in_ak:0 "Lutter contre les lois Jim Crow dans [372.GetName]"
  USA_fight_jim_crow_in_al:0 "Lutter contre les lois Jim Crow dans [367.GetName]"
  USA_fight_jim_crow_in_ms:0 "Lutter contre les lois Jim Crow dans [370.GetName]"
+ USA_fight_jim_crow_in_ls:0 "Lutter contre les lois Jim Crow dans [371.GetName]"
  USA_fight_jim_crow_in_ok:0 "Lutter contre les lois Jim Crow dans [374.GetName]"
  USA_fight_jim_crow_in_tx:0 "Lutter contre les lois Jim Crow dans [375.GetName]"
 

@@ -27,12 +27,20 @@
 #Austria Hungary Shared
 
  AH_austro_hungarian_unification:0 "Unification austro-hongroise"
+ AH_austro_hungarian_unification_desc:0 ""
  AH_develop_vienna:0 "Développer Vienne"
+ AH_develop_vienna_desc:0 ""
  AH_form_mechanics:0 "Mécaniciens formés"
+ AH_form_mechanics_desc:0 ""
  AH_czech_tyres:0 "Pneus tchèques"
+ AH_czech_tyres_desc:0 ""
  AH_rijeka_naval_academy:0 "Académie navale de Rijeka"
+ AH_rijeka_naval_academy_desc:0 ""
  AH_coordinate_the_land_equipment_manufacturers:0 "Coordonner la fabrication d'équipement"
+ AH_coordinate_the_land_equipment_manufacturers_desc:0 ""
  AH_increase_naval_production:0 "Augmenter la production navale"
+ AH_increase_naval_production_desc:0 ""
+ 
  #Improved Byzantium#
  byz_integrate_albania:0 "Intégrer l'Albanie"
  byz_albania_integrated:0 "Albanie intégrée"
@@ -262,3 +270,8 @@
  IDEL_URAL_fascism_ADJ:0 "tartarien"
  
  form_idel_ural:0 "Réunifier l'Idel-Oural"
+
+
+ #sardinia Piedmont
+
+ form_sardinia_piedmont:0 "Récupérer le Piémont"

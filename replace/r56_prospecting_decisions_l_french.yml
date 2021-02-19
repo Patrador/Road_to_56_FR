@@ -125,6 +125,7 @@
  exploit_norrland_chromium:0 "Exploiter le chrome du Jämtland"
  exploit_kvarntorp_shale_oil:0 "Exploiter le pétrole de schiste de Kvarntorp" 
  develop_swabian_shale_oil:0 "Exploiter le pétrole de schiste souabe"
+ exploit_rmelan_oil_field:0 "Exploiter le champ pétrolier de Rmelan"
 
  open_kajaran_mine_wtt:0 "Ouvrir la mine de Kajaran" #change effect if copper is added
  extract_northern_armenia_deposits_wtt:0 "Exploiter l'aluminium du nord de l'Arménie"
@@ -253,6 +254,7 @@
  exploit_kvarntorp_shale_oil_wtt:0 "Exploiter le pétrole de schiste de Kvrantorp"
 
  develop_swabian_shale_oil_wtt:0 "Exploiter le pétrole de schiste souabe"
+ exploit_rmelan_oil_field_wtt:0 "Exploiter le champ pétrolier de Rmelan"
 
 
  #ADAPTATION OF wtt

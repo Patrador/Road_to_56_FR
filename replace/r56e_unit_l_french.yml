@@ -1,5 +1,7 @@
 ﻿l_french:
 category_light_armor:0 "Véhicules blindés légers & variantes"
+category_flying_boat:0 "Avions de patrouille maritime"
+category_medium_maritime:0 "Bombardiers maritimes moyens"
 militia:0 "Milice"
 militia_desc:0 "La milice est une force terrestre informelle qui peut être déployée à la hâte sans les exigences d'une unité militaire traditionnelle. Le personnel de la milice n'a pas besoin de l'entraînement intensif ou des grandes quantités d'équipement dont un bataillon d'infanterie traditionnel a besoin. Bien qu'il faille dire qu'ils ne remplacent pas l'infanterie traditionnelle en ce qui concerne l'efficacité au combat."
 r56_allow_militia_formation:0 "Formaliser la formation des milices"

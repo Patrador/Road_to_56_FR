@@ -1,0 +1,6 @@
+﻿l_french:
+ ABILITY_RESERVE_TRANSFER:0 "Transfert de réserves"
+ ABILITY_RESERVE_TRANSFER_DESC:0 "Un approvisionnement en troupes est essentiel pour maintenir les divisions prêtes à combattre."
+
+ ABILITY_EXTRA_FUEL_RESERVES:0 "Réserves de carburant supplémentaires"
+ ABILITY_EXTRA_FUEL_RESERVES_DESC:0 "En ordonnant aux troupes de veiller à ce que le train de ravitaillement transporte plus de carburant, nous éviterons que les troupes motorisées se retrouvent à sec." 

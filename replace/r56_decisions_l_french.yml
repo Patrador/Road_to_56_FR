@@ -13,7 +13,9 @@
  
  reunite_germany:0 "Réunifier l'Allemagne"
  reintegrate_lands_beyond_the_oder_neisse_line:0 "Réintégrer les terres au-delà de la ligne Oder-Neisse"
- 
+
+ reunite_italy:0 "Réunifier l'Italie"
+
  recruit_women_pilots:0 "Recruter des femmes pilotes"
  recruit_women_pilots_desc:0 "En cette heure fatidique pour notre nation, nous ne pouvons pas nous permettre d'abuser du talent de qui que ce soit. Les aviatrices ont suscité l'étonnement du public par leurs exploits dans les années 1930. Ils doivent maintenant être mobilisés pour la cause nationale et faire leur devoir aux côtés des hommes."
  r56_collect_civilian_aluminium_utensils:0 "Collecter des ustensiles civils en aluminium"
@@ -73,6 +75,32 @@
  r56_25_command_power_cost:0 "£command_power §H25§!"
  r56_25_command_power_cost_blocked:0 "£command_power §R25§!"
  r56_25_command_power_cost_tooltip:0 "Cela coûte £command_power §H25§! de sélectionner cela."
+
+ control_ai_allies_category:0 "Coordination des alliés"
+
+ control_ai_allies_category_desc:0 "En donnant des ordres clairs à nos alliés, nous augmenterons nos chances de coordonner nos actions et de vaincre nos ennemis.\n\n§RCes décisions n'affectent que le comportement de l'IA§!" 
+ ai_ally_favor_navy:0 "Demander au gouvernement [FROM.GetAdjMS] de se concentrer sur sa marine"
+ drop_ai_ally_favor_navy:0 "Demander l'abandon de l'intiative navale [FROM.GetAdjFS]."
+ ai_ally_favor_aviation:0 "Demander au gouvernement [FROM.GetAdjMS] de se concentrer sur son aviation"
+ drop_ai_ally_favor_aviation:0 "Demander l'abandon de l'intiative aérienne [FROM.GetAdjFS]."
+
+
+ ai_ally_favor_defense:0 "Demander au gouvernement [FROM.GetAdjMS] de se concentrer sur sa défense"
+ drop_ai_ally_favor_defense:0 "Demander l'abandon de l'engagement défensif [FROM.GetAdjMS]."
+
+ ai_ally_favor_offense:0 "Demander au gouvernement [FROM.GetAdjMS] de se concentrer sur l'offensive"
+ drop_ai_ally_favor_offense:0 "Demander l'abandon de l'engagement offensif [FROM.GetAdjMS]."
+
+
+ ai_ally_favor_war_production:0 "Demander au gouvernement [FROM.GetAdjMS] de se concentrer sur sa production militaire"
+ drop_ai_ally_favor_war_production:0 "Demander l'abandon de l'intiative de production militaire [FROM.GetAdjFS]."
+ r56_ai_favor_defense:0 "Priorité de l'IA : la défense"
+ r56_ai_favor_offense:0 "Priorité de l'IA : l'offensive"
+ r56_ai_favor_war_production:0 "Priorité de l'IA : la production militaire"
+ r56_ai_favor_aviation:0 "Priorité de l'IA : l'aviation"
+ r56_ai_favor_navy:0 "Priorité de l'IA : la marine"
+
+
 
  r56_send_combat_reports_to_the_small_arms_manufacturers:0 "Rapports aux fabricants d'armes légères"
  r56_send_combat_reports_to_the_artillery_manufacturers:0 "Rapports aux fabricants d'artillerie"
@@ -147,24 +175,27 @@
 
  decision_cost_CP_25_pp_50:0 "£command_power  §Y25§! £pol_power  §Y50§!"
  decision_cost_CP_25_pp_50_blocked:0 "£command_power  §R25§! £pol_power  §R50§!"
- decision_cost_CP_25_pp_50_tooltip:0 "Cela coûte [This.GetDecisionCostCP25PP50] de prendre cette décision"
+ decision_cost_CP_25_pp_50_tooltip:0 "Cela coûte £command_power §H25§! et £pol_power §H50§! de prendre cette décision"
 
  decision_cost_CP_30_pp_25:0 "£command_power  §Y30§! £pol_power  §Y25§!"
  decision_cost_CP_30_pp_25_blocked:0 "£command_power  §R30§! £pol_power  §R25§!"
- decision_cost_CP_30_pp_25_tooltip:0 "Cela coûte [This.GetDecisionCostCP30PP25] de prendre cette décision"
+ decision_cost_CP_30_pp_25_tooltip:0 "Cela coûte £command_power §H30§! et £pol_power §H25§! de prendre cette décision"
 
  decision_cost_CP_15_pp_15:0 "£command_power  §Y15§! £pol_power  §Y15§!"
  decision_cost_CP_15_pp_15_blocked:0 "£command_power  §R15§! £pol_power  §R15§!"
- decision_cost_CP_15_pp_15_tooltip:0 "Cela coûte [This.GetDecisionCostCP15PP15] de prendre cette décision"
+ decision_cost_CP_15_pp_15_tooltip:0 "Cela coûte £command_power §H15§! et £pol_power §H15§! de prendre cette décision"
 
  decision_cost_CP_25_pp_25:0 "£command_power  §Y25§! £pol_power  §Y25§!"
  decision_cost_CP_25_pp_25_blocked:0 "£command_power  §R25§! £pol_power  §R25§!"
- decision_cost_CP_25_pp_25_tooltip:0 "Cela coûte [This.GetDecisionCostCP25PP25] de prendre cette décision"
+ decision_cost_CP_25_pp_25_tooltip:0 "Cela coûte £command_power §H25§! et £pol_power §H25§! de prendre cette décision"
 
 decision_cost_CP_35_pp_35:0 "£command_power  §Y35§! £pol_power  §Y35§!"
 decision_cost_CP_35_pp_35_blocked:0 "£command_power  §R35§! £pol_power  §R35§!"
-decision_cost_CP_35_pp_35_tooltip:0 "Cela coûte [This.GetDecisionCostCP35PP35] de prendre cette décision"
+decision_cost_CP_35_pp_35_tooltip:0 "Cela coûte £command_power §H35§! et £pol_power §H35§! de prendre cette décision"
 
 decision_cost_CP_10_pp_10:0 "£command_power  §Y10§! £pol_power  §Y10§!"
 decision_cost_CP_10_pp_10_blocked:0 "£command_power  §R10§! £pol_power  §R10§!"
-decision_cost_CP_10_pp_10_tooltip:0 "Cela coûte [This.GetDecisionCostCP10PP10] de prendre cette décision"
+decision_cost_CP_10_pp_10_tooltip:0 "Cela coûte £command_power §H10§! et £pol_power §H10§! de prendre cette décision"
+
+ LAT_contact_attaches_cost_blocked:0 "£command_power §R10§! £pol_power §R10§!"
+ LAT_contact_attaches_cost_tooltip:0 "Cela coûte £command_power §H10§! et £pol_power §H10§! de prendre cette décision"

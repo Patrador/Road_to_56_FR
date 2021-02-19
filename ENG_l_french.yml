@@ -12,7 +12,9 @@ ENG_admiralty_naval_staff_desc:0 "Le personnel naval de l'Amirauté est le véri
 
 ENG_tank_variant_focus:0 "Développer des variantes de char"
 ENG_tank_variant_focus_desc:0 "Les chars peuvent jouer bien plus de rôles que le combat direct. Ils peuvent être rendus amphibies, être équipés de pièces d'artillerie ; ils peuvent détruire les défenses ennemies ou devenir des plateformes anti-aériennes pour protéger les troupes environnantes contre les attaques aériennes."
-
+ 
+ENG_agents_of_the_revolution:0 "Agents de la révolution"
+ENG_agents_of_the_revolution_desc:0 "Les opérations de couverture sont essentielles pour protéger la Révolution."
 #Custom Tooltips
 
 #Flags
@@ -20,6 +22,9 @@ ENG_tank_variant_focus_desc:0 "Les chars peuvent jouer bien plus de rôles que l
 #Ideas
 ENG_crypto_bomb_idea_lar:0 "Bombe cryptologique"
 ENG_admiralty_naval_staff:0 "État-major de l'Amirauté"
+ENG_royal_family_remnants:0 "Vestiges de la famille royale"
+ENG_royal_family_remnants_desc:0 "Bien que la plus grande partie de la famille royale ait été exécutée par ces démons communistes, il y a toujours un héritier, désireux de se débarrasser de ce nouveau parlement croupion et de restaurer le trône britannique."
+
 
 #Events
 englandmod.99.t:0 "Archibald Wavell arrive en Inde"
@@ -34,6 +39,7 @@ ENG_speech_against_war_desc:0 "Le sang de notre plus belle jeunesse ne sera pas 
 ENG_john_dill:0 "John Dill"
 ENG_alan_turing:0"Alan Turing"
 ENG_harold_harmsworth:0 "Harold Harmsworth"
+ENG_willie_gallacher:0 "Willie Gallacher"
 #Companies
 #ENG_industrial_concern:0 "English Steel Corporation Ltd"
 ENG_guest_keen_baldwins:0 "Guest Keen Baldwins"
@@ -52,8 +58,8 @@ ENG_ROF_nottingham:0 "ROF Nottingham"
 #Misc
 british_alternate_focus:0 "Arbre des priorités de l'Empire britannique"
 british_alternate_focus_tt:0 "§RUn autre arbre des priorités sera chargé une fois que cette priorité est terminée et contient toutes les priorités fascistes. Il n'y pas de retour en arrière ! Choisir judicieusement.§!"
-
-
+ENG_anti_communist_commanders_exile_tt:0 "§RLes commandants aristocrates disparaîtront ou s'exileront.§!"
+revolutionary_scientific_congress_name:0 "Congrès scientifique révolutionnaire"
 
 
 r56_eng.1.t:0 "Seul le fascisme peut préserver la paix !"
@@ -63,3 +69,63 @@ r56_eng.1.a:0 "Nous allons empêcher la guerre !"
 r56_eng.2.t:0 "Les guerres à l'étranger"
 r56_eng.2.desc:0 "Les Britanniques ne doivent se battre que pour la Grande-Bretagne ! La vue des fils de la Grande-Bretagne quittant nos côtes afin de mourir pour des querelles étrangères doit devenir une entrée dans nos livres d'histoire. Les Britanniques ne doivent se battre que pour la Grande-Bretagne et la défense de l'Empire."
 r56_eng.2.a:0 "Nous ne mourrons pas sur des rivages étrangers !"
+
+r56_eng.3.t:0 "Les exilés militaires britanniques demandent l'asile"
+r56_eng.3.desc:0 "D'anciens membres de l'armée britannique fuyant les communistes sont arrivés et demandent l'asile. En fait, ils pourraient certainement servir nos forces armées à la place."
+r56_eng.3.a:0 "Nous avons toujours besoin de personnel expérimenté !"
+
+r56_eng.4:0 "Les survivants de la famille royale se réfugient dans notre pays"
+r56_eng.4.desc:0 "Échappant aux événements tragiques qui ont décimé la famille royale, les survivants ont demandé à pouvoir s'établir dans notre pays, avec l'espoir de pouvoir un jour restaurer la monarchie en Grande-Bretagne."
+r56_eng.4.a:0 "Nous ne sommes pas à Westminster, mais nous ferons de notre mieux."
+
+
+
+ENG_opposition_to_the_national_government:0 "Opposition au gouvernement national"
+ENG_opposition_to_the_national_government_desc:0 "Opposition au gouvernement national"
+ENG_united_front_strategy:0 "La stratégie du front uni"
+ENG_united_front_strategy_desc:0 "La stratégie du front uni"
+ENG_expel_the_old_oppressors:0 "Expulser les anciens oppresseurs"
+ENG_expel_the_old_oppressors_desc:0 "Expulser les anciens oppresseurs"
+ENG_redistribution_of_wealth:0 "Redistribution des richesses"
+ENG_redistribution_of_wealth_desc:0 "Redistribution des richesses"
+ENG_heavy_industry_investment:0 "Développer l'industrie lourde"
+ENG_heavy_industry_investment_desc:0 "Développer l'industrie lourde"
+ENG_promote_new_officers:0 "Promouvoir de nouveaux officiers"
+ENG_promote_new_officers_desc:0 "Promouvoir de nouveaux officiers"
+ENG_the_peoples_duty:0 "Le devoir du peuple"
+ENG_the_peoples_duty_desc:0 "Le devoir du peuple"
+ENG_alliance_with_the_canadian_workers:0 "Alliance avec les travailleurs canadiens"
+ENG_alliance_with_the_canadian_workers_desc:0 "Alliance avec les travailleurs canadiens"
+ENG_spanish_civil_war_involvement:0 "Participation à la guerre civile espagnole"
+ENG_spanish_civil_war_involvement_desc:0 "Participation à la guerre civile espagnole"
+ENG_the_necessity_of_ideological_struggle:0 "La nécessité de la lutte idéologique"
+ENG_the_necessity_of_ideological_struggle_desc:0 "La nécessité de la lutte idéologique"
+ENG_awakening_from_pacifism:0 "L'éveil du pacifisme"
+ENG_awakening_from_pacifism_desc:0 "L'éveil du pacifisme"
+ENG_ally_with_the_spanish_republic:0 "S'allier à la République espagnole"
+ENG_ally_with_the_spanish_republic_desc:0 "S'allier à la République espagnole"
+ENG_enforced_economic_reorganization:0 "Réorganisation économique"
+ENG_enforced_economic_reorganization_desc:0 "Réorganisation économique"
+ENG_challenge_stalinism:0 "Défier le stalinisme"
+ENG_challenge_stalinism_desc:0 "La doctrine de Staline est une tyrannie avec un voile rouge !"
+ENG_dont_challenge_party_line:0 "Ne pas contester le parti"
+ENG_dont_challenge_party_line_desc:0 "Le parti a toujours raison ! L'Internationale nous mènera à la révolution mondiale !"
+ENG_revolutionary_scientific_congress:0 "Congrès scientifique révolutionnaire"
+ENG_revolutionary_scientific_congress_desc:0 "La révolution offre une occasion unique de permettre aux scientifiques et aux travailleurs du monde entier de partager leurs connaissances et d'éradiquer la science réactionnaire qu'est la génétique."
+
+ENG_take_the_reactionaries_out_of_their_nest:0 "Sortir les réactionnaires de leur nid"
+ENG_take_the_reactionaries_out_of_their_nest_desc:0 "Sortir les réactionnaires de leur nid"
+ENG_anti_american_rhetoric:0 "Rhétorique anti-américaine"
+ENG_anti_american_rhetoric_desc:0 "Rhétorique anti-américaine"
+ENG_liberate_the_american_workers:0 "Libérer les travailleurs américains"
+
+ENG_welcome_british_exiles:0 "Accueillir les exilés britanniques"
+ENG_welcome_british_exiles_desc:0 "Ils sont dévastés par les événements qui secouent la Grande-Bretagne et ont souvent tout perdu, mais ils n'ont jamais perdu leur talent..."
+ENG_recruit_volunteers:0 "Recruter des volontaires"
+ENG_recruit_volunteers_desc:0 "L'afflux de réfugiés britanniques a amené beaucoup de gens prêts à se battre pour reconquérir la terre de leur enfance plutôt que de vivre à l'étranger."
+ENG_british_agents:0 "Agents britanniques"
+ENG_british_agents_desc:0 "Certains de ces réfugiés pourraient devenir des agents secrets compétents."
+ENG_landing_exercices:0 "Exercices d'atterrissage"
+ENG_landing_exercices_desc:0 "Envahir l'immensité de la mer n'est pas une tâche facile et nous devons nous assurer que nous sommes préparés technologiquement, logistiquement et moralement à cette entreprise."
+ENG_reclaim_the_british_isles_exile:0 "Reconquérir les îles britanniques"
+ENG_reclaim_the_british_isles_exile_desc:0 "Les révolutionnaires ont profané la monarchie et le parlement, apportant la tyrannie et la misère au peuple britannique. Il est de notre devoir, en tant que membre du Commonwealth, de nous battre pour la restauration de la Grande-Bretagne. La rumeur dit que le roi lui-même a dit qu'il était désireux de « réclamer son droit naturel »."

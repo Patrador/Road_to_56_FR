@@ -206,6 +206,11 @@ l_french:
  BHU_reclamation_of_the_lost_lands:0 "Exiger le territoire perdu"
  BHU_attack_the_plateau:0 "Attaquer le Plateau"
  BHU_attack_the_plateau_desc:0 "Les Tibétains sont nos parents et c'est notre destin de les gouverner tous."
+ BHU_swallow_the_white_sun:0 "Avaler le Soleil Blanc"
+ BHU_swallow_the_white_sun_desc:0 "Le dragon du tonnerre va montrer sa vraie puissance !"
+ BHU_extinguish_the_red_sun:0 "Éteindre le soleil rouge"
+ BHU_extinguish_the_red_sun_desc:0 "Ils prétendent que c'est leur destin de régner sur toute l'Asie. Montrons-leur à quel point ils ont tort."
+
  BHU_maintain_monarchic_regime:0 "Maintenir le régime monarchique"
  BHU_maintain_monarchic_regime_desc:0 "Le roi dragon est la tête et la fondation de notre pays."
  BHU_reinforce_the_throne:0 "Renforcer le trône"

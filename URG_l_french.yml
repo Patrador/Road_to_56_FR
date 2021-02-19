@@ -1,15 +1,18 @@
 ﻿l_french:
  URG_neutrality_party:0 "Colorado"
- URG_neutrality_party_long:0 "Colorado"
+ URG_neutrality_party_long:0 "Partido Colorado"
 
- URG_fascism_party:0 "Partido Nacional (Herrera)"
- URG_fascism_party:0 "Partido Nacional (Herrera)"
+ URG_fascism_party:0 "PN (Herrera)"
+ URG_fascism_party_long:0 "Partido Nacional (Herrera)"
 
- URG_colorado_party_terra_party_long:0 "Parti Colorado (Terra)"
+ URG_colorado_party_terra_party_long:0 "Partido Colorado (Terra)"
+ URG_colorado_party_terra_party:0 "Colorado (Terra)" 
 
  URG_partido_unido_uruguayo_party_long:0 "Partido Unido Uruguayo"
+ URG_partido_unido_uruguayo_party:0 "PUU" 
 
- URG_movimiento_socialista_party_long:0 "Movimiento Socialista"
+ URG_movimiento_socialista_party_long:0 "Partido Socialista del Uruguay" #The Movimiento Socialista was founded in 1963. Frugoni was the main candidate of the PSU in 1938
+ URG_movimiento_socialista_party:0 "PSU" 
 
  uruguay.1.t:0 "Disparition de Gabriel Terra"
  uruguay.1.d:0 "Il y a deux jours, Gabriel Terra s'est rendu en visite diplomatique en Argentine, principalement dans le cadre d'une révision de certains traités commerciaux entre les deux nations, suite à l'adoption d'une politique plus protectionniste par le nouveau gouvernement, initiée notamment par le vice-président Luis Alberto de Herrera.\nLe soir de son retour, vers deux heures du matin, les contacts avec l'avion censé ramener le président en Uruguay ont été perdus.\nLe lendemain, au milieu du fleuve Noir, le navire fut retrouvé en panne. Aucun passager n'a survécu. Alors que le pays se remet du choc de la perte du Président qui a permis à l'Uruguay de sortir de la Grande Dépression et de moderniser le système politique en alliant les deux principaux partis politiques du pays, Luis Alberto de Herrera se prépare à assumer la présidence du pays."
@@ -63,6 +66,9 @@
  URG_one_union_for_all_workers_desc:0 "Pour défendre les travailleurs, un grand syndicat, avec le soutien du gouvernement, doit rassembler tous les travailleurs d'Uruguay."
  URG_join_the_comintern:0 "Rejoindre le Komintern"
  URG_join_the_comintern_desc:0 "Notre place est avec nos alliés soviétiques. Ce n'est qu'en nous unissant que nous vaincrons le capitalisme."
+ URG_follow_the_tradition:0 "Suivre la tradition"
+ URG_switzerland_of_the_americas:0 "La Suisse d'Amérique"
+ urg_switzerland_of_the_americas_idea:0 "La Suisse d'Amérique"
 
  URG_GATHERING_STORM_DESC:0 "Alors que l'Uruguay était l'un des pays les plus stables d'Amérique du Sud, le coup d'État de Gabriel Terra a été un choc pour cette petite nation. Les persécutions provoquées par le régime ont forcé de nombreux politiciens et intellectuels à fuir, en particulier vers l'Argentine.\n\nCependant, la dictature est loin d'être enracinée, avec une première tentative de coup révolutionnaire en 1935, qui pourrait ne pas être la dernière."
  

@@ -9,11 +9,17 @@
  #future antononv
  UKR_generic_heavy_aircraft_manufacturer:0 "State Aircraft Plant 12" 
  #Kommunar for trucks, future ZAZ
- UKR_generic_motorized_equipment_manufacturer:0 "Kommunar" 
+ UKR_generic_motorized_equipment_manufacturer:0 "Factory No. 183"
  UKR_generic_artillery_manufacturer:0 "Arsenal Factory"
  UKR_generic_infantry_equipment_manufacturer:0 "Shostka Powder Plant"
  
  UKR_contact_west_ukrainians:0 "Contacter les Ukrainiens de l'ouest"
+ UKR_multinational_army_command:0 "Commandement de l'armée multinationale"
+ UKR_join_integrated_army_command:0 "Rejoindre le commandement intégré de l'armée de terre"
+ UKR_integrated_air_workshops:0 "Ateliers d'aviation intégrés"
+
+ UKR_mykola_lebed:0 "Mykola Lebed" 
+ 
 
  UKR_revolt:0 "Révolte en Ukraine"
 
@@ -26,3 +32,21 @@
  ukraine.2.d:0 "Ce qui était une simple insurrection s'est transformé en une véritable guerre d'indépendance pour l'Ukraine. Nos soldats n'ont pas pu sécuriser Kiev et l'armée ukrainienne est maintenant suffisamment organisée pour commencer à entrer sur un territoire qui était jusque-là sous notre contrôle.\n\nNous ne pouvons pas nous permettre de continuer une guerre qui nous a déjà coûté si cher. Nous avons donc invité le ministre des Affaires étrangères du gouvernement provisoire ukrainien à négocier une paix entre nos deux nations, reconnaissant l'indépendance de l'Ukraine et leur transférant tout territoire qu'ils considèrent ukrainien et qui est entre leurs mains."
  ukraine.2.a:0 "Nous aurons la paix."
  ukraine.2.b:0 "Jamais ! L'Ukraine restera soviétique !"
+
+ ukraine.3.t:0 "Un compromis ukrainien ?"
+ ukraine.3.desc:0 "Le gouvernement [UKR.GetAdjMS] suggère l'établissement d'un condominium ukrainien en Galicie-Volhynie orientale. Il accorderait l'autonomie à la population ukrainienne de l'Ukraine occidentale, ce qui résoudrait les tensions ethniques entre les communautés ukrainienne et polonaise. En plus de l'autonomie locale, les Ukrainiens exigent certaines concessions économiques."
+ ukraine.3.a:0 "Une petite concession dans le grand ordre des choses."
+ ukraine.3.b:0 "La Pologne ne sera pas divisée."
+
+ ukraine.4.t:0 "La Pologne a accepté notre proposition"
+ ukraine.4.desc:0 "Suite à notre demande, la Pologne a créé une région autonome en Ukraine occidentale. [DOU.GetNameDefCap] a été créée. Bien qu'elle soit techniquement encore en dehors de l'Ukraine, elle assurera l'égalité des droits pour tous et nous permettra d'aller plus loin dans notre collaboration avec les Polonais, tout en gardant les éléments les plus nationalistes de l'OUN relativement discrets."
+ ukraine.4.a:0 "Vive l'amitié ukraino-polonaise !" 
+
+ ukraine.5.t:0 "La Pologne a accepté notre proposition"
+ ukraine.5.desc:0 "Suite à notre demande, la Pologne a créé une région autonome en Ukraine occidentale. [DOU.GetNameDefCap] a été créé[DOU.GetXENP][DOU.GetXSNP]. Bien qu'elle soit techniquement encore en dehors de l'Ukraine, elle assurera l'égalité des droits pour tous et nous permettra d'aller plus loin dans notre collaboration avec les Polonais, tout en gardant les éléments les plus nationalistes de l'OUN relativement discrets."
+ ukraine.5.a:0 "Vive l'amitié ukraino-polonaise !" 
+
+ ukraine.6.t:0 "Rejoindre le commandement intégré ?"
+ ukraine.6.desc:0 "L'armée [UKR.GetAdjFS] a conçu un plan pour améliorer l'efficacité de nos forces militaires combinées. Si les membres du [ROOT.GetFactionName] pouvaient être réunis sous un commandement unifié, ils partageraient leurs ressources de manière plus efficace."
+ ukraine.6.a:0 "Rejoindre le commandement unifié."
+ ukraine.6.b:0 "Décliner poliment." 

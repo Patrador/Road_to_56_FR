@@ -64,3 +64,13 @@
  MRART_armor_upgrade:0 "Blindage"
  MRART_armor_upgrade_desc:0 "Améliore la dureté"
  plane_transport_defense_upgrade:0 "Défense"
+ plane_transport_defense_upgrade_desc:0 "Les améliorations apportées au canon défensif arrière des avions peuvent aider à repousser tout attaquant éventuel."
+ ship_convoy_reliability:0 "Fiabilité"
+ ship_convoy_reliability_desc:0 "Un navire de convoi d'une plus grande fiabilité peut aider à assurer que sa cargaison arrive à destination sans pannes."
+ ship_convoy_surface_visibility:0 "Coque à profil bas"
+ ship_convoy_surface_visibility_desc:0 "Un navire de convoi dont la coque est plus basse et plus courte peut réduire sa capacité à être repéré à distance par les navires et les avions ennemis. Bien qu'il faille dire que de telles conceptions compliquent le processus de construction."
+ ship_convoy_anti_sub:0 "Kit anti-sous-marin"
+ ship_convoy_anti_sub_desc:0 "Équiper nos navires de convoi de grenades sous-marines « Ashcan » et d'hydrophones peut donner à une flotte de convois une chance de se battre contre les sous-marins. Bien que de telles mesures ne remplacent pas une escorte de destroyers adéquate."
+ ship_convoy_gun:0 "Canons de pont supplémentaires"
+ ship_convoy_gun_desc:0 "Une simple augmentation du nombre de canons anti-aériens et de canons de pont sur un navire de convoi peut faire toute la différence contre les raids de navires et d'avions."
+ 

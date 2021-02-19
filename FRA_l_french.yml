@@ -800,6 +800,10 @@
  FRA_the_regiment_normandie2:0 "Le régiment de Normandie"
  FRA_the_regiment_normandie2_desc:0 "Comme nous avons un ennemi commun avec [SOV.GetNameDef], l'envoi de quelques pilotes à leur secours contribuerait à notre effort de guerre commun."
 
+ ### Game rule bonus ####
+
+ FRA_unify_the_metropole:0 "Unifier la Métropole"
+ FRA_unify_the_metropole_desc:0 "L'Hexagone a été injustement coupé en deux par les traîtres du Sud. L'unité française doit être restaurée, une fois pour toutes."
 
 	#### FLAGS ####
  front_explosed:0 "Front populaire dissous"
@@ -877,7 +881,7 @@
  france.118.d:0 "Hitler refuse votre plan de diviser la Suisse en deux, prétendant que la situation politique mondiale n'est pas prête pour cela."
  france.118.a:0 "C'est une terrible erreur."
  france.119.t:0 "Retour de Pétain au gouvernement"
- france.119.d:0 "La Seconde Guerre mondiale a commencé et Pétain a déjà refusé plusieurs offres pour rejoindre le gouvernement. Il est critique à l'encontre du Parlement pour le mauvais état de préparation de l'armement français et les coupes budgétaires militaires de l'entre-deux-guerres. Cependant, en temps de guerre, la haute réputation de Pétain comme le plus ancien soldat français après la mort de Foch et comme le plus humain de nos commandants militaires, nous devrions lui demander à nouveau de rejoindre notre gouvernement."
+ france.119.d:0 "La Seconde Guerre mondiale a commencé et Pétain a déjà refusé plusieurs offres pour rejoindre le gouvernement. Il critique le parlement pour le mauvais état de l'armement français, la préparation et les coupes budgétaires militaires de l'entre-deux-guerres. Cependant, en temps de guerre, la haute réputation de Pétain comme le plus ancien soldat français après la mort de Foch et comme le plus humain de nos commandants militaires, nous devrions lui demander à nouveau de rejoindre notre gouvernement."
  france.119.a:0 "Pétain va unir le pays"
  france.120.t:0 "L'inflation diminue"
  france.120.d:0 "Avec la guerre actuelle et les mesures radicales prises par le gouvernement, l'hyperinflation a diminué et le franc est maintenant stable."
@@ -889,7 +893,7 @@
  france.122.d:0 "La Chambre des députés a élu le premier ministre Reynaud, mais par un seul vote, la plupart des membres de son propre parti s'étant abstenus. Le nouveau gouvernement est particulièrement instable ; beaucoup à droite ont exigé que Reynaud attaque non pas l'Allemagne, mais l'Union soviétique. La Chambre a également forcé Daladier, que Reynaud tenait personnellement responsable de la faiblesse de la France, à être ministre de la Défense nationale et de la Guerre de Reynaud."
  france.122.a:0 "Paul Reynaud dirigera le nouveau gouvernement."
  france.123.t:0 "Restauration de la monarchie"
- france.123.d:0 "Aujourd'hui, le pape Pie XI a intronisé Henri VII comme roi de France. Le nouveau chef annonce qu'il guidera le pays en ces temps incertains."
+ france.123.d:0 "Aujourd'hui, le pape Pie XI a intronisé Henri VII comme roi des Français. Le nouveau chef a annoncé qu'il guidera le pays en ces temps incertains."
  france.123.a:0 "Vive le roi !"
  france.123.b:0 "Garder Charles Maurras à la tête du pays."
  france.124.t:0 "Invitation à la faction française"

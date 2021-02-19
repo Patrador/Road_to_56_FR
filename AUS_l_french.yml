@@ -545,6 +545,8 @@ AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
  AUS_initiate_the_bohmen_plan_desc:0 "La Tchécoslovaquie a été presque libérée de la domination allemande et le temps est venu de contester directement leur contrôle et de rétablir notre peuple dans notre union. La guerre, si désagréable, est parfois nécessaire."
  AUS_initiate_the_bohmen_plan_tt:0 "La §YTchécoslovaquie§! deviendra notre fantoche, mais nous déclarerons la guerre à l'§RAllemagne.§!\n"
 
+
+ AUS_deactivate_YUG_collaboration_tt:0 "§R Cette option désactivera la possibilité de créer un gouvernement de collaboration yougoslave.§!\n"
  AUS_full_czech_citizenship:0 "Citoyenneté tchèque complète"
  AUS_full_czech_citizenship_desc:0 "La Tchécoslovaquie était autrefois austro-hongroise et ses habitants étaient considérés comme étant austro-hongrois. Il est juste que nous restaurions ce statut afin que notre peuple puisse vivre librement sous notre règne."
 
@@ -735,6 +737,8 @@ AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
  
  AUS_austrian_neutrality:0 "Neutralité autrichienne"
  
+ AUS_austrian_german_leadership:0 "Présidence allemande et autrichienne"
+
  #Diplomacy
  alps_defence_member:0 "Membre du Pacte de défense des Alpes"
  

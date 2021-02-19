@@ -15,4 +15,6 @@ l_french:
    looting_resistance:0 "Pillage de résistance"
    r56_severe_jim_crow:0 "Lois Jim Crow sévères"
    r56_jim_crow:0 "Lois Jim Crow"
-   r56_mild_jim_crow:0 "Lois Jim Crow légère"
+   r56_mild_jim_crow:0 "Lois Jim Crow légères"
+   r56_clandestine_propaganda_techniques:0 "Techniques de propagande clandestine"
+      r56_mild_jim_crow:0 "Lois Jim Crow moyennes"

@@ -281,6 +281,10 @@ euskalduna:0 "Euskalduna"
  SPA_equip_the_new_armada:0 "Équiper la nouvelle Armada"
  SPA_equip_the_new_armada_desc:0 "La nouvelle marine a besoin des équipements les plus modernes afin de pouvoir défier ses rivaux. Revigorons l'Armada."
 
+ SPR_crush_regional_governments:0 "Écraser les gouvernements régionaux"
+ SPR_crush_regional_governments_desc:0 "L'Espagne doit être unie !"
+ SPR_crush_regional_governments_r56:0 "Écraser les gouvernements régionaux"
+ SPR_crush_regional_governments_r56_desc:0 "L'Espagne doit être unie !"
  SPA_spanish_austrian_diplomatic_unity:0 "Unité diplomatique hispano-autrichienne"
  SPA_spanish_austrian_diplomatic_unity_desc:0 "Bien que les couronnes d'Autriche et d'Espagne ne soient plus liées de manière dynastique depuis le début du XVIIIe siècle, les menaces du monde moderne soulignent clairement la nécessité d'une alliance forte des monarques d'Europe."
 

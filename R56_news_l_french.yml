@@ -97,3 +97,10 @@ r56.news_event.19.d:0 "\nÉtrange nouvelle en provenance de Washington ce matin,
 r56.news_event.19.a:0 "Le Groenland ? Un territoire en plus, ça fait toujours plaisir."
 r56.news_event.19.b:0 "Un geste audacieux de la part [USA.GetDuDelaDelNP] [USA.GetName]."
 r56.news_event.19.c:0 "Comment osent-ils kidnapper ce que nous avons légitimement volé !"
+
+#The Kashar Islamic rebellion
+r56.news_event.20.t:0 "La rébellion islamique de Kachgar"
+r56.news_event.20.d:0 "[SIK.getleader] a décidé d'agir contre les milices musulmanes turques de plus en plus autonomes dans l'armée de Kashgar distincte [TNG.GetAuEnANP] [TNG.getname]. Cette démarche est, en substance, une démarche contre [TNG.getleader] et son contrôle sur la région. Cette soi-disant « rébellion » a rapidement dégénéré en un conflit entre [SIK.getnamedef] et [TNG.getnamedef] puisque les forces armées de [TNG.getleader] sont venues au secours des rebelles.\n\nDe nombreuses rumeurs politiques ont laissé entendre que le vainqueur du conflit deviendrait le souverain incontesté de la région du Xinjiang."
+r56.news_event.20.a:0 "Vous m'avez forcé la main !"
+r56.news_event.20.b:0 "Des tensions entre pions..."
+r56.news_event.20.c:0 "Cela a rapidement dégénéré."

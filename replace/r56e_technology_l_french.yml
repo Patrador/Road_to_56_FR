@@ -401,7 +401,7 @@ l_french:
  etax_glory_desc:0 "Il n'y a rien de plus noble et de plus vrai que l'art du combat. Une personne n'est pas vraiment mise à l'épreuve tant qu'elle ne s'est pas lancée dans la bataille et n'a pas laissé la forge de la guerre façonner son cœur."
  etax_purity:0 "Classements sélectifs"
  etax_purity_desc:0 "Nous avons éliminé de nos forces celles qui sont inaptes à servir, et il ne reste que les plus fortes et les plus dévouées."
- etax_great_leap:0 "Super science"
+ etax_great_leap:0 "Coordination scientifique"
  etax_great_leap_desc:0 "Alors que d'autres se contentent de se lancer avec leurs petits efforts, nous n'avons pas peur de prendre des risques et de parier sur les technologies qui façonneront notre monde loin dans le futur."
 
  etax_grand_projects:0 "Ingénierie spécialisée"
@@ -411,8 +411,8 @@ l_french:
 
  etax_moonshot:0 "Armée de l'air du futur"
  etax_moonshot_desc:0 "Notre concentration sur la domination de l'air a donné lieu à des avancées vraiment merveilleuses. Avec cela, notre maîtrise du ciel est absolument incontestable."
- etax_super_soldiers:0 "Super soldats"
- etax_super_soldiers_desc:0 "Nous avons mis au point une petite drogue qui permet à nos soldats de se déplacer plus loin, plus rapidement et plus longtemps que ce que la condition humaine permet normalement."
+ etax_super_soldiers:0 "Stimulants de combat"
+ etax_super_soldiers_desc:0 "En ajoutant de puissants stimulants à nos rations de campagne, nos soldats peuvent marcher plus longtemps et plus vite qu'on ne le pensait auparavant. Un effet secondaire regrettable est que ces substances provoquent un sentiment de tristesse après un usage prolongé. Non destiné à la revente."
  etax_the_bomb:0 "Le projet"
  etax_the_bomb_desc:0 "Nos scientifiques ont consacré tous leurs efforts à une idée absolument effrayante mais brillante. En fin de compte, ils n'ont pas donné les résultats souhaités, mais grâce à eux, nous avons réussi à faire avancer chaque domaine d'enquête de façon inestimable."
 
