@@ -135,7 +135,7 @@
  	FRA_ecole_de_lair_idea:0 "l'École de l'air"
  	FRA_potez_630:0 "Potez 630"
  	FRA_plan_v_idea:0 "Plan V"
- 	FRA_castex_strategies_idea:0 "Les stratégies de Castex"
+ 	FRA_castex_strategies_idea:0 "Stratégies de Castex"
 
  
   	############################
@@ -727,9 +727,9 @@
 	
 	#### NAVAL SECTION ####
  
- FRA_naval_contruction_program:0 "Programme de construction navale"
- FRA_naval_contruction_program_tt:0 "Il n'y a pas assez d'espace pour une §YBase navale§!"
- FRA_naval_contruction_program_desc:0 "Si nous prévoyons d'agrandir notre marine, la première étape consiste à améliorer et à développer nos bases navales. Nos navires uniques exigent une attention constante pour rester prêts au combat en tout temps."
+ FRA_naval_construction_program:0 "Programme de construction navale"
+ FRA_naval_construction_program_tt:0 "Il n'y a pas assez d'espace pour une §YBase navale§!"
+ FRA_naval_construction_program_desc:0 "Si nous prévoyons d'agrandir notre marine, la première étape consiste à améliorer et à développer nos bases navales. Nos navires uniques exigent une attention constante pour rester prêts au combat en tout temps."
  FRA_altlantic_domination:0 "Domination atlantique"
  FRA_altlantic_domination_desc:0 "L'amélioration de la conception de nos cuirassés entraînerait de grands avantages tactiques dans l'Atlantique. Avec leur portée et leur puissance incontestées, personne ne pourra dépasser leurs canons."
  FRA_pacific_protection:0 "Protection du Pacifique"
@@ -745,7 +745,7 @@
  
  FRA_CHEDN:0 "Fonder le CHEDN"
  FRA_CHEDN_desc:0 "WIP"
- FRA_experiment_castex_strategies:0 "Stratégies d'expérimentation de Castex"
+ FRA_experiment_castex_strategies:0 "Stratégies de Castex"
  FRA_experiment_castex_strategies_desc:0 "WIP"
  FRA_adapt_young_school_concepts:0 "Adapter les concepts de la jeune école"
  FRA_adapt_young_school_concepts_desc:0 "WIP"
