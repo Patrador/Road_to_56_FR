@@ -437,11 +437,23 @@
  cityfall.84.b:0 "Une grande victoire !"
  cityfall.84.c:0 "La guerre prend une tournure inattendue."
 
- cityfall.85.t:0 "Des unités [new_controller.GetAdjFP]s entrent dans Bangkok"
+ cityfall.85.t:0 "Des divisions [new_controller.GetAdjFP] entrent dans Bangkok"
  cityfall.85.desc:0 "\nLes citoyens [old_controller.GetAdjMP] sont choqués d'apprendre la nouvelle de la chute de la ville de Bangkok (également connu en thaï sous le nom de « Krungthep Mahanakho »). Les [new_controller.GetHabitants] ont rapidement sécurisé les ministères et les postes de police afin d'assurer un contrôle total sur la ville."
  cityfall.85.a:0 "Le combat n'est pas terminé !"
  cityfall.85.b:0 "Une grande victoire !"
  cityfall.85.c:0 "La guerre prend une tournure inattendue." 
+
+ cityfall.86.t:0 "Des divisions [new_controller.GetAdjFP] entrent dans Stockholm"
+ cityfall.86.desc:0 "\n[old_controller.GetAdjective] Les citoyens sont dans le désarroi alors que la ville de Stockholm a été submergée par les envahisseurs [new_controller.GetAdjMP]. Malgré la résistance de certains bataillons protégeant l'île de la vieille ville en faisant sauter de nombreux ponts et en érigeant des barricades, la prise du Slussen rend la position des défenseurs de plus en plus difficile.\n\nLa bataille de Stockholm est maintenant terminée et [new_controller.GetLeader] célèbre certainement le succès de l'opération."
+ cityfall.86.a:0 "Le combat n'est pas terminé !"
+ cityfall.86.b:0 "Une grande victoire !"
+ cityfall.86.c:0 "La guerre prend une tournure inattendue."
+
+ cityfall.87.t:0 "Des divisions [new_controller.GetAdjFP] entrent dans Oslo"
+ cityfall.87.desc:0 "\nL'armée [old_controller.GetAdjFS] se replie, laissant les habitants d'Oslo sans défense alors que les soldats [new_controller.GetAdjMP] sécurisent la ville. Alors que le bruit des armes cessaient de retentir, un étrange voile de calme et de peur entremêlés couvrait la ville. Même si le gouvernement [old_controller.GetAdjMS] s'engage à combattre les envahisseurs jusqu'à la fin, la perte de la ville est un coup dur pour [old_controller.GetNameDef]\n\nLes combats continuent pour l'instant mais une question commence à trotter dans la tête de plus en plus de gens : « Pour combien de temps ? »"
+ cityfall.87.a:0 "Le combat n'est pas terminé !"
+ cityfall.87.b:0 "Une grande victoire !"
+ cityfall.87.c:0 "La guerre prend une tournure inattendue."
 
 #cityfall.12.t:0 "The Fall of Stockholm"
 #cityfall.12.d:0 "."

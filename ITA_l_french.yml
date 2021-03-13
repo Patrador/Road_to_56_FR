@@ -496,6 +496,8 @@
  ITA_further_pilots_training_desc:0 "Le dernier point sur lequel nous devrions moderniser notre aviation est le niveau d'entraînement des pilotes. Le développement d'un entraînement au combat aérien nous permettra d'entraîner une nouvelle génération de pilotes plus talentueuse que la précédente."
  ITA_crocco_mission:0 "Mission de Crocco"
  ITA_crocco_mission_desc:0 "Gaetano Crocco, pionnier de la fuséologie italienne et fondateur de la Société de fuséologie italienne a relevé le lourd défi de développer un système de missiles pour équiper l'armée italienne."
+ ITA_satisfy_the_branches_needs:0 "Satisfaire les besoins des branches"
+ ITA_satisfy_the_branches_needs_desc:0 "La marine et l'armée de l'air ont été avides de ressources et lorgnent jalousement sur les privilèges accordés à l'armée. Il est temps de leur donner satisfaction."
  ITA_appoint_messe_2:0 "Nommer Messe"
  ITA_appoint_messe_2_desc:0 "Giovanni Messe était le commandant d'une division motorisée pendant la guerre en Abyssinie, ce qui lui a rapporté le grade de brigadier général. Il est habitué aux divisions rapides, qu'elles soient équestres ou motorisées. En faire le chef de l'armée lui permettra de la réformer avec des doctrines fondées sur la vitesse."
  ITA_restructure_the_divisions:0 "Restructurer les divisions"
@@ -618,6 +620,7 @@ scotti:0 "Scotti"
 astaldi:0 "Astaldi"
 pirelli:0 "Pirelli"
 ITA_finsider:0 "Finsider"
+ITA_aeronautica_lombarda:0 "Aeronautica Lombarda"
 
 #Traits
 ansaldo_tank_manufacturer:0 "Concepteur de chars"

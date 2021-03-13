@@ -1599,8 +1599,10 @@
  NFL_fascism_DEF:0 "l'État de Terre-Neuve"
  NFL_fascism_ADJ:0 "terreneuvien"
  NFL_UK_subject:0 "Dominion de Terre-Neuve"
+ NFL_UK_subject_def:0 "le Dominion de Terre-Neuve"
+ NFL_UK_subject_communism:0 "Commune de Terre-Neuve"
+ NFL_UK_subject_communism_def:0 "la Commune de Terre-Neuve"
  NFL_subject:0 "Terre-Neuve $OVERLORDADJ$"
-
 
  #NGR
  NGR_fascism:0 "Royaume du Niger"
@@ -2008,17 +2010,17 @@
  SIA_communism_DEF:0 "la République populaire du Siam"
 
  #SIK
- SIK_fascism:0 "Ouïghouristan"
- SIK_fascism_DEF:0 "le Ouïghouristan"
- SIK_democratic:0 "République du Turkestan oriental"
- SIK_democratic_DEF:0 "la République du Turkestan oriental"
- SIK_neutrality:0 "République du Turkestan oriental"
- SIK_neutrality_DEF:0 "la République du Turkestan oriental"
+ SIK_fascism:0 "État du Xinjiang"
+ SIK_fascism_DEF:0 "l'État du Xinjiang"
+ SIK_democratic:0 "État du Xinjiang"
+ SIK_democratic_DEF:0 "l'État du Xinjiang"
+ SIK_neutrality:0 "Clique du Xinjiang"
+ SIK_neutrality_DEF:0 "la Clique du Xinjiang"
  SIK_communism:0 "Clique du Xinjiang"
  SIK_communism_DEF:0 "la Clique du Xinjiang"
- SIK_fascism_ADJ:0 "ouïghour"
- SIK_democratic_ADJ:0 "turkestanais"
- SIK_neutrality_ADJ:0 "turkestanais"
+ SIK_fascism_ADJ:0 "xinjiangais"
+ SIK_democratic_ADJ:0 "xinjiangais"
+ SIK_neutrality_ADJ:0 "xinjiangais"
  SIK_communism_ADJ:0 "xinjiangais"
  SIK:0 "Xinjiang"
  SIK_DEF:0 "le Xinjiang"

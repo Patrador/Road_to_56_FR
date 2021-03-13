@@ -130,6 +130,12 @@
     FRA_public_works_idea:0 "Travaux publics"
     FRA_decentralised_state:0 "État décentralisé"
     FRA_counter_the_fascist_infulence_idea:0 "Lutte contre l'influence fasciste"
+ 	FRA_outdated_airforce:0 "Matériel de l'Armée de l'air obsolète"
+ 	FRA_modernizing_airforce:0 "Modernisation de l'Armée de l'air"
+ 	FRA_ecole_de_lair_idea:0 "l'École de l'air"
+ 	FRA_potez_630:0 "Potez 630"
+ 	FRA_plan_v_idea:0 "Plan V"
+ 	FRA_castex_strategies_idea:0 "Les stratégies de Castex"
 
  
   	############################
@@ -673,7 +679,6 @@
  FRA_proclaim_the_dual_monarchy_tt:0 "Nous allons annexer et gagner des États nationaux sur l'Espagne s'ils sont notre fantoche ou si [SPB.GetLeLaLNP] [SPB.GetName] existe et a gagné la guerre civile espagnole. Sinon, nous obtiendrons des États nationaux sur tous les États nationaux espagnols si nous possédons un États national de l'Espagne."
  
 	#### MILITARY FOCUS ####
-	
  FRA_giraud_plan:0 "Plan de Giraud"
  FRA_giraud_plan_desc:0 "Dans ces moments-là, il vaut mieux renforcer nos défenses. S'il y a des menaces, qu'elles viennent nous voir pour que nous puissions y faire face sur nos propres terres. Nous avons un candidat parfait pour diriger notre armée, tout ce dont nous avons besoin c'est de votre accord."
  FRA_fortification_focus:0 "Priorité aux fortifications"
@@ -714,6 +719,11 @@
  FRA_blum_viollette_project_desc:0 "Le projet Blum-Viollette suggérait qu'une minorité d'Algériens obtiennent la pleine citoyenneté française, avec l'intention d'étendre les avantages à d'autres groupes à une date ultérieure. On peut utiliser cet argument pour recruter dans les colonies, mais les colons français vont protester massivement."
  FRA_abolish_indigenat_statut:0 "Abolir le statut indigène"
  FRA_abolish_indigenat_statut_desc:0 "Tous les individus sur le sol français doivent être égaux en droits, quelle que soit leur origine. Nous devons donner la pleine citoyenneté à tous les Algériens, même si cela signifie entrer en conflit avec les colons français."
+ 
+ FRA_the_somua_s35:0 "Le SOMUA S35"
+ FRA_the_somua_s35_desc:0 "WIP"
+ FRA_the_mas38:0 "Le MAS 38"
+ FRA_the_mas38_desc:0 "WIP"
 	
 	#### NAVAL SECTION ####
  
@@ -732,6 +742,23 @@
  FRA_mediterranean_special_measures_desc:0 "Les italiens y renforcent leur marine et veulent étendre leur domination dans la mer Méditerranée. Si nous perdons notre ligne de défense en mer, nous risquons une invasion directe de notre patrie. Nous devons nous assurer que nos navires soient construits avec les technologies les plus récentes."
  FRA_standardisation_engine:0 "Standardisation des moteurs"
  FRA_standardisation_engine_desc:0 "Notre parc de sous-marins et de bombardiers navals est vieux et certains changements sont nécessaires. Toutefois, il existe trop de variantes des équipements principaux pour les intégrer dans les lignes de montage. Nous devons d'abord uniformiser cela."
+ 
+ FRA_CHEDN:0 "Fonder le CHEDN"
+ FRA_CHEDN_desc:0 "WIP"
+ FRA_experiment_castex_strategies:0 "Stratégies d'expérimentation de Castex"
+ FRA_experiment_castex_strategies_desc:0 "WIP"
+ FRA_adapt_young_school_concepts:0 "Adapter les concepts de la jeune école"
+ FRA_adapt_young_school_concepts_desc:0 "WIP"
+ FRA_strategic_manoeuvre:0 "Manœuvre stratégique"
+ FRA_strategic_manoeuvre_desc:0 "WIP"
+ FRA_the_le_hardi_class_destroyer:0 "Le destroyer de classe Le Hardi"
+ FRA_the_le_hardi_class_destroyer_desc:0 "WIP"
+ FRA_lay_down_the_jean_bart:0 "Déposer le Jean Bart"
+ FRA_lay_down_the_jean_bart_desc:0 "WIP"
+ FRA_successor_to_the_surcouf:0 "Le successeur du Surcouf"
+ FRA_successor_to_the_surcouf_desc:0 "WIP"
+ FRA_increase_repair_capabilities:0 "Augmenter les capacités de réparation"
+ FRA_increase_repair_capabilities_desc:0 "WIP"
  
 	#### AIR SECTION ####
  
@@ -753,6 +780,32 @@
  FRA_reorganize_air_army_desc:0 "Nous avons acquis suffisamment d'expérience pour tester de nouvelles théories de la guerre aérienne à un rythme plus rapide, mais avec notre structure de commandement actuelle, l'armée de l'air est difficile à gérer. Nous devons d'abord procéder à une réorganisation."
  FRA_parachute_battalions:0 "G.I.A 601-602"
  FRA_parachute_battalions_desc:0 "Les Soviétiques ont créé un nouveau détachement aéroporté pour larguer des soldats et du matériel et nous devrions créer un groupe militaire similaire."
+ #by Darkneon312
+ FRA_purchase_american_fighters:0 "Acheter des chasseurs américains"
+ FRA_purchase_american_fighters_desc:0 "WIP"
+ FRA_form_the_first_strategic_bombing_unit:0 "Former la première unité de bombardement stratégique"
+ FRA_form_the_first_strategic_bombing_unit_desc:0 "WIP"
+ FRA_support_the_ecole_de_lair:0 "Soutenir l'École de l'air"
+ FRA_support_the_ecole_de_lair_desc:0 "WIP"
+ FRA_faire_face:0 "Faire face"
+ FRA_faire_face_desc:0 " "
+ FRA_finalize_the_potez_630:0 "Finaliser le Potez 630"
+ FRA_finalize_the_potez_630_desc:0 "WIP"
+ FRA_finalize_the_potez_630_tt:0 "Permet la production du §HPotez 630§! s'il n'est pas déjà recherché.\nLe §HPotez 630§! est §Gmoins cher§! à produire que les chasseurs ordinaires.\n"
+ FRA_develop_the_ms_406:0 "Développer le MS.406"
+ FRA_develop_the_ms_406_desc:0 "WIP"
+ FRA_enact_plan_v:0 "Adopter le Plan V"
+ FRA_enact_plan_v_desc:0 "WIP"
+ FRA_develop_bomber_fleet:0 "Développer la flotte de bombardiers"
+ FRA_develop_bomber_fleet_desc:0 "WIP"
+ FRA_follow_up_on_the_potez:0 "Poursuivre la recherche sur le Potez"
+ FRA_follow_up_on_the_potez_desc:0 "WIP"
+ FRA_provide_aerial_support:0 "Fournir un appui aérien"
+ FRA_provide_aerial_support_desc:0 "WIP"
+ FRA_new_french_fighter:0 "Nouveau chasseur français"
+ FRA_new_french_fighter_desc:0 "WIP"
+ FRA_supprt_the_aeronavale:0 "Soutenir l'aéronavale"
+ FRA_supprt_the_aeronavale_desc:0 "WIP"
 
  ### FREE FRANCE ###
 
@@ -808,6 +861,7 @@
 	#### FLAGS ####
  front_explosed:0 "Front populaire dissous"
  matignon_agreements:0 "Accords de Matignon"
+ #free_france_advisor_check:0 "This Officer will not take part in a Collaborationist Regime."
 
 
 	############################

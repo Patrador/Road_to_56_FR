@@ -374,6 +374,22 @@
  
  collectivist_ethos_focus:0 "Ethos collectivistes"
  collectivist_ethos_focus_desc:0 ""
+
+ #Investments reward ideas, currently used in BftB Turkey Investment decisions
+ r56_generic_invest_reward_1:0 "Perte sur les investissements"
+ r56_generic_invest_reward_1_desc:0 "Nos efforts d'investissement ont mal tourné et nous coûtent plus cher que prévu."
+ r56_generic_invest_reward_2:0 "Faible rendement des investissements"
+ r56_generic_invest_reward_2_desc:0 "Nos efforts d'investissement se sont avérés peu fructueux et nous rapportent moins que ce que nous avions initialement investi."
+ r56_generic_invest_reward_3:0 "Rendement moyen des investissements"
+ r56_generic_invest_reward_3_desc:0 "Nos investissements atteignent tout juste le seuil de rentabilité de ce que nous avons investi à l'origine."
+ r56_generic_invest_reward_4:0 "Rendement des investissements"
+ r56_generic_invest_reward_4_desc:0 "Nos investissements récents portent leurs fruits et rapportent plus que ce que nous avons investi à l'origine."
+ r56_generic_invest_reward_5:0 "Rendement des investissements"
+ r56_generic_invest_reward_5_desc:0 "Nos investissements récents portent leurs fruits et rapportent plus que ce que nous avons investi à l'origine."
+ r56_generic_invest_reward_6:0 "Rendement des investissements"
+ r56_generic_invest_reward_6_desc:0 "Nos investissements récents portent leurs fruits et rapportent plus que ce que nous avons investi à l'origine."
+ r56_generic_invest_reward_7:0 "Rendement exceptionnel des investissements"
+ r56_generic_invest_reward_7_desc:0 "Nos investissements récents portent leurs fruits et rapportent beaucoup plus que ce que nous avons investi à l'origine."
  
  ########################## Events ##########################
  

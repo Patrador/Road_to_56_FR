@@ -76,6 +76,10 @@
  r56_25_command_power_cost_blocked:0 "£command_power §R25§!"
  r56_25_command_power_cost_tooltip:0 "Cela coûte £command_power §H25§! de sélectionner cela."
 
+ r56_10_command_power_cost:0 "£command_power §H10§!"
+ r56_10_command_power_cost_blocked:0 "£command_power §R10§!"
+ r56_10_command_power_cost_tooltip:0 "Cela coûte £command_power §H10§! de sélectionner cela."
+
  control_ai_allies_category:0 "Coordination des alliés"
 
  control_ai_allies_category_desc:0 "En donnant des ordres clairs à nos alliés, nous augmenterons nos chances de coordonner nos actions et de vaincre nos ennemis.\n\n§RCes décisions n'affectent que le comportement de l'IA§!" 
