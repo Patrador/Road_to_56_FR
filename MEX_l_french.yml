@@ -381,7 +381,7 @@
  mexico_pemex.4.t:0 "Le Mexique nationalise le pétrole !"
  mexico_pemex.4.d:0 "Le Mexique a annoncé la nationalisation de tout actif de ressources naturelles dans le pays. Les lobbyistes exigent la guerre, mais elle deviendra politiquement désordonnée quand la puissance montante de l'Allemagne sera une menace beaucoup plus claire. Si nous faisons la guerre, nous aurons moins de main-d'œuvre et de ressources pour faire face à l'Allemagne. Le terrain est accidenté et la guerre risque d'être longue. Notre autre option est de les mettre sous embargo et de les forcer à nous rendre nos avoirs lorsque le Mexique se rend compte qu'il n'a pas l'expertise nécessaire pour diriger une compagnie pétrolière."
  mexico_pemex.4.c:0 "Déclarer la guerre"
- mexico_pemex.4.d:0 "Affamons-les."
+ mexico_pemex.4.e:0 "Affamons-les."
   
  mexico_pemex.5.t:0 "Embargo américain sur le Mexique !"
  mexico_pemex.5.d:0 "[USA.GetLeader] a annoncé que le Mexique sera sous embargo en réponse à la nationalisation des compagnies pétrolières américaines au Mexique. Les analystes politiques qualifient cette tentative de tentative d'affamer la compagnie pétrolière d'État mexicaine, PEMEX, et de forcer le Mexique à restituer les actifs nationalisés."

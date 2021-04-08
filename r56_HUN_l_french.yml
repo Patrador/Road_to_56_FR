@@ -5,15 +5,16 @@
  HUN_form_the_mdp:0 "Former le MDP"
  HUN_form_the_mdp_desc:0 "Une réorganisation des partis politiques doit se faire en créant un front uni et en incluant les nombreux partis de gauche, avec le Parti communiste à sa tête."
  HUN_turn_the_adriatic_red:0 "Rendre l'Adriatique rouge"
+ HUN_turn_the_adriatic_red_desc:0 "L'État corrompu de Yougoslavie a opprimé les mouvements ouvriers des Balkans pendant bien trop longtemps. Notre principal devoir est de libérer les prolétaires et de leur montrer les vraies valeurs du communisme !"
 
  HUN_liberate_the_austrians:0 "Libérer les Autrichiens"
- HUN_liberate_the_austrians_desc:0 " "
+ HUN_liberate_the_austrians_desc:0 "Le Parti communiste autrichien, le KPÖ, a été contraint à la clandestinité par le décret d'urgence de son gouvernement austrofasciste en 1933. Sans soutien étranger, le parti ne peut pas fonctionner librement et guider le peuple autrichien vers la prospérité que la nation mérite. Nous allons changer cela pour toujours !"
 
  HUN_expand_the_levente:0 "Développer le mouvement Levente"
  HUN_expand_the_levente_desc:0 "Les associations Levente sont une organisation paramilitaire qui existe depuis 1921, créée à l'origine à des fins d'entraînement physique et sanitaire, mais qui a ensuite été militarisée pour contourner les restrictions du traité de Trianon."
  
  HUN_demand_the_coastline:0 "[ROOT.GetHUNdemandthecoastline]"
- HUN_demand_the_coastline_desc:0 "Blablou"
+ HUN_demand_the_coastline_desc:0 "L'héritage du Royaume de Hongrie concerne les territoires côtiers de Dalmatie perdus aux mains des Ottomans il y a cinq siècles. Si nous voulons retrouver notre gloire d'antan, nous devons exiger ou conquérir les territoires nécessaires !"
  GetHUNdemandthecoastlinenormal_KEY:0 "Exiger le littoral"
  GetHUNdemandthecoastlineitaly_KEY:0 "Négocier le littoral"
 

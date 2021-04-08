@@ -1539,6 +1539,7 @@
  #PRC
  #Northwest Government
  PRC_nwnd_gov:0 "Gouvernement de la Défense nationale du Nord-Ouest"
+ PRC_nwnd_gov_short:0 "GDNO"
  PRC_nwnd_gov_DEF:0 "le Gouvernement de la Défense nationale du Nord-Ouest"
  PRC_nwnd_gov_ADJ:0 "chinois du Nord-Ouest"
  #Nation Founded

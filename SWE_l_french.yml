@@ -61,6 +61,7 @@ strb_idea:0"Stridsbåtar"
 fackforbund:0"Union Boards"
 kungen_gustaf_v2:0"Roi Gustave V"
 skidor:0"Équipements d'hiver"
+skidor2:0 "Équipements d'hiver"
 div_wiking:0"Division Viking"
 red_shirt_vol:0"Redshirts"
 rev_incompetence:0"Incompétence révolutionnaire"
@@ -124,6 +125,9 @@ SWE_national_expansion:0"Nationell Beredskap"
 frivilligkaren_norden:0"Frivilligkåren"
 SWE_lars_brising:0"Lars Brising"
 SWE_arne_beurling:0"Arne Beurling"
+
+SWE_technological_exchange:0 "Échange technologique"
+SWE_technological_exchange2:0 "Échange technologique"
 
 ####modifiers
 SWE_german_cooperation_agreement:0"Accord de coopération allemand"
@@ -455,6 +459,21 @@ SWE_saltsjobad_desc:0"Nous acceptons par la présente de rester en dehors des n�
 
 SWE_oresund:0"Litige de l'Öresund"
 
+SWE_denmark_war_goal:0 "Reprendre le Danskjävlar"
+SWE_denmark_war_goal_desc:0 "Les Danois ont été une déchirure dans notre camp pendant trop longtemps."
+SWE_alliance_with_the_united_baltic_state:0 "Alliance avec l'État balte uni"
+SWE_a_new_deluge:0 "Un nouveau déluge"
+SWE_a_new_deluge_desc:0 "[POL.GetNameDefCap] rivalise depuis trop longtemps avec notre domination sur la mer Baltique."
+SWE_unite_scandinavia:0 "Unifier la Scandinavie"
+SWE_unite_scandinavia_desc:0 "L'unification de la Scandinavie est enfin à portée de main. Les trois frères seront unis dans une union invincible !"
+SWE_celtic_alliance:0 "Alliance celtique"
+SWE_celtic_alliance_desc:0 "Les circonvolutions de la géopolitique faisaient du monde celtique un allié potentiel pour dominer la mer du Nord. Un tel soutien diplomatique pouvait ouvrir de nouvelles opportunités."
+SWE_march_alongside_the_british_blackshirts:0 "Marche aux côtés des Blackshirts britanniques"
+SWE_march_alongside_the_british_blackshirts_desc:0 "Côte à côte avec la Grande-Bretagne. La Suède reste debout et continue à marcher !"
+SWE_ally_with_the_low_countries:0 "S'allier avec les Pays-Bas"
+SWE_ally_with_the_low_countries_desc:0 "Le réalignement idéologique des Pays-Bas et leur position stratégique rendent une collaboration diplomatique potentiellement fructueuse."
+SWE_british_research_sharing:0 "Partage de recherche"
+SWE_british_research_sharing_desc:0 "Nous avons beaucoup à partager avec la Grande-Bretagne."
 
 SWE_polistrupper:0"Gain de 2 divisions de troupes de police dans le sud de la Suède"
 SWE_balttrupper:0"Une division s'échappe en Suède"
@@ -629,9 +648,9 @@ finland.41.d:0"La Garde Blanche de Finlande demande notre aide contre les commun
 finland.41.a:0"Rejoindre la guerre civile"
 finland.41.b:0"Nous ne pouvons la rejoindre"
 
-finland.43.t:0"Åland se soulève !"
-finland.43.d:0"Les citoyens patriotes d'Åland ont rejoint la lutte contre la menace communiste et se dirigent maintenant avec enthousiasme vers les lignes de front en tant que membres de l'armée suédoise. C'est néanmoins une bonne alternative à la domination rouge."
-finland.43.a:0"Quelle chance !"
+sweden.43.t:0"Åland se soulève !"
+sweden.43.d:0"Les citoyens patriotes d'Åland ont rejoint la lutte contre la menace communiste et se dirigent maintenant avec enthousiasme vers les lignes de front en tant que membres de l'armée suédoise. C'est néanmoins une bonne alternative à la domination rouge."
+sweden.43.a:0"Quelle chance !"
 
 finland.45.t:0"La Suède refuse de rejoindre"
 finland.45.d:0"Les Suédois n'ont pas eu la volonté nécessaire pour rejoindre notre guerre, c'est très malheureux !"

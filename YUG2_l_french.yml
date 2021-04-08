@@ -59,7 +59,13 @@
  r56_yugoslavia.1.t:0 "Le régent entre en scène"
  r56_yugoslavia.1.d:0 "En raison de l'incapacité de Stojadinović à résoudre la « question croate », le prince régent Paul est intervenu et l'a forcé à quitter le pouvoir. Il a choisi le politicien de Niš, Dragiša Cvetković, comme successeur."
  r56_yugoslavia.1.a:0 "Le régent sait mieux que quiconque..."
- r56_yugoslavia_deaths.1.t:0 "Ljubomir Davidović décède"
+ r56_yugoslavia_deaths.1.t:0 "Ljubomir Davidović est décédé"
  r56_yugoslavia_deaths.1.d:0 "Ljubomir Davidović, chef du Parti démocrate qui a été premier ministre de 1919 à 1920 et en 1924, est décédé. Soutenant le rétablissement du parlementarisme en Yougoslavie, il a été un symbole important pour la démocratie yougoslave."
  r56_yugoslavia_deaths.1.a:0 "Il nous manquera."
  r56_yugoslavia_deaths.1.b:0 "Bon débarras."
+
+ r56_yugoslavia_deaths.2.t:0 "Anton Korošec est décédé."
+ r56_yugoslavia_deaths.2.d:0 "Anton Korošec, président du Parti populaire slovène et auteur de la Déclaration de mai qui a proclamé la création de l'État des Serbes, Croates et Slovènes le 29 octobre 1918, est décédé. Il était l'un des principaux défenseurs de l'autonomie slovène à travers la Yougoslavie, tout en étant également responsable du réchauffement des relations avec l'Allemagne nazie. Une figure véritablement controversée en ces temps incertains."
+
+ r56_yugoslavia_deaths.3.t:0 "Mehmed Spaho est décédé."
+ r56_yugoslavia_deaths.3.d:0 "Mehmed Spaho, chef de l'Organisation musulmane yougoslave et premier politicien musulman bosniaque du Royaume des Serbes, Croates et Slovènes, était partisan de l'autonomie musulmane bosniaque en Yougoslavie. Sa mort soudaine et mystérieuse risque d'exacerber les tensions entre agnostiques et religieux dans le pays."

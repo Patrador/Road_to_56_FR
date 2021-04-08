@@ -466,3 +466,15 @@ GER_operation_bolivar_desc:0 "Les différentes communautés d'exilés en Amériq
  GER_naval_gunnery_r56_desc:0 "Notre flotte de surface aura besoin des plus gros canons."
 
  r56_GER_decision_promote_hans_von_luck:0 "Promouvoir Hans von Luck"
+
+ #endsieg stuff
+ r56.ger.1.t:0 "La victoire ultime"
+ r56.ger.1.desc:0 "Nos efforts de guerre ont connu de nombreux revers, et nos ennemis pénètrent profondément dans le centre de notre patrie. Toutefois, nous sommes plus forts que nos ennemis et, contrairement à eux, nous avons la capacité d'endurer de grandes souffrances et d'aller de l'avant jusqu'à la victoire. Nous rallierons toutes les personnes disponibles de notre grande nation pour atteindre cette victoire ou périr en essayant."
+ r56.ger.1.a:0 "La victoire ultime est à portée de main. Nous devons simplement aller de l'avant."
+ r56_endsieg_idea:0 "Endsieg"
+ r56_endsieg_idea_desc:0 "La victoire ultime est à portée de main"
+ r56_GER_endsieg_tt:0 "§WCrée§! §Wdes divisions§! §YVolkssturm§! §Wet§! §YErsatzheer§! §Wdans§! §Ycertains États nationaux entièrement contrôlés§!"
+ r56.ger.2.t:0 "Proche de la victoire ultime"
+ r56.ger.2.desc:0 "Notre patrie semblait presque perdue, et à travers toutes nos luttes, la résilience du pays n'a pas été vaine. Nous avons repoussé nos ennemis hors de notre patrie et les avons mis au pied du mur. Bien que nous ayons encore du chemin à parcourir avant d'atteindre la victoire pour laquelle nous avons tant souffert, elle semble être beaucoup plus proche."
+ r56.ger.2.a:0 "La victoire ultime est plus proche que jamais !"
+ r56_GER_endsieg_2_tt:0 "§RDémantèle§! §Wles divisions§! §YVolkssturm§! §Wet§! §YErsatzheer§!"

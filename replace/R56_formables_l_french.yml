@@ -126,9 +126,13 @@
  form_celtic_union:0 "Former l'Union celtique"
  CEL_UNIFIED_integrate_galicia:0 "Intégrer la Galice"
  CEL_UNIFIED_fascism:0 "État celtique"
+ CEL_UNIFIED_fascism_DEF:0 "l'État celtique"
  CEL_UNIFIED_communism:0 "Union des républiques socialistes celtiques"
+ CEL_UNIFIED_communism_DEF:0 "l'Union des républiques socialistes celtiques"
  CEL_UNIFIED_democratic:0 "République celtique"
+ CEL_UNIFIED_democratic_DEF:0 "la République celtique"
  CEL_UNIFIED_neutrality:0 "République celtique"
+ CEL_UNIFIED_neutrality_DEF:0 "la République celtique"
  CEL_UNIFIED_ADJ:0 "celtique"
  celtic_unification_category:0 "L'unification celtique"
  celtic_unification_category_desc:0 "Les peuples celtes ont été contraints de vivre sous le joug des Anglais et des Français pendant des siècles après des conquêtes et des héritages royaux traîtres, niant nos cultures et notre héritage. Mais le peuple celte peut enfin s'unir et montrer au monde sa force et sa musique."
@@ -136,14 +140,17 @@
  CEL_scottish_steel_sector:0 "Aciéries écossaises"
  CEL_scottish_steel_sector_desc:0 "Le secteur sidérurgique écossais est essentiel pour notre développement industriel."
  CEL_develop_the_shale_oil_sector:0 "Développer le secteur du pétrole de schiste"
- CEL_develop_the_shale_oil_sector:0 "Le secteur écossais du pétrole de schiste peut contribuer à notre indépendance énergétique."
+ CEL_develop_the_shale_oil_sector_desc:0 "Le secteur écossais du pétrole de schiste peut contribuer à notre indépendance énergétique."
  CEL_dingham_ammunition_factory:0 "Usine de munitions de Dingham"
  CEL_dingham_ammunition_factory_desc:0 "L'usine de Dingham a tout le potentiel pour devenir le centre de notre production d'armement en Ecosse."
  CEL_develop_ireland:0 "Développer l'Irlande"
  CEL_appropriate_harland_and_wolff:0 "S'approprier Harland et Wolff"
  CEL_brittany_industry:0 "Développer la Bretagne"
+ CEL_brittany_industry_desc:0 "Toutes les parties de notre union celtique devraient être développées de manière égale. Cela inclut non seulement les régions industrielles de l'Irlande du Prieur, de l'Écosse et du Pays de Galles, mais aussi la Bretagne qui est maintenant réunie avec la Mère Patrie."
  CEL_morgan_line:0 "Créer la ligne Morgan"
+ CEL_morgan_line_desc:0 "La ligne Morgan nouvellement construite protégera nos citoyens de tout danger continental."
  CEL_Brest_Oil_Industry:0 "Industrie pétrolière de Brest"
+ CEL_Brest_Oil_Industry_desc:0 "La plus grande ville bretonne, Brest, est également un important port commercial et une base navale qui surveille le golfe de Gascogne et la Manche. Le tout dernier programme d'expansion du port prévoit la construction de plusieurs terminaux pétroliers."
  CEL_develop_wales:0 "Développer le pays de Galles"
  CEL_develop_wales_desc:0 "Dernier pays celte à avoir des priorités uniques malgré les discussions à ce sujet depuis un certain temps, le pauvre pays de Galles... Protégez le pays de Galles ! C'est peut-être parce que les gens ne savent pas prononcer Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, je ne sais pas."
 
@@ -275,3 +282,5 @@
  #sardinia Piedmont
 
  form_sardinia_piedmont:0 "Récupérer le Piémont"
+
+ baltic_unifier_tt:0 "Est l'§YUnion balte§!"

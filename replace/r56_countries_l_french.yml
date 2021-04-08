@@ -1668,11 +1668,11 @@
  NMB_neutrality_ADJ:0 "namibien"
 
  #OCC
- OCC_fascism:0 "État renaissant d'Occitanie"
- OCC_fascism_DEF:0 "l'État renaissant d'Occitanie"
+ OCC_fascism:0 "État d'Occitanie"
+ OCC_fascism_DEF:0 "l'État d'Occitanie"
  OCC_democratic:0 "République occitane"
  OCC_democratic_DEF:0 "la République occitane"
- OCC_fascism_ADJ:0 "aquitain"
+ OCC_fascism_ADJ:0 "occitan"
 
  #OMA
  OMA_fascism:0 "Imamat d'Oman"

@@ -38,4 +38,13 @@
 
 
  ARG_supremacy_over_brazil:0 "Suprématie sur le Brésil"
- ARG_supremacy_over_brazil_desc:0 "Suprématie sur le Brésil."
+ ARG_supremacy_over_brazil_desc:0 "Pays le plus grand et le plus industrialisé d'Amérique du Sud, le Brésil menace certainement notre sphère d'influence en pleine expansion. Si nous voulons préserver notre domination dans cette partie du monde, nous devons établir un régime amical, placé sous notre gouvernance directe."
+
+ #threats
+ ARG_malvinas_claim_threat:0 "L'Argentine a exigé Las Malvinas"
+ ARG_south_georgia_claim_threat:0 "L'Argentine a exigé la Géorgie du Sud"
+ ARG_uruguay_claim_threat:0 "L'Argentine a annoncé des revendications sur l'Uruguay"
+ ARG_paraguay_claim_threat:0 "L'Argentine a revendiqué des territoires du Paraguay"
+ ARG_bolivia_claim_threat:0 "L'Argentine a revendiqué la Bolivie"
+ ARG_chile_claim_threat:0 "L'Argentine a revendiqué le Chili"
+ ARG_brazil_puppet_threat:0 "L'Argentine cherche la supériorité sur le Brésil"

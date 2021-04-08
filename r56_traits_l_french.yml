@@ -46,6 +46,7 @@
  mining_concern:0 "Intérêt pour l'industrie minière"
 
 ##Leaders 
+ dislikes_russia:0 "N'aime pas la Russie"
  tank_enthusiast:0 "Passionné de chars"
  retired_admiral:0 "Amiral à la retraite"
  regent_without_a_king:0 "Régent sans roi"
@@ -53,6 +54,7 @@
  army_connections:0 "Connexions de l'armée"
  nationalistic_tendencies:0 "Tendances nationalistes"
  fierce_patriot:0 "Patriote féroce"
+ rather_not_a_king:0 "Plutôt pas un roi"
  liberal_grandee:0 "Grand libéral"
  compromised_beliefs:0 "Croyances compromises"
  all_business:0 "Tous business"

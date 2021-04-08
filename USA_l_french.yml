@@ -53,6 +53,8 @@
  
  USA_mobilize_the_national_guard:0 "Mobiliser les réserves"
  USA_mobilize_the_national_guard_desc:0 "La mobilisation des réserves contribuera grandement à la croissance de notre armée."
+ rt56_rushed_r_n_d:0 "Recherche et développement précipités"
+ rt56_rushed_r_n_d_desc:0 "L'industrie américaine accorde beaucoup d'importance au développement et au déploiement rapides des avancées technologiques. Cependant, ces méthodes présentent de nombreux inconvénients lorsque la phase de test de ces développements est raccourcie et que les problèmes liés à la nouvelle technologie sont ignorés dans le but d'obtenir des résultats rapides."
 
  r56_usa.2.t:0 "L'armée de l'air demande une plus grande autonomie"
  r56_usa.2.desc:0 "Les officiers de l'armée de l'air et le haut commandement de l'armée de terre ont toujours eu des conflits entre eux depuis la création de l'armée de l'air sur l'autonomie de l'armée de l'air au sein de l'armée de terre. Il semble que cette question ait pris de l'ampleur avec la création récente de la division des plans de guerre aérienne. Dans le passé, nous avons fait taire les officiers de l'armée de l'air qui s'exprimaient sur cette question, notamment Henry Arnold. Mais il semble que nous ne puissions plus ignorer la question et que nous devions prendre une décision finale sur l'autonomie de l'armée de l'air au sein de nos forces armées."

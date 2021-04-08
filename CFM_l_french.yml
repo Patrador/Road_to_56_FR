@@ -348,13 +348,13 @@
  cityfall.69.c:0 "La guerre prend une tournure inattendue." 
 
  cityfall.70.t:0 "La chute d'Ottawa"
- cityfall.70.desc:0 "Des changements se produisent dans le nouveau monde : la ville d'Ottawa, autrefois centre politique du Canada, a été envahie par l'avant-garde [new_controller.GetAdjFS]. Quelques heures plus tard, des renforts ont commencé à affluer et toute la ville a ensuite été occupée.\n\nLes troupes [old_controller.GetAdjFP] ont évacué, espérant rassembler leurs forces et planifier une contre-attaque." 
+ cityfall.70.desc:0 "Des changements se produisent dans le nouveau monde : la ville d'Ottawa, autrefois centre politique du Canada, a été envahie par l'avant-garde des soldats [new_controller.GetAdjMP]. Quelques heures plus tard, des renforts ont commencé à affluer et toute la ville a ensuite été occupée.\n\nLes troupes [old_controller.GetAdjFP] ont évacué, espérant rassembler leurs forces et planifier une contre-attaque." 
  cityfall.70.a:0 "Le combat n'est pas terminé !"
  cityfall.70.b:0 "Une grande victoire !"
  cityfall.70.c:0 "La guerre prend une tournure inattendue." 
 
  cityfall.71.t:0 "La chute de Berlin"
- cityfall.71.desc:0 "Les sympathisants du [old_controller.GetRulingParty] restent sans voix alors que la nouvelle de la chute de Berlin se répand dans le monde entier. L'artillerie [new_controller.GetAdjFS] a organisé un barrage colossal tandis que d'autres unités encerclaient progressivement la ville. L'une après l'autre, Potsdam, Pankow, Marzahn, Mariendorf et d'autres banlieues ont commencé à tomber sous le contrôle [new_controller.GetAdjMS].\n\nAu fur et à mesure de l'avancée des troupes, la pression exercée sur le centre ville s'est accrue. Les forces [new_controller.GetAdjFP] ont avancé le long des principales avenues de la ville comme Unter der Linden et le Kurfürstendamm. Enfin, la résistance [old_controller.GetAdjFS] s'est brisée et les [new_controller.GetHabitants] ont pris le contrôle de la Chancellerie du Reich et de l'Opéra Kroll." 
+ cityfall.71.desc:0 "Les sympathisants du [old_controller.GetRulingParty] restent sans voix alors que la nouvelle de la chute de Berlin se répand dans le monde entier. L'artillerie [new_controller.GetAdjFS] a organisé un barrage colossal tandis que d'autres unités encerclaient progressivement la ville. L'une après l'autre, Potsdam, Pankow, Marzahn, Mariendorf et d'autres banlieues ont commencé à tomber sous le contrôle [new_controller.GetAdjMS].\n\nAu fur et à mesure de l'avancée des troupes, la pression exercée sur le centre ville s'est accrue. Les forces [new_controller.GetAdjFP] ont avancé le long des principales avenues de la ville comme Unter der Linden et le Kurfürstendamm. Enfin, la résistance [old_controller.GetAdjFS] s'est brisée et les [new_controller.GetHabitants] ont pris le contrôle de la Chancellerie du Reich et de l'Opéra Kroll."
  cityfall.71.a:0 "Le combat n'est pas terminé !"
  cityfall.71.b:0 "Une grande victoire !"
  cityfall.71.c:0 "La guerre prend une tournure inattendue." 
@@ -444,7 +444,7 @@
  cityfall.85.c:0 "La guerre prend une tournure inattendue." 
 
  cityfall.86.t:0 "Des divisions [new_controller.GetAdjFP] entrent dans Stockholm"
- cityfall.86.desc:0 "\n[old_controller.GetAdjective] Les citoyens sont dans le désarroi alors que la ville de Stockholm a été submergée par les envahisseurs [new_controller.GetAdjMP]. Malgré la résistance de certains bataillons protégeant l'île de la vieille ville en faisant sauter de nombreux ponts et en érigeant des barricades, la prise du Slussen rend la position des défenseurs de plus en plus difficile.\n\nLa bataille de Stockholm est maintenant terminée et [new_controller.GetLeader] célèbre certainement le succès de l'opération."
+ cityfall.86.desc:0 "\nLes citoyens [old_controller.GetAdjMP] sont dans le désarroi alors que la ville de Stockholm a été submergée par les envahisseurs [new_controller.GetAdjMP]. Malgré la résistance de certains bataillons protégeant l'île de la vieille ville en faisant sauter de nombreux ponts et en érigeant des barricades, la prise du Slussen rend la position des défenseurs de plus en plus difficile.\n\nLa bataille de Stockholm est maintenant terminée et [new_controller.GetLeader] célèbre certainement le succès de l'opération."
  cityfall.86.a:0 "Le combat n'est pas terminé !"
  cityfall.86.b:0 "Une grande victoire !"
  cityfall.86.c:0 "La guerre prend une tournure inattendue."
@@ -454,6 +454,12 @@
  cityfall.87.a:0 "Le combat n'est pas terminé !"
  cityfall.87.b:0 "Une grande victoire !"
  cityfall.87.c:0 "La guerre prend une tournure inattendue."
+
+ cityfall.88.t:0 "Des divisions [new_controller.GetAdjFP] entrent dans Bogota"
+ cityfall.88.desc:0 "\nL'armée [old_controller.GetAdjFS] semble être à bout de souffle, puisqu'elle s'est retirée de la ville de Bogota, laissant le contrôle de la ville à l'avancée des troupes [new_controller.GetAdjFP]. Cette défaite a affaibli le pouvoir de [old_controller.GetLeader], mais le gouvernement [old_controller.GetAdjMS] s'est néanmoins engagé à poursuivre la résistance jusqu'au bout. Malgré cette déclaration, il est clair que [old_controller.GetNameDef] se trouve dans une situation difficile."
+ cityfall.88.a:0 "Le combat n'est pas terminé !"
+ cityfall.88.b:0 "Une grande victoire !"
+ cityfall.88.c:0 "La guerre prend une tournure inattendue."
 
 #cityfall.12.t:0 "The Fall of Stockholm"
 #cityfall.12.d:0 "."

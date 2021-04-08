@@ -73,6 +73,9 @@
  RULE_OPTION_MONARCHIST_ORLEANISTS_FRA_AI_DESC:0 "L'IA française rétablira la monarchie, se rangera du côté des Orléanistes et formera l'alliance de l'Union latine, en empruntant le chemin approprié dans l'arbre des priorités nationales."
  RULE_OPTION_MONARCHIST_BONAPARTISTS_FRA:0 "Monarchiste - Bonapartistes"
  RULE_OPTION_MONARCHIST_BONAPARTISTS_FRA_AI_DESC:0 "L'IA française rétablira la monarchie, se rangera du côté des Bonapartistes et établira le nouveau Système Continental, en empruntant le chemin approprié dans l'arbre des priorités nationales."
+ RULE_OPTION_MONARCHIST_LEGITIMISTS_FRA:0 "Monarchistes - Légitimistes"
+ RULE_OPTION_MONARCHIST_LEGITIMISTS_FRA_AI_DESC:0 "L'IA française restaurera la monarchie et se rangera du côté des Légitimistes."
+
 
  #-> BEL: Belgium <><>
  BEL_AI_BEHAVIOR:0 "@BEL Belgique"
@@ -136,7 +139,14 @@
  RULE_OPTION_ANTI_CAPITALIST_DIPLOMACY_SOV_AI_DESC:0 "L'Union soviétique ignorera la menace fasciste et sapera les grandes puissances capitalistes. Tout en recherchant une expansion agressive en Chine et au Moyen-Orient."
  RULE_OPTION_WORLD_REVOLUTION:0 "Révolution mondiale trotskiste"
  RULE_OPTION_ANTI_WORLD_REVOLUTION_SOV_AI_DESC:0 "L'Union soviétique va essayer de ramener Trotsky et de terminer la branche de la révolution mondiale."
- 
+RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
+ RULE_OPTION_RETURN_OF_THE_TSAR_SOV_AI_DESC:0 "Les Romanov seront rétablis sur le trône de Russie."
+ RULE_OPTION_RUSSIAN_FASCISM:0 "Le fascisme russe"
+ RULE_OPTION_RUSSIAN_FASCISM_SOV_AI_DESC:0 "Les fascistes de Mandchourie vont gagner la lutte pour le pouvoir et diriger le pays."
+ RULE_OPTION_RUSSIAN_REPUBLIC:0 "Une nouvelle République"
+ RULE_OPTION_RUSSIAN_REPUBLIC_SOV_AI_DESC:0 "La Russie se débarrassera du communisme et instaurera une démocratie."
+
+
  #-> SWE: Sweden <><>
  SWE_AI_BEHAVIOR:0 "@SWE Suède"
  RULE_OPTION_DEMOCRATIC_HISTORICAL_SWE_AI_DESC:0 "L'AI suédoise se concentrera sur la neutralité et s'engagera en faveur de la démocratie."
@@ -315,6 +325,10 @@
  RULE_OPTION_TWO_EXTRA_DESC:0 "Chaque pays disposant d'une agence de renseignement aura deux agents supplémentaires."
  RULE_OPTION_THREE_EXTRA:0 "Trois agents supplémentaires"
  RULE_OPTION_THREE_EXTRA_DESC:0 "Chaque pays disposant d'une agence de renseignement aura trois agents supplémentaires."
+ idea_game_rule_extra_spy_1:0 "Règle de partie : 1 agent supplémentaire"
+ idea_game_rule_extra_spy_2:0 "Règle de partie : 2 agents supplémentaires"
+ idea_game_rule_extra_spy_3:0 "Règle de partie : 3 agents supplémentaires"
+
 
  RULE_RESISTANCE:0 "Croissance de la résistance"
  RULE_OPTION_DEFAULT_RESISTANCE_DESC:0 "Comme dans le jeu de base. À quoi vous attendiez-vous ?"
