@@ -180,6 +180,26 @@ r56i_laws_security_order_tt:0 "§WRisque de grèves§! :§G -100%§!"
   r56i.event.16.c:0 "Cela ne les avantagera pas !"
   r56i.event.16.e:0 "La guerre s'aggrave..."
   r56i.event.16.f:0 "Notre alliance se renforce." 
+
+  r56i.event.17.t:0 "Des troupes hostiles ont débarqué !"
+  r56i.event.17.desc:0 "\nCe matin, les navires des garde-côtes et de nombreux postes d'observation en mer ont signalé qu'une flotte de navires ennemis s'était rassemblée au large [ROOT.GetDuDelaDelNP] [ROOT.GetName]. De nombreux navires de débarquement se sont séparés de la flotte ennemie et se sont approchés de nos côtes dans le but d'accoster.\n\nD'après les rapports de renseignement qui nous parviennent rapidement, l'ampleur du débarquement serait trop importante pour qu'il s'agisse d'un simple raid, car les forces ennemies ont rapidement submergé la petite garnison qu'elles ont rencontrée. Les forces ennemies auraient rapidement établi une petite tête de pont et ramené beaucoup d'équipement à terre."
+  r56i.event.17.a:0 "Nous devons vite réagir !"
+
+  r56i.event.18.t:0 "Des parachutistes hostiles ont atterri !"
+  r56i.event.18.desc:0 "\nDes avions ont été vus volant au-dessus de notre territoire et un grand nombre de troupes ont été parachutées. Les premiers rapports ne permettent pas de connaître l'étendue de la force ennemie. De plus, cette manœuvre fait probablement partie d'une opération plus importante."
+  r56i.event.18.a:0 "Nous devons vite réagir !"
+
+ r56i.event.19.t:0 "Rapport du laboratoire de recherche de l'armée"
+ r56i.event.19.desc:0 "Le récent rapport de notre laboratoire de recherche de l'armée est arrivé ce matin dans les bureaux du gouvernement. Le rapport indique que l'appareil bureaucratique actuel limite fortement toute modernisation potentielle des anciens systèmes d'armes et l'application des nouvelles technologies du champ de bataille.\n\nLe département de R&D [ROOT.GetAdjMS] est tout simplement incapable de traiter le nombre actuel de rapports envoyés par notre personnel militaire. Toute augmentation de ce nombre de rapports serait également inutile, car ils sont trop similaires les uns aux autres. Ils suggèrent l'allocation d'un budget pour l'amélioration des équipements militaires en tenant compte de l'énorme quantité de données créées par l'expérience de combat.\n\nNotre état-major est également en faveur d'un tel développement, reconnaissant que cela augmentera certainement les capacités de combat de l'armée [Root.GetAdjFS]."
+ r56i.event.19.a:0 "Faisons-en quelque chose !"
+
+  r56i.event.20.t:0 "Rapport du laboratoire de recherche navale"
+  r56i.event.20.desc:0 "Le récent rapport de notre laboratoire de recherche navale est arrivé ce matin dans les bureaux du gouvernement. Le rapport indique que l'appareil bureaucratique actuel limite fortement toute modernisation potentielle des anciens systèmes d'armes et l'application de nouvelles technologies navales.\n\nLe département de R&D [ROOT.GetAdjMS] est tout simplement incapable de traiter le nombre actuel de rapports envoyés par nos commandants de flotte. Toute augmentation de ce nombre de rapports serait également inutile, car ils sont trop similaires les uns aux autres. Ils suggèrent l'allocation d'un budget pour l'amélioration des équipements navals en tenant compte de l'énorme quantité de données générées par l'expérience de combat.\n\nL'Amirauté est également favorable à ce développement, reconnaissant que cela augmentera certainement les capacités de combat de la marine [Root.GetAdjFS]."
+  r56i.event.20.a:0 "Faisons-en quelque chose !"
+
+  r56i.event.21.t:0 "Haute expérience aéronautique"
+  r56i.event.21.desc:0 "."
+  r56i.event.21.a:0 "Faisons-en quelque chose !" 
 #####---------------------------------------------------------------------> End
 
 #  r56i.event.16.t:0 "The [HUN.GetFactionName] absorbs the [YUG.GetAdjective] faction into a single alliance!"

@@ -348,3 +348,9 @@
  soviet.100.t:0 "La Yougoslavie décline"
  soviet.100.d:0 "La Yougoslavie a refusé notre projet de Fédération des Balkans. Lors de la conférence de presse du lendemain matin, [YUG.GetLeader] a déclaré que « la Yougoslavie suivra sa propre voie sans aucune sorte d'ingérence étrangère dans sa politique intérieure »."
  soviet.100.a:0 "C'est bien dommage"
+ 
+ soviet.104.t:0 "Juan Modesto en exil"
+ soviet.104.d:0 "Avec la défaite de nos alliés en Espagne, Juan Modesto, commandant espagnol, a demandé l'asile et a offert de servir dans notre armée."
+ soviet.104.a:0 "Accordons-lui l'asile et reconnaissons son rang"
+ soviet.104.b:0 "Accordons-lui l'asile mais refusons de reconnaître son grade"
+ soviet.104.c:0 "Il vaut mieux ne pas s'impliquer avec les Espagnols."

@@ -67,6 +67,15 @@
  JAP_join_the_anti_bolshevik_pact:0 "Rejoindre le pacte anti-bolchevique"
  JAP_join_the_anti_bolshevik_pact_desc:0 "[TUR.GetNameDefCap] sembl[TUR.GetEEntNP] déterminé[TUR.GetXENP][TUR.GetXSNP] à lutter contre les horreurs du boshevisme soviétique. Notre alliance les frappera à l'Est et à l'Ouest."
 
+ JAP_reinforce_cooperation_with_poland:0 "Renforcer la coopération avec la Pologne"
+ JAP_reinforce_cooperation_with_poland_desc:0 "Depuis son indépendance, la Pologne a été un excellent partenaire dans la quête de renseignements sur l'URSS. Maintenant qu'ils sont menacés par l'armée [SOV.GetAdjFS] comme dans les années 1920, la région autour de Vladivostok devrait avoir réduit ses garnisons, ce qui signifie qu'il est temps de les attaquer."
+
+ JAP_side_with_the_balkan_league_against_the_ussr:0 "Se ranger du côté de la Ligue des Balkans contre l'URSS"
+ JAP_side_with_the_balkan_league_against_the_ussr_desc:0 "Les Balkans sont en guerre contre [SOV.GetNameDef], ils pourraient et devraient être aidés afin d'éliminer l'un de nos plus grands rivaux en Asie."
+
+ JAP_obtain_polish_cryptological_data:0 "Obtenir des données cryptologiques [POL.GetAdjFP]"
+ JAP_obtain_polish_cryptological_data_desc:0 "Les efforts du département de cryptologie [POL.GetDuDelaDelNP] [POL.GetName] pourraient être très utiles dans notre succès contre nos ennemis."
+
  JAP_nippon_nordic_friendship_treaty:0 "Traité d'amitié nippon-nordique"
  
  JAP_nordic_strategy:0 "La stratégie nordique"
@@ -125,3 +134,6 @@
   r56_japan.2.t:0 "Coopération technologique japonaise"
   r56_japan.2.desc:0 "Afin d'assurer notre supériorité militaire, le gouvernement [JAP.GetAdjMS] encourage la coopération technologique avec ses alliés. Ils préparent leurs plans dès que possible."
   r56_japan.2.a:0 "Excellent."
+
+ JAP_reignite_the_chinese_civil_war:0 "Relancer la guerre civile chinoise"
+ JAP_reignite_the_chinese_civil_war_desc:0 "Pendant trop longtemps, les nationalistes et autres forces réactionnaires ont fait obstacle à la libération du peuple chinois !" 

@@ -396,7 +396,7 @@
  cityfall.77.c:0 "La guerre prend une tournure inattendue."
 
  cityfall.78.t:0 "Les forces armées [new_controller.GetAdjFP] entrent dans Tokyo"
- cityfall.78.desc:0 "\nLa « capitale orientale », le cœur du Japon, est désormais sous contrôle [new_controller.GetAdjMS]. Des efforts importants ont dû être faits pour sécuriser la ville en raison de la présence de nombreux tireurs d'élite [new_controller.GetAdjMP]. \n\nTous les citoyens [new_controller.GetDuDelaDelNP] [new_controller.GetName] célèbrent cette victoire sur leur ennemis [old_controller.GetAdjMP].\n\nLe gouvernement [old_controller.GetAdjMS] fait le vœu de libérer la ville de l'oppression étrangère." 
+ cityfall.78.desc:0 "\nLa « capitale orientale », le cœur du Japon, est désormais sous contrôle [new_controller.GetAdjMS]. Des efforts importants ont dû être faits pour sécuriser la ville en raison de la présence de nombreux tireurs d'élite [old_controller.GetAdjMP]. \n\nLe gouvernement [new_controller.GetAdjMS] a annoncé qu'il était du devoir de chaque citoyen de célébrer cette victoire sur ses ennemis.\n\nPendant ce temps, le gouvernement [old_controller.GetAdjMS] a fait le vœu de libérer la ville de l'oppression étrangère et d'annihiler les envahisseurs [new_controller.GetAdjMP]." 
  cityfall.78.a:0 "Le combat n'est pas terminé !"
  cityfall.78.b:0 "Une grande victoire !"
  cityfall.78.c:0 "La guerre prend une tournure inattendue."
@@ -408,7 +408,7 @@
  cityfall.79.c:0 "La guerre prend une tournure inattendue."
 
  cityfall.80.t:0 "Rome tombe aux mains des troupes [new_controller.GetAdjFP]"
- cityfall.80.desc:0 "\nL'armée [new_controller.GetAdjFS] triomphe en entrant dans la ville éternelle. Les lignes défensives ont été établies à l'extérieur de la ville afin d'éviter d'endommager l'immense patrimoine culturel de la ville. Encore un petit groupe de défenseurs [old_controller.GetAdjMP] s'est battu jusqu'au bout à l'intérieur du Vittoriano et du ministère de l'Air.\n\nAlors que les combats cessent enfin, le calme revient peu à peu dans la ville." 
+ cityfall.80.desc:0 "\nL'armée [new_controller.GetAdjFS] triomphe en entrant dans la ville éternelle. Les lignes défensives connues sous leurs noms de code Caesar C et Rome Switch ont été établies à l'extérieur de la ville pour éviter d'endommager l'immense patrimoine culturel de la capitale, et elles ont donc été dépassées par l'avancée rapide des troupes [new_controller.GetAdjFP] avant que les réserves [old_controller.GetAdjFP] ne puissent renforcer leurs positions. Un petit groupe de défenseurs [old_controller.GetAdjMP] s'est battu jusqu'au bout à l'intérieur du Vittoriano et du ministère de l'Air. En outre, une lettre officielle de capitulation a également été reçue des officiels de la Cité du Vatican.\n\nAlors que les combats cessent enfin, le calme revient peu à peu dans la ville." 
  cityfall.80.a:0 "Le combat n'est pas terminé !"
  cityfall.80.b:0 "Une grande victoire !"
  cityfall.80.c:0 "La guerre prend une tournure inattendue."
@@ -432,13 +432,13 @@
  cityfall.83.c:0 "La guerre prend une tournure inattendue." 
 
  cityfall.84.t:0 "La chute de Paris"
- cityfall.84.desc:0 "\nAutrefois considérée comme le centre de la culture et des tendances européennes, la ville de Paris est aujourd'hui engloutie par la guerre. Les unités [new_controller.GetAdjFP] ont sécurisé la ville et ont expulsé les défenseurs [old_controller.GetAdjMP]. Les agents opposés aux principes du [old_controller.GetRulingIdeology] [old_controller.GetAdjMP] auraient contribué à l'avancée des forces armées [new_controller.GetAdjMP]." 
+ cityfall.84.desc:0 "Autrefois considérée comme le centre de la culture et des tendances européennes, la ville de Paris a été engloutie par la guerre. Les combats acharnés dans les limites de la ville ont vu de nombreux monuments historiques tels que le Palais Royal ou la Cathédrale Notre-Dame de Paris subir de graves dégâts en raison de l'usage intensif de l'artillerie par les [new_controller.GetHabitants] dans un effort désespéré pour sécuriser la ville.\n\nBien que la ville soit désormais aux mains de l'ennemi et que les troupes [new_controller.GetAdjFP] marchent sur les restes brûlés des Champs-Élysées, de nombreux défenseurs [old_controller.GetAdjMP] ont réussi à s'échapper dans les catacombes de la ville et s'efforcent maintenant de mettre en sécurité leurs maigres ressources pour les opérations de guérilla en préparation." 
  cityfall.84.a:0 "Le combat n'est pas terminé !"
  cityfall.84.b:0 "Une grande victoire !"
  cityfall.84.c:0 "La guerre prend une tournure inattendue."
 
  cityfall.85.t:0 "Des divisions [new_controller.GetAdjFP] entrent dans Bangkok"
- cityfall.85.desc:0 "\nLes citoyens [old_controller.GetAdjMP] sont choqués d'apprendre la nouvelle de la chute de la ville de Bangkok (également connu en thaï sous le nom de « Krungthep Mahanakho »). Les [new_controller.GetHabitants] ont rapidement sécurisé les ministères et les postes de police afin d'assurer un contrôle total sur la ville."
+ cityfall.85.desc:0 "Les rumeurs controversées, qui faisaient déjà le tour de la population [old_controller.GetAdjFS] de la ville de Bangkok, ont finalement été confirmées lorsque la chute de la capitale [old_controller.GetDuDelaDelNP] [old_controller.GetName] a été officiellement diffusée par la station de radio de la ville.\n\nLes témoins rapportent que les défenseurs du Grand Palais ont été contraints de battre en retraite sous le feu écrasant des soldats [new_controller.GetAdjMP] qui ont également pris le contrôle des bâtiments de l'administration locale et des commissariats de police, sapant ainsi la combativité et l'activité de résistance des troupes [old_controller.GetAdjFP] restantes dans les limites de la ville. Serait-ce la fin [old_controller.GetDuDelaDelNP] [old_controller.GetName] ?"
  cityfall.85.a:0 "Le combat n'est pas terminé !"
  cityfall.85.b:0 "Une grande victoire !"
  cityfall.85.c:0 "La guerre prend une tournure inattendue." 
@@ -460,6 +460,13 @@
  cityfall.88.a:0 "Le combat n'est pas terminé !"
  cityfall.88.b:0 "Une grande victoire !"
  cityfall.88.c:0 "La guerre prend une tournure inattendue."
+
+ cityfall.89.t:0 "Dublin tombe aux mains des troupes [new_controller.GetAdjFP]"
+ cityfall.89.desc:0 "\nL'armée [old_controller.GetAdjFS] semble être à bout de souffle et s'est retirée de la ville de Dublin, laissant le contrôle de la ville aux troupes [new_controller.GetAdjFP] qui avancent. Cette défaite a décrédibilisé le pouvoir de [new_controller.GetLeader], mais le gouvernement [new_controller.GetAdjMS] s'engage néanmoins à poursuivre la résistance jusqu'au bout, déclarant qu'il n'abandonnera pas l'indépendance acquise après des siècles d'occupation étrangère. Malgré cette déclaration, il est clair que [old_controller.GetNameDef] se trouve dans une situation difficile."
+ cityfall.89.a:0 "Le combat n'est pas terminé !"
+ cityfall.89.b:0 "Une grande victoire !"
+ cityfall.89.c:0 "La guerre prend une tournure inattendue."
+
 
 #cityfall.12.t:0 "The Fall of Stockholm"
 #cityfall.12.d:0 "."

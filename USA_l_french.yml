@@ -124,11 +124,9 @@
  USA_population_migration_desc:0 "Si les efforts actuels de relance économique ont aidé beaucoup de gens, il y a eu beaucoup de retour en arrière dans certains de nos efforts passés. Le principal inconvénient de notre politique est l'aggravation de la situation des petits agriculteurs ruraux du sud. Nombre d'entre eux, qui ne peuvent plus joindre les deux bouts, ont dû se déraciner et s'installer là où il y a du travail, qui sont actuellement les villes industrielles du nord."
  USA_population_migration_mission_0:0 "Migration interne de la population"
 
- r56_usa.5.t:0 "Sables mouvants"
- r56_usa.5.desc:0 "Les routes du sud des États-Unis sont un signe de l'évolution des temps. De nombreux agriculteurs ont vendu leur maison et ont emballé toutes leurs affaires dans leur voiture pour se rendre au nord. Ces migrations soudaines ont été stimulées par la dégradation des conditions de vie dans le sud rural, de nombreuses familles ne pouvant plus joindre les deux bouts. L'objectif de beaucoup de ces personnes est de trouver un emploi dans les centres industriels du nord."
+ r56_usa.5.t:0 "Le signe des temps"
+ r56_usa.5.desc:0 "Un signe des temps qui changent peut être vu sur les routes du Sud américain. De nombreux ouvriers agricoles ont vendu leur maison et mis toutes leurs affaires dans leur voiture pour se diriger vers le Nord. Ces migrations soudaines ont été provoquées par la détérioration des conditions de vie dans le Sud rural, de nombreuses familles n'arrivant pas à joindre les deux bouts. L'objectif de beaucoup de ces migrants est de trouver un emploi dans les centres industriels du Nord."
  r56_usa.5.a:0 "Vous pouvez obtenir des choses à Detroit !"
-
-
 
  USA_shifting_sands_tt:0 "§YÉtat du sud aléatoire§! §WRéserves :§!§R-10000§!§W.§!"
  USA_shifting_sands_2_tt:0 "§YÉtat du nord aléatoire§! §WRéserves :§!§G+10000§!§W.§!"

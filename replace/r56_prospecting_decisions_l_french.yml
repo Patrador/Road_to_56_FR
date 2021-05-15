@@ -127,6 +127,10 @@
  develop_swabian_shale_oil:0 "Exploiter le pétrole de schiste souabe"
  exploit_rmelan_oil_field:0 "Exploiter le champ pétrolier de Rmelan"
 
+ exploit_presov_oil_field:0 "Exploiter le champ pétrolier de Prešov"
+
+ expand_palembang_oil_fields:0 "Développer les champs pétroliers de Palembang"
+
  open_kajaran_mine_wtt:0 "Ouvrir la mine de Kajaran" #change effect if copper is added
  extract_northern_armenia_deposits_wtt:0 "Exploiter l'aluminium du nord de l'Arménie"
  develop_south_bolivian_oil_field_wtt:0 "Développer le gisement de pétrole du sud de la Bolivie"
@@ -255,6 +259,10 @@
 
  develop_swabian_shale_oil_wtt:0 "Exploiter le pétrole de schiste souabe"
  exploit_rmelan_oil_field_wtt:0 "Exploiter le champ pétrolier de Rmelan"
+
+ exploit_presov_oil_field_wtt:0 "Exploiter le champ pétrolier de Prešov"
+
+ expand_palembang_oil_fields_wtt:0 "Développer les champs pétroliers de Palembang"
 
 
  #ADAPTATION OF wtt

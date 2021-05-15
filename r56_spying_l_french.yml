@@ -33,6 +33,9 @@ r56_spying_event.9.a:0 "Très bien, gardez le secret."
 r56_spying_event.10.t:0 "Plans [GER.GetAdjMP] concernant l'Amérique"
 r56_spying_event.10.desc:0 "Des documents qui auraient été oubliés par un diplomate allemand ont été retrouvés. Parmi les documents d'intérêt mineur figurait une carte montrant les ambitions allemandes de redessiner les frontières de l'Amérique du Sud. Cela montre à quel point [GER.getLeader] et les [GET.GetHabitants] sont prêts à aller. Elle constitue également une menace évidente pour nos intérêts en Amérique du Sud."
 r56_spying_event.10.a:0 "C'est scandaleux !"
+r56_spying_event.11.t:0 "Établissement de réseaux de renseignements sur la résistance"
+r56_spying_event.11.desc:0 "La résistance nationale devient progressivement plus grande et plus organisée. Elle a réussi à établir des réseaux de renseignements sophistiqués. Cela a permis d'augmenter de manière significative le potentiel de nos services de renseignement."
+r56_spying_event.11.a:0 "Nous allons vaincre les occupants !"
 
 upgrade_expanded_departments:0 "Départements développés"
 upgrade_r56_home_guard:0 "Garde nationale civile"
@@ -61,3 +64,8 @@ operation_targeted_sabotage_industry_risk:0 "Saboter l'industrie"
 linguist_trait_chance_factor:0 "Chance de recruter un agent avec le trait §HLinguiste§!"
 upgrade_linguistic_training:0 "Formation linguistique"
 linguistic_training_enabled_tt:0 "Chance de recruter un agent avec le trait §YLinguiste§! : §G+100%§!\nChance de recruter un agent avec le trait §YLinguiste§! de gagner de nouvelles nationalités sur le succès de la mission §G+50%§!\nUn agent avec le trait §YLinguiste§! commencera avec une nationalité aléatoire d'un grand pays, d'un pays voisin ou d'un pays en guerre contre nous."
+
+
+idea_resistance_network_operative_1:0 "Soutien opérationnel de la résistance"
+resistance_60:0 "Réseaux de renseignement souterrains"
+resistance_60_effect_tooltip:0 "[FROM.GetNameWithFlag], obtient §G+1§! §Yagent§! s'il existe."

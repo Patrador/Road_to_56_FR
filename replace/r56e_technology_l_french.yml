@@ -22,6 +22,7 @@ l_french:
   r56_special_forces_training_tech:0 "Formation des forces spéciales"
   cat_scout_plane:0 "Modèles d'avions de reconnaissance"
   armor_variant_tech:0 "Variantes de blindage"
+  camo_tech:0 "Camouflage d'infanterie"
 ### Extra Special Forced Tech Categories
  r56_desert_infantry_tech:0 "Infanterie du désert"
  r56_jaeger_infantry_tech:0 "Chasseur à pied"
@@ -603,10 +604,10 @@ l_french:
 TITLE_EXP_ROCKETS_SUBTITLE:0 "Fusées"
 
 icbm_missile_equipment_1:0 "Missile balistique intercontinental nucléaire"
-icbm_missile_equipment_1_desc:0 ""
+icbm_missile_equipment_1_desc:0 "Sommet de la science nucléaire et de la fuséologie, ces missiles balistiques intercontinentaux combinent les portées de frappe inimaginables d'un missile avec la capacité de lancer une ogive nucléaire, à tout moment et en tout lieu. La destruction des cibles est plus ou moins assurée avec l'un de ces missiles."
 
-nukes_3:0 "Bombes atomiques miniaturisées"
-nukes_3_desc:0 ""
+nukes_3:0 "Bombes nucléaires miniaturisées"
+nukes_3_desc:0 "De nouveaux développements dans la conception des armes nucléaires permettent de fabriquer des armes extrêmement petites, de type à implosion linéaire, qui peuvent tenir dans une valise. Ces armes terrifiantes sont rendues possibles par une meilleure compréhension de la production de matières fissiles plus efficaces, ce qui améliore également les rendements de nos autres armes nucléaires conventionnelles."
 nuke_rocket_engines:0 "Missile balistique intercontinental nucléaire"
 nuke_rocket_engines_desc: ""
 

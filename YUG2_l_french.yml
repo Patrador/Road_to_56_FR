@@ -69,3 +69,11 @@
 
  r56_yugoslavia_deaths.3.t:0 "Mehmed Spaho est décédé."
  r56_yugoslavia_deaths.3.d:0 "Mehmed Spaho, chef de l'Organisation musulmane yougoslave et premier politicien musulman bosniaque du Royaume des Serbes, Croates et Slovènes, était partisan de l'autonomie musulmane bosniaque en Yougoslavie. Sa mort soudaine et mystérieuse risque d'exacerber les tensions entre agnostiques et religieux dans le pays."
+
+
+ YUG_united_balkan_federation:0 "Fédération unie des Balkans"
+ YUG_united_balkan_federation_DEF:0 "la Fédération unie des Balkans"
+ YUG_united_balkan_federation_ADJ:0 "balkanique"
+
+ YUG_form_the_balkan_federation:0 "Former la Fédération des Balkans"
+ YUG_form_the_balkan_federation_desc:0 "L'ascension [ROOT.GetDuDelaDelNP] [ROOT.GetName] en tant que dirigeant politique des Balkans a ouvert la possibilité de réaliser une utopie dont seuls quelques intellectuels rêvaient, à savoir la formation d'une fédération balkanique."

@@ -40,8 +40,8 @@
  ALB_neutrality_DEF:0 "le Royaume d'Albanie"
 
  #ALG
- ALG_fascism:0 "Émirat d'Algérie"
- ALG_fascism_DEF:0 "l'Émirat d'Algérie"
+ ALG_fascism:0 "État d'Algérie"
+ ALG_fascism_DEF:0 "l'État d'Algérie"
  ALG_neutrality:0 "République d'Algérie"
  ALG_neutrality_DEF:0 "la République d'Algérie"
 
@@ -782,9 +782,10 @@
  FRI_fascism:0 "Empire du grand Vietnam"
  FRI_fascism_ADJ:0 "vietnamien"
  FRI_fascism_DEF:0 "l'Empire du grand Vietnam"
- FRI_neutrality:0 "Indochine française"
+ FRI_neutrality:0 "Union indochinoise"
  FRI_neutrality_ADJ:0 "indochinois"
- FRI_neutrality_DEF:0 "l'Indochine française"
+ FRI_neutrality_DEF:0 "l'Union indochinoise"
+ FRI_subject:0 "Indochine $OVERLORDADJ$e"
 
  #FSM
  FSM_fascism:0 "Empire Saudeleur"

@@ -1288,8 +1288,8 @@ AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
  austria.5018.a:0 "Nous ne pouvons pas faire face à une guerre seul contre l'empire austro-hongrois."
  austria.5018.b:0 "Après leur défaite dans la Grande Guerre, ils n'oseraient pas."
  
- austria.5019.t:0 "La Roumanie refuse notre ultimatum"
- austria.5019.d:0 "Il semble que le gouvernement roumain ne reconnaisse pas le pouvoir de la nation avec laquelle il traite, et il a donc refusé notre ultimatum."
+ austria.5019.t:0 "[FROM.GetNameDefCap] refuse notre ultimatum"
+ austria.5019.d:0 "Il semble que le gouvernement [FROM.GetAdjMS] ne reconnaît pas le pouvoir de la nation avec laquelle il traite, et ils ont donc refusé notre ultimatum, refusant d'accepter nos droits historiques à régner sur la Transylvanie."
  austria.5019.a:0 "Si la plume échoue, l'épée doit être tirée !"
  
  austria.5020.t:0 "Des nationalistes roumains apparaissent en Transylvanie"
