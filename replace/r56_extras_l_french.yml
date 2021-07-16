@@ -8,7 +8,7 @@ l_french:
  ###---> Patreon Tooltips <><> <><> <><>
  r56_tooltip_patreon_credits: "Montre les crédits pour notre Patreon et un merci spécial à ceux qui ont contribué."
  r56_tooltip_patreon_easteregg: "Active la chaîne d’événements Easter Egg, déverrouillant tout le contenu caché. Pour les paresseux qui ne peuvent pas le faire à la dure."
- r56_tooltip_patreon_turnedoff: "Cela masquera les notes de Road to 56, puisque vous l'avez demandé si gentiment."
+ r56_tooltip_patreon_turnedoff: "Cela désactivera le menu Extras, puisque vous l'avez demandé si gentiment."
  r56_tooltip_patreon_leaders: "Place tous les généraux et dirigeants de pays du Patreon pour une utilisation par quiconque."
    
  ###---> Patreon Events <><> <><> <><>
@@ -18,8 +18,8 @@ l_french:
  r56.event.01.alternate: "D'accord, mais ne plus jamais montrer ça."
    
  #---> Patreon Decisions <><> <><> <><>
- r56_decision_category_patreon: "Extras"
- r56_decision_category_patreon_desc: "Contient des crédits pour notre Patreon et d’autres gadgets à venir !"
+ r56_decision_category_patreon: "Extras de R56"
+ r56_decision_category_patreon_desc: "Contient des options supplémentaires et d’autres gadgets !"
  r56_decision_patreon_credits: "Contributeurs"
  r56_decision_patreon_easteregg: "Activation du Nekrowombaticon"
  r56_decision_patreon_turnedoff: "Je te bannis !"

@@ -551,7 +551,7 @@
 
  SOV_invest_in_enigneering_tooltip:0 "Les §Ypriorités industrielles§! gagneront maintenant l'esprit national §YPoussée industrielle§! comme un §Yeffet§! supplémentaire, qui accorde\n(Vitesse de construction : §G+5.00%§!, Production des usines : §G+5.00%§! ) pendant §Y30 jours§!.\n"
  SOV_move_capital_to_sverdlovsk_effect:0 "§YSverdlovsk§! :\n  Devient la capitale.\n  Ajoute §Y12 fortifications terrestres§! dans et autour de Sverdlovsk.\n§W  Ajoute §G4§! emplacements de construction.\n"
- SOV_fifth_column_tt:0 "Les agents du NVKD travailleront en secret pour §Yrenverser le régime stalinien§! et §Ypour ramener Trotsky§! dirigeant. Les §Ychoix§! que nous faisons avant le coup d'État changeront les effets de cette §Ypriorité.§! Certains §Ychoix§! se traduira par une §Rplus grande instabilité après le coup d'État§! et la possibilité qu'un §YContre coup d'État§! ai lieu. Alors que d'autres §Ychoix§! réduiront §Ginstabilité après le coup d'État§! au prix d'autres §Reffets négatifs.§!"
+ SOV_fifth_column_tt:0 "Les agents du NVKD travailleront en secret pour §Yrenverser le régime stalinien§! et §Ypour ramener Trotsky§! dirigeant. Les §Ychoix§! que nous faisons avant le coup d'État changeront les effets de cette §Ypriorité.§! Certains §Ychoix§! se traduiront par une §Rplus grande instabilité après le coup d'État§! et la possibilité qu'un §YContre coup d'État§! ai lieu. D'autres §Ychoix§! §Gréduiront l'instabilité après le coup d'État§! au prix d'autres §Reffets négatifs.§!"
  SOV_world_revolution_tt:0 "Chaque pays non communiste :\n   Gagne §Y« Influence du Komintern »§! qui donne (Soutien quotidien au communisme : §G+0.05§!) pendant §Y365§! jours."
 
  #Flags

@@ -76,6 +76,13 @@
  support_weapons_a_short:0 "Soutien 54"
  support_weapons_c_desc:0 "Armes pour l'infanterie déployée au niveau du peloton ou de la compagnie. Composé de mitrailleuses moyennes, de mortiers lourds, et de mortiers légers/lance-grenades."
 
+#->	Support equipment <><>
+ support_equipment_short:0 "Éq. de soutien"
+ support_equipment:0 "Équipement de soutien"
+ support_equipment_desc:0 "Radios, Jeeps, pontons et autres équipements utilisés pour appuyer les troupes."
+ support_equipment_1:0 "Équipement de soutien"
+ support_equipment_1_desc:0 "Radios, Jeeps, pontons et autres équipements utilisés pour appuyer les troupes."
+
 
 ###---> AFG <><> <><> <><>
  AFG_infantry_equipment_0:0 "Armes légères 30"

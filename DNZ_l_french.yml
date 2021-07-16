@@ -19,9 +19,13 @@
  Danzig_ist_Deutsch_desc:0 "La ville de Dantzig est composée en majorité d'Allemands. Ils ne souhaitent que la réunification avec l'État allemand. Bien que les politiciens locaux essaient de garder ce sentiment secret... pour l'instant."
  DNZ_sean_lester:0 "Seán Lester - haut-commissaire"
  DNZ_sean_lester_desc:0 "Seán Lester est le haut-commissaire de Dantzig. Nommé à ce poste par la Société des Nations en 1934. À chaque fois, il est entré en conflit avec le gouvernement local de Dantzig et ses politiques. Essayer de le faire démettre de ses fonctions et de le remplacer par un nouveau haut-commissaire plus souple et en ligne avec le gouvernement de Dantzig devrait être une priorité absolue."
+ DNZ_reliance_on_militia:0 "Utilisation de la milice"
+ DNZ_reliance_on_militia_desc:0 "Le statut de ville libre sous la protection de la Société des Nations nous interdit d'avoir des forces armées. L'ordre dans les limites de la ville est actuellement maintenu par la force de police locale, également connue sous le nom de Schutzpolizei. §YParamilitariser§! ce corps assurera la sécurité de la ville face à une menace [POL.getAdjFS] ou [GER.getAdjFS]."
  DNZ_maintain_infrastructure_idea:0 "Entretien de l'infrastructure"
  DNZ_carl_jacob_burckhardt:0 "Carl Burckhardt - haut-commissaire"
  DNZ_carl_jacob_burckhardt_desc:0 "Burkchardt répondra beaucoup mieux aux besoins de Dantzig."
+ DNZ_invite_foreign_investors:0 "Inviter des investisseurs étrangers"
+ DNZ_invite_foreign_investors:0 "Le mandat de la Société des Nations nous donne des droits spéciaux en matière de fiscalité et de contrôle du commerce, qui peuvent être utilisés pour encourager les investissements étrangers dans notre État."
 
  DNZ_generic_democratic_reformer:0 "Hermann Rauschning"
  DNZ_generic_fascist_demagogue:0 "Wilhelm von Wnuck"

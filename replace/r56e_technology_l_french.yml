@@ -208,7 +208,7 @@ l_french:
  dispersed_industry_d_desc:0 "Nos chaînes d'approvisionnement sont diffuses mais efficaces, et nos usines sont entièrement renforcées contre les attaques, même les plus graves."
 #-<><><>
  construction_a:0 "Construction VI"
- construction_a_desc:0 "L'augmentation de notre capacité à ajouter de nouveaux bâtiments."
+ construction_a_desc:0 "Les nouvelles techniques de construction nous donnent l'occasion unique d'utiliser le béton armé pour construire des installations de production plus grandes, plus hautes et plus massives. Les centrales nationales devraient être encore plus durables et résistantes à l'activité sismique."
  excavation_a:0 "Excavation VI"
  excavation_a_desc:0 "La terre saigne, et c'est à vous de vous assurer que le sang continue à couler."
  construction_b:0 "Construction VII"

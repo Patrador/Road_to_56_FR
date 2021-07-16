@@ -153,6 +153,20 @@
  BRA_IDB_communism_ADJ:0 "brésilien"
  BRA_IDB_communism_DEF:0 "la République socialiste brésilienne"
 
+ #BRM
+ BRM_FB_fascism:0 "Gouvernement provisoire de Birmanie libre"
+ BRM_FB_fascism_DEF:0 "le Gouvernement provisoire de Birmanie libre"
+ BRM_FB_democratic:0 "Gouvernement civil provisoire de Birmanie libre"
+ BRM_FB_democratic_DEF:0 "le Gouvernement civil provisoire de Birmanie libre"
+ BRM_FB_neutrality:0 "Gouvernement provisoire de Birmanie libre"
+ BRM_FB_neutrality_DEF:0 "le Gouvernement provisoire de Birmanie libre"
+ BRM_FB_communism:0 "Commissariat provisoire de Birmanie libre"
+ BRM_FB_communism_DEF:0 "le Commissariat provisoire de Birmanie libre"
+ BRM_FB_fascism_ADJ:0 "birman libre"
+ BRM_FB_democratic_ADJ:0 "birman libre"
+ BRM_FB_neutrality_ADJ:0 "birman libre"
+ BRM_FB_communism_ADJ:0 "birman libre"
+
  #BEL
  #Zuid-Dietsland (if the Netherlands is not controlled by BEL)
  BEL2_fascism:0 "Zuid-Dietsland"
@@ -740,8 +754,8 @@
  
  #SPR
  #Castille
- SPR_castille_communism:0 "République de Castille"
- SPR_castille_communism_DEF:0 "la République de Castille"
+ SPR_castille_communism:0 "République populaire de Castille"
+ SPR_castille_communism_DEF:0 "la République populaire de Castille"
  SPR_castille_communism_ADJ:0 "castillan"
  SPR_castille_democratic:0 "République de Castille"
  SPR_castille_democratic_DEF:0 "la République de Castille"
@@ -1664,7 +1678,7 @@
  
  #UNL
  UNL_UNIFIED_neutrality:0 "Fédération du Benelux"
- UNL_UNIFIED_fascism:0 "Union des Pays-Bas"
+ UNL_UNIFIED_fascism:0 "Union des Basses-Terres"
  UNL_UNIFIED_democratic:0 "Fédération du Benelux"
  UNL_UNIFIED_communism:0 "Union socialiste beneluxienne"
  UNL_UNIFIED_neutrality_DEF:0 "la Fédération du Benelux"
@@ -1737,6 +1751,11 @@
  URG_BRA_autonomy_supervised_state_DEF:0 "a Administração Provisória do Uruguai"
  
  #USA
+ #USA_CSA
+ USA_CSA_fascism:0 "États confédérés d'Amérique"
+ USA_CSA_fascism_DEF:0 "les États confédérés d'Amérique"
+ USA_CSA_communism:0 "Confédération des travailleurs d'Amérique"
+ USA_CSA_communism_DEF:0 "la Confédération des travailleurs d'Amérique"
  #Rebels
  USA_REBEL_fascism:0 "Rebelles"
  USA_REBEL_fascism_DEF:0 "les Rebelles"

@@ -44,7 +44,7 @@
 
  AUS_industrialise_the_great_hungarian_plains:0 "Industrialiser les grandes plaines hongroises"
  AUS_industrialise_the_great_hungarian_plains_desc:0 "La Hongrie possède de vastes étendues de terres entièrement utilisables à des fins industrielles et inutiles à d’autres fins. Le fait que cela n'ait pas encore été exploité est une parodie en soi. Nous allons développer cette terre pour contribuer à nos efforts."
- AUS_industrialise_the_great_hungarian_plains_tt:0 "Contrôler la §YVoïvodine§!, le §YBanat§!, la §YCrisana§! ou la §YTransylvanie du Nord§! étendra le bonus à ces états"
+ AUS_industrialise_the_great_hungarian_plains_tt:0 "Contrôler la §YVoïvodine§!, le §YBanat occidental§!, le §YBanat§!, la §YCrisana§! la §YTransylvanie§! ou la §YTransylvanie du Nord§! étendra l'industrialisation à ces États également."
 
  AUS_fortify_the_hungarian_danube:0 "Fortifier le Danube hongrois"
  AUS_fortify_the_hungarian_danube_desc:0 "Comme en Autriche, le Danube constitue un élément essentiel du potentiel défensif de la Hongrie. Nous allons continuer nos efforts de fortification ici."
@@ -64,7 +64,7 @@
 
  AUS_the_carpathian_line:0 "La ligne des Carpates"
  AUS_the_carpathian_line_desc:0 "La Ruthénie des Carpates fait partie intégrante de l'histoire de la Hongrie et nos frères en union impériale la tiennent aussi à cœur que nous. Nous allons le défendre jusqu'à la dernière goutte de sang autrichien - mais il n'est pas nécessaire que nous y arrivions si nous le fortifions."
- AUS_the_carpathian_line_tt:0 "Ajoute §Y2 forts terrestres§! par province appartenant aux montagnes carpates"
+ AUS_the_carpathian_line_tt:0 "Prolonge la ligne de fortification jusqu'en §YRuthénie des Carpates§! et en §YOlténie§! si vous les contrôlez."
 
  AUS_expand_the_constanta_shipyards:0 "Développer les chantiers navals de Constanta"
  AUS_expand_the_constanta_shipyards_desc:0 "Les chantiers navals de Constanta sont les plus grand chantiers navals de Roumanie. Leur capacité industrielle est sans égale sur tout notre territoire ; l'opportunité qu'ils présentent maintenant que nous la contrôlons est trop utile pour la laisser passer. Nous pouvons les développer encore plus si nous le souhaitons."
@@ -78,7 +78,7 @@
 
  AUS_black_sea_wall:0 "Mur de la mer Noire"
  AUS_black_sea_wall_desc:0 "En cas de guerre avec l'une des puissances de la mer Noire ou de la Méditerranée, nous ferions bien d'empêcher les atterrissages sur notre propre territoire de manière aussi complète que possible. Quelques fortifications et une garnison légère devraient pouvoir écarter la plupart des menaces."
- AUS_black_sea_wall_tt:0 "Ajoute §Y2 forts côtiers§! le long de la côte de la §YMunténie§!, posséder la §YBessarabie§!, §YOdessa§!, la §YDobroudja§! ou §YBourgas§! étendra les fortifications"
+ AUS_black_sea_wall_tt:0 "Ajoutera §Y2 forts côtiers§! sur la côte d'§YOdessa§!, de §YDobrudja§! ou de §YBurgas§! si vous les possédez."
 
  AUS_dubova_chromium_mine:0 "Mine de chrome de Dubova"
  AUS_dubova_chromium_mine_desc:0 "La terre de Dubova a été étudiée et trouvée contenir des quantités viables de chrome. Nous serions stupides de laisser passer cela, surtout compte tenu de la route qui mène à la mer Noire et que représente la Roumanie elle-même."
@@ -122,7 +122,7 @@
  AUS_the_slovakian_line_desc:0 "La Pologne a déjà manifesté son intérêt pour la région slovaque et son occupation du territoire au nord immédiat. Les fortifications sont indispensables si nous voulons sécuriser cette frontière contre des incursions potentiellement dangereuses."
  AUS_the_slovakian_line_tt:0 "Ajoute §Y20 forts terrestres§! le long de la frontière slovaque / polonaise"
 
- AUS_industrialise_northern_slovakia:0 "Industrialiser le nord de la Slovaquie"
+ AUS_industrialise_northern_slovakia:0 "Industrialiser la Slovaquie"
  AUS_industrialise_northern_slovakia_desc:0 "La Slovaquie est mûre avec un potentiel industriel encore inexploité. Nous prendrons des mesures pour moderniser et industrialiser le territoire."
 
  AUS_fortify_the_sudeten_land:0 "Fortifier les Sudètes"
@@ -168,7 +168,7 @@
 
  AUS_protect_our_skies:0 "Protégeons notre ciel"
  AUS_protect_our_skies_desc:0 "Le vol était en soi une nouveauté, mais les avions ont changé, de même que la guerre aéronautique. Nous ne pouvons pas ignorer les menaces du ciel - et nous devons nous préparer en conséquence."
- AUS_protect_our_skies_tt:0 "Ajoute §Y2 installations antiaériennes§! à nos territoires étendus"
+ AUS_protect_our_skies_tt:0 "Ajoute §Y2 installations antiaériennes§! à tous les territoires contrôlés de l'Autriche-Hongrie proprement dite."
 
  AUS_fortify_our_airfields:0 "Fortifier nos aérodromes"
  AUS_fortify_our_airfields_desc:0 "Aucune de nos bases aériennes ne se trouve très loin à l'intérieur de nos frontières et nous ne pouvons exclure la possibilité d'une frappe ciblée capturant l'une ou l'autre. Les fortifier toutes les deux diminuera le risque."

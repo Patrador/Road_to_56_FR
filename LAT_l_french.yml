@@ -8,12 +8,15 @@
 #ideas
  vef_electronics:0 "VEF Radiotehnika RRR"
  vef:0 "Avions VEF"
+
  LAT_ford_vairogs:0 "Ford-Vairogs"
  LAT_latvian_credit_bank:0 "Banque de crédit de Lettonie"
  LAT_sentab:0 "SENTAB"
  LAT_sellier_and_bellot_riga:0 "Sellier & Bellot Riga"
  LAT_foreign_artillery_manufacturers:0 "Fabricants d'artillerie étrangers"
  LAT_overevaluated_currency_idea:0 "Monnaie surévaluée"
+ LAT_invite_foreign_investors:0 "Investisseurs étrangers invités"
+ LAT_invite_foreign_investors_desc:0 "Notre coopération diplomatique et économique avec d'autres pays a suscité l'intérêt de sociétés et d'entreprises étrangères qui sont désormais prêtes à aider notre industrie en pleine croissance en échange d'une fiscalité réduite et du soutien politique de notre régime."
  LAT_fortifications:0 "Fortification des frontières"
  LAT_bombing_sights:0 "Viseurs de bombardement VEF"
  LAT_modern_cameras:0 "Caméras modernes"

@@ -22,7 +22,7 @@
 #-> Anti-tank gun <><>
  anti_tank_equipment:0 "Antichar"
  anti_tank_equipment_short:0 "Antichar"
- anti_tank_equipment_desc:0 "Conçue pour détruire les cibles blindées telles que les chars, l'artillerie antichar tractée tire généralement des obus perforants."
+ anti_tank_equipment_desc:0 "Conçue pour détruire les cibles blindées telles que les chars, l'artillerie antichar tractée tire généralement des projectiles perforants."
  anti_tank_equipment_1:0 "Antichar 30"
  anti_tank_equipment_1_short:0 "Antichar 30"
  anti_tank_equipment_1_desc:0 "Conçue pour détruire les cibles blindées telles que les chars, l'artillerie antichar tractée tire généralement des obus perforants."
@@ -56,6 +56,9 @@
  armored_car_at_equipment_desc:0 "Les véhicules blindés étaient souvent utilisés conjointement avec les troupes pour le soutien des troupes légères."
 
  #-> Towed artillery <><>
+ artillery_equipment:0 "Artillerie tractée"
+ artillery_equipment_short:0 "Artillerie"
+ artillery_equipment_desc:0 "L'artillerie désigne les armes de gros calibre, comme les canons et les obusiers, qui sont actionnées par des équipages et qui peuvent projeter des munitions bien au-delà de la portée effective des armes personnelles." 
  artillery_equipment_1:0 "Artillerie de campagne 30"
  artillery_equipment_1_short:0 "Artillerie de campagne 30"
  artillery_equipment_1_desc:0 "Les pièces d'artillerie sont des armes de gros calibre, telles que les canons et les obusiers, manipulées par une équipe de servants et dont la portée est nettement supérieure à celle des armes individuelles."

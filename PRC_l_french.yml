@@ -1,526 +1,326 @@
 ﻿l_french:
- ### Focus ###
- PRC_lower_defeatism_penalty:0 "Réduit la pénalité de §YDéfaitisme§!"
- prc_sov_supply_tt:0 "Est le voisin d'un des pays suivants :\n       §YUnion soviétique§!\n       Membre de la faction de l'§YUnion soviétique§!\n       §YXinjiang§! communiste avec un avis positif à l'égard de l'§YUnion soviétique§."
- prc_sov_supply_eff_tt:0 "§YLes renforts et le matériel soviétique arriveront à Yan'an dans quelques jours§!"
+ ####################### TOOLTIPS ################
+ prc_sov_supply_tt:0 "Est le voisin d'un des pays suivants :\n       §YUnion soviétique§!\n       Membre de la faction de l'§YUnion soviétique§!\n       §YXinjiang§! communiste avec un avis positif à l'égard de l'§YUnion soviétique§!."
+
+ prc_sov_supply_eff_tt:0 "§YLes renforts et le matériel soviétique arriveront à Yan'an dans quelques jours§!."
+
  prc_long_march_tt:0 "§YNous nous remettrons plus tôt de la Longue Marche§!\n\n"
+
  prc_west_expedition_tt:0 "Trois divisions désignées pour l'expédition se réuniront à Yan'an.\n\n"
+
  prc_east_expedition_tt:0 "Deux divisions désignées pour cette opération se réuniront à Yan'an.\n\n"
+
  prc_front_infras_tt:0 "Ajoute 2 §Yinfrastructures§! dans tous les États annexés voisins du §YJapon§! et de ses fantoches."
+
  prc_root_out_defeatism_tt:0 "Les Japonais ont été chassés du continent."
- prc_nb_tt:0 "Nos troupes manœuvreront plus rapidement sur le terrain."
- prc_gp_tt:0 "Nos partisans auront un plus grand impact."
- prc_ng_tt:0 "Nos partisans auront de meilleures performances."
- prc_mp_tt:0 "Nos troupes manœuvreront plus efficacement."
+ 
  prc_set_government_rank:0 "Changer le nom du pays en §YRépublique populaire de Chine§!.\n"
- PRC_recover_from_the_long_march:0 "Se remettre de la Longue Marche"
- PRC_recover_from_the_long_march_desc:0 "La Longue Marche nous a coûté cher, nous devons commencer à nous rétablir avant que le Kuomintang n'en profite !"
- PRC_anti_japanese_aim:0 "Objectif antijaponais"
- PRC_anti_japanese_aim_desc:0 "Les envahisseurs japonais sont à nos portes, nous devons en faire le centre de notre plan afin de les vaincre."
- PRC_west_expedition:0 "Organiser l'expédition à l'Ouest"
- PRC_west_expedition_desc:0 "Si nous pouvons ouvrir une route pour que les Soviétiques nous envoient du ravitaillement, notre révolution se déroulera beaucoup plus facilement. Cependant, la clique des Ma est sur notre chemin, nous devons nous en débarrasser."
- PRC_approach_the_front:0 "Approcher le front"
- PRC_approach_the_front_desc:0 "Nous devons prendre notre propre initiative pour repousser les envahisseurs japonais ! Nous ne pouvons pas compter uniquement sur les seigneurs de guerre et le Kuomintang."
- PRC_supply_line_from_sov:0 "Ravitaillement en provenance d'Union soviétique"
- PRC_supply_line_from_sov_desc:0 "Avec la route maintenant ouverte, le ravitaillement et les renforts soviétiques peuvent arriver beaucoup plus facilement."
- PRC_front_line_preparation:0 "Préparation de la ligne de front"
- PRC_front_line_preparation_desc:0 "Nous devons préparer nos positions en première ligne, rendre nos soldats plus organisés contre les impérialistes japonais."
- PRC_boost_the_morale:0 "Améliorer le moral"
- PRC_boost_the_morale_desc:0 "Les défaitistes dans nos rangs sont sans aucun doute nuisibles, nous devons leur montrer la preuve que nous avons une chance de gagner, mais cela ne les convaincra pas tous."
- PRC_prepare_for_war:0 "Se préparer à la guerre"
- PRC_prepare_for_war_desc:0 "La guerre avec les Japonais est apparemment inévitable, nous devons nous y préparer !"
- PRC_the_united_front:0 "Le Front uni"
- PRC_the_united_front_desc:0 "Le Kuomintang est maintenant à la tête du Front uni, nous pouvons envoyer nos troupes pour être incorporées dans leurs rangs et leur apprendre la tactique de la guérilla."
- PRC_initiative_in_war_time:0 "Notre propre initiative"
- PRC_initiative_in_war_time_desc:0 "Nous devons prendre l'initiative de nos propres mains, le Kuomintang nous détruira sûrement s'il l'a après la guerre contre les Japonais. Nous ne devons pas leur donner l'outil pour nous détruire !"
- PRC_protracted_war:0 "Guerre prolongée"
- PRC_protracted_war_desc:0 "Nous devons retarder notre ennemi autant que possible et attendre que les peuples et les nations se joignent à nous dans la guerre contre les Japonais."
- PRC_root_out_defeatism:0 "Déraciner le défaitisme"
- PRC_root_out_defeatism_desc:0 "Les Japonais n'ont pas réussi à conquérir la Chine, c'est la meilleure preuve qui puisse gifler les défaitistes."
- PRC_neccessary_flexibility:0 "Mobilité nécessaire"
- PRC_neccessary_flexibility_desc:0 "S'appuyer uniquement sur la guérilla n'est pas viable, nos troupes doivent se préparer à l'assaut et se retirer quand c'est nécessaire."
- PRC_war_of_attrition:0 "Guerre d'usure"
- PRC_war_of_attrition_desc:0 "Nous avons l'espace et les hommes nécessaires pour mener une guerre prolongée avec les Japonais, nous pouvons freiner l'attrition, mais les Japonais ne le peuvent pas. Nous allons utiliser cela contre eux."
- PRC_swift_victory:0 "Doctrine de la victoire rapide"
- PRC_swift_victory_desc:0 "Bien que Mao insiste pour mener une guerre prolongée, certains camarades suggèrent que nous devrions faire preuve de plus d'initiative et porter la guerre aux Japonais, les frapper quand ils s'y attendent le moins."
- PRC_partial_guerilla_operation:0 "Opération Guérilla partielle"
- PRC_partial_guerilla_operation_desc:0 "Mao a insisté sur le fait que la guérilla est une nécessité, nous ne lui donnerons qu'une réponse superficielle."
- PRC_war_of_annihilation:0 "Guerre d'anéantissement"
- PRC_war_of_annihilation_desc:0 "Avec l'initiative en main, nous allons anéantir les Japonais avant qu'ils ne puissent réagir !"
- PRC_political_mobilisation:0 "Mobilisation politique"
- PRC_political_mobilisation_desc:0 "Nous devons encourager tout notre peuple, tant les civils que les soldats, à lutter contre l'envahisseur."
- PRC_self_perservation:0 "Autoconservation"
- PRC_self_perservation_desc:0 "Si nous voulons avoir une chance de gagner cette guerre, nos soldats doivent savoir préserver leur force et ne pas faire de sacrifices inutiles."
- PRC_prepare_for_decisive_battle:0 "Se préparer pour une bataille décisive"
- PRC_prepare_for_decisive_battle_desc:0 "En préservant nos forces, nous pouvons nous préparer à des batailles décisives qui paralyseront les Japonais d'un seul coup."
- PRC_the_goal_of_our_war:0 "Le but de notre guerre"
- PRC_the_goal_of_our_war_desc:0 "Rappeler à notre peuple quel est le but de notre guerre actuelle améliorera grandement notre esprit national."
- PRC_military_civilian_corporation:0 "Coopération militaire et civile"
- PRC_military_civilian_corporation_desc:0 "Mettre en place des milices et encourager les civils à aider à la logistique de l'armée sera un facteur important dans la guerre."
- PRC_debunk_the_underestimation:0 "Arrêter la sous-estimation"
- PRC_debunk_the_underestimation_desc:0 "Nous devons montrer à nos camarades que sous-estimer le Japon est totalement faux et nuit à l'armée de notre nation."
- PRC_army_reform:0 "Réforme de l'armée"
- PRC_army_reform_desc:0 "La structure actuelle de notre armée est trop instable. Nous devons en établir une plus structurée."
- PRC_purge_dissident_element:0 "Purger la droite"
- PRC_purge_dissident_element_desc:0 "Certains pensent que la pensée de la droite a infecté l'esprit de certains de nos camarades, nous devons les faire tourner à nouveau à gauche, ou bien ils seront excommuniés..."
- PRC_found_our_nation:0 "Fonder notre nation"
- PRC_found_our_nation_desc:0 "Notre capitale étant décidée, nous pouvons tenir une assemblée pour annoncer que nous avons enfin fondé notre nation et que nous ne sommes plus un mouvement de guérilla."
- PRC_pla:0 "APL"
- PRC_pla_desc:0 "L'Armée populaire de libération sera la seule armée qui sauvera le peuple chinois du vil capitalisme et éliminera les réactionnaires, le libérant ainsi et l'amenant vers le communisme."
- PRC_the_first_five_year_plan:0 "Le premier plan quinquennal"
- PRC_the_first_five_year_plan_desc:0 "Notre nation nouvellement établie manque de capacités industrielles, nous devons prévoir de mettre l'accent sur ce point dans notre premier plan quinquennal."
- PRC_resources_prospection:0 "Prospection de ressources"
- PRC_resources_prospection_desc:0 "Les vastes territoires de notre nation s'avèrent être très ingénieux, nous pouvons prospecter des ressources qui augmenteront considérablement la quantité de matériaux utiles produits."
- PRC_land_reform:0 "Réforme foncière"
- PRC_land_reform_desc:0 "Actuellement, nos terres appartiennent principalement à des propriétaires et les agriculteurs sont exploités. Une politique devrait être mise en place pour libérer les agriculteurs et leur permettre d'avoir leurs propres terres et leur donner le courage de s'opposer aux propriétaires."
- PRC_suppress_counterrevolutionaries:0 "Supprimer les contre-révolutionnaires"
- PRC_suppress_counterrevolutionaries_desc:0 "Afin de maintenir la stabilité de notre nation, tous les éléments qui sont contre la Révolution doivent être éliminés ou réhabilités, les familles sont encouragées à signaler aux autorités les activités anti-révolutionnaires de leurs membres."
- PRC_156_project:0 "Projet 156"
- PRC_156_project_desc:0 "Avec l'aide de l'Union soviétique, l'industrie de notre pays va se développer."
- PRC_equipment_update:0 "Mise à jour de l'équipement"
- PRC_equipment_update_desc:0 "Nos équipements actuels pour notre armée sont les objets exposés dans le musée, nous devons leur fournir des équipements plus modernes."
- PRC_ndcprc:0 "Fonder le CDNRPC"
- PRC_ndcprc_desc:0 "Le Comité de défense nationale de la République populaire de Chine sera établi pour décider des politiques liées à la défense nationale."
- PRC_tbos:0 "TBOS"
- PRC_tbos_desc:0 "TBOS, acronyme de Two Bombs One Star (Satellite), est le premier plan de notre nation visant à étendre notre portée vers le ciel et à mettre en valeur l'espace."
- PRC_establish_navy:0 "Créer la Marine de l’Armée populaire de libération"
- PRC_establish_navy_desc:0 "Bien que nous ayons des navires, il nous manque une marine officielle organisée."
- PRC_the_red_pacific:0 "Pacifique rouge"
- PRC_the_red_pacific_desc:0 "Nous allons répandre le communisme à travers le Pacifique !"
- PRC_sea_ambition:0 "Ambition dans l'ASE"
- PRC_sea_ambition_desc:0 "Le détroit de Malacca est une artère commerciale pour l'Est et l'Ouest, si nous le contrôlons, nous déciderons du sort de certaines nations."
- PRC_institution_reorganization:0 "Réorganisation de l'institution"
- PRC_institution_reorganization_desc:0 "Notre système éducatif actuel n'est pas bien amélioré, une réorganisation est nécessaire si nous voulons avoir des personnes de talent."
- PRC_cult_of_personality:0 "Culte de la personnalité"
- PRC_cult_of_personality_desc:0 "Tous les Chinois doivent vénérer notre grand et glorieux dirigeant Mao Zedong, et rien d'autre."
- PRC_eliminate_iliteracy:0 "Éliminer l'analphabétisme"
- PRC_eliminate_iliteracy_desc:0 "Le taux d'analphabétisme de notre nation est élevé, nous devons le réduire pour pouvoir progresser."
- PRC_adopt_soviet_education_system:0 "Adopter une éducation de style soviétique"
- PRC_adopt_soviet_education_system_desc:0 "Nous pouvons adopter l'éducation de l'Union soviétique pour remplacer notre éducation actuelle, car la leur est plus structurée que la nôtre."
- PRC_sov_cooperation:0 "Coopération soviétique"
- PRC_sov_cooperation_desc:0 "L'Union soviétique est sans aucun doute la nation communiste la plus puissante du monde, nous avons tant à apprendre d'eux."
- PRC_the_new_communism_beacon:0 "Le nouveau phare du communisme"
- PRC_the_new_communism_beacon_desc:0 "L'Union soviétique est maintenant infestée de révisionnistes qui se sont écartés de la voie de Karl Marx, nous ne suivrons pas une structure aussi corrompue."
- PRC_anti_soviet_revisionist_aim:0 "Objectif antisoviétisme-révisionnisme"
- PRC_anti_soviet_revisionist_aim_desc:0 "Le révisionnisme soviétique empoisonne les millions de camarades soviétiques, nous devons planifier leur salut."
- PRC_liberate_the_soviet_people:0 "Libérer le peuple soviétique"
- PRC_liberate_the_soviet_people_desc:0 "Il est temps pour nous de libérer le peuple soviétique des vils révisionnistes !"
- PRC_state_controlled_education:0 "Éducation sous contrôle de l'État"
- PRC_state_controlled_education_desc:0 "Tout ce qui risque d'ébranler la foi de notre peuple dans le communisme ne doit pas être enseigné à l'école !"
- PRC_liberate_tibet:0 "Libérer le Tibet"
- PRC_liberate_tibet_desc:0 "Le Tibet a depuis longtemps été amené à quitter la communauté chinoise, nous devons maintenant les libérer du capitalisme qui a contaminé leur esprit."
- PRC_establish_air_force:0 "Créer la Force aérienne de l'armée populaire de libération"
- PRC_establish_air_force_desc:0 "Avec des aides étrangères, nous pouvons mettre en place une véritable force aérienne."
- PRC_fighter_focus:0 "Priorité aux chasseurs"
- PRC_fighter_focus_desc:0 "Nous n'avons pas vu ce dernier des combats de chiens de la Grande Guerre. Continuer à développer des avions de chasse nous donnera un avantage pour l'avenir."
- PRC_bomber_focus:0 "Priorité aux bombardiers"
- PRC_bomber_focus_desc:0 "Lorsque les gens du futur parleront de l'horreur des guerres d'aujourd'hui, le feu qui pleut du ciel sera au premier plan. Nous ferons de notre mieux pour que ces histoires soient racontées par nos ennemis."
- PRC_cas_effort:0 "Effort sur l'appui aérien rapproché"
- PRC_cas_effort_desc:0 "Une armée moderne a besoin du soutien de véhicules non seulement sur le terrain, mais aussi dans les airs."
- PRC_nav_effort:0 "Effort sur l'aviation navale"
- PRC_nav_effort_desc:0 "Tout comme la nouvelle guerre navale se déroule en partie sous la surface de l'eau, une partie de celle-ci se déroule dans les airs au-dessus des eaux."
- PRC_economic_reform:0 "Réforme économique"
- PRC_economic_reform_desc:0 "La dévastation apportée par la révolution culturelle pousse notre nation vers un abîme, nous devons chercher des réformes qui puissent nous en sortir."
- PRC_generalissimo_lin:0 "Le généralissime Lin"
- PRC_generalissimo_lin_desc:0 "Lin s'est avéré être la seule personne apte à diriger l'armée de notre nation, c'est pourquoi il s'est surnommé le généralissime."
- PRC_armament_reorganization:0 "Réorganisation de l'armement"
- PRC_armament_reorganization_desc:0 "Nous devons renforcer notre nation dans notre production d'armements."
+
  prc_eliminate_iliteracy_tt:0 "Nous allons progressivement recevoir du personnel plus qualifié."
- PRC_expand_taiyuan_arsenal:0 "Agrandir l'arsenal de Taiyuan"
- PRC_expand_taiyuan_arsenal_desc:0 "L'Arsenal de Taiyuan est réputé pour la qualité de sa production. Si nous pouvons augmenter sa production, nous en tirerons un grand bénéfice."
- if_in_faction_with_chi:0 "§YSi vous êtes dans la faction [CHI.GetDuDelaDelNP] [CHI.GetName] : §!"
- PRC_lure_them_in_strategy:0 "Stratégie « Leurres et pièges »"
- PRC_lure_them_in_strategy_desc:0 "Avec le vaste territoire et le terrain accidenté de notre nation, nous pouvons nous permettre de battre en retraite et d'attirer les envahisseurs sur les champs de bataille de notre choix. Que les impérialistes essaient de nous chasser ! Ils rencontreront une embuscade à chaque coin de rue et un piège à chaque pas !"
- PRC_industrialization_NW:0 "Industrialisation locale : nord-ouest"
- PRC_industrialization_NW_desc:0 "La région du nord-ouest pourrait ressembler à une terre stérile pour l'instant, mais bientôt elle deviendra l'une des zones les plus industrialisées."
- PRC_excavation_NW:0 "Excavation du nord-ouest"
- PRC_excavation_NW_desc:0 "Nous devons rechercher davantage de ressources sur nos terres afin de devenir indépendants des ressources importées."
- PRC_industrialization_S:0 "Industrialisation locale dans le sud"
- PRC_industrialization_S_desc:0 "Le sud est peut-être l'un des plus industrialisés, mais il peut être beaucoup plus amélioré."
- PRC_excavation_S:0 "Plantation de caoutchouc"
- PRC_excavation_S_desc:0 "Le climat du sud est très propice à la plantation de caoutchouc, nous devrions en faire bon usage."
- PRC_excavation_NE:0 "Prospection du nord-est"
- PRC_excavation_NE_desc:0 "Les Japonais ont laissé de nombreux outils dans la région, nous pouvons les utiliser pour découvrir de nouvelles ressources dans la région."
- PRC_pioneering_the_north_east:0 "Créer l'Agence de développement du Nord-Est"
- PRC_pioneering_the_north_east_desc:0 "Bien que les Japonais aient développé certaines parties de la Mandchourie, de vastes étendues de terre restent intactes. Nous devrions entreprendre un vaste effort pour faire entrer pleinement ces terres autrefois barbares dans le monde moderne."
- PRC_rectification:0 "Mouvement de rectification"
- PRC_rectification_desc:0 "Certains de nos camarades ne suivent pas entièrement les directives du communisme, nous devons corriger leur façon de penser." 
- PRC_increase_credibility_of_theory:0 "Accroître la crédibilité de la doctrine"
- PRC_increase_credibility_of_theory_desc:0 "La guerre se déroulant bien pour nous, cela peut servir de preuve pour renforcer la crédibilité de la théorie que nous avons récemment adoptée."
- PRC_front_line_behind_enemy_line:0 "La ligne de front derrière l'ennemi"
- PRC_front_line_behind_enemy_line_desc:0 "Si nous voulons utiliser pleinement le potentiel de la guérilla, nous devons établir des opérations derrière la ligne de front de notre ennemi, perturber leur route de ravitaillement et les ralentir."
- PRC_exploit_our_enemys_mistake:0 "Exploiter les erreurs de notre ennemi"
- PRC_exploit_our_enemys_mistake_desc:0 "L'opération en première ligne de notre ennemi n'est pas très bien coordonnée, nous pouvons l'utiliser à notre avantage et l'exploiter autant que possible."
- PRC_dare_to_die_corps:0 "Le défi à relever"
- PRC_dare_to_die_corps_desc:0 "Si nous voulons gagner la guerre contre les envahisseurs, notre peuple doit être assez courageux pour ne pas avoir peur de la mort."
- PRC_march_into_sik:0 "Reconquérir le Xinjiang"
- PRC_march_into_sik_desc:0 "Il est temps pour nous de reconquérir nos territoires perdus, le Xinjiang sera bientôt à nous."
- ## 16/1/2017 ##
- PRC_continuous_naval_production:0 "Production navale"
- PRC_continuous_naval_production_desc:0 "En concentrant les ressources sur nos chantiers navals et en exemptant les constructeurs navals qualifiés du service militaire, nous pouvons réduire considérablement le temps de production des navires."
- PRC_continuous_air_production:0 "Production aérienne"
- PRC_continuous_air_production_desc:0 "Nous pouvons réorganiser notre industrie aéronautique pour éliminer les appareils obsolètes et rationaliser la production."
- PRC_continuous_non_factory_construct:0 "Ingénierie de construction"
- PRC_continuous_non_factory_construct_desc:0 "Il y a encore beaucoup de mou dans notre secteur de la construction. En concentrant notre attention sur ce problème, nous pouvons améliorer considérablement la vitesse de construction. Malheureusement, la production de machines-outils s'est avérée être un obstacle majeur à l'expansion de notre industrie lourde, de sorte qu'elle ne bénéficiera pas des efforts déployés dans ce domaine."
- PRC_continuous_reduce_training_time:0 "Entraînement de l'armée"
- PRC_continuous_reduce_training_time_desc:0 "En créant des unités de formation avancée spécialisées au sein de chaque division, nous pouvons déployer au front même des divisions qui auraient été auparavant retenues pour terminer leur formation."
- PRC_continuous_suppression:0 "Suppression de la résistance"
- PRC_continuous_suppression_desc:0 "En infiltrant les principaux groupes de résistance en territoire occupé et en neutralisant leurs chefs, nous pouvons réduire considérablement les dégâts qu'ils peuvent causer."
- PRC_continuous_repair:0 "Réparation des constructions"
- PRC_continuous_repair_desc:0 "Nous formerons des équipes de réparation spécialisées composées de travailleurs d'usine et du bâtiment et nous contrôlerons leur déploiement de manière centralisée afin d'améliorer la reconstruction des infrastructures endommagées."
- PRC_continuous_tech_share:0 "Partage de technologie"
- PRC_continuous_tech_share_desc:0 "Nous encouragerons nos instituts de recherche et nos universités à tendre la main à leurs homologues des pays alliés. Cela nous permettra d'obtenir un bonus de partage de technologie."
- PRC_continuous_boost_freedom:0 "Augmenter notre autonomie"
- PRC_continuous_boost_freedom_desc:0 "En réorganisant notre bureaucratie coloniale et en recrutant des administrateurs locaux, nous serons, à terme, en mesure de prendre en charge nos propres affaires."
- PRC_continuous_restrict_freedom:0 "Supprimer nos sujets"
- PRC_continuous_restrict_freedom_desc:0 "Nos sujets coloniaux se sont fait des idées assez stupides sur des choses comme « l'autodétermination » ou « l'indépendance nationale ». Il est temps de les détourner de ces notions."
- ## UNUSED ##
- #prc_continuous_partisan_tt:0 "§YDes partisans se soulèveront à un intervalle de 30 jours dans notre État central qui est contrôlé par notre ennemi qui a l'esprit national « §RPartisans ennemis derrière notre ligne de front§! ».§!"
- #PRC_continuous_partisan:0 "Présence derrière la ligne ennemie"
- #PRC_continuous_partisan_desc:0 "Nos partisans font maintenant des ravages derrière la ligne de front de nos ennemis, nous pourrions renforcer leur impact en leur donnant du ravitaillement supplémentaire."
- #PRC_continuous_one_time_boost:0 "Préparation de plans"
- #PRC_continuous_one_time_boost_desc:0 "Pour vaincre notre ennemi, un plan minutieux est nécessaire. Nous devrions rassembler autant de connaissances et d'esprit militaire que possible pour de tels plans, ils devraient nous accorder quelques avantages dans les prochaines escarmouches contre nos ennemis."
- ## 7/2/2017 ##
+
+ PRC_zxl_will_become_leader_if_agree:0 "§YZhang Xueliang deviendra le dirigeant de la Grande Union du Nord-Ouest s'il l'accepte.\n§!"
+
+ prc_preserve:0 "Active §HAuto-préservation§!\nToute l'infanterie : \n    Rétablissement : §G+1%§!\n    Perte d'expérience : §G-1.5%§!"
+
+ PRC_mountain_training_tt:0 "Active §HMountain Warfare§!\nToute l'infanterie : \n    §HMontagne§!\n      Mouvement : §G+10%§!\n    §HCollines§!\n      Mouvement : §G+10%§!\n\n§HMarines\n    Montagne§!\n      Attaque : §G+5%§!\n    §HCollines§!\n      Attaque : §G+5%§!\n      \n§HMontagnards\n    Montagne§!\n      Attaque : §G+5%§!\n    §HCollines§!\n      Attaque : §G+5%§!\n      \n§HParachutistes\n    Montagne§!\n      Attaque : §G+5%§!\n    §HCollines§!\n      Attaque : §G+5%§!\n\nObtient 2 divisions de montagnards d'élite.\n"
+
+ PRC_yhc_join:0 "§YYang Hucheng§! rejoindra notre armée\n"
+
+ PRC_resore_dbj_glory_tt:0 "Possède et contrôle les États suivants :\n    §YJehol§!\n    §YLiaodong§!\n    §YJilin§!\n    §YLiaoning§!\n"
+
+ PRC_create_wargoal_for_db_tt:0 "Obtient un but de guerre pour le propriétaire ou le pays maître du propriétaire des États suivants :\n    §YLiaodong§!\n    §YLiaoning§!\n    §YJehol§!\n    §YJilin§!\n    §YSungkiang§!\n    §YHeilongjiang§!\n    §YXing'an du Nord§!\n    §YXing'an oriental§!\n    §YKanto-shu§!\n    §YHebei oriental§!\n    §YChahaer§!\n    §YChahaer du Sud§!\n"
+
+ PRC_xbj_join_tt:0 "Obtient 3 divisions\n"
+
+ PRC_turn_fascist_when_select_tt:0 "Mao et certains communistes seront exécutés lorsque cette priorité sera choisie.\n§REn choisissant cette priorité, le parti fasciste devient le parti au pouvoir§!\n\n"
+ 
+ PRC_same_ideology_with_jap:0 "A la même idéologie que [JAP.GetNameDef]"
+
+ PRC_get_wargoal_for_fareast_tt:0 "Obtient un but de guerre pour le propriétaire ou le pays maître du propriétaire des États suivants :\n    §YVladivostok§!\n    §YKhabarovsk§!\n    §YBirobidjan§!\n    §YNikolaïevsk§!\n    §YAmour§!\n    §YSakhaline du Nord§!\n"
+
+ PRC_if_completed_pact_focus_tt:0 "\nSi a complété la priorité §YUn pacte avec le Japon§!, l'effet sera le suivant :\n\n"
+
+ PRC_if_completed_pact_focus_add_tt:0 "\nSi a complété la priorité §YUn pacte avec le Japon§!, cette priorité ne donnera pas d'esprit national\n\n"
+
+ PRC_feng_clique_generals_join_tt:0 "§YMa Zhanshan§!, §YHe Zhuguo§!, §YYu Xuezhong§! et §YZhang Zuoxiang§! vont rejoindre notre armée.\n\n"
+ 
+ chi_accept_prc71_no_tt:0 "[CHI.GetNameDef] n'[CHI.GetAOntNP] pas accepté notre proposition"
+
+ PRC_flag_replacement_tt:0 "Contrôler les États suivants :\n    §YJehol§!\n    §YLiaodong§!\n    §YKirin§!\n    §YLiaoning§!\n"
+
+ has_pact_with_jap_tt:0 "A un pacte avec [JAP.GetNameDef]"
+
+ prc_msp_tt:0 "Réduit la pénalité du §YManque de personnel qualifié§!.\n"
+
+ prc_more_trade_deals_tt:0 "Le commerce est désormais plus accessible."
+
+ prc_more_research_tt:0 "Nos scientifiques auront plus de temps pour faire des recherches."
+
+ prc_more_trade_deals_and_construct_tt:0 "Notre industrie et notre commerce se renforceront un peu plus."
+
+ prc_1_tt:0 "3 divisions d'infanterie et 1 brigade blindée arriveront à Yan'an.\n\n"
+ 
+ sov_power_struggle_ends:0 "La lutte de pouvoir prend fin\n"
+
+ sov_power_struggle_begins:0 "La lutte de pouvoir commence\n"
+ 
+ prc_no_generals_transfer:0 "§RLes généraux actuels ne toléreront pas le communisme, et quitteront notre armée.§!"
+ 
+ prc_sov_reinforcements:0 "Nous recevons 8 divisions de la part [SOV.GetDuDelaDelNP] [SOV.GetName]"
+ 
+ PRC_dongbei_partisans_tt:0 "Devient le contrôleur de tous les États possédés par [CHI.GetNameDef] en Mandchourie."
+ 
+ west_expedition_failed_msg:0 "L'expédition de la République populaire de Chine vers l'ouest a échoué et l'opération a pris fin."
+ 
+ PRC_civil_war_started:0 "La guerre civile a été déclenchée par un événement"
+ 
+ PRC_restart_CHI_war:0 "La République populaire de Chine et la République de Chine sont en guerre."
+ 
+ PRC_no_wargoal_to_chi_when_ok_tt:0 "§RNous n'obtiendrons plus de but de guerre contre [CHI.GetNameDef] avec la priorité §YRenforcer notre objectif§!.§!\n"
+ 
+ PRC_random_amount_of_partisan_tt:0 "§Y2 à 6 unités de guérilla accepteront notre pot-de-vin et rejoindront notre armée.§!\n"
+ 
+ PRC_wait_for_civil_war_tt:0 "Cet événement se déclenchera à nouveau lorsque l'événement de la guerre civile japonaise se déclenchera.\n"
+ 
+ PRC_takeover_dongbei_tt:0 "[PRC.GetNameDef] pren[PRC.GetDNentNP] le contrôle des États de Mandchourie appartenant [JAP.GetAuAlaAlNP] [JAP.GetName] ou à [JAP.GetSesLeursNP] fantoches.\n"
+ 
+ KMT_commie_generals_join_tt:0 "§YLin Biao§!, §YZhu De§!, §YChen Yi§! et §YPeng Dehuai§! rejoignent notre armée."
+ 
+ KMT_hundred_flowers_tt:0 "§YLa campagne des Cent Fleurs commence.§! \nIl s'agit d'un complot visant à exposer les malfaiteurs, cependant, leurs critiques §Rpeut influencer la volonté de notre peuple§! car ils peuvent être plus attirés par d'autres partis §Gavant d'arrêter ces malfaiteurs§!."
+
+ PRC_great_leap_timespan:0 "§YLe Grand Bond en avant§! est prévu pour durer §Gplusieurs§! années, mais elle pourrait être interrompue après §Run an§! si cela devait être désastreux pour notre économie..."
+ 
+ KMT_leap_stop:0 "La politique du §YGrand Bond en avant§! est arrivée à son terme."
+
+
+
+
+ ############## DECISIONS ##################
+ PRC_solidifying_our_revolution:0 "Consolider notre révolution"
+ PRC_solidifying_our_revolution_desc:0 "[PRC.GetNameDefCap] a dû faire face à de nombreuses luttes ces dernières années. Le perfide Kuomintang avait tenté de détruire toute forme d'opposition socialiste en 1935, ce qui a contraint notre mouvement autrefois populaire parmi les paysans à se disperser et à s'éparpiller dans les zones rurales de la plaine centrale. Retrouver sa force demandera sûrement du temps et des efforts, mais nous serons victorieux dans cette lutte !"
+ PRC_question_of_our_capital_decision:0 "Régler la question de la capitale"
+ PRC_question_of_our_capital_decision_desc:0 "La Révolution Populaire gagnera encore plus de soutien parmi les ouvriers et les paysans si nous proclamons officiellement l'établissement [PRC.GetDuDelaDelNP] [PRC.GetName] dans notre capitale nouvellement acquise."
+
+
+ ########### FLAGS #############
  PRC_defy_sov_order:0 "A défié l'ordre des Soviétiques"
  PRC_sov_approve:0 "L'Union soviétique approuve notre proposition"
- PRC_zxl_will_become_leader_if_agree:0 "§YZhang Xueliang deviendra le dirigeant de la Grande Union du Nord-Ouest s'il l'accepte.\n§!"
- PRC_some_generals_will_defect:0 "§RCertains généraux feront défaut au KMT§!\n"
- PRC_remove_trait_from_zxl_tt:0 "Retire le trait §RAdepte du fascisme§! de Zhang Xueliang.\n"
- ## 9/2/2017 ##
- PRC_remove_noresist_from_zxl_tt:0 "Retire le trait §RLe général qui n'a pas résisté§! de Zhang Xueliang.\n"
- prc_preserve:0 "Active §HAuto-préservation§!\nToute l'infanterie : \n    Rétablissement : §G+1%§!\n    Perte d'expérience : §G-1.5%§!"
- PRC_mountain_training_tt:0 "Active §HMountain Warfare§!\nToute l'infanterie : \n    §HMontagne§!\n      Mouvement : §G+10%§!\n    §HCollines§!\n      Mouvement : §G+10%§!\n\n§HMarines\n    Montagne§!\n      Attaque : §G+5%§!\n    §HCollines§!\n      Attaque : §G+5%§!\n      \n§HMontagnards\n    Montagne§!\n      Attaque : §G+5%§!\n    §HCollines§!\n      Attaque : §G+5%§!\n      \n§HParachutistes\n    Montagne§!\n      Attaque : §G+5%§!\n    §HCollines§!\n      Attaque : §G+5%§!\n\nObtient 2 divisions de montagnards d'élite.\n"
- PRC_yhc_join:0 "§YYang Hucheng§! rejoindra notre armée\n"
- PRC_resore_dbj_glory_tt:0 "Possède et contrôle les États suivants :\n    §YJehol§!\n    §YLiaodong§!\n    §YJilin§!\n    §YLiaoning§!\n"
- PRC_create_wargoal_for_db_tt:0 "Obtient un but de guerre pour le propriétaire ou le pays maître du propriétaire des États suivants :\n    §YLiaodong§!\n    §YLiaoning§!\n    §YJehol§!\n    §YJilin§!\n    §YSungkiang§!\n    §YHeilongjiang§!\n    §YXing'an du Nord§!\n    §YXing'an oriental§!\n    §YKanto-shu§!\n    §YHebei oriental§!\n    §YChahaer§!\n    §YChahaer du Sud§!\n"
- ## 10/2/2017 ##
- PRC_xbj_join_tt:0 "Obtient 3 divisions\n"
- PRC_turn_fascist_when_select_tt:0 "Mao et certains communistes seront exécutés lorsque cette priorité sera choisie.\n§REn choisissant cette priorité, le parti fasciste devient le parti au pouvoir§!\n\n"
- ## 12/2/2017 ##
- PRC_same_ideology_with_jap:0 "A la même idéologie que [JAP.GetNameDef]"
- PRC_get_wargoal_for_fareast_tt:0 "Obtient un but de guerre pour le propriétaire ou le pays maître du propriétaire des États suivants :\n    §YVladivostok§!\n    §YKhabarovsk§!\n    §YBirobidjan§!\n    §YNikolaïevsk§!\n    §YAmour§!\n    §YSakhaline du Nord§!\n"
- ## 13/2/2017 ##
- PRC_if_completed_pact_focus_tt:0 "\nSi a complété la priorité §YUn pacte avec le Japon§!, l'effet sera le suivant :\n\n"
- PRC_if_completed_pact_focus_add_tt:0 "\nSi a complété la priorité §YUn pacte avec le Japon§!, cette priorité ne donnera pas d'esprit national\n\n"
- ## 14/2/2017 ##
- PRC_the_grand_northwest_united_proposal:0 "Proposition de la Grande Union du Nord-Ouest"
- PRC_the_grand_northwest_united_proposal_desc:0 "L'ancien général de la Clique du Fengtian Zhang Xueliang a prévu de mettre en place un autre gouvernement dans la région du nord-ouest. Celui-ci travaillerait alors avec Sheng Shicai dans le Xinjiang pour obtenir des fournitures des Soviétiques pendant que nous préparons une défense à l'est. Cependant, nous devons obtenir la permission du Komintern pour que ce plan devienne réalité."
- PRC_urge_zhang:0 "Contacter Zhang Xueliang"
- PRC_urge_zhang_desc:0 "Maintenant que nous avons décidé de notre prochaine action, il est temps d'informer Zhang de notre plan..."
- PRC_form_the_grand_northwest_united:0 "Former le gouvernement de défense nationale du Nord-Ouest"
- PRC_form_the_grand_northwest_united_desc:0 "Maintenant que presque tout est décidé et que le Gansu est sécurisé, nous pouvons faire du plan de la « Grande union du Nord-Ouest » une réalité."
- PRC_unite_against_the_jap:0 "S'unir contre les Japonais"
- PRC_unite_against_the_jap_desc:0 "Ensemble, nous nous tenons debout, divisés, nous tombons."
- PRC_destroy_mao_and_his_clique:0 "Détruire les communistes"
- PRC_destroy_mao_and_his_clique_desc:0 "Bien qu'à la tête d'un gouvernement encombré de communistes, Zhang pense toujours que seul le fascisme est le seul salut pour la Chine. Pour réaliser l'idée fasciste, les communistes doivent être éradiqués."
- PRC_trust_in_communism:0 "Confiance envers le communisme"
- PRC_trust_in_communism_desc:0 "Il y a une raison pour laquelle les communistes peuvent tenir si longtemps contre l'ANR, une raison que Zhang voudrait découvrir."
- PRC_government_reshuffle:0 "Remaniement gouvernemental"
- PRC_government_reshuffle_desc:0 "Les défaitistes et les optimistes excessifs du gouvernement peuvent conduire à la chute de cette nouvelle union. Des mesures doivent être prises pour éviter qu'une telle catastrophe ne se produise."
- PRC_invite_shx:0 "Le couloir du Suiyuan"
- PRC_invite_shx_desc:0 "En accédant au Suiyuan, nos forces peuvent atteindre le front avec facilité. Cependant, les seigneurs de guerre de la région ont été pour nous un obstacle à la mise en place d'un tel plan."
- PRC_retake_dongbei:0 "Reprendre le Dongbei"
- PRC_retake_dongbei_desc:0 "Depuis l'invasion japonaise de la Mandchourie, la région du nord-est est occupée par les Japonais. Nous allons maintenant reprendre ce qui nous revient de droit !"
- PRC_winter_training:0 "Entraînement hivernal"
- PRC_winter_training_desc:0 "Le climat extrême du nord a été brutal. En dispensant un entraînement spécial en hiver, nos forces peuvent s'adapter plus facilement à la situation."
- PRC_mountain_training:0 "Entraînement en montagne"
- PRC_mountain_training_desc:0 "Le terrain montagneux de la Chine sera une grande barrière contre les forces mécanisées de nos envahisseurs. Sans le soutien de ces forces mécanisées, nos hommes peuvent facilement envoyer nos ennemis avec un entraînement suffisant."
- PRC_recall_feng_clique_generals:0 "Rappeler les généraux de la Clique du Fengtian"
- PRC_recall_feng_clique_generals_desc:0 "Après avoir renforcé sa position au sein du gouvernement nouvellement établi, Zhang a décidé de rappeler les anciens généraux de la Clique fengtienne pour l'aider dans son plan de lutte contre les Japonais."
- PRC_incorporate_xbj:0 "Incorporer l'armée du Xibei"
- PRC_incorporate_xbj_desc:0 "L'armée du Xibei de Yang Hucheng a soutenu le plan de Zhang. Nous pourrions utiliser quelques hommes supplémentaires pour la guerre à venir."
- PRC_fight_alone:0 "Loup solitaire"
- PRC_fight_alone_desc:0 "Connaissant l'incompétence de l'ANR, se battre à leurs côtés ne ferait que nous tirer la patte. Nous devons donc combattre les Japonais seuls. De cette façon, nous aurions beaucoup plus de chances de gagner."
- PRC_military_knowledge_exchange:0 "Échange de connaissances militaires"
- PRC_military_knowledge_exchange_desc:0 "L'ANR et nos tactiques ont toutes deux des défauts. En échangeant des responsables militaires, nos tactiques pourraient être grandement améliorées et la puissance combinée de nous deux pourrait à coup sûr chasser les Japonais de nos terres."
- PRC_study_kmt_equipment:0 "Étudier l'équipement de l'ARN"
- PRC_study_kmt_equipment_desc:0 "Bien qu'il ne soit pas de première qualité, l'équipement de l'ARN est toujours meilleur que celui de la plupart de nos forces. Leur étude permettrait d'accroître nos connaissances en matière d'armes légères."
- PRC_apologise_to_sov:0 "S'excuser auprès de l'URSS"
- PRC_apologise_to_sov_desc:0 "Malgré notre désobéissance à l'ordre soviétique pour l'établissement d'un nouveau gouvernement, nous sommes maintenant en front uni avec le KMT après tout. Les responsables soviétiques peuvent sûrement passer outre ce petit « écart de conduite » de notre part..."
- PRC_pressure_prince_dem:0 "Faire pression sur le gouvernement de Chahaer"
- PRC_pressure_prince_dem_desc:0 "Le fantoche japonais de Chahaer est plus lâche que ce que nous pensions. Nous pourrions utiliser quelques pots-de-vin et leur offrir des avantages, de cette façon nous pourrions les traiter sans effusion de sang. Si ces actions s'avèrent insuffisantes, alors..."
- PRC_reform_high_command:0 "Réformer le haut commandement"
- PRC_reform_high_command_desc:0 "Notre haut commandement pourrait avoir besoin de plus de travail. La structure actuelle est trop lâche et la chaîne de commandement n'est pas très adaptée à la coordination d'une grande armée."
- PRC_focus_on_red_army:0 "Efforts pour l'Armée rouge"
- PRC_focus_on_red_army_desc:0 "L'Armée rouge des communistes excelle dans la guérilla et bénéficie d'un énorme soutien populaire. Faire porter nos efforts sur eux augmenterait considérablement notre légitimité."
- PRC_focus_on_dong_beijun:0 "Efforts pour l'armée du Dongbei"
- PRC_focus_on_dong_beijun_desc:0 "L'armée du Dongbei, bien organisée et dirigée par Zhang Xueliang, est prête à mourir pour sa patrie. Mettre nos efforts en leur faveur augmenterait considérablement les performances de nos forces sur le terrain."
- PRC_guerilla_operation_expansion:0 "Expansion des opérations de guérilla"
- PRC_guerilla_operation_expansion_desc:0 "Nos courageux guérilleros ont remporté quelques succès sur le terrain. Nous devrions envisager d'étendre la guérilla à d'autres aspects, comme l'utilisation de nos propres guérilleros pour traiter avec nos ennemis. Cela peut réduire considérablement le coût de l'occupation des territoires ennemis."
- PRC_stir_anti_japanese_sentiment:0 "Stimuler le sentiment antijaponais"
- PRC_stir_anti_japanese_sentiment_desc:0 "L'occupation japonaise de la Mandchourie a poussé nos frères à quitter leur maison du Dongbei, nous pouvons utiliser cela comme une propagande et augmenter leur moral."
- PRC_enforce_our_goal:0 "Renforcer notre objectif"
- PRC_enforce_our_goal_desc:0 "Nous ne devons pas oublier l'objectif initial de la mise en place de ce gouvernement. Maintenant, nous devons agir."
- PRC_mongolia_issue:0 "La question de la Mongolie"
- PRC_mongolia_issue_desc:0 "La Mongolie est une partie inséparable de la Chine, elle doit nous être rendue !"
- PRC_exert_influence_in_sea:0 "Influencer l'Asie du Sud-Est"
- PRC_exert_influence_in_sea_desc:0 "De nombreuses routes maritimes importantes sont situées en Asie du Sud-Est. En consolidant notre influence dans la région, nous pouvons garantir nos avantages tactiques en cas de guerre."
- PRC_coerce_korea:0 "Contraindre la Corée"
- PRC_coerce_korea_desc:0 "La péninsule coréenne est une grande positon stratégique, nous devons nous en emparer pour assurer notre avantage en temps de guerre !"
- PRC_exert_influence_in_central_asia:0 "Influencer l'Asie centrale"
- PRC_exert_influence_in_central_asia_desc:0 "La consolidation de notre présence en Asie centrale serait bénéfique si nous devions nous étendre vers l'ouest."
- PRC_exert_influence_in_india_and_mongolia:0 "Influencer la Mongolie et l'Inde"
- PRC_exert_influence_in_india_and_mongolia_desc:0 "Une guerre sur deux fronts est la dernière chose que nous voulons. Pour l'éviter, nous devons sécuriser nos frontières nord et sud. Faire de nos voisins nos amis pourrait être très bénéfique."
- PRC_demand_return_of_trade_ports:0 "Demander le retour des ports commerciaux"
- PRC_demand_return_of_trade_ports_desc:0 "Les concessions étrangères sont une humiliation pour notre nation. Nous devons exiger la suppression immédiate de ces traités inégaux !"
- PRC_the_permanent_revolution:0 "La révolution permanente"
- PRC_the_permanent_revolution_desc:0 "Le communisme au sein d'un seul État est loin d'être suffisant, le monde entier devrait suivre le vrai chemin de Marx et de Lénine !"
- PRC_aid_the_workers:0 "Aider les travailleurs"
- PRC_aid_the_workers_desc:0 "Les travailleurs de nos pays voisins ont été opprimés pendant trop longtemps. Le temps est venu pour nous de les libérer de leurs oppresseurs capitalistes !"
- PRC_hire_sov_experts:0 "Engager des experts soviétiques"
- PRC_hire_sov_experts_desc:0 "Les experts soviétiques pourraient donner des avis précieux pour notre développement industriel. Leurs conseils sont plus importants que l'argent dépensé pour les engager."
- PRC_import_sov_machinery:0 "Importer des machines soviétiques"
- PRC_import_sov_machinery_desc:0 "Les machines actuelles de notre nation sont de très mauvaise qualité. Les machines soviétiques, en revanche, produisent des matériaux de haute qualité à un rythme effréné. Leur importation nous assurerait une industrie forte."
- PRC_invest_in_new_companies:0 "Investir dans de nouvelles entreprises"
- PRC_invest_in_new_companies_desc:0 "Il n'y a qu'une poignée d'entreprises nationales dans notre pays. Nous devrions envisager d'investir dans de nouvelles entreprises afin d'accroître la compétitivité de notre pays dans le monde entier."
- PRC_assistance_in_naval_industry:0 "Demander l'aide de l'URSS pour l'industrie navale"
- PRC_assistance_in_naval_industry_desc:0 "Grâce à la forte capacité de l'industrie navale de notre ami, nous pouvons demander son aide dans la nôtre également."
- PRC_study_soviet_ships:0 "Étudier les navires soviétiques"
- PRC_study_soviet_ships_desc:0 "L'étude des conceptions étrangères éclairera nos ingénieurs sur la technologie de la construction navale."
- PRC_study_sov_aircrafts:0 "Étudier les avions soviétiques"
- PRC_study_sov_aircrafts_desc:0 "L'étude des conceptions étrangères éclairera nos ingénieurs sur la technologie aérienne."
- PRC_study_sov_equipments:0 "Étudier le matériel soviétique"
- PRC_study_sov_equipments_desc:0 "L'étude des conceptions étrangères permettra d'éclairer nos ingénieurs militaires."
- PRC_sov_military_advisor:0 "Conseiller militaire soviétique"
- PRC_sov_military_advisor_desc:0 "Avec l'aide de généraux soviétiques expérimentés à la retraite, notre armée peut être plus performante."
- PRC_the_second_northeast_flag_replacement:0 "Le deuxième remplacement du drapeau du Nord-Est"
- PRC_the_second_northeast_flag_replacement_desc:0 "L'armée de Dongbei a été une force décisive pendant l'ère des seigneurs de la guerre. Sans notre action pendant la guerre des plaines centrales, le gouvernement de Nankin ne l'aurait pas gagnée. Sans le remplacement du drapeau du Nord-Est, la Chine ne sera pas « unie » sous un seul drapeau. Maintenant, nous allons restaurer la Clique de Fengtian et montrer au gouvernement de Nankin qui est le plus apte à régner sur la Chine."
- PRC_submit_to_central_government:0 "Se soumettre au gouvernement central"
- PRC_submit_to_central_government_desc:0 "Ahhhhhhhhhh, je veux jouer la Chine maintenant, cet arbre de priorités est nul !"
- PRC_revive_arsenals:0 "Restaurer les arsenaux"
- PRC_revive_arsenals_desc:0 "La plupart des arsenaux de la région du Nord-Est sont restés intacts, certains reçoivent même des faveurs des Japonais. Nous pouvons maintenant les utiliser pour produire la machine de guerre dont nous avons besoin pour redonner à la Clique de Fengtian sa gloire d'antan."
- ## 15/2/2017 ##
- PRC_revive_the_navy_and_air_force:0 "Rétablir la marine et l'armée de l'air"
- PRC_revive_the_navy_and_air_force_desc:0 "Notre marine et nos forces aériennes sont l'une des raisons de notre force pendant l'ère des seigneurs de la guerre. Nous devons les rétablir afin de nous assurer que nous sommes toujours une force avec laquelle il faut compter."
- PRC_pact_with_jap:0 "Un pacte avec le Japon"
- PRC_pact_with_jap_desc:0 "Bien qu'ils aient été autrefois notre ennemi, leur force militaire est indéniable. Peut-être pourrions-nous mettre de côté nos préjugés et former une alliance avec eux ?"
- PRC_king_of_dongbei:0 "Roi du Dongbei"
- PRC_king_of_dongbei_desc:0 "Nous avons récupéré nos terres perdues, la région redeviendra notre centre d'opération."
- PRC_industrial_developement:0 "Développement industriel"
- PRC_industrial_developement_desc:0 "Le territoire du Dongbei, déchiré par la guerre, n'a plus que peu d'infrastructures. En déployant davantage d'efforts pour reconstruire la région, nous augmenterons notre production."
- PRC_study_foreign_equipment:0 "Étudier l'équipement étranger"
- PRC_study_foreign_equipment_desc:0 "Nous pouvons imiter les équipements étrangers et ajouter des améliorations aux nôtres en fonction de leur conception."
- PRC_expand_unversity:0 "Développer l'université"
- PRC_expand_unversity_desc:0 "L'éducation est indispensable, nous devons construire davantage d'universités afin de former la prochaine génération pour l'avenir de notre nation."
- PRC_establish_general_staff:0 "Créer un état-major"
- PRC_establish_general_staff_desc:0 "La taille de notre armée a beaucoup augmenté. Nous devons mettre en place un organe pour une meilleure coordination."
- PRC_claim_the_central_plain:0 "Revendiquer la Plaine centrale"
- PRC_claim_the_central_plain_desc:0 "Le gouvernement du Sud a les yeux rivés sur nos territoires depuis longtemps. Nous devrions les détruire avant qu'ils ne fassent de même."
- PRC_secure_the_far_east:0 "Sécuriser l'Extrême-Orient"
- PRC_secure_the_far_east_desc:0 "L'Extrême-Orient russe nous a refusé un accès direct au Pacifique. Cela entravera gravement notre expansion navale. Dans l'intérêt de notre nation, nous devons prendre le contrôle de la zone."
- PRC_joint_warfare:0 "Guerre commune"
- PRC_joint_warfare_desc:0 "La longue ligne côtière de la Chine a fourni une excellente occasion à nos forces d'utiliser notre arsenal aérien, naval et terrestre. Nous devrions approfondir ces tactiques efficaces."
- PRC_pressure_korea:0 "Faire pression sur la Corée"
- PRC_pressure_korea_desc:0 "Avec notre succès dans la prise de contrôle des villes les plus importantes d'Extrême-Orient, notre influence s'est étendue. Maintenant que la Corée est entourée par nos forces, elles devraient savoir quelle est la meilleure décision à prendre."
- PRC_special_research_department:0 "Département spécial de recherche"
- PRC_special_research_department_desc:0 "Le progrès scientifique est vital pour la survie de notre nation."
- PRC_provisional_science_department:0 "Département provisoire de recherche"
- PRC_provisional_science_department_desc:0 "Certaines personnes compétentes ont rejoint notre gouvernement lors du remaniement, nous pourrions les regrouper et les affecter à des tâches liées à la science."
- PRC_establish_top_command:0 "Établir un commandement suprême"
- PRC_establish_top_command_desc:0 "Un corps principal de militaires doit être désigné pour un commandement et une coordination plus efficaces des troupes."
- PRC_expand_navy_command_structure:0 "Développer le commandement de la marine"
- PRC_expand_navy_command_structure_desc: "Avec la taille toujours croissante de notre marine, une structure de commandement dédiée est nécessaire."
- PRC_expand_air_command_structure:0 "Développer le commandement aérien"
- PRC_expand_air_command_structure_desc: "Avec la taille toujours croissante de notre force aérienne, une structure de commandement dédiée est nécessaire."
- PRC_yellow_sea_navy:0 "Marine de la mer Jaune"
- PRC_yellow_sea_navy_desc:0 "La mer Jaune est la base d'opération de notre marine, nous devons renforcer notre marine côtière pour assurer sa sécurité."
- PRC_pacific_fleet:0 "Flotte du Pacifique"
- PRC_pacific_fleet_desc:0 "Nous devons nous fixer un objectif plus élevé, l'expansion de notre marine pour les opérations en haute mer est une nécessité."
- PRC_naval_air_effort:0 "Effort aéronaval"
- PRC_naval_air_effort_desc:0 "Les porte-avions ont été au centre du développement de la marine ces dernières années, nous devons maintenir notre marine à jour."
- PRC_naval_innovation:0 "Innovation navale"
- PRC_naval_innovation_desc:0 "Les doctrines et conceptions navales traditionnelles finiront par tomber en disgrâce. Nous devons trouver des moyens nouveaux et plus efficaces pour détruire nos ennemis en mer pendant qu'ils stagnent."
- PRC_fight_effort:0 "Effort sur les chasseurs"
- PRC_fight_effort_desc:0 "Nous n'avons pas vu ce dernier des combats de chiens de la Grande Guerre. Continuer à développer des avions de chasse nous donnera un avantage pour l'avenir."
- PRC_bomber_effort:0 "Effort sur les bombardiers"
- PRC_bomber_effort_desc:0 "Lorsque les gens du futur parleront de l'horreur des guerres d'aujourd'hui, le feu qui pleut du ciel sera au premier plan. Nous ferons de notre mieux pour que ces histoires soient racontées par nos ennemis."
- PRC_air_innovation:0 "Innovation aérienne"
- PRC_air_innovation:0 "Les doctrines aériennes traditionnelles et la conception des avions finiront par tomber en disgrâce. Nous devons trouver des moyens nouveaux et plus efficaces pour détruire nos ennemis dans les airs pendant qu'ils stagnent."
- PRC_introduce_jap_shipbuilding_tech:0 "Demander l'aide du Japon dans l'industrie navale"
- PRC_introduce_jap_shipbuilding_tech_desc:0 "Grâce à la forte capacité de l'industrie navale de notre ami, nous pouvons demander son aide pour la nôtre également."
- PRC_jap_military_advisor:0 "Conseiller militaire japonais"
- PRC_jap_military_advisor_desc:0 "Le Japon a une histoire militaire plus longue que la nôtre, leur expérience sera d'une grande utilité pour notre développement militaire."
- PRC_west_pacific_alliance:0 "Alliance du Pacifique occidental"
- PRC_west_pacific_alliance_desc:0 "Pour assurer la survie de nos deux nations, une alliance devrait être formée."
- PRC_coup_in_philipine:0 "Soutenir les coup d'État fascistes d'Asie du Sud-Est"
- PRC_coup_in_philipine_desc:0 "Les gens devraient se soulever contre leur gouvernement incompétent et suivre la véritable voie du fascisme. Ceux qui le font recevront notre soutien total."
- PRC_burn_the_bridge:0 "Brûler le pont"
- PRC_burn_the_bridge_desc:0 "Nous avons obtenu ce que nous voulions du Japon, il est temps pour nous de rompre le pacte."
- PRC_battlefield_four:0 "Le sixième théâtre"
- PRC_battlefield_four_desc:0 "De l'autre côté du Pacifique se trouve la véritable menace pour notre nation, ils doivent être détruits !"
- ## 17/2/2017 ##
- PRC_feng_clique_generals_join_tt:0 "§YMa Zhanshan§!, §YHe Zhuguo§!, §YYu Xuezhong§! et §YZhang Zuoxiang§! vont rejoindre notre armée.\n\n"
- ## 20/2/2017 ##
- chi_accept_prc71_no_tt:0 "[CHI.GetNameDef] n'[CHI.GetAOntNP] pas accepté notre proposition"
- PRC_wuhan_ins_ava_tt:0 "Wuhan Iron and Steel disponible comme entreprise industrielle\n"
- PRC_elec_concern_tt:0 "1st Ministry of Machine Building disponible comme entreprise d'électroniquesn\n"
- PRC_mukdenu_ava_tt:0 "Mukden University disponible comme entreprise industrielle\n"
- ## 21/2/2017 ##
- PRC_flag_replacement_tt:0 "Contrôler les États suivants :\n    §YJehol§!\n    §YLiaodong§!\n    §YKirin§!\n    §YLiaoning§!\n"
+ prc_nation_founded:0 "Nous avons fondé notre nation."
+ lin_biao:0 "Lin Biao a pris le pouvoir"
+ deng_xiao_ping:0 "Deng Xiaoping a pris le pouvoir"
+ prc_capital_decided:0 "La décision §YRégler la question de la capitale§! a été prise."
+ cultural_revolution:0 "Révolution culturelle en cours"
+ CR_ended:0 "Révolution culturelle terminée"
+ death_of_zel:0 "Zhou Enlai est décédé"
+ month_countercurrent:0 "A été critiqué pendant la révolution culturelle"
+ prc_annex_chi_integration:0 "Gouvernement intégré"
+ PRC_zxl_purge:0 "Exécuté par Zhang Xueliang"
+ PRC_enable_cdx:0 "Chen Duxiu est revenu"
+ PRC_no_wargoal_to_chi_with_gnwu:0 "Objectif anti-Chiang abandonné"
+ PRC_yhc_enable:0 "Incorporé"
+ PRC_zxl_purge:0 "Exécuté par Zhang Xueliang"
+ chi_accept_prc71_tt:0 "[CHI.GetNameDefCap] [CHI.GetAOntNP] accepté notre proposition"
+ no_rescue_zhang:0 "Ne pas sauver Zhang Xueliang"
+ xian_incident_started:0 "L'incident de Xi'an a débuté"
+ cdx_returned:0 "Chen Duxiu est revenu"
+ PRC_zxl_as_leader:0 "Zhang Xueliang est parvenu au pouvoir"
+ PRC_yes_truce:0 "A accepté d'arrêter toutes les guerres civiles."
+
+
  
- 
- 
- 
- ### ideas ###
+ ################  IDEAS  ###############################
  PRC_defeatism_1:0 "Défaitisme"
  PRC_defeatism_1_desc:0 "Certains de nos camarades pensent que si nous nous battons contre les Japonais, nous deviendrons la prochaine Abyssinie. De telles pensées refroidissent considérablement la volonté de notre peuple."
- PRC_defeatism_2:0 "Défaitisme"
- PRC_defeatism_2_desc:0 "Certains de nos camarades pensent que si nous nous battons contre les Japonais, nous deviendrons la prochaine Abyssinie. De telles pensées refroidissent la volonté de notre peuple."
+
  PRC_underestimation:0 "Sous-estimation du Japon"
  PRC_underestimation_desc:0 "Certains de nos camarades sont trop optimistes à propos des Japonais. Ils prétendent même qu'ils n'atteindront jamais le Shanxi. Une telle arrogance affectera gravement notre effort de guerre."
+
  PRC_integrated_army:0 "Armée incorporée"
  PRC_integrated_army_desc:0 "L'armée rouge communiste a accepté d'être incorporée dans notre armée, avec ce petit soutien supplémentaire, la guerre pourrait devenir moins difficile."
+
  PRC_initiative_idea:0 "Initiative en temps de guerre"
  PRC_initiative_idea_desc:0 "Le désarmement d'un soldat résulte du fait qu'il perd sa liberté d'action en étant contraint à une position passive. Il en va de même pour la défaite d'une armée. C'est pourquoi les deux camps en guerre font tout ce qu'ils peuvent pour prendre l'initiative et éviter la passivité."
+
  PRC_protracted_war_idea:0 "Guerre prolongée"
- PRC_protracted_war_idea_gp:0 "Guerre prolongée"
- PRC_protracted_war_idea_nb:0 "Guerre prolongée"
- PRC_protracted_war_idea_all:0 "Guerre prolongée"
  PRC_protracted_war_idea_desc:0 "Nous devons retarder les Japonais aussi longtemps que possible. Pour gagner du temps pour l'aide internationale."
- PRC_protracted_war_idea_gp_desc:0 "Nous devons retarder les Japonais aussi longtemps que possible. Pour gagner du temps pour l'aide internationale."
- PRC_protracted_war_idea_nb_desc:0 "Nous devons retarder les Japonais aussi longtemps que possible. Pour gagner du temps pour l'aide internationale."
- PRC_protracted_war_idea_all_desc:0 "Nous devons retarder les Japonais aussi longtemps que possible. Pour gagner du temps pour l'aide internationale."
+
  PRC_devastating_long_march:0 "La dévastation de la Longue Marche"
  PRC_devastating_long_march_desc:0 "Après la Longue Marche, nous nous sommes finalement installés dans le Shaanxi. Cependant, la blessure béante qu'elle a causée n'est toujours pas guérie. Serait-ce notre fin ?"
+
  PRC_devastating_long_march_1:0 "Rétablissement après la Longue Marche"
  PRC_devastating_long_march_1_desc:0 "Nous revenons maintenant sur la bonne voie, l'effet de la Longue Marche sera bientôt atténué."
+
  PRC_guerilla_warfare:0 "Guerre de guérilla"
  PRC_guerilla_warfare_desc:0 "Nous sommes loin de pouvoir être qualifiés de « nation » ou de « pays ». Notre mouvement est simplement une sorte de guérilla contre le Kuomintang. \n"
+
  PRC_lack_skilled_personnel:0 "Manque de personnel qualifié"
- PRC_lack_skilled_personnel_1:0 "Manque de personnel qualifié"
- PRC_lack_skilled_personnel_2:0 "Manque de personnel qualifié"
- PRC_lack_skilled_personnel_3:0 "Manque de personnel qualifié"
- PRC_lack_skilled_personnel_4:0 "Manque de personnel qualifié"
- PRC_lack_skilled_personnel_5:0 "Manque de personnel qualifié"
- PRC_lack_skilled_personnel_6:0 "Manque de personnel qualifié"
- PRC_lack_skilled_personnel_7:0 "Manque de personnel qualifié"
- PRC_lack_skilled_personnel_8:0 "Manque de personnel qualifié"
- PRC_lack_skilled_personnel_9:0 "Manque de personnel qualifié"
- PRC_lack_skilled_personnel_10:0 "Manque de personnel qualifié"
  PRC_lack_skilled_personnel_desc:0 "Beaucoup de nos camarades sont morts pendant la Longue Marche, ce qui a entraîné un manque de personnel qualifié dans nos rangs. Il sera difficile pour nous d'obtenir toute sorte d'améliorations technologiques."
- PRC_lack_skilled_personnel_1_desc:0 "Beaucoup de nos camarades sont morts pendant la Longue Marche, ce qui a entraîné un manque de personnel qualifié dans nos rangs. Il sera difficile pour nous d'obtenir toute sorte d'améliorations technologiques."
- PRC_lack_skilled_personnel_2_desc:0 "Beaucoup de nos camarades sont morts pendant la Longue Marche, ce qui a entraîné un manque de personnel qualifié dans nos rangs. Il sera difficile pour nous d'obtenir toute sorte d'améliorations technologiques."
- PRC_lack_skilled_personnel_3_desc:0 "Beaucoup de nos camarades sont morts pendant la Longue Marche, ce qui a entraîné un manque de personnel qualifié dans nos rangs. Il sera difficile pour nous d'obtenir toute sorte d'améliorations technologiques."
- PRC_lack_skilled_personnel_4_desc:0 "Beaucoup de nos camarades sont morts pendant la Longue Marche, ce qui a entraîné un manque de personnel qualifié dans nos rangs. Il sera difficile pour nous d'obtenir toute sorte d'améliorations technologiques."
- PRC_lack_skilled_personnel_5_desc:0 "Beaucoup de nos camarades sont morts pendant la Longue Marche, ce qui a entraîné un manque de personnel qualifié dans nos rangs. Il sera difficile pour nous d'obtenir toute sorte d'améliorations technologiques."
- PRC_lack_skilled_personnel_6_desc:0 "Beaucoup de nos camarades sont morts pendant la Longue Marche, ce qui a entraîné un manque de personnel qualifié dans nos rangs. Il sera difficile pour nous d'obtenir toute sorte d'améliorations technologiques."
- PRC_lack_skilled_personnel_7_desc:0 "Beaucoup de nos camarades sont morts pendant la Longue Marche, ce qui a entraîné un manque de personnel qualifié dans nos rangs. Il sera difficile pour nous d'obtenir toute sorte d'améliorations technologiques."
- PRC_lack_skilled_personnel_8_desc:0 "Beaucoup de nos camarades sont morts pendant la Longue Marche, ce qui a entraîné un manque de personnel qualifié dans nos rangs. Il sera difficile pour nous d'obtenir toute sorte d'améliorations technologiques."
- PRC_lack_skilled_personnel_9_desc:0 "Beaucoup de nos camarades sont morts pendant la Longue Marche, ce qui a entraîné un manque de personnel qualifié dans nos rangs. Il sera difficile pour nous d'obtenir toute sorte d'améliorations technologiques."
- PRC_lack_skilled_personnel_10_desc:0 "Beaucoup de nos camarades sont morts pendant la Longue Marche, ce qui a entraîné un manque de personnel qualifié dans nos rangs. Il sera difficile pour nous d'obtenir toute sorte d'améliorations technologiques."
+
  PRC_swift_victory_idea:0 "Doctrine de victoire rapide"
- PRC_swift_victory_idea_ng:0 "Doctrine de victoire rapide"
- PRC_swift_victory_idea_mp:0 "Doctrine de victoire rapide"
- PRC_swift_victory_idea_all:0 "Doctrine de victoire rapide"
  PRC_swift_victory_idea_desc:0 "Si nous voulons gagner la guerre contre les envahisseurs japonais, nous devons agir rapidement et frapper avant qu'ils ne le sachent."
- PRC_swift_victory_idea_ng_desc:0 "Si nous voulons gagner la guerre contre les envahisseurs japonais, nous devons agir rapidement et frapper avant qu'ils ne le sachent."
- PRC_swift_victory_idea_mp_desc:0 "Si nous voulons gagner la guerre contre les envahisseurs japonais, nous devons agir rapidement et frapper avant qu'ils ne le sachent."
- PRC_swift_victory_idea_all_desc:0 "Si nous voulons gagner la guerre contre les envahisseurs japonais, nous devons agir rapidement et frapper avant qu'ils ne le sachent."
+
  propaganda_recruits:0 "Propagande pour recruter"
  propaganda_recruits_desc:0 "Nous comptons actuellement sur nos propagandes pour attirer de nouveaux membres dans nos rangs, ce n'est pas très efficace mais cela renforcera néanmoins la volonté de notre peuple.\n"
+
  unyielding_spirit:0 "Esprit inflexible"
- PRC_political_mobilisation:0 "Mobilisation politique"
+
  PRC_mc_corporation:0 "Coopération militaire-civile"
+
  PRC_wrongly_purged_comrades:0 "Surcorrection"
+
  PRC_prepare_for_decisive_battle:0 "Se préparer à des batailles décisives"
+
  PRC_sov_assistance_in_industry:0 "Assistance indutrielle soviétique"
+
  PRC_soviet_style_education:0 "Système éducatif à la soviétique"
+
  PRC_red_beacon:0 "Le nouveau phare rouge"
+
  PRC_good_good_study_idea:0 "Good good study, day day up"
+
  PRC_save_the_soviet_people:0 "Sauver le peuple soviétique"
+
  PRC_ndcprc_idea:0 "NDCPRC"
+
  PRC_cultural_revolution:0 "La révolution culturelle"
+
  PRC_cultural_revolution_aftermath:0 "Effets de la révolution culturelle"
- PRC_socialism_with_chinese_characteristics:0 "Le socialisme à la chinoise"
- PRC_socialism_with_chinese_characteristics_2:0 "Le socialisme à la chinoise"
- PRC_socialism_with_chinese_characteristics_3:0 "Le socialisme à la chinoise"
- PRC_socialism_with_chinese_characteristics_4:0 "Le socialisme à la chinoise"
- PRC_socialism_with_chinese_characteristics_5:0 "Le socialisme à la chinoise"
- PRC_socialism_with_chinese_characteristics_6:0 "Le socialisme à la chinoise"
- PRC_socialism_with_chinese_characteristics_7:0 "Le socialisme à la chinoise"
+
+ PRC_socialism_with_chinese_characteristics:0 "Le socialisme chinois"
+
  lin_biao_generalissimo:0 "Lin Biao"
+
  political_mobilisation_idea:0 "Mobilisation politique"
+
  PRC_uncertainty_of_new_theory:0 "Incertitudes sur la nouvelle doctrine"
  PRC_uncertainty_of_new_theory_desc:0 "L'adoption d'une nouvelle doctrine qui abandonne toute stratégie antérieure a suscité quelques inquiétudes à son sujet."
+
  PRC_maybe_theory_is_ok:0 "Confiance en la nouvelle doctrine"
  PRC_maybe_theory_is_ok_desc:0 "La nouvelle doctrine adoptée s'est avérée efficace : notre armée s'est pleinement habituée au nouveau style de combat.\n\n§RSi la guerre commence à ne pas tourner en votre faveur, votre armée peut perdre sa confiance en la doctrine.§!"
+
  PRC_enemy_partisan:0 "Partisans ennemis derrière notre ligne de front"
  PRC_enemy_partisan_desc:0 "Les partisans de notre ennemi ont établi un terrain loin derrière notre ligne de front, causant des dommages aux voies d'approvisionnement et ralentissant nos troupes.\n\n§RCet esprit national expirera lorsque la guerre avec la République populaire de Chine sera terminée.§!\n\n§RDommages périodiques aux bâtiments sur les États nationaux chinois contrôlés par nous§!"
+
  PRC_exploit_our_enemys_mistake_idea:0 "Exploiter l'erreur de notre ennemi"
  PRC_exploit_our_enemys_mistake_idea_desc:0 "La ligne de front de notre ennemi n'est pas très bien coordonnée, nous pouvons utiliser cela à notre avantage et l'exploiter au maximum.\n\n§RCet esprit national expirera lorsque la guerre contre le Japon sera terminée.§!"
+
  improper_frontline_command:0 "Défauts des opérations de première ligne"
  improper_frontline_command_desc:0 "Les failles de notre opération de première ligne commencent à se manifester, et notre ennemi commence à les utiliser comme avantages."
- ## 17/11/2016 ##
+
  PRC_inspiring_victory:0 "Victoire inspirante"
- ## 13/1/2017 ##
+
  PRC_land_reform_stimulated_our_farmers:0 "Soulèvement des agriculteurs"
  PRC_land_reform_stimulated_our_farmers_desc:0 "La politique de réforme agraire des communistes a stimulé de nombreux agriculteurs dans notre pays. Ces agriculteurs se rebellent maintenant contre leurs propriétaires et rejoignent la menace communiste."
- ## 14/1/2017 ##
- PRC_restart_the_civil_war:0 "Relancer la guerre civile"
- PRC_restart_the_civil_war_desc:0 "La menace commune ayant disparu, nous pouvons maintenant nous concentrer sur la chute du gouvernement corrompu du Kuomintang et en libérer le peuple chinois."
- ## 16/1/2017 ##
+
  prc_plan_for_decisive_battle:0 "Planification minutieuse"
- ## 8/2/2017 ##
- PRC_chen_duxiu:0 "Chen Duxiu"
- ## 9/2/2017 ##
+
  PRC_winter_training_idea:0 "Entraînement d'hiver"
+
+ PRC_revanchism:0 "Revanchisme"
+ PRC_revanchism_desc:0 "§RExpirera s'il n'y a pas de guerre avec le Japon§!"
+
+ PRC_anti_jap_sentiment:0 "Sentiment anti-japonais"
+ PRC_anti_jap_sentiment_desc:0 "§YObtiendra un bonus en cas de guerre avec le Japon§!"
+
+ PRC_expanded_guerillas:0 "Opération de guérilla élargie"
+
+ PRC_dbj_army_focus:0 "Se concentrer sur l'armée du Nord-Est"
+
+ PRC_red_army_focus:0 "Se concentrer sur l'Armée rouge"
+
+ PRC_our_general_staff:0 "Haut commandement réformé"
+
+ PRC_kmt_military_knowledge:0 "Connaissances militaires partagées"
+
+ PRC_military_knowledge:0 "Connaissances militaires partagées"
+
+ PRC_influence:0 "Pression communiste"
+
+ PRC_sov_experts:0 "Équipes d'experts soviétiques"
+
+ PRC_sov_machinery:0 "Machinerie soviétique"
+
+ PRC_former_glory:0 "Ancienne gloire"
+
+ PRC_general_staff:0 "État-major"
+ PRC_general_staff_desc:0 "En imitant l'état-major allemand, cet organe militaire peut coordonner nos forces pour une meilleure performance sur le terrain."
+
+ PRC_top_command:0 "Commandement supérieur"
+
+ PRC_prepare_for_extreme_condition:0 "Se préparer à des conditions extrêmes"
+
+ PRC_eastern_blitzkrieg:0 "Blitzkrieg oriental"
+
+ PRC_jap_advisors:0 "Conseiller militaire japonais"
+
+ PRC_jap_style_command:0 "Structure de commandement lâche"
+
+ PRC_sov_advisor:0 "Conseillers militaires soviétiques"
+
+ PRC_secret_police:0 "Police secrète"
+
+ PRC_enemy_partisan_1:0 "Partisans ennemis derrière notre ligne de front"
+ PRC_enemy_partisan_1_desc:0 "Les partisans de notre ennemi se sont établis loin derrière notre ligne de front, endommageant les voies d'approvisionnement et ralentissant nos troupes. Cet esprit national expirera lorsque la guerre avec la République populaire de Chine sera terminée.§!\n\n§RDommages périodiques aux bâtiments sur les États nationaux chinois contrôlés par nous§!"
+
+ KMT_no_aid_famine_comm:0 "Refus d'envoyer de l'aide"
+
+ KMT_aid_famine:0 "Lutte contre la famine"
+
+ KMT_privilege_to_proletarians_idea:0 "Privilège aux prolétaires"
+
+ KMT_baihua_stage_1_idea:0 "Commentaires légers"
+ KMT_baihua_stage_1_finished:0 "Arrestation de citoyens de droite"
+
+ KMT_baihua_stage_2_idea:0 "Critiques nombreuses"
+ KMT_baihua_stage_2_finished:0 "Arrestation de journalistes de droite"
+ KMT_baihua_stage_2_finished_effect:0 "Activités subversives affaiblies"
+
+ KMT_baihua_stage_3_idea:0 "Commentaires radicaux"
+ KMT_baihua_stage_3_finished:0 "Arrestation de politiciens de droite"
+ KMT_baihua_stage_3_finished_effect:0 "Activités clandestines démasquées"
+
+ KMT_baihua_stage_4_idea:0 "Commentaires intolérables"
+ KMT_baihua_stage_4_finished:0 "Arrestation de membres de droite du parti"
+ KMT_baihua_stage_4_finished_effect:0 "Clique secrète démasquée"
+
+ KMT_baihua_stage_5_idea:0 "Séparatisme en hausse"
+ KMT_baihua_stage_5_finished:0 "Arrestation de militants de droite"
+ KMT_baihua_stage_5_finished_effect:0 "Activités de droite interdites"
+
+ KMT_great_leap_famine_idea:0 "Famine"
+
+ KMT_recovering_from_famine:0 "Se remettre de la famine"
+
+ KMT_peoples_commune:0 "Commune populaire"
+ 
+ KMT_three_red_banner:0 "Trois bannières rouges"
+
+
+
+ ################## THEORISTS ########################
+ PRC_chen_duxiu:0 "Chen Duxiu"
  PRC_he_zhuguo:0 "He Zhuguo"何柱國
  PRC_mazhanshan:0 "Ma Zhanshan"馬占山
  PRC_yang_hu_cheng:0 "Yang Hucheng"楊虎城
  PRC_xu_lanzhou:0 "Xu Lanzhou"許蘭州
  PRC_wang_tehan:0 "Wang Tiehan"王鐵漢
- ## 10/2/2017 ##
- PRC_revanchism:0 "Revanchisme"
- PRC_anti_jap_sentiment:0 "Sentiment anti-japonais"
- PRC_expanded_guerillas:0 "Opération de guérilla élargie"
- PRC_dbj_army_focus:0 "Se concentrer sur l'armée du Nord-Est"
- PRC_red_army_focus:0 "Se concentrer sur l'Armée rouge"
- PRC_our_general_staff:0 "Haut commandement réformé"
- PRC_kmt_military_knowledge:0 "Connaissances militaires partagées"
- PRC_military_knowledge:0 "Connaissances militaires partagées"
- ## 11/2/2017 ##
- PRC_influence:0 "Pression communiste"
- PRC_sov_experts:0 "Équipes d'experts soviétiques"
- PRC_sov_machinery:0 "Machinerie soviétique"
- PRC_former_glory:0 "Ancienne gloire"
- ## 12/2/2017 ##
- PRC_general_staff:0 "État-major"
- PRC_general_staff_desc:0 "En imitant l'état-major allemand, cet organe militaire peut coordonner nos forces pour une meilleure performance sur le terrain."
- PRC_top_command:0 "Commandement supérieur"
- PRC_top_command_air:0 "Commandement supérieur"
- PRC_top_command_navy:0 "Commandement supérieur"
- PRC_top_command_all:0 "Commandement supérieur"
- PRC_prepare_for_extreme_condition:0 "Se préparer à des conditions extrêmes"
- PRC_eastern_blitzkrieg:0 "Blitzkrieg oriental"
- PRC_jap_advisors:0 "Conseiller militaire japonais"
- PRC_jap_style_command:0 "Structure de commandement lâche"
- ## 17/2/2017 ##
- PRC_sov_advisor:0 "Conseillers militaires soviétiques"
- PRC_secret_police:0 "Police secrète"
- PRC_anti_jap_sentiment_desc:0 "§YObtiendra un bonus en cas de guerre avec le Japon§!"
- PRC_revanchism_desc:0 "§RExpirera s'il n'y a pas de guerre avec le Japon§!"
  PRC_zxl_navy:0 "Zhang Xueliang"
  PRC_zxl_air:0 "Zhang Xueliang"
  PRC_liu_duo_quan:0 "Liu Duoquan"劉多荃
  PRC_yu_xue_zhong:0 "Yu Xuezhong"于學忠
  PRC_li_bo_hai:0 "Li Bohai"李渤海
  PRC_deng_bao_shan:0 "Deng Baoshan"鄧寶珊
- ## 19/2/2017 ##
+ PRC_lin_biao_theorist:0 "Lin Biao"
+
+
+ ###################### DESIGNERS ##########################
  PRC_wuhan_ins_corp:0 "Wuhan Iron and Steel"
  PRC_faw_group:0 "FAW Group"
- PRC_taiyuan_arsenal:0 "Taiyuan Arsenal"
+ PRC_taiyuan_arsenal:0 "Arsenal de Taiyuan"
  PRC_yto:0 "YTO Group Corporation"
  PRC_harbin_1machine_group:0 "Harbin First Machinery Building Group"
  PRC_first_ministry_of_machine_building_material:0 "1er Ministère de la construction mécanique"
- PRC_first_ministry_of_machine_building_air:0 "1er Ministère de la construction mécanique"
- PRC_first_ministry_of_machine_building_navy:0 "1er Ministère de la construction mécanique"
- PRC_first_ministry_of_machine_building_armor:0 "1er Ministère de la construction mécanique"
  PRC_bohai_shipyard_group:0 "Bohai Shipyard Group"
- ## 20/2/2017 ##
- KMT_no_aid_famine_comm:0 "Refus d'envoyer de l'aide"
- KMT_no_aid_famine_fasc:0 "Refus d'envoyer de l'aide"
- KMT_no_aid_famine_demo:0 "Refus d'envoyer de l'aide"
- KMT_aid_famine:0 "Lutte contre la famine"
  PRC_shenyang_air:0 "Shenyang Aircraft"
  PRC_guizhou_air:0 "Guizhou Aircraft"
  PRC_chengdu_air:0 "Chengdu Aircraft"
@@ -530,441 +330,30 @@
  PRC_dbj_heavy_air:0 "Ministère de l'armée de l'air"
  PRC_mukden_university:0 "Université de Mukden"
  mukden_u:0 "Université de Mukden"
- PRC_wppo_naval_hign_command:0 "WPPO Navy Hign Command"
+ PRC_wppo_naval_hign_command:0 "WPPO Navy High Command"
  PRC_border_defense_department:0 "Ministère des Armées"
  PRC_mukden_arsenal_tank:0 "Arsenal de Mukden"
  PRC_mukden_arsenal_rifle:0 "Arsenal de Mukden"
  PRC_harbin_machinery:0 "Harbin Machinery"
- ## 17/3/2017 ##
- PRC_enemy_partisan_4:0 "Partisans ennemis derrière notre ligne de front"
- PRC_enemy_partisan_4_desc:0 "Les partisans de notre ennemi se sont établis loin derrière notre ligne de front, endommageant les voies d'approvisionnement et ralentissant nos troupes. Cet esprit national expirera lorsque la guerre avec la République populaire de Chine sera terminée.§!\n\n§RDommages périodiques aux bâtiments sur les États nationaux chinois contrôlés par nous§!"
- PRC_enemy_partisan_3:0 "Partisans ennemis derrière notre ligne de front"
- PRC_enemy_partisan_3_desc:0 "Les partisans de notre ennemi se sont établis loin derrière notre ligne de front, endommageant les voies d'approvisionnement et ralentissant nos troupes. Cet esprit national expirera lorsque la guerre avec la République populaire de Chine sera terminée.§!\n\n§RDommages périodiques aux bâtiments sur les États nationaux chinois contrôlés par nous§!"
- PRC_enemy_partisan_2:0 "Partisans ennemis derrière notre ligne de front"
- PRC_enemy_partisan_2_desc:0 "Les partisans de notre ennemi se sont établis loin derrière notre ligne de front, endommageant les voies d'approvisionnement et ralentissant nos troupes. Cet esprit national expirera lorsque la guerre avec la République populaire de Chine sera terminée.§!\n\n§RDommages périodiques aux bâtiments sur les États nationaux chinois contrôlés par nous§!"
- PRC_enemy_partisan_1:0 "Partisans ennemis derrière notre ligne de front"
- PRC_enemy_partisan_1_desc:0 "Les partisans de notre ennemi se sont établis loin derrière notre ligne de front, endommageant les voies d'approvisionnement et ralentissant nos troupes. Cet esprit national expirera lorsque la guerre avec la République populaire de Chine sera terminée.§!\n\n§RDommages périodiques aux bâtiments sur les États nationaux chinois contrôlés par nous§!"
- 
- 
- ### flag ###
- prc_nation_founded:0 "Nous avons fondé notre nation."
- lin_biao:0 "Lin Biao a pris le pouvoir"
- deng_xiao_ping:0 "Deng Xiaoping a pris le pouvoir"
- prc_capital_decided:0 "Nous avons décidé de notre capital"
- CR_ended:0 "Révolution culturelle terminée"
- death_of_zel:0 "Zhou Enlai est décédé"
- month_countercurrent:0 "A été critiqué pendant la révolution culturelle"
- prc_annex_chi_integration:0 "Gouvernement intégré"
- cultural_revolution:0 "Révolution culturelle en cours"
- ## 8/2/2017 ##
- PRC_zxl_purge:0 "Exécuté par Zhang Xueliang"
- PRC_enable_cdx:0 "Chen Duxiu est revenu"
- ## 9/2/2017 ##
- PRC_no_wargoal_to_chi_with_gnwu:0 "Objectif anti-Chiang abandonné"
- PRC_yhc_enable:0 "Incorporé"
- ## 13/2/2017 ##
- has_pact_with_jap_tt:0 "A un pacte avec [JAP.GetNameDef]"
- ## 16/2/2017 ##
- PRC_zxl_purge:0 "Exécuté par Zhang Xueliang"
- ## 17/2/2017 ##
- chi_accept_prc71_tt:0 "[CHI.GetNameDef] [CHI.GetAOntNP] accepté notre proposition"
- ## 18/2/2017 ##
- no_rescue_zhang:0 "Ne pas sauver Zhang Xueliang"
- xian_incident_started:0 "L'incident de Xi'an a débuté"
- ## 20/2/2017 ##
- cdx_returned:0 "Chen Duxiu est revenu"
- ## 27/2/2017 ##
- PRC_zxl_as_leader:0 "Zhang Xueliang est parvenu au pouvoir"
- ## 24/4/2017 ##
- PRC_yes_truce:0 "A accepté d'arrêter toutes les guerres civiles."                                  
- 
- ### events ###
- prc.1.t:0 "Approvisionnement depuis [SOV.GetNameDef]"
- prc.1.d:0 "Avec l'ouverture de la route pour le ravitaillement soviétique, les équipements et les volontaires sont arrivés à Yan'an et attendent l'arrivée de [Root.GetLeader]."
- prc.1.a:0 "Cela contribuera grandement à la guerre contre les Japonais."
- prc.2.t:0 "Armée communiste incorporée"
- prc.2.d:0 "Les communistes ont accepté de nous laisser incorporer leurs hommes dans notre armée, nous allons maintenant faire front ensemble contre notre ennemi commun."
- prc.2.a:0 "Notre ennemi ne gagnera pas !"
- prc.3.t:0 "Purge erronée"
- prc.3.d:0 "Dans nos efforts pour purger les réactionnaires de notre rang, certains camarades se trompent en pensant qu'ils ont pris le chemin de la « droite » au lieu de celui de la « gauche ». Cela aura sûrement un impact sur nos performances."
- prc.3.a:0 "Certains de nos camarades sont trop « de gauche » pour appeler les autres « de droite »..."
- prc.4.t:0 "Personnel talentueux"
- prc.4.d:0 "Certains citoyens talentueux ont émergé de la société, nous pourrions leur donner une place au sein de notre institution."
- prc.4.a:0 "Le progrès ne s'arrêtera jamais !"
- prc_msp_tt:0 "Réduit la pénalité du §YManque de personnel qualifié§!.\n"
- prc.5.t:0 "Staline est décédé"
- prc.5.d:0 "Notre glorieux leader, Joseph Vissarionovich Staline, a été invité par Karl Marx et nous a quittés hier. Une grande perte pour le peuple soviétique.\n\nUne lutte pour le pouvoir a commencé, les membres puissants du parti se disputant le poste laissé vacant par Staline."
- prc.5.a:0 "Une étoile tombe..."
- prc.6.t:0 "Grandes lignes du mois de [GetMonth]"
- prc.6.d:0 "Après que notre Grand Président Mao ait critiqué le drame de « Hai Rui démis de ses fonctions », des personnes ont formé un groupe pour atténuer l'effet de la déclaration autant que possible en définissant la déclaration du Grand Président Mao d'un point de vue académique. Le Grand Président Mao avait déjà fait l'éloge du drame comme étant une belle représentation de la lutte des classes au sein de l'État socialiste.\n\nCe retour en arrière du Grand Président Mao a provoqué une vive émotion dans la nation. Toute la presse a fait de cet événement son titre et l'a rapporté à grande échelle."
- prc.6.a:0 "Espérons que rien ne sorte de tout ça..."
- prc.7.t:0 "Avis du comité central"
- prc.7.d:0 "Le Grand Président Mao a publié un avis affirmant que le capitalisme a corrompu certains hauts responsables du parti et qu'ils doivent être écartés du pouvoir. L'avis dément également les grandes lignes publiées après que le Grand Président Mao a critiqué le drame « Hai Rui démis de ses fonctions ».\n\nCertains hauts fonctionnaires ont été excommuniés du Parti le même jour."
- prc.7.a:0 "Cela n'a pas l'air bon..."
- prc.8.t:0 "Mort de Lin Biao"
- prc.8.d:0 "Lin Biao, l'héritier désigné du Grand Président Mao, est mort dans un accident d'avion à Öndörkhaan. Les documents de l'avion indiquent que les victimes sont Lin et certains membres de sa famille. La raison exacte du crash est encore inconnue.\n\nLes relations de Lin avec le Grand Président Mao ont été détériorées depuis leur divergence d'opinion sur l'abolition du poste de Président national. Lin serait responsable d'une tentative d'assassinat du Grand Président Mao et aurait fui par crainte d'être la prochaine cible de la Garde rouge."
- prc.8.a:0 "Cela devient incontrôlable !"
- prc.10.t:0 "Lin Biao a fui vers [PRC_linbiao_flee_target.GetNameDef]"
- prc.10.d:0 "Lin Biao, l'héritier désigné du Grand Président Mao, s'est enfui vers [PRC_linbiao_flee_target.GetNameDef] et est arrivé à [PRC_linbiao_flee_target.Capital.GetName] en avion. Le Parti et le Grand Président Mao ont annoncé que Lin s'était enfui parce qu'il craignait d'être poursuivi pour tentative d'assassinat du Grand Président Mao, et qu'il avait donc demandé l'asile [PRC_linbiao_flee_target.GetAuAlaAlNP] [PRC_linbiao_flee_target.GetName].\n\nLa Garde rouge a commencé à critiquer Lin et les membres de sa famille qui n'ont pas participé au vol et qui ont été battus à mort par la Garde rouge par la suite."
- prc.10.a:0 "Il semble que les hommes les plus proches de Mao commencent à voir son vrai visage."
- prc.11.t:0 "Mort de Zhou Enlai"
- prc.11.d:0 "Zhou Enlai, le président de la Conférence consultative politique du peuple chinois, est décédé. Malgré ses efforts et sa loyauté, le Grand Président Mao a refusé d'assister à ses funérailles. Malgré le chaos qui régnait, les gens de tout le pays ont tenu des assemblées pour pleurer sa mort. De nombreuses personnes ont déposé des couronnes sous le monument au héros du peuple pour pleurer la mort de ce président bien-aimé."
- prc.11.a:0 "Une perte tragique..."
- prc.12.t:0 "Mort de Mao Zedong"
- prc.12.d:0 "Le Grand Président, Mao Zedong, a succombé à de nombreuses maladies dans son manoir de Zhongnanhai. Le Grand Président avait fondé le PCC et était sorti victorieux de la seconde guerre civile chinoise, mais sa santé s'était rapidement détériorée depuis qu'il avait découvert l'acte de trahison de Lin. Bien qu'il se soit rétabli pendant une courte période, il a finalement accepté l'invitation de Karl Marx. Il est prévu que son corps soit conservé dans un cercueil de cristal dans le nouveau mausolée de Mao Zedong à Tiananmen, afin que la génération future puisse toujours admirer ce président chinois autrefois glorieux."
- prc.12.a:0 "Une autre perte au gouvernement, cela ne semble pas bon."
- prc.13.t:0 "La Bande des Quatre démantelée"
- prc.13.d:0 "[Root.GetLeader] a arrêté la « Bande des Quatre », responsable de la plupart des mouvements de la dernière période de la « révolution culturelle », y compris la critique de Confucius et de Lin Biao. La cheffe de la bande, Jiang Qing, qui est la veuve de Mao, a déclaré qu'ils ne faisaient que suivre la volonté de Mao. Cependant, Mao avait essayé de supprimer le pouvoir du gang alors qu'il était encore actif. Avec la disparition du « Gang des Quatre », le chaos qui a duré près d'une décennie devrait toucher à sa fin."
- prc.13.a:0 "Ils auraient dû être arrêtés et exécutés il y a longtemps !"
- prc.14.t:0 "Investissements étrangers"
- prc.14.d:0 "Avec la réforme en cours, certaines entreprises étrangères ont été attirées par notre économie et ont décidé d'y investir. Cela renforcera encore plus notre économie."
- prc.14.a:0 "Notre économie deviendra l'une des plus fortes !"
- prc_more_trade_deals_tt:0 "Le commerce est désormais plus accessible."
- prc.15.t:0 "Introduction de technologies étrangères"
- prc.15.d:0 "Certaines technologies étrangères sont introduites dans notre laboratoire, ce qui accélère la progression de nos recherches."
- prc.15.a:0 "La science !"
- prc_more_research_tt:0 "Nos scientifiques auront plus de temps pour faire des recherches."
- prc_more_trade_deals_and_construct_tt:0 "Notre industrie et notre commerce se renforceront un peu plus."
- prc.21.t:0 "L'effet de la réforme"
- prc.21.d:0 "La réforme a créé une nation suffisamment forte pour le peuple chinois et a plus ou moins effacé les effets de la « révolution culturelle »."
- prc.21.a:0 "La Chine s'élève !"
- prc.22.t:0 "Deng Xiaoping prend le pouvoir"
- prc.22.d:0 "Après l'autocritique de Hua Guofeng sur la récente réunion, Deng Xiaoping s'est hissé au plus haut poste du Parti, devenant ainsi la personne la plus puissante de la nation."
- prc.22.a:0 "Espérons qu'il soit meilleur que Hua..."
- prc.23.t:0 "Lin Biao prend le pouvoir"
- prc.23.d:0 "Lin Biao, qui s'est enfui vers [SOV.GetNameDef] pendant la « révolution culturelle » est revenu et a pris le pouvoir en lançant un coup d'État avec ses derniers subordonnés qui ont survécu à la décennie de chaos, renversant Hua Guofeng et s'emparant du siège de président national."
- prc.23.a:0 "Un fantôme du passé !"
- prc.24.t:0 "L'expédition vers l'ouest"
- prc.24.d:0 "La progression insoutenable de l'expédition vers l'ouest fait que Mao pense à une trêve pour mettre un terme à cette expédition sans profit."
- prc.24.a:0 "L'expédition est un échec."
- prc.24.b:0 "Nous devons juste attendre."
- prc.25.t:0 "La visite de Bai Qiuen"
- prc.25.d:0 "Le communiste canadien Norman Bethune, également connu sous le nom de Bai Qiuen, a rendu visite à Mao hier. Bai a insisté sur le fait qu'il allait pratiquer des opérations chirurgicales sur le terrain pour nos soldats afin de nous aider dans notre guerre contre les Japonais."
- prc.25.a:0 "Un médecin est ce dont nous avons besoin !"
- prc.26.t:0 "Le contre-courant de [GetMonth]"
- prc.26.d:0 "Le conflit entre certains membres seniors du parti et Jiang Qing est devenu plus évident. Le groupe de Jiang Qing a présenté les membres seniors comme des réactionnaires, ce qui a conduit Mao à se méfier de certains d'entre eux."
- prc.26.a:0 "La politique est une chose sombre."
- prc.27.t:0 "He Long Under House Arrest"
- prc.27.d:0 "La désobéissance de He Long à l'ordre de Mao d'« éradiquer les capitalistes » a suscité la méfiance de Mao, et He Long a été placé en résidence surveillée hier à Xi Shan."
- prc.27.a:0 "La politique est une chose sombre."
- prc.28.t:0 "Peng De Huai a été arrêté"
- prc.28.d:0 "Jiang Qing a approuvé la Garde rouge pour arrêter le général Peng De Huai, et Peng a été interrogé. Après l'interrogatoire, Peng a été mis en prison."
- prc.28.a:0 "La politique est une chose sombre."
- prc.29.t:0 "Nie Rong Zhen a été rétrogradé"
- prc.29.d:0 "Nie Rong Zhen a été rétrogradé pour travailler dans une usine chimique à Han Dan, sur ordre de Mao."
- prc.29.a:0 "La politique est une chose sombre."
- prc_1_tt:0 "3 divisions d'infanterie et 1 brigade blindée arriveront à Yan'an.\n\n"
- sov_power_struggle_ends:0 "La lutte de pouvoir prend fin\n"
- sov_power_struggle_begins:0 "La lutte de pouvoir commence\n"
- prc.30.t:0 "La fin de la lutte de pouvoir"
- prc.30.d:0 "Après une lutte de pouvoir pendant presque 3 ans, [Root.GetLeader] s'élève maintenant à la position vacante laissée par Staline et devient la personne la plus puissante de l'Union soviétique."
- prc.30.a:0 "Espérons que ce soit le meilleur résultat"
- prc.32.t:0 "Intégration du gouvernement"
- prc.32.d:0 "[CHI.GetNameDef] cherch[CHI.GetEEntNP] à intégrer notre gouvernement pour que la Chine puisse s'unir."
- prc.32.a:0 "Certainement"
- prc.32.b:0 "C'est un piège !"
- prc.33.t:0 "[PRC.GetNameDef] accept[PRC.GetEEntNP] l'intégration"
- prc.33.d:0 "[PRC.GetNameDef] [PRC.GetAOntNP] accepté d'unir la Chine, mais qui dirigera alors notre nouvelle nation unie ?"
- prc.33.a:0 "[PRC.GetLeader] mènera la Chine à la grandeur !"
- prc.33.b:0 "Nos responsables actuels sont les mieux placés pour rester au pouvoir."
- prc.34.t:0 "[PRC.GetName] refus[PRC.GetEEntNP] l'intégration"
- prc.34.d:0 "[PRC.GetLeader] a refusé notre proposition, en déclarant que c'est un piège."
- prc.34.a:0 "Vermine ignorante !"
- prc_no_generals_transfer:0 "§RLes généraux actuels ne toléreront pas le communisme, et quitteront notre armée.§!"
- prc.36.t:0 "[PRC.GetNameDef] planifi[PRC.GetEEntNP] l'invasion [SIK.GetDuDelaDelNP] [SIK.GetName]"
- prc.36.d:0 "Nos informateurs ont constaté que [PRC.GetNameDef] [PRC.GetAOntNP] l'intention de prendre [SIK.GetNameDef] par la force."
- prc.36.a:0 "Demander à [SIK.GetLeader] de coopérer pour éviter une effusion de sang."
- prc.36.b:0 "Demander à [PRC.GetLeader] d'abandonner cette idée."
- prc.36.c:0 "Intéressant..."
- prc.37.t:0 "Message [SOV.GetDuDelaDelNP] [SOV.GetName]"
- prc.37.d:0 "[SOV.GetLeader] a exigé que nous nous soumettions [PRC.GetAuAlaAlNP] [PRC.GetName] pacifiquement, pour éviter de faire couler plus de sang."
- prc.37.a:0 "Ils ont raison, c'est pour le plus grand bien de notre peuple."
- prc.37.b:0 "Quelle absurdité ! Nous ne céderons pas sans nous battre !"
- prc.38.d:0 "[SOV.GetLeader] a exigé que nous abandonnions notre plan d'invasion [SIK.GetDuDelaDelNP] [SIK.GetName]."
- prc.38.a:0 "Les mots de [SOV.GetLeader] ne sont pas les plus sages, mais ceux de [PRC.GetLeader] le sont !"
- prc.38.b:0 "N'attirons pas une attention non désirée."
- prc.39.t:0 "Intervention [SOV.GetDuDelaDelNP] [SOV.GetName]"
- prc.39.d:0 "Grâce à l'intervention [SOV.GetDuDelaDelNP] [SOV.GetName], [SIK.GetNameDef] [SIK.GetAOntNP] accepté de se soumettre à nous pacifiquement."
- prc.39.a:0 "D'une manière ou d'une autre, notre objectif est atteint."
- prc.40.t:0 "[SIK.GetNameDef] refus[SIK.GetEEntNP]"
- prc.40.d:0 "[SIK.GetLeader] a refusé de se soumettre pacifiquement [PRC.GetAuAlaAlNP] [PRC.GetName] !"
- prc.40.a:0 "Comment osent-ils ne pas suivre nos ordres ?"
- prc.41.t:0 "[PRC.GetNameDef] refus[SIK.GetEEntNP]"
- prc.41.d:0 "[PRC.GetLeader] a refusé d'abandonner son plan d'invasion [SIK.GetDuDelaDelNP] [SIK.GetName] !"
- prc.42.t:0 "[PRC.GetLeader] a obéi à notre ordre"
- prc.42.d:0 "[SIK.GetLeader] a abandonné son plan d'invasion [SIK.GetDuDelaDelNP] [SIK.GetName] !"
- prc.42.a:0 "Au moins, ils connaissent encore leur place."
- prc.43.t:0 "Renforcements [SOV.GetAdjMP]"
- prc.43.d:0 "En raison du refus de soumission de la part [SIK.GetDuDelaDelNP] [SIK.GetName], [SOV.GetNameDef] [SOV.GetAOntNP] envoyé des renforts pour nous aider."
- prc_sov_reinforcements:0 "Nous recevons 8 divisions de la part [SOV.GetDuDelaDelNP] [SOV.GetName]"
- prc.43.a:0 "Ces forces seront vitales pour notre effort !"
- prc.44.d:0 "Étant donné l'attitude bélliqueuse [PRC.GetDuDelaDelNP] [PRC.GetName], [SOV.GetNameDef] [SOV.GetAOntNP] envoyé des renforts pour nous aider."
- prc.46.t:0 "Assassinat de Mao Zedong"
- prc.46.d:0 "Notre Grand Président, Mao Zedong, a été tué dans une tentative d'assassinat aujourd'hui. Son successeur désigné, Lin Biao, a décidé de mettre fin à la révolution culturelle une bonne fois pour toutes. Toute opposition a été traitée rapidement et notre nation se remet des dommages causés par le désastre, du moins dans une certaine mesure.\n\nBien que certaines conspirations affirment que Lin a organisé l'assassinat pour prendre son poste, aucune preuve ne permet de l'affirmer."
- prc.46.a:0 "Une perte dévastatrice."
- prc.47.t:0 "Mao Zedong survit à un assassinat"
- prc.47.d:0 "Notre Grand Président, Mao Zedong, a survécu à une tentative d'assassinat aujourd'hui. L'assassin a été repéré avant qu'il ne puisse faire aucun mal à notre bien-aimé Grand Président. Cependant, l'assassin semble être extrêmement fidèle à son maître car il n'a pas dit un mot pendant l'interrogatoire.\n\nDes rumeurs ont suggéré que Lin Biao, le successeur désigné de Mao, avait organisé cette tentative d'assassinat. Bien qu'il n'y ait aucune preuve de la véracité de ces allégations, certains gardes rouges commencent à critiquer Lin Biao pour cette « trahison »."
- prc.47.a:0 "Longue vie à notre Grand Président Mao Zedong !"
- ## 15/11/2016 ##
- prc.48.t:0 "Assistance de l'Union soviétique"
- prc.48.d:0 "L'Union soviétique a envoyé de l'aide pour aider notre guerre contre les Japonais."
- prc.48.a:0 "Ce sera vital pour notre effort de guerre."
- prc.49.t:0 "Nos partisans se soulèvent"
- prc.49.d:0 "Nos partisans en Mandchourie se sont soulevés et nous aident à prendre le contrôle de la région."
- prc.49.a:0 "Splendide !"
- PRC_dongbei_partisans_tt:0 "Devient le contrôleur de tous les États possédés par [CHI.GetNameDef] en Mandchourie."
- prc.50.t:0 "Les déserteurs de l'ANR"
- prc.50.d:0 "Certains soldats de l'Armée nationale révolutionnaire ont décidé de passer dans notre camp."
- prc.50.a:0 "Les mauvaises décisions de [CHI.GetLeader] causent son échec."
- ## 17/11/2016 ##
- prc.51.t:0 "Une victoire inspirante"
- prc.51.d:0 "Les rapports de la ligne de front ont rapporté de bonnes nouvelles. Les affrontements sanglants de nos forces ont abouti à notre victoire et le moral de notre armée est monté en flèche !"
- prc.51.a:0 "En avant, camarades !"
- ## 19/12/2016 ##
- west_expedition_failed_msg:0 "L'expédition de la République populaire de Chine vers l'ouest a échoué et l'opération a pris fin."
- ## 14/1/2017 ##
- PRC_civil_war_started:0 "La guerre civile a été déclenchée par un événement"
- PRC_restart_CHI_war:0 "L'événement « Le communisme avance » a été déclenché"
- ## 29/1/2017 ##
- enter_key:0 "\n"
- ## 8/2/2017 ##
- PRC_no_wargoal_to_chi_when_ok_tt:0 "§RNous n'obtiendrons plus de but de guerre contre [CHI.GetNameDef] avec la priorité §YRenforcer notre objectif§!.§!\n"
- PRC_random_amount_of_partisan_tt:0 "§Y2 à 6 unités de guérilla accepteront notre pot-de-vin et rejoindront notre armée.§!\n"
- ## 9/2/2017 ##
- prc.66.t:0 "Chen Duxiu"
- prc.66.d:0 "Avec le retour de Trotsky [SOV.GetAuEnANP] [SOV.GetName], les partisans du trotskysme du monde entier se sont levés et ont critiqué le communisme « corrompu » que Staline a créé. Parmi eux se trouve un de nos anciens camarades - Chen Duxiu. Si nous voulons garder de bonnes relations avec [SOV.GetNameDEF], nous devons mettre Chen au pouvoir et nous débarrasser de Mao."
- prc.66.a:0 "Faisons avancer l'idée de la Révolution permanente !"
- prc.66.b:0 "Le trotskisme est une idéologie perfide liée au fascisme !"
- ## 15/2/2017 ##
- prc.54.t:0 "Une proposition [From.GetDuDelaDelNP] [From.GetName]"
- prc.54.d:0 "Nous avons récemment reçu une proposition du représentant de [From.GetLeader]. Il déclare qu'il souhaite nous demander la permission d'établir un autre gouvernement dans la région nord-ouest de la Chine et d'utiliser notre soutien pour lutter contre les Japonais et le [CHI.GetRulingParty]."
- prc.54.a:0 "Dites-leur de plutôt travailler avec le [CHI.GetRulingParty]."
- prc.54.b:0 "Voyons comment ils vont s'en sortir."
- prc.55.t:0 "Zhang Xueliang"
- prc.55.d:0 "Zhang a refusé de faire avancer le plan de la Grande Union du Nord-Ouest. Maintenant que nous avons décidé des choses de notre côté, nous devrions essayer de convaincre Zhang que tout est bien préparé."
- prc.55.a:0 "Débarrassons-nous de lui, il ne fera que ralentir notre progression."
- prc.55.b:0 "Acceptons son idée de ne pas s'opposer au [CHI.GetRulingParty]."
- prc.55.c:0 "Lui offrir une place dans notre parti comme il le souhaitait."
- prc.55.e:0 "Attendons qu'il change d'avis."
- prc.56.t:0 "Assassinat de Zhang Xueliang"
- prc.56.d:0 "Nous avons découvert que Zhang Xueliang a été assassiné. Il a été abattu de plusieurs balles dans la tête et la poitrine, certains ont suggéré que c'était l'œuvre des communistes. Pourtant, le coupable n'a toujours pas été trouvé."
- prc.56.a:0 "Les choses vont désormais évoluer dans notre sens."
- prc.56.b:0 "Nous devons frapper maintenant !"
- prc.57.t:0 "Zhang a accepté"
- prc.57.d:0 "Après mûre réflexion, Zhang Xueliang a décidé de rejoindre la Grande Union du Nord-Ouest. Il assumera le leadership une fois que nous aurons sécurisé la province du Gansu et formé officiellement la GUN."
- prc.57.a:0 "Comme prévu."
- prc.58.t:0 "Zhang a refusé"
- prc.58.d:0 "Même si nous essayons de le convaincre avec plus de preuves, Zhang refuse toujours de faire avancer son plan. Nous sommes maintenant seuls."
- prc.58.a:0 "Peu importe."
- prc.59.t:0 "[From.GetNameDef] [From.GetAOntNP] rejeté notre proposition"
- prc.59.d:0 "[From.GetLeader] a rejeté notre proposition, déclarant que nous devrions travailler avec le [CHI.GetRulingParty] au lieu de le combattre."
- prc.59.a:0 "Nous allons prendre les choses en main !"
- prc.59.b:0 "Suivons cet ordre."
- prc.60.t:0 "[From.GetNameDef] [From.GetAOntNP] approuvé notre proposition"
- prc.60.d:0 "Notre proposition pour la Grande Union du Nord-Ouest a été approuvée par [From.GetNameDEF], nous devons y travailler immédiatement."
- prc.60.a:0 "Parfait !"
- prc.61.t:0 "[From.GetNameDef] [From.GetAOntNP] défié nos ordres."
- prc.61.d:0 "Malgré nos bonnes intentions, [From.GetLeader] a refusé de suivre notre ordre et a tout de même décidé de former la Grande Union du Nord-Ouest."
- prc.61.a:0 "Сукин сын!"
- prc.62.t:0 "Mao a été exécuté"
- prc.62.d:0 "Après un rapide raid nocturne sur le quartier général et la maison de Mao et de ses fidèles, de nombreux communistes ont été arrêtés et sommairement exécutés. Leurs corps sont suspendus à certains passages pour rappeler aux gens les conséquences de suivre ce maudit communisme."
- prc.62.a:0 "Coupez la tête de ce vil serpent !"
- prc.63.t:0 "Des communistes cachés"
- prc.63.d:0 "Bien que le raid nocturne soit un succès, certains communistes sont toujours présents au sein du gouvernement. Certains présentent des preuves évidentes de leur soutien à Mao, mais la position de certains autres ne peut être clairement identifiée."
- prc.63.a:0 "Exécutons-les tous !"
- prc.63.b:0 "Faire plus d'efforts pour les identifier avant d'agir."
- prc.64.t:0 "Guérillas communistes"
- prc.64.d:0 "Certains communistes ont formé de petits groupes de guérilla pour harceler nos troupes et nos bases. Comment devons-nous les traiter ?"
- prc.64.a:0 "Arrêtons-les, vite !"
- prc.64.b:0 "Utiliser des pots-de-vin pour provoquer des désaccords entre eux."
- prc.65.t:0 "Établir une police secrète ?"
- prc.65.d:0 "Il n'y a désormais plus de communistes au sein de notre gouvernement. Cependant, il y en a encore beaucoup parmi les civils, certains suggèrent que la police secrète est nécessaire pour supprimer les activités communistes plus efficacement."
- prc.65.a:0 "Nous devons protéger notre peuple de la peste rouge !"
- prc.65.b:0 "Ce n'est pas nécessaire."
- prc.67.t:0 "Un message [From.GetDuDelaDelNP] [From.GetName]"
- prc.67.d:0 "[From.GetNameDef] [From.GetAOntNP] envoyé des représentants pour rencontrer [Root.GetLeader], exigeant que nous leur cédions Suiyuan. En échange, ils nous offriront de rejoindre [From.GetFaction] et quelques aides dans l'industrie."
- prc.67.a:0 "Cela semble raisonnable."
- prc.67.b:0 "Même pas dans leurs rêves les plus fous !"
- prc.68.t:0 "[From.GetNameDef] [From.GetAOntNP] accepté"
- prc.68.d:0 "[From.GetLeader] a accepté de nous remettre Suiyuan."
- prc.68.a:0 "Un choix judicieux"
- prc.69.t:0 "[From.GetNameDef] [From.GetAOntNP] refusé" 
- prc.69.d:0 "[From.GetLeader] a refusé de nous livrer Suiyuan."
- prc.69.a:0 "Une résistance futile."
- prc.70.t:0 "Xu Lanzhou"
- prc.70.d:0 "Xu Lanzhou est devenu un professeur d'art martiaux depuis qu'il a pris sa retraite. Il déclare qu'il ne dirigera plus une autre armée, mais qu'il serait heureux d'enseigner à nos hommes quelques arts martiaux."
- prc.70.a:0 "Laissons-le tranquille."
- prc.70.b:0 "Engageons-le comme tuteur pour les arts martiaux."
- prc.71.t:0 "[From.GetNameDef] recherch[From.GetEEntNP] une alliance"
- prc.71.d:0 "Bien qu'ils aient établi leur gouvernement dans la région du nord-ouest, il semble que leur objectif soit quelque peu aligné sur le nôtre. Nous pourrions travailler avec eux et chasser les Japonais vers la mer."
- prc.71.a:0 "Les Chinois doivent s'unir contre nos ennemis communs."
- prc.71.b:0 "Ils vont nous poignarder dans le dos, c'est sûr !"
- prc.72.t:0 "Alliance acceptée"
- prc.72.d:0 "[From.GetNameDef] [From.GetAOntNP] accepté notre proposition d'alliance."
- prc.72.a:0 "Mort aux envahisseurs !"
- prc.73.t:0 "Alliance rejetée"
- prc.73.d:0 "[From.GetNameDef] [From.GetAOntNP] rejeté notre proposition."
- prc.73.a:0 "Qu'ils soient maudits !"
- prc.74.t:0 "[From.GetNameDef] cherch[From.GetEEntNP] à échanger des connaissances militaires"
- prc.74.d:0 "Sachant que nous ne survivrons pas longtemps si nous combattons seuls, [From.GetLeader] a décidé de laisser nos forces coopérer entre elles. Ainsi, nous pourrons apprendre les mérites de leur armée, et eux pourront apprendre les nôtres."
- prc.74.a:0 "C'est acceptable"
- prc.74.b:0 "Ils doivent préparer quelque chose de maléfique..."
- prc.75.t:0 "Proposition acceptée"
- prc.75.d:0 "Certains fonctionnaires de l'ANR sont arrivés à notre centre de commandement et ont commencé à échanger des connaissances militaires avec nos commandants."
- prc.75.a:0 "Notre puissance combinée mettra nos ennemis à genoux !"
- prc.76.t:0 "Proposition rejetée"
- prc.76.d:0 "[From.GetNameDef] [From.GetAOntNP] rejeté notre proposition d'échange de connaissances militaires."
- prc.76.a:0 "À quoi pensent-ils ?"
- prc.77.t:0 "[From.GetNameDef] s'excus[From.GetEEntNP]"
- prc.77.d:0 "Bien qu'ils aient défié notre ordre en formant [From.GetFaction], ils sont maintenant techniquement dans un front uni avec [CHI.GetNameDef], ce qui est ce que nous voulons qu'ils réalisent. Ils nous ont maintenant envoyé des excuses et veulent que nous oubliions leur « mauvaise conduite » précédente."
- prc.77.a:0 "Eh bien..."
- prc.77.b:0 "Je n'ai jamais vu de gens aussi stupides !"
- prc.78.t:0 "[From.GetNameDef] accept[From.GetEEntNP] nos excuses"
- prc.78.d:0 "Nos excuses ont été acceptées par [From.GetNameDef]."
- prc.78.a:0 "Bien."
- prc.79.t:0 "[From.GetNameDef] rejett[From.GetEEntNP] nos excuses"
- prc.79.d:0 "Nos excuses ont été rejetées par [From.GetNameDef]."
- prc.79.a:0 "C'est bien dommage"
- prc.80.t:0 "Pression [From.GetDuDelaDelNP] [From.GetName]"
- prc.80.d:0 "Ces derniers temps, [From.GetNameDef] [From.GetAOntNP] fait pression sur [Root.GetLeader]. Certains officiels ont également commencé à dire à [Root.GetLeader] de se soumettre avant que les forces [From.GetDuDelaDelNP] [From.GetName] ne pénètrent dans sa maison et ne le fassent mourir."
- prc.80.b:0 "Se soumettre avant qu'il ne soit trop tard."
- prc.80.a:0 "Nous ne tomberons pas dans de tels pièges naïfs."
- prc.81.t:0 "[From.GetNameDef] [From.GetAOntNP] accepté de se soumettre"
- prc.81.d:0 "Ne pouvant plus supporter notre pression, [From.GetLeader] a décidé de se soumettre à notre gouvernement."
- prc.81.a:0 "Une sage décision."
- prc.82.t:0 "[From.GetNameDef] [From.GetAOntNP] refusé de se soumettre"
- prc.82.d:0 "Malgré notre forte pression et la persuasion des officiels soudoyés, [From.GetLeader] reste ferme. Il a dit à notre représentant qu'il ne se soumettra jamais à notre régime tyrannique."
- prc.82.a:0 "Ils reconnaîtront bientôt l'erreur qu'ils ont commise."
- prc.83.t:0 "[From.GetNameDef] nous [From.GetAOntNP] trahi"
- prc.83.d:0 "[From.GetNameDef] [From.GetAOntNP] renversé notre gouvernement fantoche et est maintenant loyal à [PRC.GetName] !"
- prc.83.a:0 "Comment osent-ils ?"
- prc.84.t:0 "[From.GetNameDef] exig[From.GetEEntNP] que nous leur rendions leur territoire"
- prc.84.d:0 "[From.GetNameDef] déclar[From.GetEEntNP] que nous occupons leurs territoires légitimes depuis trop longtemps, et que le temps est venu pour eux de prendre des mesures contre une telle injustice."
- prc.84.a:0 "Nous ne voulons pas entrer en guerre contre eux."
- prc.84.b:0 "Serait-ce une sorte de blague ?"
- prc.85.t:0 "[From.GetNameDef] nous rend[From.GetXEntNP] notre territoire"
- prc.85.d:0 "[From.GetNameDef] [From.GetAOntNP] décidé de nous rendre notre territoire."
- prc.85.a:0 "Une bonne chose pour nous deux."
- prc.86.t:0 "[From.GetNameDef] refus[From.GetEEntNP] de nous rendre notre territoire"
- prc.86.d:0 "[From.GetNameDef] [From.GetAOntNP] décidé de nous rendre notre territoire."
- prc.86.a:0 "Il est temps d'utiliser la manière forte."
- ## 16/2/2017 ##
- prc.87.d:0 "Avec la puissance croissante [From.GetDuDelaDelNP] [From.GetName], notre peuple craint que notre nation ne périsse bientôt si nous ne prenons pas parti. Hier encore, un ultimatum [From.GetDuDelaDelNP] [From.GetName] est arrivé sur le bureau de [Root.GetLeader], exigeant que [Root.GetNameDef] devienn[From.GetEEntNP] leur protectorat."
- prc.87.a:0 "Nous devons céder."
- prc.87.b:0 "Nous ne céderons jamais au tyran !"
- prc.88.a:0 "Occuper la zone."
- prc.89.t:0 "[From.GetNameDef] exig[From.GetEEntNP] que nous rendions la concession."
- prc.92.t:0 "[From.GetNameDef] tent[From.GetEEntNP] de prendre le contrôle"
- prc.92.d:0 "[From.GetNameDef] [From.GetAOntNP] envoyé des représentants pour rencontrer [Root.GetLeader] ce matin. L'objectif principal de la réunion est de dire à [Root.GetLeader] de renoncer à son pouvoir et de laisser [From.GetNameDef] prendre le contrôle. Après mûre réflexion de la part de [Root.GetLeader], une solution a été trouvée..."
- prc.92.a:0 "[Root.GetName] ne se soumettra pas au diable !"
- prc.92.b:0 "Renoncer au pouvoir."
- prc.93.t:0 "[From.GetNameDef] se rebell[From.GetEEntNP]"
- prc.93.d:0 "[From.GetLeader] a décidé d'entrer en guerre contre nous plutôt que de se soumettre."
- prc.93.a:0 "Les armes peuvent encore faire l'affaire."
- prc.95.t:0 "[From.GetNameDef] cherch[From.GetEEntNP] à conclure un pacte avec nous"
- prc.95.d:0 "[From.GetNameDef] [From.GetAOntNP] envoyé des représentants pour demander notre signature sur leur pacte nouvellement rédigé. Ce pacte fera office de déclaration d'amitié et de pacte de non-agression."
- prc.95.a:0 "Signons-le"
- prc.95.b:0 "Ce doit être un piège naïf."
- prc.96.t:0 "Pacte signé"
- prc.96.d:0 "[From.GetNameDef] [From.GetAOntNP] signé le pacte."
- prc.96.a:0 "Excellent !"
- prc.97.t:0 "Pacte rejeté"
- prc.97.d:0 "[From.GetNameDef] [From.GetAOntNP] refusé de signer le pacte."
- prc.97.a:0 "Peu importe"
- prc.102.t:0 "WPPO Proposal"
- prc.102.d:0 "[From.GetNameDef] nous [From.GetAOntNP] envoyé une proposition, suggérant que l'établissement de l'OPPO (Organisation du pacte du Pacifique occidental) est indispensable. Avec l'OPPO établie, nous pourrons veiller les uns sur les autres et dissuader tout démon qui lorgne sur nos territoires."
- prc.102.a:0 "Cela pourrait assurer notre survie."
- prc.102.b:0 "Sore wa inbou desu."
- prc.103.t:0 "[From.GetFaction] établie"
- prc.103.d:0 "[From.GetNameDef] [From.GetAOntNP] accepté de former l'OPPO : nous sommes désormais unis."
- prc.103.a:0 "Glorieux !"
- prc.104.t:0 "[From.GetNameDef] [From.GetAOntNP] refusé"
- prc.104.d:0 "[From.GetNameDef] [From.GetAOntNP] refusé de former l'OPPO."
- prc.104.a:0 "C'est bien dommage"
- prc.105.t:0 "[From.GetFaction] a lancé un coup d'État"
- prc.105.d:0 "Un coup d'État soutenu par [From.GetFaction] vient de commencer !"
- prc.105.a:0 "Qu'ils soient maudits !"
- prc.106.t:0 "La trahison [From.GetDuDelaDelNP] [From.GetName]"
- prc.106.d:0 "Malgré le pacte que nous avons signé, [From.GetNameDef] se montr[From.GetEEntNP] désormais hostile[From.GetXSNP] à notre égard. Ils ont exécuté tous les fonctionnaires [Root.GetAdjMP] de leur gouvernement et nous ont déclaré la guerre !"
- prc.106.a:0 "Yaban jin !"
- ## 19/2/2017 ##
- prc.108.t:0 "Sauver Zhang Xueliang ?"
- prc.108.d:0 "Zhang est détenu par le [CHI.GetRulingParty] après l'incident de Xi'an. Sans lui, le projet de la Grande Union du Nord-Ouest ne peut pas se réaliser."
- prc.108.a:0 "Sauvons-le !"
- prc.108.b:0 "Nous pouvons continuer sans lui."
- prc.109.t:0 "La paix avec le Japon ?"
- prc.109.d:0 "Maintenant que Dingbei est sous notre contrôle, certains généraux et officiels sont satisfaits du résultat. Ils suggèrent que nous pourrions faire la paix avec le Japon."
- prc.109.a:0 "C'est pour le bien de tous."
- prc.109.b:0 "Nous devrions attendre une situation plus appropriée."
- prc.109.c:0 "Quelles sont ces absurdités ?!"
- PRC_wait_for_civil_war_tt:0 "Cet événement se déclenchera à nouveau lorsque l'événement de la guerre civile japonaise se déclenchera.\n"
- prc.110.t:0 "[From.GetNameDef] cherch[From.GetEEntNP] la paix"
- prc.110.d:0 "Leur but étant atteint, ils cherchent maintenant la paix entre nous."
- prc.110.a:0 "Nos forces sont nécessaires ailleurs..."
- prc.110.b:0 "Jamais !"
- prc.111.t:0 "Paix avec [JAP.GetNameDef]"
- prc.111.d:0 "[From.GetNameDef] [From.GetAOntNP] accepté de faire la paix entre nous."
- prc.111.a:0 "La meilleure solution"
- prc.112.t:0 "[From.GetNameDef] [From.GetAOntNP] refusé la paix."
- prc.112.d:0 "[From.GetNameDef] [From.GetAOntNP] refusé de faire la paix."
- prc.112.a:0 "Ils ne font qu'éviter l'inévitable."
- prc.114.d:0 "Avec la guerre civile en cours, [JAP.GetNameDef] ne peu[JAP.GetTVentNP] plus concentrer [JAP.GetSesLeursNP] forces sur notre front. C'est notre chance de revendiquer !"
- ## 20/2/2017 ##
- prc.115.t:0 "Famine dans le Henan"
- prc.115.d:0 "La guerre qui fait rage dans le Henan a provoqué une famine dans la région, les terres agricoles étant détruites par la guerre. Le gouvernement local sollicite maintenant notre aide pour alléger son fardeau."
- prc.115.a:0 "Nous devons les aider !"
- prc.115.b:0 "Nous n'avons pas le temps pour cela."
- KMT_commie_generals_join_tt:0 "§YLin Biao§!, §YZhu De§!, §YChen Yi§! et §YPeng Dehuai§! rejoignent notre armée."
- prc.116.t:0 "Des anciens communistes nous rejoignent"
- prc.116.d:0 "Grâce au succès de notre programme de reconstruction rurale, certains anciens communistes ont décidé de nous rejoindre."
- prc.116.a:0 "Une sage décision."
- prc.117.t:0 "[XSM.GetNameDef] se joint [CHI.GetAuAlaAlNP] [CHI.GetName] contre nous"
- prc.117.d:0 "[CHI.GetLeader] a ordonné à [XSM.GetLeader] de lancer une offensive sur notre flanc nord-ouest !"
- prc.117.a:0 "Ils périront en même temps que [CHI.GetLeader] !"
- PRC_takeover_dongbei_tt:0 "[PRC.GetNameDef] pren[PRC.GetDNentNP] le contrôle des États de Mandchourie appartenant [JAP.GetAuAlaAlNP] [JAP.GetName] ou à [JAP.GetSesLeursNP] fantoches.\n"
- ## 27/2/2017 ##
- prc.120.t:0 "Une invitation de [From.GetLeader]"
- prc.120.d:0 "Avec l'établissement de [From.GetFaction], [From.GetLeader] a envoyé une invitation à [Root.GetLeader], espérant que nous pourrions suivre leur voie."
- prc.120.a:0 "Bonne idée."
- prc.120.t:0 "Nous n'avons pas besoin d'eux."
- prc.121.t:0 "[From.GetNameDef] nous rejoint"
- prc.121.d:0 "[From.GetLeader] a décidé de nous rejoindre."
- prc.121.a:0 "Fantastique !"
- prc.122.t:0 "[From.GetNameDef] [From.GetAOntNP] refusé"
- prc.122.d:0 "[From.GetLeader] a refusé de se joindre à [Root.GetFaction], affirmant qu'ils peuvent faire mieux par eux-mêmes."
- prc.122.t:0 "Sales arrogants !"
- prc.123.t:0 "Envoyer une invitation à [SIK.GetLeader] ?"
- prc.123.d:0 "Pour obtenir du ravitaillement [SOV.GetDuDelaDelNP] [SOV.GetName], il est important d'avoir accès à la région du Xinjiang. Nous pourrions les inviter à rejoindre notre faction et gagner leur confiance."
- prc.123.a:0 "Envoyons-la."
- prc.123.b:0 "Ce n'est pas nécessaire."
- ## 24/4/2017 ##        
- prc.124.t:0 "[From.GetLeader] appelle à l'action"
- prc.124.d:0 "[From.GetLeader] a envoyé des messages indiquant qu'ils sont bien préparés pour l'établissement du Gouvernement de Défense Nationale du Nord-Ouest, et qu'ils attendent maintenant notre action."
- prc.124.a:0 "Nous sommes prêts."
- prc.124.b:0 "Trop tôt..."
- 
+ mukden_rifles:0 "Mukden Rifles"
+ harbin_motorised:0 "Harbin Motorization"
 
- ## news ##
- kns.4.t:0 "La mort de Joseph Staline"
- kns.4.d:0 "Joseph Staline, ancien dirigeant de l'Union soviétique, a été diagnostiqué comme victime d'un accident vasculaire cérébral, d'hypertension et d'une hémorragie gastrique. Il a été trouvé allongé par terre dans sa chambre avant que les médecins ne soient appelés. Utilisant des sangsues comme traitement en vain, le double de Staline a été rappelé de vacances pour le remplacer si nécessaire. Cependant, la santé de Staline a ensuite fait l'objet d'un examen approfondi dans tout Moscou. Le lendemain, Joseph Staline est déclaré mort.\n\nLe culte de la personnalité de Staline se poursuivra après sa disparition. Et une lutte de pouvoir a déjà commencé, car les membres puissants du parti sont enthousiastes à l'idée d'occuper le poste vacant laissé par Staline."
- kns.4.a:0 "Une perte dévastatrice."
- kns.4.b:0 "La perte d'un grand tuteur et d'un grand dirigeant."
- kns.4.c:0 "Intéressant"
- 
- ## trait ##
+
+
+ ########### TRAITS #######################
  the_great_chairman:0 "Le grand président"
  generalissimo:0 "Généralissime"
  prc_jack_of_all_trade:0 "Zhou Enlai"
  sov_power_truggle:0 "Lutte de pouvoir"
- ## 8/2/2017 ##
  fascism_follower:0 "Adepte du fascisme"
  the_generals_that_dont_resist:0 "Le général qui n'a pas résisté"
  PRC_trotskyist:0 "Trotskiste"
- ## 20/2/2017 ##
- mukden_rifles:0 "Fusils de Mukden"
- harbin_motorised:0 "Motorisation Harbin"
- 
- ## opinion modifier ##
+
+
+
+
+
+ ############ OPINION MODIFIERS #################
  industrial_assistance:0 "Assistance industrielle"
  sino_sov_cooperation:0 "Coopération sino-soviétique"
  political_rivalry:0 "Rival politique"
@@ -979,25 +368,1005 @@
  no_paycheck:0 "Refuse de payer le salaire"
  sik_no_coop:0 "Refuse de coopérer"
  prc_no_coop:0 "Refuse de coopérer"
- ## 8/2/2017 ##
  PRC_defy_order:0 "Ordre contesté"
  trostkyism_vermin:0 "Vermine trotskiste"
- ## 11/2/2017 ##
  PRC_2nd_ne_flag_replacement:0 "Second remplacement du drapeau du Nord-Est"
  PRC_defy_order_2:0 "Ordre contesté"
  
- ## misc ##
- night_vision_research:0 "Temps de recherche sur la vision nocturne"
- support_tech_research:0 "Temps de recherche sur les technologies de soutien"
+
+
+
+
+
+ ################# MISC ################
  preserve:0 "Auto-préservation"
  mountain_warfare:0 "Guerre en montagne"
  tech_support:0 "Technologie de soutien"
  
- #Bookmarks
+
+
+
+
+ ####################### BOOKMARKS ################
  CHI_GATHERING_STORM_DESC:0 "Autrefois la nation la plus puissante de la planète, la Chine a été rabaissée par près d'un siècle d'impérialisme occidental et de conflits internes.\n\nTchang Kaï-chek et le Kuomintang, le gouvernement central de la Chine, sont aujourd'hui menacés à la fois par l'Empire du Japon, qui a déjà annexé une vaste partie de la Chine, et par les communistes de Mao, qui se terrent actuellement dans les collines du Shaanxi. Entouré de tous côtés, Tchang prépare maintenant la Chine à une guerre comme elle n'en a jamais connue."
  PRC_GATHERING_STORM_DESC:0 "Le Parti communiste chinois est au bord de la destruction. Après l'échec de la révolution, les armées communistes ont été brisées sur tous les fronts par le Kuomintang et les communistes ont fui leurs bases dans le sud de la Chine vers leur nouvelle base au Shaanxi. De cette catastrophe, un nouveau dirigeant est apparu au sein du parti : Mao Zedong.\n\nMao apporte avec lui une nouvelle vision radicale du communisme, et une nouvelle stratégie de survie et d'expansion. Peut-être les communistes vont-ils s'allier à leurs anciens ennemis contre un ennemi plus grand..."
  PRC_BLITZKRIEG_DESC:0 "Dans le chaos, il y a une opportunité. L'invasion japonaise a contraint le Kuomintang, qui en 1936 avait été incroyablement proche de l'extinction du Parti communist chinois, à s'allier aux communistes.\n\nMaintenant, les communistes ont attendu dans le Shaanxi, se contentant de laisser le Kuomintang faire la majorité des combats. Peut-être que, grâce à cette guerre, les communistes pourraient avancer et prendre les provinces du nord de la Chine, perdues depuis longtemps par les Japonais. Peut-être, après la fin de la guerre, les communistes pourraient-ils utiliser l'industrie du Nord pour pousser le Sud et porter un coup fatal au Kuomintang. Peut-être..."
  CHI_BLITZKRIEG_DESC:0 "L'invasion japonaise a été brutale. En perçant les défenses autour de Pékin et de Shanghaï, les Japonais ont pénétré dans la capitale à Nankin et ont commis des actes d'une horreur indicible dans ses murs. Et pourtant, à la stupéfaction du monde entier, la Chine continue de se battre.\n\nTchang, depuis sa nouvelle capitale Chongqing, mène la résistance contre le Japon. Sur le terrain montagneux du centre, les armées chinoises, le cœur rempli de vengeance, chargent les forces japonaises, déterminées à repousser les démons dans la mer. Si la Chine doit payer le prix du sang pour sa liberté, qu'il en soit ainsi."
 
 
- PRC_lin_biao_theorist:0 "Lin Biao"
+
+
+
+
+
+
+ ####################### FOCUSES ########################
+ PRC_recover_from_the_long_march:0 "Se remettre de la Longue Marche"
+ PRC_recover_from_the_long_march_desc:0 "La Longue Marche nous a coûté cher, nous devons commencer à nous rétablir avant que le Kuomintang n'en profite !"
+
+ PRC_anti_japanese_aim:0 "Objectif antijaponais"
+ PRC_anti_japanese_aim_desc:0 "Les envahisseurs japonais sont à nos portes, nous devons en faire le centre de notre plan afin de les vaincre."
+
+ PRC_west_expedition:0 "Organiser l'expédition à l'Ouest"
+ PRC_west_expedition_desc:0 "Si nous pouvons ouvrir une route pour que les Soviétiques nous envoient du ravitaillement, notre révolution se déroulera beaucoup plus facilement. Cependant, la clique des Ma est sur notre chemin, nous devons nous en débarrasser."
+
+ PRC_approach_the_front:0 "Approcher le front"
+ PRC_approach_the_front_desc:0 "Nous devons prendre notre propre initiative pour repousser les envahisseurs japonais ! Nous ne pouvons pas compter uniquement sur les seigneurs de guerre et le Kuomintang."
+ 
+ PRC_supply_line_from_sov:0 "Ravitaillement depuis l'Union soviétique"
+ PRC_supply_line_from_sov_desc:0 "Avec la route maintenant ouverte, le ravitaillement et les renforts soviétiques peuvent arriver beaucoup plus facilement."
+ 
+ PRC_front_line_preparation:0 "Préparation de la ligne de front"
+ PRC_front_line_preparation_desc:0 "Nous devons préparer nos positions en première ligne, rendre nos soldats plus organisés contre les impérialistes japonais."
+ 
+ PRC_boost_the_morale:0 "Améliorer le moral"
+ PRC_boost_the_morale_desc:0 "Les défaitistes dans nos rangs sont sans aucun doute nuisibles, nous devons leur montrer la preuve que nous avons une chance de gagner, mais cela ne les convaincra pas tous."
+ 
+ PRC_prepare_for_war:0 "Se préparer à la guerre"
+ PRC_prepare_for_war_desc:0 "La guerre avec les Japonais est apparemment inévitable, nous devons nous y préparer !"
+
+ PRC_the_united_front:0 "Le Front uni"
+ PRC_the_united_front_desc:0 "Le Kuomintang est maintenant à la tête du Front uni, nous pouvons envoyer nos troupes pour être incorporées dans leurs rangs et leur apprendre la tactique de la guérilla."
+
+ PRC_initiative_in_war_time:0 "Notre propre initiative"
+ PRC_initiative_in_war_time_desc:0 "Nous devons prendre l'initiative de nos propres mains, le Kuomintang nous détruira sûrement s'il l'a après la guerre contre les Japonais. Nous ne devons pas leur donner l'outil pour nous détruire !"
+ 
+ PRC_protracted_war:0 "Guerre prolongée"
+ PRC_protracted_war_desc:0 "Nous devons retarder notre ennemi autant que possible et attendre que les peuples et les nations se joignent à nous dans la guerre contre les Japonais."
+ 
+ PRC_root_out_defeatism:0 "Déraciner le défaitisme"
+ PRC_root_out_defeatism_desc:0 "Les Japonais n'ont pas réussi à conquérir la Chine, c'est la meilleure preuve qui puisse gifler les défaitistes."
+
+ PRC_neccessary_flexibility:0 "Mobilité nécessaire"
+ PRC_neccessary_flexibility_desc:0 "S'appuyer uniquement sur la guérilla n'est pas viable, nos troupes doivent se préparer à l'assaut et se retirer quand c'est nécessaire."
+
+ PRC_war_of_attrition:0 "Guerre d'usure"
+ PRC_war_of_attrition_desc:0 "Nous avons l'espace et les hommes nécessaires pour mener une guerre prolongée avec les Japonais, nous pouvons freiner l'attrition, mais les Japonais ne le peuvent pas. Nous allons utiliser cela contre eux."
+
+ PRC_swift_victory:0 "Doctrine de la victoire rapide"
+ PRC_swift_victory_desc:0 "Bien que Mao insiste pour mener une guerre prolongée, certains camarades suggèrent que nous devrions faire preuve de plus d'initiative et porter la guerre aux Japonais, les frapper quand ils s'y attendent le moins."
+
+ PRC_partial_guerilla_operation:0 "Opération Guérilla partielle"
+ PRC_partial_guerilla_operation_desc:0 "Mao a insisté sur le fait que la guérilla est une nécessité, nous ne lui donnerons qu'une réponse superficielle."
+
+ PRC_war_of_annihilation:0 "Guerre d'anéantissement"
+ PRC_war_of_annihilation_desc:0 "Avec l'initiative en main, nous allons anéantir les Japonais avant qu'ils ne puissent réagir !"
+
+ PRC_political_mobilisation:0 "Mobilisation politique"
+ PRC_political_mobilisation_desc:0 "Nous devons encourager tout notre peuple, tant les civils que les soldats, à lutter contre l'envahisseur."
+
+ PRC_self_perservation:0 "Autoconservation"
+ PRC_self_perservation_desc:0 "Si nous voulons avoir une chance de gagner cette guerre, nos soldats doivent savoir préserver leur force et ne pas faire de sacrifices inutiles."
+
+ PRC_prepare_for_decisive_battle:0 "Se préparer pour une bataille décisive"
+ PRC_prepare_for_decisive_battle_desc:0 "En préservant nos forces, nous pouvons nous préparer à des batailles décisives qui paralyseront les Japonais d'un seul coup."
+
+ PRC_the_goal_of_our_war:0 "Le but de notre guerre"
+ PRC_the_goal_of_our_war_desc:0 "Rappeler à notre peuple quel est le but de notre guerre actuelle améliorera grandement notre esprit national."
+
+ PRC_military_civilian_corporation:0 "Coopération militaire et civile"
+ PRC_military_civilian_corporation_desc:0 "Mettre en place des milices et encourager les civils à aider à la logistique de l'armée sera un facteur important dans la guerre."
+
+ PRC_debunk_the_underestimation:0 "Arrêter la sous-estimation"
+ PRC_debunk_the_underestimation_desc:0 "Nous devons montrer à nos camarades que sous-estimer le Japon est totalement faux et nuit à l'armée de notre nation."
+
+ PRC_army_reform:0 "Réforme de l'armée"
+ PRC_army_reform_desc:0 "La structure actuelle de notre armée est trop instable. Nous devons en établir une plus structurée."
+
+ PRC_purge_dissident_element:0 "Purger la droite"
+ PRC_purge_dissident_element_desc:0 "Certains pensent que la pensée de la droite a infecté l'esprit de certains de nos camarades, nous devons les faire tourner à nouveau à gauche, ou bien ils seront excommuniés..."
+
+ PRC_found_our_nation:0 "Fonder notre nation"
+ PRC_found_our_nation_desc:0 "Notre capitale étant décidée, nous pouvons tenir une assemblée pour annoncer que nous avons enfin fondé notre nation et que nous ne sommes plus un mouvement de guérilla."
+
+ PRC_pla:0 "APL"
+ PRC_pla_desc:0 "L'Armée populaire de libération sera la seule armée qui sauvera le peuple chinois du vil capitalisme et éliminera les réactionnaires, le libérant ainsi et l'amenant vers le communisme."
+
+ PRC_the_first_five_year_plan:0 "Le premier plan quinquennal"
+ PRC_the_first_five_year_plan_desc:0 "Notre nation nouvellement établie manque de capacités industrielles, nous devons prévoir de mettre l'accent sur ce point dans notre premier plan quinquennal."
+
+ PRC_resources_prospection:0 "Prospection de ressources"
+ PRC_resources_prospection_desc:0 "Les vastes territoires de notre nation s'avèrent être très ingénieux, nous pouvons prospecter des ressources qui augmenteront considérablement la quantité de matériaux utiles produits."
+
+ PRC_land_reform:0 "Réforme foncière"
+ PRC_land_reform_desc:0 "Actuellement, nos terres appartiennent principalement à des propriétaires et les agriculteurs sont exploités. Une politique devrait être mise en place pour libérer les agriculteurs et leur permettre d'avoir leurs propres terres et leur donner le courage de s'opposer aux propriétaires."
+
+ PRC_suppress_counterrevolutionaries:0 "Supprimer les contre-révolutionnaires"
+ PRC_suppress_counterrevolutionaries_desc:0 "Afin de maintenir la stabilité de notre nation, tous les éléments qui sont contre la Révolution doivent être éliminés ou réhabilités, les familles sont encouragées à signaler aux autorités les activités anti-révolutionnaires de leurs membres."
+
+ PRC_156_project:0 "Projet 156"
+ PRC_156_project_desc:0 "Avec l'aide de l'Union soviétique, l'industrie de notre pays va se développer."
+
+ PRC_equipment_update:0 "Mise à jour de l'équipement"
+ PRC_equipment_update_desc:0 "Nos équipements actuels pour notre armée sont les objets exposés dans le musée, nous devons leur fournir des équipements plus modernes."
+
+ PRC_ndcprc:0 "Fonder le CDNRPC"
+ PRC_ndcprc_desc:0 "Le Comité de défense nationale de la République populaire de Chine sera établi pour décider des politiques liées à la défense nationale."
+
+ PRC_tbos:0 "TBOS"
+ PRC_tbos_desc:0 "TBOS, acronyme de Two Bombs One Star (Satellite), est le premier plan de notre nation visant à étendre notre portée vers le ciel et à mettre en valeur l'espace."
+
+ PRC_establish_navy:0 "Créer la Marine de l’Armée populaire de libération"
+ PRC_establish_navy_desc:0 "Bien que nous ayons des navires, il nous manque une marine officielle organisée."
+
+ PRC_the_red_pacific:0 "Pacifique rouge"
+ PRC_the_red_pacific_desc:0 "Nous allons répandre le communisme à travers le Pacifique !"
+
+ PRC_sea_ambition:0 "Ambition dans l'ASE"
+ PRC_sea_ambition_desc:0 "Le détroit de Malacca est une artère commerciale pour l'Est et l'Ouest, si nous le contrôlons, nous déciderons du sort de certaines nations."
+
+ PRC_institution_reorganization:0 "Réorganisation de l'institution"
+ PRC_institution_reorganization_desc:0 "Notre système éducatif actuel n'est pas bien amélioré, une réorganisation est nécessaire si nous voulons avoir des personnes de talent."
+
+ PRC_cult_of_personality:0 "Culte de la personnalité"
+ PRC_cult_of_personality_desc:0 "Tous les Chinois doivent vénérer notre grand et glorieux dirigeant Mao Zedong, et rien d'autre."
+
+ PRC_eliminate_iliteracy:0 "Éliminer l'analphabétisme"
+ PRC_eliminate_iliteracy_desc:0 "Le taux d'analphabétisme de notre nation est élevé, nous devons le réduire pour pouvoir progresser."
+
+ PRC_adopt_soviet_education_system:0 "Adopter une éducation de style soviétique"
+ PRC_adopt_soviet_education_system_desc:0 "Nous pouvons adopter l'éducation de l'Union soviétique pour remplacer notre éducation actuelle, car la leur est plus structurée que la nôtre."
+
+ PRC_sov_cooperation:0 "Coopération soviétique"
+ PRC_sov_cooperation_desc:0 "L'Union soviétique est sans aucun doute la nation communiste la plus puissante du monde, nous avons tant à apprendre d'eux."
+
+ PRC_the_new_communism_beacon:0 "Le nouveau phare du communisme"
+ PRC_the_new_communism_beacon_desc:0 "L'Union soviétique est maintenant infestée de révisionnistes qui se sont écartés de la voie de Karl Marx, nous ne suivrons pas une structure aussi corrompue."
+
+ PRC_anti_soviet_revisionist_aim:0 "Objectif antisoviétisme-révisionnisme"
+ PRC_anti_soviet_revisionist_aim_desc:0 "Le révisionnisme soviétique empoisonne les millions de camarades soviétiques, nous devons planifier leur salut."
+
+ PRC_liberate_the_soviet_people:0 "Libérer le peuple soviétique"
+ PRC_liberate_the_soviet_people_desc:0 "Il est temps pour nous de libérer le peuple soviétique des vils révisionnistes !"
+
+ PRC_state_controlled_education:0 "Éducation sous contrôle de l'État"
+ PRC_state_controlled_education_desc:0 "Tout ce qui risque d'ébranler la foi de notre peuple dans le communisme ne doit pas être enseigné à l'école !"
+
+ PRC_liberate_tibet:0 "Libérer le Tibet"
+ PRC_liberate_tibet_desc:0 "Le Tibet a depuis longtemps été amené à quitter la communauté chinoise, nous devons maintenant les libérer du capitalisme qui a contaminé leur esprit."
+
+ PRC_establish_air_force:0 "Créer la Force aérienne de l'armée populaire de libération"
+ PRC_establish_air_force_desc:0 "Avec des aides étrangères, nous pouvons mettre en place une véritable force aérienne."
+
+ PRC_fighter_focus:0 "Priorité aux chasseurs"
+ PRC_fighter_focus_desc:0 "Nous n'avons pas vu ce dernier des combats de chiens de la Grande Guerre. Continuer à développer des avions de chasse nous donnera un avantage pour l'avenir."
+
+ PRC_bomber_focus:0 "Priorité aux bombardiers"
+ PRC_bomber_focus_desc:0 "Lorsque les gens du futur parleront de l'horreur des guerres d'aujourd'hui, le feu qui pleut du ciel sera au premier plan. Nous ferons de notre mieux pour que ces histoires soient racontées par nos ennemis."
+
+ PRC_cas_effort:0 "Effort sur l'appui aérien rapproché"
+ PRC_cas_effort_desc:0 "Une armée moderne a besoin du soutien de véhicules non seulement sur le terrain, mais aussi dans les airs."
+
+ PRC_nav_effort:0 "Effort sur l'aviation navale"
+ PRC_nav_effort_desc:0 "Tout comme la nouvelle guerre navale se déroule en partie sous la surface de l'eau, une partie de celle-ci se déroule dans les airs au-dessus des eaux."
+
+ PRC_economic_reform:0 "Réforme économique"
+ PRC_economic_reform_desc:0 "La dévastation apportée par la révolution culturelle pousse notre nation vers un abîme, nous devons chercher des réformes qui puissent nous en sortir."
+
+ PRC_generalissimo_lin:0 "Le généralissime Lin"
+ PRC_generalissimo_lin_desc:0 "Lin s'est avéré être la seule personne apte à diriger l'armée de notre nation, c'est pourquoi il s'est surnommé le généralissime."
+
+ PRC_armament_reorganization:0 "Réorganisation de l'armement"
+ PRC_armament_reorganization_desc:0 "Nous devons renforcer notre nation dans notre production d'armements."
+
+ PRC_expand_taiyuan_arsenal:0 "Agrandir l'arsenal de Taiyuan"
+ PRC_expand_taiyuan_arsenal_desc:0 "L'Arsenal de Taiyuan est réputé pour la qualité de sa production. Si nous pouvons augmenter sa production, nous en tirerons un grand bénéfice."
+
+ PRC_lure_them_in_strategy:0 "Stratégie « Leurres et pièges »"
+ PRC_lure_them_in_strategy_desc:0 "Avec le vaste territoire et le terrain accidenté de notre nation, nous pouvons nous permettre de battre en retraite et d'attirer les envahisseurs sur les champs de bataille de notre choix. Que les impérialistes essaient de nous chasser ! Ils rencontreront une embuscade à chaque coin de rue et un piège à chaque pas !"
+
+ PRC_industrialization_NW:0 "Industrialisation locale : nord-ouest"
+ PRC_industrialization_NW_desc:0 "La région du nord-ouest pourrait ressembler à une terre stérile pour l'instant, mais bientôt elle deviendra l'une des zones les plus industrialisées."
+
+ PRC_excavation_NW:0 "Excavation du nord-ouest"
+ PRC_excavation_NW_desc:0 "Nous devons rechercher davantage de ressources sur nos terres afin de devenir indépendants des ressources importées."
+
+ PRC_industrialization_S:0 "Industrialisation locale dans le sud"
+ PRC_industrialization_S_desc:0 "Le sud est peut-être l'un des plus industrialisés, mais il peut être beaucoup plus amélioré."
+
+ PRC_excavation_S:0 "Plantation de caoutchouc"
+ PRC_excavation_S_desc:0 "Le climat du sud est très propice à la plantation de caoutchouc, nous devrions en faire bon usage."
+
+ PRC_excavation_NE:0 "Prospection du nord-est"
+ PRC_excavation_NE_desc:0 "Les Japonais ont laissé de nombreux outils dans la région, nous pouvons les utiliser pour découvrir de nouvelles ressources dans la région."
+
+ PRC_pioneering_the_north_east:0 "Créer l'Agence de développement du Nord-Est"
+ PRC_pioneering_the_north_east_desc:0 "Bien que les Japonais aient développé certaines parties de la Mandchourie, de vastes étendues de terre restent intactes. Nous devrions entreprendre un vaste effort pour faire entrer pleinement ces terres autrefois barbares dans le monde moderne."
+
+ PRC_rectification:0 "Mouvement de rectification"
+ PRC_rectification_desc:0 "Certains de nos camarades ne suivent pas entièrement les directives du communisme, nous devons corriger leur façon de penser." 
+
+ PRC_increase_credibility_of_theory:0 "Accroître la crédibilité de la doctrine"
+ PRC_increase_credibility_of_theory_desc:0 "La guerre se déroulant bien pour nous, cela peut servir de preuve pour renforcer la crédibilité de la théorie que nous avons récemment adoptée."
+
+ PRC_front_line_behind_enemy_line:0 "La ligne de front derrière l'ennemi"
+ PRC_front_line_behind_enemy_line_desc:0 "Si nous voulons utiliser pleinement le potentiel de la guérilla, nous devons établir des opérations derrière la ligne de front de notre ennemi, perturber leur route de ravitaillement et les ralentir."
+
+ PRC_exploit_our_enemys_mistake:0 "Exploiter les erreurs de notre ennemi"
+ PRC_exploit_our_enemys_mistake_desc:0 "L'opération en première ligne de notre ennemi n'est pas très bien coordonnée, nous pouvons l'utiliser à notre avantage et l'exploiter autant que possible."
+
+ PRC_dare_to_die_corps:0 "Le défi à relever"
+ PRC_dare_to_die_corps_desc:0 "Si nous voulons gagner la guerre contre les envahisseurs, notre peuple doit être assez courageux pour ne pas avoir peur de la mort."
+
+ PRC_march_into_sik:0 "Reconquérir le Xinjiang"
+ PRC_march_into_sik_desc:0 "Il est temps pour nous de reconquérir nos territoires perdus, le Xinjiang sera bientôt à nous."
+ 
+ PRC_the_grand_northwest_united_proposal:0 "Proposition de la Grande Union du Nord-Ouest"
+ PRC_the_grand_northwest_united_proposal_desc:0 "L'ancien général de la Clique du Fengtian Zhang Xueliang a prévu de mettre en place un autre gouvernement dans la région du nord-ouest. Celui-ci travaillerait alors avec Sheng Shicai dans le Xinjiang pour obtenir des fournitures des Soviétiques pendant que nous préparons une défense à l'est. Cependant, nous devons obtenir la permission du Komintern pour que ce plan devienne réalité."
+
+ PRC_urge_zhang:0 "Contacter Zhang Xueliang"
+ PRC_urge_zhang_desc:0 "Maintenant que nous avons décidé de notre prochaine action, il est temps d'informer Zhang de notre plan..."
+
+ PRC_form_the_grand_northwest_united:0 "Former le gouvernement de défense nationale du Nord-Ouest"
+ PRC_form_the_grand_northwest_united_desc:0 "Maintenant que presque tout est décidé et que le Gansu est sécurisé, nous pouvons faire du plan de la « Grande union du Nord-Ouest » une réalité."
+
+ PRC_unite_against_the_jap:0 "S'unir contre les Japonais"
+ PRC_unite_against_the_jap_desc:0 "Ensemble, nous nous tenons debout, divisés, nous tombons."
+
+ PRC_destroy_mao_and_his_clique:0 "Détruire les communistes"
+ PRC_destroy_mao_and_his_clique_desc:0 "Bien qu'à la tête d'un gouvernement encombré de communistes, Zhang pense toujours que seul le fascisme est le seul salut pour la Chine. Pour réaliser l'idée fasciste, les communistes doivent être éradiqués."
+
+ PRC_trust_in_communism:0 "Confiance envers le communisme"
+ PRC_trust_in_communism_desc:0 "Il y a une raison pour laquelle les communistes peuvent tenir si longtemps contre l'ANR, une raison que Zhang voudrait découvrir."
+
+ PRC_government_reshuffle:0 "Remaniement gouvernemental"
+ PRC_government_reshuffle_desc:0 "Les défaitistes et les optimistes excessifs du gouvernement peuvent conduire à la chute de cette nouvelle union. Des mesures doivent être prises pour éviter qu'une telle catastrophe ne se produise."
+
+ PRC_invite_shx:0 "Le couloir du Suiyuan"
+ PRC_invite_shx_desc:0 "En accédant au Suiyuan, nos forces peuvent atteindre le front avec facilité. Cependant, les seigneurs de guerre de la région ont été pour nous un obstacle à la mise en place d'un tel plan."
+
+ PRC_retake_dongbei:0 "Reprendre le Dongbei"
+ PRC_retake_dongbei_desc:0 "Depuis l'invasion japonaise de la Mandchourie, la région du nord-est est occupée par les Japonais. Nous allons maintenant reprendre ce qui nous revient de droit !"
+
+ PRC_winter_training:0 "Entraînement hivernal"
+ PRC_winter_training_desc:0 "Le climat extrême du nord a été brutal. En dispensant un entraînement spécial en hiver, nos forces peuvent s'adapter plus facilement à la situation."
+
+ PRC_mountain_training:0 "Entraînement en montagne"
+ PRC_mountain_training_desc:0 "Le terrain montagneux de la Chine sera une grande barrière contre les forces mécanisées de nos envahisseurs. Sans le soutien de ces forces mécanisées, nos hommes peuvent facilement envoyer nos ennemis avec un entraînement suffisant."
+
+ PRC_recall_feng_clique_generals:0 "Rappeler les généraux de la Clique du Fengtian"
+ PRC_recall_feng_clique_generals_desc:0 "Après avoir renforcé sa position au sein du gouvernement nouvellement établi, Zhang a décidé de rappeler les anciens généraux de la Clique fengtienne pour l'aider dans son plan de lutte contre les Japonais."
+
+ PRC_incorporate_xbj:0 "Incorporer l'armée du Xibei"
+ PRC_incorporate_xbj_desc:0 "L'armée du Xibei de Yang Hucheng a soutenu le plan de Zhang. Nous pourrions utiliser quelques hommes supplémentaires pour la guerre à venir."
+
+ PRC_fight_alone:0 "Loup solitaire"
+ PRC_fight_alone_desc:0 "Connaissant l'incompétence de l'ANR, se battre à leurs côtés ne ferait que nous tirer la patte. Nous devons donc combattre les Japonais seuls. De cette façon, nous aurions beaucoup plus de chances de gagner."
+
+ PRC_military_knowledge_exchange:0 "Échange de connaissances militaires"
+ PRC_military_knowledge_exchange_desc:0 "L'ANR et nos tactiques ont toutes deux des défauts. En échangeant des responsables militaires, nos tactiques pourraient être grandement améliorées et la puissance combinée de nous deux pourrait à coup sûr chasser les Japonais de nos terres."
+
+ PRC_study_kmt_equipment:0 "Étudier l'équipement de l'ARN"
+ PRC_study_kmt_equipment_desc:0 "Bien qu'il ne soit pas de première qualité, l'équipement de l'ARN est toujours meilleur que celui de la plupart de nos forces. Leur étude permettrait d'accroître nos connaissances en matière d'armes légères."
+
+ PRC_apologise_to_sov:0 "S'excuser auprès de l'URSS"
+ PRC_apologise_to_sov_desc:0 "Malgré notre désobéissance à l'ordre soviétique pour l'établissement d'un nouveau gouvernement, nous sommes maintenant en front uni avec le KMT après tout. Les responsables soviétiques peuvent sûrement passer outre ce petit « écart de conduite » de notre part..."
+
+ PRC_pressure_prince_dem:0 "Faire pression sur le gouvernement de Chahaer"
+ PRC_pressure_prince_dem_desc:0 "Le fantoche japonais de Chahaer est plus lâche que ce que nous pensions. Nous pourrions utiliser quelques pots-de-vin et leur offrir des avantages, de cette façon nous pourrions les traiter sans effusion de sang. Si ces actions s'avèrent insuffisantes, alors..."
+
+ PRC_reform_high_command:0 "Réformer le haut commandement"
+ PRC_reform_high_command_desc:0 "Notre haut commandement pourrait avoir besoin de plus de travail. La structure actuelle est trop lâche et la chaîne de commandement n'est pas très adaptée à la coordination d'une grande armée."
+
+ PRC_focus_on_red_army:0 "Efforts pour l'Armée rouge"
+ PRC_focus_on_red_army_desc:0 "L'Armée rouge des communistes excelle dans la guérilla et bénéficie d'un énorme soutien populaire. Faire porter nos efforts sur eux augmenterait considérablement notre légitimité."
+
+ PRC_focus_on_dong_beijun:0 "Efforts pour l'armée du Dongbei"
+ PRC_focus_on_dong_beijun_desc:0 "L'armée du Dongbei, bien organisée et dirigée par Zhang Xueliang, est prête à mourir pour sa patrie. Mettre nos efforts en leur faveur augmenterait considérablement les performances de nos forces sur le terrain."
+
+ PRC_guerilla_operation_expansion:0 "Expansion des opérations de guérilla"
+ PRC_guerilla_operation_expansion_desc:0 "Nos courageux guérilleros ont remporté quelques succès sur le terrain. Nous devrions envisager d'étendre la guérilla à d'autres aspects, comme l'utilisation de nos propres guérilleros pour traiter avec nos ennemis. Cela peut réduire considérablement le coût de l'occupation des territoires ennemis."
+
+ PRC_stir_anti_japanese_sentiment:0 "Stimuler le sentiment antijaponais"
+ PRC_stir_anti_japanese_sentiment_desc:0 "L'occupation japonaise de la Mandchourie a poussé nos frères à quitter leur maison du Dongbei, nous pouvons utiliser cela comme une propagande et augmenter leur moral."
+
+ PRC_enforce_our_goal:0 "Renforcer notre objectif"
+ PRC_enforce_our_goal_desc:0 "Nous ne devons pas oublier l'objectif initial de la mise en place de ce gouvernement. Maintenant, nous devons agir."
+
+ PRC_mongolia_issue:0 "La question de la Mongolie"
+ PRC_mongolia_issue_desc:0 "La Mongolie est une partie inséparable de la Chine, elle doit nous être rendue !"
+
+ PRC_exert_influence_in_sea:0 "Influencer l'Asie du Sud-Est"
+ PRC_exert_influence_in_sea_desc:0 "De nombreuses routes maritimes importantes sont situées en Asie du Sud-Est. En consolidant notre influence dans la région, nous pouvons garantir nos avantages tactiques en cas de guerre."
+
+ PRC_coerce_korea:0 "Contraindre la Corée"
+ PRC_coerce_korea_desc:0 "La péninsule coréenne est une grande positon stratégique, nous devons nous en emparer pour assurer notre avantage en temps de guerre !"
+
+ PRC_exert_influence_in_central_asia:0 "Influencer l'Asie centrale"
+ PRC_exert_influence_in_central_asia_desc:0 "La consolidation de notre présence en Asie centrale serait bénéfique si nous devions nous étendre vers l'ouest."
+
+ PRC_exert_influence_in_india_and_mongolia:0 "Influencer la Mongolie et l'Inde"
+ PRC_exert_influence_in_india_and_mongolia_desc:0 "Une guerre sur deux fronts est la dernière chose que nous voulons. Pour l'éviter, nous devons sécuriser nos frontières nord et sud. Faire de nos voisins nos amis pourrait être très bénéfique."
+
+ PRC_demand_return_of_trade_ports:0 "Demander le retour des ports commerciaux"
+ PRC_demand_return_of_trade_ports_desc:0 "Les concessions étrangères sont une humiliation pour notre nation. Nous devons exiger la suppression immédiate de ces traités inégaux !"
+
+ PRC_the_permanent_revolution:0 "La révolution permanente"
+ PRC_the_permanent_revolution_desc:0 "Le communisme au sein d'un seul État est loin d'être suffisant, le monde entier devrait suivre le vrai chemin de Marx et de Lénine !"
+
+ PRC_aid_the_workers:0 "Aider les travailleurs"
+ PRC_aid_the_workers_desc:0 "Les travailleurs de nos pays voisins ont été opprimés pendant trop longtemps. Le temps est venu pour nous de les libérer de leurs oppresseurs capitalistes !"
+
+ PRC_hire_sov_experts:0 "Engager des experts soviétiques"
+ PRC_hire_sov_experts_desc:0 "Les experts soviétiques pourraient donner des avis précieux pour notre développement industriel. Leurs conseils sont plus importants que l'argent dépensé pour les engager."
+
+ PRC_import_sov_machinery:0 "Importer des machines soviétiques"
+ PRC_import_sov_machinery_desc:0 "Les machines actuelles de notre nation sont de très mauvaise qualité. Les machines soviétiques, en revanche, produisent des matériaux de haute qualité à un rythme effréné. Leur importation nous assurerait une industrie forte."
+
+ PRC_invest_in_new_companies:0 "Investir dans de nouvelles entreprises"
+ PRC_invest_in_new_companies_desc:0 "Il n'y a qu'une poignée d'entreprises nationales dans notre pays. Nous devrions envisager d'investir dans de nouvelles entreprises afin d'accroître la compétitivité de notre pays dans le monde entier."
+
+ PRC_assistance_in_naval_industry:0 "Demander l'aide de l'URSS pour l'industrie navale"
+ PRC_assistance_in_naval_industry_desc:0 "Grâce à la forte capacité de l'industrie navale de notre ami, nous pouvons demander son aide dans la nôtre également."
+
+ PRC_study_soviet_ships:0 "Étudier les navires soviétiques"
+ PRC_study_soviet_ships_desc:0 "L'étude des conceptions étrangères éclairera nos ingénieurs sur la technologie de la construction navale."
+
+ PRC_study_sov_aircrafts:0 "Étudier les avions soviétiques"
+ PRC_study_sov_aircrafts_desc:0 "L'étude des conceptions étrangères éclairera nos ingénieurs sur la technologie aérienne."
+
+ PRC_study_sov_equipments:0 "Étudier le matériel soviétique"
+ PRC_study_sov_equipments_desc:0 "L'étude des conceptions étrangères permettra d'éclairer nos ingénieurs militaires."
+
+ PRC_sov_military_advisor:0 "Conseiller militaire soviétique"
+ PRC_sov_military_advisor_desc:0 "Avec l'aide de généraux soviétiques expérimentés à la retraite, notre armée peut être plus performante."
+
+ PRC_the_second_northeast_flag_replacement:0 "Le deuxième remplacement du drapeau du Nord-Est"
+ PRC_the_second_northeast_flag_replacement_desc:0 "L'armée de Dongbei a été une force décisive pendant l'ère des seigneurs de la guerre. Sans notre action pendant la guerre des plaines centrales, le gouvernement de Nankin ne l'aurait pas gagnée. Sans le remplacement du drapeau du Nord-Est, la Chine ne sera pas « unie » sous un seul drapeau. Maintenant, nous allons restaurer la Clique de Fengtian et montrer au gouvernement de Nankin qui est le plus apte à régner sur la Chine."
+
+ PRC_submit_to_central_government:0 "Se soumettre au gouvernement central"
+ PRC_submit_to_central_government_desc:0 "Ahhhhhhhhhh, je veux jouer la Chine maintenant, cet arbre de priorités est nul !"
+
+ PRC_revive_arsenals:0 "Restaurer les arsenaux"
+ PRC_revive_arsenals_desc:0 "La plupart des arsenaux de la région du Nord-Est sont restés intacts, certains reçoivent même des faveurs des Japonais. Nous pouvons maintenant les utiliser pour produire la machine de guerre dont nous avons besoin pour redonner à la Clique de Fengtian sa gloire d'antan."
+
+ PRC_revive_the_navy_and_air_force:0 "Rétablir la marine et l'armée de l'air"
+ PRC_revive_the_navy_and_air_force_desc:0 "Notre marine et nos forces aériennes sont l'une des raisons de notre force pendant l'ère des seigneurs de la guerre. Nous devons les rétablir afin de nous assurer que nous sommes toujours une force avec laquelle il faut compter."
+
+ PRC_pact_with_jap:0 "Un pacte avec le Japon"
+ PRC_pact_with_jap_desc:0 "Bien qu'ils aient été autrefois notre ennemi, leur force militaire est indéniable. Peut-être pourrions-nous mettre de côté nos préjugés et former une alliance avec eux ?"
+
+ PRC_king_of_dongbei:0 "Roi du Dongbei"
+ PRC_king_of_dongbei_desc:0 "Nous avons récupéré nos terres perdues, la région redeviendra notre centre d'opération."
+
+ PRC_industrial_developement:0 "Développement industriel"
+ PRC_industrial_developement_desc:0 "Le territoire du Dongbei, déchiré par la guerre, n'a plus que peu d'infrastructures. En déployant davantage d'efforts pour reconstruire la région, nous augmenterons notre production."
+
+ PRC_study_foreign_equipment:0 "Étudier l'équipement étranger"
+ PRC_study_foreign_equipment_desc:0 "Nous pouvons imiter les équipements étrangers et ajouter des améliorations aux nôtres en fonction de leur conception."
+
+ PRC_expand_unversity:0 "Développer l'université"
+ PRC_expand_unversity_desc:0 "L'éducation est indispensable, nous devons construire davantage d'universités afin de former la prochaine génération pour l'avenir de notre nation."
+
+ PRC_establish_general_staff:0 "Créer un état-major"
+ PRC_establish_general_staff_desc:0 "La taille de notre armée a beaucoup augmenté. Nous devons mettre en place un organe pour une meilleure coordination."
+
+ PRC_claim_the_central_plain:0 "Revendiquer la Plaine centrale"
+ PRC_claim_the_central_plain_desc:0 "Le gouvernement du Sud a les yeux rivés sur nos territoires depuis longtemps. Nous devrions les détruire avant qu'ils ne fassent de même."
+
+ PRC_secure_the_far_east:0 "Sécuriser l'Extrême-Orient"
+ PRC_secure_the_far_east_desc:0 "L'Extrême-Orient russe nous a refusé un accès direct au Pacifique. Cela entravera gravement notre expansion navale. Dans l'intérêt de notre nation, nous devons prendre le contrôle de la zone."
+
+ PRC_joint_warfare:0 "Guerre commune"
+ PRC_joint_warfare_desc:0 "La longue ligne côtière de la Chine a fourni une excellente occasion à nos forces d'utiliser notre arsenal aérien, naval et terrestre. Nous devrions approfondir ces tactiques efficaces."
+
+ PRC_pressure_korea:0 "Faire pression sur la Corée"
+ PRC_pressure_korea_desc:0 "Avec notre succès dans la prise de contrôle des villes les plus importantes d'Extrême-Orient, notre influence s'est étendue. Maintenant que la Corée est entourée par nos forces, elles devraient savoir quelle est la meilleure décision à prendre."
+
+ PRC_special_research_department:0 "Département spécial de recherche"
+ PRC_special_research_department_desc:0 "Le progrès scientifique est vital pour la survie de notre nation."
+
+ PRC_provisional_science_department:0 "Département provisoire de recherche"
+ PRC_provisional_science_department_desc:0 "Certaines personnes compétentes ont rejoint notre gouvernement lors du remaniement, nous pourrions les regrouper et les affecter à des tâches liées à la science."
+
+ PRC_establish_top_command:0 "Établir un commandement suprême"
+ PRC_establish_top_command_desc:0 "Un corps principal de militaires doit être désigné pour un commandement et une coordination plus efficaces des troupes."
+
+ PRC_expand_navy_command_structure:0 "Développer le commandement de la marine"
+ PRC_expand_navy_command_structure_desc: "Avec la taille toujours croissante de notre marine, une structure de commandement dédiée est nécessaire."
+
+ PRC_expand_air_command_structure:0 "Développer le commandement aérien"
+ PRC_expand_air_command_structure_desc: "Avec la taille toujours croissante de notre force aérienne, une structure de commandement dédiée est nécessaire."
+
+ PRC_yellow_sea_navy:0 "Marine de la mer Jaune"
+ PRC_yellow_sea_navy_desc:0 "La mer Jaune est la base d'opération de notre marine, nous devons renforcer notre marine côtière pour assurer sa sécurité."
+
+ PRC_pacific_fleet:0 "Flotte du Pacifique"
+ PRC_pacific_fleet_desc:0 "Nous devons nous fixer un objectif plus élevé, l'expansion de notre marine pour les opérations en haute mer est une nécessité."
+
+ PRC_naval_air_effort:0 "Effort aéronaval"
+ PRC_naval_air_effort_desc:0 "Les porte-avions ont été au centre du développement de la marine ces dernières années, nous devons maintenir notre marine à jour."
+
+ PRC_naval_innovation:0 "Innovation navale"
+ PRC_naval_innovation_desc:0 "Les doctrines et conceptions navales traditionnelles finiront par tomber en disgrâce. Nous devons trouver des moyens nouveaux et plus efficaces pour détruire nos ennemis en mer pendant qu'ils stagnent."
+
+ PRC_fight_effort:0 "Effort sur les chasseurs"
+ PRC_fight_effort_desc:0 "Nous n'avons pas vu ce dernier des combats de chiens de la Grande Guerre. Continuer à développer des avions de chasse nous donnera un avantage pour l'avenir."
+
+ PRC_bomber_effort:0 "Effort sur les bombardiers"
+ PRC_bomber_effort_desc:0 "Lorsque les gens du futur parleront de l'horreur des guerres d'aujourd'hui, le feu qui pleut du ciel sera au premier plan. Nous ferons de notre mieux pour que ces histoires soient racontées par nos ennemis."
+
+ PRC_air_innovation:0 "Innovation aérienne"
+ PRC_air_innovation:0 "Les doctrines aériennes traditionnelles et la conception des avions finiront par tomber en disgrâce. Nous devons trouver des moyens nouveaux et plus efficaces pour détruire nos ennemis dans les airs pendant qu'ils stagnent."
+
+ PRC_introduce_jap_shipbuilding_tech:0 "Demander l'aide du Japon dans l'industrie navale"
+ PRC_introduce_jap_shipbuilding_tech_desc:0 "Grâce à la forte capacité de l'industrie navale de notre ami, nous pouvons demander son aide pour la nôtre également."
+
+ PRC_jap_military_advisor:0 "Conseiller militaire japonais"
+ PRC_jap_military_advisor_desc:0 "Le Japon a une histoire militaire plus longue que la nôtre, leur expérience sera d'une grande utilité pour notre développement militaire."
+
+ PRC_west_pacific_alliance:0 "Alliance du Pacifique occidental"
+ PRC_west_pacific_alliance_desc:0 "Pour assurer la survie de nos deux nations, une alliance devrait être formée."
+
+ PRC_coup_in_philipine:0 "Soutenir les coup d'État fascistes d'Asie du Sud-Est"
+ PRC_coup_in_philipine_desc:0 "Les gens devraient se soulever contre leur gouvernement incompétent et suivre la véritable voie du fascisme. Ceux qui le font recevront notre soutien total."
+
+ PRC_burn_the_bridge:0 "Brûler le pont"
+ PRC_burn_the_bridge_desc:0 "Nous avons obtenu ce que nous voulions du Japon, il est temps pour nous de rompre le pacte."
+
+ PRC_battlefield_four:0 "Le sixième théâtre"
+ PRC_battlefield_four_desc:0 "De l'autre côté du Pacifique se trouve la véritable menace pour notre nation, ils doivent être détruits !"
+ 
+ PRC_restart_the_civil_war:0 "Relancer la guerre civile"
+ PRC_restart_the_civil_war_desc:0 "La menace commune ayant disparu, nous pouvons maintenant nous concentrer sur la chute du gouvernement corrompu du Kuomintang et en libérer le peuple chinois."
+
+
+
+
+
+
+ ######################## CONTINUOUS FOCUSES ###################
+ PRC_continuous_naval_production:0 "Production navale"
+ PRC_continuous_naval_production_desc:0 "En concentrant les ressources sur nos chantiers navals et en exemptant les constructeurs navals qualifiés du service militaire, nous pouvons réduire considérablement le temps de production des navires."
+
+ PRC_continuous_air_production:0 "Production aérienne"
+ PRC_continuous_air_production_desc:0 "Nous pouvons réorganiser notre industrie aéronautique pour éliminer les appareils obsolètes et rationaliser la production."
+
+ PRC_continuous_non_factory_construct:0 "Ingénierie de construction"
+ PRC_continuous_non_factory_construct_desc:0 "Il y a encore beaucoup de mou dans notre secteur de la construction. En concentrant notre attention sur ce problème, nous pouvons améliorer considérablement la vitesse de construction. Malheureusement, la production de machines-outils s'est avérée être un obstacle majeur à l'expansion de notre industrie lourde, de sorte qu'elle ne bénéficiera pas des efforts déployés dans ce domaine."
+
+ PRC_continuous_reduce_training_time:0 "Entraînement de l'armée"
+ PRC_continuous_reduce_training_time_desc:0 "En créant des unités de formation avancée spécialisées au sein de chaque division, nous pouvons déployer au front même des divisions qui auraient été auparavant retenues pour terminer leur formation."
+
+ PRC_continuous_suppression:0 "Suppression de la résistance"
+ PRC_continuous_suppression_desc:0 "En infiltrant les principaux groupes de résistance en territoire occupé et en neutralisant leurs chefs, nous pouvons réduire considérablement les dégâts qu'ils peuvent causer."
+
+ PRC_continuous_repair:0 "Réparation des constructions"
+ PRC_continuous_repair_desc:0 "Nous formerons des équipes de réparation spécialisées composées de travailleurs d'usine et du bâtiment et nous contrôlerons leur déploiement de manière centralisée afin d'améliorer la reconstruction des infrastructures endommagées."
+
+ PRC_continuous_tech_share:0 "Partage de technologie"
+ PRC_continuous_tech_share_desc:0 "Nous encouragerons nos instituts de recherche et nos universités à tendre la main à leurs homologues des pays alliés. Cela nous permettra d'obtenir un bonus de partage de technologie."
+
+ PRC_continuous_boost_freedom:0 "Augmenter notre autonomie"
+ PRC_continuous_boost_freedom_desc:0 "En réorganisant notre bureaucratie coloniale et en recrutant des administrateurs locaux, nous serons, à terme, en mesure de prendre en charge nos propres affaires."
+
+ PRC_continuous_restrict_freedom:0 "Supprimer nos sujets"
+ PRC_continuous_restrict_freedom_desc:0 "Nos sujets coloniaux se sont fait des idées assez stupides sur des choses comme « l'autodétermination » ou « l'indépendance nationale ». Il est temps de les détourner de ces notions."
+
+                         
+ 
+
+
+ ################################# EVENTS #########################
+ prc.1.t:0 "Approvisionnement depuis [SOV.GetNameDef]"
+ prc.1.d:0 "Avec l'ouverture de la route pour le ravitaillement soviétique, les équipements et les volontaires sont arrivés à Yan'an et attendent l'arrivée de [Root.GetLeader]."
+ prc.1.a:0 "Cela contribuera grandement à la guerre contre les Japonais."
+
+ prc.2.t:0 "Armée communiste incorporée"
+ prc.2.d:0 "Les communistes ont accepté de nous laisser incorporer leurs hommes dans notre armée, nous allons maintenant faire front ensemble contre notre ennemi commun."
+ prc.2.a:0 "Notre ennemi ne gagnera pas !"
+
+ prc.3.t:0 "Purge erronée"
+ prc.3.d:0 "Dans nos efforts pour purger les réactionnaires de notre rang, certains camarades se trompent en pensant qu'ils ont pris le chemin de la « droite » au lieu de celui de la « gauche ». Cela aura sûrement un impact sur nos performances."
+ prc.3.a:0 "Certains de nos camarades sont trop « de gauche » pour appeler les autres « de droite »..."
+
+ prc.4.t:0 "Personnel talentueux"
+ prc.4.d:0 "Certains citoyens talentueux ont émergé de la société, nous pourrions leur donner une place au sein de notre institution."
+ prc.4.a:0 "Le progrès ne s'arrêtera jamais !"
+
+ prc.5.t:0 "Staline est décédé"
+ prc.5.d:0 "Notre glorieux leader, Joseph Vissarionovich Staline, a été invité par Karl Marx et nous a quittés hier. Une grande perte pour le peuple soviétique.\n\nUne lutte pour le pouvoir a commencé, les membres puissants du parti se disputant le poste laissé vacant par Staline."
+ prc.5.a:0 "Une étoile tombe..."
+
+ prc.6.t:0 "Grandes lignes du mois de [GetMonth]"
+ prc.6.d:0 "Après que notre Grand Président Mao ait critiqué le drame de « Hai Rui démis de ses fonctions », des personnes ont formé un groupe pour atténuer l'effet de la déclaration autant que possible en définissant la déclaration du Grand Président Mao d'un point de vue académique. Le Grand Président Mao avait déjà fait l'éloge du drame comme étant une belle représentation de la lutte des classes au sein de l'État socialiste.\n\nCe retour en arrière du Grand Président Mao a provoqué une vive émotion dans la nation. Toute la presse a fait de cet événement son titre et l'a rapporté à grande échelle."
+ prc.6.a:0 "Espérons que rien ne sorte de tout ça..."
+
+ prc.7.t:0 "Avis du comité central"
+ prc.7.d:0 "Le Grand Président Mao a publié un avis affirmant que le capitalisme a corrompu certains hauts responsables du parti et qu'ils doivent être écartés du pouvoir. L'avis dément également les grandes lignes publiées après que le Grand Président Mao a critiqué le drame « Hai Rui démis de ses fonctions ».\n\nCertains hauts fonctionnaires ont été excommuniés du Parti le même jour."
+ prc.7.a:0 "Cela n'a pas l'air bon..."
+
+ prc.8.t:0 "Mort de Lin Biao"
+ prc.8.d:0 "Lin Biao, l'héritier désigné du Grand Président Mao, est mort dans un accident d'avion à Öndörkhaan. Les documents de l'avion indiquent que les victimes sont Lin et certains membres de sa famille. La raison exacte du crash est encore inconnue.\n\nLes relations de Lin avec le Grand Président Mao ont été détériorées depuis leur divergence d'opinion sur l'abolition du poste de Président national. Lin serait responsable d'une tentative d'assassinat du Grand Président Mao et aurait fui par crainte d'être la prochaine cible de la Garde rouge."
+ prc.8.a:0 "Cela devient incontrôlable !"
+
+ prc.10.t:0 "Lin Biao a fui vers [PRC_linbiao_flee_target.GetNameDef]"
+ prc.10.d:0 "Lin Biao, l'héritier désigné du Grand Président Mao, s'est enfui vers [PRC_linbiao_flee_target.GetNameDef] et est arrivé à [PRC_linbiao_flee_target.Capital.GetName] en avion. Le Parti et le Grand Président Mao ont annoncé que Lin s'était enfui parce qu'il craignait d'être poursuivi pour tentative d'assassinat du Grand Président Mao, et qu'il avait donc demandé l'asile [PRC_linbiao_flee_target.GetAuAlaAlNP] [PRC_linbiao_flee_target.GetName].\n\nLa Garde rouge a commencé à critiquer Lin et les membres de sa famille qui n'ont pas participé au vol et qui ont été battus à mort par la Garde rouge par la suite."
+ prc.10.a:0 "Il semble que les hommes les plus proches de Mao commencent à voir son vrai visage."
+
+ prc.11.t:0 "Mort de Zhou Enlai"
+ prc.11.d:0 "Zhou Enlai, le président de la Conférence consultative politique du peuple chinois, est décédé. Malgré ses efforts et sa loyauté, le Grand Président Mao a refusé d'assister à ses funérailles. Malgré le chaos qui régnait, les gens de tout le pays ont tenu des assemblées pour pleurer sa mort. De nombreuses personnes ont déposé des couronnes sous le monument au héros du peuple pour pleurer la mort de ce président bien-aimé."
+ prc.11.a:0 "Une perte tragique..."
+
+ prc.12.t:0 "Mort de Mao Zedong"
+ prc.12.d:0 "Le Grand Président, Mao Zedong, a succombé à de nombreuses maladies dans son manoir de Zhongnanhai. Le Grand Président avait fondé le PCC et était sorti victorieux de la seconde guerre civile chinoise, mais sa santé s'était rapidement détériorée depuis qu'il avait découvert l'acte de trahison de Lin. Bien qu'il se soit rétabli pendant une courte période, il a finalement accepté l'invitation de Karl Marx. Il est prévu que son corps soit conservé dans un cercueil de cristal dans le nouveau mausolée de Mao Zedong à Tiananmen, afin que la génération future puisse toujours admirer ce président chinois autrefois glorieux."
+ prc.12.a:0 "Une autre perte au gouvernement, cela ne semble pas bon."
+
+ prc.13.t:0 "La Bande des Quatre démantelée"
+ prc.13.d:0 "[Root.GetLeader] a arrêté la « Bande des Quatre », responsable de la plupart des mouvements de la dernière période de la « révolution culturelle », y compris la critique de Confucius et de Lin Biao. La cheffe de la bande, Jiang Qing, qui est la veuve de Mao, a déclaré qu'ils ne faisaient que suivre la volonté de Mao. Cependant, Mao avait essayé de supprimer le pouvoir du gang alors qu'il était encore actif. Avec la disparition du « Gang des Quatre », le chaos qui a duré près d'une décennie devrait toucher à sa fin."
+ prc.13.a:0 "Ils auraient dû être arrêtés et exécutés il y a longtemps !"
+
+ prc.14.t:0 "Investissements étrangers"
+ prc.14.d:0 "Avec la réforme en cours, certaines entreprises étrangères ont été attirées par notre économie et ont décidé d'y investir. Cela renforcera encore plus notre économie."
+ prc.14.a:0 "Notre économie deviendra l'une des plus fortes !"
+
+ prc.15.t:0 "Introduction de technologies étrangères"
+ prc.15.d:0 "Certaines technologies étrangères sont introduites dans notre laboratoire, ce qui accélère la progression de nos recherches."
+ prc.15.a:0 "La science !"
+
+ prc.21.t:0 "L'effet de la réforme"
+ prc.21.d:0 "La réforme a créé une nation suffisamment forte pour le peuple chinois et a plus ou moins effacé les effets de la « révolution culturelle »."
+ prc.21.a:0 "La Chine s'élève !"
+
+ prc.22.t:0 "Deng Xiaoping prend le pouvoir"
+ prc.22.d:0 "Après l'autocritique de Hua Guofeng sur la récente réunion, Deng Xiaoping s'est hissé au plus haut poste du Parti, devenant ainsi la personne la plus puissante de la nation."
+ prc.22.a:0 "Espérons qu'il soit meilleur que Hua..."
+
+ prc.23.t:0 "Lin Biao prend le pouvoir"
+ prc.23.d:0 "Lin Biao, qui s'est enfui vers [SOV.GetNameDef] pendant la « révolution culturelle » est revenu et a pris le pouvoir en lançant un coup d'État avec ses derniers subordonnés qui ont survécu à la décennie de chaos, renversant Hua Guofeng et s'emparant du siège de président national."
+ prc.23.a:0 "Un fantôme du passé !"
+
+ prc.24.t:0 "L'expédition vers l'ouest"
+ prc.24.d:0 "La progression insoutenable de l'expédition vers l'ouest fait que Mao pense à une trêve pour mettre un terme à cette expédition sans profit."
+ prc.24.a:0 "L'expédition est un échec."
+ prc.24.b:0 "Nous devons juste attendre."
+
+ prc.25.t:0 "La visite de Bai Qiuen"
+ prc.25.d:0 "Le communiste canadien Norman Bethune, également connu sous le nom de Bai Qiuen, a rendu visite à Mao hier. Bai a insisté sur le fait qu'il allait pratiquer des opérations chirurgicales sur le terrain pour nos soldats afin de nous aider dans notre guerre contre les Japonais."
+ prc.25.a:0 "Un médecin est ce dont nous avons besoin !"
+
+ prc.26.t:0 "Le contre-courant de [GetMonth]"
+ prc.26.d:0 "Le conflit entre certains membres seniors du parti et Jiang Qing est devenu plus évident. Le groupe de Jiang Qing a présenté les membres seniors comme des réactionnaires, ce qui a conduit Mao à se méfier de certains d'entre eux."
+ prc.26.a:0 "La politique est une chose sombre."
+
+ prc.27.t:0 "He Long placé en résidence surveillée"
+ prc.27.d:0 "La désobéissance de He Long à l'ordre de Mao d'« éradiquer les capitalistes » a suscité la méfiance de Mao, et He Long a été placé en résidence surveillée hier à Xi Shan."
+ prc.27.a:0 "La politique est une chose sombre."
+
+ prc.28.t:0 "Peng De Huai a été arrêté"
+ prc.28.d:0 "Jiang Qing a approuvé la Garde rouge pour arrêter le général Peng De Huai, et Peng a été interrogé. Après l'interrogatoire, Peng a été mis en prison."
+ prc.28.a:0 "La politique est une chose sombre."
+
+ prc.29.t:0 "Nie Rong Zhen a été rétrogradé"
+ prc.29.d:0 "Nie Rong Zhen a été rétrogradé pour travailler dans une usine chimique à Han Dan, sur ordre de Mao."
+ prc.29.a:0 "La politique est une chose sombre."
+
+ prc.30.t:0 "La fin de la lutte de pouvoir"
+ prc.30.d:0 "Après une lutte de pouvoir pendant presque 3 ans, [Root.GetLeader] s'élève maintenant à la position vacante laissée par Staline et devient la personne la plus puissante de l'Union soviétique."
+ prc.30.a:0 "Espérons que ce soit le meilleur résultat"
+
+ prc.32.t:0 "Intégration du gouvernement"
+ prc.32.d:0 "[CHI.GetNameDef] cherch[CHI.GetEEntNP] à intégrer notre gouvernement pour que la Chine puisse s'unir."
+ prc.32.a:0 "Certainement"
+ prc.32.b:0 "C'est un piège !"
+
+ prc.33.t:0 "[PRC.GetNameDef] accept[PRC.GetEEntNP] l'intégration"
+ prc.33.d:0 "[PRC.GetNameDef] [PRC.GetAOntNP] accepté d'unir la Chine, mais qui dirigera alors notre nouvelle nation unie ?"
+ prc.33.a:0 "[PRC.GetLeader] mènera la Chine à la grandeur !"
+ prc.33.b:0 "Nos responsables actuels sont les mieux placés pour rester au pouvoir."
+
+ prc.34.t:0 "[PRC.GetName] refus[PRC.GetEEntNP] l'intégration"
+ prc.34.d:0 "[PRC.GetLeader] a refusé notre proposition, en déclarant que c'est un piège."
+ prc.34.a:0 "Vermine ignorante !"
+
+ prc.36.t:0 "[PRC.GetNameDef] planifi[PRC.GetEEntNP] l'invasion [SIK.GetDuDelaDelNP] [SIK.GetName]"
+ prc.36.d:0 "Nos informateurs ont constaté que [PRC.GetNameDef] [PRC.GetAOntNP] l'intention de prendre [SIK.GetNameDef] par la force."
+ prc.36.a:0 "Demander à [SIK.GetLeader] de coopérer pour éviter une effusion de sang."
+ prc.36.b:0 "Demander à [PRC.GetLeader] d'abandonner cette idée."
+ prc.36.c:0 "Intéressant..."
+
+ prc.37.t:0 "Message [SOV.GetDuDelaDelNP] [SOV.GetName]"
+ prc.37.d:0 "[SOV.GetLeader] a exigé que nous nous soumettions [PRC.GetAuAlaAlNP] [PRC.GetName] pacifiquement, pour éviter de faire couler plus de sang."
+ prc.37.a:0 "Ils ont raison, c'est pour le plus grand bien de notre peuple."
+ prc.37.b:0 "Quelle absurdité ! Nous ne céderons pas sans nous battre !"
+
+ prc.38.d:0 "[SOV.GetLeader] a exigé que nous abandonnions notre plan d'invasion [SIK.GetDuDelaDelNP] [SIK.GetName]."
+ prc.38.a:0 "Les mots de [SOV.GetLeader] ne sont pas les plus sages, mais ceux de [PRC.GetLeader] le sont !"
+ prc.38.b:0 "N'attirons pas une attention non désirée."
+
+ prc.39.t:0 "Intervention [SOV.GetDuDelaDelNP] [SOV.GetName]"
+ prc.39.d:0 "Grâce à l'intervention [SOV.GetDuDelaDelNP] [SOV.GetName], [SIK.GetNameDef] [SIK.GetAOntNP] accepté de se soumettre à nous pacifiquement."
+ prc.39.a:0 "D'une manière ou d'une autre, notre objectif est atteint."
+
+ prc.40.t:0 "[SIK.GetNameDef] refus[SIK.GetEEntNP]"
+ prc.40.d:0 "[SIK.GetLeader] a refusé de se soumettre pacifiquement [PRC.GetAuAlaAlNP] [PRC.GetName] !"
+ prc.40.a:0 "Comment osent-ils ne pas suivre nos ordres ?"
+
+ prc.41.t:0 "[PRC.GetNameDef] refus[SIK.GetEEntNP]"
+ prc.41.d:0 "[PRC.GetLeader] a refusé d'abandonner son plan d'invasion [SIK.GetDuDelaDelNP] [SIK.GetName] !"
+
+ prc.42.t:0 "[PRC.GetLeader] a obéi à notre ordre"
+ prc.42.d:0 "[SIK.GetLeader] a abandonné son plan d'invasion [SIK.GetDuDelaDelNP] [SIK.GetName] !"
+ prc.42.a:0 "Au moins, ils connaissent encore leur place."
+
+ prc.43.t:0 "Renforcements [SOV.GetAdjMP]"
+ prc.43.d:0 "En raison du refus de soumission de la part [SIK.GetDuDelaDelNP] [SIK.GetName], [SOV.GetNameDef] [SOV.GetAOntNP] envoyé des renforts pour nous aider."
+ prc_sov_reinforcements:0 "Nous recevons 8 divisions de la part [SOV.GetDuDelaDelNP] [SOV.GetName]"
+ prc.43.a:0 "Ces forces seront vitales pour notre effort !"
+
+ prc.44.d:0 "Étant donné l'attitude bélliqueuse [PRC.GetDuDelaDelNP] [PRC.GetName], [SOV.GetNameDef] [SOV.GetAOntNP] envoyé des renforts pour nous aider."
+
+ prc.46.t:0 "Assassinat de Mao Zedong"
+ prc.46.d:0 "Notre Grand Président, Mao Zedong, a été tué dans une tentative d'assassinat aujourd'hui. Son successeur désigné, Lin Biao, a décidé de mettre fin à la révolution culturelle une bonne fois pour toutes. Toute opposition a été traitée rapidement et notre nation se remet des dommages causés par le désastre, du moins dans une certaine mesure.\n\nBien que certaines conspirations affirment que Lin a organisé l'assassinat pour prendre son poste, aucune preuve ne permet de l'affirmer."
+ prc.46.a:0 "Une perte dévastatrice."
+
+ prc.47.t:0 "Mao Zedong survit à un assassinat"
+ prc.47.d:0 "Notre Grand Président, Mao Zedong, a survécu à une tentative d'assassinat aujourd'hui. L'assassin a été repéré avant qu'il ne puisse faire aucun mal à notre bien-aimé Grand Président. Cependant, l'assassin semble être extrêmement fidèle à son maître car il n'a pas dit un mot pendant l'interrogatoire.\n\nDes rumeurs ont suggéré que Lin Biao, le successeur désigné de Mao, avait organisé cette tentative d'assassinat. Bien qu'il n'y ait aucune preuve de la véracité de ces allégations, certains gardes rouges commencent à critiquer Lin Biao pour cette « trahison »."
+ prc.47.a:0 "Longue vie à notre Grand Président Mao Zedong !"
+ 
+ prc.48.t:0 "Assistance de l'Union soviétique"
+ prc.48.d:0 "L'Union soviétique a envoyé de l'aide pour aider notre guerre contre les Japonais."
+ prc.48.a:0 "Ce sera vital pour notre effort de guerre."
+
+ prc.49.t:0 "Nos partisans se soulèvent"
+ prc.49.d:0 "Nos partisans en Mandchourie se sont soulevés et nous aident à prendre le contrôle de la région."
+ prc.49.a:0 "Splendide !"
+ 
+ prc.50.t:0 "Les déserteurs de l'ANR"
+ prc.50.d:0 "Certains soldats de l'Armée nationale révolutionnaire ont décidé de passer dans notre camp."
+ prc.50.a:0 "Les mauvaises décisions de [CHI.GetLeader] causent son échec."
+ 
+ prc.51.t:0 "Une victoire inspirante"
+ prc.51.d:0 "Les rapports de la ligne de front ont rapporté de bonnes nouvelles. Les affrontements sanglants de nos forces ont abouti à notre victoire et le moral de notre armée est monté en flèche !"
+ prc.51.a:0 "En avant, camarades !"
+ 
+ prc.66.t:0 "Chen Duxiu"
+ prc.66.d:0 "Avec le retour de Trotsky [SOV.GetAuEnANP] [SOV.GetName], les partisans du trotskysme du monde entier se sont levés et ont critiqué le communisme « corrompu » que Staline a créé. Parmi eux se trouve un de nos anciens camarades - Chen Duxiu. Si nous voulons garder de bonnes relations avec [SOV.GetNameDEF], nous devons mettre Chen au pouvoir et nous débarrasser de Mao."
+ prc.66.a:0 "Faisons avancer l'idée de la Révolution permanente !"
+ prc.66.b:0 "Le trotskisme est une idéologie perfide liée au fascisme !"
+ 
+ prc.54.t:0 "Une proposition [From.GetDuDelaDelNP] [From.GetName]"
+ prc.54.d:0 "Nous avons récemment reçu une proposition du représentant de [From.GetLeader]. Il déclare qu'il souhaite nous demander la permission d'établir un autre gouvernement dans la région nord-ouest de la Chine et d'utiliser notre soutien pour lutter contre les Japonais et le [CHI.GetRulingParty]."
+ prc.54.a:0 "Dites-leur de plutôt travailler avec le [CHI.GetRulingParty]."
+ prc.54.b:0 "Voyons comment ils vont s'en sortir."
+
+ prc.55.t:0 "Zhang Xueliang"
+ prc.55.d:0 "Zhang a refusé de faire avancer le plan de la Grande Union du Nord-Ouest. Maintenant que nous avons décidé des choses de notre côté, nous devrions essayer de convaincre Zhang que tout est bien préparé."
+ prc.55.a:0 "Débarrassons-nous de lui, il ne fera que ralentir notre progression."
+ prc.55.b:0 "Acceptons son idée de ne pas s'opposer au [CHI.GetRulingParty]."
+ prc.55.c:0 "Lui offrir une place dans notre parti comme il le souhaitait."
+ prc.55.e:0 "Attendons qu'il change d'avis."
+
+ prc.56.t:0 "Assassinat de Zhang Xueliang"
+ prc.56.d:0 "Nous avons découvert que Zhang Xueliang a été assassiné. Il a été abattu de plusieurs balles dans la tête et la poitrine, certains ont suggéré que c'était l'œuvre des communistes. Pourtant, le coupable n'a toujours pas été trouvé."
+ prc.56.a:0 "Les choses vont désormais évoluer dans notre sens."
+ prc.56.b:0 "Nous devons frapper maintenant !"
+
+ prc.57.t:0 "Zhang a accepté"
+ prc.57.d:0 "Après mûre réflexion, Zhang Xueliang a décidé de rejoindre la Grande Union du Nord-Ouest. Il assumera le leadership une fois que nous aurons sécurisé la province du Gansu et formé officiellement la GUN."
+ prc.57.a:0 "Comme prévu."
+
+ prc.58.t:0 "Zhang a refusé"
+ prc.58.d:0 "Même si nous essayons de le convaincre avec plus de preuves, Zhang refuse toujours de faire avancer son plan. Nous sommes maintenant seuls."
+ prc.58.a:0 "Peu importe."
+
+ prc.59.t:0 "[From.GetNameDef] [From.GetAOntNP] rejeté notre proposition"
+ prc.59.d:0 "[From.GetLeader] a rejeté notre proposition, déclarant que nous devrions travailler avec le [CHI.GetRulingParty] au lieu de le combattre."
+ prc.59.a:0 "Nous allons prendre les choses en main !"
+ prc.59.b:0 "Suivons cet ordre."
+
+ prc.60.t:0 "[From.GetNameDef] [From.GetAOntNP] approuvé notre proposition"
+ prc.60.d:0 "Notre proposition pour la Grande Union du Nord-Ouest a été approuvée par [From.GetNameDEF], nous devons y travailler immédiatement."
+ prc.60.a:0 "Parfait !"
+
+ prc.61.t:0 "[From.GetNameDef] [From.GetAOntNP] défié nos ordres."
+ prc.61.d:0 "Malgré nos bonnes intentions, [From.GetLeader] a refusé de suivre notre ordre et a tout de même décidé de former la Grande Union du Nord-Ouest."
+ prc.61.a:0 "Сукин сын!"
+
+ prc.62.t:0 "Mao a été exécuté"
+ prc.62.d:0 "Après un rapide raid nocturne sur le quartier général et la maison de Mao et de ses fidèles, de nombreux communistes ont été arrêtés et sommairement exécutés. Leurs corps sont suspendus à certains passages pour rappeler aux gens les conséquences de suivre ce maudit communisme."
+ prc.62.a:0 "Coupez la tête de ce vil serpent !"
+
+ prc.63.t:0 "Des communistes cachés"
+ prc.63.d:0 "Bien que le raid nocturne soit un succès, certains communistes sont toujours présents au sein du gouvernement. Certains présentent des preuves évidentes de leur soutien à Mao, mais la position de certains autres ne peut être clairement identifiée."
+ prc.63.a:0 "Exécutons-les tous !"
+ prc.63.b:0 "Faire plus d'efforts pour les identifier avant d'agir."
+
+ prc.64.t:0 "Guérillas communistes"
+ prc.64.d:0 "Certains communistes ont formé de petits groupes de guérilla pour harceler nos troupes et nos bases. Comment devons-nous les traiter ?"
+ prc.64.a:0 "Arrêtons-les, vite !"
+ prc.64.b:0 "Utiliser des pots-de-vin pour provoquer des désaccords entre eux."
+
+ prc.65.t:0 "Établir une police secrète ?"
+ prc.65.d:0 "Il n'y a désormais plus de communistes au sein de notre gouvernement. Cependant, il y en a encore beaucoup parmi les civils, certains suggèrent que la police secrète est nécessaire pour supprimer les activités communistes plus efficacement."
+ prc.65.a:0 "Nous devons protéger notre peuple de la peste rouge !"
+ prc.65.b:0 "Ce n'est pas nécessaire."
+
+ prc.67.t:0 "Un message [From.GetDuDelaDelNP] [From.GetName]"
+ prc.67.d:0 "[From.GetNameDef] [From.GetAOntNP] envoyé des représentants pour rencontrer [Root.GetLeader], exigeant que nous leur cédions Suiyuan. En échange, ils nous offriront de rejoindre [From.GetFaction] et quelques aides dans l'industrie."
+ prc.67.a:0 "Cela semble raisonnable."
+ prc.67.b:0 "Même pas dans leurs rêves les plus fous !"
+
+ prc.68.t:0 "[From.GetNameDef] [From.GetAOntNP] accepté"
+ prc.68.d:0 "[From.GetLeader] a accepté de nous remettre Suiyuan."
+ prc.68.a:0 "Un choix judicieux"
+
+ prc.69.t:0 "[From.GetNameDef] [From.GetAOntNP] refusé" 
+ prc.69.d:0 "[From.GetLeader] a refusé de nous livrer Suiyuan."
+ prc.69.a:0 "Une résistance futile."
+
+ prc.70.t:0 "Xu Lanzhou"
+ prc.70.d:0 "Xu Lanzhou est devenu un professeur d'art martiaux depuis qu'il a pris sa retraite. Il déclare qu'il ne dirigera plus une autre armée, mais qu'il serait heureux d'enseigner à nos hommes quelques arts martiaux."
+ prc.70.a:0 "Laissons-le tranquille."
+ prc.70.b:0 "Engageons-le comme tuteur pour les arts martiaux."
+
+ prc.71.t:0 "[From.GetNameDef] recherch[From.GetEEntNP] une alliance"
+ prc.71.d:0 "Bien qu'ils aient établi leur gouvernement dans la région du nord-ouest, il semble que leur objectif soit quelque peu aligné sur le nôtre. Nous pourrions travailler avec eux et chasser les Japonais vers la mer."
+ prc.71.a:0 "Les Chinois doivent s'unir contre nos ennemis communs."
+ prc.71.b:0 "Ils vont nous poignarder dans le dos, c'est sûr !"
+
+ prc.72.t:0 "Alliance acceptée"
+ prc.72.d:0 "[From.GetNameDef] [From.GetAOntNP] accepté notre proposition d'alliance."
+ prc.72.a:0 "Mort aux envahisseurs !"
+
+ prc.73.t:0 "Alliance rejetée"
+ prc.73.d:0 "[From.GetNameDef] [From.GetAOntNP] rejeté notre proposition."
+ prc.73.a:0 "Qu'ils soient maudits !"
+
+ prc.74.t:0 "[From.GetNameDef] cherch[From.GetEEntNP] à échanger des connaissances militaires"
+ prc.74.d:0 "Sachant que nous ne survivrons pas longtemps si nous combattons seuls, [From.GetLeader] a décidé de laisser nos forces coopérer entre elles. Ainsi, nous pourrons apprendre les mérites de leur armée, et eux pourront apprendre les nôtres."
+ prc.74.a:0 "C'est acceptable"
+ prc.74.b:0 "Ils doivent préparer quelque chose de maléfique..."
+
+ prc.75.t:0 "Proposition acceptée"
+ prc.75.d:0 "Certains fonctionnaires de l'ANR sont arrivés à notre centre de commandement et ont commencé à échanger des connaissances militaires avec nos commandants."
+ prc.75.a:0 "Notre puissance combinée mettra nos ennemis à genoux !"
+
+ prc.76.t:0 "Proposition rejetée"
+ prc.76.d:0 "[From.GetNameDef] [From.GetAOntNP] rejeté notre proposition d'échange de connaissances militaires."
+ prc.76.a:0 "À quoi pensent-ils ?"
+
+ prc.77.t:0 "[From.GetNameDef] s'excus[From.GetEEntNP]"
+ prc.77.d:0 "Bien qu'ils aient défié notre ordre en formant [From.GetFaction], ils sont maintenant techniquement dans un front uni avec [CHI.GetNameDef], ce qui est ce que nous voulons qu'ils réalisent. Ils nous ont maintenant envoyé des excuses et veulent que nous oubliions leur « mauvaise conduite » précédente."
+ prc.77.a:0 "Eh bien..."
+ prc.77.b:0 "Je n'ai jamais vu de gens aussi stupides !"
+
+ prc.78.t:0 "[From.GetNameDef] accept[From.GetEEntNP] nos excuses"
+ prc.78.d:0 "Nos excuses ont été acceptées par [From.GetNameDef]."
+ prc.78.a:0 "Bien."
+
+ prc.79.t:0 "[From.GetNameDef] rejett[From.GetEEntNP] nos excuses"
+ prc.79.d:0 "Nos excuses ont été rejetées par [From.GetNameDef]."
+ prc.79.a:0 "C'est bien dommage"
+
+ prc.80.t:0 "Pression [From.GetDuDelaDelNP] [From.GetName]"
+ prc.80.d:0 "Ces derniers temps, [From.GetNameDef] [From.GetAOntNP] fait pression sur [Root.GetLeader]. Certains officiels ont également commencé à dire à [Root.GetLeader] de se soumettre avant que les forces [From.GetDuDelaDelNP] [From.GetName] ne pénètrent dans sa maison et ne le fassent mourir."
+ prc.80.b:0 "Se soumettre avant qu'il ne soit trop tard."
+ prc.80.a:0 "Nous ne tomberons pas dans de tels pièges naïfs."
+
+ prc.81.t:0 "[From.GetNameDef] [From.GetAOntNP] accepté de se soumettre"
+ prc.81.d:0 "Ne pouvant plus supporter notre pression, [From.GetLeader] a décidé de se soumettre à notre gouvernement."
+ prc.81.a:0 "Une sage décision."
+
+ prc.82.t:0 "[From.GetNameDef] [From.GetAOntNP] refusé de se soumettre"
+ prc.82.d:0 "Malgré notre forte pression et la persuasion des officiels soudoyés, [From.GetLeader] reste ferme. Il a dit à notre représentant qu'il ne se soumettra jamais à notre régime tyrannique."
+ prc.82.a:0 "Ils reconnaîtront bientôt l'erreur qu'ils ont commise."
+
+ prc.83.t:0 "[From.GetNameDef] nous [From.GetAOntNP] trahi"
+ prc.83.d:0 "[From.GetNameDef] [From.GetAOntNP] renversé notre gouvernement fantoche et est maintenant loyal à [PRC.GetName] !"
+ prc.83.a:0 "Comment osent-ils ?"
+
+ prc.84.t:0 "[From.GetNameDef] exig[From.GetEEntNP] que nous leur rendions leur territoire"
+ prc.84.d:0 "[From.GetNameDef] déclar[From.GetEEntNP] que nous occupons leurs territoires légitimes depuis trop longtemps, et que le temps est venu pour eux de prendre des mesures contre une telle injustice."
+ prc.84.a:0 "Nous ne voulons pas entrer en guerre contre eux."
+ prc.84.b:0 "Serait-ce une sorte de blague ?"
+
+ prc.85.t:0 "[From.GetNameDef] nous rend[From.GetXEntNP] notre territoire"
+ prc.85.d:0 "[From.GetNameDef] [From.GetAOntNP] décidé de nous rendre notre territoire."
+ prc.85.a:0 "Une bonne chose pour nous deux."
+
+ prc.86.t:0 "[From.GetNameDef] refus[From.GetEEntNP] de nous rendre notre territoire"
+ prc.86.d:0 "[From.GetNameDef] [From.GetAOntNP] décidé de nous rendre notre territoire."
+ prc.86.a:0 "Il est temps d'utiliser la manière forte."
+
+ prc.87.d:0 "Avec la puissance croissante [From.GetDuDelaDelNP] [From.GetName], notre peuple craint que notre nation ne périsse bientôt si nous ne prenons pas parti. Hier encore, un ultimatum [From.GetDuDelaDelNP] [From.GetName] est arrivé sur le bureau de [Root.GetLeader], exigeant que [Root.GetNameDef] devienn[From.GetEEntNP] leur protectorat."
+ prc.87.a:0 "Nous devons céder."
+ prc.87.b:0 "Nous ne céderons jamais au tyran !"
+
+ prc.88.a:0 "Occuper la zone."
+
+ prc.89.t:0 "[From.GetNameDef] exig[From.GetEEntNP] que nous rendions la concession."
+
+ prc.92.t:0 "[From.GetNameDef] tent[From.GetEEntNP] de prendre le contrôle"
+ prc.92.d:0 "[From.GetNameDef] [From.GetAOntNP] envoyé des représentants pour rencontrer [Root.GetLeader] ce matin. L'objectif principal de la réunion est de dire à [Root.GetLeader] de renoncer à son pouvoir et de laisser [From.GetNameDef] prendre le contrôle. Après mûre réflexion de la part de [Root.GetLeader], une solution a été trouvée..."
+ prc.92.a:0 "[Root.GetName] ne se soumettra pas au diable !"
+ prc.92.b:0 "Renoncer au pouvoir."
+
+ prc.93.t:0 "[From.GetNameDef] se rebell[From.GetEEntNP]"
+ prc.93.d:0 "[From.GetLeader] a décidé d'entrer en guerre contre nous plutôt que de se soumettre."
+ prc.93.a:0 "Les armes peuvent encore faire l'affaire."
+
+ prc.95.t:0 "[From.GetNameDef] cherch[From.GetEEntNP] à conclure un pacte avec nous"
+ prc.95.d:0 "[From.GetNameDef] [From.GetAOntNP] envoyé des représentants pour demander notre signature sur leur pacte nouvellement rédigé. Ce pacte fera office de déclaration d'amitié et de pacte de non-agression."
+ prc.95.a:0 "Signons-le"
+ prc.95.b:0 "Ce doit être un piège naïf."
+
+ prc.96.t:0 "Pacte signé"
+ prc.96.d:0 "[From.GetNameDef] [From.GetAOntNP] signé le pacte."
+ prc.96.a:0 "Excellent !"
+
+ prc.97.t:0 "Pacte rejeté"
+ prc.97.d:0 "[From.GetNameDef] [From.GetAOntNP] refusé de signer le pacte."
+ prc.97.a:0 "Peu importe"
+
+ prc.102.t:0 "WPPO Proposal"
+ prc.102.d:0 "[From.GetNameDef] nous [From.GetAOntNP] envoyé une proposition, suggérant que l'établissement de l'OPPO (Organisation du pacte du Pacifique occidental) est indispensable. Avec l'OPPO établie, nous pourrons veiller les uns sur les autres et dissuader tout démon qui lorgne sur nos territoires."
+ prc.102.a:0 "Cela pourrait assurer notre survie."
+ prc.102.b:0 "Sore wa inbou desu."
+
+ prc.103.t:0 "[From.GetFaction] établie"
+ prc.103.d:0 "[From.GetNameDef] [From.GetAOntNP] accepté de former l'OPPO : nous sommes désormais unis."
+ prc.103.a:0 "Glorieux !"
+
+ prc.104.t:0 "[From.GetNameDef] [From.GetAOntNP] refusé"
+ prc.104.d:0 "[From.GetNameDef] [From.GetAOntNP] refusé de former l'OPPO."
+ prc.104.a:0 "C'est bien dommage"
+
+ prc.105.t:0 "[From.GetFaction] a lancé un coup d'État"
+ prc.105.d:0 "Un coup d'État soutenu par [From.GetFaction] vient de commencer !"
+ prc.105.a:0 "Qu'ils soient maudits !"
+
+ prc.106.t:0 "La trahison [From.GetDuDelaDelNP] [From.GetName]"
+ prc.106.d:0 "Malgré le pacte que nous avons signé, [From.GetNameDef] se montr[From.GetEEntNP] désormais hostile[From.GetXSNP] à notre égard. Ils ont exécuté tous les fonctionnaires [Root.GetAdjMP] de leur gouvernement et nous ont déclaré la guerre !"
+ prc.106.a:0 "Yaban jin !"
+ 
+ prc.108.t:0 "Sauver Zhang Xueliang ?"
+ prc.108.d:0 "Zhang est détenu par le [CHI.GetRulingParty] après l'incident de Xi'an. Sans lui, le projet de la Grande Union du Nord-Ouest ne peut pas se réaliser."
+ prc.108.a:0 "Sauvons-le !"
+ prc.108.b:0 "Nous pouvons continuer sans lui."
+
+ prc.109.t:0 "La paix avec le Japon ?"
+ prc.109.d:0 "Maintenant que Dingbei est sous notre contrôle, certains généraux et officiels sont satisfaits du résultat. Ils suggèrent que nous pourrions faire la paix avec le Japon."
+ prc.109.a:0 "C'est pour le bien de tous."
+ prc.109.b:0 "Nous devrions attendre une situation plus appropriée."
+ prc.109.c:0 "Quelles sont ces absurdités ?!"
+ 
+ prc.110.t:0 "[From.GetNameDef] cherch[From.GetEEntNP] la paix"
+ prc.110.d:0 "Leur but étant atteint, ils cherchent maintenant la paix entre nous."
+ prc.110.a:0 "Nos forces sont nécessaires ailleurs..."
+ prc.110.b:0 "Jamais !"
+
+ prc.111.t:0 "Paix avec [JAP.GetNameDef]"
+ prc.111.d:0 "[From.GetNameDef] [From.GetAOntNP] accepté de faire la paix entre nous."
+ prc.111.a:0 "La meilleure solution"
+
+ prc.112.t:0 "[From.GetNameDef] [From.GetAOntNP] refusé la paix."
+ prc.112.d:0 "[From.GetNameDef] [From.GetAOntNP] refusé de faire la paix."
+ prc.112.a:0 "Ils ne font qu'éviter l'inévitable."
+
+ prc.114.d:0 "Avec la guerre civile en cours, [JAP.GetNameDef] ne peu[JAP.GetTVentNP] plus concentrer [JAP.GetSesLeursNP] forces sur notre front. C'est notre chance de revendiquer !"
+ 
+ prc.115.t:0 "Famine dans le Henan"
+ prc.115.d:0 "La guerre qui fait rage dans le Henan a provoqué une famine dans la région, les terres agricoles étant détruites par la guerre. Le gouvernement local sollicite maintenant notre aide pour alléger son fardeau."
+ prc.115.a:0 "Nous devons les aider !"
+ prc.115.b:0 "Nous n'avons pas le temps pour cela."
+ 
+ prc.116.t:0 "Des anciens communistes nous rejoignent"
+ prc.116.d:0 "Grâce au succès de notre programme de reconstruction rurale, certains anciens communistes ont décidé de nous rejoindre."
+ prc.116.a:0 "Une sage décision."
+
+ prc.117.t:0 "[XSM.GetNameDef] se joint [CHI.GetAuAlaAlNP] [CHI.GetName] contre nous"
+ prc.117.d:0 "[CHI.GetLeader] a ordonné à [XSM.GetLeader] de lancer une offensive sur notre flanc nord-ouest !"
+ prc.117.a:0 "Ils périront en même temps que [CHI.GetLeader] !"
+ 
+ prc.120.t:0 "Une invitation de [From.GetLeader]"
+ prc.120.d:0 "Avec l'établissement de [From.GetFaction], [From.GetLeader] a envoyé une invitation à [Root.GetLeader], espérant que nous pourrions suivre leur voie."
+ prc.120.a:0 "Bonne idée."
+ prc.120.b:0 "Nous n'avons pas besoin d'eux."
+
+ prc.121.t:0 "[From.GetNameDef] nous rejoint"
+ prc.121.d:0 "[From.GetLeader] a décidé de nous rejoindre."
+ prc.121.a:0 "Fantastique !"
+
+ prc.122.t:0 "[From.GetNameDef] [From.GetAOntNP] refusé"
+ prc.122.d:0 "[From.GetLeader] a refusé de se joindre à [Root.GetFaction], affirmant qu'ils peuvent faire mieux par eux-mêmes."
+ prc.122.a:0 "Sales arrogants !"
+
+ prc.123.t:0 "Envoyer une invitation à [SIK.GetLeader] ?"
+ prc.123.d:0 "Pour obtenir du ravitaillement [SOV.GetDuDelaDelNP] [SOV.GetName], il est important d'avoir accès à la région du Xinjiang. Nous pourrions les inviter à rejoindre notre faction et gagner leur confiance."
+ prc.123.a:0 "Envoyons-la."
+ prc.123.b:0 "Ce n'est pas nécessaire."
+ 
+ prc.124.t:0 "[From.GetLeader] appelle à l'action"
+ prc.124.d:0 "[From.GetLeader] a envoyé des messages indiquant qu'ils sont bien préparés pour l'établissement du Gouvernement de Défense Nationale du Nord-Ouest, et qu'ils attendent maintenant notre action."
+ prc.124.a:0 "Nous sommes prêts."
+ prc.124.b:0 "Trop tôt..."
+ 
+ kns.4.t:0 "The Death Of Joseph Stalin"
+ kns.4.d:0 "Joseph Stalin, former leader of the Soviet Union, was diagnosed with stroke, high blood pressure and gastric bleeding. He was found lying on the floor in his bedroom prior to doctors being called. Using leeches as treatment to no avail, Stalin's double was recalled from vacation to stand in as Stalin if needed. However, Stalin's health was later broadcasted around the country in detail. The day after, Joseph Stalin was pronounced dead.\n\nStalin's cult of personality is expected to go on after his demise. A power struggle is already underway as powerful members of the party are enthusiastic to rise to the vacant position left by him."
+ kns.4.a:0 "A devastating loss."
+ kns.4.b:0 "The lost of a great tutor and a great leader."
+ kns.4.c:0 "Interesting"
+ 
+
+ ############ events transferred from KMT #######################3
+ kmt.32.t:0 "La campagne des Cent Fleurs débute"
+ kmt.32.d:0 "La campagne des Cent Fleurs a été mise en route. Il ne nous reste plus qu'à attendre que les chiens de droite se montrent."
+ kmt.32.a:0 "Laissons une centaine de fleurs s'épanouir pour que nous puissions les cueillir."
+ 
+ kmt.33.t:0 "Progression de la campagne"
+ kmt.33.d:0 "La campagne est en cours depuis quelques mois seulement et déjà certains rongeurs capitalistes ont critiqué le gouvernement. Nous pouvons poursuivre cette campagne et attirer davantage de porcs réactionnaires hors de leur tanière, mais leurs points de vue risquent d'entamer la foi du peuple dans le communisme."
+ kmt.33.a:0 "Nous allons arrêter ces chiens de droite maintenant."
+ kmt.33.b:0 "Nous devrions en attirer plus."
+ 
+ kmt.34.t:0 "Augmentation des critiques de la part du peuple"
+ kmt.34.d:0 "Plus la campagne se prolonge, plus le gouvernement est critiqué. Cela ne fera qu'empirer si nous ne sortons pas le fouet rapidement."
+ kmt.34.a:0 "Nous jetterons la racaille dissidente en prison."
+ kmt.34.b:0 "Nous devons être patients."
+ KMT_baihua_stage_2_tt:0 "De nouveaux militants de droite rejoignent les rangs des critiques"
+
+ kmt.35.t:0 "La critique se radicalise"
+ kmt.35.d:0 "Au début, les critiques étaient modérées. Mais au fil du temps, des voix plus extrêmes se font entendre, des voix qui appellent à l'action. Si nous n'agissons pas rapidement, nous pourrions avoir une contre-révolution sur les bras."
+ kmt.35.a:0 "Nous ferons en sorte qu'ils ne disent plus jamais rien."
+ kmt.35.b:0 "Ils ne sont que les laquais des vrais réactionnaires. Nous devons attendre que les leaders de la réaction montrent leur visage."
+ KMT_baihua_stage_3_tt:0 "Les critiques deviennent plus extrêmes"
+ 
+ kmt.36.t:0 "Appels à l'insurrection"
+ kmt.36.d:0 "Alors que nous laissons passer les commentaires radicaux, certains imbéciles appellent au renversement immédiat du gouvernement du peuple. Certains cadres commencent à craindre pour leur vie. Devons-nous mettre fin à la campagne maintenant ?"
+ kmt.36.a:0 "Ils n'auront nulle part où se cacher maintenant."
+ kmt.36.b:0 "Nous avons presque tous ces bâtards, encore quelques semaines et nous pourrons leur couper la tête d'un seul coup !"
+ KMT_baihua_stage_4_tt:0 "Les gens commencent à perdre la foi dans le communisme"
+ 
+ kmt.37.t:0 "Au bord de l'effondrement"
+ kmt.37.d:0 "Le niveau et la quantité d'attaques verbales contre le gouvernement sont devenus insupportables. Afin de sauvegarder la révolution des ouvriers et des paysans, nous devons arrêter tous les fauteurs de troubles maintenant !"
+ kmt.37.a:0 "Pour le bien du Parti, nous devons mettre un terme à toute opposition. De façon permanente."
+ baihua_end_now:0 "La campagne va se terminer maintenant.\n"
+ 
+ kmt.39.t:0 "Le Grand Bond en avant commence"
+ kmt.39.d:0 "Le Grand Bond en avant a commencé. Bientôt, nous réaliserons un communisme total et scientifique !"
+ kmt.39.a:0 "Nous allons surpasser le monde occidental !"
+ 
+ kmt.40.t:0 "Fourneaux construits"
+ kmt.40.d:0 "Certaines personnes ont construit leur propre fourneau dans leur jardin sans l'intervention du gouvernement. C'est un véritable signe de l'unité de notre nation."
+ kmt.40.a:0 "Avec de tels progrès, nous dépasserons le monde occidental en un rien de temps !"
+ 
+ kmt.43.t:0 "Famine"
+ kmt.43.d:0 "La famine a frappé certaines de nos provinces parce que les paysans ont jeté les outils agricoles dans les fours. Personne ne peut collecter les récoltes sans l'équipement pour le faire. Les récoltes qui sont collectées sont envoyées à l'étranger pour payer les équipements industriels."
+ kmt.43.a:0 "Mais les rapports disent que les récoltes ont augmenté de 400%..."
+ 
+ kmt.46.t:0 "Le Grand Bond en avant a atterri à l'envers"
+ kmt.46.d:0 "Après un congrès du parti, le président Mao a décidé, à son grand regret, de mettre fin au Grand Bond en avant. Les corps des paysans affamés et les morceaux de fonte jonchent la campagne. Il s'avère que l'on ne peut pas fabriquer de l'acier dans son jardin après tout."
+ kmt.46.a:0 "Le Grand Bond en avant a donné à la Chine une récolte de famine plutôt que de progrès."
+ 
+ kmt.47.t:0 "Mao a visité une commune locale"
+ kmt.47.d:0 "Le président Mao a été extrêmement heureux de voir le dévouement des paysans d'une commune du Henan. En l'honneur de leur esprit prolétarien, il a donné sa bénédiction à de telles communes dans toute la Chine."
+ kmt.47.a:0 "Notre peuple est vraiment dévoué au Parti !"
+
+
+
+ ## UNUSED ##
+ #prc_continuous_partisan_tt:0 "§YPartisans will rise up at a 30-day interval in our core state that is controlled by our enemy that has the §REnemy Partisans Behind Our Frontline§! national spirit.§!"
+ #PRC_continuous_partisan:0 "Footholds Behind Enemy Line"
+ #PRC_continuous_partisan_desc:0 "Our partisans is now causing some havoc behind our enemies' frontline, we could further their impact by giving them additional supply."
+ #PRC_continuous_one_time_boost:0 "Plan Drafting"
+ #PRC_continuous_one_time_boost_desc:0 "To defeat our enemy, a thorough plan is needed. We should gather as much intellegence and military mind as we can for such plans, they should grant us some advantages in the next few skirmishes against our enemies."

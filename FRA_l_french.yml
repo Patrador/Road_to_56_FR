@@ -861,6 +861,7 @@
 	#### FLAGS ####
  front_explosed:0 "Front populaire dissous"
  matignon_agreements:0 "Accords de Matignon"
+ is_vichy_france:0 "A l'arbre de priorités de la §YFrance de Vichy§!"
  #free_france_advisor_check:0 "This Officer will not take part in a Collaborationist Regime."
 
 

@@ -61,6 +61,7 @@
  SLO_found_the_nation:0 "Fonder la nation"
  SLO_found_the_nation_desc:0 "En 1919, les nationalistes tchèques ont négocié en notre nom et nous ont contraints à un mariage malheureux. Mais cette union est maintenant terminée et il est temps de montrer que nous sommes un peuple fier, libre et indépendant." 
  SLO_assert_control_over_southern_slovakia:0 "Assurer le contrôle du sud de la Slovaquie"
+ SLO_assert_control_over_southern_slovakia_desc:0 "Notre contrôle sur la région industrielle stratégique du sud de la Slovaquie est maintenant rétabli avec succès. Souhaitons la bienvenue à nos frères et sœurs sous la bannière du grand État [SLO.getAdjMS]."
  SLO_purge_fascists:0 "Purger les fascistes"
  SLO_purge_fascists_desc:0 "Les temps de l'oppression sont enfin terminés. Plus de milices Hlinka, plus de tueurs d'innocents sans procès, plus d'antisémitisme fanatique. Vive la disparition du fascisme !"  
  SLO_technology_sharing:0  "Partage des technologies"
@@ -275,3 +276,7 @@
  VICTORY_POINTS_3581:0 "Prešov"
 
  SLO_generic_industrial_concern:0 "Vagónka"
+
+ SLO_mechanized_corps:0 "Corps mécanisé [SLO.GetAdjMS]"
+ SLO_transfer_german_tanks:0 "Transfert des chars allemands"
+ SLO_transfer_german_tanks_desc:0 "Nos protecteurs allemands pourraient nous fournir des équipements de guerre modernes et peut-être même des licences afin de construire notre propre machine de guerre."

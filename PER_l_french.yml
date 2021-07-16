@@ -195,7 +195,7 @@
  PER_assemble_the_tudeh_party:0 "Rassembler le parti Tudeh"
  PER_assemble_the_tudeh_party_desc:0 "Le Parti Tudeh d'Iran est la principale force communiste en Iran. Il est maintenant temps de rassembler à nouveau le parti Tudeh, car l'Iran doit mettre fin à sa monarchie et ramener l'esprit des travailleurs."
  PER_recreate_the_persian_socialist_soviet_republic:0 "Recréer la RSS de Perse"
- PER_recreate_the_persian_socialist_soviet_republic_desc:0 "Le moment est maintenant arrivé. Avec le soutien de l'Union soviétique et du parti Tudeh, le temps est enfin venu de renverser la dynastie Pahlavi. Les paysans et les paysannes ont été assez maltraités par la royauté. Il est temps de prendre notre revanche. En avant, camarades !"
+ PER_recreate_the_persian_socialist_soviet_republic_desc:0 "Le moment est maintenant arrivé. Avec le soutien de l'Union soviétique et du parti Tudeh, le temps est enfin venu de renverser la dynastie Pahlavi. Les ouvriers et paysans ont été assez maltraités par la royauté. Il est temps de prendre notre revanche. En avant, camarades !"
  PER_nationalize_the_means_of_production:0 "Nationaliser les moyens de production"
  PER_nationalize_the_means_of_production_desc:0 "La nationalisation est le processus par lequel la propriété privée de la bourgeoisie est transformée en biens publics, qui peuvent être utilisés par tous. Afin de réaliser pleinement l'esprit communiste, nous devons nationaliser les moyens de production, pour empêcher une prise de contrôle des moyens de production par la bourgeoisie."
  PER_land_reforms:0 "Réformes agraires"
@@ -247,5 +247,5 @@
 
  #build in 1938 and managed by the British
  PER_generic_light_aircraft_manufacturer:0 "Doshan Tappeh Factory"
- #a bit weak, assempled aircrafts delivered from Britain in the early 30's
+ #a bit weak, assembled aircrafts delivered from Britain in the early 30's
  PER_generic_medium_aircraft_manufacturer:0 "Busher Workshop"

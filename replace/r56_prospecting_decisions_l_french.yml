@@ -121,6 +121,7 @@
  exploit_gabons_oil_field:0 "Exploiter le pétrole du Gabon"
  exploit_sumy_oil_field:0 "Exploiter le champ pétrolier de Sumy" 
  expand_sumy_oil_field:0 "Agrandir le champ pétrolier de Sumy"
+ exploit_gumdag_oil_field:0 "Exploiter le champ pétrolier de Gumdag"
 
  exploit_norrland_chromium:0 "Exploiter le chrome du Jämtland"
  exploit_kvarntorp_shale_oil:0 "Exploiter le pétrole de schiste de Kvarntorp" 
@@ -238,6 +239,7 @@
  exploit_sumy_oil_field_wtt:0 "Exploiter le champ pétrolier de Sumy"
  expand_sumy_oil_field_wtt:0 "Agrandir le champ pétrolier de Sumy"
  exploit_norrland_chromium_wtt:0 "Exploiter le chrome du Jämtland"
+ exploit_gumdag_oil_field_wtt:0 "Exploiter le champ pétrolier de Gumdag"
 
  expand_basque_steel_works_wtt:0 "Développer les aciéries basques"
  expand_western_aragon_steel_works_wtt:0 "Développer les aciéries de l'ouest de l'Aragon"

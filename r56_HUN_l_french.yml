@@ -114,8 +114,12 @@
 
  r56_hungary_6.t:0 "Rejoindre Charles Bernadotte"
 
- HUN_balkan_pact_preparation:0 "Préparations militaires de [HUN.getfactionname]"
+ HUN_balkan_pact_preparation:0 "Préparations militaires de [HUN.GetFactionName]"
 
  r56_hungary_6.desc:0 "Rejoindre Charles Bernadotte"
  r56_hungary_6.a:0 "Vers la victoire !"
  r56_hungary_6.b:0 "La mort semble meilleure"
+
+ r56_hungary_7.t:0 "[ITA.GetLeader] invite [YUG.GetNameDef] dans [HUN.GetFactionName]" 
+ r56_hungary_7.desc:0 "Avec sa traditionnelle bravade diplomatique, [ITA.GetLeader] a décidé d'agir de son propre chef et d'inviter [YUG.GetLeader] pour signer un traité d'alliance, les liant à [HUN.GetFactionName]. Bien qu'il soit agréable d'avoir de nouveaux alliés, cela peut faire obstacle à la réforme de la Hongrie historique."
+ r56_hungary_7.a:0 "Je suppose que c'est mieux que d'être entouré d'ennemis."

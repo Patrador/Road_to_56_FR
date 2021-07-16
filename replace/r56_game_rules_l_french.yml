@@ -40,7 +40,7 @@
  #-> Rt56 AI <><>
  RT56_AI_BEHAVIOR:0 "Comportement de l'IA de Road to 56"
  RULE_OPTION_DEFAULT_RT56_AI:0 "Par défaut (recommandé)"
- RULE_OPTION_DEFAULT_RT56_AI_DESC:0 "Le paramètre recommandé pour l'IA de Road to 56. Active les scripts et les stratégies d'IA pour empêcher l'IA de faire des choix inadéquats."
+ RULE_OPTION_DEFAULT_RT56_AI_DESC:0 "Le paramètre recommandé pour l'IA de Road to 56. Les scripts et les stratégies d'IA pour empêcher l'IA de faire des choix inadéquats sont activés."
  RULE_OPTION_OLD_SCHOOL:0 "Vieille école"
  RULE_OPTION_OLD_SCHOOL_AI_DESC:0 "Désactive les scripts et les stratégies d'IA qui empêchent l'IA de faire des choix inadéquats. Similaire à la façon dont l'IA réagissait lors de la version 2017 de Road to 56. Cela inclut les trahisons d'alliés et les mauvaises déclarations de guerre."
 
@@ -92,31 +92,45 @@
  RULE_OPTION_FASCISM_BEL_REX:0 "Fasciste - Rex"
  RULE_OPTION_FASCISM_BEL_REX_AI_DESC:0 "L'IA va essayer de devenir fasciste et de mettre Léon Degrelle dirigeant."
 
+ #-> CHI China <><>
+ CHI_AI_BEHAVIOR:0 "@CHI Chine"
+ RULE_OPTION_CHI_NEUTRALITY_HISTORICAL:0 "Neutralité - Historique"
+ RULE_OPTION_CHI_NEUTRALITY_HISTORICAL_AI_DESC:0 "La République de Chine forgera une alliance instable avec la République populaire de Chine pour sauver la nation chinoise de l'impérialisme japonais et suivra le chemin historique de l'arbre central."
+ RULE_OPTION_CHI_NEUTRALITY_ALTERNATE:0 "Neutralité - Sécurité interne"
+ RULE_OPTION_CHI_NEUTRALITY_ALTERNATE_AI_DESC:0 "La Chine suivra les conseils du Kuomintang et frappera d'abord la République populaire de Chine et les seigneurs de la guerre, assurant ainsi sa domination dans la plaine centrale."
+ RULE_OPTION_CHI_DEMOCRATIC:0 "Héritage de Sun Yat-Sen"
+ RULE_OPTION_CHI_DEMOCRATIC_AI_DESC:0 "Le Kuomintang s'appuiera sur son aile civile pour devenir le premier bastion de la démocratie en Asie et s'allier potentiellement aux grandes démocraties du monde."
+ RULE_OPTION_CHI_FASCIST_GERMAN:0 "Prise de pouvoir des Chemises bleues"
+ RULE_OPTION_CHI_FASCIST_GERMAN_AI_DESC:0 "La Chine suivra les politiques des mouvements des Chemises bleues, soutiendra la cause fasciste de l'Allemagne et s'efforcera de récupérer les territoires perdus par les impérialistes tout en s'opposant à la propagation du communisme en Asie centrale."
+ RULE_OPTION_CHI_FASCIST_JAPAN:0 "Grande coprospérité est-asiatique"
+ RULE_OPTION_CHI_FASCIST_JAPAN_AI_DESC:0 "Réalisant la menace que représentent les impérialistes face à la Grande-Bretagne et à la France pour la stabilité de l'Asie orientale, Wang Jingwei formera un gouvernement de collaboration pro-japonais qui s'alliera à l'Empire du Soleil Levant et nettoiera l'Asie des seigneurs de la guerre et des colonisateurs européens."
+
   #-> CHL Chile <><>
- CHL_AI_BEHAVIOR:0 "@CHL Chile"
- RULE_OPTION_NEUTRALITY_CHL_LIBERAL_PARTY:0 "Neutrality - Liberal Party"
- RULE_OPTION_NEUTRALITY_CHL_LIBERAL_PARTY_AI_DESC:0 "The Liberal Party will keep power"
- RULE_OPTION_FASCISM_CHL:0 "Fascist"
- RULE_OPTION_FASCISM_CHL_AI_DESC:0 "The Prussia of the South will embrace South American Nazism"
- RULE_OPTION_COMMUNISM_CHL:0 "Communist"
- RULE_OPTION_COMMUNISM_CHL_AI_DESC:0 "Become communist"
+ CHL_AI_BEHAVIOR:0 "@CHL Chili"
+ RULE_OPTION_NEUTRALITY_CHL_LIBERAL_PARTY:0 "Neutralité - Parti libéral"
+ RULE_OPTION_NEUTRALITY_CHL_LIBERAL_PARTY_AI_DESC:0 "Le Parti libéral gardera le pouvoir"
+ RULE_OPTION_FASCISM_CHL:0 "Fasciste"
+ RULE_OPTION_FASCISM_CHL_AI_DESC:0 "La Prusse du Sud embrassera le nazisme sud-américain."
+ RULE_OPTION_COMMUNISM_CHL:0 "Communiste"
+ RULE_OPTION_COMMUNISM_CHL_AI_DESC:0 "Devenir communiste."
 
 
 
  #-> GER: Germany <><>
  GER_AI_BEHAVIOR:0 "@GER Allemagne"
- RULE_OPTION_DEMOCRATIC_GER_AI_DESC:0 "L'AI allemande tentera de rétablir la démocratie et de rechercher soit la paix soit une alliance défensive forte à travers l'Europe, en empruntant la voie appropriée dans l'arbre des priorités nationales.\n§YCette option s'adaptera en fonction de l'arbre de priorités que vous avez choisi.§!\n§RNécessite l'extension Waking the Tiger si vous avez sélectionné l'arbre de priorités standard.§!"
+ RULE_OPTION_DEMOCRATIC_GER_AI_DESC:0 "L'AI allemande tentera de rétablir la démocratie et de rechercher soit la paix soit une alliance défensive forte à travers l'Europe.\n§YCette option s'adaptera en fonction de l'arbre de priorités que vous avez choisi.§!\n§RNécessite l'extension Waking the Tiger si vous avez sélectionné l'arbre de priorités standard.§!"
  RULE_OPTION_COMMUNIST_GER_AI_DESC:0 "L'IA allemande tentera d'allumer la flamme rouge et de se convertir au communisme, ce qui conduira soit à une coopération avec les Soviétiques, soit à sa propre sphère d'influence.\n§RCette option ne fonctionne qu'avec l'arbre de priorités de Road to 56 sélectionné. Si l'arbre de priorités standard est sélectionné, l'IA choisira un chemin aléatoire.§!"
- RULE_OPTION_FASCIST_HISTORICAL_GER_AI_DESC:0 "L'AI allemande va remilitariser la Rhénanie et étendre son « Lebensraum » et son influence en Europe en utilisant des méthodes agressives, en empruntant la voie appropriée dans l'arbre des priorités nationales.\n§YCette option s'adaptera en fonction de l'arbre de priorités que vous avez choisi.§!"
- RULE_OPTION_MONARCHIST_GER_AI_DESC:0 "L'IA allemande va tenter de restaurer le Kaiser et de ramener l'Empire allemand, qui conduit à des alliances familières et à des expansions territoriales, en empruntant la voie appropriée dans l'arbre des priorités nationales.\n§YCette option s'adaptera en fonction de l'arbre de priorités que vous avez choisi.§!\n§RNécessite l'extension Waking the Tiger si vous avez sélectionné l'arbre de priorités standard.§!"
+ RULE_OPTION_FASCIST_HISTORICAL_GER_AI_DESC:0 "L'AI allemande va remilitariser la Rhénanie et étendre son « Lebensraum » et son influence en Europe en utilisant des méthodes agressives.\n§YCette option s'adaptera en fonction de l'arbre de priorités que vous avez choisi.§!"
+ RULE_OPTION_MONARCHIST_GER_AI_DESC:0 "L'IA allemande va tenter de restaurer le Kaiser et de ramener l'Empire allemand, qui conduit à des alliances familières et à des expansions territoriales.\n§YCette option s'adaptera en fonction de l'arbre de priorités que vous avez choisi.§!\n§RNécessite l'extension Waking the Tiger si vous avez sélectionné l'arbre de priorités standard.§!"
 
  #-> ITA: Italy <><>
  ITA_AI_BEHAVIOR:0 "@ITA Italie"
- RULE_OPTION_FASCIST_HISTORICAL_ITA_AI_DESC:0 "L'IA italienne va (essayer de) gagner en Éthiopie et poursuivre sa lente expansion militaire en Europe avant de s'allier avec l'Allemagne, en empruntant la voie appropriée dans l'arbre des priorités nationales."
+ RULE_OPTION_FASCIST_HISTORICAL_ITA_AI_DESC:0 "L'IA italienne va (essayer de) gagner en Éthiopie et poursuivre sa lente expansion militaire en Europe avant de s'allier avec l'Allemagne."
  RULE_OPTION_FASCIST_STRESA_FRONT:0 "Fasciste - Raviver le front de Stresa"
- RULE_OPTION_FASCIST_STRESA_FRONT_ITA_AI_DESC:0 "L'IA italienne tentera d'amener la Grande-Bretagne et la France à relancer le Front de Stresa en réponse à l'hostilité croissante de l'Allemagne et se concentrera sur la protection de l'Europe, en empruntant la voie appropriée dans l'arbre des priorités nationales."
+ RULE_OPTION_FASCIST_STRESA_FRONT_ITA_AI_DESC:0 "L'IA italienne tentera d'amener la Grande-Bretagne et la France à relancer le Front de Stresa en réponse à l'hostilité croissante de l'Allemagne et se concentrera sur la protection de l'Europe."
  RULE_OPTION_FASCIST_ROME_PROTOCOLS:0 "Fasciste - Militariser les Protocoles de Rome"
- RULE_OPTION_FASCIST_ROME_PROTOCOLS_ITA_AI_DESC:0 "L'IA italienne tentera de militariser les protocoles de Rome avec l'Autriche et la Hongrie. Ceci sera suivi d'une tentative d'expansion territoriale en Europe et d'une faction croissante de membres latins, en empruntant la voie appropriée dans l'arbre des priorités nationales."
+ RULE_OPTION_FASCIST_ROME_PROTOCOLS_ITA_AI_DESC:0 "L'IA italienne tentera de militariser les protocoles de Rome avec l'Autriche et la Hongrie. Ceci sera suivi d'une tentative d'expansion territoriale en Europe et d'une faction croissante de membres latins."
+ RULE_OPTION_MONARCHIST_ITA_AI_DESC:0 "L'IA italienne déclenchera une guerre civile et en sortira (normalement) victorieuse, plaçant Victor Emmanuel III à la tête de la nation."
 
  #-> MEX: Mexico <><>
  MEX_AI_BEHAVIOR:0 "@MEX Mexique"
@@ -162,6 +176,9 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  RULE_OPTION_FASCIST_TUR_AI_DESC:0 "L'IA turque soutiendra les officiers fascistes, ce qui conduit à une dictature fasciste et à une coopération étroite avec l'Allemagne ainsi qu'à une éventuelle adhésion à l'Axe."
  RULE_OPTION_ATATURK_HISTORICAL:0 "L'héritage d'Atatürk - Historique"
  RULE_OPTION_ATATURK_HISTORICAL_TUR_AI_DESC:0 "L'IA turque renforcera l'héritage d'Atatürk et se concentrera sur la neutralité, en signant plusieurs pactes avec d'autres nations."
+
+  #-> YUG: Yugoslavia <><>
+ RULE_OPTION_COMMUNIST_YUG_AI_DESC:0 "L'AI yougoslave deviendra communiste sous Tito et tentera de rejoindre le Komintern."
 
  ###---> Map Fragmentation <><> <><> <><>
  RULE_GROUP_GAME_SETUP:0 "Fragmentation de la carte"

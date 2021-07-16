@@ -8,3 +8,6 @@
  FOCUS_FILTER_ALUMINIUM:0 "Ressource : Aluminium"
  FOCUS_FILTER_TUNGSTEN:0 "Ressource : Tungstène"
  FOCUS_FILTER_RUBBER:0 "Ressource : Caoutchouc" 
+ FOCUS_FILTER_MILITARY_EQUIPMENT:0 "Équipement militaire"
+ FOCUS_FILTER_MILITARY_IMPROVEMENT:0 "Amélioration militaire"
+ FOCUS_FILTER_ALLIANCE:0 "Alliance"

@@ -64,11 +64,17 @@
  r56_yugoslavia_deaths.1.a:0 "Il nous manquera."
  r56_yugoslavia_deaths.1.b:0 "Bon débarras."
 
- r56_yugoslavia_deaths.2.t:0 "Anton Korošec est décédé."
+ r56_yugoslavia_deaths.2.t:0 "Anton Korošec est décédé"
  r56_yugoslavia_deaths.2.d:0 "Anton Korošec, président du Parti populaire slovène et auteur de la Déclaration de mai qui a proclamé la création de l'État des Serbes, Croates et Slovènes le 29 octobre 1918, est décédé. Il était l'un des principaux défenseurs de l'autonomie slovène à travers la Yougoslavie, tout en étant également responsable du réchauffement des relations avec l'Allemagne nazie. Une figure véritablement controversée en ces temps incertains."
 
- r56_yugoslavia_deaths.3.t:0 "Mehmed Spaho est décédé."
- r56_yugoslavia_deaths.3.d:0 "Mehmed Spaho, chef de l'Organisation musulmane yougoslave et premier politicien musulman bosniaque du Royaume des Serbes, Croates et Slovènes, était partisan de l'autonomie musulmane bosniaque en Yougoslavie. Sa mort soudaine et mystérieuse risque d'exacerber les tensions entre agnostiques et religieux dans le pays."
+ r56_yugoslavia_deaths.3.t:0 "Mehmed Spaho est décédé"
+ r56_yugoslavia_deaths.3.d:0 "Mehmed Spaho, chef de l'Organisation musulmane yougoslave et premier politicien musulman bosniaque du Royaume des Serbes, Croates et Slovènes, était un partisan éminent de l'autonomie musulmane bosniaque en Yougoslavie. Sa mort soudaine et mystérieuse pourrait conduire à une escalade des tensions entre agnostiques et religieux dans le pays."
+
+ r56_yugoslavia.3.t:0 "Le sort du Banat et de la Voïvodine"
+ r56_yugoslavia.3.d:0 "Le destin du Banat ne peut être laissé de côté si nous voulons résoudre les conflits ethniques au sein de notre peuple. \n\nLes [HUN.GetHabitants] et les [ROM.GetHabitants] se sont rapprochés de manière inquiétante de nos ennemis, selon nos agents dans leurs plus hauts cercles de pouvoir. Des fortifications rapides dans le Nord sont suggérées par notre ministère de la défense intérieure si nous voulons protéger la Serbie et ses protectorats autonomes. \n\nCependant, ce n'est pas un secret que les nationalistes [HUN.GetAdjMP] et [ROM.GetAdjMP] cherchent à annexer le nord de la Serbie et à incorporer ces territoires dans le leur. En l'absence de soutien étranger pour notre État, nous pourrions céder ces territoires en échange d'un certain degré de reconnaissance et de soutien. \n\nLes politiciens libéraux plaident en faveur de l'octroi de l'autonomie et de l'auto-gestion à ces régions sous le régime [YUG.GetAdjMS], mettant ainsi un terme aux revendications [ROM.getAdjFP] et [HUN.getAdjFP] sur ces régions.  \n\nQue devons-nous faire ?"
+ r56_yugoslavia.3.a:0 "Fortifions le Banat. Personne ne doit passer !"
+ r56_yugoslavia.3.b:0 "Céder les territoires pour obtenir un soutien étranger."
+ r56_yugoslavia.3.c:0 "L'autonomie des masses et rien d'autre !"
 
 
  YUG_united_balkan_federation:0 "Fédération unie des Balkans"
@@ -77,3 +83,6 @@
 
  YUG_form_the_balkan_federation:0 "Former la Fédération des Balkans"
  YUG_form_the_balkan_federation_desc:0 "L'ascension [ROOT.GetDuDelaDelNP] [ROOT.GetName] en tant que dirigeant politique des Balkans a ouvert la possibilité de réaliser une utopie dont seuls quelques intellectuels rêvaient, à savoir la formation d'une fédération balkanique."
+
+ YUG_fate_of_banat:0 "Le destin du Banat"
+ YUG_fate_of_banat_desc:0 "Les régions du Banat et de Voïvodine abritent non seulement des Serbes, mais aussi des Roumains et des Hongrois. Des rapports récents des autorités locales indiquent une augmentation rapide des hostilités entre les différents groupes de population ainsi qu'un sentiment nationaliste et séparatiste croissant au sein de la population. Le destin du Banat ne peut être laissé de côté si nous voulons résoudre les conflits ethniques au sein de notre population. Que devons-nous faire ?"

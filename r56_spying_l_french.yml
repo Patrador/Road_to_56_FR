@@ -22,7 +22,7 @@ r56_spying_event.5.desc:0 "Fidèles à la cause de la révolution, les nouvelles
 r56_spying_event.6.t:0 "Agents communistes recrutés"
 r56_spying_event.6.desc:0 "Fidèles à la cause de la révolution, les nouvelles recrues sont prêtes à servir dans l'ombre."
 r56_spying_event.7.t:0 "Officiers [ROOT.getAdjMP] attaqués !"
-r56_spying_event.7.desc:0 "Des officiers proches d'un de nos commandants ont été attaqués dans le cadre d'une attaque terroriste coordonnée. La nation souhaite aux survivants un prompt rétablissement. En attendant, il devra travailler sans certains personnels clés pendant que des remplaçants sont en route."
+r56_spying_event.7.desc:0 "Des officiers proches d'un de nos commandants ont été bléssés dans le cadre d'une attaque terroriste coordonnée. La nation souhaite aux survivants un prompt rétablissement. En attendant, le personnel des agents locaux devra continuer devra travailler sans certains personnels clés pendant que des remplaçants sont en route."
 lar_operative_event.7.t:0 "Mission secrète terminée"
 lar_operative_event.7.desc:0 "Nos agents ont accompli leur mission. Des contacts ont été établis avec les responsables et des rapports sont en cours de rédaction. Les agents seront prêts à poursuivre de nouvelles opérations dès que possible."
 lar_operative_event.7.a:0 "Classifiez ce dossier."
@@ -69,3 +69,5 @@ linguistic_training_enabled_tt:0 "Chance de recruter un agent avec le trait §YL
 idea_resistance_network_operative_1:0 "Soutien opérationnel de la résistance"
 resistance_60:0 "Réseaux de renseignement souterrains"
 resistance_60_effect_tooltip:0 "[FROM.GetNameWithFlag], obtient §G+1§! §Yagent§! s'il existe."
+
+ EFFECT_CREATE_INTELLIGENCE_AGENCY:0 "Créer une §Yagence de renseignement§!."

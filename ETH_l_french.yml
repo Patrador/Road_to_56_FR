@@ -167,7 +167,7 @@
  ETH_hold_the_line:0 "Positions améliorées"
  
  ETH_diplomatic_legitimacy:0 "Légitimité diplomatique"
- ETH_diplomatic_legitimacy_desc:0 "L'invasion italienne étant repoussée, le pays peut devenir le leader de l'indépendance contre l'oppression impérialiste."
+ ETH_diplomatic_legitimacy_desc:0 "L'invasion italienne ayant été repoussée, notre pays peut devenir le symbole de la résistance à l'oppression impérialiste."
 
  ETH_japanese_navy:0 "Conseillers navals japonais"
  ETH_leopold_reul:0 "Léopold Reul"
@@ -180,3 +180,24 @@
  ethiopia.2.d:0 "Les signataires considèrent comme la condition préalable à toute paix durable le fait que toutes les nations du monde se voient accorder chacune la place qui lui revient. Ils ont décidé de se tenir prêts et de coopérer les uns avec les autres dans leurs efforts pour mettre fin à l'effusion de sang insensée et à l'impérialisme de l'Italie en Afrique de l'Est et dans les régions du continent où leur but premier est d'établir et de maintenir un nouvel ordre des choses, calculé pour promouvoir la prospérité et le bien-être mutuels des peuples concernés."
  ethiopia.3.t:0 "Les puissances occidentales indignées"
  ethiopia.3.d:0 "Une telle agression incontrôlée contre les autres membres de la Ligue ne sera pas tolérée."
+ 
+ #1.10.6 event
+ ETH_events.1.t:0 "L'Éthiopie propose une paix blanche"
+ ETH_events.1.d:0 "Le contrôle du Somaliland et de l'Érythrée étant presque entièrement perdu, à l'exception de quelques poches de résistance, le gouvernement éthiopien a proposé de trouver une solution pacifique à ces hostilités. L'Italie mettra officiellement fin à son invasion de l'Éthiopie et cédera à l'Éthiopie les territoires occupés en Afrique de l'Est. Comment devons-nous répondre ?"
+ ETH_events.1.a:0 "Signer le traité."
+ ETH_events.1.b:0 "Nous ne pouvons pas nous permettre une autre humiliation !"
+ ETH_events.101.t:0 "[From.GetNameDefCap] refuse la paix"
+ ETH_events.101.d:0 "Bien qu'il ait perdu le contrôle de tous les territoires d'Afrique de l'Est, [From.GetLeader] a rejeté notre offre de paix blanche. Il semblerait que la capitulation totale soit la seule façon de mettre fin à cette guerre."
+ ETH_events.101.a:0 "C'est bien dommage."
+ 
+ news.337.title:0 "Humiliation en Afrique"
+ news.337.desc:0 "Un traité de paix a été signé aujourd'hui entre [ETH.GetLeader] et [ITA.GetLeader] mettant fin aux hostilités entre les deux nations. Malgré l'énorme différence de puissance entre le royaume enclavé et l'empire mondial, le gouvernement éthiopien est sorti vainqueur de ces négociations. Non seulement l'Italie doit conclure une trêve avec l'Éthiopie, mais les territoires de l'Érythrée et du Somaliland italien ont été officiellement cédés [ETH.GetAuAlaAlNP] [ETH.GetName].\n\nAvec cette deuxième défaite des forces armées italiennes en Éthiopie, le gouvernement de [ITA.GetLeader] est en ruine, et il faudra probablement de nombreuses années avant que la fierté italienne blessée ne se remette vraiment de cette défaite."
+ news.337.a:0 "Bravo à l'Éthiopie !"
+ news.337.b:0 "Nous espérons que l'on ne se souviendra pas de [ITA.GetLeader] pour ses échecs."
+ news.337.c:0 "Nous ne nous en remettrons jamais."
+ news.337.d:0 "L'Empire de Ras Aloula renaît !"
+
+ ethiopia.10011.t:0 "Des armes allemandes"
+ ethiopia.10011.d:0 "L'Allemagne envoie du matériel pour faire progresser notre industrie. Avec une industrie moderne, nous pouvons enfin combattre les forces de Mussolini."
+ ethiopia.10011.a:0 "Nous devons accélérer la production !"
+ ethiopia.10011.b:0 "Leurs armes aideront grandement notre lutte !"
