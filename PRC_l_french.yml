@@ -683,6 +683,15 @@
  PRC_enforce_our_goal:0 "Renforcer notre objectif"
  PRC_enforce_our_goal_desc:0 "Nous ne devons pas oublier l'objectif initial de la mise en place de ce gouvernement. Maintenant, nous devons agir."
 
+ KMT_hundred_flowers_campaign:0 "Campagne des Cent Fleurs"
+ KMT_hundred_flowers_campaign_desc:0 "Certains réactionnaires sont encore parmi nous. La meilleure façon de les démasquer est de leur donner une chance de s'exprimer."
+
+ KMT_great_leap_forawrd:0 "Le Grand Bond en avant"
+ KMT_great_leap_forawrd_desc:0 "Nous sommes loin derrière l'Occident et les Soviétiques. Afin de réaliser le communisme et de protéger le peuple, nous devons nous engager dans une gigantesque campagne de masse pour rattraper notre retard en peu de temps."
+
+ PRC_begin_cultural_revolution:0 "Début de la révolution culturelle"
+ PRC_begin_cultural_revolution_desc:0 "Les récents changements de gouvernement au sein [SOV.GetDuDelaDelNP] [SOV.GetName] ont soulevé de sérieux doutes quant à l'interprétation correcte du communisme et à la forme sous laquelle il doit guider [PRC.GetNameDef] vers la prospérité souhaitée. Divers groupes ont déjà entamé une lutte de pouvoir pour atteindre les sommets de notre président bien-aimé. Seul le temps montrera où il mènera notre glorieux pays."
+
  PRC_mongolia_issue:0 "La question de la Mongolie"
  PRC_mongolia_issue_desc:0 "La Mongolie est une partie inséparable de la Chine, elle doit nous être rendue !"
 
