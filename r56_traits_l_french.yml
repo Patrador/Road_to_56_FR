@@ -20,6 +20,10 @@
  funnies_inventor_desc:0 "§LPercy Hobart s'est distingué par la création de chars très spécialisés regroupés dans une unité qu'il commandait.§!"
  bad_staffer:0 "Mauvais membre"
  bad_staffer_desc:0 "§LCet homme est soit mauvais pour choisir les officiers, soit manque d'officiers conseillers compétents, soit une combinaison des deux. En tout cas, cela limite sa capacité à commander un grand nombre d'unités.§!"
+ walloon:0 "Wallon"
+ walloon_desc:0 "§LCe commandant rejoindra la Wallonie en cas de démantèlement de la Belgique.§!"
+ flemish:0 "Flamand"
+ flemish_desc:0 "§LCe commandant rejoindra la Flandre en cas de démantèlement de la Belgique.§!"
  military_governor:0 "Gouverneur militaire"
  military_governor_desc:0 "§LCe commandant est un expert en matière de maintien de la loi dans les terres occupées.§!"
  retraining:0 "Entraînement"
@@ -27,8 +31,13 @@
  front_line_commander:0 "Commandant de ligne de front"
  front_line_commander_desc:0 "§LCe commandant a l'habitude de commander aussi près que possible des lignes de front. Cela lui permet de superviser la bataille dans son ensemble, mais en réalité, il n'est pas bien adapté pour mener de grandes opérations. Il prend des risques et, malgré ses lacunes, il est toujours respecté par ses hommes et admiré par ses collègues.§!" 
  jumping_general:0 "Général sautant"
- jumping_general_desc:0 "§LCe commandant a l'habitude de commander ses camarades parachutistes le plus près possible de l'action en se jetant directement dedans. Cela lui permet de superviser la bataille et de maintenir l’initiative et le moral de ses troupes, mais en réalité, il n’est pas bien adapté à la conduite d’opérations de grande envergure. Il est un preneur de risques et, malgré ses lacunes, il est admiré par ses hommes et respecté par ses collègues.§!" 
- 
+ jumping_general_desc:0 "§LCe commandant a l'habitude de commander ses camarades parachutistes le plus près possible de l'action en se jetant directement dedans. Cela lui permet de superviser la bataille et de maintenir l’initiative et le moral de ses troupes, mais en réalité, il n’est pas bien adapté à la conduite d’opérations de grande envergure. Il est un preneur de risques et, malgré ses lacunes, il est admiré par ses hommes et respecté par ses collègues.§!"
+ lucky:0 "Chanceux"
+ lucky_desc:0 "Cet homme semble avoir été choisi par le destin, sa capacité à survivre à des situations dangereuses ne lui est peut-être pas encore connue, mais le Destin sait et attend le moment pour l'aider subtilement."
+ vigorous:0 "Vigoureux"
+ vigorous_desc:0 "Cet homme est connu pour sa santé robuste, qui le rend résistant et prêt à se battre avec ses hommes même dans les environnements les plus rudes."
+
+
 ##Companies 
  converted_train_manufacturer:0 "Constructeur de train convertit"
  efficient_bomber_manufacturer:0 "Fabricant de bombardiers efficaces"
@@ -44,6 +53,7 @@
  spare_parts_tank_manufacturer:0 "Spécialiste des pièces de rechange pour chars"
  licensed_medium_aircraft_manufacturer:0 "Fabricant agréé d'avions moyens"
  mining_concern:0 "Intérêt pour l'industrie minière"
+ railway_company:0 "Société ferroviaire"
 
 ##Leaders 
  dislikes_russia:0 "N'aime pas la Russie"

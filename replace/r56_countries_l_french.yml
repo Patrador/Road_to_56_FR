@@ -109,8 +109,8 @@
  #BAY
  BAY_communism:0 "République du conseil de Bavière"
  BAY_communism_DEF:0 "la République du conseil de Bavière"
- BAY_fascism:0 "Royaume de Bavière"
- BAY_fascism_DEF:0 "le Royaume de Bavière"
+ BAY_fascism:0 "État libre de Bavière"
+ BAY_fascism_DEF:0 "l'État libre de Bavière"
  BAY_democratic:0 "État libre de Bavière"
  BAY_democratic_DEF:0 "l'État libre de Bavière"
  BAY_neutrality:0 "Royaume de Bavière"
@@ -182,12 +182,12 @@
  BLR_communism_ADJ:0 "biélorusse"
 
  #BRD
- BRD_fascism:1 "République du Burundi"
- BRD_fascism_DEF:1 "la République du Burundi"
+ BRD_fascism:1 "État du Burundi"
+ BRD_fascism_DEF:1 "l'État du Burundi"
  BRD_democratic:0 "République du Burundi"
  BRD_democratic_DEF:0 "la République du Burundi"
- BRD_neutrality:1 "République du Burundi"
- BRD_neutrality_DEF:1 "la République du Burundi"
+ BRD_neutrality:1 "Royaume du Burundi"
+ BRD_neutrality_DEF:1 "le Royaume du Burundi"
  BRD_fascism_ADJ:0 "burundais"
  BRD_democratic_ADJ:0 "burundais"
  BRD_neutrality_ADJ:0 "burundais"
@@ -345,6 +345,16 @@
  CDI_fascism_ADJ:0 "ivoirien"
  CDI_democratic_ADJ:0 "ivoirien"
  CDI_neutrality_ADJ:0 "ivoirien"
+
+ #CSA
+ CSA_fascism:0 "États confédérés d'Amérique"
+ CSA_fascism_DEF:0 "les États confédérés d'Amérique"
+ CSA_democratic:0 "Union constitutionnelle d'Amérique"
+ CSA_democratic_DEF:0 "l'Union constitutionnelle d'Amérique"
+ CSA_neutrality:0 "États confédérés d'Amérique"
+ CSA_neutrality_DEF:0 "les États confédérés d'Amérique"
+ CSA_communism:0 "Confédération des travailleurs d'Amérique"
+ CSA_communism_DEF:0 "la Confédération des travailleurs d'Amérique"
 
  #CHD
  CHD_neutrality:0 "République du Tchad"
@@ -1204,8 +1214,8 @@
  KEN_communism_ADJ:0 "kényan"
 
  #KOF
- KOF_fascism:0 "Royaume de Finlande"
- KOF_fascism_DEF:0 "le Royaume de Finlande"
+ KOF_neutrality:0 "Royaume de Finlande"
+ KOF_neutrality_DEF:0 "le Royaume de Finlande"
 
  #KUR
  KUR_fascism:0 "État kurde"
@@ -1276,20 +1286,20 @@
  LEB_neutrality_DEF:0 "la République libanaise"
 
  #LES
- LES_fascism:0 "Lesotho"
- LES_fascism_DEF:0 "le Lesotho"
- LES_democratic:0 "République du Lesotho"
- LES_democratic_DEF:0 "la République du Lesotho"
- LES_neutrality:0 "Lesotho"
- LES_neutrality_DEF:0 "le Lesotho"
- LES_communism:0 "Commune du Lesotho"
- LES_communism_DEF:0 "la Commune du Lesotho"
+ LES_neutrality:0 "Royaume du Lesotho"
+ LES_neutrality_DEF:0 "le Royaume du Lesotho"
+ LES_democratic:0 "Royaume du Lesotho"
+ LES_democratic_DEF:0 "le Royaume du Lesotho"
+ LES_fascism:0 "'Muso oa Lesotho"
+ LES_fascism_DEF:0 "'Muso oa Lesotho"
+ LES_communism:0 "République socialiste du Lesotho"
+ LES_communism_DEF:0 "la République socialiste du Lesotho"
  LES_communism_ADJ:0 "basotho"
  LES_fascism_ADJ:0 "basotho"
  LES_democratic_ADJ:0 "basotho"
  LES_neutrality_ADJ:0 "basotho"
- LES_ENG_subject:0 "Basutoland"
- LES_ENG_subject_DEF:0 "le Basutoland"
+ LES_ENG_subject:0 "Colonie du Basutoland"
+ LES_ENG_subject_DEF:0 "la Colonie du Basutoland"
  LES_ENG_subject_ADJ:0 "basotho"
 
  #LBA
@@ -1327,20 +1337,6 @@
  LIT_neutrality_ADJ:0 "lituanien"
  LIT_democratic_ADJ:0 "lituanien"
  LIT_communism_ADJ:0 "lituanien"
-
- #LSO
- LSO_neutrality:0 "Royaume du Lesotho"
- LSO_neutrality_DEF:0 "le Royaume du Lesotho"
- LSO_democratic:0 "Royaume du Lesotho"
- LSO_democratic_DEF:0 "le Royaume du Lesotho"
- LSO_fascism:0 "'Muso oa Lesotho"
- LSO_fascism_DEF:0 "'Muso oa Lesotho"
- LSO_communism:0 "République socialiste du Lesotho"
- LSO_communism_DEF:0 "la République socialiste du Lesotho"
- LSO_communism_ADJ:0 "lésothan"
- LSO_fascism_ADJ:0 "lésothan"
- LSO_democratic_ADJ:0 "lésothan"
- LSO_neutrality_ADJ:0 "lésothan"
 
  #LUX
  LUX_fascism:0 "État du Grand Luxembourg"
@@ -1423,9 +1419,9 @@
  MAU_communism_ADJ:0 "mauritanien"
 
  #MAN
- MAN_fascism:0 "Empire de Grande Mandchourie"
+ MAN_fascism:0 "Empire de Mandchourie"
  MAN_fascism_ADJ:0 "mandchou"
- MAN_fascism_DEF:0 "l'Empire de Grande Mandchourie"
+ MAN_fascism_DEF:0 "l'Empire de Mandchourie"
  MAN_neutrality:0 "Empire du Grand Qing"
  MAN_neutrality_ADJ:0 "qing"
  MAN_neutrality_DEF:0 "l'Empire du Grand Qing"
@@ -2139,21 +2135,21 @@
  SUR_communism_ADJ:0 "surinamien"
 
  #SWA
- SWA_fascism:0 "Eswatini"
- SWA_fascism_DEF:0 "l'Eswatini"
- SWA_democratic:0 "République emaswati"
- SWA_democratic_DEF:0 "la République emaswati"
- SWA_neutrality:0 "Swaziland"
- SWA_neutrality_DEF:0 "le Swaziland"
- SWA_communism:0 "Commune emaswati"
- SWA_communism_DEF:0 "la Commune emaswati"
- SWA_communism_ADJ:0 "emaswati"
- SWA_fascism_ADJ:0 "emaswati"
- SWA_democratic_ADJ:0 "emaswati"
- SWA_neutrality_ADJ:0 "emaswati"
- SWA_ENG_subject:0 "Swaziland"
- SWA_ENG_subject_DEF:0 "le Swaziland"
- SWA_ENG_subject_ADJ:0 "emaswati"
+ SWA_fascism:0 "République du Swaziland"
+ SWA_fascism_DEF:0 "la République du Swaziland"
+ SWA_democratic:0 "République du Swaziland"
+ SWA_democratic_DEF:0 "la République du Swaziland"
+ SWA_neutrality:0 "Royaume du Swaziland"
+ SWA_neutrality_DEF:0 "le Royaume du Swaziland"
+ SWA_communism:0 "Commune swazie"
+ SWA_communism_DEF:0 "la Commune swazie"
+ SWA_communism_ADJ:0 "swazi"
+ SWA_fascism_ADJ:0 "swazi"
+ SWA_democratic_ADJ:0 "swazi"
+ SWA_neutrality_ADJ:0 "swazi"
+ SWA_ENG_subject:0 "Protectorat du Swaziland"
+ SWA_ENG_subject_DEF:0 "le Protectorat du Swaziland"
+ SWA_ENG_subject_ADJ:0 "swazi"
 
  #SWE
  SWE_democratic:0 "Royaume de Suède"
@@ -2187,20 +2183,6 @@
  SZK_fascism_ADJ:0 "sicule"
  SZK_democratic_ADJ:0 "sicule"
  SZK_neutrality_ADJ:0 "sicule"
-
- #SZL
- SZL_neutrality:0 "Royaume du Swaziland"
- SZL_neutrality_DEF:0 "le Royaume du Swaziland"
- SZL_democratic:0 "Royaume du Swaziland"
- SZL_democratic_DEF:0 "le Royaume du Swaziland"
- SZL_fascism:0 "Empire swazi"
- SZL_fascism_DEF:0 "l'Empire swazi"
- SZL_communism:0 "République socialiste du Swaziland"
- SZL_communism_DEF:0 "la République socialiste du Swaziland"
- SZL_communism_ADJ:0 "swazi"
- SZL_fascism_ADJ:0 "swazi"
- SZL_democratic_ADJ:0 "swazi"
- SZL_neutrality_ADJ:0 "swazi"
 
  #TAN
  TAN_communism:0 "République populaire touvaine"
@@ -2409,8 +2391,8 @@
  #VEN
  VEN_fascism:0 "États-Unis du Vénézuéla"
  VEN_fascism_DEF:0 "les États-Unis du Vénézuéla"
- VEN_democratic:0 "République du Vénézuéla"
- VEN_democratic_DEF:0 "la République du Vénézuéla"
+ VEN_democratic:0 "États-Unis du Vénézuéla"
+ VEN_democratic_DEF:0 "les États-Unis du Vénézuéla"
  VEN_neutrality:0 "États-Unis du Vénézuéla"
  VEN_neutrality_DEF:0 "les États-Unis du Vénézuéla"
  VEN_communism:0 "République populaire du Vénézuéla"

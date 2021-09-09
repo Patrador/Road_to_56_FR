@@ -224,36 +224,36 @@
 
 
  ITA_our_own_sphere:0 "Notre propre sphère"
- ITA_our_own_sphere_desc:0 "" #WIP
+ ITA_our_own_sphere_desc:0 "" #//WIP
  ITA_territorial_deal_with_yugoslavia:0 "Accord territorial avec la Yougoslavie"
- ITA_territorial_deal_with_yugoslavia_desc:0 "" #WIP
+ ITA_territorial_deal_with_yugoslavia_desc:0 "" #//WIP
  ITA_approach_hungary:0 "Se rapprocher de la Hongrie"
  ITA_approach_hungary_desc:0 "La Hongrie a des intérêts communs avec nous, à savoir la partition de la Yougoslavie. Les intégrer dans notre alliance nous permettrait aussi à terme d'espérer un conflit avec la Roumanie, permettant de l'intégrer à notre sphère d'influence."
  ITA_our_latin_brothers:0 "Nos frères latins"
  ITA_our_latin_brothers_desc:0 "Nous partageons d'importantes racines culturelles avec la Roumanie, et n'oublions pas son grand potentiel comme allié du fait de ses nombreuses réserves de pétrole. Rechercher une alliance avec eux ne pourrait que nous être bénéfique."
  ITA_garantee_austria:0 "ITA_garantee_austria"
  ITA_guarantee_austria:0 "Garantir l'Autriche"
- ITA_guarantee_austria_desc:0 "" #WIP
+ ITA_guarantee_austria_desc:0 "" #//WIP
  ITA_align_bulgaria:0 "Aligner la Bulgarie"
- ITA_align_bulgaria_desc:0 "" #WIP
+ ITA_align_bulgaria_desc:0 "" #//WIP
  ITA_claims_on_france2:0 "Revendications sur la France"
  ITA_claims_on_france2_desc:0 "Notre domination à l'est étant assurée, il est temps pour nous de reprendre toutes les terres italiennes légitimes que les Français nous ont toujours refusées, à savoir la Corse, la Savoie et la Tunisie."
  ITA_expand_aviation_research_facilities:0 "Étendre les installations de recherche de l'aviation"
- ITA_expand_aviation_research_facilities_desc:0 "" #WIP
+ ITA_expand_aviation_research_facilities_desc:0 "" #//WIP
  ITA_expand_aviation_research:0 "Étendre la recherche aérienne"
- ITA_expand_aviation_research_desc:0 "" #WIP
+ ITA_expand_aviation_research_desc:0 "" #//WIP
  ITA_reclaim_antalya:0 "Réclamer Antalya"
- ITA_reclaim_antalya_desc:0 "" #WIP
+ ITA_reclaim_antalya_desc:0 "" #//WIP
  ITA_ally_spain:0 "S'allier à l'Espagne"
- ITA_ally_spain_desc:0 "" #WIP
+ ITA_ally_spain_desc:0 "" #//WIP
  ITA_intervene_in_spain:0 "Intervenir en Espagne"
  ITA_intervene_in_spain_desc:0 "L'échec des nationalistes en Espagne et l'avènement d'un régime d'orientation communiste représente un danger pour la sécurité de toute l'Europe. S'il ne s'effondre pas de l'intérieur, nous le ferons tomber de l'extérieur."
  ITA_approach_portugal:0 "Se rapprocher du Portugal"
- ITA_approach_portugal_desc:0 "" #WIP
+ ITA_approach_portugal_desc:0 "" #//WIP
  ITA_victory_in_ethiopia:0 "Victoire en Éthiopie"
  ITA_victory_in_ethiopia_desc:0 "Après des décennies d'humiliation, nous avons finalement réussi à nous débarrasser des souillures de notre défaite contre l'Éthiopie. Une telle victoire ne peut que renforcer la confiance du peuple dans le gouvernement de Mussolini."
  ITA_the_desillusion_of_fascism:0 "La désillusion du fascisme"
- ITA_the_desillusion_of_fascism_desc:0 "" #WIP
+ ITA_the_desillusion_of_fascism_desc:0 "" #//WIP
  ITA_revive_the_stresa_front:0 "Raviver le Front de Stresa"
  ITA_revive_the_stresa_front_desc:0 "Le Front de Stresa était un accord entre l'Italie, la France et le Royaume-Uni pour préserver l'indépendance de l'Autriche, ainsi que pour réaffirmer le Traité de Versailles. Il est clair que les ambitions de l'Allemagne vont finir par se confronter aux nôtres, aussi devrions-nous nous unir contre elles."
  ITA_revive_the_stresa_front_tt:0 "Nous demanderons au §YRoyaume-Uni§! et à la §YFrance§! de reformer le §YFront de Stresa§! contre l'§YAllemagne§!. Tous deux doivent accepter l'offre, sans quoi la priorité sera §Rabandonnée§!.\n"
@@ -290,9 +290,9 @@
  ITA_the_spanish_question_republican:0 "§YSi les Républicains ont gagné :§!\n"
  ITA_the_spanish_question_nationalists:0 "§gSi les Nationalistes ont gagné :§!\n"
  ITA_claims_in_africa:0 "Revendications en Afrique"
- ITA_claims_in_africa_desc:0 "" #WIP
+ ITA_claims_in_africa_desc:0 "" #//WIP
  ITA_influence_iberia:0 "Influencer l'Ibérie"
- ITA_influence_iberia_desc:0 "" #WIP
+ ITA_influence_iberia_desc:0 "" #//WIP
  ITA_officialize_the_albanian_protectorate:0 "Officialiser le protectorat albanais"
  ITA_formalize_the_albanian_protectorate:0 "Formaliser le protectorat albanais"
  ITA_formalize_the_albanian_protectorate_desc:0 "Sans aller jusqu'à une annexion directe, l'établissement d'une plus grande supervision italienne des prises de décisions politiques en Albanie serait suffisant pour en faire un protectorat officiel, sans attirer la colère des Alliés."
@@ -370,7 +370,7 @@
  ITA_review_the_military_budget:0 "Réviser le budget militaire"
  ITA_review_the_military_budget_desc:0 "Pour soutenir l'armée, nous devons accroître le budget qui lui est alloué."
  ITA_the_new_arditi:0 "Le nouvel Arditi"
- ITA_the_new_arditi_desc:0 "Le "Reparti d'Assalto", aussi appelé "Arditi", était un corps spécial de l'armée italienne durant la Grande Guerre. C'étaient les premières troupes de choc modernes, craintes par toutes les puissances centrales. Avec nombre de ses membres devenus d'importantes figures de l'armée italienne, il serait intéressant d'en reformer un équivalent moderne."
+ ITA_the_new_arditi_desc:0 "Le « Reparti d'Assalto », aussi appelé « Arditi », était un corps spécial de l'armée italienne durant la Grande Guerre. C'étaient les premières troupes de choc modernes, craintes par toutes les puissances centrales. Avec nombre de ses membres devenus d'importantes figures de l'armée italienne, il serait intéressant d'en reformer un équivalent moderne."
  ITA_carro_armato:0 "Carro Armato P 40"
  ITA_carro_armato_desc:0 "La motorisation de notre armée doit être accompagnée de l'usage de chars. La plupart de ceux que nous utilisons remontent à la Grande Guerre, donc nous devons essayer de les tenir à jour."
  ITA_modello_1938:0 "Modello 1938"
@@ -425,9 +425,9 @@
  ITA_victory_in_the_civil_war:0 "Victoire dans la Guerre civile"
  ITA_victory_in_the_civil_war_desc:0 "Nous avons finalement éliminé les traitres fascistes de notre belle nation italienne. La reconstruction prendra du temps, mais nous avançons en sachant que nous avons évite le pire."
  ITA_restore_elections:0 "Rétablir les élections"
- ITA_restore_elections_desc:0 "" #WIP
+ ITA_restore_elections_desc:0 "" #//WIP
  ITA_a_guiding_hand:0 "Une main pour se guider"
- ITA_a_guiding_hand_desc:0 "" #WIP
+ ITA_a_guiding_hand_desc:0 "" #//WIP
  ITA_expand_the_iri_role_desc:0 "Fondé dans le but de sauver, restructurer et financer les banques et compagnies qui ont fait faillite durant la Grande dépression, cette institution s'est retrouvée en possession de nombreuses banques italiennes. Étendre le contrôle de celle-ci à une plus grande part de l'économie en ferait un élément central de notre restructuration économique après la crise."
  ITA_po_valley_mettalurgy:0 "Métallurgie de la vallée du Po"
  ITA_po_valley_mettalurgy_desc:0 "La plaine du Po abrite une grande part de l'industrie italienne, en particulier métallurgique, notamment à Turin et Gênes. Cette industrie est vitale et devrait être soutenue en priorité."
@@ -529,7 +529,7 @@
  ITA_regia_marina_2_desc:0 "Pendant longtemps, le gouvernement italien a mis l'accent sur la modernisation de la Regia Marina, plus que sur l'armée ou l'aviation, dans le but de contrôler totalement la Méditerranée."
  ITA_cavagnari_plan:0 "Plan de Cavagnari"
  ITA_cavagnari_plan_desc:0 "Domenico Cavagnari a été promu chef de la marine en 1933, puis secrétaire de la marine. Il a une approche conservatrice du combat maritime, consistant à produire des croiseurs, destroyeurs et sous-marins."
- ITA_new_navy_leadership:0 "Nouvelle direction maritime" #WIP
+ ITA_new_navy_leadership:0 "Nouvelle direction maritime" #//WIP
  ITA_submarines_suppremacy:0 "Suprématie des sous-marins"
  ITA_appoint_campioni:0 "Nommer Campioni"
  ITA_appoint_campioni_desc:0 "Inigo Campioni serait un bien meilleur chef de la marine. Plutôt que de multiplier les petits navires et sous-marins, le développement des cuirassés devrait être notre priorité."
@@ -555,7 +555,7 @@
  ITA_royal_intervention:0 "Intervention royale"
  ITA_royal_intervention_desc:0 "Nous ne pouvons pas faire confiance au régime fasciste pour mener l'Italie vers la gloire. Les revers subis au début de notre guerre en Éthiopie étaient un signe clair de l'incapacité du parti fasciste à diriger. Nous devons chasser les fascistes et placer le pays sous le contrôle de notre grand roi !"
  ITA_defenders_of_southern_europe:0 "Les défenseurs de l'Europe du Sud"
- ITA_defenders_of_southern_europe_desc:0 "" #WIP
+ ITA_defenders_of_southern_europe_desc:0 "" #//WIP
  ITA_formalise_the_front:0 "Officialiser le front"
  ITA_formalise_the_front_desc:0 "Il est temps de faire du Front de Stresa plus qu'une simple promesse, il est temps d'unir nos nations dans une alliance militaire commune pour tenir la bête allemande à distance."
  ITA_formalise_the_front_tt:0 "§YTous les pays§! qui sont dans la faction [ENG.GetDuDelaDelNP] §Y[ENG.GetName]§! rejoindront le §YFront de Stresa§! dirigé par §Y[ITA.GetNameDef]§!."

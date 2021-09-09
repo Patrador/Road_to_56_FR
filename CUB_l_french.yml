@@ -1,4 +1,5 @@
 ﻿l_french:
+ cuban_focus:0 "Priorités nationales cubaines"
 #give more european portrait
  CUB_generic_communist_revolutionary:0 "Fabio Grobart" 
  CUB_mario_ramirez_delgado:0 "Mario Ramírez Delgado"
@@ -51,19 +52,34 @@
  cuba.9.a:0 "Si nous ne pouvons pas les libérer de l'intérieur, nous le ferons de l'extérieur !"
  cuba.9.b:0 "Nous reviendrons plus tard"
 
+CUB_invite_falangists:0 "Inviter les Phalangistes"
+ CUB_nationalist_influence_over_the_military:0 "Influence nationaliste sur l'armée"
+ CUB_secure_power:0 "Sécuriser le pouvoir"
+ CUB_spanish_civil_war_involvement:0 "Participer à la guerre civile espagnole"
+ CUB_intervene_ACW:0 "Intervenir dans la guerre civile américaine"
+ CUB_state_intervention:0 "Intervention de l'État"
+ CUB_invade_hispaniola:0 "Envahir Hispaniola"
+ CUB_amphibious_equipment:0 "Équipement amphibie"
+ CUB_army_expansion:0 "Expansion de l'armée"
+ CUB_reinforce_the_security_apparatus:0 "Renforcer le système de sécurité"
+ CUB_youth_mobilization:0 "Mobilisation de la jeunesse"
+ CUB_fanatical_commitment:0 "Engagement fanatique"
+ CUB_alliance_with_the_americans:0 "Alliance avec les Américains"
+ CUB_alliance_with_the_central_american_state:0 "Alliance avec l'État d'Amérique centrale"
+ CUB_alliance_with_gran_colombia:0 "Alliance avec la Grande Colombie"
+ CUB_join_spain:0 "Rejoindre l'Espagne"
+ CUB_join_mexico:0 "Rejoindre le Mexique"
+ CUB_join_argentina:0 "Rejoindre l'Argentine"
+ CUB_join_the_reich:0 "Rejoindre le Reich"
+ CUB_alliance_with_italy:0 "Alliance avec l'Italie"
+ CUB_alliance_with_canada:0 "Alliance avec le Canada"
 
-
-
-
-
-
-
-
+ gran_colombia_unifier_tt:0 "Est la §YGrande Colombie§!"
 
 
  CUB_results_of_the_presidential_election:0 "Résultats de l'élection présidentielle"
  CUB_results_of_the_presidential_election_desc:0 "Les résultats des élections sont connus. Et le nouveau président de Cuba est...."
- CUB_presidential_election_flag:0 "L'élection présidentielle a eu lieu"
+ cuba_election_flag_1936:0 "L'élection présidentielle a eu lieu"
  CUB_results_of_the_presidential_election_tt:0 "§ML'élection présidentielle aura lieu le 10 janvier§!"
  CUB_victory_for_gomez:0 "Victoire pour Gómez"
  gomez_inaugurated_flag:0 "Miguel Mariano Gómez a été inauguré président"

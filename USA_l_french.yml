@@ -99,6 +99,14 @@
  r56_j_edgar_hoover_given_army_command:0 "Est actuellement un général"
  USA_three_dimensional_assault_force_tt:0 "§YHolland Smith§! est actuellement un général."
 
+ USA_invite_cuba:0 "Inviter Cuba"
+ USA_invite_cuba_desc:0 "Le gouvernement cubain semble être prêt à collaborer avec nous."
+ USA_invite_synarchist_mexico:0 "Inviter le Mexique synarchiste"
+ USA_invite_synarchist_mexico_desc:0 "La montée du mouvement synarchiste au Mexique offre des opportunités diplomatiques pour unir le continent derrière notre cause."
+ USA_ally_the_new_canada:0 "S'allier au nouveau Canada"
+ USA_ally_the_new_canada_desc:0 "Arcand a réorganisé le Canada et le conduit vers un grand avenir, un avenir à nos côtés, bien sûr."
+
+
  USA_cult_of_washington:0 "Le culte de Washington"
  USA_cult_of_washington_desc:0 "Le fondateur de notre pays doit être un exemple pour nous tous. En tant que militaire fort destiné à la grandeur, il a clairement été le premier fasciste, construisant une république pour tous les vrais Américains grâce à son habileté et à sa volonté de cisaillement."
  USA_celebrate_americas_founder:0 "Célébrer le fondateur des États-Unis d'Amérique"

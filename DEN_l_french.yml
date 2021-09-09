@@ -1,5 +1,5 @@
 ﻿l_french:
-
+ Denmark_focus:0 "Priorités nationales danoises"
  #DANISH REGION ===============================================================================================================================
  
  #Fixed Link
@@ -539,6 +539,9 @@ DEN_support_the_french_workers_desc:0 "Le soutien aux communistes en France est 
 #Free The French Workers
 DEN_free_the_french_workers:0 "Libérer les travailleurs français"
 DEN_free_the_french_workers_desc:0 ""
+
+DEN_unite_scandinavia:0 "Unifier la Scandinavie"
+DEN_unite_scandinavia_desc:0 "Avec les vastes territoires de Scandinavie sous notre domination directe et un contrôle minutieux de [DEN.getLeader], le rêve de réaliser un État unitaire du Nord peut être proclamé comme un rêve désiré ou une réalité effrayante. Tout dépend du point de vue de certains groupes de personnes."
  
  ### DANISH SECTION ###
  

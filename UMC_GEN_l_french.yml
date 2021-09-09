@@ -413,4 +413,27 @@
  abc.1.b:0 "Développer nos plans rapidement."
  
  
- 
+ ####--Technology Bonuses--####                #Apparently they are not showing up, which is a shame (hoped to show them if one looks at tech bonus before researching) #Fantom
+ support_tech_bonus_name:0 "Soutenir les progrès technologiques"
+
+ recon_tech_bonus_name:0 "Progrès de reconnaissance"
+ engineer_tech_bonus_name:0 "Bonus de recherche sur les améliorations techniques"
+ mp_tech_bonus_name:0 "Bonus sur la police militaire"
+ maintenance_company_tech_name:0 "Bonus sur la cie de maintenance"
+ signal_company_tech_bonus_name:0 "Bonus sur la cie de transmission"
+ hospital_company_tech_bonus_name:0 "Amélioration des hôpitaux de campagne"
+ logistics_company_tech_bonus_name:0 "Investissements dans les bataillons logistiques"
+
+ artillery_tech_bonus_name:0 "Bonus sur l'artillerie"
+ antiair_tech_bonus_name:0 "Percée dans la recherche sur la technologie anti-aérienne"
+ mechanization_tech_bonus_name:0 "Avancées dans la recherche sur la mécanisation"
+ motorized_rockets_tech_bonus_name:0 "Avancées technologiques de l'artillerie à roquettes motorisée"
+
+ air_doctrine_tech_bonus_name:0 "Amélioration de la doctrine aérienne"
+ fighter_tech_bonus_name:0 "Proposition de recherche sur les chasseurs"
+
+ naval_doctrine_tech_bonus_name:0 "Bonus d'amélioration de la doctrine navale"
+
+ excavation_tech_bonus_name:0 "Bonus sur la prospection de ressources"
+
+ rocketry_tech_bonus_name:0 "Bonus de percée en fuséologie"

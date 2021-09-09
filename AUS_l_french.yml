@@ -1,5 +1,5 @@
 ﻿l_french:
-
+ australian_focus:0 "Priorités nationales australiennes"
  AUS_gottfried_von_banfield:0 "Gottfried von Banfield" 
 
  #POLITICS
@@ -1335,11 +1335,11 @@ AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
  austria.5039.b:0 "Retirez les troupes, il n'y aura pas de guerre cette année"
 
  austria.5040.t:0 "Les Italiens acceptent notre proposition d'intervention"
- austria.5040.d:0 "Désireux de sauver son pays contre le fascisme républicain, [ITA.GetLeaderName] a accepté de concéder des terres en échange d'une victoire garantie dans la guerre civile."
+ austria.5040.d:0 "Désireux de sauver son pays contre le fascisme républicain, [ITA.GetLeader] a accepté de concéder des terres en échange d'une victoire garantie dans la guerre civile."
  austria.5040.a:0 "Nous sommes en guerre."
 
  austria.5041.t:0 "Les Italiens ont refusé"
- austria.5041.d:0 "Prêt à tout parier sur leur victoire, [ITA.GetLeaderName] a refusé notre proposition de donner certaines terres en échange d'une aide dans leur guerre civile."
+ austria.5041.d:0 "Prêt à tout parier sur leur victoire, [ITA.GetLeader] a refusé notre proposition de donner certaines terres en échange d'une aide dans leur guerre civile."
  austria.5041.a:0 "Nous sommes en guerre." 
  
  #Research
@@ -1400,3 +1400,7 @@ AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
  AUS_purged_ministers_tt:0 "§RNous allons traquer et arrêter tous les agitateurs de droite du gouvernement précédent.§!\n"
 
  AUS_bunkers_1:0 "Préparatifs aux frontières"
+
+ POLITICS_ERNST_RUDIGER_STARHEMBERG_DESC:0 "Membre du Bundesrat et homme politique de premier plan [ROOT.GetAuEnANP] [ROOT.GetName] depuis les années 20, il est également connu pour ses liens avec les fascistes [GER.GetDuDelaDelNP] [GER.GetName]. \n\nSon soutien au putsch de la Brasserie en 1923 et la création du « Väterlängische Front » en 1933 montrent clairement les intérêts et les accommodements de cette personne avec les structures autoritaires et les organisations paramilitaires."
+
+ austrian_focus:0 "Priorités nationales autrichiennes"

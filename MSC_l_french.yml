@@ -370,7 +370,7 @@
  africa_e_events.10:0 "2nd Independence Referendum" 
  africa_e_events.10.t:0 "The 2nd Independence Referendum" 
  africa_e_events.10.desc:0 "Lets see if we managed to unite the people behind our cause, will they vote for independence or not?" 
- africa_e_events.10.a:0 "Lets Vote!"" 
+ africa_e_events.10.a:0 "Lets Vote!"
  africa_e_events.11:0 "[Root.GetAdjective] Civil War" 
  africa_e_events.11.t:0 "[Root.GetAdjective] Civil War" 
  africa_e_events.11.desc:0 "There was not enough interests in making [From.GetName] independent! \nSupporters for Independence declared War against those Colonial Lovers!" 

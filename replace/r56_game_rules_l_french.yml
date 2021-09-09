@@ -11,7 +11,7 @@
  RULE_OPTION_R56_TREE:0 "Arbre des priorités de Road to 56"
  RULE_OPTION_R56_TREE_DESC:0 "Utiliser l'arbre de priorités par défaut de Road to 56 qui est inclu dans le mod."
  RULE_OPTION_STANDARD_TREE:0 "Arbre des priorités standard"
- RULE_OPTION_STANDARD_TREE_DESC:0 "Utiliser l'arbre de priorités standard. Inclut des ajustements et des changements mineurs."
+ RULE_OPTION_STANDARD_TREE_DESC:0 "Utiliser l'arbre de priorités standard qui fait partie du jeu de base ou de son DLC. Si vous ne disposez pas du DLC requis, l'arbre de Road to 56 sera automatiquement chargé à la place."
 
  AST_FOCUS_TREE_SELECTION:0 "@AST Australie"
  GER_FOCUS_TREE_SELECTION:0 "@GER Allemagne"
@@ -218,6 +218,7 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  RULE_OPTION_DEN_DECENTRALIZED:0 "Danemark décentralisé"
  RULE_OPTION_DEN_DECENTRALIZED_DESC:0 "Toutes les nations libérables au Danemark sont libérées en tant que nations fantoches dès le début de la partie."
 
+ SPR_R56_focus_tree:0 "L'arbre de Road to 56 pour l'Espagne est sélectionné."
  SPR_FRAGMENTATION_STATUS:0 "@SPR Division de l'Espagne"
  RULE_OPTION_SPR_FRAGMENTED:0 "Espagne divisée"
  RULE_OPTION_SPR_FRAGMENTED_DESC:0 "Toutes les nations libérables en l'Espagne sont libérées en tant que nations libres et indépendantes dès le début de la partie."
@@ -386,4 +387,8 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  RULE_ALLOW_R56_TECHS_ALLOWED_DESC:0 "L'arbre technologique de recherches spéciales sur les divisions sera disponible."
  RULE_ALLOW_R56_TECHS_BLOCKED_DESC:0 "L'arbre technologique de recherches spéciales sur les divisions ne sera pas disponible."
 
+ STARTING_FACTIONS:0 "Factions de départ" 
+ RULE_OPTION_STARTING_FACTION_DEFAULT_DESC:0 "Les trois factions de départ seront comme d'habitude les Alliés, l'Axe et le Komintern."
+ RULE_OPTION_NO_FACTIONS:0 "Aucune faction de départ"
+ RULE_OPTION_NO_FACTIONS_DESC:0 "Il n'y aura pas de factions au début du jeu, mais la Grande-Bretagne, les États-Unis, l'Allemagne et l'URSS commencent toujours avec la possibilité de former des factions."
  #####-----> End of File <><> <><> <><> <><> <><>

@@ -1,4 +1,7 @@
 ﻿l_french:
+ 
+ industrial_requisition_category:0 "Réquisition industrielle"
+ industrial_requisition_category_desc:0 "Le danger de faire fonctionner des usines dans des territoires occupés pourrait être atténué en déplaçant les machines-outils dans notre pays. Bien que cela réduise le risque de sabotage, cela convaincra probablement une partie de la population de nous résister." 
  seize_machine_toolings_in_state:0 "Saisir des machines-outils [FROM.GetAuEnANP] [FROM.GetName]"
 
  the_return_of_the_old_guard_category:0 "Le retour de la Vieille Garde"

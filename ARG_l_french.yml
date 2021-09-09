@@ -1,4 +1,6 @@
 ﻿l_french:
+ argentinian_focus:0 "Priorités nationales argentines"
+
  ARG_spanish_civil_war_involvement:0 "Participer à la guerre civile espagnole"
  ARG_spanish_civil_war_involvement_desc:0 "Nous ne pouvons pas laisser nos frères espagnols se battre et ne pas nous impliquer d'une manière ou d'une autre."
  r56_ARG_spanish_civil_war_involvement:0 "Participer à la guerre civile espagnole"
@@ -47,4 +49,4 @@
  ARG_paraguay_claim_threat:0 "L'Argentine a revendiqué des territoires du Paraguay"
  ARG_bolivia_claim_threat:0 "L'Argentine a revendiqué la Bolivie"
  ARG_chile_claim_threat:0 "L'Argentine a revendiqué le Chili"
- ARG_brazil_puppet_threat:0 "L'Argentine cherche la supériorité sur le Brésil"
+ ARG_brazil_puppet_threat:0 "L'Argentine a annoncé ses ambitions supérieures à celles du Brésil"

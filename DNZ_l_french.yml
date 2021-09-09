@@ -1,8 +1,11 @@
 ﻿l_french:
+ danzig_focus:0 "Priorités nationales de Dantzig"
 
  form_prussia_category:0 "Former la Prusse"
  form_prussia_category_desc:0 "L'histoire de Dantzig est largement mêlée à celle de la Prusse. Maintenant que nous contrôlons les territoires qui lui sont historiquement associés, il est peut-être temps pour nous d'assumer notre héritage prussien."
  form_prussia:0 "Former la Prusse"
+
+ DNZ_join_germany:0 "Rejoindre l'Allemagne"
 
  r56_DNZ_prussia_legacy:0 "Dantzig a déclaré son indépendance"
 
@@ -154,3 +157,7 @@
  danzig.5.d:0 "[DNZ.Getleader] a fait une annonce choquante aujourd'hui en déclarant que le gouvernement de la ville était indépendant de la [POL.GetDuDelaDelNP] [POL.GetName]. Prétendant désormais être la continuation de la Prusse, le pays longtemps défunt. Il reste à voir si cette folle expérience va durer, ou si des pays voisins vont intervenir.\n\nPour l'instant, la petite ville est isolée. Le sort futur de Dantzig est incertain."
  danzig.5.a:0 "Ont-ils perdu la raison ?"
  danzig.5.b:0 "Nous allons de l'avant."
+
+ danzig.6.t:0 "Le gouvernement de Dantzig rejoint [GER.GetNameDef]"
+ danzig.6.desc:0 "[DNZ.GetLeader] a annoncé aujourd'hui que la ville de Dantzig est indépendante [POL.GetDuDelaDelNP] [POL.Getname]. Au lieu de cela, ils ont déclaré que la ville libre avait l'intention de rejoindre [GER.GetNameDef]. Il a clairement invité [GER.GetLeader] à envoyer des troupes pour sécuriser le territoire."
+ danzig.6.a:0 "Quelle surprise..."

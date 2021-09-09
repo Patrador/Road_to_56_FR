@@ -103,25 +103,43 @@
  JAP_finance_the_naval_arsenals_desc:0 "Afin de garantir la sécurité de l'océan Pacifique, une marine plus importante est nécessaire."
  JAP_increased_repair_capabilities:0 "Accroître les capacités de réparation"
  JAP_increased_repair_capabilities_desc:0 "Notre marine ne peut être efficace que si elle est réparée rapidement et efficacement, en reprenant son service de combat avant que l'ennemi n'endommage les navires."
+ 
+ JAP_trans_pacific_alliance:0 "Amitié transpacifique"
+ JAP_trans_pacific_alliance_desc:0 "Les tensions entre [JAP.GetNameDefCap] et les États-Unis ont été élevées ces derniers temps, mais avec notre nouveau gouvernement et notre nouveau mode de vie, il est désormais naturel que nous nous alliions avec eux afin que nos deux nations puissent former un front digne de défendre le monde démocratique."
 
+ JAP_subsidise_the_zaibatsus:0 "Subventionner les zaibatsus"
+ JAP_subsidise_the_zaibatsus_desc:0 ""
+
+ JAP_expand_kobe_steel_works:0 "Développer l'usine sidérurgique de Kobé"
+ JAP_expand_kobe_steel_works_desc:0 "Pour soutenir notre développement industriel national et militaire, nous devons accroître la production d'acier à Kobé, ce qui nous donnera les ressources nécessaires pour atteindre nos objectifs."
+
+ JAP_preemptive_strike_soviet:0 "Frappe préventive"
+ JAP_preemptive_strike_soviet_desc:0 ""
+
+
+ JAP_crush_chinese_communists:0 "Écraser les communistes chinois"
+ JAP_crush_chinese_communists_desc:0 "Les dirigeants communistes illégitimes de la Chine constituent une menace massive pour l'Asie de l'Est, mais aussi pour le monde entier. Ils doivent être anéantis avant de pouvoir faire des dégâts !"
+
+
+ JAP_trans_pacific_faction:0 "Traité transpacifique"
 
  ##Fixed
 
- JAP_nav_bomber_equipment_1:0 " Nakajima B5N"
- JAP_nav_bomber_equipment_1_short:0 "B5N"
- JAP_nav_bomber_equipment_2:0 " Nakajima B6N"
- JAP_nav_bomber_equipment_2_short:0 "B6N" 
- JAP_nav_bomber_equipment_3:0 " Aichi B7A"
- JAP_nav_bomber_equipment_3_short:0 "B7A"
+ #JAP_nav_bomber_equipment_1:0 " Nakajima B5N"
+ #JAP_nav_bomber_equipment_1_short:0 "B5N"
+ #JAP_nav_bomber_equipment_2:0 " Nakajima B6N"
+ #JAP_nav_bomber_equipment_2_short:0 "B6N" 
+ #JAP_nav_bomber_equipment_3:0 " Aichi B7A"
+ #JAP_nav_bomber_equipment_3_short:0 "B7A"
 
  
 #Maritme bombers
- JAP_flying_boat_equipment_equipment_1:0 " G3M1 Model 11"
- JAP_flying_boat_equipment_1_short:0 "G3M1" 
- JAP_flying_boat_equipment_2:1 " Mitsubishi G4M"
- JAP_flying_boat_equipment_2_short:1 "G4M"
- JAP_flying_boat_equipment_3:1 " Yokosuka P1Y Ginga"
- JAP_flying_boat_equipment_3_short:1 "P1Y Ginga"
+ #JAP_flying_boat_equipment_equipment_1:0 " G3M1 Model 11"
+ #JAP_flying_boat_equipment_1_short:0 "G3M1" 
+ #JAP_flying_boat_equipment_2:1 " Mitsubishi G4M"
+ #JAP_flying_boat_equipment_2_short:1 "G4M"
+ #JAP_flying_boat_equipment_3:1 " Yokosuka P1Y Ginga"
+ #JAP_flying_boat_equipment_3_short:1 "P1Y Ginga"
  
  JAP_redesign_the_naval_guns:0 "Modifier les canons de la marine"
  JAP_redesign_the_naval_guns_desc:0 "Afin de permettre la suprématie de nos navires, des canons modernes doivent être conçus, améliorant la portée et l'efficacité de nos honorables flottes."

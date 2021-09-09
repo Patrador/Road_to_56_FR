@@ -56,6 +56,9 @@
  #manufacturers
  apollo:0 "Apollo" 
  zvolen_railway_factory:0 "Zvolen Railway Factory"
+
+ #Additional localization
+ slovak_autonomy:0 "Coopération intensifiée avec le suzerain."
  
  #slovakia political tree
  SLO_found_the_nation:0 "Fonder la nation"

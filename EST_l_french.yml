@@ -1,4 +1,6 @@
 ﻿l_french:
+ estonian_focus:0 "Priorités nationales estoniennes"
+
  est.1.t:0 "Invitation de l'Estonie"
  est.1.d:0 "Suite au resserrement des tensions en Europe, l'Estonie appelle maintenant à une alliance défensive entre les États du Soumi-Ugri. Mais cela ne va pas sans ses opposants. Le consensus général au sein du cabinet de [Root.GetLeader] est que notre pays peut facilement se défendre contre toutes les menaces extérieures. Que ce soit pour que le cas improbable de l'éclatement d'une nouvelle Grande Guerre."
  est.1.a:0 "Accepter"

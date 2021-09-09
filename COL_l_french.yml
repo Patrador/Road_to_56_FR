@@ -1,5 +1,5 @@
 ﻿l_french:
-
+ colombian_focus:0 "Priorités nationales colombiennes"
  # New stuff
  COL_jose_maria_melo:0 "Jose Maria Melo " 
  COL_jose_padilla:0 "Jose Padilla"
@@ -257,7 +257,7 @@
  COL_carriers_effort_desc:0 "La nation qui a le plus de porte-avions régnera sur les océans. Les porte-avions représentent la nouvelle supériorité navale."  
  COL_armor_support:0 "Gestion de l'approvisionnement"
  COL_armor_support_desc:0 "Apprends juste à ne pas trop en faire. Le manque d'approvisionnement peut être mortel."  
- COL_axis_leanings_focus:0 "Se rapprocher de l'Allemagne"
+ COL_axis_leanings_focus:0 "Se rapprocher des fascistes"
  COL_axis_leanings_focus_desc:0 "L'Axe apporte des avantages technologiques."   
  COL_axis_leanings_focus_2:0 "Commerce avec Allemagne"
  COL_axis_leanings_focus_2_desc:0 "Plus de techniciens au détriment de certaines exportations."  

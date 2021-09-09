@@ -18,7 +18,7 @@
 
  prc_eliminate_iliteracy_tt:0 "Nous allons progressivement recevoir du personnel plus qualifié."
 
- PRC_zxl_will_become_leader_if_agree:0 "§YZhang Xueliang deviendra le dirigeant de la Grande Union du Nord-Ouest s'il l'accepte.\n§!"
+ PRC_zxl_will_become_leader_if_agree:0 "§YZhang Xueliang deviendra le dirigeant de la Grande Union du Nord-Ouest dès que la priorité correspondante sera terminée.\n§!"
 
  prc_preserve:0 "Active §HAuto-préservation§!\nToute l'infanterie : \n    Rétablissement : §G+1%§!\n    Perte d'expérience : §G-1.5%§!"
 
@@ -299,17 +299,17 @@
 
  ################## THEORISTS ########################
  PRC_chen_duxiu:0 "Chen Duxiu"
- PRC_he_zhuguo:0 "He Zhuguo"何柱國
- PRC_mazhanshan:0 "Ma Zhanshan"馬占山
- PRC_yang_hu_cheng:0 "Yang Hucheng"楊虎城
- PRC_xu_lanzhou:0 "Xu Lanzhou"許蘭州
- PRC_wang_tehan:0 "Wang Tiehan"王鐵漢
+ PRC_he_zhuguo:0 "He Zhuguo" #何柱國
+ PRC_mazhanshan:0 "Ma Zhanshan" #馬占山
+ PRC_yang_hu_cheng:0 "Yang Hucheng" #楊虎城
+ PRC_xu_lanzhou:0 "Xu Lanzhou" #許蘭州
+ PRC_wang_tehan:0 "Wang Tiehan" #王鐵漢
  PRC_zxl_navy:0 "Zhang Xueliang"
  PRC_zxl_air:0 "Zhang Xueliang"
- PRC_liu_duo_quan:0 "Liu Duoquan"劉多荃
- PRC_yu_xue_zhong:0 "Yu Xuezhong"于學忠
- PRC_li_bo_hai:0 "Li Bohai"李渤海
- PRC_deng_bao_shan:0 "Deng Baoshan"鄧寶珊
+ PRC_liu_duo_quan:0 "Liu Duoquan" #劉多荃
+ PRC_yu_xue_zhong:0 "Yu Xuezhong" #于學忠
+ PRC_li_bo_hai:0 "Li Bohai" #李渤海
+ PRC_deng_bao_shan:0 "Deng Baoshan" #鄧寶珊
  PRC_lin_biao_theorist:0 "Lin Biao"
 
 
@@ -405,7 +405,7 @@
  PRC_recover_from_the_long_march_desc:0 "La Longue Marche nous a coûté cher, nous devons commencer à nous rétablir avant que le Kuomintang n'en profite !"
 
  PRC_anti_japanese_aim:0 "Objectif antijaponais"
- PRC_anti_japanese_aim_desc:0 "Les envahisseurs japonais sont à nos portes, nous devons en faire le centre de notre plan afin de les vaincre."
+ PRC_anti_japanese_aim_desc:0 "Les envahisseurs japonais sont à nos portes, nous devons nous concentrer sur la préparation d'une stratégie de défense contre eux."
 
  PRC_west_expedition:0 "Organiser l'expédition à l'Ouest"
  PRC_west_expedition_desc:0 "Si nous pouvons ouvrir une route pour que les Soviétiques nous envoient du ravitaillement, notre révolution se déroulera beaucoup plus facilement. Cependant, la clique des Ma est sur notre chemin, nous devons nous en débarrasser."
@@ -413,14 +413,14 @@
  PRC_approach_the_front:0 "Approcher le front"
  PRC_approach_the_front_desc:0 "Nous devons prendre notre propre initiative pour repousser les envahisseurs japonais ! Nous ne pouvons pas compter uniquement sur les seigneurs de guerre et le Kuomintang."
  
- PRC_supply_line_from_sov:0 "Ravitaillement depuis l'Union soviétique"
+ PRC_supply_line_from_sov:0 "Approvisionnements soviétiques"
  PRC_supply_line_from_sov_desc:0 "Avec la route maintenant ouverte, le ravitaillement et les renforts soviétiques peuvent arriver beaucoup plus facilement."
  
  PRC_front_line_preparation:0 "Préparation de la ligne de front"
  PRC_front_line_preparation_desc:0 "Nous devons préparer nos positions en première ligne, rendre nos soldats plus organisés contre les impérialistes japonais."
  
  PRC_boost_the_morale:0 "Améliorer le moral"
- PRC_boost_the_morale_desc:0 "Les défaitistes dans nos rangs sont sans aucun doute nuisibles, nous devons leur montrer la preuve que nous avons une chance de gagner, mais cela ne les convaincra pas tous."
+ PRC_boost_the_morale_desc:0 "Les défaitistes dans nos rangs sont sans aucun doute nuisibles, nous devons essayer de les faire sortir de cet état d'esprit."
  
  PRC_prepare_for_war:0 "Se préparer à la guerre"
  PRC_prepare_for_war_desc:0 "La guerre avec les Japonais est apparemment inévitable, nous devons nous y préparer !"
@@ -596,8 +596,8 @@
  PRC_rectification:0 "Mouvement de rectification"
  PRC_rectification_desc:0 "Certains de nos camarades ne suivent pas entièrement les directives du communisme, nous devons corriger leur façon de penser." 
 
- PRC_increase_credibility_of_theory:0 "Accroître la crédibilité de la doctrine"
- PRC_increase_credibility_of_theory_desc:0 "La guerre se déroulant bien pour nous, cela peut servir de preuve pour renforcer la crédibilité de la théorie que nous avons récemment adoptée."
+ PRC_increase_credibility_of_theory:0 "Accroître la confiance dans la doctrine"
+ PRC_increase_credibility_of_theory_desc:0 "Les efforts de guerre ayant été couronnés de succès, nous devrions accroître la confiance dans nos nouvelles théories."
 
  PRC_front_line_behind_enemy_line:0 "La ligne de front derrière l'ennemi"
  PRC_front_line_behind_enemy_line_desc:0 "Si nous voulons utiliser pleinement le potentiel de la guérilla, nous devons établir des opérations derrière la ligne de front de notre ennemi, perturber leur route de ravitaillement et les ralentir."
@@ -1063,8 +1063,8 @@
  prc.55.d:0 "Zhang a refusé de faire avancer le plan de la Grande Union du Nord-Ouest. Maintenant que nous avons décidé des choses de notre côté, nous devrions essayer de convaincre Zhang que tout est bien préparé."
  prc.55.a:0 "Débarrassons-nous de lui, il ne fera que ralentir notre progression."
  prc.55.b:0 "Acceptons son idée de ne pas s'opposer au [CHI.GetRulingParty]."
- prc.55.c:0 "Lui offrir une place dans notre parti comme il le souhaitait."
- prc.55.e:0 "Attendons qu'il change d'avis."
+ prc.55.c:0 "Menacer de le livrer au Kuomintang."
+ prc.55.e:0 "Nous serons bien sans lui."
 
  prc.56.t:0 "Assassinat de Zhang Xueliang"
  prc.56.d:0 "Nous avons découvert que Zhang Xueliang a été assassiné. Il a été abattu de plusieurs balles dans la tête et la poitrine, certains ont suggéré que c'était l'œuvre des communistes. Pourtant, le coupable n'a toujours pas été trouvé."
@@ -1074,10 +1074,6 @@
  prc.57.t:0 "Zhang a accepté"
  prc.57.d:0 "Après mûre réflexion, Zhang Xueliang a décidé de rejoindre la Grande Union du Nord-Ouest. Il assumera le leadership une fois que nous aurons sécurisé la province du Gansu et formé officiellement la GUN."
  prc.57.a:0 "Comme prévu."
-
- prc.58.t:0 "Zhang a refusé"
- prc.58.d:0 "Même si nous essayons de le convaincre avec plus de preuves, Zhang refuse toujours de faire avancer son plan. Nous sommes maintenant seuls."
- prc.58.a:0 "Peu importe."
 
  prc.59.t:0 "[From.GetNameDef] [From.GetAOntNP] rejeté notre proposition"
  prc.59.d:0 "[From.GetLeader] a rejeté notre proposition, déclarant que nous devrions travailler avec le [CHI.GetRulingParty] au lieu de le combattre."
@@ -1112,7 +1108,7 @@
  prc.65.b:0 "Ce n'est pas nécessaire."
 
  prc.67.t:0 "Un message [From.GetDuDelaDelNP] [From.GetName]"
- prc.67.d:0 "[From.GetNameDef] [From.GetAOntNP] envoyé des représentants pour rencontrer [Root.GetLeader], exigeant que nous leur cédions Suiyuan. En échange, ils nous offriront de rejoindre [From.GetFaction] et quelques aides dans l'industrie."
+ prc.67.d:0 "[From.GetNameDef] [From.GetAOntNP] envoyé des représentants pour rencontrer [Root.GetLeader], exigeant que nous leur cédions Suiyuan. En échange, ils nous offriront de rejoindre [From.GetFactionName] et quelques aides dans l'industrie."
  prc.67.a:0 "Cela semble raisonnable."
  prc.67.b:0 "Même pas dans leurs rêves les plus fous !"
 
@@ -1156,7 +1152,7 @@
  prc.76.a:0 "À quoi pensent-ils ?"
 
  prc.77.t:0 "[From.GetNameDef] s'excus[From.GetEEntNP]"
- prc.77.d:0 "Bien qu'ils aient défié notre ordre en formant [From.GetFaction], ils sont maintenant techniquement dans un front uni avec [CHI.GetNameDef], ce qui est ce que nous voulons qu'ils réalisent. Ils nous ont maintenant envoyé des excuses et veulent que nous oubliions leur « mauvaise conduite » précédente."
+ prc.77.d:0 "Bien qu'ils aient défié notre ordre en formant [From.GetFactionName], ils sont maintenant techniquement dans un front uni avec [CHI.GetNameDef], ce qui est ce que nous voulons qu'ils réalisent. Ils nous ont maintenant envoyé des excuses et veulent que nous oubliions leur « mauvaise conduite » précédente."
  prc.77.a:0 "Eh bien..."
  prc.77.b:0 "Je n'ai jamais vu de gens aussi stupides !"
 
@@ -1233,7 +1229,7 @@
  prc.102.a:0 "Cela pourrait assurer notre survie."
  prc.102.b:0 "Sore wa inbou desu."
 
- prc.103.t:0 "[From.GetFaction] établie"
+ prc.103.t:0 "[From.GetFactionName] établie"
  prc.103.d:0 "[From.GetNameDef] [From.GetAOntNP] accepté de former l'OPPO : nous sommes désormais unis."
  prc.103.a:0 "Glorieux !"
 
@@ -1241,8 +1237,8 @@
  prc.104.d:0 "[From.GetNameDef] [From.GetAOntNP] refusé de former l'OPPO."
  prc.104.a:0 "C'est bien dommage"
 
- prc.105.t:0 "[From.GetFaction] a lancé un coup d'État"
- prc.105.d:0 "Un coup d'État soutenu par [From.GetFaction] vient de commencer !"
+ prc.105.t:0 "[From.GetFactionName] a lancé un coup d'État"
+ prc.105.d:0 "Un coup d'État soutenu par [From.GetFactionName] vient de commencer !"
  prc.105.a:0 "Qu'ils soient maudits !"
 
  prc.106.t:0 "La trahison [From.GetDuDelaDelNP] [From.GetName]"
@@ -1289,7 +1285,7 @@
  prc.117.a:0 "Ils périront en même temps que [CHI.GetLeader] !"
  
  prc.120.t:0 "Une invitation de [From.GetLeader]"
- prc.120.d:0 "Avec l'établissement de [From.GetFaction], [From.GetLeader] a envoyé une invitation à [Root.GetLeader], espérant que nous pourrions suivre leur voie."
+ prc.120.d:0 "Avec l'établissement de [From.GetFactionName], [From.GetLeader] a envoyé une invitation à [Root.GetLeader], espérant que nous pourrions suivre leur voie."
  prc.120.a:0 "Bonne idée."
  prc.120.b:0 "Nous n'avons pas besoin d'eux."
 
@@ -1298,7 +1294,7 @@
  prc.121.a:0 "Fantastique !"
 
  prc.122.t:0 "[From.GetNameDef] [From.GetAOntNP] refusé"
- prc.122.d:0 "[From.GetLeader] a refusé de se joindre à [Root.GetFaction], affirmant qu'ils peuvent faire mieux par eux-mêmes."
+ prc.122.d:0 "[From.GetLeader] a refusé de se joindre à [Root.GetFactionName], affirmant qu'ils peuvent faire mieux par eux-mêmes."
  prc.122.a:0 "Sales arrogants !"
 
  prc.123.t:0 "Envoyer une invitation à [SIK.GetLeader] ?"
