@@ -23,7 +23,7 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  GER_aux_police_SS:0 "Utiliser la SS comme police auxiliaire"
  GER_aux_police_SS_desc:0 "Le rôle de la SS peut naturellement s'étendre à la sphère civile, tant en Grande Allemagne que dans les territoires occupés. Il faut espérer qu'ils pourront faire face aux menaces partisanes et terroristes qui pèsent sur les troupes de la Wehrmacht."
  GER_elite_soldiers_SS:0 "Utiliser la SS sur la ligne de front"
- GER_elite_soldiers_SS_desc:0 "The special training and teaching of SS soldiers make them much better than normal units in roles that require more dedication and loyalty to the väterland."
+ GER_elite_soldiers_SS_desc:0 "L'entraînement et l'enseignement spéciaux des soldats SS les rendent bien meilleurs que les unités normales dans des rôles qui exigent plus de dévouement et de loyauté envers la väterland."
  GER_combine_SS_gestapo:0 "Combiner la SS et la Gestapo"
  GER_combine_SS_gestapo_desc:0 "L'association des SS et de la Gestapo nous donnera une force capable non seulement de mener des opérations militaires, mais aussi des opérations de maintien de la paix et de lutte contre le terrorisme."
  GER_purge_political_opponents:0 "Purger les opposants politiques"
@@ -113,7 +113,7 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  GER_war_with_spain_desc:0 "La sécurisation de l'Espagne nous donnera une position tactique en Méditerranée, nous permettra de sécuriser plus facilement Gibraltar et nous donnera un moyen rapide de nous rendre en Afrique."
  GER_foreign_volunteers:0 "Accepter les volontaires étrangers"
  GER_support_military_research:0 "Soutenir la recherche militaire"
- GER_support_military_research_desc:0 "La technologie nous apportera la victoire finale" 
+ GER_support_military_research_desc:0 "La technologie nous apportera la victoire finale"
  GER_foreign_volunteers_desc:0 "De nombreuses personnes de pays étrangers sont d'accord avec nos politiques et nos positions, au point d'être prêtes à se battre pour nous. Nous n'aurions pas été ouverts à cela auparavant, mais nous pourrions certainement utiliser davantage de main-d'œuvre à ce stade de la guerre."
  GER_political_sphere:0 "Ouvrir la sphère politique allemande"
  GER_political_sphere_desc:0 "Après l'élection d'Hitler et la consolidation du pouvoir par le NSDAP, il est temps d'ouvrir la sphère politique au changement. Soit nous continuerons sur la voie du Führer, soit nous trouverons une nouvelle voie à suivre."
@@ -204,7 +204,7 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  GER_support_autarks_II:0 "Des autarciques au gouvernement"
  GER_support_autarks_II_desc:0 "Donner aux autarciques des sièges au gouvernement leur permettra de faire avancer leurs politiques plus efficacement."
  GER_jet_research:0 "Financer la recherche sur les avions à réaction"
- GER_jet_research_desc:0 "The Jet engine will hurl us into a new age of warfare, allowing us to bombard our enemies with uncanny precision and dominate the skies above Germany, or so our scientists say."
+ GER_jet_research_desc:0 "Le moteur à réaction nous propulsera dans une nouvelle ère de la guerre, nous permettant de bombarder nos ennemis avec une précision étonnante et de dominer le ciel de l'Allemagne, du moins c'est ce que disent nos scientifiques."
  GER_volksgemeinschaft:0 "Soutenir la Volksgemeinschaft"
  GER_volksgemeinschaft_desc:0 "La Volksgemeinschaft, ou « communauté populaire », contribuera à l'unification et à l'autonomisation des peuples germaniques d'Europe et du monde."
  GER_deutsche_arbeitsfront:0 "Créer le Deutsche Arbeitsfront"
@@ -241,6 +241,10 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  GER_support_freikorps_desc:0 "En soutenant le Freikorps, nos militaires bénéficieront d'un soutien plus populaire, ce qui facilitera le recrutement de civils. Mais cela rendra inévitablement plus difficile le respect des normes professionnelles."
  GER_gott_mit_uns:0 "Gott mit uns"
  GER_gott_mit_uns_desc:0 "Une devise impériale, l'expression de la volonté religieuse, politique et ethnique allemande. L'unité de l'autel, du trône et du Volk."
+ GER_alliance_with_austria_hungary:0 "Alliance avec l'Autriche-Hongrie"
+ GER_alliance_with_austria_hungary_desc:0 "La grande alliance qui nous lie aux Habsbourg doit être restaurée."
+ GER_alliance_with_the_ottomans:0 "Alliance avec l'Empire ottoman"
+ GER_alliance_with_the_ottomans_desc:0 "Comme nous, les Ottomans ont été maltraités par l'Entente à la fin de la Weltkrieg. Il est temps de restaurer ensemble notre place dans le monde."
  GER_draft_new_constitution:0 "Rédiger une nouvelle constitution"
  GER_draft_new_constitution_desc:0 "Afin de garantir l'unité nationale et d'empêcher les extrémistes de prendre le pouvoir, nous devons veiller à ce que notre monarchie soit responsable sur le plan constitutionnel et démocratique. Ce n'est qu'alors que le Quatrième Reich deviendra un modèle à suivre pour le reste du monde."
  GER_prioritize_infrastructure:0 "Priorité aux infrastructures"
@@ -279,7 +283,7 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  GER_8_factor_desc:0 "Passer à 8 facteurs rendra notre cryptage sûrement impossible à déchiffrer !"
  GER_demmand_northern_schleswig:0 "Demander le Schleswig du Nord"
  GER_demmand_northern_schleswig_desc:0 "Le Schleswig du Nord nous a été pris et donné aux Danois dans le traité de Versailles. Nous devons exiger la restitution de ces terres !"
- 
+
  #Ideas
  GER_foreign_volunteers_idea:0 "Volontaires étrangers"
  GER_establish_SS_idea:0 "SS créée"
@@ -340,8 +344,8 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  GER_prioritize_military_industry_idea:0 "Priorisation des industries militaires"
  GER_prioritize_defensive_construction_idea:0 "Priorité aux constructions défensives"
  GER_return_scientists_idea:0 "Scientifiques dispensés du service militaire"
- GER_volkssturm_idea:0 "Le Volkssturm"                         
- 
+ GER_volkssturm_idea:0 "Le Volkssturm"
+
  erwache.1.t:0 "Nomination de postes économiques"
  erwache.1.d:0 "Nous avons deux possibilités de nomination pour les postes de président de la Reichsbank et de ministre de l'économie. L'un des candidats possibles, Hjalmar Schacht, est très doué pour travailler avec les entreprises allemandes et développer les infrastructures civiles, mais son manque de loyauté envers le NSDAP et son refus des dépenses militaires font de lui un choix inquiétant. Notre deuxième candidat possible, Walther Funk, est très loyal envers le NSDAP et est un partisan majeur des dépenses militaires. Si nous voulons que la reprise allemande progresse de manière satisfaisante, nous devons choisir l'un de ces deux hommes pour diriger notre économie."
  erwache.1.a:0 "Hjalmar Schacht"
@@ -366,7 +370,7 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  erwache.7.d:0 "L'Union soviétique a reçu une proposition de traité pour mettre fin à la guerre germano-soviétique à l'Est. Le traité prévoyait de céder aux Allemands plusieurs territoires occidentaux occupés par l'Union soviétique en échange de la paix. Ces termes sont similaires à ceux du traité de Brest-Litovsk, qui a mis fin au conflit germano-soviétique pendant la Première Guerre mondiale."
  erwache.7.a:0 "Rejetons les conditions !"
  erwache.7.b:0 "Acceptons les conditions."
- 
+
  germany.1002.t:0 "Le premier arbitrage de Vienne"
  germany.1002.d:0 "Les Hongrois sont l'un des peuples qui ont le plus souffert après la Grande Guerre. Lors du massacre de l'Empire austro-hongrois, de nombreux Hongrois se sont retrouvés bloqués en terre étrangère alors que leurs ancêtres y vivaient depuis longtemps. Nous pourrions améliorer considérablement nos relations avec la Hongrie en leur accordant des territoires de Tchécoslovaquie."
  germany.1002.a:0 "Donnons-leur le sud de la Slovaquie !"
@@ -374,7 +378,7 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  germany.1002.c:0 "La Slovaquie mérite de le garder."
  r56_GER_first_vienna_award_tt:0 "§RSelon votre choix, le Premier arbitrage de Vienne sera déclenché si la Hongrie ne possède pas le sud de la Slovaquie.§!"
  r56_GER_first_vienna_award_II_tt:0 "§RCe choix déclenchera le premier arbitrage de Vienne juste après si la Hongrie ne possède pas le sud de la Slovaquie.§!"
- 
+
  erwache_news.1.t:0 "L'Espagne refuse les demandes allemandes !"
  erwache_news.1.d:0 "L'Espagne a officiellement refusé la demande allemande d'une « occupation défensive » du pays. L'Espagne est maintenant entrée en guerre contre l'Allemagne, en ralliant ses forces militaires vers la frontière."
  erwache_news.1.a:0 "Nous nous battrons !"
@@ -388,11 +392,11 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  stubborn:0 "Têtu"
  restoring_monarchist:0 "L'ancien Kaiser"
  new_monarchist:0 "Un nouveau Kaiser"
- 
+
  GER_blohm_und_voss_aviation:0 "Blohm & Voss"
  GER_deschimag:0 "Deschimag"
  GER_vereinigte_stahlwerke:0 "Vereinigte Stahlwerke"
- 
+
  #spicyedits
 
  #reinhard_heydrich:0 "Reinhard Heydrich"
@@ -432,7 +436,6 @@ GER_operation_bolivar_desc:0 "Les différentes communautés d'exilés en Amériq
 GER_venezuela_friend:0 "Obtenir l'allégeance des Vénézuéliens"
 GER_venezuela_friend_desc:0 "Les Vénézuéliens ont déjà montré de la sympathie pour notre cause, peut-être qu'un peu de bonne diplomatie pourrait les faire pencher en notre faveur, eux et leurs champs de pétrole."
 
-
  # Events to kill Hitler
 
  r56_kill_hitler.1.t:0 "Hitler tué dans une explosion"
@@ -440,26 +443,26 @@ GER_venezuela_friend_desc:0 "Les Vénézuéliens ont déjà montré de la sympat
  r56_kill_hitler.1.a:0 "Un coup d'État ?"
  r56_kill_hitler.2.t:0 "Le Chancelier allemand abattu !"
  r56_kill_hitler.2.desc:0 "\nAlors qu'il prononçait un discours lors d'un de ses rassemblements typiques, Adolf Hitler, le chancelier allemand, a été attaqué par un groupe d'Hitmen armés de mitraillettes.  En quelques secondes, ils ont dévasté la tribune avec une rafale de balles avant de s'enfuir, tuant et blessant plusieurs gardes SS au passage."
- r56_kill_hitler.2.a:0 "Un coup d'État ?" 
+ r56_kill_hitler.2.a:0 "Un coup d'État ?"
  r56_kill_hitler.3.t:0 "Hitler tué dans l'attaque d'un artiste martial !"
  r56_kill_hitler.3.desc:0 "Le concours du rallye de la nuit dernière à Berlin a été interrompu par l'arrivée sur scène d'un inconnu qui a invité les Führer à le combattre. Hitler a arrêté les gardes du corps avant de révéler qu'il était le Führer du Kung et qu'il savait qu'un maître de Kung Fu tenterait un jour de le défier. L'homme mystérieux se présenta sous le nom de Brandson Lee avant d'attaquer le Chancelier allemand avec la colère d'un tigre. Le duel a duré plusieurs minutes. Les coups étaient apparemment si rapides qu'il était difficile de suivre l'action, mais soudain l'intrus planta sa main dans la poitrine du Führer. Le Führer a laissé échapper un seul souffle avant de s'effondrer sur le sol. Les SS ont alors tiré sur l'assassin, mais celui-ci a réussi à esquiver plusieurs balles et à en arrêter d'autres à mains nues avant de s'échapper par une porte latérale, tranchant ainsi plusieurs sentinelles."
  r56_kill_hitler.3.a:0 "Un coup d'État ?"
  r56_kill_hitler.4.t:0 "L'avion d'Hitler s'est écrasé !"
  r56_kill_hitler.4.desc:0 "\nUn rapport officiel a confirmé que l'épave de l'avion qui s'est écrasé peu après le décollage de l'aéroport de Tempelhoff est bien l'avion privé du Führer qui était à bord à ce moment-là. Il semble qu'une bombe ait été introduite clandestinement à bord par des officiers complices, car une mutinerie générale semble engloutir tout le Reich."
- r56_kill_hitler.4.a:0 "Un coup d'État ?"    
+ r56_kill_hitler.4.a:0 "Un coup d'État ?"
  r56_kill_hitler.5.t:0 "La Chancellerie anéantie par une explosion !"
  r56_kill_hitler.5.desc:0 "Hier soir, un grand bruit et une énorme explosion ont dévasté le bureau d'Adolf Hitler à la chancellerie du Reich à Berlin. Les gardes du corps étaient impuissants et ne pouvaient voir que les morceaux restants de son uniforme et la croix de fer qui brillait parmi les cendres fumantes."
  r56_kill_hitler.5.a:0 "Un coup d'État ?"
  r56_kill_hitler.6.t:0 "Hitler tué par Hitman à Obersalzberg !"
  r56_kill_hitler.6.desc:0 "\nUn communiqué surprenant a confirmé les rumeurs selon lesquelles le Chancelier allemand Adolf Hitler a été tué alors qu'il se reposait dans sa villa alpine. Touché à la tête par une seule balle tirée de loin, il est clair que le tueur à gages était un tireur d'élite très habile, ce qui impliquerait une forme d'entraînement militaire."
- r56_kill_hitler.6.a:0 "Un coup d'État ?" 
+ r56_kill_hitler.6.a:0 "Un coup d'État ?"
 
 
  GER_REUNITED_democratic:0 "République fédérale d'Allemagne"
  GER_REUNITED_fascism:0 "Reich allemand"
  GER_REUNITED_neutrality:0 "Empire allemand"
  GER_REUNITED_communism:0 "République socialiste allemande"
- 
+
  GER_cede_819_to_HUN:0 "Céder le Prekmurje à la Hongrie"
  GER_cede_102_to_ITA:0 "Céder Ljubljana à l'Italie"
 
