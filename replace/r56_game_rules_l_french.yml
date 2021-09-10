@@ -24,12 +24,12 @@
  POR_FOCUS_TREE_SELECTION:0 "@POR Portugal"
  GRE_FOCUS_TREE_SELECTION:0 "@GRE Grèce"
  BUL_FOCUS_TREE_SELECTION:0 "@BUL Bulgarie"
- TUR_FOCUS_TREE_SELECTION:0 "@TUR Turquie"  
+ TUR_FOCUS_TREE_SELECTION:0 "@TUR Turquie"
 
  ###---> AI Behavior <><> <><> <><>
  RULE_GROUP_AI_BEHAVIOR:0 "Comportement de l'IA"
  RULE_OPTION_DEFAULT_AI_DESC:0 "L'IA prendra des décisions basées sur d'autres paramètres de gameplay, tels que l'option de forcer les priorités historiques et d'autres scénarios de gameplay."
- 
+
  #-> Generic <><>
  RULE_OPTION_AUTHORITARIAN:0 "Autoritaire"
  RULE_OPTION_AUTHORITARIAN_HISTORICAL:0 "Autoritaire - Historique"
@@ -51,7 +51,7 @@
  #-> AUS: Austria <><>
  AUS_AI_BEHAVIOR:0 "@AUS Autriche"
  RULE_OPTION_AUTHORITARIAN_HISTORICAL_AUS_AI_DESC:0 "L'IA autrichienne ne se concentrera pas sur les affaires politiques, mais développera plutôt son industrie en suivant la voie appropriée dans l'arbre des priorités."
- 
+
  #-> ENG: United Kingdom <><>
  RULE_OPTION_VISIT_GERMANY:0 "Visite d'État en Allemagne"
  RULE_OPTION_VISIT_GERMANY_ENG_AI_DESC:0 "L'IA Britannique ordonnera une Visite d'État en Allemagne et deviendra fasciste en empruntant la voie appropriée dans l'arbre des priorités."
@@ -167,7 +167,7 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  RULE_OPTION_COMMUNIST_SWE_AI_DESC:0 "L'IA suédoise va rejeter la Convention d'Åland et se tourner vers le communisme."
  RULE_OPTION_FASCIST_SWE_AI_DESC:0 "L'IA suédoise va rejeter la Convention d'Åland et se tourner vers le fascisme."
  RULE_OPTION_MONARCHIST_SWE_AI_DESC:0 "Les Suédois choisiront la priorité « Le Roi en Conseil », prenant le plein pouvoir et formant la faction des aurores boréales."
- 
+
  #-> TUR: Turkey <><>
  TUR_AI_BEHAVIOR_R56:0 "@TUR Turquie : Arbre de R56"
  TUR_AI_BEHAVIOR:0 "@TUR Turquie"
@@ -286,7 +286,7 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  RULE_OPTION_KUR_LIBERATED_IRQ_SWITCH:0 "Pour jouer avec le Kurdistan, sélectionnez l'Irak"
  RULE_OPTION_KUR_LIBERATED_IRQ_SWITCH_DESC:0 "Pour jouer avec le Kurdistan, sélectionnez l'Irak, vous aurez cependant 0 usine"
  CENTRAL_AMERICA_UNIFICATION_STATUS:0 "@HON Unification de l'Amérique centrale"
- 
+
  HISPANOAMERICA_UNIFICATION_STATUS:0 "Unification de l'Amérique hispanique"
 
  GER_FRAGMENTATION_STATUS:0 "@GER Division de l'Allemagne"
@@ -312,14 +312,14 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
 
  RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_BIGGER:0 "Amérique hispanique unifiée"
  RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_BIGGER_DESC:0 "Tous les pays d'Amérique hispanique sont annexés par le Chili, vous obtenez des États nationaux sur ces pays et votre nom change pour Hispanoamérica."
-  
+
  RULE_IDEOLOGY_JOIN_FACTION:0 "Rejoindre la faction d'une idéologie différente"
  RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_DESC:0 "Vous ne pouvez rejoindre que des factions de la même idéologie ou par le biais de priorités/événements."
  RULE_ALLOW_JOIN_FACTION_DESC:0 "Toute idéologie peut rejoindre n'importe quelle faction, si les circonstances s'y prêtent."
  RULE_OPTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED:0 "Même idéologie - Sauf non-alignés"
  RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED_DESC:0 "Les pays ne peuvent rejoindre une faction que si celle-ci représente 30 % de l'idéologie dominante du chef de la faction, à l'exception des pays non alignés (autoritaires) ou par le biais de priorités/événements."
  RULE_OPTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED:0 "Même idéologie - Sauf non-alignés"
- RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED_DESC:0 "Les pays ne peuvent rejoindre une faction que si celle-ci représente 30 % de l'idéologie dominante du chef de la faction, à l'exception des pays non alignés (autoritaires) ou par le biais de priorités/événements." 
+ RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_EXCEPT_NON_ALIGNED_DESC:0 "Les pays ne peuvent rejoindre une faction que si celle-ci représente 30 % de l'idéologie dominante du chef de la faction, à l'exception des pays non alignés (autoritaires) ou par le biais de priorités/événements."
  RULE_OPTION_EVENTS_ONLY:0 "Événements seulement"
  RULE_IDEOLOGY_JOIN_FACTION_EVENTS_ONLY_DESC:0 "Les pays ne rejoindront les factions que grâce à des événements ou à des priorités."
  RULE_STARTING_FACTIONS:0 "Factions de départ"
@@ -334,7 +334,7 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  RULE_ALLOW_NATIONAL_CHARACTERS_ALLOWED_DESC:0 "Les pays sont libres d'utiliser les caractères nationaux"
  RULE_ALLOW_NATIONAL_CHARACTERS_BLOCKED_DESC:0 "Les pays sont empêchés d'utiliser les caractères nationaux"
  NATIONAL_CHARACTERS_BLOCKED:0 " Désactiver les caractères nationaux"
- 
+
  RULE_EXTRA_OPERATIVES:0 "Nombre d'agents"
  RULE_OPTION_DEFAULT_EXTRA_OPERATIVES_DESC:0 "Le nombre d'espions suivra les paramètres par défaut."
  RULE_OPTION_ONE_EXTRA:0 "Un agent supplémentaire"
@@ -351,7 +351,7 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  RULE_RESISTANCE:0 "Croissance de la résistance"
  RULE_OPTION_DEFAULT_RESISTANCE_DESC:0 "Comme dans le jeu de base. À quoi vous attendiez-vous ?"
  RULE_OPTION_RESISTANCE_25_MORE:0 "25% Plus"
- RULE_OPTION_RESISTANCE_25_MORE_DESC:0 "Tous les pays auront +25% de croissance de la résistance dans les États occupés" 
+ RULE_OPTION_RESISTANCE_25_MORE_DESC:0 "Tous les pays auront +25% de croissance de la résistance dans les États occupés"
  RULE_OPTION_RESISTANCE_25_LESS:0 "25% Moins"
  RULE_OPTION_RESISTANCE_25_LESS_DESC:0 "Tous les pays auront -25% de croissance de la résistance dans les Etats occupés"
  idea_game_rule_resistance_increase_25:0 "Règle de jeu de la résistance"
@@ -361,14 +361,14 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  RULE_COMPLIANCE:0 "Croissance de l'accommodement"
  RULE_OPTION_DEFAULT_COMPLIANCE_DESC:0 "Comme dans le jeu de base. À quoi vous attendiez-vous ?"
  RULE_OPTION_COMPLIANCE_25_MORE:0 "+0.25%/jour"
- RULE_OPTION_COMPLIANCE_25_MORE_DESC:0 "Tous les pays auront +0,25% d'accommodement/jour dans les États occupés" 
+ RULE_OPTION_COMPLIANCE_25_MORE_DESC:0 "Tous les pays auront +0,25% d'accommodement/jour dans les États occupés"
  RULE_OPTION_COMPLIANCE_25_LESS:0 "-0.25%/jour"
  RULE_OPTION_COMPLIANCE_25_LESS_DESC:0 "Tous les pays auront -0,25% d'accommodement/jour dans les États occupés"
  idea_game_rule_compliance_increase_25:0 "Règle de jeu de l'accommodement"
  idea_game_rule_compliance_decrease_25:0 "Règle de jeu de l'accommodement"
 
  RULE_STARTING_AGENCIES:0 "Agences de départ"
- RULE_OPTION_DEFAULT_STARTING_AGENCIES_DESC:0 "Comme dans le jeu de base, aucun pays ne commencera avec une agence de renseignement." 
+ RULE_OPTION_DEFAULT_STARTING_AGENCIES_DESC:0 "Comme dans le jeu de base, aucun pays ne commencera avec une agence de renseignement."
  RULE_OPTION_NON_US_MAJORS:0 "Grandes puissances sauf États-Unis"
  RULE_OPTION_NON_US_MAJORS_DESC:0 "Toutes les grandes puissances ( y compris la Pologne), à l'exception des États-Unis (pour des raisons historiques), commenceront avec une agence de renseignement."
  RULE_OPTION_ALL_MAJORS:0 "Toutes les grandes puissances"
@@ -377,7 +377,7 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  RULE_OPTION_ALL_MAJORS_AND_STRONG_MINORS_DESC:0 "Les grandes puissances et beaucoup de puissances mineures commenceront avec une agence."
  RULE_OPTION_ALL_COUNTRIES:0 "Tous les pays"
  RULE_OPTION_ALL_COUNTRIES_DESC:0 "Chaque pays commencera la partie avec une agence de renseignement."
- 
+
  RULE_SPECIAL_FORCES_LIMIT:0 "Nombre de forces spéciales"
  RULE_OPTION_DEFAULT_SPECIAL_FORCES_DESC:0 "Par défaut"
  RULE_OPTION_100_SPECIAL_FORCES:0 "Numéro de divisions +10000%"
@@ -387,7 +387,7 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  RULE_ALLOW_R56_TECHS_ALLOWED_DESC:0 "L'arbre technologique de recherches spéciales sur les divisions sera disponible."
  RULE_ALLOW_R56_TECHS_BLOCKED_DESC:0 "L'arbre technologique de recherches spéciales sur les divisions ne sera pas disponible."
 
- STARTING_FACTIONS:0 "Factions de départ" 
+ STARTING_FACTIONS:0 "Factions de départ"
  RULE_OPTION_STARTING_FACTION_DEFAULT_DESC:0 "Les trois factions de départ seront comme d'habitude les Alliés, l'Axe et le Komintern."
  RULE_OPTION_NO_FACTIONS:0 "Aucune faction de départ"
  RULE_OPTION_NO_FACTIONS_DESC:0 "Il n'y aura pas de factions au début du jeu, mais la Grande-Bretagne, les États-Unis, l'Allemagne et l'URSS commencent toujours avec la possibilité de former des factions."

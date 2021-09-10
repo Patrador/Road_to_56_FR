@@ -2,7 +2,7 @@
 
 #--> All the modifiers created by new buildings/techs
 
-l_french: 
+l_french:
    neutrality_acceptance:0 "Acceptation de la diplomatie autoritaire"
    naval_armor_tech_research:0 "Vitesse de recherche du blindage naval"
    naval_gunnery_tech_research:0 "Vitesse de recherche de l'artillerie navale"
@@ -17,4 +17,4 @@ l_french:
    r56_jim_crow:0 "Lois Jim Crow"
    r56_mild_jim_crow:0 "Lois Jim Crow légères"
    r56_clandestine_propaganda_techniques:0 "Techniques de propagande clandestine"
-      r56_mild_jim_crow:0 "Lois Jim Crow moyennes"
+   r56_mild_jim_crow:0 "Lois Jim Crow moyennes"

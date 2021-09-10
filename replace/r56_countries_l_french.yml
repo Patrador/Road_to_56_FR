@@ -69,7 +69,7 @@
  ARM_neutrality_DEF:0 "le Royaume d'Arménie"
  ARM_communism:1 "République socialiste soviétique d'Arménie"
  ARM_communism_DEF:1 "la République socialiste soviétique d'Arménie"
- 
+
  #AST
  AST_democratic:0 "Commonwealth d'Australie"
  AST_democratic_DEF:0 "le Commonwealth d'Australie"
@@ -160,7 +160,7 @@
  BEL_democratic:0 "Royaume de Belgique"
  BEL_democratic_DEF:0 "le Royaume de Belgique"
  BEL_neutrality:0 "Royaume de Belgique"
- BEL_neutrality_DEF:0 "le Royaume de Belgique"  
+ BEL_neutrality_DEF:0 "le Royaume de Belgique"
 
  #BLZ
  BLZ_fascism:0 "État bélizien"
@@ -196,7 +196,7 @@
 
  #BRM
  BRM_democratic:0 "Union de Birmanie"
- BRM_democratic_DEF:0 "l'Union de Birmanie" 
+ BRM_democratic_DEF:0 "l'Union de Birmanie"
  BRM_neutrality:1 "Royaume de Birmanie"
  BRM_neutrality_DEF:1 "le Royaume de Birmanie"
  BRM_neutrality_ADJ:1 "birman"
@@ -275,7 +275,7 @@
  BUR_communism_ADJ:0 "bouriate"
  BUR_fascism_ADJ:0 "bouriate"
  BUR_democratic_ADJ:0 "bouriate"
- BUR_neutrality_ADJ:0 "bouriate" 
+ BUR_neutrality_ADJ:0 "bouriate"
 
  #BHU
  BHU_fascism:0 "Druk Yul"
@@ -283,7 +283,7 @@
  BHU_neutrality:0 "Royaume du Bhoutan"
  BHU_neutrality_DEF:0 "le Royaume du Bhoutan"
  BHU_democratic:0 "Royaume du Bhoutan"
- BHU_democratic_DEF:0 "le Royaume du Bhoutan" 
+ BHU_democratic_DEF:0 "le Royaume du Bhoutan"
  BHU_communism:0 "Union du dragon rouge"
  BHU_communism_DEF:0 "l'Union du dragon rouge"
  BHU_fascism_ADJ:0 "Druk"
@@ -482,7 +482,7 @@
  COS_democratic_DEF:0 "la République du Costa Rica"
  COS_fascism:0 "République du Costa Potente"
  COS_fascism_DEF:0 "la République du Costa Potente"
- 
+
  #CZE
  CZE_communism:0 "République socialiste de Tchécoslovaquie"
  CZE_communism_DEF:0 "la République socialiste de Tchécoslovaquie"
@@ -528,7 +528,7 @@
  DDR_democratic_ADJ:0 "allemand de l'Est"
  DDR_neutrality_ADJ:0 "allemand de l'Est"
  DDR_communism_ADJ:0 "allemand de l'Est"
- 
+
  #DON
  DON_fascism:0 "Hôte cosaque du Don"
  DON_fascism_DEF:0 "l'Hôte cosaque du Don"
@@ -650,7 +650,7 @@
  EFR_communism_ADJ:0 "français"
 
  #ECU
- ECU_fascism:0 "État national révolutionnaire d'Équateur" 
+ ECU_fascism:0 "État national révolutionnaire d'Équateur"
  ECU_fascism_DEF:0 "l'État national révolutionnaire d'Équateur"
  ECU_democratic:0 "République d'Équateur"
  ECU_democratic_DEF:0 "la République d'Équateur"
@@ -716,7 +716,7 @@
  EST_communism:0 "République populaire estonienne"
  EST_communism_DEF:0 "la République populaire estonienne"
 
- #ETH 
+ #ETH
  ETH_fascism:0 "Abyssinie"
  ETH_fascism_DEF:0 "l'Abyssinie"
  ETH_democratic:0 "République fédérale d'Éthiopie"
@@ -741,7 +741,7 @@
  EQG_communism_ADJ:0 "équatoguinéen"
 
  #FAK
- FAK_democratic:0 "Quelque part à l'étranger" 
+ FAK_democratic:0 "Quelque part à l'étranger"
  FAK_fascism:0 "Quelque part à l'étranger"
  FAK_communism:0 "Quelque part à l'étranger"
  FAK_neutrality:0 "Quelque part à l'étranger"
@@ -943,7 +943,7 @@
  GUK_neutrality_ADJ:0 "ukrainien-vert"
  GUK_communism_ADJ:0 "extrême-oriental"
 
- #GUM 
+ #GUM
  GUM_neutrality:0 "Fédération des Mariannes"
  GUM_neutrality_DEF:0 "la Fédération des Mariannes"
  GUM_neutrality_ADJ:0 "marianne"
@@ -1164,7 +1164,7 @@
  JOR_communism_DEF:0 "la Fédération socialiste de Jordanie"
  JOR_fascism_ADJ:0 "jordanien"
  JOR_neutrality_ADJ:0 "transjordanien"
- 
+
  #KAR
  KAR_fascism:0 "République de Carélie"
  KAR_fascism_DEF:0 "la République de Carélie"
@@ -1178,7 +1178,7 @@
  KAR_democratic_ADJ:0 "carélien"
  KAR_neutrality_ADJ:0 "carélien"
  KAR_communism_ADJ:0 "carélien"
- 
+
  #KBC
  KBC_fascism:0 "Hôte cosaque du Kouban"
  KBC_fascism_DEF:0 "la Hôte cosaque du Kouban"
@@ -1192,7 +1192,7 @@
  KBC_democratic_ADJ:0 "kouban"
  KBC_neutrality_ADJ:0 "kouban"
  KBC_communism_ADJ:0 "kouban"
- 
+
  #KAZ
  KAZ_democratic:1 "République du Kazakhstan"
  KAZ_democratic_DEF:1 "la République du Kazakhstan"
@@ -1236,7 +1236,7 @@
  KUW_fascism_DEF:1 "l'État du Koweït"
  KUW_democratic:0 "État du Koweït"
  KUW_democratic_DEF:0 "l'État du Koweït"
- 
+
  #KOS
  KOS_fascism:0 "État national kosovar"
  KOS_fascism_DEF:0 "l'État national kosovar"
@@ -1384,15 +1384,15 @@
  MCD_fascism:0 "État indépendant de Macédoine"
  MCD_neutrality:0 "Principauté de Macédoine"
  MCD_democratic:0 "République macédonienne"
- MCD_communism:0 "République socialiste de Macédoine" 
+ MCD_communism:0 "République socialiste de Macédoine"
  MCD_fascism_DEF:0 "l'État indépendant de Macédoine"
  MCD_neutrality_DEF:0 "la Principauté de Macédoine"
  MCD_democratic_DEF:0 "la République macédonienne"
- MCD_communism_DEF:0 "la République socialiste de Macédoine"  
+ MCD_communism_DEF:0 "la République socialiste de Macédoine"
  MCD_fascism_ADJ:0 "macédonien"
  MCD_neutrality_ADJ:0 "macédonien"
  MCD_democratic_ADJ:0 "macédonien"
- MCD_communism_ADJ:0 "macédonien"  
+ MCD_communism_ADJ:0 "macédonien"
 
  #MNT
  MNT_fascism:0 "État du Monténégro"
@@ -1434,7 +1434,7 @@
  MAN_democratic:0 "République démocratique mandchoue"
  MAN_democratic_ADJ:0 "mandchou"
  MAN_democratic_DEF:0 "la République démocratique mandchoue"
- 
+
  #MEN
  MEN_communism:0 "République populaire de Mongolie intérieure"
  MEN_communism_ADJ:0 "mongol-intérieur"
@@ -1535,7 +1535,7 @@
  MOZ_neutrality_DEF:0 "la République du Mozambique"
  MOZ_communism:0 "République socialiste du Mozambique"
  MOZ_communism_DEF:0 "la République socialiste du Mozambique"
- 
+
  #NAP
  NAP_fascism:0 "État de Naples"
  NAP_fascism_DEF:0 "l'État de Naples"
@@ -1896,7 +1896,7 @@
  RUT_democratic_ADJ:0 "carpatho-ukrainien"
  RUT_neutrality_ADJ:0 "carpatho-ukrainien"
  RUT_communism_ADJ:0 "transcarpathien"
- 
+
  #SAD
  SAD_fascism:0 "État de Sardaigne"
  SAD_fascism_DEF:0 "l'État de Sardaigne"
@@ -1913,12 +1913,12 @@
  SAD:0 "Sardaigne"
  SAD_DEF:0 "la Sardaigne"
  SAD_ADJ:0 "sarde"
- 
+
  #SAX
  SAX_fascism:1 "Groß-Sachsen Reich"
  SAX_fascism_DEF:1 "das Groß-Sachsen Reich"
  SAX_fascism_ADJ:1 "Sächsisch"
- 
+
  #SER
  SER_fascism:0 "État serbe"
  SER_fascism_DEF:0 "l'État serbe"
@@ -2306,7 +2306,7 @@
  TNG_communism:0 "Union sovétique doungane"
  TNG_communism_DEF:0 "l'Union sovétique doungane"
  TNG_democratic:0 "République du Dounganistan"
- TNG_democratic_DEF:0 "la République du Dounganistan"  
+ TNG_democratic_DEF:0 "la République du Dounganistan"
  TNG_neutrality_ADJ:0 "doungane"
  TNG_fascism_ADJ:0 "doungane"
  TNG_communism_ADJ:0 "doungane"
@@ -2592,7 +2592,7 @@
  NZL_fascism_ADJ:0 "néo-zélandais"
  NZL_democratic_ADJ:0 "néo-zélandais"
  NZL_neutrality_ADJ:0 "néo-zélandais"
- 
+
  #NOR
  NOR_democratic:0 "Royaume de Norvège"
  NOR_democratic_DEF:0 "le Royaume de Norvège"

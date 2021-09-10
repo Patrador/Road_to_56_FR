@@ -104,3 +104,8 @@ r56.news_event.20.d:0 "[SIK.getleader] a décidé d'agir contre les milices musu
 r56.news_event.20.a:0 "Vous m'avez forcé la main !"
 r56.news_event.20.b:0 "Des tensions entre pions..."
 r56.news_event.20.c:0 "Cela a rapidement dégénéré."
+
+#Franco-American fascist Faction
+
+r56.news_event.21.t:0 "La France s'allie [USA.GetAuAlaAlNP] [USA.GetName]"
+r56.news_event.21.d:0 "Dans un grand discours solennel, le président [USA.getLeader] a annoncé une alliance avec le gouvernement [FRA.GetAdjMS]. Il ajoute que cette alliance sera aussi forte que la résolution unissant George Washington, fondateur de la nation, et son aide, le marquis de La Fayette.\n\n Les peuples [USA.GetAdjMP] et [FRA.GetAdjMP] se tiennent désormais côte à côte pour défendre leurs libertés."

@@ -522,6 +522,10 @@ LIT_contact_lithuanian_expatriates:0 "Contacter les expatriés lituaniens"
 LIT_recall_skirpa_to_active_service:0 "Rappeler Škirpa au service actif"
 LIT_support_german_monarchists:0 "Apaiser les monarchistes allemands"
 LIT_withdrew_from_occupied_territories:0 "Se retirer des territoires occupés"
+LIT_skirpas_coup:0 "Le coup d'État de Škirpa"
+LIT_seek_accommodation_with_germany:0 "Se rapprocher de l'Allemagne"
+LIT_join_axis:0 "Rejoindre l'Axe"
+
 
 #Events
 LIT_event.1.t:0 "Victoire communiste"

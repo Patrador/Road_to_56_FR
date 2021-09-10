@@ -1,19 +1,19 @@
 ﻿l_french:
- 
+
  industrial_requisition_category:0 "Réquisition industrielle"
- industrial_requisition_category_desc:0 "Le danger de faire fonctionner des usines dans des territoires occupés pourrait être atténué en déplaçant les machines-outils dans notre pays. Bien que cela réduise le risque de sabotage, cela convaincra probablement une partie de la population de nous résister." 
+ industrial_requisition_category_desc:0 "Le danger de faire fonctionner des usines dans des territoires occupés pourrait être atténué en déplaçant les machines-outils dans notre pays. Bien que cela réduise le risque de sabotage, cela convaincra probablement une partie de la population de nous résister."
  seize_machine_toolings_in_state:0 "Saisir des machines-outils [FROM.GetAuEnANP] [FROM.GetName]"
 
  the_return_of_the_old_guard_category:0 "Le retour de la Vieille Garde"
  hold_the_neutrality_national_referendum:0 "Former un gouvernement réactionnaire"
- 
+
  r56_alone_faction_leader:0 "Trouver des alliés"
- r56_alone_faction_leader_desc:0 "L'incapacité à trouver des alliés rendrait notre position diplomatique absurde et nous obligerait à nous ouvrir à de nouvelles opportunités diplomatiques." 
+ r56_alone_faction_leader_desc:0 "L'incapacité à trouver des alliés rendrait notre position diplomatique absurde et nous obligerait à nous ouvrir à de nouvelles opportunités diplomatiques."
 
  ENG_restore_the_UK:0 "Unifier la Grande-Bretagne"
  ENG_restore_the_UK_desc:0 "Nous devons mettre fin à la division de la Grande-Bretagne, restaurer notre union séculaire et la cimenter à nouveau afin de rassembler la force nécessaire pour réévaluer notre place sur la scène mondiale."
  unite_britain:0 "Rétablir l'unité britannique"
- 
+
  reunite_germany:0 "Réunifier l'Allemagne"
  reintegrate_lands_beyond_the_oder_neisse_line:0 "Réintégrer les terres au-delà de la ligne Oder-Neisse"
 
@@ -27,7 +27,7 @@
  r56_coordinate_land_equipment_manufacturers:0 "Coordonner les fabricants d'équipement terrestre"
  r56_coordinate_naval_equipment_manufacturers:0 "Coordonner les fabricants d'équipement naval"
  r56_land_equipment_manufacturers_coordination:0 "Coordination des fabricants d'équipement terrestre"
- r56_naval_equipment_manufacturers_coordination:0 "Coordination des fabricants d'équipement naval" 
+ r56_naval_equipment_manufacturers_coordination:0 "Coordination des fabricants d'équipement naval"
 
 
  combat_reports:0 "Rapports de combat"
@@ -45,7 +45,7 @@
 
  promote_general_decision_cost:0 "§H25§!£army_experience §H50§!£pol_power"
  promote_general_decision_cost_blocked:0 "§R25§!£army_experience §R50§!£pol_power"
- promote_general_decision_cost_tooltip:0 "Cela coûte 25£army_experience et 50£pol_power de sélectionner cela."  
+ promote_general_decision_cost_tooltip:0 "Cela coûte 25£army_experience et 50£pol_power de sélectionner cela."
 
  r56_ENG_decision_send_wavell_to_india:0 "Envoyer Archibald Wavell en Inde"
  r56_ENG_decision_send_wavell_to_india_desc:0 "Archibald Wavell n’est pas utilisé au mieux de ses capacités ici et pourrait être beaucoup plus utile s’il renforçait l’Armée Indienne Britannique."
@@ -61,7 +61,7 @@
  r56_GER_decision_support_eugen_meindl:0 "Soutenir Eugen Meindl"
  r56_GER_decision_support_eugen_meindl_desc:0 "Kurt Student est peut-être le commandant de parachutistes le plus pro-éminent de l'armée, mais la Luftwaffe compte de nombreux autres dirigeants talentueux."
  r56_GER_decision_support_richard_heidrich:0 "Soutenir Richard Heidrich"
- r56_GER_decision_support_richard_heidrich_desc:0 "Kurt Student est peut-être le commandant de parachutistes le plus en vue de l'armée, mais la Luftwaffe compte de nombreux autres chefs talentueux." 
+ r56_GER_decision_support_richard_heidrich_desc:0 "Kurt Student est peut-être le commandant de parachutistes le plus en vue de l'armée, mais la Luftwaffe compte de nombreux autres chefs talentueux."
  r56_HUN_decision_support_bertalan_arpad:0 "Soutenir Árpád Bertalan"
  r56_HUN_decision_support_bertalan_arpad_desc:0 "Árpád Bertalan, le héros de guerre de la Première Guerre mondiale, a travaillé dur pour créer une unité d'élite, à partir des meilleurs soldats de Hongrie. Nous devrions utiliser ses talents."
  NOR_nortraship_category:0 "Nortraship"
@@ -87,7 +87,7 @@
 
  control_ai_allies_category:0 "Coordination des alliés"
 
- control_ai_allies_category_desc:0 "En donnant des ordres clairs à nos alliés, nous augmenterons nos chances de coordonner nos actions et de vaincre nos ennemis.\n\n§RCes décisions n'affectent que le comportement de l'IA§!" 
+ control_ai_allies_category_desc:0 "En donnant des ordres clairs à nos alliés, nous augmenterons nos chances de coordonner nos actions et de vaincre nos ennemis.\n\n§RCes décisions n'affectent que le comportement de l'IA§!"
  ai_ally_favor_navy:0 "Demander au gouvernement [FROM.GetAdjMS] de se concentrer sur sa marine"
  drop_ai_ally_favor_navy:0 "Demander l'abandon de l'intiative navale [FROM.GetAdjFS]."
  ai_ally_favor_aviation:0 "Demander au gouvernement [FROM.GetAdjMS] de se concentrer sur son aviation"
@@ -166,10 +166,10 @@
  try_to_recruit_irish_officers:0 "Essayer de recruter des officiers irlandais"
  try_to_recruit_scottish_officers:0 "Essayer de recruter des officiers écossais"
 
- try_to_recruit_brazilian_officers:0 "Essayer de recruter des officiers brésiliens" 
+ try_to_recruit_brazilian_officers:0 "Essayer de recruter des officiers brésiliens"
 
  r56_declare_independence:0 "Déclarer notre indépendance"
- 
+
 
  naval_decision_category:0 "Construction navale"
  naval_decision_category_desc:0 "Notre pays n'a pas de marine et il serait peut-être sage d'envisager d'en construire une."

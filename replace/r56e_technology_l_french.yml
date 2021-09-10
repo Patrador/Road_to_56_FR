@@ -9,7 +9,7 @@ l_french:
 
 
 ### Extra tech categories
-  torpedo_equipment:0 "Technologies de torpilles"  
+  torpedo_equipment:0 "Technologies de torpilles"
   refining_tech:0 "Technologies de raffinage"
   refining_tech_research:0 "Vitesse de recherche sur le raffinage de carburant"
   naval_armor_tech:0 "Technologies de blindage naval"
@@ -81,8 +81,8 @@ l_french:
  antitank_d_desc:0 "Nos balles ont maintenant considérablement augmenté la pénétration et la force derrière elles."
  antitank_e:0 "Amélioration de l'artillerie anti-char semi-moderne II"
  antitank_e_desc:0 "La précision et la maniabilité de chaque coup sont maintenant considérablement améliorées."
- 
- 
+
+
 ###------> Infantry   <><> <><> <><> <><> <><>
  anti_tank_infantry_weapons:0 "Armes antichars portatives"
  infantry_at_a:0 "Infanterie antichar III"
@@ -126,11 +126,11 @@ l_french:
  support_weapons_b_desc:0 "Nous avons réussi à mettre sur pied un équipement encore meilleur, au grand soulagement de nos troupes sur les lignes de front."
  support_weapons_c:0 "Armes de soutien VII"
  support_weapons_c_desc:0 "Nous avons réussi à mettre sur pied un équipement encore meilleur, au grand soulagement de nos troupes sur les lignes de front."
- 
+
 #-<><><>
  night_vision_a:0 "Vision nocturne III"
  night_vision_a_desc:0 "La capacité de voir l'ennemi alors qu'il ne le peut pas est primordiale. Cette nouvelle technologie nous aide à atteindre cet objectif."
- 
+
 ###------> Electronics   <><> <><> <><> <><> <><>
  future_radar:0 "AN/APS-2"
  future_radar_desc:0 "Notre radar d'interception aérienne est maintenant très perfectionné et peut commencer à faire une différence visible dans les engagements."
@@ -176,8 +176,8 @@ l_french:
  rdf5_desc:0 "En interceptant les transmissions illégales des partisans par triangulation presque exacte, nous renforcerons notre capacité anti-insurrectionnelle." #new
  rdf6:0 "Radiocompas 1953" #new
  rdf6_desc:0 "Nous pouvons les détecter où qu'ils soient. Il n'y a pas de cachette, pas de fuite, et certainement aucune chance qu'ils réussissent." #new
- 
- 
+
+
 ###------> Industrial    <><> <><> <><> <><> <><>
  streamlined_line_a:0 "Chaîne rationalisée II"
  streamlined_line_a_desc:0 "L'ouvrier gardera sa main gauche à une distance de 15 cm de la machine en tout temps. Son pied doit se trouver entre le levier central et le levier rouge..."
@@ -232,15 +232,15 @@ l_french:
  rubber_plant_c_desc:0 "Nous pouvons maintenant produire de grandes quantités de caoutchouc à partir de nos usines de pointe, et à un prix très bon marché."
  rubber_plant_d:0 "Usine de caoutchouc moderne"
  rubber_plant_d_desc:0 ""Nous pouvons maintenant produire de grandes quantités de caoutchouc à partir de nos usines de pointe, et à un prix très bon marché."
- 
- 
+
+
 ###------> Landing Craft   <><> <><> <><> <><> <><>
  semi_modern_landing_craft:0 "Navires de débarquement semi-modernes"
  semi_modern_landing_craft_desc:0 "Rentrez juste vos genoux et espérez le meilleur."
  modern_landing_craft:0 "Navires de débarquement modernes"
  modern_landing_craft_desc:0 "Combien de personnes peuvent encore rentrer là-dedans ?"
- 
- 
+
+
 ###------> Resource Production  <><> <><> <><> <><> <><>
  aluminum_production_1:0 "Production d'aluminium"
  aluminum_production_1_desc:0 "Les progrès récents dans les techniques de fraisage nous permettent maintenant d'augmenter notre production d'aluminium."
@@ -257,13 +257,13 @@ l_french:
  steel_production_3_desc:0 "Nos techniques de fraisage sont aujourd'hui considérables et nous pouvons produire régulièrement une assez grande quantité de métal si nous le souhaitons."
  steel_production_4:0 "Production d'acier IV"
  steel_production_4_desc:0 "Notre production d'acier est maintenant tellement avancée que nous pouvons pratiquement inonder le marché, au grand soulagement et à la frustration des autres pays."
- 
- 
+
+
 ###------> Nuclear  <><> <><> <><> <><> <><>
  nuke_naval:0 "Puissance navale"
  nuke_naval_desc:0 "Nous avons émis l'hypothèse que nos navires les plus gros et les plus puissants peuvent être dotés de réacteurs nucléaires. Espérons qu'avec le temps, nous pourrons trouver un moyen de faire de ce projet une réalité."
  nukes_2:0 "Expériences thermonucléaires"
- nukes_2_desc:0 "Des plans ont été élaborés pour une bombe qui utilise la fission pour produire une réaction de fusion encore plus puissante. Cela devrait nous permettre d'augmenter significativement nos rendements." 
+ nukes_2_desc:0 "Des plans ont été élaborés pour une bombe qui utilise la fission pour produire une réaction de fusion encore plus puissante. Cela devrait nous permettre d'augmenter significativement nos rendements."
 
 
 ###------> Rockets  <><> <><> <><> <><> <><>
@@ -271,8 +271,8 @@ l_french:
  semi_modern_rocket_engines_desc:0 "Ces nouvelles fusées incorporent des idées et des théories acquises dans d'autres pays."
  modern_rocket_engines:0 "Missiles balistiques intercontinentaux précoces"
  modern_rocket_engines_desc:0 "Nous avons commencé à tester et à préparer le terrain pour des fusées capables d'entrer dans l'espace, et donc de livrer une charge utile en tout point de la planète."
- 
- 
+
+
 ###------> Support  <><> <><> <><> <><> <><>
  tech_engineers_a:0 "Cie du génie V"
  tech_engineers_a_desc:0 "Les ingénieurs de combat de l'avenir veilleront à ce que nos troupes, où qu'elles soient attaquées, soient préparées."
@@ -323,16 +323,16 @@ l_french:
  tech_signal_company_c:0 "Cie de transmission VII"
  tech_signal_company_c_desc:0 "Parmi nos spécialistes de la signalisation, il y a des gens qui ont une connaissance de première main inégalée de l'utilisation sur le terrain de cet équipement. En les impliquant dans la recherche de nouvelles technologies de communication, nous pouvons faire appel à leur expertise."
 #-<><><>
- 
+
 ###------> Etat / Etax Folder Name  <><> <><> <><> <><> <><>
  etat_folder:0 "E.T."
  etat_folder_desc:0 "Expansion de l'industrie & de l'équipement"
  etax_folder:0 "D.S.R."
  etax_folder_desc:0 "Division spéciale de recherche"
- 
- 
+
+
  ETAX_TITLE_DOCTRINE_X:0 "Division spéciale de recherche"
- 
+
 ###------> New Doc   <><> <><> <><> <><> <><>
 
  etax_doctrine:0 "Division spéciale de recherche"
@@ -500,18 +500,18 @@ l_french:
  tech_flamethrower3_desc:0"Les lance-flammes sont très utiles en combat rapproché et peuvent être utilisés très efficacement en guerre urbaine et contre les fortifications fixes. Ceux-ci ajoutent également une attaque légère importante à vos divisions."
  tech_flamethrower4:0"Lance-flammes IV"
  tech_flamethrower4_desc:0"Les lance-flammes sont très utiles en combat rapproché et peuvent être utilisés très efficacement en guerre urbaine et contre les fortifications fixes. Ceux-ci ajoutent également une attaque légère importante à vos divisions."
- 
+
 ###------> Improved Equipment   <><> <><> <><> <><> <><>
  ETAT_TITLE_STEEL_PRODUCTION:0 "Production de ressources"
  ETAT_TITLE_CLOTHING:0 "Vêtements"
  ETAT_TITLE_SPECIALIST_EQUIPMENT:0 "Équipement spécialisé"
  ETAT_TITLE_MODIFIWAFIONS:0 "Modifications"
- 
+
  fabric:0 "Tissu"
  fabric_desc:0 "Tissu utilisé pour les vêtements."
  PRODUCTION_MATERIALS_FABRIC:0 "Tissu"
  PRODUCTION_MATERIALS_FABRIC_desc:0 "Tissu utilisé pour les vêtements."
- 
+
  plate_skirt:0 "Blindage espacé"
  plate_skirt_desc:0 "L'ajout de plaques à nos chars et autochenilles ajoutera quelques protections contre les nouvelles armes d'infanterie antichar, mais ajoutera du poids à nos unités."
  bed_spring_skirt:0 "Blindage espacé en lamelles"
@@ -526,7 +526,7 @@ l_french:
  bed_spring_skirt_4:0 "Blindage espacé moderne"
  bed_spring_skirt_4_short:0 "Blindage espacé Mod."
  bed_spring_skirt_4_desc:0 "En remplaçant les plaques métalliques par des matériaux encore plus légers, nous améliorerons l'armure et supprimerons le poids supplémentaire de l'amélioration précédente."
- 
+
  sniper_rifle:0 "Tireurs d'élite"
  sniper_rifle_desc:0 "L'ajout d'une unité de sniper dans chaque peloton augmentera efficacement la capacité de reconnaissance et d'attaque de l'unité."
  sniper_rifle_2:0 "Tireurs d'élite avancés"
@@ -535,7 +535,7 @@ l_french:
  sniper_rifle_3_desc:0 "La vaste expérience et les retours d'expérience de nos équipes de tireurs d'élite nous ont permis de produire des équipements encore meilleurs."
  sniper_rifle_4:0 "Tireurs d'élite modernes"
  sniper_rifle_4_desc:0 "Nos équipes disposent des meilleurs équipements et n'emploient rien de moins que les équipements les plus modernes."
- 
+
  flamethrower:0 "Lance-flammes"
  flamethrower_desc:0 "Le développement de lance-flammes permettra à nos troupes d'être plus efficaces dans la guerre urbaine et contre les fortifications. Mais courir avec un réservoir plein de carburant sur le dos et prêt à exploser peut avoir des conséquences catastrophiques."
  flamethrower_squad:0 "Escouade de lance-flammes"
@@ -543,7 +543,7 @@ l_french:
  flamethrower_2_desc:0 "Les progrès en matière d'armure et de réduction du poids ont amélioré la sécurité et l'efficacité de nos équipes de lance-flammes."
  flamethrower_3:0 "Lance-flammes semi-moderne"
  flamethrower_3_desc:0 "Nos équipes sont très expérimentées et nous ont fait part de leurs commentaires sur le type d'équipement dont elles ont besoin. Nous avons intégré ces suggestions dans nos lignes de production, ce qui nous a permis d'améliorer l'efficacité au combat."
- 
+
  ARMOUR_TITLE_CAMO:0 "PEINTURE"
  painting:0 "Finition basique" #new
  painting_desc:0 "Couleur basique de l'usine." #new
@@ -555,7 +555,7 @@ l_french:
  painting4_desc:0 "Nouveau camouflage pour nos chars. Nous avons facilité l'application de peintures préfabriquées sur le terrain et augmenté la durabilité de la première couche d'usine."
  painting5:0 "Camouflage moderne" #new
  painting5_desc:0 "Nouveau camouflage pour nos chars. Les applications sont polyvalentes et robustes, capables de résister à presque tout ce que l'ennemi lui lance."
- 
+
  INFANTRY_TITLE_CLOTHING:0 "VÊTEMENTS"
  camo:0 "Uniformes basiques"
  camo_desc:0 "Uniformes de couleur unie sur le modèle de ceux de la Grande Guerre."
@@ -591,11 +591,11 @@ l_french:
  droptank45_desc:0 "Le réservoir le plus récent. Il améliorera la portée de l'avion, mais il a besoin de réacteurs pour compenser son poids."
  droptank55:0 "Réservoir largable IV"
  droptank55_desc:0 "Nos réservoirs sont maintenant plus légers et peuvent contenir une plus grande quantité de carburant."
- 
+
  ###------> Misc.   <><> <><> <><> <><> <><>
- 
+
  r56_tooltip_SRD_unlock:0 "Débloque la Division spéciale de recherche"
- 
+
  elite_forces_02:0 "Forces d'élite II"
  elite_forces_02_desc:0 "Seuls les meilleurs des meilleurs deviendront des forces spéciales. Les soldats qui réussiront l'entraînement seront plus forts, plus rapides et se battront plus fort que n'importe qui d'autre."
  elite_forces_03:0 "Forces d'élite III"

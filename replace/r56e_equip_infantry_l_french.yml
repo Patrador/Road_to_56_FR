@@ -26,14 +26,14 @@
  infantry_equipment_x_3_short:0 "Armes légères 52"
  infantry_equipment_x_3_desc:0 "Armements et matériels individuels et collectifs des fantassins, indispensables à tout soldat. Comprend l'uniforme de service modèle 1952, fusil d'assaut, mitrailleuse légère, armes de poing, grenades offensives et défensives, grenades/dispositifs anti-chars."
 
-#-> Ammunation <><>	
+#-> Ammunation <><>
  infantry_weapons2:0 "Munitions 38"
  improved_infantry_weapons_2:0 "Munitions 40"
  advanced_infantry_weapons2:0 "Munitions 43"
  advanced_infantry_weapons_a:0 "Munitions 46"
  advanced_infantry_weapons_c:0 "Munitions 50"
  advanced_infantry_weapons_d:0 "Munitions 52"
- 
+
 #->	Anti-tank <><>
  r56_anti_tank_kit:0 "Kit antivéhicule de terrain"
  r56_anti_tank_kit_desc:0 "En fournissant des manuels de terrain et quelques autres petits éléments au Armes légères de notre escouade, les soldats peuvent concocter des mesures anti-véhicules sur le terrain avec l'équipement d'infanterie déjà existant. En augmentant l'efficacité de nos soldats contre les véhicules ennemis en un clin d'œil. Bien que ces mesures réactives ne remplacent pas les mesures proactives contre les véhicules ennemis."
@@ -52,7 +52,7 @@
  infantry_at_c:0 "Roquette anti-char 53"
  infantry_at_c_short:0 "Roquette"
  infantry_at_c_desc:0 "Armes pour l'infanterie spécialisée dans des opérations anti-chars."
- 
+
 #->	Soutien weapons <><>
  support_weapons:0 "Soutien 30"
  support_weapons_short:0 "Soutien 30"
@@ -97,7 +97,7 @@
  AFG_infantry_equipment_x_short:0 "Armes légères 45"
  AFG_infantry_equipment_x_2:0 "Armes légères 48"
  AFG_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  AFG_infantry_at:0 "Fusil anti-char"
  AFG_infantry_at_short:0 "ATR"
  AFG_infantry_at2:0 "Roquette anti-char"
@@ -108,7 +108,7 @@
  AFG_infantry_at_b_short:0 "Roquette"
  AFG_infantry_at_c:0 "Roquette anti-char 53"
  AFG_infantry_at_c_short:0 "Roquette"
- 
+
  AFG_support_weapons:0 "Soutien 30"
  AFG_support_weapons_short:0 "Soutien 30"
  AFG_support_weapons2:0 "Soutien 38"
@@ -138,7 +138,7 @@
  AST_infantry_equipment_x_short:0 "Armes légères 45"
  AST_infantry_equipment_x_2:0 "Armes légères 48"
  AST_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  AST_infantry_at:0 "Fusil anti-char"
  AST_infantry_at_short:0 "ATR"
  AST_infantry_at2:0 "Roquette anti-char"
@@ -149,7 +149,7 @@
  AST_infantry_at_b_short:0 "Roquette"
  AST_infantry_at_c:0 "Roquette anti-char 53"
  AST_infantry_at_c_short:0 "Roquette"
- 
+
  AST_support_weapons:0 "Soutien 30"
  AST_support_weapons_short:0 "Soutien 30"
  AST_support_weapons2:0 "Soutien 38"
@@ -179,7 +179,7 @@
  AUS_infantry_equipment_x_short:0 "Armes légères 45"
  AUS_infantry_equipment_x_2:0 "Armes légères 48"
  AUS_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  AUS_infantry_at:0 "Fusil anti-char"
  AUS_infantry_at_short:0 "ATR"
  AUS_infantry_at2:0 "Roquette anti-char"
@@ -190,7 +190,7 @@
  AUS_infantry_at_b_short:0 "Roquette"
  AUS_infantry_at_c:0 "Roquette anti-char 53"
  AUS_infantry_at_c_short:0 "Roquette"
- 
+
  AUS_support_weapons:0 "Soutien 30"
  AUS_support_weapons_short:0 "Soutien 30"
  AUS_support_weapons2:0 "Soutien 38"
@@ -220,7 +220,7 @@
  BEL_infantry_equipment_x_short:0 "Armes légères 45"
  BEL_infantry_equipment_x_2:0 "Armes légères 48"
  BEL_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  BEL_infantry_at:0 "Fusil anti-char"
  BEL_infantry_at_short:0 "ATR"
  BEL_infantry_at2:0 "Roquette anti-char"
@@ -231,7 +231,7 @@
  BEL_infantry_at_b_short:0 "Roquette"
  BEL_infantry_at_c:0 "Roquette anti-char 53"
  BEL_infantry_at_c_short:0 "Roquette"
- 
+
  BEL_support_weapons:0 "Soutien 30"
  BEL_support_weapons_short:0 "Soutien 30"
  BEL_support_weapons2:0 "Soutien 38"
@@ -261,7 +261,7 @@
  BUL_infantry_equipment_x_short:0 "Armes légères 45"
  BUL_infantry_equipment_x_2:0 "Armes légères 48"
  BUL_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  BUL_infantry_at:0 "Fusil anti-char"
  BUL_infantry_at_short:0 "ATR"
  BUL_infantry_at2:0 "Roquette anti-char"
@@ -272,7 +272,7 @@
  BUL_infantry_at_b_short:0 "Roquette"
  BUL_infantry_at_c:0 "Roquette anti-char 53"
  BUL_infantry_at_c_short:0 "Roquette"
- 
+
  BUL_support_weapons:0 "Soutien 30"
  BUL_support_weapons_short:0 "Soutien 30"
  BUL_support_weapons2:0 "Soutien 38"
@@ -302,7 +302,7 @@
  CAN_infantry_equipment_x_short:0 "Armes légères 45"
  CAN_infantry_equipment_x_2:0 "Armes légères 48"
  CAN_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  CAN_infantry_at:0 "Fusil anti-char"
  CAN_infantry_at_short:0 "ATR"
  CAN_infantry_at2:0 "Roquette anti-char"
@@ -313,7 +313,7 @@
  CAN_infantry_at_b_short:0 "Roquette"
  CAN_infantry_at_c:0 "Roquette anti-char 53"
  CAN_infantry_at_c_short:0 "Roquette"
- 
+
  CAN_support_weapons:0 "Soutien 30"
  CAN_support_weapons_short:0 "Soutien 30"
  CAN_support_weapons2:0 "Soutien 38"
@@ -343,7 +343,7 @@
  CHI_infantry_equipment_x_short:0 "Armes légères 45"
  CHI_infantry_equipment_x_2:0 "Armes légères 48"
  CHI_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  CHI_infantry_at:0 "Fusil anti-char"
  CHI_infantry_at_short:0 "ATR"
  CHI_infantry_at2:0 "Roquette anti-char"
@@ -354,7 +354,7 @@
  CHI_infantry_at_b_short:0 "Roquette"
  CHI_infantry_at_c:0 "Roquette anti-char 53"
  CHI_infantry_at_c_short:0 "Roquette"
- 
+
  CHI_support_weapons:0 "Soutien 30"
  CHI_support_weapons_short:0 "Soutien 30"
  CHI_support_weapons2:0 "Soutien 38"
@@ -384,7 +384,7 @@
  CZE_infantry_equipment_x_short:0 "Armes légères 45"
  CZE_infantry_equipment_x_2:0 "Armes légères 48"
  CZE_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  CZE_infantry_at:0 "Fusil anti-char"
  CZE_infantry_at_short:0 "ATR"
  CZE_infantry_at2:0 "Roquette anti-char"
@@ -395,7 +395,7 @@
  CZE_infantry_at_b_short:0 "Roquette"
  CZE_infantry_at_c:0 "Roquette anti-char 53"
  CZE_infantry_at_c_short:0 "Roquette"
- 
+
  CZE_support_weapons:0 "Soutien 30"
  CZE_support_weapons_short:0 "Soutien 30"
  CZE_support_weapons2:0 "Soutien 38"
@@ -425,7 +425,7 @@
  ENG_infantry_equipment_x_short:0 "Armes légères 45"
  ENG_infantry_equipment_x_2:0 "Armes légères 48"
  ENG_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  ENG_infantry_at:0 "Fusil anti-char"
  ENG_infantry_at_short:0 "ATR"
  ENG_infantry_at2:0 "Roquette anti-char"
@@ -436,7 +436,7 @@
  ENG_infantry_at_b_short:0 "Roquette"
  ENG_infantry_at_c:0 "Roquette anti-char 53"
  ENG_infantry_at_c_short:0 "Roquette"
- 
+
  ENG_support_weapons:0 "Soutien 30"
  ENG_support_weapons_short:0 "Soutien 30"
  ENG_support_weapons2:0 "Soutien 38"
@@ -466,7 +466,7 @@
  FIN_infantry_equipment_x_short:0 "Armes légères 45"
  FIN_infantry_equipment_x_2:0 "Armes légères 48"
  FIN_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  FIN_infantry_at:0 "Fusil anti-char"
  FIN_infantry_at_short:0 "ATR"
  FIN_infantry_at2:0 "Roquette anti-char"
@@ -477,7 +477,7 @@
  FIN_infantry_at_b_short:0 "Roquette"
  FIN_infantry_at_c:0 "Roquette anti-char 53"
  FIN_infantry_at_c_short:0 "Roquette"
- 
+
  FIN_support_weapons:0 "Soutien 30"
  FIN_support_weapons_short:0 "Soutien 30"
  FIN_support_weapons2:0 "Soutien 38"
@@ -507,7 +507,7 @@
  FRA_infantry_equipment_x_short:0 "Armes légères 45"
  FRA_infantry_equipment_x_2:0 "Armes légères 48"
  FRA_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  FRA_infantry_at:0 "Fusil anti-char"
  FRA_infantry_at_short:0 "ATR"
  FRA_infantry_at2:0 "Roquette anti-char"
@@ -518,7 +518,7 @@
  FRA_infantry_at_b_short:0 "Roquette"
  FRA_infantry_at_c:0 "Roquette anti-char 53"
  FRA_infantry_at_c_short:0 "Roquette"
- 
+
  FRA_support_weapons:0 "Soutien 30"
  FRA_support_weapons_short:0 "Soutien 30"
  FRA_support_weapons2:0 "Soutien 38"
@@ -548,7 +548,7 @@
  GER_infantry_equipment_x_short:0 "Armes légères 45"
  GER_infantry_equipment_x_2:0 "Armes légères 48"
  GER_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  GER_infantry_at:0 "Fusil anti-char"
  GER_infantry_at_short:0 "ATR"
  GER_infantry_at2:0 "Roquette anti-char"
@@ -559,7 +559,7 @@
  GER_infantry_at_b_short:0 "Roquette"
  GER_infantry_at_c:0 "Roquette anti-char 53"
  GER_infantry_at_c_short:0 "Roquette"
- 
+
  GER_support_weapons:0 "Soutien 30"
  GER_support_weapons_short:0 "Soutien 30"
  GER_support_weapons2:0 "Soutien 38"
@@ -589,7 +589,7 @@
  GXC_infantry_equipment_x_short:0 "Armes légères 45"
  GXC_infantry_equipment_x_2:0 "Armes légères 48"
  GXC_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  GXC_infantry_at:0 "Fusil anti-char"
  GXC_infantry_at_short:0 "ATR"
  GXC_infantry_at2:0 "Roquette anti-char"
@@ -600,7 +600,7 @@
  GXC_infantry_at_b_short:0 "Roquette"
  GXC_infantry_at_c:0 "Roquette anti-char 53"
  GXC_infantry_at_c_short:0 "Roquette"
- 
+
  GXC_support_weapons:0 "Soutien 30"
  GXC_support_weapons_short:0 "Soutien 30"
  GXC_support_weapons2:0 "Soutien 38"
@@ -630,7 +630,7 @@
  HOL_infantry_equipment_x_short:0 "Armes légères 45"
  HOL_infantry_equipment_x_2:0 "Armes légères 48"
  HOL_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  HOL_infantry_at:0 "Fusil anti-char"
  HOL_infantry_at_short:0 "ATR"
  HOL_infantry_at2:0 "Roquette anti-char"
@@ -641,7 +641,7 @@
  HOL_infantry_at_b_short:0 "Roquette"
  HOL_infantry_at_c:0 "Roquette anti-char 53"
  HOL_infantry_at_c_short:0 "Roquette"
- 
+
  HOL_support_weapons:0 "Soutien 30"
  HOL_support_weapons_short:0 "Soutien 30"
  HOL_support_weapons2:0 "Soutien 38"
@@ -671,7 +671,7 @@
  HUN_infantry_equipment_x_short:0 "Armes légères 45"
  HUN_infantry_equipment_x_2:0 "Armes légères 48"
  HUN_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  HUN_infantry_at:0 "Fusil anti-char"
  HUN_infantry_at_short:0 "ATR"
  HUN_infantry_at2:0 "Roquette anti-char"
@@ -682,7 +682,7 @@
  HUN_infantry_at_b_short:0 "Roquette"
  HUN_infantry_at_c:0 "Roquette anti-char 53"
  HUN_infantry_at_c_short:0 "Roquette"
- 
+
  HUN_support_weapons:0 "Soutien 30"
  HUN_support_weapons_short:0 "Soutien 30"
  HUN_support_weapons2:0 "Soutien 38"
@@ -712,7 +712,7 @@
  ITA_infantry_equipment_x_short:0 "Armes légères 45"
  ITA_infantry_equipment_x_2:0 "Armes légères 48"
  ITA_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  ITA_infantry_at:0 "Fusil anti-char"
  ITA_infantry_at_short:0 "ATR"
  ITA_infantry_at2:0 "Roquette anti-char"
@@ -723,7 +723,7 @@
  ITA_infantry_at_b_short:0 "Roquette"
  ITA_infantry_at_c:0 "Roquette anti-char 53"
  ITA_infantry_at_c_short:0 "Roquette"
- 
+
  ITA_support_weapons:0 "Soutien 30"
  ITA_support_weapons_short:0 "Soutien 30"
  ITA_support_weapons2:0 "Soutien 38"
@@ -753,7 +753,7 @@
  JAP_infantry_equipment_x_short:0 "Armes légères 45"
  JAP_infantry_equipment_x_2:0 "Armes légères 48"
  JAP_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  JAP_infantry_at:0 "Fusil anti-char"
  JAP_infantry_at_short:0 "ATR"
  JAP_infantry_at2:0 "Roquette anti-char"
@@ -764,7 +764,7 @@
  JAP_infantry_at_b_short:0 "Roquette"
  JAP_infantry_at_c:0 "Roquette anti-char 53"
  JAP_infantry_at_c_short:0 "Roquette"
- 
+
  JAP_support_weapons:0 "Soutien 30"
  JAP_support_weapons_short:0 "Soutien 30"
  JAP_support_weapons2:0 "Soutien 38"
@@ -794,7 +794,7 @@
  MAN_infantry_equipment_x_short:0 "Armes légères 45"
  MAN_infantry_equipment_x_2:0 "Armes légères 48"
  MAN_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  MAN_infantry_at:0 "Fusil anti-char"
  MAN_infantry_at_short:0 "ATR"
  MAN_infantry_at2:0 "Roquette anti-char"
@@ -805,7 +805,7 @@
  MAN_infantry_at_b_short:0 "Roquette"
  MAN_infantry_at_c:0 "Roquette anti-char 53"
  MAN_infantry_at_c_short:0 "Roquette"
- 
+
  MAN_support_weapons:0 "Soutien 30"
  MAN_support_weapons_short:0 "Soutien 30"
  MAN_support_weapons2:0 "Soutien 38"
@@ -835,7 +835,7 @@
  MEX_infantry_equipment_x_short:0 "Armes légères 45"
  MEX_infantry_equipment_x_2:0 "Armes légères 48"
  MEX_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  MEX_infantry_at:0 "Fusil anti-char"
  MEX_infantry_at_short:0 "ATR"
  MEX_infantry_at2:0 "Roquette anti-char"
@@ -846,7 +846,7 @@
  MEX_infantry_at_b_short:0 "Roquette"
  MEX_infantry_at_c:0 "Roquette anti-char 53"
  MEX_infantry_at_c_short:0 "Roquette"
- 
+
  MEX_support_weapons:0 "Soutien 30"
  MEX_support_weapons_short:0 "Soutien 30"
  MEX_support_weapons2:0 "Soutien 38"
@@ -876,7 +876,7 @@
  MON_infantry_equipment_x_short:0 "Armes légères 45"
  MON_infantry_equipment_x_2:0 "Armes légères 48"
  MON_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  MON_infantry_at:0 "Fusil anti-char"
  MON_infantry_at_short:0 "ATR"
  MON_infantry_at2:0 "Roquette anti-char"
@@ -887,7 +887,7 @@
  MON_infantry_at_b_short:0 "Roquette"
  MON_infantry_at_c:0 "Roquette anti-char 53"
  MON_infantry_at_c_short:0 "Roquette"
- 
+
  MON_support_weapons:0 "Soutien 30"
  MON_support_weapons_short:0 "Soutien 30"
  MON_support_weapons2:0 "Soutien 38"
@@ -917,7 +917,7 @@
  NZL_infantry_equipment_x_short:0 "Armes légères 45"
  NZL_infantry_equipment_x_2:0 "Armes légères 48"
  NZL_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  NZL_infantry_at:0 "Fusil anti-char"
  NZL_infantry_at_short:0 "ATR"
  NZL_infantry_at2:0 "Roquette anti-char"
@@ -928,7 +928,7 @@
  NZL_infantry_at_b_short:0 "Roquette"
  NZL_infantry_at_c:0 "Roquette anti-char 53"
  NZL_infantry_at_c_short:0 "Roquette"
- 
+
  NZL_support_weapons:0 "Soutien 30"
  NZL_support_weapons_short:0 "Soutien 30"
  NZL_support_weapons2:0 "Soutien 38"
@@ -958,7 +958,7 @@
  SPA_infantry_equipment_x_short:0 "Armes légères 45"
  SPA_infantry_equipment_x_2:0 "Armes légères 48"
  SPA_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  SPA_infantry_at:0 "Fusil anti-char"
  SPA_infantry_at_short:0 "ATR"
  SPA_infantry_at2:0 "Roquette anti-char"
@@ -969,7 +969,7 @@
  SPA_infantry_at_b_short:0 "Rocket"
  SPA_infantry_at_c:0 "Roquette anti-char 53"
  SPA_infantry_at_c_short:0 "Rocket"
- 
+
  SPA_support_weapons:0 "Soutien 30"
  SPA_support_weapons_short:0 "Soutien 30"
  SPA_support_weapons2:0 "Soutien 38"
@@ -984,8 +984,8 @@
  SPA_support_weapons_a_short:0 "Soutien 50"
  SPA_support_weapons_c:0 "Soutien 54"
  SPA_support_weapons_a_short:0 "Soutien 54"
- 
- 
+
+
  ###---> POL <><> <><> <><>
  POL_infantry_equipment_0:0 "Armes légères 30"
  POL_infantry_equipment_0_short:0 "Armes légères 30"
@@ -999,7 +999,7 @@
  POL_infantry_equipment_x_short:0 "Armes légères 45"
  POL_infantry_equipment_x_2:0 "Armes légères 48"
  POL_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  POL_infantry_at:0 "Fusil anti-char"
  POL_infantry_at_short:0 "ATR"
  POL_infantry_at2:0 "Roquette anti-char"
@@ -1010,7 +1010,7 @@
  POL_infantry_at_b_short:0 "Rocket"
  POL_infantry_at_c:0 "Roquette anti-char 53"
  POL_infantry_at_c_short:0 "Rocket"
- 
+
  POL_support_weapons:0 "Soutien 30"
  POL_support_weapons_short:0 "Soutien 30"
  POL_support_weapons2:0 "Soutien 38"
@@ -1040,7 +1040,7 @@
  PER_infantry_equipment_x_short:0 "Armes légères 45"
  PER_infantry_equipment_x_2:0 "Armes légères 48"
  PER_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  PER_infantry_at:0 "Fusil anti-char"
  PER_infantry_at_short:0 "ATR"
  PER_infantry_at2:0 "Roquette anti-char"
@@ -1051,7 +1051,7 @@
  PER_infantry_at_b_short:0 "Roquette"
  PER_infantry_at_c:0 "Roquette anti-char 53"
  PER_infantry_at_c_short:0 "Roquette"
- 
+
  PER_support_weapons:0 "Soutien 30"
  PER_support_weapons_short:0 "Soutien 30"
  PER_support_weapons2:0 "Soutien 38"
@@ -1081,7 +1081,7 @@
  POL_infantry_equipment_x_short:0 "Armes légères 45"
  POL_infantry_equipment_x_2:0 "Armes légères 48"
  POL_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  POL_infantry_at:0 "Fusil anti-char"
  POL_infantry_at_short:0 "ATR"
  POL_infantry_at2:0 "Roquette anti-char"
@@ -1092,7 +1092,7 @@
  POL_infantry_at_b_short:0 "Roquette"
  POL_infantry_at_c:0 "Roquette anti-char 53"
  POL_infantry_at_c_short:0 "Roquette"
- 
+
  POL_support_weapons:0 "Soutien 30"
  POL_support_weapons_short:0 "Soutien 30"
  POL_support_weapons2:0 "Soutien 38"
@@ -1122,7 +1122,7 @@
  POR_infantry_equipment_x_short:0 "Armes légères 45"
  POR_infantry_equipment_x_2:0 "Armes légères 48"
  POR_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  POR_infantry_at:0 "Fusil anti-char"
  POR_infantry_at_short:0 "ATR"
  POR_infantry_at2:0 "Roquette anti-char"
@@ -1133,7 +1133,7 @@
  POR_infantry_at_b_short:0 "Roquette"
  POR_infantry_at_c:0 "Roquette anti-char 53"
  POR_infantry_at_c_short:0 "Roquette"
- 
+
  POR_support_weapons:0 "Soutien 30"
  POR_support_weapons_short:0 "Soutien 30"
  POR_support_weapons2:0 "Soutien 38"
@@ -1163,7 +1163,7 @@
  PRC_infantry_equipment_x_short:0 "Armes légères 45"
  PRC_infantry_equipment_x_2:0 "Armes légères 48"
  PRC_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  PRC_infantry_at:0 "Fusil anti-char"
  PRC_infantry_at_short:0 "ATR"
  PRC_infantry_at2:0 "Roquette anti-char"
@@ -1174,7 +1174,7 @@
  PRC_infantry_at_b_short:0 "Roquette"
  PRC_infantry_at_c:0 "Roquette anti-char 53"
  PRC_infantry_at_c_short:0 "Roquette"
- 
+
  PRC_support_weapons:0 "Soutien 30"
  PRC_support_weapons_short:0 "Soutien 30"
  PRC_support_weapons2:0 "Soutien 38"
@@ -1204,7 +1204,7 @@
  RAJ_infantry_equipment_x_short:0 "Armes légères 45"
  RAJ_infantry_equipment_x_2:0 "Armes légères 48"
  RAJ_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  RAJ_infantry_at:0 "Fusil anti-char"
  RAJ_infantry_at_short:0 "ATR"
  RAJ_infantry_at2:0 "Roquette anti-char"
@@ -1215,7 +1215,7 @@
  RAJ_infantry_at_b_short:0 "Roquette"
  RAJ_infantry_at_c:0 "Roquette anti-char 53"
  RAJ_infantry_at_c_short:0 "Roquette"
- 
+
  RAJ_support_weapons:0 "Soutien 30"
  RAJ_support_weapons_short:0 "Soutien 30"
  RAJ_support_weapons2:0 "Soutien 38"
@@ -1245,7 +1245,7 @@
  ROM_infantry_equipment_x_short:0 "Armes légères 45"
  ROM_infantry_equipment_x_2:0 "Armes légères 48"
  ROM_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  ROM_infantry_at:0 "Fusil anti-char"
  ROM_infantry_at_short:0 "ATR"
  ROM_infantry_at2:0 "Roquette anti-char"
@@ -1256,7 +1256,7 @@
  ROM_infantry_at_b_short:0 "Roquette"
  ROM_infantry_at_c:0 "Roquette anti-char 53"
  ROM_infantry_at_c_short:0 "Roquette"
- 
+
  ROM_support_weapons:0 "Soutien 30"
  ROM_support_weapons_short:0 "Soutien 30"
  ROM_support_weapons2:0 "Soutien 38"
@@ -1286,7 +1286,7 @@
  SAF_infantry_equipment_x_short:0 "Armes légères 45"
  SAF_infantry_equipment_x_2:0 "Armes légères 48"
  SAF_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  SAF_infantry_at:0 "Fusil anti-char"
  SAF_infantry_at_short:0 "ATR"
  SAF_infantry_at2:0 "Roquette anti-char"
@@ -1297,7 +1297,7 @@
  SAF_infantry_at_b_short:0 "Roquette"
  SAF_infantry_at_c:0 "Roquette anti-char 53"
  SAF_infantry_at_c_short:0 "Roquette"
- 
+
  SAF_support_weapons:0 "Soutien 30"
  SAF_support_weapons_short:0 "Soutien 30"
  SAF_support_weapons2:0 "Soutien 38"
@@ -1327,7 +1327,7 @@
  SHX_infantry_equipment_x_short:0 "Armes légères 45"
  SHX_infantry_equipment_x_2:0 "Armes légères 48"
  SHX_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  SHX_infantry_at:0 "Fusil anti-char"
  SHX_infantry_at_short:0 "ATR"
  SHX_infantry_at2:0 "Roquette anti-char"
@@ -1338,7 +1338,7 @@
  SHX_infantry_at_b_short:0 "Roquette"
  SHX_infantry_at_c:0 "Roquette anti-char 53"
  SHX_infantry_at_c_short:0 "Roquette"
- 
+
  SHX_support_weapons:0 "Soutien 30"
  SHX_support_weapons_short:0 "Soutien 30"
  SHX_support_weapons2:0 "Soutien 38"
@@ -1368,7 +1368,7 @@
  SLO_infantry_equipment_x_short:0 "Armes légères 45"
  SLO_infantry_equipment_x_2:0 "Armes légères 48"
  SLO_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  SLO_infantry_at:0 "Fusil anti-char"
  SLO_infantry_at_short:0 "ATR"
  SLO_infantry_at2:0 "Roquette anti-char"
@@ -1379,7 +1379,7 @@
  SLO_infantry_at_b_short:0 "Roquette"
  SLO_infantry_at_c:0 "Roquette anti-char 53"
  SLO_infantry_at_c_short:0 "Roquette"
- 
+
  SLO_support_weapons:0 "Soutien 30"
  SLO_support_weapons_short:0 "Soutien 30"
  SLO_support_weapons2:0 "Soutien 38"
@@ -1409,7 +1409,7 @@
  SHX_infantry_equipment_x_short:0 "Armes légères 45"
  SHX_infantry_equipment_x_2:0 "Armes légères 48"
  SHX_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  SHX_infantry_at:0 "Fusil anti-char"
  SHX_infantry_at_short:0 "ATR"
  SHX_infantry_at2:0 "Roquette anti-char"
@@ -1420,7 +1420,7 @@
  SHX_infantry_at_b_short:0 "Roquette"
  SHX_infantry_at_c:0 "Roquette anti-char 53"
  SHX_infantry_at_c_short:0 "Roquette"
- 
+
  SHX_support_weapons:0 "Soutien 30"
  SHX_support_weapons_short:0 "Soutien 30"
  SHX_support_weapons2:0 "Soutien 38"
@@ -1450,7 +1450,7 @@
  SLO_infantry_equipment_x_short:0 "Armes légères 45"
  SLO_infantry_equipment_x_2:0 "Armes légères 48"
  SLO_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  SLO_infantry_at:0 "Fusil anti-char"
  SLO_infantry_at_short:0 "ATR"
  SLO_infantry_at2:0 "Roquette anti-char"
@@ -1461,7 +1461,7 @@
  SLO_infantry_at_b_short:0 "Roquette"
  SLO_infantry_at_c:0 "Roquette anti-char 53"
  SLO_infantry_at_c_short:0 "Roquette"
- 
+
  SLO_support_weapons:0 "Soutien 30"
  SLO_support_weapons_short:0 "Soutien 30"
  SLO_support_weapons2:0 "Soutien 38"
@@ -1491,7 +1491,7 @@
  SOV_infantry_equipment_x_short:0 "Armes légères 45"
  SOV_infantry_equipment_x_2:0 "Armes légères 48"
  SOV_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  SOV_infantry_at:0 "Fusil anti-char"
  SOV_infantry_at_short:0 "ATR"
  SOV_infantry_at2:0 "Roquette anti-char"
@@ -1502,7 +1502,7 @@
  SOV_infantry_at_b_short:0 "Roquette"
  SOV_infantry_at_c:0 "Roquette anti-char 53"
  SOV_infantry_at_c_short:0 "Roquette"
- 
+
  SOV_support_weapons:0 "Soutien 30"
  SOV_support_weapons_short:0 "Soutien 30"
  SOV_support_weapons2:0 "Soutien 38"
@@ -1532,7 +1532,7 @@
  SPR_infantry_equipment_x_short:0 "Armes légères 45"
  SPR_infantry_equipment_x_2:0 "Armes légères 48"
  SPR_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  SPR_infantry_at:0 "Fusil anti-char"
  SPR_infantry_at_short:0 "ATR"
  SPR_infantry_at2:0 "Roquette anti-char"
@@ -1543,7 +1543,7 @@
  SPR_infantry_at_b_short:0 "Roquette"
  SPR_infantry_at_c:0 "Roquette anti-char 53"
  SPR_infantry_at_c_short:0 "Roquette"
- 
+
  SPR_support_weapons:0 "Soutien 30"
  SPR_support_weapons_short:0 "Soutien 30"
  SPR_support_weapons2:0 "Soutien 38"
@@ -1573,7 +1573,7 @@
  SWE_infantry_equipment_x_short:0 "Armes légères 45"
  SWE_infantry_equipment_x_2:0 "Armes légères 48"
  SWE_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  SWE_infantry_at:0 "Fusil anti-char"
  SWE_infantry_at_short:0 "ATR"
  SWE_infantry_at2:0 "Roquette anti-char"
@@ -1584,7 +1584,7 @@
  SWE_infantry_at_b_short:0 "Roquette"
  SWE_infantry_at_c:0 "Roquette anti-char 53"
  SWE_infantry_at_c_short:0 "Roquette"
- 
+
  SWE_support_weapons:0 "Soutien 30"
  SWE_support_weapons_short:0 "Soutien 30"
  SWE_support_weapons2:0 "Soutien 38"
@@ -1614,7 +1614,7 @@
  SWI_infantry_equipment_x_short:0 "Armes légères 45"
  SWI_infantry_equipment_x_2:0 "Armes légères 48"
  SWI_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  SWI_infantry_at:0 "Fusil anti-char"
  SWI_infantry_at_short:0 "ATR"
  SWI_infantry_at2:0 "Roquette anti-char"
@@ -1625,7 +1625,7 @@
  SWI_infantry_at_b_short:0 "Roquette"
  SWI_infantry_at_c:0 "Roquette anti-char 53"
  SWI_infantry_at_c_short:0 "Roquette"
- 
+
  SWI_support_weapons:0 "Soutien 30"
  SWI_support_weapons_short:0 "Soutien 30"
  SWI_support_weapons2:0 "Soutien 38"
@@ -1655,7 +1655,7 @@
  TAN_infantry_equipment_x_short:0 "Armes légères 45"
  TAN_infantry_equipment_x_2:0 "Armes légères 48"
  TAN_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  TAN_infantry_at:0 "Fusil anti-char"
  TAN_infantry_at_short:0 "ATR"
  TAN_infantry_at2:0 "Roquette anti-char"
@@ -1666,7 +1666,7 @@
  TAN_infantry_at_b_short:0 "Roquette"
  TAN_infantry_at_c:0 "Roquette anti-char 53"
  TAN_infantry_at_c_short:0 "Roquette"
- 
+
  TAN_support_weapons:0 "Soutien 30"
  TAN_support_weapons_short:0 "Soutien 30"
  TAN_support_weapons2:0 "Soutien 38"
@@ -1696,7 +1696,7 @@
  TUR_infantry_equipment_x_short:0 "Armes légères 45"
  TUR_infantry_equipment_x_2:0 "Armes légères 48"
  TUR_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  TUR_infantry_at:0 "Fusil anti-char"
  TUR_infantry_at_short:0 "ATR"
  TUR_infantry_at2:0 "Roquette anti-char"
@@ -1707,7 +1707,7 @@
  TUR_infantry_at_b_short:0 "Roquette"
  TUR_infantry_at_c:0 "Roquette anti-char 53"
  TUR_infantry_at_c_short:0 "Roquette"
- 
+
  TUR_support_weapons:0 "Soutien 30"
  TUR_support_weapons_short:0 "Soutien 30"
  TUR_support_weapons2:0 "Soutien 38"
@@ -1738,7 +1738,7 @@
  USA_infantry_equipment_x_short:0 "Armes légères M45"
  USA_infantry_equipment_x_2:0 "Armes légères 48"
  USA_infantry_equipment_x_2_short:0 "Armes légères M48"
- 
+
  USA_infantry_at:0 "Fusil anti-char"
  USA_infantry_at_short:0 "ATR"
  USA_infantry_at2:0 "Roquette anti-char"
@@ -1749,7 +1749,7 @@
  USA_infantry_at_b_short:0 "Roquette"
  USA_infantry_at_c:0 "Roquette anti-char 53"
  USA_infantry_at_c_short:0 "Roquette"
- 
+
  USA_support_weapons:0 "Soutien 30"
  USA_support_weapons_short:0 "Soutien 30"
  USA_support_weapons2:0 "Soutien 38"
@@ -1778,7 +1778,7 @@
  PHL_infantry_equipment_x_short:0 "Armes légères M45"
  PHL_infantry_equipment_x_2:0 "Armes légères 48"
  PHL_infantry_equipment_x_2_short:0 "Armes légères M48"
- 
+
  PHL_infantry_at:0 "Fusil anti-char"
  PHL_infantry_at_short:0 "ATR"
  PHL_infantry_at2:0 "Roquette anti-char"
@@ -1789,7 +1789,7 @@
  PHL_infantry_at_b_short:0 "Roquette"
  PHL_infantry_at_c:0 "Roquette anti-char 53"
  PHL_infantry_at_c_short:0 "Roquette"
- 
+
  PHL_support_weapons:0 "Soutien 30"
  PHL_support_weapons_short:0 "Soutien 30"
  PHL_support_weapons2:0 "Soutien 38"
@@ -1818,7 +1818,7 @@
  XSM_infantry_equipment_x_short:0 "Armes légères 45"
  XSM_infantry_equipment_x_2:0 "Armes légères 48"
  XSM_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  XSM_infantry_at:0 "Fusil anti-char"
  XSM_infantry_at_short:0 "ATR"
  XSM_infantry_at2:0 "Roquette anti-char"
@@ -1829,7 +1829,7 @@
  XSM_infantry_at_b_short:0 "Roquette"
  XSM_infantry_at_c:0 "Roquette anti-char 53"
  XSM_infantry_at_c_short:0 "Roquette"
- 
+
  XSM_support_weapons:0 "Soutien 30"
  XSM_support_weapons_short:0 "Soutien 30"
  XSM_support_weapons2:0 "Soutien 38"
@@ -1859,7 +1859,7 @@
  YUG_infantry_equipment_x_short:0 "Armes légères 45"
  YUG_infantry_equipment_x_2:0 "Armes légères 48"
  YUG_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  YUG_infantry_at:0 "Fusil anti-char"
  YUG_infantry_at_short:0 "ATR"
  YUG_infantry_at2:0 "Roquette anti-char"
@@ -1870,7 +1870,7 @@
  YUG_infantry_at_b_short:0 "Roquette"
  YUG_infantry_at_c:0 "Roquette anti-char 53"
  YUG_infantry_at_c_short:0 "Roquette"
- 
+
  YUG_support_weapons:0 "Soutien 30"
  YUG_support_weapons_short:0 "Soutien 30"
  YUG_support_weapons2:0 "Soutien 38"
@@ -1900,7 +1900,7 @@
  YUN_infantry_equipment_x_short:0 "Armes légères 45"
  YUN_infantry_equipment_x_2:0 "Armes légères 48"
  YUN_infantry_equipment_x_2_short:0 "Armes légères 48"
- 
+
  YUN_infantry_at:0 "Fusil anti-char"
  YUN_infantry_at_short:0 "ATR"
  YUN_infantry_at2:0 "Roquette anti-char"
@@ -1911,7 +1911,7 @@
  YUN_infantry_at_b_short:0 "Roquette"
  YUN_infantry_at_c:0 "Roquette anti-char 53"
  YUN_infantry_at_c_short:0 "Roquette"
- 
+
  YUN_support_weapons:0 "Soutien 30"
  YUN_support_weapons_short:0 "Soutien 30"
  YUN_support_weapons2:0 "Soutien 38"

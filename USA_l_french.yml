@@ -15,6 +15,8 @@
  deo_vindice:0 "Deo vidice"
  deo_vindice_desc:0 "« Sous Dieu, notre vengeur »"
 
+ rt56_arnold_unlock_tt:0 "L'armée de l'air s'est vue accorder l'autonomie par l'institution de la §YDivision des plans de guerre aérienne§!."
+
  rt56_USA_cash_and_carry_home:0 "Projet Cash and Carry"
  rt56_USA_cash_and_carry_home_desc:0 "Nous apportons une aide matérielle à nos alliés jusqu'à ce que le Congrès prenne connaissance du projet et que nos avocats ne puissent plus faire valoir d'objections à la pratique devant les tribunaux."
  r56_usa_three_dimensional_assault_force:0 "Force d'assaut tridimensionnelle"
@@ -46,6 +48,9 @@
  USA_three_dimensional_assault_force:0 "Force d'assaut tridimensionnelle"
  USA_three_dimensional_assault_force_desc:0 "En développant une doctrine d'assaut amphibie qui intègre non seulement un débarquement bien équipé mais aussi une attaque aérienne et un bombardement naval, nous pouvons nous assurer que nos débarquements ont plus de chances de réussir et de gagner une tête de pont."
 
+ USA_heirs_of_lafayette:0 "Les héritiers de Lafayette"
+ USA_heirs_of_lafayette_desc:0 "Washington et Lafayette ont combattu côte à côte pour nous libérer des Anglais. En ces temps troublés, une nouvelle alliance plus forte pourrait nous lier à Paris."
+
  r56_usa.1.t:0 "Les élections de 1948"
  r56_usa.1.desc:0 "Une fois de plus, Thomas Dewey est le titulaire contre le candidat actuel. Cette fois-ci, Harry Truman se présente à la présidence en tant que successeur de Franklin Roosevelt."
  r56_usa.1.a:0 "Truman remporte les élections"
@@ -57,7 +62,7 @@
  rt56_rushed_r_n_d_desc:0 "L'industrie américaine accorde beaucoup d'importance au développement et au déploiement rapides des avancées technologiques. Cependant, ces méthodes présentent de nombreux inconvénients lorsque la phase de test de ces développements est raccourcie et que les problèmes liés à la nouvelle technologie sont ignorés dans le but d'obtenir des résultats rapides."
 
  r56_usa.2.t:0 "L'armée de l'air demande une plus grande autonomie"
- r56_usa.2.desc:0 "Les officiers de l'armée de l'air et le haut commandement de l'armée de terre ont toujours eu des conflits entre eux depuis la création de l'armée de l'air sur l'autonomie de l'armée de l'air au sein de l'armée de terre. Il semble que cette question ait pris de l'ampleur avec la création récente de la division des plans de guerre aérienne. Dans le passé, nous avons fait taire les officiers de l'armée de l'air qui s'exprimaient sur cette question, notamment Henry Arnold. Mais il semble que nous ne puissions plus ignorer la question et que nous devions prendre une décision finale sur l'autonomie de l'armée de l'air au sein de nos forces armées."
+ r56_usa.2.desc:0 "Les officiers de l'armée de l'air et le haut commandement de l'armée de terre ont toujours eu des conflits entre eux depuis la création de l'armée de l'air sur l'autonomie de l'armée de l'air au sein de l'armée de terre. Il semble que cette question ait pris de l'ampleur avec la création récente de la Division des plans de guerre aérienne. Dans le passé, nous avons fait taire les officiers de l'armée de l'air qui s'exprimaient sur cette question, notamment Henry Arnold. Mais il semble que nous ne puissions plus ignorer la question et que nous devions prendre une décision finale sur l'autonomie de l'armée de l'air au sein de nos forces armées."
  r56_usa.2.c:0 "L'armée de l'air reste dans l'armée de terre !"
  r56_usa.2.a:0 "Promouvoir Henry Arnold est une bonne chose."
  r56_usa.2.b:0 "Accorder à l'armée de l'air l'autonomie qu'elle souhaite."
@@ -248,8 +253,19 @@
  r56_usa.6.b:0 "...recevera une autonomie locale."
  r56_usa.6.c:0 "...sera intégrée en tant que nouvel État."
 
+ r56_usa.10.t:0 "[USA.GetNameDefCap] proposent une alliance"
+ r56_usa.10.desc:0 "L'ambassadeur [USA.GetAdjMS] a transmis un message secret urgent à notre gouvernement afin de voir si nous serions intéressés par une alliance. Le message ajoute que notre gouvernement pourrait se battre à l'unisson, comme l'ont fait Washington et Lafayette en leur temps."
+ r56_usa.10.a:0 "Splendide !"
+ r56_usa.10.b:0 "Ce n'est pas dans notre intérêt."
 
+ r56_usa.11.t:0 "Le gouvernement [FRA.GetAdjMS] a accepté notre proposition d'alliance !"
+ r56_usa.11.desc:0 "En réponse à notre message précédent, l'ambassadeur [FRA.GetAdjMS] vient de transmettre la réponse du gouvernement [FRA.GetAdjMS]. Ils ont accepté notre proposition avec effet immédiat. L'attaché militaire français est déjà prêt à transmettre des informations militaires vitales et il attend de nous que nous fassions de même."
+ r56_usa.11.a:0 "Splendide !"
+ r56_usa.11.b:0 "Ce n'est pas dans notre intérêt."
 
+ r56_usa.12.t:0 "[FRA.GetLeader] a refusé notre proposition d'alliance !"
+ r56_usa.12.desc:0 "Les [FRA.GetHabitants] a transmis la réponse de son gouvernement. Malheureusement pour nous, ils ont refusé notre proposition d'alliance."
+ r56_usa.12.a:0 "Quelle déception !"
 
  #Vanilla Overrides 
  USA_manifest_destiny_r56:0 "Le nouveau manifeste du destin" #revisit with better name. band-aide fix

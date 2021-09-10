@@ -9,58 +9,58 @@ l_french:
  r56w.event.30.d:0 "Nous sommes récemment entrés en possession d'un trésor très inhabituel, dont le plus remarquable est un livre ancien couvert d'une symbologie mystérieuse et étrange. Certains de nos érudits croient que cela pourrait valoir la peine d'être étudié, tandis que d'autres suggèrent que ce ne serait qu'un canular."
  r56w.event.30.a:0 "Se mêler aux forces obscures ? Inscrivez-moi !"
  r56w.event.30.b:0 "Non, merci."
- 
+
 #The Necrowombaticon can be studied
  r56w.event.31.t:0 "Rapport de nos chercheurs"
  r56w.event.31.d:0 "Après une période d'étude, il est devenu clair que le livre décrit un rituel élaboré pour gagner de grandes quantités de pouvoir. Elle nécessite entre autres de grandes quantités de bougies parfumées, un chat noir et beaucoup d'uranium enrichi.\n\nAvec la traduction pour le rituel vient une malédiction énigmatique, « Attention ! Poursuivre avec cela va vraiment gâcher votre partie, et aboutir à quelque chose de très stupide. Sauvegardez maintenant, en cas de doute. »\n\nFaut-il continuer ou abandonner complètement cette voie ?"
  r56w.event.31.a:0 "Je mange du danger au petit-déjeuner."
  r56w.event.31.b:0 "Mais... et l'historique !"
- 
+
 #The Necrowombaticon's deadly power is revealed
  r56w.event.32.t:0 "Une distorsion dimensionnelle"
  r56w.event.32.d:0 "Nos érudits ont exécuté le rituel exactement comme ils l'avaient demandé. Malheureusement, il en est résulté un petit enfer nucléaire qui semble avoir déchiré le tissu de l'espace et du temps. Une armée de créatures est sortie de la distorsion, repoussant nos forces. Nous avons perdu le territoire de l'Oregon et, avec lui, une partie de notre dignité nationale."
  r56w.event.32.a:0 "Et m**** !"
- 
+
 #News of the book's power reaches the world
  r56w.event.33.t:0 "Événements étranges"
  r56w.event.33.d:0 "Des activités inhabituelles ont été signalées en Amérique du Nord. Les forces d'occupation ont nié toute allusion à l'inhabituel, mais cela a été quelque peu contrecarré par leur abandon inattendu et assez désorganisé du territoire de l'Oregon. Seul le temps nous dira la vérité."
  r56w.event.33.a:0 "Je me demande de quoi il s'agit."
- 
+
 #How do we react to these events?
  r56w.event.34.t:0 "Une ouverture diplomatique"
  r56w.event.34.d:0 "Un représentant des monstres est arrivé à notre porte et a poliment demandé à vous parler. Bien que leur langage soit étrange et énigmatique, nous avons pu discerner une seule question :\n\n« Peut avoir ? »"
  r56w.event.34.a:0 "C'est très stupide. Ne disons rien !"
  r56w.event.34.b:0 "Peut avoir... La guerre !"
  r56w.event.34.c:0 "Oui, bien sûr. Peu importe."
- 
+
 #The Tender Loving Empire is Defeated
  r56w.event.35.t:0 "La victoire impossible"
  r56w.event.35.d:0 "La force des monstres venus de nulle part dans notre monde a été vaincue. Bien qu'ils aient essayé de détruire Havok, leurs efforts n'ont finalement servi à rien. Aujourd'hui est une journée plus calme et plus saine."
  r56w.event.35.a:0 "Ils étaient super OP de toute façon."
- 
+
 #To War or Not to War
  r56w.event.36.t:0 "Jeux de guerre"
  r56w.event.36.d:0 "Nos dirigeants militaires jouent à un jeu pour voir quel pays nous devrions tenter de conquérir la prochaine fois. Si nous le désirons, les résultats peuvent être contraignants et prendre effet immédiatement."
  r56w.event.36.a:0 "Cela semble légitime."
  r56w.event.36.b:0 "Peut-être plus tard...."
  r56w.event.36.c:0 "Arrêtez de demander !"
- 
+
 #Invisibile DOW event
  r56w.event.37.t:0 "Qu'ont-ils fait ?"
  r56w.event.37.d:0 ""
- 
+
 #Hitler's Stach
  r56w.event.38.t:0 "Le rasoir de la justice"
  r56w.event.38.d:0 "Nos ministres ont proposé un plan audacieux pour faire tomber un de nos ennemis. Il est temps de frapper nul autre qu'Adolf Hitler et de lui apprendre la valeur d'un bon rasage.\n\nNos agents sont prêts à intervenir. Allons-nous tenter l'expédition ?"
  r56w.event.38.a:0 "Cela semble être une très bonne idée !"
  r56w.event.38.b:0 "Pas pour l'instant."
  r56w.event.38.c:0 "C'est une suggestion ridicule."
- 
+
 #The World Learns of the Stache
  r56w.event.40.t:0 "Problème de moustache"
  r56w.event.40.d:0 "Ce matin, le dirigeant du Reich allemand s'est réveillé pour constater qu'une atrocité absolue avait été commise sur sa barbe. Inutile de dire qu'il était fuhrious - et a déclaré que toutes les moustaches sont maintenant interdites jusqu'à ce qu'il puisse faire repousser les siennes. "
  r56w.event.40.a:0 "Un monument national a été profané."
- 
+
 #Proposal for Taking Europe
  r56w.event.41.t:0 "Une proposition simple"
  r56w.event.41.d:0 "Un de nos ministres a proposé un plan audacieux pour planter un agent au milieu des forces européennes. Qu'est-ce qu'on fait ?"
@@ -81,7 +81,7 @@ l_french:
  r56w.event.45.t:0 "Une bonne action"
  r56w.event.45.d:0 "En marchant le long d'une longue ruelle à Londres, Greatexperiment a repéré un chaton errant. Il miaula doucement, puis demanda un cigare. Je suppose qu'il pourrait être adopté ?"
  r56w.event.45.a:0 "Oui ! Amenez le hijinx !"
- r56w.event.45.b:0 "Noooooon ! Les conséquences imprévues !" 
+ r56w.event.45.b:0 "Noooooon ! Les conséquences imprévues !"
 
 #The Cat Runs Away
  r56w.event.46.t:0 "Pas assez d'herbe à chat"
@@ -92,24 +92,24 @@ l_french:
  r56w.event.48.t:0 "L'ascension des furries fantastiques"
  r56w.event.48.d:0 "Au cœur des déserts de l'Arabie saoudite, une armée formidable et légèrement agacée a surgi de nulle part. Après s'être déclarés et avoir pris du territoire, ils ont exigé à juste titre du thon et qu'on les caresse quand ils en auront reçu."
  r56w.event.48.a:0 "Impossible !"
- 
+
 #Daniel Craig Appears
  r56w.event.49.t:0 "Relâchez le Craigken !"
  r56w.event.49.d:0 "Un homme est apparu, prétendant être un super espion d'un futur lointain. N'ayant donné aucun détail ou raisonnement, il affirme qu'il est vital pour la chronologie qu'il soit autorisé à prendre le pouvoir au Tibet. Le destin du monde en dépend."
  r56w.event.49.a:0 "Oui, bien sûr. Peu importe."
  r56w.event.49.b:0 "Transformez-le en colle."
- 
+
 #Someone Found a Puppet
  r56w.event.51.t:0 "Quelque chose de moelleux de cette façon arrive"
  r56w.event.51.d:0 "Greatexperiment a récemment décidé de partir en vacances en Grande-Bretagne. Alors qu'il se promenait, il rencontra une marionnette étrange et terriblement suspecte qui se cachait derrière une cabine téléphonique.\n\n« Je devrais vraiment injecter de la magie dans ce truc pour qu'il s'empare du pays et provoque un véritable chaos. », se dit Greatexperiment."
  r56w.event.51.a:0 "Oui, pourquoi pas ?"
  r56w.event.51.b:0 "Nan. Jetez-le dans la rivière."
- 
+
 #News of the British Takeover
  r56w.event.53.t:0 "Une main sur le pouvoir"
  r56w.event.53.d:0 "Pour des raisons tout à fait incompréhensibles, il semble que le gouvernement souverain de Grande-Bretagne ait décidé de mettre tout pouvoir entre les mains d'une marionnette sensible. Que Dieu nous sauve tous."
  r56w.event.53.a:0 "C'est de la politique pour vous."
- 
+
 #Hitler and Baldur's Gate
  r56w.event.100.t:0 "Une porte curieuse"
  r56w.event.100.desc:0 "Aujourd'hui à la Chancellerie du Reich, Baldur von Schirach a proposé au Führer son propre projet pour la construction de « Germania ».\n\nToujours prêt à discuter des questions de culture, il a conçu en secret un nouveau type de porte qui provoque une certaine division dans le cercle restreint d'Hitler. Les motifs sont jugés indignes de la capitale de l'Europe par Albert Speer alors que la rumeur circule que Himmler admire les références mythologiques nordiques et la juge « authentiquement allemande ».\n\nAujourd'hui, aucun travail important n'a été effectué à la Chancellerie du Reich car les dirigeants nazis étaient trop occupés à discuter de la porte de Baldur."
@@ -133,15 +133,15 @@ r56w.event.101.a:0 "Passons quelques coups de téléphone."
  WHY_neutrality:0 "Empire de l'amour tendre"
  WHY_neutrality_DEF:0 "l'Empire de l'amour tendre"
  WHY_neutrality_ADJ:0 "tendresse"
- 
+
 #Parties
  r56w_anarchism:0 "Anarchie organisée"
  r56w_anarchism_desc:0 "C'est logique si vous ne réfléchissez pas."
- 
+
 #Factions
  r56w_modderite:0 "Modderite"
  r56w_modderite_desc:0 "Puns!"
- 
+
 ###------> Ideas <><> <><> <><> <><> <><>
 
 #National Ideas
@@ -154,12 +154,12 @@ r56w.event.101.a:0 "Passons quelques coups de téléphone."
  r56w_idea_national_got_up_early_today_tooltip:0 "Peut refuser un appel à la guerre parce qu'il est beaucoup trop fatigué."
  r56w_idea_national_feeling_guilty:0 "Sentiment de culpabilité"
  r56w_idea_national_feeling_guilty_desc:0 "Très bien ! Je vais vous aider ! Content maintenant ?"
- 
+
 #Advisors
  r56w_idea_minister_zukas:0 "Zukas"
  r56w_idea_minister_zukas_desc:0 ""
- r56w_idea_minister_herman_lindqvist:0 "Herman Lindqvist" 
- r56w_idea_minister_herman_lindqvist_desc:0 "" 
+ r56w_idea_minister_herman_lindqvist:0 "Herman Lindqvist"
+ r56w_idea_minister_herman_lindqvist_desc:0 ""
  r56w_idea_minister_thinking_waffle:0 "Thinking Waffle"
  r56w_idea_minister_thinking_waffle_desc:0 ""
  r56w_idea_minister_linda:0 "Linda SUI"
@@ -218,7 +218,7 @@ r56w.event.101.a:0 "Passons quelques coups de téléphone."
  r56w_idea_minister_barry_white_desc:0 ""
  r56w_idea_minister_perjh:0 "Perjh"
  r56w_idea_minister_perjh_desc:0 ""
- 
+
 #Designers
  r56w_idea_designer_massif_manufacturing:0 "Massif Manufacturing"
  r56w_idea_designer_massif_manufacturing_desc:0 ""
@@ -230,13 +230,13 @@ r56w.event.101.a:0 "Passons quelques coups de téléphone."
  r56w_idea_designer_efrafa_shipbuilding_desc:0 ""
  r56w_idea_designer_heyoka_air:0 "Heyoka Air"
  r56w_idea_designer_heyoka_air_desc:0 ""
- 
+
 
 ###------> Traits <><> <><> <><> <><> <><>
 
 #Minister Traits
  r56w_trait_minister_zukas:0 "Pirate de guerre"
- r56w_trait_minister_herman_lindqvist:0 "Super constructeur" 
+ r56w_trait_minister_herman_lindqvist:0 "Super constructeur"
  r56w_trait_minister_thinking_waffle:0 "Pas une gaufre"
  r56w_trait_minister_linda:0 "Très froid"
  r56w_trait_minister_pompelmo:0 "Attrape-papillon"
@@ -257,20 +257,20 @@ r56w.event.101.a:0 "Passons quelques coups de téléphone."
  r56w_trait_minister_johan_schmidt:0 "Aime les fleurs"
  r56w_trait_minister_mr_tsubodai:0 "Sir to you"
  r56w_trait_minister_kriplaik:0 "Cryptique"
- 
+
 #Designer Traits
  r56w_trait_designer_massif_manufacturing:0 "So Very Massif"
  r56w_trait_designer_holst_planet_foundry:0 "Referenced"
  r56w_trait_designer_la_societe_construction:0 "Cannot Read French"
  r56w_trait_designer_efrafa_shipbuilding:0 "Books Are Great"
  r56w_trait_designer_heyoka_air:0 "Hello Ground"
- 
+
 #Generic Traits
  r56w_trait_generic_is_breathing:0 "Est vivant"
  r56w_trait_generic_is_breathing_desc:0 "Ouaip. Sauf si c'est un zombie caché. C'est toujours possible."
  r56_trait_anti_fascist:0 "Anti-fasciste"
  r56_trait_anti_democratic:0 "Anti-démocratique"
- 
+
 #Field Marshal Traits
  r56w_trait_marshal_master_exploder:0 "Master Exploder"
  r56w_trait_marshal_master_exploder_desc:0 "Le film était vraiment mauvais."
@@ -323,7 +323,7 @@ r56w.event.101.a:0 "Passons quelques coups de téléphone."
  r56w_trait_leader_badass_desc:0 "Le plus vilain des culs."
  r56w_trait_leader_fluffy:0 "Très moelleux"
  r56w_trait_leader_fluffy_desc:0 "C'est presque réconfortant. D'une manière maléfique."
- 
+
 ###------> Modifiers <><> <><> <><> <><> <><>
 
 #Opinion Modifiers
@@ -337,11 +337,11 @@ r56w.event.101.a:0 "Passons quelques coups de téléphone."
  r56w_opinion_modifier_naval_invasion_desc:0 ""
  r56w_opinion_modifier_opened_portal:0 "Portail ouvert"
  r56w_opinion_modifier_opened_portal_desc:0 "Tout le monde est un peu contrarié que vous ayez ouvert un portail vers les dimensions de l'enfer."
- 
+
 ###------> Focuses <><> <><> <><> <><> <><>
 
 #WHY
  r56w_focus_WHY_totally_op:0 "C'est super OP"
  r56w_focus_WHY_totally_op_desc:0 "OUI. ON LE SAIT."
- 
+
 #####---------------------------------------------------------------------> End

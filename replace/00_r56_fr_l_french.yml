@@ -48,7 +48,7 @@ l_french:
 ##################################################
 ###   Nation adjectives / Adjectifs des pays   ###
 ##################################################
- 
+
  FRLOC_AHV_ADJ_M:0 "ålandais"
  FRLOC_AHV_ADJ_FS:0 "ålandaise"
  FRLOC_AHV_ADJ_FP:0 "ålandaises"
@@ -103,7 +103,7 @@ l_french:
  FRLOC_CAR_ADJ_MS:0 "centrafricain"
  FRLOC_CAR_ADJ_FS:0 "centrafricaine"
  FRLOC_CAR_ADJ_MP:0 "centrafricains"
- FRLOC_CAR_ADJ_FP:0 "centrafricaines" 
+ FRLOC_CAR_ADJ_FP:0 "centrafricaines"
 
  FRLOC_CDI_ADJ_MS:0 "ivoirien"
  FRLOC_CDI_ADJ_FS:0 "ivoirienne"
@@ -546,7 +546,7 @@ l_french:
 ###################################################
 ###   Nation Inhabitants / Habitants des pays   ###
 ###################################################
- 
+
  FRLOC_AHV_INHAB:0 "Ålandais"
  FRLOC_ALG_INHAB:0 "Algériens"
  FRLOC_ANG_INHAB:0 "Angolais"
@@ -690,7 +690,7 @@ l_french:
  FRLOC_BRA_IDB_ADJ_FS:0 "brésilienne"
  FRLOC_BRA_IDB_ADJ_MP:0 "brésiliens"
  FRLOC_BRA_IDB_ADJ_FP:0 "brésiliennes"
- 
+
  FRLOC_BEL2_ADJ_S:0 "belge"
  FRLOC_BEL2_ADJ_P:0 "belges"
  FRLOC_BEL2_ADJ_FASCISM:0 "diets"

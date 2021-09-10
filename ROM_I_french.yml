@@ -1,5 +1,8 @@
 ﻿l_french:
 
+ ROM_obtain_polish_cryptological_data:0 "Obtenir des données cryptologiques polonaises"
+ ROM_obtain_polish_cryptological_data_desc:0 "Nos grands alliés polonais ont fait des percées dans le domaine des décryptages assistés par ordinateur. En collaborant étroitement, nous pourrions profiter de leurs technologies." 
+
  ROM_scw_tooltip:0 "Envoyer des volontaires dans la §YGuerre civile espagnole§! vous donnera de l'expérience militaire et un bonus de recherche de doctrine."
 
  ROM_infantry_camouflage:0 "Camouflage d'infanterie"
