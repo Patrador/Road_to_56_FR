@@ -282,6 +282,9 @@ euskalduna:0 "Euskalduna"
  
  SPR_tallares_mecanicos_y_garaje:0 "Talleres Mecánicos y Garaje RAG S.A."
 
+ SPA_ally_the_french:0 "S'allier aux Français"
+ SPA_ally_the_french_desc:0 "Le nouveau gouvernement français, sous la direction avisée de [FRA.getleader], semble être aligné sur nos intérêts. La possibilité d'une alliance devrait être envisagée."
+
  #used in DLC tree for now
  SPR_naval_design_bureau:0 "Bureau de conception navale"
  SPR_naval_design_bureau_desc:0 "Rassembler les ingénieurs pour créer le Bureau de conception navale permettra aux meilleurs esprits de repenser l'équipement de notre marine."

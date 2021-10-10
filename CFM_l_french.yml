@@ -467,6 +467,33 @@
  cityfall.89.b:0 "Une grande victoire !"
  cityfall.89.c:0 "La guerre prend une tournure inattendue."
 
+ cityfall.90.t:0 "La chute de Caracas"
+ cityfall.90.desc:0 "La ville de Caracas, largement connue pour être la capitale des exportations de pétrole ces dernières années, est tombée aux mains des troupes [new_controller.GetAdjFP]. La bataille fait rage, avec des combats brutaux de maison à maison, mais finalement, en raison de la taille insignifiante de la ville, celle-ci est tombée en deux jours seulement et [old_controller.GetLeader] a été obligé d'ordonner la retraite de la ville.\n\nCette défaite met sans aucun doute [old_controller.GetNameDef] dans une situation désespérée. Mais [old_controller.GetLeader] a clairement fait savoir qu'il avait l'intention de résister jusqu'au bout, quel qu'en soit le prix."
+
+ cityfall.91.t:0 "La chute de Bakou"
+ cityfall.91.desc:0 "La ville de Bakou, l'un des plus grands centres de production de pétrole au monde, est tombée aux mains des troupes [new_controller.GetAdjFP]. Désireux de protéger désespérément cette ressource cruciale, les soldats [new_controller.GetAdjMP] se sont battus jusqu'au dernier homme.\n\nPrivé d'importants approvisionnements en or noir, la conduite de la guerre sera beaucoup plus difficile pour [old_controller.GetNameDef]." 
+ #Stalingrad/Tsaritsyn
+ cityfall.92.t:0 "La chute de [217.GetName]"
+ cityfall.92.desc:0 "Avec la capture de [217.GetName], un important centre industriel est tombé sous les coups de l'avancée des forces [new_controller.GetAdjFP]. Malgré d'intenses combats, notamment pour le contrôle de la gare et de l'usine de tracteurs, la ville a finalement été sécurisée.\n\nLa perte du nœud ferroviaire vital et de l'utilisation sûre de la Volga par [old_controller.GetNameDef] peut signifier leur chute imminente."
+ #Leningrad/Petrograd
+ cityfall.93.t:0 "La chute de [195.GetName]"
+ cityfall.93.desc:0 "La Neva a été souillée par le sang en raison des durs combats qui ont embrasé la ville de [195.GetName]. Les vainqueurs [new_controller.GetAdjMP] doivent maintenant franchir les barricades érigées par les défenseurs désespérés [old_controller.GetAdjMP]. Une grande partie des forces [old_controller.GetAdjFP] ont battu en retraite, mais certaines d'entre elles ont tenté de poursuivre le combat depuis l'intérieur du quartier général de l'armée, de l'amirauté et de la forteresse Pierre et Paul. Pourtant, malgré le fait que ces positions se renforcent mutuellement, elles n'ont pas été conçues pour résister aux armes modernes.\n\nUn nouveau jour et un nouveau drapeau flottent sur la ville, un drapeau usé par la guerre qui montre la domination [new_controller.GetAdjFS] sur la ville."
+
+ cityfall.94.t:0 "La chute de Los Angeles"
+ cityfall.94.desc:0 "Les portes du ciel se sont ouvertes sur de nombreux habitants de Los Angeles alors que le Golden Gate semble plus rouge que n'importe quel autre jour. Le siège brutal mené par les forces armées [new_controller.GetAdjFP] a infligé d'énormes dégâts sur toute la baie et de multiples quartiers de la ville et de sa banlieue ont été consumés par le feu. Si les forces [old_controller.GetAdjFP] ont lourdement souffert, les nouveaux maîtres de la ville ont hérité d'un flambeau en ruine, à eux de voir s'ils peuvent conserver et réparer la zone."
+
+ cityfall.95.t:0 "La chute de Téhéran"
+ cityfall.95.desc:0 "Des combats acharnés et une guerre urbaine ont dévasté la plus grande ville du Moyen-Orient, Téhéran. Des fumées s'élèvent au-dessus des ruines du complexe de Saadabad, qui a été bombardé par un barrage d'artillerie après que les derniers défenseurs [old_controller.GetAdjMP] ont refusé de se rendre aux forces [new_controller.GetAdjFP]. \n\nEt alors que des coups de feu peuvent encore être entendus dans et autour du Baazar de Téhéran, les officiels [new_controller.GetAdjMP] ont déjà revendiqué leur victoire dans la bataille pour la ville. Les drapeaux [new_controller.GetAdjeMP] flottent au-dessus du palais du Golestan, signe du nouvel ordre qui s'installe dans la région."
+
+ cityfall.96.t:0 "La chute de Sébastopol"
+ cityfall.96.desc:0 "Des combats acharnés et des affrontements urbains ont dévasté la plus grande ville de Crimée, la base navale de Sébastopol. Des fumées s'élèvent tout autour de la baie. Les fortifications ont été pilonnées par des barrages d'artillerie lourde. Les bombardements, qui ont provoqué l'explosion d'un dépôt de munitions, ont forcé les défenseurs [old_controller.GetAdjMP] les plus obstinés à déposer les armes et à se rendre aux forces [new_controller.GetAdjFP] victorieuses. \n\nEt bien que l'on entende encore quelques coups de feu ici et là, les officiels [new_controller.GetAdjMP] ont déjà annoncé la prise de la ville. Les drapeaux [new_controller.GetAdjMP] flottent sur ce qu'il reste des fortifications, indiquant aux habitants restants qui est désormais aux commandes."
+
+ cityfall.97.t:0 "La chute de Gibraltar"
+ cityfall.97.desc:0 "La situation en Méditerranée est sur le point de changer radicalement puisque le rocher de Gibraltar est désormais sous le contrôle des forces armées [new_controller.GetAdjFP]. Désormais maître de la situation, l'artillerie est immédiatement mise en place pour pouvoir tirer sur les navires potentiellement hostiles passant par le détroit, bloquant ainsi l'accès à toute flotte indésirable... sauf peut-être les sous-marins. D'autre part, la marine [old_controller.GetAdjFS] a perdu une position très importante aux portes de la Méditerranée."
+
+ cityfall.98.t:0 "La chute de Sydney"
+ cityfall.98.desc:0 "Avec la capture de [285.GetName], les [new_controller.GetHabitants] sont désormais solidement établis sur le sol australien. La baie a été recouverte d'une épaisse fumée noire due à la combustion de carburant, qui se répand lentement dans la ville. Le reste de l'Australie va-t-il bientôt suivre ou l'armée [old_controller.GetAdjFS] sera-t-elle capable de contre-attaquer et de repousser l'envahisseur dans la mer ?"
+
 
 #cityfall.12.t:0 "The Fall of Stockholm"
 #cityfall.12.d:0 "."

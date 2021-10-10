@@ -974,20 +974,6 @@
  prc.30.d:0 "Après une lutte de pouvoir pendant presque 3 ans, [Root.GetLeader] s'élève maintenant à la position vacante laissée par Staline et devient la personne la plus puissante de l'Union soviétique."
  prc.30.a:0 "Espérons que ce soit le meilleur résultat"
 
- prc.32.t:0 "Intégration du gouvernement"
- prc.32.d:0 "[CHI.GetNameDef] cherch[CHI.GetEEntNP] à intégrer notre gouvernement pour que la Chine puisse s'unir."
- prc.32.a:0 "Certainement"
- prc.32.b:0 "C'est un piège !"
-
- prc.33.t:0 "[PRC.GetNameDef] accept[PRC.GetEEntNP] l'intégration"
- prc.33.d:0 "[PRC.GetNameDef] [PRC.GetAOntNP] accepté d'unir la Chine, mais qui dirigera alors notre nouvelle nation unie ?"
- prc.33.a:0 "[PRC.GetLeader] mènera la Chine à la grandeur !"
- prc.33.b:0 "Nos responsables actuels sont les mieux placés pour rester au pouvoir."
-
- prc.34.t:0 "[PRC.GetName] refus[PRC.GetEEntNP] l'intégration"
- prc.34.d:0 "[PRC.GetLeader] a refusé notre proposition, en déclarant que c'est un piège."
- prc.34.a:0 "Vermine ignorante !"
-
  prc.36.t:0 "[PRC.GetNameDef] planifi[PRC.GetEEntNP] l'invasion [SIK.GetDuDelaDelNP] [SIK.GetName]"
  prc.36.d:0 "Nos informateurs ont constaté que [PRC.GetNameDef] [PRC.GetAOntNP] l'intention de prendre [SIK.GetNameDef] par la force."
  prc.36.a:0 "Demander à [SIK.GetLeader] de coopérer pour éviter une effusion de sang."
@@ -1287,7 +1273,7 @@
  prc.120.t:0 "Une invitation de [From.GetLeader]"
  prc.120.d:0 "Avec l'établissement de [From.GetFactionName], [From.GetLeader] a envoyé une invitation à [Root.GetLeader], espérant que nous pourrions suivre leur voie."
  prc.120.a:0 "Bonne idée."
- prc.120.b:0 "Nous n'avons pas besoin d'eux."
+ prc.120.b:0 "Et pourquoi pas non ?"
 
  prc.121.t:0 "[From.GetNameDef] nous rejoint"
  prc.121.d:0 "[From.GetLeader] a décidé de nous rejoindre."

@@ -188,6 +188,8 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  YUG_FRAGMENTATION_STATUS:0 "@YUG Division de la Yougoslavie"
  SOV_FRAGMENTATION_STATUS:0 "@SOV Division de l'Union soviétique"
  RAJ_FRAGMENTATION_STATUS:0 "@RAJ Division de l'Inde"
+ USA_FRAGMENTATION_STATUS:0 "@USA Division des États-Unis"
+
 
  RULE_OPTION_YUG_FRAGMENTED_DESC:0 "Toutes les nations libérables en Yougoslavie sont libérées en tant que nations libres et indépendantes dès le début de la partie. Si vous sélectionnez la Yougoslavie, vous commencerez avec la Serbie."
  RULE_OPTION_YUG_FRAGMENTED_SERBIA:0 "YOUG divisée - Serbie"
@@ -303,6 +305,12 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  RULE_OPTION_GER_GERMAN_KINGDOMS_DESC:0 "L'Allemagne sera divisée en royaumes et en duchés."
  RULE_OPTION_GER_GERMAN_KINGDOMS2:0 "Royaumes allemands - une faction"
  RULE_OPTION_GER_GERMAN_KINGDOMS2_DESC:0 "L'Allemagne sera divisée en royaumes et en duchés et unie sous une faction."
+
+
+ RULE_OPTION_USA_FRAGMENTED:0 "Un foyer divisé"
+ RULE_OPTION_USA_FRAGMENTED_DESC:0 "Le Sud s'est encore révolté, d'une manière ou d'une autre."
+ RULE_OPTION_USA_FRAGMENTED_DIXIE:0 "Jouer les États confédérés"
+ RULE_OPTION_USA_FRAGMENTED_DIXIE_DESC:0 "Le Sud s'est encore révolté, d'une manière ou d'une autre."
 
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED:0 "Le Honduras forme l'Amérique centrale"
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED_DESC:0 "Tous les pays d'Amérique centrale sont annexés par le Honduras, vous obtenez des états nationaux sur ces pays et votre nom change pour les États-Unis d'Amérique centrale."

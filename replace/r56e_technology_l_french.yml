@@ -3,10 +3,15 @@
 #--> All the new techs
 
 l_french:
+ TECH_REQUIRES_NUCLEAR_REACTOR_TOOLTIP:0 "Nombre de §Lréacteurs nucléaire§! > 3"
+ TECH_BOOSTS_STEEL_MILL_TOOLTIP:0 "Augmente la production des §Laciéries§! de : §B+2 acier§!."
+ TECH_BOOSTS_ALUMINIUM_MILL_TOOLTIP:0 "Augmente la production des §Lusines d'aluminium§! de : §B+2 aluminium§!."
+ TECH_BOOSTS_RUBBER_MILL_TOOLTIP:0 "Augmente la production des §Lusines d'aluminium§! de : §B+2 caoutchouc§!."
+##
+ modern_ship_hull_light:0 "Coque de destroyer 1948"
 
 ## trying to fix base game decimetric radar tech
   decimetric_radar:0 "Radar décimétrique"
-
 
 ### Extra tech categories
   torpedo_equipment:0 "Technologies de torpilles"
@@ -23,6 +28,8 @@ l_french:
   cat_scout_plane:0 "Modèles d'avions de reconnaissance"
   armor_variant_tech:0 "Variantes de blindage"
   camo_tech:0 "Camouflage d'infanterie"
+  transport_plane_tech:0 "Avions de transport"
+
 ### Extra Special Forced Tech Categories
  r56_desert_infantry_tech:0 "Infanterie du désert"
  r56_jaeger_infantry_tech:0 "Chasseur à pied"
@@ -261,7 +268,7 @@ l_french:
 
 ###------> Nuclear  <><> <><> <><> <><> <><>
  nuke_naval:0 "Puissance navale"
- nuke_naval_desc:0 "Nous avons émis l'hypothèse que nos navires les plus gros et les plus puissants peuvent être dotés de réacteurs nucléaires. Espérons qu'avec le temps, nous pourrons trouver un moyen de faire de ce projet une réalité."
+ nuke_naval_desc:0 "Nous avons émis l'hypothèse que nos navires les plus gros et les plus puissants peuvent être dotés de réacteurs nucléaires. Espérons qu'avec le temps, nous pourrons trouver un moyen de faire de ce projet une réalité.\n§RNécessite un nombre de§! §Lréacteurs nucléaires§! §R> 3§!"
  nukes_2:0 "Expériences thermonucléaires"
  nukes_2_desc:0 "Des plans ont été élaborés pour une bombe qui utilise la fission pour produire une réaction de fusion encore plus puissante. Cela devrait nous permettre d'augmenter significativement nos rendements."
 
@@ -636,4 +643,7 @@ modern_torpedoes_02:0 "Torpilles modernes II"
 modern_torpedoes_02_desc:0 ""
 modern_torpedoes_03:0 "Torpilles modernes III"
 modern_torpedoes_03_desc:0 ""
+
+
+transport_plane2:0 "Avion de transport II"
 #####---------------------------------------------------------------------> End

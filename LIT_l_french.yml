@@ -1,6 +1,7 @@
 ﻿l_french:
  #Miscellaneous
  LIT_generic_fascist_demagogue:0 "Jonas Karutis"
+ fascist_figurehead:0 "Personnalité fasciste"
  LIT_become_lithuania:0 "Devenir la Lituanie"
  LIT_generic_artillery_manufacturer:0 "Linkaiciai Artillerty Manufactory"
  LIT_generic_infantry_equipment_manufacturer:0 "Metalas Factory Kaunas"
@@ -342,7 +343,7 @@ LIT_lithuanian_nationalist_party:0 "LNP"
 LIT_monarchy_party_long:0 "Maison d'Urach"
 LIT_council_of_lithuania_party:0 "Lietuvos Taryba"
 LIT_council_of_lithuania_party_long:0 "Lietuvos Taryba"
-
+LIT_empower_litvak_community:0 "Donner du pouvoir à la communauté litvak"
 
 #Ideas
 LIT_constitutional_loophole:0 "Capitale"
@@ -395,6 +396,7 @@ LIT_lithuanian_aryanism_2:0 "Aryanisme lituanien"
 LIT_persecuted_minorities_1:0 "Minorités persécutées"
 LIT_persecuted_minorities_2:0 "Minorités persécutées"
 LIT_anti_bolshevik_legions_idea:0 "Légions anti-bolchéviques"
+LIT_contain_german_agression_idea:0 "Contenir l'agression allemande"
 LIT_german_lithuanian_credit_agreement_idea:0 "Accord de crédit allemand-lituanien"
 LIT_preparing_for_a_polish_counterattack:0 "Préparation de la contre-attaque polonaise"
 LIT_broken_spirits:0 "Esprits brisés"
@@ -525,6 +527,7 @@ LIT_withdrew_from_occupied_territories:0 "Se retirer des territoires occupés"
 LIT_skirpas_coup:0 "Le coup d'État de Škirpa"
 LIT_seek_accommodation_with_germany:0 "Se rapprocher de l'Allemagne"
 LIT_join_axis:0 "Rejoindre l'Axe"
+LIT_economic_battle_in_progress_flag:0 "Poursuit déjà une autre guerre économique."
 
 
 #Events

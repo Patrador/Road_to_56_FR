@@ -1,4 +1,6 @@
 ﻿l_french:
+ r56_portuguese_focus:0 "Priorités nationales portugaises"
+ portuguese_focus:0 "Priorités nationales portugaises vanilla"
  POR_become_portugal:0 "Devenir le Portugal"
  POR_luso_imperial_and_royal_armies:0 "Forces armées royales et impériales"
  POR_luso_imperial_and_royal_armies_desc:0 "Nos forces sont séparées par un océan mais cela ne signifie pas que nous ne pouvons pas apprendre les uns des autres. Nos différences font notre force, tout comme notre attachement à nos racines portugaises fait notre force."
@@ -22,6 +24,8 @@
  POR_madeira_desc:0 "Madère n'est peut-être pas aussi stratégique que les Açores, mais nous devons aussi la développer. Elle sera une base d'appui pour l'Atlantique."
  POR_extra_tech_slot:0 "Emplacement de recherche supplémentaire I"
  POR_extra_tech_slot_desc:0 "La recherche est importante et ne doit pas être oubliée. De cette façon, nous pouvons élever notre technologie à des niveaux jamais vus auparavant."
+ POR_extra_tech_slot2:0 "Emplacement de recherche supplémentaire II"
+ POR_extra_tech_slot2_desc:0 "La recherche est importante et ne doit pas être oubliée. C'est ainsi que nous pourrons porter notre technologie à des niveaux jamais atteints auparavant."
  POR_minas_de_ferro:0 "Mines d'acier d'Aljustrel"
  POR_minas_de_ferro_desc:0 "Les mines d'acier d'Aljustrel étaient une importante installation minière pendant la Seconde Guerre mondiale. Elles ont été fondées en 1847 suite à la découverte d'une source d'acier."
  POR_minas_de_cromio:0 "Mines de chrome de Grandola"
@@ -318,4 +322,4 @@ POR_elastic_defense:0 "Défense élastique"
  cacadores:0 "Caçadores Especiais"
  cacadores_desc:0 "Cies de soutien d'élite avec de forts bonus."
 
- 
+ portugal.t1.t:0 "Revendications territoriales [POR.GetAdjFP]."

@@ -1,5 +1,5 @@
 ﻿l_french:
-
+ japan_wtt_focus:0 "Priorités nationales japonaises"
  JAP_revolutionary_fervour:0 "Ferveur révolutionnaire"
  
  JAP_SOV_sakhalin_oil_agreement:0 "Accord pétrolier de Sakhaline"
@@ -17,7 +17,7 @@
  JAP_germano_japanese_technological_exchange:0 "Échange technologique germano-japonais"
  JAP_army_expansion_idea:0 "Expansion de l'Armée de terre"
  JAP_kempetai_repression:0 "Répression Kempetai"
- JAP_kempetai_repression:0 "La Kempetai répond au ministère de l'intérieur lorsqu'elle est à la maison, mais elle est sous les ordres de l'armée lorsqu'elle est à l'étranger. Ils sont essentiels pour la sécurité de nos dominions impériaux." 
+ JAP_kempetai_repression_desc:0 "La Kempetai répond au ministère de l'intérieur lorsqu'elle est à la maison, mais elle est sous les ordres de l'armée lorsqu'elle est à l'étranger. Ils sont essentiels pour la sécurité de nos dominions impériaux." 
  JAP_guard_the_revolution:0 "Garder la révolution"
  JAP_guard_the_revolution_desc:0 "Seuls des agents idéologiquement fiables peuvent agir en faveur de la révolution. Dans leur pays et à l'étranger, ils chasseront les contre-révolutionnaires et deviendront l'avant-garde de la libération des travailleurs d'Asie."
  #Switch nav bombers to maritime patrol, CV nav bombers to nav bombers
@@ -63,9 +63,9 @@
  JAP_support_the_indian_independence_league_desc:0 "Une armée doit être mise en place pour assurer la libération de l'Inde."
 
  JAP_support_the_burmese_liberation_movement:0 "Soutenir le mouvement de libération de la Birmanie"
-
+ JAP_support_the_burmese_liberation_movement_desc:0 "Les Birmans ont leur place en Asie de l'Est."
  JAP_join_the_anti_bolshevik_pact:0 "Rejoindre le pacte anti-bolchevique"
- JAP_join_the_anti_bolshevik_pact_desc:0 "[TUR.GetNameDefCap] sembl[TUR.GetEEntNP] déterminé[TUR.GetXENP][TUR.GetXSNP] à lutter contre les horreurs du boshevisme soviétique. Notre alliance les frappera à l'Est et à l'Ouest."
+ JAP_join_the_anti_bolshevik_pact_desc:0 "[TUR.GetNameDefCap] sembl[TUR.GetEEntNP] déterminé[TUR.GetXENP][TUR.GetXSNP] à lutter contre les horreurs du bochévisme soviétique. Notre alliance les frappera à l'Est et à l'Ouest."
 
  JAP_reinforce_cooperation_with_poland:0 "Renforcer la coopération avec la Pologne"
  JAP_reinforce_cooperation_with_poland_desc:0 "Depuis son indépendance, la Pologne a été un excellent partenaire dans la quête de renseignements sur l'URSS. Maintenant qu'ils sont menacés par l'armée [SOV.GetAdjFS] comme dans les années 1920, la région autour de Vladivostok devrait avoir réduit ses garnisons, ce qui signifie qu'il est temps de les attaquer."
@@ -108,13 +108,13 @@
  JAP_trans_pacific_alliance_desc:0 "Les tensions entre [JAP.GetNameDefCap] et les États-Unis ont été élevées ces derniers temps, mais avec notre nouveau gouvernement et notre nouveau mode de vie, il est désormais naturel que nous nous alliions avec eux afin que nos deux nations puissent former un front digne de défendre le monde démocratique."
 
  JAP_subsidise_the_zaibatsus:0 "Subventionner les zaibatsus"
- JAP_subsidise_the_zaibatsus_desc:0 ""
+ JAP_subsidise_the_zaibatsus_desc:0 "Les Zaibatsus peuvent devenir l'épine dorsale de la puissance de l'État s'ils sont soutenus en conséquence."
 
  JAP_expand_kobe_steel_works:0 "Développer l'usine sidérurgique de Kobé"
  JAP_expand_kobe_steel_works_desc:0 "Pour soutenir notre développement industriel national et militaire, nous devons accroître la production d'acier à Kobé, ce qui nous donnera les ressources nécessaires pour atteindre nos objectifs."
 
  JAP_preemptive_strike_soviet:0 "Frappe préventive"
- JAP_preemptive_strike_soviet_desc:0 ""
+ JAP_preemptive_strike_soviet_desc:0 "Pour assurer une victoire décisive, nous ne pouvons pas attendre d'être victimes d'un énième complot communiste. Au contraire, nous devons frapper les premiers de toutes nos forces."
 
 
  JAP_crush_chinese_communists:0 "Écraser les communistes chinois"

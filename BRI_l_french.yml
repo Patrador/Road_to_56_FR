@@ -1,6 +1,6 @@
 ﻿l_french:
- 
- compagnie_bretonne_du_poisson:0 "Compagnie Bretonne du Poisson"
+ brittany_focus:0 "Priorités nationales bretonnes"
+ compagnie_bretonne_du_poisson:0 "Compagnie bretonne du poisson"
  #Aiguillon Construction
  redon_aircraft_factory:0 "Usine d'avions de Redon"
  BRI_arsenal_de_brest_battlefleet:0 "Arsenal de Brest"
@@ -12,9 +12,9 @@
  BRI_modernized_agriculture:0 "Agriculture modernisée"
  
  #made up manufacturers
- BRI_infantry_equipment_manufacturer:0 "Manufacture d'Armes de Bretagne"
+ BRI_infantry_equipment_manufacturer:0 "Manufacture d'armes de Bretagne"
  BRI_artillery_manufacturer:0 "Fonderies de Quimper"
- BRI_motorized_equipment_manufacturer:0 "Usine de Montage de Pimpol" 
+ BRI_motorized_equipment_manufacturer:0 "Usine de montage de Pimpol" 
  
  BRI_ael_peresse:0 "Ael Péresse"
  BRI_alan_heusaff:0 "Alan Heusaff"

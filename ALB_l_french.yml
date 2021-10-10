@@ -1,8 +1,11 @@
 ﻿l_french:
 
  #Custom_tooltip
+ albania_focus:0 "Priorités nationales albanaises"
  9_ALB_tt:0 "Il y a une chance que cela provoque un soulèvement national et une guerre civile !"
-
+ POLITICS_KING_ZOG_DESC:0 "Né en 1895 au sein d'une famille noble du château de Burgajet, il a occupé des postes ministériels de 1920 à 1924, jusqu'à son exil forcé en Yougoslavie. Le jeune Zog est revenu avec l'aide de la Yougoslavie et a été élu président le 1er février 1925, puis a assumé le rôle de roi le 1er septembre. \nBien qu'il soit capable de manipuler les affaires internes de l'Albanie à son avantage, il en vient à dépendre fortement de l'Italie de Benito Mussolini."  #From Britannica
+ #leader traits
+ likes_italy:0 "Aime l'Italie"
  #Focus
  vive_le_roi:0 "Longue vie au Roi !"
  vive_le_roi_desc:0 "Notre roi est le protecteur de notre pays ! Il doit être le symbole de notre combat contre ceux qui menacent notre royaume ! L'héritage de Scanderbeg et de notre roi sera transmis aux générations futures !"
@@ -285,12 +288,12 @@
  albania.8.d:0 "Notre royaume n'est pas dans la meilleure situation qu'il aurait pu être. La crise économique de 1929 a presque détruit notre économie, nous rendant dépendants de l'Italie. Leur influence est de plus en plus visible dans notre vie quotidienne, leurs investissements économiques dans le pays et leur présence dans notre système éducatif et politique étant bien plus importants que prévu. Face à la montée des tensions en Europe, l'amélioration de notre situation économique et la revendication de notre totale indépendance vis-à-vis de l'Italie devraient être l'une de nos priorités. L'amélioration des relations avec nos voisins tels que la Grèce et la Yougoslavie est également importante. La réalisation de ces objectifs et l’extension de notre armée feront de nous un centre puissant dans la région de l’Adriatique. Espérons que notre grand chef nous guidera !"
  albania.8.a:0 "En avant !"
  albania.9.t:0 "La grève de la faim de février 1936"
- albania.9.d:0 "Les ouvriers et artisans de Korçë se sont soulevés et ont entamé une grève majeure dans la ville. Ils dénoncent la situation économique du pays et la pauvreté dans laquelle ils se trouvent. Si nous les laissons continuer leur manifestation, ce mouvement pourrait se répandre dans le pays et provoquer une révolte générale. Mais réprimer la grève pourrait affecter notre image publique et nos relations avec les autres pays."
+ albania.9.d:0 "Les ouvriers et artisans de Korçë se mobilisent et entament une grande grève dans la ville. Ils dénoncent la situation économique du pays et la pauvreté dans laquelle ils se trouvent. Si nous les laissons poursuivre leur manifestation, ce mouvement pourrait s'étendre dans le pays et provoquer une révolte générale. Mais réprimer la grève pourrait affecter notre image publique et nos relations avec les autres pays."
  albania.9.a:0 "Arrêtez cette manifestation et arrêtez les dirigeants !"
  albania.9.b:0 "Laissez les être."
  9_ALB_tt:0 "§R Il y a une chance que cela provoque un soulèvement national et une guerre civile !"
  albania.11.t:0 "Révolte dans le nord !"
- albania.11.d:0 "Les travailleurs du nord se sont levés et se sont armés, ont vaincu la garnison locale et ont pris le contrôle du nord du pays ! Avec Myslim Peza comme chef, notre situation est grave. Nous n'aurions pas dû les laisser être."
+ albania.11.d:0 "Les travailleurs du nord se réveillent et s'arment, battent la garnison locale et prennent le contrôle de la partie nord du pays ! Avec Myslim Peza comme chef, notre situation est grave. Nous n'aurions pas dû les laisser faire."
  albania.11.a:0 "Préparez les troupes pour le combat !"
  albania.12.t:0 "Exercices militaires avec l'Italie ?"
  albania.12.d:0 "Le gouvernement d'Italie nous a proposé d'organiser des exercices militaires à Naples. Ils ont dit que cela pourrait fournir une expérience précieuse à nos troupes et améliorer les relations diplomatiques entre nous."

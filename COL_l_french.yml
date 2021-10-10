@@ -84,6 +84,10 @@
  colombia.13.d:0 "Toute forme de rébellion ouverte ou d'action de protestation menée par l'opposition radicale et les combattants terroristes ne peut rester impunie. L'emprise d'un gouvernement sur le pays ne sera pas remise en cause tant qu'il suivra la volonté de la majorité de la population.\n\nSi nous avons l'intention de réprimer plus efficacement les guérillas et les partisans, nos experts militaires suggèrent la formation d'un nouveau régiment de police militaire dont le seul but sera d'assurer l'ordre et la stabilité dans nos lignes arrière.\n\nCette unité sera composée de cinq unités de cavalerie avec des instructeurs spécialisés, spécialement formés pour faire face à toute sorte d'activités de résistance."
  colombia.13.a:0 "Nous allons commencer à former le personnel responsable immédiatement !"
  colombia13_tt:0 "L'utilisation du modèle de police militaire §YPolicia Militar§! avec cinq unités de cavalerie et un régiment de soutien de la police militaire est maintenant disponible."
+
+ colombia.1001.t:0 "Formation d'un nouveau pacte défensif"
+ colombia.1001.d:0 "Face aux ambitions grandissantes du gouvernement [COL.GetAdjMS], les responsables concernés [ECU.GetDuDelaDelNP] [ECU.GetName] et [PAN.GetDuDelaDelNP] [PAN.getNameDef] ont entamé d'âpres négociations visant à former un pacte défensif s'opposant à la montée en puissance de l'État plus que mort de la Grande Colombie. \n\nLes deux pays amènent des troupes aux frontières, prêtes à se battre jusqu'au dernier homme pour leur indépendance."
+ colombia.1001.a:0 "Cela sécurisera nos États pour un peu plus longtemps !"
  guacamaya:0 "GuaCamaya"
  ararauna:0 "AraNautica"
  titi:0 "Tití"

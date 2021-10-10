@@ -109,3 +109,11 @@ r56.news_event.20.c:0 "Cela a rapidement dégénéré."
 
 r56.news_event.21.t:0 "La France s'allie [USA.GetAuAlaAlNP] [USA.GetName]"
 r56.news_event.21.d:0 "Dans un grand discours solennel, le président [USA.getLeader] a annoncé une alliance avec le gouvernement [FRA.GetAdjMS]. Il ajoute que cette alliance sera aussi forte que la résolution unissant George Washington, fondateur de la nation, et son aide, le marquis de La Fayette.\n\n Les peuples [USA.GetAdjMP] et [FRA.GetAdjMP] se tiennent désormais côte à côte pour défendre leurs libertés."
+
+r56.news_event.22.t:0 "Un Napoléon s'empare de la France"
+r56.news_event.22.desc:0 "Avec l'aide des militaires, un Napoléon qui se réclame être Napoléon VI prend le pouvoir en France. Selon les déclarations officielles, il ne s'agit pas d'une prise de pouvoir violente, mais d'une manière de résoudre les querelles parlementaires en instaurant une figure consensuelle qui se placerait au-dessus des partis et permettrait ainsi à la République de prospérer à nouveau.\n\nMalgré cette tonalité républicaine, il est clair que le nouveau pouvoir rappelle aussi constamment le souvenir du Premier Empire français et que l'Empereur limite l'opposition officielle dans sa nouvelle « république »."
+r56.news_event.22.a:0 "Il n'est certainement pas l'un des nôtres !"
+r56.news_event.22.b:0 "Le bonapartisme a toujours été une dictature bourgeoise déguisée."
+r56.news_event.22.c:0 "Combien de temps avant qu'il n'y ait plus de fêtes du tout ?"
+r56.news_event.22.e:0 "Une menace ou un allié potentiel ?"
+r56.news_event.22.d:0 "Vive l'Empereur !"

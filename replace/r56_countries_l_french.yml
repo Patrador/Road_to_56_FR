@@ -2388,6 +2388,20 @@
  UZB_neutrality:0 "République d'Ouzbékistan"
  UZB_neutrality_DEF:0 "la République d'Ouzbékistan"
 
+ #VCW
+ VCW_fascism:0 "États falangistes du Vénézuéla"
+ VCW_fascism_DEF:0 "les États falangistes du Vénézuéla"
+ VCW_democratic:0 "États-Unis du Vénézuéla"
+ VCW_democratic_DEF:0 "les États-Unis du Vénézuéla"
+ VCW_neutrality:0 "Gouvernement national vénézuélien"
+ VCW_neutrality_DEF:0 "le Gouvernement national vénézuélien"
+ VCW_communism:0 "République populaire du Vénézuéla"
+ VCW_communism_DEF:0 "la République populaire du Vénézuéla"
+ VCW_fascism_ADJ:0 "vénézuélien"
+ VCW_democratic_ADJ:0 "vénézuélien"
+ VCW_neutrality_ADJ:0 "vénézuélien"
+ VCW_communism_ADJ:0 "vénézuélien"
+
  #VEN
  VEN_fascism:0 "États-Unis du Vénézuéla"
  VEN_fascism_DEF:0 "les États-Unis du Vénézuéla"

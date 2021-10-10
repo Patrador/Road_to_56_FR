@@ -1,0 +1,23 @@
+﻿ #####Reorganized by Abbus
+ 
+ l_french:
+ 
+ship_hull_light_5:0 "Coque de destroyer 1948"
+ship_hull_light_5_desc:0 "Coque de destroyer 1948"
+ship_hull_cruiser_5:0 "Coque de croiseur 1948"
+ship_hull_cruiser_5_desc:0 "Coque de croiseur 1948"
+ship_hull_heavy_5:0 "Coque de cuirassé 1948"
+ship_hull_heavy_5_desc:0 "Coque de cuirassé 1948"
+ship_hull_carrier_4:0 "Coque de porte-avions 1948"
+ship_hull_carrier_4_desc:0 "Coque de porte-avions 1948"
+ship_hull_submarine_5:0 "Coque de sous-marin 1948"
+ship_hull_submarine_5_desc:0 "Est-ce que c'est ce qu'on appelle un super sous-marin ?"
+
+
+carrier_ship_engine_nuclear_1:0 "Moteur de porte-avions nucléaire"
+carrier_ship_engine_nuclear_1_desc:0 "Comme dans la bande dessinée de Buck Danny, « Le mystère des avions fantômes »"
+heavy_ship_engine_nuclear_1:0 "Moteur de cuirassé nucléaire"
+heavy_ship_engine_nuclear_1_desc:0 "Il existe une excellente raison pour laquelle vous devriez placer votre réacteur nucléaire à l'intérieur d'un cuirassé au lieu de le tirer sur un oiseau géant aussi grand que ledit navire."
+sub_ship_engine_nuclear_1:0 "Moteur de sous-marin nucléaire"
+
+sub_ship_engine_nuclear_1_desc:0 "Fonctionne parfaitement, comme on le voit dans le film « K-19 »."

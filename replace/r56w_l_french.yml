@@ -48,6 +48,7 @@ l_french:
 #Invisibile DOW event
  r56w.event.37.t:0 "Qu'ont-ils fait ?"
  r56w.event.37.d:0 ""
+ r56w.event.37.a:0 "Oui !"
 
 #Hitler's Stach
  r56w.event.38.t:0 "Le rasoir de la justice"

@@ -2,6 +2,9 @@
 
  is_AH_tt:0 "Est l'§YAutriche-Hongrie§!"
 
+ HUN_alliance_with_the_kaiserreich:0 "Alliance avec le Kaiserreich"
+ HUN_alliance_with_the_kaiserreich_desc:0 "L'influence industrielle des Allemands sur notre pays rend une alliance diplomatique presque inévitable."
+
  HUN_form_the_mdp:0 "Former le MDP"
  HUN_form_the_mdp_desc:0 "Une réorganisation des partis politiques doit se faire en créant un front uni et en incluant les nombreux partis de gauche, avec le Parti communiste à sa tête."
  HUN_turn_the_adriatic_red:0 "Tourner l'Adriatique en rouge"

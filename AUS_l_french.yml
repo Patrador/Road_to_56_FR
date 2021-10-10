@@ -1080,6 +1080,10 @@ AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
  austria.1207.d:0 "Nous avons reçu le modèle du §YTortoise§! de nos alliés de Grande-Bretagne. Le nouveau modèle sera prêt pour la production immédiatement."
  austria.1207.a:0 "Un cadeau de nos amis."
  austria.1207.a.tt:0 "Vous recevez une variante améliorée du §YTortoise§!."
+
+ austria.1209.t:0 "Spécialistes [SOV.GetAdjMP] détenus"
+ austria.1209.d:0 "Le déclenchement de la guerre entre nos deux pays a suscité des interrogations sur la loyauté des experts [SOV.GetAdjMP] et des technologies qu'ils nous ont fournies. \n\nLes spécialistes détenus sont gardés dans une prison spécifique dans un endroit inconnu où ils ne peuvent pas nous faire de mal ou espionner pour nos ennemis."
+ austria.1209.a:0 "Nous avons fait ce qui devait être fait"
  
  austria.1187.t:0 "Nous avons reçu de nouveaux documents de conception"
  austria.1187.d:0 "Nous avons reçu le modèle du §YHurricane§! de nos alliés de Grande-Bretagne. Le nouveau modèle sera prêt pour la production immédiatement."

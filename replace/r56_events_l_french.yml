@@ -14,3 +14,6 @@
  wtt_germany.82.t:0 "[FROM.GetNameDef] refus[FROM.GetEEntNP] notre ultimatum"
  wtt_germany.82.d:0 "Le gouvernement [FROM.GetAdjMS] a clairement fait savoir qu'ils ne nous rendront pas le Schleswig du Nord et que tout acte de notre part visant à le reprendre serait un acte de guerre."
  wtt_germany.82.a:0 "Alors, c'est la guerre."
+
+ r56_leader_events.1.t:0 "[From.GetName] s'est échappé miraculeusement"
+ r56_leader_events.1.desc:0 "En commandant ses troupes, [From.GetRank] [From.GetName] s'est mis en danger et pendant un certain temps, on a craint qu'il ait été touché personnellement. Mais malgré les tentatives de l'ennemi, le destin avait un autre plan pour le [From.GetRank]. [From.GetName] est en fait indemne et prêt à continuer la guerre."
