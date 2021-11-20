@@ -7,6 +7,8 @@
  JAP_japan_international_aviation_industries:0 "Japan Int. Aviation Industries"
  JAP_japan_steel_works:0 "Usines sidérurgiques du Japon"
  JAP_nippon_oil:0 "Pétrole du Nippon"
+ JAP_hitachi_zosen:0 "Hitachi Zōsen Corporation"
+
 
  JAP_teruhisa_komatsu:0 "Teruhisa Komatsu"
  JAP_minoru_takano:0 "Minoru Takano"
@@ -70,13 +72,38 @@
  JAP_reinforce_cooperation_with_poland:0 "Renforcer la coopération avec la Pologne"
  JAP_reinforce_cooperation_with_poland_desc:0 "Depuis son indépendance, la Pologne a été un excellent partenaire dans la quête de renseignements sur l'URSS. Maintenant qu'ils sont menacés par l'armée [SOV.GetAdjFS] comme dans les années 1920, la région autour de Vladivostok devrait avoir réduit ses garnisons, ce qui signifie qu'il est temps de les attaquer."
 
- JAP_side_with_the_balkan_league_against_the_ussr:0 "Se ranger du côté de la Ligue des Balkans contre l'URSS"
+ JAP_a_new_spirit_for_an_old_alliance:0 "Un nouvel esprit pour une vieille alliance"
+ JAP_a_new_spirit_for_an_old_alliance_desc:0 "Maintenant que nous sommes idéologiquement alignés, nous devrions réfléchir au renouvellement de l'alliance anglo-japonaise."
+
+ JAP_invite_malaysia:0 "Inviter la Malaisie"
+ JAP_invite_malaysia_desc:0 "Inviter la Malaisie, avec une description, quelque chose... Je suis un peu en manque d'inspiration. Pensez juste à quelque chose de bien, obtenir des alliés clés dans le détroit de Sarawak, quelque chose comme ça."
+
+ JAP_invite_indonesia:0 "Inviter l'Indonésie"
+ JAP_invite_indonesia_desc:0 "L'archipel est essentiel pour protéger la route vers l'Inde et l'Europe." 
+
+ JAP_invite_canada:0 "Inviter le Canada"
+ JAP_invite_canada_desc:0 "Avez-vous déjà essayé de mettre du sirop d'érable sur vos sushis ?"
+
+ JAP_invite_the_philippines:0 "Inviter les Philippines"
+ JAP_invite_the_philippines_desc:0 "Maintenant que les États-Unis sont partis, il est de notre responsabilité de protéger les Philippines." 
+
+ JAP_invite_australia:0 "Inviter l'Australie"
+ JAP_invite_australia_desc:0 "Aligato mate !"  
+
+ JAP_invite_new_zealand:0 "Inviter la Nouvelle-Zélande"
+ JAP_invite_new_zealand_desc:0 "Nous devons nous allier à la Nouvelle-Zélande !"  
+
+ JAP_invite_the_pacific_states:0 "Inviter les États du Pacifique"
+ JAP_invite_the_pacific_states_desc:0 "Puissant Archipel contacter petits. Petits, s'il vous plaît répondre." 
+
+ JAP_side_with_the_balkan_league_against_the_ussr:0 "S'allier à la Ligue des Balkans contre l'URSS"
  JAP_side_with_the_balkan_league_against_the_ussr_desc:0 "Les Balkans sont en guerre contre [SOV.GetNameDef], ils pourraient et devraient être aidés afin d'éliminer l'un de nos plus grands rivaux en Asie."
 
  JAP_obtain_polish_cryptological_data:0 "Obtenir des données cryptologiques [POL.GetAdjFP]"
  JAP_obtain_polish_cryptological_data_desc:0 "Les efforts du département de cryptologie [POL.GetDuDelaDelNP] [POL.GetName] pourraient être très utiles dans notre succès contre nos ennemis."
 
  JAP_nippon_nordic_friendship_treaty:0 "Traité d'amitié nippon-nordique"
+ JAP_anglo_japanese_friendship_treaty:0 "Traité d'amitié anglo-japonais"
  
  JAP_nordic_strategy:0 "La stratégie nordique"
  JAP_nordic_strategy_desc:0 "Pour compléter la stratégie nordique, il est logique d'essayer de trouver des pays du Nord qui partagent nos points de vue concernant [SOV.GetNameDef]. La Scandinavie et la Finlande s'inquiètent depuis longtemps des activités [SOV.getAdjFP], et les relations diplomatiques se termineront probablement par la signature d'un traité de coopération. Vive le traité d'amitié nippon-nordique !"
@@ -86,7 +113,7 @@
 
  JAP_diversified_tank_roles:0 "Rôles diversifiés des chars"
  JAP_diversified_tank_roles_desc:0 "Équipés de différents types de canons et de différents systèmes de traction, les systèmes blindés peuvent alors remplir des missions plus variées sur le champ de bataille."
- JAP_red_pacific_fleet:0 "La flotte du Pacifique rouge"
+ JAP_red_pacific_fleet:0 "La flotte rouge du Pacifique"
  JAP_red_pacific_fleet_desc:0 "Nous devons reconstruire notre flotte selon des critères idéologiques."
  JAP_corporate_developments:0 "Développements des entreprises"
  JAP_corporate_developments_desc:0 "Notre collaboration avec les Zaibatsus sera certainement fructueuse."

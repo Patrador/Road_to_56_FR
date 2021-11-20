@@ -2,6 +2,18 @@
 
  is_AH_tt:0 "Est l'§YAutriche-Hongrie§!"
 
+ HUN_moderate_restoration:0 "Restauration modérée"
+ HUN_moderate_restoration_desc:0 "Constatant la cruauté et la souffrance causées par le nationalisme radical et le communisme, le roi et empereur Otto a décidé de ne pas revendiquer de territoires étrangers afin de préserver l'Europe d'une autre catastrophe."
+
+ HUN_fortification_cooperation:0 "Coopération de fortification"
+ HUN_fortification_cooperation_desc:0 "Nos ressources communes peuvent permettre d'éviter le pire."
+
+ HUN_papal_blessing:0 "Bénédiction papale"
+ HUN_papal_blessing_desc:0 "Pendant des siècles, les Habsbourg ont soutenu l'Église une, sainte, catholique et apostolique."
+
+ HUN_invite_croatia:0 "Inviter la Croatie"
+ HUN_invite_croatia_desc:0 "Les Croates sont liés à nous depuis longtemps. Ils pourraient devenir des alliés fiables."
+
  HUN_alliance_with_the_kaiserreich:0 "Alliance avec le Kaiserreich"
  HUN_alliance_with_the_kaiserreich_desc:0 "L'influence industrielle des Allemands sur notre pays rend une alliance diplomatique presque inévitable."
 
@@ -130,6 +142,8 @@
  r56_hungary_6.t:0 "Rejoindre Charles Bernadotte"
 
  HUN_balkan_pact_preparation:0 "Préparations militaires de [HUN.getfactionname]"
+
+ HUN_claim_south_tyrol:0 "Revendiquer le Tyrol du Sud"
 
  r56_hungary_6.desc:0 "Rejoindre Charles Bernadotte"
  r56_hungary_6.a:0 "Pour la victoire !"

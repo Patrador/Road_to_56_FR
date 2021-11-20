@@ -17,6 +17,12 @@
  oligarchic_democracy_desc:0 "Une §Ydémocratie oligarchique§! est une démocratie qui fonctionne toujours selon un §GÉtat de droit§!, mais elle est dirigée par un groupe de personnes qui a pris le contrôle de la majorité des institutions du pays. Si les §Roligarchies§! au pouvoir doivent encore rendre des comptes, les institutions du pays leur imposent une certaine responsabilité, le pays court donc un risque majeur de devenir une §Roligarchie autoritaire§!"
  monarchical_theocracy:0 "Théocratie monarchique"
  monarchical_theocracy_desc:0 "Une §Ythéocratie monarchique§! est une forme de gouvernement dans lequel un monarque détient l'§Yautorité§! sur le §Gpouvoir executif§! d'un pays. Le §Yclergé§! de la religion dominante du pays détient le pouvoir §Rabsolu§! sur les lois écrites de la nation, les droits de douanes, les affaires intérieures, et le §Ypouvoir judiciaire.§!"
+ islamic_democracy:0 "Démocratie islamique"
+ islamic_democracy_desc:0 "Opposés à la fois au radicalisme et à la laïcité, les partisans de la §Ydémocratie islamique§! prônent un État guidé par les enseignements du Coran, des Hadits et du prophète Mahomet, ainsi que par les imams, ustadz et ulama locaux, avec des dirigeants élus démocratiquement et un accent sur les droits civils."
+ marhaenism:0 "Marhaénisme"
+ marhaenism_desc:0 "Une variation plus à droite du marxisme, le §Ymarhaénisme§! est adapté aux conditions sociales en Indonésie et met l'accent sur le nationalisme et l'économie collectiviste, ainsi que sur les droits démocratiques, tout en condamnant le libéralisme et l'individualisme."
+ marhaenism_f:0 "Marhaénisme"
+ marhaenism_f_desc:0 "Une variation plus à droite du marxisme, le §Ymarhaénisme§! est adapté aux conditions sociales en Indonésie et met l'accent sur le nationalisme et l'économie collectiviste, ainsi que sur les droits démocratiques, tout en condamnant le libéralisme et l'individualisme."
 
 
  #FIXES

@@ -117,3 +117,51 @@ r56.news_event.22.b:0 "Le bonapartisme a toujours été une dictature bourgeoise
 r56.news_event.22.c:0 "Combien de temps avant qu'il n'y ait plus de fêtes du tout ?"
 r56.news_event.22.e:0 "Une menace ou un allié potentiel ?"
 r56.news_event.22.d:0 "Vive l'Empereur !"
+
+#Romanian Civil war
+
+r56.news_event.23.t:0 "Guerre civile en Roumanie"
+r56.news_event.23.desc:0 "Menacée par le roi, la Garde de fer nationaliste roumaine a décidé de se révolter ouvertement contre le gouvernement. Aidés par de puissants alliés dans l'armée, ils parviennent à sécuriser de larges pans du pays..\n\nS'adressant à une foule de partisans, ils déclarent l'abolition de la monarchie et proclament que la Roumanie est un État légionnaire national."
+r56.news_event.23.a:0 "La monarchie roumaine doit être défendue."
+r56.news_event.23.b:0 "C'est l'expression finale des querelles intérieures entre bourgeois et capitalistes."
+r56.news_event.23.c:0 "Un autre pays est déchiré par ces extrémistes."
+r56.news_event.23.e:0 "La Garde de fer doit gagner."
+
+r56.news_event.24.t:0 "Les monarchistes roumains déposent les armes"
+r56.news_event.24.desc:0 "Après l'annonce de la capitulation des monarchistes roumains, la Garde de fer défile en triomphe dans les rues de Bucarest. Maintenant qu'elle a gagné la guerre, la nouvelle « Roumanie légionnaire nationale » devra gagner la paix et asseoir sa légitimité en tant que représentant unique de la volonté du peuple roumain."
+r56.news_event.24.a:0 "Une autre couronne à tomber aux mains de dangereux révolutionnaires."
+r56.news_event.24.b:0 "C'est le résultat de la concurrence bourgeoise."
+r56.news_event.24.c:0 "Le pari de Cordeanu a payé."
+r56.news_event.24.d:0 "Le pari de Cordeanu a payé."
+
+r56.news_event.25.t:0 "La fin de la guerre civile roumaine"
+r56.news_event.25.desc:0 "La tentative de coup d'État de la Garde de fer fasciste, la branche paramilitaire du parti roumain « Tout pour le pays », a été vaincue par les forces loyalistes qui défendent la monarchie.\n\nDe nombreux fascistes ont refusé de se rendre et ont respecté les paroles d'honorer la mort et l'action de donner la mort. Certains de leurs dirigeants ont toutefois choisi l'exil afin d'assurer la survie du mouvement."
+r56.news_event.25.a:0 "Les institutions ont tenu bon."
+r56.news_event.25.b:0 "Le chaos au sein de la bourgeoisie rend notre ascension inévitable."
+r56.news_event.25.c:0 "Les institutions ont tenu bon."
+r56.news_event.25.d:0 "Félicitations à Codreanu !"
+
+#Italian Civil war
+
+r56.news_event.26.t:0 "Guerre civile en Italie"
+r56.news_event.26.desc:0 "Renvoyé par le roi Victor-Emmanuel III de son poste de Premier ministre, le « Duce » Benito Mussolini décide de rassembler ses partisans en Italie du Nord et de revenir à ses racines républicaines.\n\nS'adressant à ses partisans dans la ville de Salò, il a déclaré qu'un pays véritablement fasciste devait suivre un dictateur, ajoutant que s'il y avait une chose que les anciens Romains méprisaient, c'était la monarchie."
+r56.news_event.26.a:0 "La maison de Savoie doit être protégée."
+r56.news_event.26.b:0 "C'est l'expression finale des querelles intérieures entre bourgeois et capitalistes."
+r56.news_event.26.c:0 "Le lieu de naissance du fascisme montre l'étendue de son échec."
+r56.news_event.26.e:0 "Les fascistes doivent gagner pour montrer la force de notre idéal."
+
+#RSI victory
+r56.news_event.27.t:0 "Fin de la guerre civile italienne"
+r56.news_event.27.desc:0 "Le Duce Benito Mussolini s'adresse à la foule en déclarant triomphalement le succès de la République sociale italienne. Des troupes comme le X Battaglia MAS et divers éléments de la Garde nationale républicaine défilent le long de la Via del Impero, entourés des vestiges des Forums romains. Alors que l'Italie était déjà fasciste auparavant, la purge totale de l'opposition annonce une application encore plus stricte des politiques fascistes, peut-être même un nouvel ensemble de lois « fascistissime ».\n\n Entre-temps, de nombreux membres de l'opposition ont été arrêtés et un nombre encore plus grand a choisi l'exil."
+r56.news_event.27.a:0 "Le fascisme est clairement difficile à déraciner."
+r56.news_event.27.b:0 "Le fascisme est clairement difficile à déraciner."
+r56.news_event.27.c:0 "Le fascisme est clairement difficile à déraciner."
+r56.news_event.27.e:0 "Encore une autre preuve de la force du fascisme."
+
+#monarchist victory
+r56.news_event.28.t:0 "Fin de la guerre civile italienne"
+r56.news_event.28.desc:0 "[ITA.GetLeader] triomphe alors que les dernières forces rebelles se rendent aux unités de l'Armée royale italienne. Une grande messe pour l'âme des victimes de la guerre civile suivie d'une procession expiatoire ont lieu à la Basilica collegiata di Santa Maria ad Martyres (également connue sous le nom de Panthéon).\n\nLe régime monarchique a maintenant été rétabli. Le roi va-t-il rouvrir le parlement et permettre à la vie politique de s'épanouir ou va-t-il tenter de se mettre à l'abri en utilisant une sorte de dictature royale ? Il est encore trop tôt pour répondre."
+r56.news_event.28.a:0 "Un trône a été sauvé !"
+r56.news_event.28.b:0 "Le capitalisme féodo-bourgeois est l'antithèse de la domination prolétarienne."
+r56.news_event.28.c:0 "Il n'y a pas de guerre plus horrible que la guerre civile."
+r56.news_event.28.e:0 "Il n'y a pas de guerre plus horrible que la guerre civile."

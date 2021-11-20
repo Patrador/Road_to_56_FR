@@ -509,6 +509,17 @@
  FIJ_ENG_fascism_subject:1 "Colonie de Fidji"
  FIJ_ENG_fascism_subject_DEF:1 "la Colonie de Fidji"
  FIJ_ENG_fascism_subject_ADJ:1 "fidjien"
+ 
+ #FSM
+ FSM_JAP_fascism:0 "Mandat des îles du Pacifique"
+ FSM_JAP_fascism_DEF:0 "le Mandat des îles du Pacifique"
+ FSM_JAP_fascism_ADJ:0 "micronésien" 
+ FSM_JAP_neutrality:0 "Mandat des îles du Pacifique"
+ FSM_JAP_neutrality_DEF:0 "le Mandat des îles du Pacifique"
+ FSM_JAP_neutrality_ADJ:0 "micronésien" 
+ FSM_JAP_fascism_autonomy_collaboration_government:0 "Mandat des îles du Pacifique"
+ FSM_JAP_fascism_autonomy_collaboration_government_DEF:0 "le Mandat des îles du Pacifique" 
+ FSM_JAP_fascism_autonomy_collaboration_government_ADJ:0 "micronésien"
 
  #FRA
  #German Puppet
@@ -684,6 +695,32 @@
  HUN_MONARCHY_democratic_DEF:0 "le Royaume de Hongrie"
  HUN_MONARCHY_fascism:0 "Royaume de Hongrie"
  HUN_MONARCHY_fascism_DEF:0 "le Royaume de Hongrie"
+ 
+ #Moldavian Romania
+
+ MOL_ROM_communism_autonomy_puppet:0 "République socialiste autonome de Moldavie"
+ MOL_ROM_communism_autonomy_puppet_DEF:0 "la République socialiste autonome de Moldavie"
+ MOL_ROM_fascism_autonomy_puppet:0 "Province autonome de Moldavie"
+ MOL_ROM_fascism_autonomy_puppet_DEF:0 "la Province autonome de Moldavie"
+ MOL_ROM_autonomy_puppet:0 "Principauté de Moldavie"
+ MOL_ROM_autonomy_puppet_DEF:0 "la Principauté de Moldavie" 
+
+ #ROM Wallachia
+ ROM_WALLACHIA_neutrality:0 "Royaume de Valachie"
+ ROM_WALLACHIA_fascism:0 "État de Valachie"
+ ROM_WALLACHIA_democratic:0 "Royaume de Valachie"
+ ROM_WALLACHIA_communism:0 "République populaire de Valachie"
+ ROM_WALLACHIA_neutrality_DEF:0 "le Royaume de Valachie"
+ ROM_WALLACHIA_fascism_DEF:0 "l'État de Valachie"
+ ROM_WALLACHIA_democratic_DEF:0 "le Royaume de Valachie"
+ ROM_WALLACHIA_communism_DEF:0 "la République populaire de Valachie"
+ ROM_WALLACHIA_communism_ADJ:0 "valaque"
+ ROM_WALLACHIA_neutrality_ADJ:0 "valaque"
+ ROM_WALLACHIA_democratic_ADJ:0 "valaque"
+ ROM_WALLACHIA_fascism_ADJ:0 "valaque"
+
+ ROM_LEGIONARY_fascism:0 "État légionnaire roumain"
+ ROM_LEGIONARY_fascism_DEF:0 "l'État légionnaire roumain"
 
  #SCA_UNIFIED
  SCA_UNIFIED_democratic:0 "Fédération scandinave"
@@ -896,6 +933,14 @@
  RUT2_SOV_communism_autonomy_colony_DEF:0 "la République socialiste soviétique d'Ukraine"
  RUT2_SOV_communism_autonomy_puppet_DEF:1 "la République socialiste soviétique autonome d'Ukraine"
  RUT2_SOV_communism_autonomy_integrated_puppet_DEF:0 "l'Oblast autonome d'Ukraine"
+
+ #Romanian Transylvania (Ardeal)
+ TRA_ROM_communism_autonomy_puppet:0 "République socialiste autonome d'Ardeal"
+ TRA_ROM_communism_autonomy_puppet_DEF:0 "la République socialiste autonome d'Ardeal"
+ TRA_ROM_fascism_autonomy_puppet:0 "Province autonome d'Ardeal"
+ TRA_ROM_fascism_autonomy_puppet_DEF:0 "la Province autonome d'Ardeal"
+ TRA_ROM_autonomy_puppet:0 "Principauté d'Ardeal"
+ TRA_ROM_autonomy_puppet_DEF:0 "la Principauté d'Ardeal" 
 
  #LAO
  LAO_FRA_neutrality:0 "Protectorat du Laos"

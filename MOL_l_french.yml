@@ -27,6 +27,6 @@ MOL_integrate_historical_moldova:0 "Intégrer la Moldavie historique"
 MOL_integrate_bukovina:0 "Intégrer la Bucovine"
 
 r56_moldova.1.t:0 "[MOL.GetLeLaLNP] [MOL.GetName] demand[MOL.GetEEntNP] l'unification."
-r56_moldova.1.desc:0 "Des représentants [MOL.GetAdjMP] ont contacté notre gouvernement et annoncé que leur gouvernement a décidé à l'unanimité d'exiger que leur pays soit intégré à la Roumanie, en restaurant la Grande Roumanie."
+r56_moldova.1.desc:0 "Des représentants [MOL.GetAdjMP] ont nous ont contacté et ont annoncé que leur gouvernement a décidé à l'unanimité de demander la dissolution et l'annexion de leur pays à la Roumanie."
 r56_moldova.1.a:0 "Bien sûr !"
 r56_moldova.1.b:0 "Ce n'est pas dans notre intérêt."

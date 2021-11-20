@@ -15,6 +15,9 @@
 
  AST_FOCUS_TREE_SELECTION:0 "@AST Australie"
  GER_FOCUS_TREE_SELECTION:0 "@GER Allemagne"
+ POL_FOCUS_TREE_SELECTION:0 "@POL Pologne"
+ SOV_FOCUS_TREE_SELECTION:0 "@SOV Union soviétique" 
+ MAN_FOCUS_TREE_SELECTION:0 "@MAN Mandchourie"
  HOL_FOCUS_TREE_SELECTION:0 "@HOL Pays-Bas"
  MEX_FOCUS_TREE_SELECTION:0 "@MEX Mexico"
  SAF_FOCUS_TREE_SELECTION:0 "@SAF Afrique du Sud"
@@ -25,6 +28,11 @@
  GRE_FOCUS_TREE_SELECTION:0 "@GRE Grèce"
  BUL_FOCUS_TREE_SELECTION:0 "@BUL Bulgarie"
  TUR_FOCUS_TREE_SELECTION:0 "@TUR Turquie"
+ EST_FOCUS_TREE_SELECTION:0 "@EST Estonie"   
+ LAT_FOCUS_TREE_SELECTION:0 "@LAT Lettonie"
+ LIT_FOCUS_TREE_SELECTION:0 "@LIT Lituanie"
+
+
 
  ###---> AI Behavior <><> <><> <><>
  RULE_GROUP_AI_BEHAVIOR:0 "Comportement de l'IA"
@@ -219,6 +227,14 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  RULE_OPTION_DEN_FRAGMENTED_DESC:0 "Toutes les nations libérables au Danemark sont libérées en tant que nations libres et indépendantes dès le début de la partie."
  RULE_OPTION_DEN_DECENTRALIZED:0 "Danemark décentralisé"
  RULE_OPTION_DEN_DECENTRALIZED_DESC:0 "Toutes les nations libérables au Danemark sont libérées en tant que nations fantoches dès le début de la partie."
+ ROM_FRAGMENTATION_STATUS:0 "@ROM Division de la Roumanie"
+ RULE_OPTION_ROM_FRAGMENTED:0 "Roumanie divisée"
+ RULE_OPTION_ROM_FRAGMENTED_DESC:0 "Toutes les nations libérables en Roumanie sont libérées en tant que nations libres et indépendantes dès le début de la partie."
+ RULE_OPTION_ROM_DECENTRALIZED:0 "Roumanie décentralisée"
+ RULE_OPTION_ROM_DECENTRALIZED_DESC:0 "Toutes les nations libérables en Roumanie sont libérées en tant que nations fantoches dès le début de la partie."
+
+ RULE_OPTION_FASCIST_CODREANU:0 "Coup d'État de la Garde de fer de Codreanu"
+ RULE_FASCIST_CODREANU_ROM_AI_DESC:0 "Au lieu d'être emprisonné, Corneliu Codreanu va unir les mouvements fascistes et se rebeller contre les monarchistes. (la victoire dans la guerre civile n'est pas garantie)"
 
  SPR_R56_focus_tree:0 "L'arbre de Road to 56 pour l'Espagne est sélectionné."
  SPR_FRAGMENTATION_STATUS:0 "@SPR Division de l'Espagne"

@@ -1,0 +1,12 @@
+﻿l_french:
+
+#parties
+ 
+SGP_fascism_party:0 "PAP" 
+  SGP_fascism_party_long:0 "Parti d'action populaire"
+SGP_democratic_party:0 "Progressistes"
+  SGP_democratic_party_long:0 "Parti progressiste"
+SGP_communism_party:0 "FT"
+  SGP_communism_party_long:0 "Front travailliste"
+SGP_neutrality_party:0 "Bendahara"
+  SGP_neutrality_party_long:0 "Maison de Bendahara"

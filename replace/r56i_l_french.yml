@@ -43,9 +43,10 @@ l_french:
  r56i_laws_leadership_secular:0 "Institutions laïques"
  r56i_laws_leadership_divine:0 "Inspiration divine"
  r56i_laws_leadership_people:0 "Volonté du peuple"
+ r56i_laws_leadership_communal_decision_making:0 "Prise de décision commune"
 
  r56i_idea_riots:0 "Troubles civils"
- r56i_idea_riots_desc:0 "Les gens sont mécontents et font des manifestations publiques, parfois violentes."
+ r56i_idea_riots_desc:0 "La population est mécontente et organise des manifestations publiques, parfois violentes."
  r56i_idea_riots_escalate:0 "Émeutes graves"
  r56i_idea_riots_escalate_desc:0 "La population est au bord de la rébellion à part entière, à cause à nos précédents efforts infructueux."
  r56i_idea_suppress_harsh:0 "Sévère répression"

@@ -196,7 +196,7 @@
  form_peru_bolivia_category:0 "L'histoire de deux frères"
  form_peru_bolivia:0 "Réunifier le Pérou et la Bolivie"
 
- #Carribean#
+ #Caribbean#
  CAB_fascism:0 "État de l'Union des Caraïbes"
  CAB_fascism_DEF:0 "l'État de l'Union des Caraïbes"
  CAB_democratic:0 "Fédération des Caraïbes"
@@ -400,6 +400,20 @@
  CARIB_naval_buildup_desc:0 "Un nouvel âge d'or naval nous attend !"
  CARIB_legacy_of_piracy:0 "L'héritage de la piraterie"
  CARIB_legacy_of_piracy_desc:0 "Si Barbe Noire a réussi à perturber le commerce dans toute la région, nous pouvons le faire aussi. Faisons voler le Jolly Roger !"
+
+ is_majapahit_tt:0 "A unifié §YMajapahit§!"
+ MAJ_UNIFIED_majapahit_unification:0 "La renaissance de Majapahit"
+ MAJ_UNIFIED_majapahit_unification_desc:0 "Les îles et les zones côtières de l'Asie du Sud-Est ont enfin été réunies, un avenir glorieux les attend !" 
+ MAJ_UNIFIED_develop_mining:0 "Développer nos propres ressources"
+ MAJ_UNIFIED_develop_mining_desc:0 "Nos ressources sont notre plus grand atout. Révélons les trésors qui se trouvent sous nos pieds."
+ MAJ_UNIFIED_improve_local_infrastructure:0 "Connecter les villes"
+ MAJ_UNIFIED_improve_local_infrastructure_desc:0 "Notre territoire est vaste et nos routes sont peu nombreuses et espacées. Cela doit être changé."
+ MAJ_UNIFIED_ethnic_collaboration:0 "Collaboration ethnique"
+ MAJ_UNIFIED_ethnic_collaboration_desc:0 "Nous devons nous assurer que nos liens communs garantissent notre union et cimentent l'identité majapahit plutôt que de revenir aux anciennes rivalités ethniques."
+ MAJ_UNIFIED_naval_buildup:0 "Renforcement naval"
+ MAJ_UNIFIED_naval_buildup_desc:0 "Un nouvel âge d'or naval nous attend !"
+ MAJ_UNIFIED_legacy_of_piracy:0 "L'héritage de la piraterie"
+ MAJ_UNIFIED_legacy_of_piracy_desc:0 "Si Barbe Noire a réussi à perturber le commerce dans toute la région, nous pouvons le faire aussi. Faisons voler le Jolly Roger !"
 
 
  is_platine_or_hispanic_tt:0 "A unifié la §Yvice-royauté du Rio de la Plata§! ou l'intégralité de l'§YHispanoamérica§!."

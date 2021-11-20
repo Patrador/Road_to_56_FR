@@ -316,3 +316,6 @@ euskalduna:0 "Euskalduna"
  
  SPA_r56_carlist_diplomacy:0 "Diplomatie carliste"
  SPA_r56_carlist_diplomacy_desc:0 "Nous devons trouver des alliés dans ce monde en constante évolution, afin de pouvoir rester fermes sur notre trône." 
+
+ SPR_direct_NKVD_assistance:0 "Expertise tchékiste"
+ SPR_direct_NKVD_assistance_desc:0 "L'aide des Tchékistes serait précieuse pour protéger la révolution."

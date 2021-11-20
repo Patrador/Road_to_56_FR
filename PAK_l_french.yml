@@ -84,7 +84,7 @@
  pakistan.5.d:0 "La côte du Bengale semble plus hostile que d'habitude. Avec la nouvelle qu'un cyclone dévastateur pourrait frapper à tout moment, les gens paniquent et demandent de l'aide à leur dirigeant."
  
  
- EFFECT_CHANGE_LAW_r56i_laws_social:0 "Modifications des lois sociales"
+ EFFECT_CHANGE_LAW_r56i_laws_social:0 "Change l'application de la loi pour :"
 PAK_Build_Refineries:0 "Construire des raffineries"
 PAK_Build_Refineries_desc:0 ""
 PAK_Build_Radar_Stations:0 "Construire des stations radar"
@@ -99,7 +99,7 @@ PAK_Nuclear_Research_desc:0 ""
  PAK_Down_with_Persia_desc:0 ""
  PAK_The_Graveyard_of_Empires:0 "Le cimetière des empires"
  PAK_The_Graveyard_of_Empires_desc:0 ""
- PAK_Birth_of_a_Nation:2 "Une nation est née"
+ PAK_Birth_of_a_Nation:2 "Organiser notre nation"
 PAK_Birth_of_a_Nation_desc:0 ""
 PAK_General_Election:2 "Élections générales"
 PAK_General_Election_desc:0 ""

@@ -1,5 +1,11 @@
 ﻿l_french:
  romanian_focus:0 "Priorités nationales roumaines"
+ iron_guard_crushed:0 "La Garde de Fer a été écrasée dans une guerre civile."
+ ROM_become_romania:0 "Devenir la Roumanie"
+
+ ROM_restore_greater_romania:0 "Restaurer la Grande Roumanie"
+ ROM_restore_greater_romania_desc:0 "Nous devons unir tous les Roumains sous une même bannière !"
+
  ROM_obtain_polish_cryptological_data:0 "Obtenir des données cryptologiques polonaises"
  ROM_obtain_polish_cryptological_data_desc:0 "Nos grands alliés polonais ont fait des percées dans le domaine des décryptages assistés par ordinateur. En collaborant étroitement, nous pourrions profiter de leurs technologies." 
 
@@ -15,6 +21,7 @@
  ROM_combinatul_siderurgic_hunedoara:0 "Combinatul Siderurgic Hunedoara"
  ROM_rafinaria_steaua_romana:0 "Rafinaria Steaua Română"
  ROM_philips_sar:0 "Philips S.A.R."
+ ROM_resita_works:0 "Resita Works"
  DOD_romania.1000.t:0 "Le nouveau personnel"
  DOD_romania.1000.d:0 "Le nouveau régime communiste cherche à réorganiser l'armée et à remplacer les officiers de droite par des officiers de gauche, nous avons rassemblé des officiers prometteurs et nous nous préparons à les promouvoir."
  DOD_romania.1000.a:0 "Je suis sûr qu'ils peuvent faire leur travail"
@@ -24,6 +31,36 @@
 
  ROM_oil_refining_infrastructure:0 "Infrastructure de raffinage du pétrole"
  ROM_oil_refining_infrastructure_desc:0 "Afin d'exploiter efficacement notre pétrole, l'infrastructure de raffinage doit être développée."
+
+ ROM_codreanu_goga_cooperation:0 "Coopération Cordeanu - Goga"
+ ROM_codreanu_goga_cooperation_desc:0 "L'absorption du Parti national chrétien d'Octavian Goga garantira que nous agirons comme une force unifiée, bras de l'Archange Michel et du peuple roumain."
+ ROM_terrorize_the_opposition:0 "Terroriser l'opposition"
+ ROM_terrorize_the_opposition_desc:0 "Des opérations ciblées doivent être menées contre nos adversaires afin d'empêcher leur oppression."
+ ROM_defy_the_king:0 "Défier le roi"
+ ROM_defy_the_king_desc:0 "Le roi est un outil et la figure de proue d'hommes d'affaires francophiles corrompus qui ignorent l'honnêteté du travail de la terre effectué par les paysans roumains robustes et travailleurs. Il est temps de mettre fin à sa terreur et de former l'État légionnaire national."
+ ROM_everything_for_the_country:0 "Tout pour le pays"
+ ROM_everything_for_the_country_desc:0 "Rien sur cette Terre n'est plus grand, plus important, que notre Roumanie sacrée."
+ ROM_greenshirt_security_duties:0 "Devoirs de sécurité des chemises vertes"
+ ROM_greenshirt_security_duties_desc:0 "Les chemises vertes doivent devenir les yeux et les bras de l'État légionnaire."
+ ROM_embrace_orthodox_nationalist_mysticism:0 "Embrasser le mysticisme nationaliste orthodoxe"
+ #rewrite that one
+ ROM_embrace_orthodox_nationalist_mysticism_desc:0 "La Roumanie est protégée par l'archange Michel."
+ ROM_legionary_workers_corps:0 "Corps des travailleurs légionnaires"
+ ROM_legionary_workers_corps_desc:0 "Au lieu d'être une petite partie de notre mouvement composée des membres les plus dévoués, le Corps des travailleurs légionnaires doit devenir le pilier central de notre réorganisation économique. Il permettra d'abolir la domination des capitalistes sur l'économie et de montrer aux travailleurs l'importance de l'unité nationale." 
+ ROM_supplement_military_developments:0 "Compléter le développement militaire"
+ ROM_supplement_military_developments_desc:0 "Le développement de nouvelles armes est essentiel pour la sauvegarde de notre patrie sacrée."
+ ROM_iron_guard_volunteer_brigades:0 "Brigades de volontaires de la Garde de fer"
+ ROM_iron_guard_volunteer_brigades_desc:0 "Ailleurs dans le monde, d'autres personnes luttent contre le marxisme international. Il faut les aider pour leur sécurité et la nôtre."
+ ROM_youth_cult:0 "Cultes de la jeunesse"
+ ROM_youth_cult_desc:0 "La jeunesse est un élément central de la Garde de fer, son propre hymne étant intitulé « Jeunesse de la Sainte Légion »."
+ ROM_reorganize_the_government:0 "Réorganiser le gouvernement"
+ ROM_reorganize_the_government_desc:0 "Maintenant que le régime est sécurisé, nous pouvons réduire l'importance de la propagande idéologique."
+ 
+ orientalist_philosopher:0 "Philosophe orientaliste"
+ fascistic_paramilitarist:0 "Paramilitariste fasciste"
+ ROM_mircea_eliade:0 "Mircea Eliade"
+ ROM_vasile_marin:0 "Vasile Marin"
+ ROM_horia_sima:0 "Horia Sima"
 
  ROM_ioan_arhip:0 "Ioan Arhip"
  ROM_ioan_arbore:0 "Ioan Arbore"

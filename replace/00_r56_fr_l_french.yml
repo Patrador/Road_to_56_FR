@@ -7,6 +7,7 @@ l_french:
 ##### Corrections du jeu vanilla #####
 
  VICTORY_POINTS_8248:0 "Luanda" # vanilla : Louanda
+ FRA_arms_purchases_in_the_us:1 "Acheter des armes américaines" # vanilla : Acheter des armes [USA.GetAdjFP] (pb de loc, besoin de refaire les scripts pour R56 FR. Donc remplacé pour le moment)
 
 ##### Trad des textes bruts de R56 #####
 

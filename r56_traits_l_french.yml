@@ -36,6 +36,9 @@
  lucky_desc:0 "Cet homme semble avoir été choisi par le destin, sa capacité à survivre à des situations dangereuses ne lui est peut-être pas encore connue, mais le Destin sait et attend le moment pour l'aider subtilement."
  vigorous:0 "Vigoureux"
  vigorous_desc:0 "Cet homme est connu pour sa santé robuste, qui le rend résistant et prêt à se battre avec ses hommes même dans les environnements les plus rudes."
+ promising:0 "Prometteur"
+ promising_desc:0 "Cet homme a un grand talent et apprendra les bases assez rapidement."
+ promising_tooltip:0 "§RCe trait sera supprimé si le commandant atteint le niveau 3.§!"
 
 
 ##Companies 
@@ -54,11 +57,13 @@
  licensed_medium_aircraft_manufacturer:0 "Fabricant agréé d'avions moyens"
  mining_concern:0 "Intérêt pour l'industrie minière"
  railway_company:0 "Société ferroviaire"
+ landing_craft_manufacturer:0 "Fabricant d'embarcations de débarquement"
 
 ##Leaders 
  dislikes_russia:0 "N'aime pas la Russie"
  tank_enthusiast:0 "Passionné de chars"
  retired_admiral:0 "Amiral à la retraite"
+ blessed:0 "Béni" 
  regent_without_a_king:0 "Régent sans roi"
  undecided:0 "Indécis"
  army_connections:0 "Connexions de l'armée"
@@ -93,6 +98,11 @@
  lithuanian_duce:0 "Duce lituanien"
  lithuanian_fuhrer:0 "Führer lituanien"
  undercover_first_secretary:0 "Premier secrétaire dissimulé"
+ superficial_modernizer:0 "Modernisateur superficiel"
+ pacifist_isolationist:0 "Isolationniste pacifiste"
+ united_front_leader:0 "Dirigeant du Front uni"
+ heir_of_the_knight_king:0 "Héritier du Roi-Chevalier"
+ teacher_of_teachers:0 "Enseignant des enseignants"
 
  wary_of_the_high_command:0 "Se méfie du haut commandement"
  himmler_terrorizing_monomaniac:0 "Monomaniaque terrorisant" 

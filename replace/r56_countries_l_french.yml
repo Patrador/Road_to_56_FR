@@ -1033,6 +1033,8 @@
  #HUN
  HUN_fascism:0 "Royaume de Hongrie"
  HUN_fascism_DEF:0 "le Royaume de Hongrie"
+ HUN_neutrality:0 "Royaume de Hongrie"
+ HUN_neutrality_DEF:0 "le Royaume de Hongrie"
 
  #HON
  HON_fascism:0 "République du Honduras"
@@ -2114,6 +2116,20 @@
  SCO_fascism_ADJ:1 "Albannach"
  SCO_communism_ADJ:1 "écossais"
 
+ #SGP
+ SGP_communism:0 "République populaire de Singapour"
+ SGP_communism_DEF:0 "la République populaire de Singapour"
+ SGP_communism_ADJ:0 "singapourien"
+ SGP_democratic:0 "République de Singapour"
+ SGP_democratic_DEF:0 "la République de Singapour"
+ SGP_democratic_ADJ:0 "singapourien"
+ SGP_fascism:0 "Royaume de Singapour"
+ SGP_fascism_DEF:0 "le Royaume de Singapour"
+ SGP_fascism_ADJ:0 "singapourien"
+ SGP_neutrality:0 "Royaume de Singapour"
+ SGP_neutrality_DEF:0 "le Royaume de Singapour"
+ SGP_neutrality_ADJ:0 "singapourien"
+
  #SRL
  SRL_fascism:1 "Royaume de Ceylan"
  SRL_fascism_DEF:1 "le Royaume de Ceylan"
@@ -2165,6 +2181,20 @@
  SWI_neutrality:0 "Confédération suisse"
  SWI_neutrality_DEF:0 "la Confédération suisse"
  SWI_communism_ADJ:0 "helvétique"
+
+ #SWK
+ SWK_communism:0 "République populaire de Bornéo du Nord"
+ SWK_communism_DEF:0 "la République populaire de Bornéo du Nord"
+ SWK_communism_ADJ:0 "nord-bornéen"
+ SWK_democratic:0 "Fédération de Bornéo du Nord"
+ SWK_democratic_DEF:0 "la Fédération de Bornéo du Nord"
+ SWK_democratic_ADJ:0 "nord-bornéen"
+ SWK_fascism:0 "Sultanat du Sarawak"
+ SWK_fascism_DEF:0 "le Sultanat du Sarawak"
+ SWK_fascism_ADJ:0 "sarawakien"
+ SWK_neutrality:0 "Sultanat du Sarawak"
+ SWK_neutrality_DEF:0 "le Sultanat du Sarawak"
+ SWK_neutrality_ADJ:0 "sarawakien"
 
  #SYR
  SYR_democratic:0 "République syrienne"

@@ -18,6 +18,16 @@
  FRA_repatriate_the_remains_of_napoleon_ii:0 "Rapatrier les restes de l'Aiglon"
  FRA_repatriate_the_remains_of_napoleon_ii_desc:0 "Napoléon II, prince de Rome, communément appelé « l'Aiglon », était le fils unique de Napoléon Ier et de Marie-Louise d'Autriche. Il est mort en 1832 et a été enterré à Vienne. Il est maintenant temps de réunir père et fils et de lui donner la sépulture impériale qu'il mérite au dôme des Invalides."
 
+ #flags#
+ catalonia_ceded_to_france:0 "La Catalogne est cédée à la France"
+ FRA_GER_sphere_of_influence_agreement:0 "L'Allemagne a accepté la division des sphères d'influence"
+
+ #tooltips#
+ FRA_is_on_iberian_peninsula_tt:0 "Est sur la péninsule ibérique"
+ FRA_is_on_british_isles_peninsula_tt:0 "Est sur les îles britanniques"
+ FRA_is_not_controlled_by_root_or_ally_tt:0 "N'est pas contrôlé par §Y[ROOT.GetNameDef]§! ou un de ses alliés."
+ FRA_is_a_part_of_french_north_america_or_haiti_tt:0 "Fait partie de l'ancienne Amérique ou Haïti [FRA.GetAdjFS]."
+
  france.150.d:0 "Suite à un appel à la grève de grande envergure lancé par la CGT, dont l'influence au cours des derniers mois avait atteint un point tel que le gouvernement a dû faire des compromis de plus en plus drastiques, des centaines de milliers de travailleurs se sont mobilisés à Paris vers le palais Bourbon, qui a rappelé pour beaucoup les émeutes du 6 février 1934. Cette dernière a ensuite forcé l'entrée au parlement alors que dans le reste de la ville, les débordements de l'armée et une forte violence ne pouvaient être contenus par la police. Sous la direction de Léon Jouhaux, cette dernière a déclaré la fin de la troisième République et la transition vers un régime anti-capitaliste et syndicaliste."
  france.150.a:0 "Les travailleurs contrôle maintenant la situation"
 
@@ -42,6 +52,8 @@
  FRA_economic_reforms_desc:0 "L'économie française est dans une situation précaire. Nous devons engager des réformes économiques pour éliminer l'inflation, stabiliser le franc et réduire le déficit national."
  FRA_devaluation:0 "Dévaluation du franc"
  FRA_devaluation_desc:0 "Le seul moyen efficace de se débarrasser rapidement de la déflation est de dévaluer la monnaie, plusieurs fois si nécessaire."
+ FRA_assimilate_wallonia:0 "Assimiler la Wallonie"
+ FRA_divide_catalogne_into_departments:0 "Diviser la Catalogne en départements"
  FRA_budget_deficit_law:0 "Loi sur le déficit budgétaire"
  FRA_budget_deficit_law_desc:0 "Le déficit national doit être réduit par des mesures drastiques telles que la réduction des dépenses publiques."
  FRA_exchange_rate_stabilisation:0 "Stabilisation des taux de change"
@@ -338,6 +350,7 @@
  FRA_charles_maurras:0 "Charles Maurras"
  FRA_leon_daudet:0 "Léon Daudet"
  FRA_robert_brasillach:0 "Robert Brasillach"
+ FRA_paul_granier_de_cassagnac:0 "Paul Granier de Cassagnac"
 
 
  monarchist_figure:0 "Figure monarchiste"
@@ -479,7 +492,7 @@
  FRA_economic_cooperation_agreement:0 "Accord de coopération économique"
  FRA_economic_cooperation_agreement_desc:0 "Pour assurer une parfaite coopération militaire, nous devons définir des accords économiques et logistiques."
  FRA_preventive_intervention:0 "Intervention préventive"
- FRA_preventive_intervention_desc:0 "Les Allemands ne nous ont pas laissé le choix. Pour le bien du monde libre et de l'avenir de nos enfants. C'est le temps de la guerre."
+ FRA_preventive_intervention_desc:0 "Ces agresseurs ne nous ont pas laissé le choix. Pour le bien du monde libre et de l'avenir de nos enfants. C'est le temps de la guerre."
  FRA_rearmament_policy:0 "Politique de réarmement"
  FRA_rearmament_policy_desc:0 "Alors que les politiques européennes continuent à changer, la guerre semble de plus en plus proche. Qu'il s'agisse de l'Allemagne ou de l'Union soviétique, nous devons nous préparer à un nouveau conflit."
  FRA_reynaud_economic_reforms:0 "Réforme économique de Reynaud"
@@ -513,7 +526,7 @@
  FRA_assistance_treaty:0 "Traité franco-soviétique d'assistance mutuelle"
  FRA_assistance_treaty_desc:0 "Un traité bilatéral entre nos deux pays communistes réduira la menace de l'Europe centrale. En particulier, le pacte d'assistance mutuelle préviendra le danger d'une agression de la part de l'Allemagne."
  FRA_fascist_threat:0 "La menace fasciste"
- FRA_fascist_threat_desc:0 "Le Traité de Versailles et les sanctions économiques n'ont pas arrêté l'Allemagne, mais ont plutôt fourni un terrain fertile à un mouvement encore plus sinistre. L'Allemagne doit être à nouveau vaincue et placée sous notre contrôle, du moins pour l'instant."
+ FRA_fascist_threat_desc:0 "Le traité de Versailles et les sanctions économiques n'ont pas arrêté les nationalistes agressifs, mais ont plutôt fourni un terreau fertile à des mouvements encore plus sinistres. Toute forme de fascisme doit être vaincue, quel qu'en soit le prix !"
  FRA_collectivisation:0 "Collectivisation"
  FRA_collectivisation_desc:0 "Une campagne de collectivisation de l'industrie privée et des ressources nous aidera à mieux superviser l'État et à stabiliser le pays, combinée à une purge du gouvernement."
  FRA_humanite_unie:0 "Humanité unie"
@@ -615,6 +628,11 @@
  FRA_the_new_continental_system_desc:0 "L'Europe dispose de nombreuses puissances qui seront prêtes à déclencher une guerre au moindre incident territorial. Pour assurer notre place sur le continent, nous devons créer notre propre blocus afin que nos intérêts soient prioritaires."
  FRA_our_natural_borders:0 "Nos frontières naturelles"
  FRA_our_natural_borders_desc:0 "Pour assurer la sécurité de la France, notre frontière nord doit suivre le cours du Rhin. Il est temps pour nous de récupérer notre frontière légitime."
+ FRA_compromise_with_germany:0 "Compromis avec l'Allemagne"
+ FRA_compromise_with_germany_desc:0 "Nous pourrions peut-être conclure un accord avec [GER.GetLeader] afin de sécuriser nos zones d'influence et nous concentrer sur nos propres problèmes."
+ FRA_approach_poland_and_romania:0 "Approcher la Pologne et la Roumanie"
+ FRA_approach_poland_and_romania_desc:0 "La Pologne et la Roumanie sont essentielles pour la sécurité de l'Europe orientale, elles sont donc essentielles pour l'équilibre du système continental."
+
  FRA_destroy_albion:0 "Détruire Albion"
  FRA_destroy_albion_desc:0 "Plus d'un siècle après notre humiliation à Waterloo, l'Albion perfide continue de nous dépasser sur absolument toutes les questions possibles, surtout au niveau colonial. Il est temps que cela cesse, quand le drapeau tricolore flottera sur Londres, nous prouverons au monde que la France est la vraie puissance de ce monde."
  FRA_side_with_the_legitimists:0 "Du côté des légitimistes"
@@ -1050,6 +1068,9 @@
  france.149.d:0 "Hier soir, Jean d'Orléans, notre roi bien-aimé, est décédé paisiblement dans son sommeil. Malgré son long exil, la providence avait jugé bon de permettre son retour dans le royaume bien avant sa mort, et depuis son retour, il avait bien conduit notre nation. Son fils, Henri d'Orléans, a maintenant pris les rênes de la nation, et après son couronnement deviendra Henri VI."
  france.149.a:0 "Le roi est mort, vive le roi !"
  france.150.t:0 "Les syndicalistes s'emparent du pouvoir !"
+ france.158.t:0 "Honorer l'accord d'influence ?"
+ france.158.a:0 "Oui, ce n'est pas seulement notre conquête"
+ france.158.b:0 "C'est à nous tous."
 
 	#### WORLD NEWS ####
  worldnews.1.t:0 "Alliance avec le Benelux"

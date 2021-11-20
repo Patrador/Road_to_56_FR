@@ -58,9 +58,9 @@
  AUS_transylvanian_highways_project_desc:0 "La Transylvanie a toujours été austro-hongroise et le gouvernement roumain de ces dernières années l'a malheureusement laissée sous-développée, au point d'être sous-desservie par notre association. Néanmoins, c'est notre terre et nous allons nous en occuper."
  AUS_transylvanian_highways_project_tt:0 "Ajoute §Y3 infrastructures§! dans la région de Transylvanie"
 
- AUS_road_the_the_black_sea:0 "Route vers la mer Noire"
- AUS_road_the_the_black_sea_desc:0 "La mer Noire a toujours été une masse d'eau d'importance historique, notamment parce qu'elle représente l'accès de l'Union Soviétique à la Méditerranée. Nous devons garantir notre propre place dans ses eaux - mais nous devons d’abord nous assurer que nous pouvons atteindre ces eaux rapidement."
- AUS_road_the_the_black_sea_tt:0 "Ajoute §Y3 infrastructures§! dans la région roumaine"
+ AUS_road_to_the_black_sea:0 "Route vers la mer Noire"
+ AUS_road_to_the_black_sea_desc:0 "La mer Noire a toujours été une masse d'eau d'importance historique, notamment parce qu'elle représente l'accès de l'Union Soviétique à la Méditerranée. Nous devons garantir notre propre place dans ses eaux - mais nous devons d’abord nous assurer que nous pouvons atteindre ces eaux rapidement."
+ AUS_road_to_the_black_sea_tt:0 "Ajoute §Y3 infrastructures§! dans la région roumaine"
 
  AUS_the_carpathian_line:0 "La ligne des Carpates"
  AUS_the_carpathian_line_desc:0 "La Ruthénie des Carpates fait partie intégrante de l'histoire de la Hongrie et nos frères en union impériale la tiennent aussi à cœur que nous. Nous allons le défendre jusqu'à la dernière goutte de sang autrichien - mais il n'est pas nécessaire que nous y arrivions si nous le fortifions."
@@ -1389,10 +1389,11 @@ AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
  AUS_mountaineers:0 "Gebirgsjäger"
  AUS_mountaineers_desc:0 "Les combats dans les chaînes de montagnes exposent les troupes à de nombreux périls, mais sont parfois inévitables. En fournissant à nos soldats une formation spécialisée dans cet environnement, nous pouvons minimiser ces risques."
  
- AUS_try_to_recruit_hungarian_officers:0 "Essayer de recruter des officiers Hongrois"
- AUS_try_to_recruit_czech_officers:0 "Essayer de recruter des officiers Tchèques"
- AUS_try_to_recruit_croat_officers:0 "Essayer de recruter des officiers Croates" 
- AUS_try_to_recruit_german_officers:0 "Essayer de recruter des officiers Allemands"
+ AUS_try_to_recruit_hungarian_officers:0 "Essayer de recruter des officiers hongrois"
+ AUS_try_to_recruit_czech_officers:0 "Essayer de recruter des officiers tchèques"
+ AUS_try_to_recruit_croat_officers:0 "Essayer de recruter des officiers croates" 
+ AUS_try_to_recruit_german_officers:0 "Essayer de recruter des officiers allemands"
+ AUS_try_to_recruit_austrian_officers:0 "Essayer de recruter des officiers autrichiens"
 
  ##misc
 
