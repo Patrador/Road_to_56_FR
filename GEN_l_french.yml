@@ -135,3 +135,7 @@
  free_speech_idea:0 "Liberté d'expression"
  constitutionalism_idea:0 "Constitutionnalisme"
  freedom_isnt_free_idea:0 "La liberté n'est pas gratuite"
+
+#Tooltips for generic stuff
+state_is_on_arabian_peninsula_tt:0 "Est sur la péninsule arabique"
+state_balkan_north_of_drina_and_brava_river_tt:0 "État des Balkans situé au nord des fleuves Drina et Brava"

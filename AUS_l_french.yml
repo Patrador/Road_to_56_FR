@@ -598,6 +598,13 @@ AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
  AUS_prepare_czechoslovak_invasion:0 "Préparer l'invasion tchécoslovaque"
  AUS_prepare_czechoslovak_invasion_desc:0 ""
 
+ AUS_dissociate_austrofascism_from_nazism:0 "Dissocier l'austrofascisme du nazisme"
+ AUS_dissociate_austrofascism_from_nazism_desc:0 "Notre vision de l'État et de l'avenir de l'Autriche n'a rien à voir avec ces dangereux soi-disant national-socialistes qui veulent détruire l'identité autrichienne pour en faire une mythologie raciale."
+ AUS_red_white_red_until_death:0 "Rouge Blanc Rouge jusqu'à la mort"
+ AUS_red_white_red_until_death_desc:0 "Notre loyauté envers la nation doit être indiscutable. Ce n'est pas qu'un vague concept. Elle est constituée de nos foyers, de nos familles, de nos amis."
+ AUS_security_measures:0 "Mesures de sécurité"
+ AUS_security_measures_desc:0 "Il est essentiel de protéger l'Autriche contre les menaces étrangères."
+
  
  #IDEAS
  

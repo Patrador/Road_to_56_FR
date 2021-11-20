@@ -503,6 +503,15 @@
  bftb_greece.233.t:0 "Mort de Ioánnis Metaxás"
  bftb_greece.233.desc:0 "Après une courte maladie, le Premier ministre et dictateur [Root.GetDuDeDNP] [Root.GetName] a trépassé. Il est mort à l'étranger, exilé de son pays conquis. S'il n'était guère apprécié des [Root.GetHabitants], il était devenu un symbole de l'unité de la nation et de la résistance en ces temps de crise. Emmanouíl Tsouderós, venizéliste et figure de proue unificatrice, a pris sa suite en tant que Premier ministre."
  bftb_greece.233.a:0 "La guerre n'est pas terminée"
+ bftb_greece.234.t:0 "La Grande Idée approuvée"
+ bftb_greece.234.desc:0 "Nous avons appris de la Convention d'Héraklion que les grandes puissances présentes ont approuvé la proposition [GRE.GetAdjFS] de la « Grande Idée ». Non seulement cette situation menace la stabilité de la région, mais elle représente également un risque majeur d'éclatement d'un état de guerre pure et simple entre [GRE.GetNameDef] et [TUR.GetNameDef] dans un futur proche.\n\nNous ne pouvons écarter la possibilité que [GRE.GetNameDef] puisse obtenir le soutien militaire [FRA.GetDuDelaDelNP] [FRA.GetName] ou [ENG.GetDuDelaDelNP] [ENG.GetName], et compte tenu de nos obligations militaires actuelles envers [TUR.GetNameDef] nous pourrions bien nous retrouver du mauvais côté d'une guerre avec l'une ou l'autre, voire les deux, de ces grandes puissances. Nos chefs militaires nous demandent instamment de garder cela à l'esprit et de réévaluer notre engagement de défense [TUR.GetDuDelaDelNP] [TUR.GetName]."
+ bftb_greece.234.a:0 "Les Turcs devront survivre par eux-mêmes."
+ bftb_greece.234.b:0 "Nous respectons nos garanties, quel que soit le coût !"
+ bftb_greece.235.t:0 "[ROM.GetNameDefCap] révoque la garantie"
+ bftb_greece.235.desc:0 "La Convention d'Héraklion a fait trembler nos garants [ROM.GetAdjMP]. Plutôt que de risquer une guerre avec les grandes puissances européennes, ils ont choisi de revenir sur leurs promesses de prêter leur aide militaire à notre défense."
+ bftb_greece.235.a:0 "Lâches !"
+
+
 
  bftb_turkey.1.t:0 "La convention de Montreux"
  bftb_turkey.1.desc:1 "[TUR.GetLeLaFDirCap] président[TUR.GetXEDir] [TUR.GetLeader] vient de nous informer que [TUR.GetLeLaLNP] [TUR.GetName] projetai[TUR.GetTEntNP] de remilitariser les détroits. Son gouvernement aimerait que nous soutenions cette initiative visant à revendiquer ses eaux territoriales et à modifier le traité de Lausanne afin d'agir en toute légitimité.\n\nSoutenir les [TUR.GetHabitants] sur la question les rendrait assurément très malléables à notre égard, et cela pourrait ouvrir la voie à une opposition [ITA.GetAuAlaAlNP] [ITA.GetName] par [TUR.GetLeLaLNP] [TUR.GetName] en Méditerranée. Mais nous devons garder à l'esprit qu'être impliqués dans cette crise pourrait placer [Root.GetLeLaLNP] [Root.GetName] dans le camp des ennemis [SOV.GetDuDelaDelNP] [SOV.GetName], et déboucher dans le pire des cas sur un conflit."

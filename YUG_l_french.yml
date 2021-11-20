@@ -64,3 +64,5 @@
  YUG_yugoslav_reunification_category:0 "Réunification yougoslave"
  YUG_yugoslav_reunification_category_desc:0 "La Yougoslavie a été divisée par des forces centrifuges, mais l'idée d'une union des Slaves du Sud est toujours présente."
  r56_unite_puppet_with_yug:0 "Unifier [FROM.getNameDef] avec la Yougoslavie"
+ 
+ YUG_very_strong_communists:0 "§GTrès fort§!" #Base game tries to use non-existent color

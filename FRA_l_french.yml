@@ -21,11 +21,12 @@
  #flags#
  catalonia_ceded_to_france:0 "La Catalogne est cédée à la France"
  FRA_GER_sphere_of_influence_agreement:0 "L'Allemagne a accepté la division des sphères d'influence"
+ lar_germany_refused_spheres:0 "Aucun accord n'a été conclu sur la division des sphères d'influence."
 
  #tooltips#
  FRA_is_on_iberian_peninsula_tt:0 "Est sur la péninsule ibérique"
  FRA_is_on_british_isles_peninsula_tt:0 "Est sur les îles britanniques"
- FRA_is_not_controlled_by_root_or_ally_tt:0 "N'est pas contrôlé par §Y[ROOT.GetNameDef]§! ou un de ses alliés."
+ ROOT_is_not_controlled_by_root_or_ally_tt:0 "N'est pas contrôlé par §Y[ROOT.GetNameDef]§! ou un de ses alliés."
  FRA_is_a_part_of_french_north_america_or_haiti_tt:0 "Fait partie de l'ancienne Amérique ou Haïti [FRA.GetAdjFS]."
 
  france.150.d:0 "Suite à un appel à la grève de grande envergure lancé par la CGT, dont l'influence au cours des derniers mois avait atteint un point tel que le gouvernement a dû faire des compromis de plus en plus drastiques, des centaines de milliers de travailleurs se sont mobilisés à Paris vers le palais Bourbon, qui a rappelé pour beaucoup les émeutes du 6 février 1934. Cette dernière a ensuite forcé l'entrée au parlement alors que dans le reste de la ville, les débordements de l'armée et une forte violence ne pouvaient être contenus par la police. Sous la direction de Léon Jouhaux, cette dernière a déclaré la fin de la troisième République et la transition vers un régime anti-capitaliste et syndicaliste."
@@ -632,6 +633,11 @@
  FRA_compromise_with_germany_desc:0 "Nous pourrions peut-être conclure un accord avec [GER.GetLeader] afin de sécuriser nos zones d'influence et nous concentrer sur nos propres problèmes."
  FRA_approach_poland_and_romania:0 "Approcher la Pologne et la Roumanie"
  FRA_approach_poland_and_romania_desc:0 "La Pologne et la Roumanie sont essentielles pour la sécurité de l'Europe orientale, elles sont donc essentielles pour l'équilibre du système continental."
+ 
+ FRA_approach_the_empire_of_brazil:0 "Approche de l'Empire du Brésil"
+ FRA_approach_the_empire_of_brazil_desc:0 "Les empereurs du monde entier doivent assurer leurs arrières contre le radicalisme perfide."
+ FRA_a_more_durable_tilsit_treaty:0 "Un traité de Tilsit plus durable"
+ FRA_a_more_durable_tilsit_treaty_desc:0 "Désormais libérée de la tyrannie bolchevique, la Russie peut réintégrer le concert des nations et nouer un lien durable avec la France afin d'assurer la sécurité en Europe." 
 
  FRA_destroy_albion:0 "Détruire Albion"
  FRA_destroy_albion_desc:0 "Plus d'un siècle après notre humiliation à Waterloo, l'Albion perfide continue de nous dépasser sur absolument toutes les questions possibles, surtout au niveau colonial. Il est temps que cela cesse, quand le drapeau tricolore flottera sur Londres, nous prouverons au monde que la France est la vraie puissance de ce monde."
