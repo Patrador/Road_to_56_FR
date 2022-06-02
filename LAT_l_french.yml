@@ -322,7 +322,8 @@
  LAT_latvian_chauvinism_desc:0 "Quelle que soit l'histoire de notre pays, le peuple letton a toujours semblé meilleur, plus fort et plus courageux. Nous devrions encourager ce genre de pensées, car nous disposons de suffisamment de recherches scientifiques à ce sujet."
  LAT_baltics_under_one_flag:0 "Unir les pays baltes sous la croix gammée"
  LAT_baltics_under_one_flag_desc:0 "Nées dans la tempête de la révolution russe de 1917-1921 en tant que trois nations indépendantes, [LAT.GetNameDef], [LIT.GetNameDef] et [EST.GetNameDef] partagent un héritage culturel et historique considérable. Grâce à notre nouvelle compréhension du concept d'Entente balte, nous unirons tous les pays en une seule entité sous notre direction."
-
+ LAT_mythological_diplomacy:0 "Diplomatie mythologique"
+ LAT_mythological_diplomacy_desc:0 "La philologie prouve que Perkunas n'est pas seulement notre dieu suprème, il est l'héritier d'une tradition qui remonte à l'aube de l'humanité. De nombreux autres pays ont connu des variantes de ce héros caractérisé par la maîtrise du tonnerre ou la présence d'une arme de choc. Il est temps pour Perkunas, Indra, Herakles et Thor de retrouver leur unité et de frapper tous nos ennemis avec une force sacrée."
  #events#
  LAT_event.1.t:0 "Dîner cordial entre officiers"
  LAT_event.1.desc:0 "Lors d'un repas à la table des officiers, l'attaché était disposé à discuter des dernières innovations dans le domaine de l'armement."
@@ -369,3 +370,5 @@
  LAT_infantry_equipment_0_short:0 "M-N 1891/30"
  LAT_infantry_equipment_1:0 "Fusil Pattern 14"
  LAT_infantry_equipment_1_short:0 "Pattern 14"
+ 
+ LAT_suspend_the_constitution:0 "Suspendre la Constitution" #inconsistent third person name of focus

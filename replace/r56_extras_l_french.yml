@@ -13,12 +13,12 @@ l_french:
 
  ###---> Patreon Events <><> <><> <><>
  r56.event.patreon.01.title: "La liste des soldats"
- r56.event.patreon.01.description: "Ces braves gens ont contribué à nos efforts et doivent être remerciés ! \n\n CTomic, James Michael Smith, TastesLikeWall, John Stinde, Emily Zimmerman-Kościuszko, VisualVx, Spencer, Logan Calkins, Jystr, Max Putinsev et Wei !\n\n Merci beaucoup. Vous êtes les meilleurs et nous mourrions sans vos doux amour."
+ r56.event.patreon.01.description: "Ces braves gens ont contribué à nos efforts et doivent être remerciés ! \n\n CTomic, James Michael Smith, TastesLikeWall, John Stinde, Emily Zimmerman-Kościuszko, VisualVx, Spencer, Logan Calkins, Jystr, Max Putinsev et Wei !\n\n Merci beaucoup. Vous êtes les meilleurs et nous mourrions sans votre doux amour."
  r56.event.01.default: "Très bien !"
  r56.event.01.alternate: "D'accord, mais ne plus jamais montrer ça."
 
  #---> Patreon Decisions <><> <><> <><>
- r56_decision_category_patreon: "Extras de R56"
+ r56_decision_category_patreon: "Extras de Road to 56"
  r56_decision_category_patreon_desc: "Contient des options supplémentaires et d’autres gadgets !"
  r56_decision_patreon_credits: "Contributeurs"
  r56_decision_patreon_easteregg: "Activation du Nekrowombaticon"

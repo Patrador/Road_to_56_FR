@@ -34,20 +34,20 @@
 
  france.151.t:0 "Mort de Franchet d'Espèrey"
  france.151.d:0 "Louis Félix Marie François Franchet d'Espèrey, maréchal et chef de l'État français, est décédé dans la nuit. Il a été enterré et a reçu les honneurs militaires avant d'être transféré aux Invalides.\n\nLa mort du maréchal a été soudaine pour beaucoup de Français, mais aussi pour le gouvernement, car aucune procédure de succession n'avait été mise en place pour le moment. Ainsi, les différents ministres ont été convoqués d'urgence pour décider qui nommer comme successeur.\n\nPour beaucoup, le choix favori est celui d'Henri Giraud, ministre de la Guerre et très proche de Franchet d'Espèrey tout au long de sa carrière militaire.\n\nCependant, un autre candidat est capable de tenir tête à Giraud. C'est François Mitterrand, ministre de l'Intérieur, qui, bien qu'encore simple journaliste il y a quelques années, a pu gravir les échelons du gouvernement à toute vitesse, ce qui lui a permis d'acquérir une grande notoriété qui pourrait bien jouer en sa faveur."
- france.151.a:0 "Giraud est le choix évident"
- france.151.b:0 "Mitterrand semble prometteur"
+ france.151.a:0 "Giraud est le choix évident."
+ france.151.b:0 "Mitterrand semble prometteur."
 
  france.152.t:0 "Victoire du Front populaire en France"
  france.152.d:0 "Le Front Populaire, une alliance politique composée d'une grande partie des mouvements de gauche français, dont la SFIO, le Parti radical et le Parti communiste, a remporté les élections législatives françaises avec 57% des voix. De nombreuses grèves ont été organisées pour soutenir le front. Léon Blum, le chef de la SFIO, a été nommé Premier ministre.\n\nLeur programme s'articule autour de la défense de la démocratie, notamment par leur opposition aux ligues d'extrême droite, leur pacifisme, la mise en œuvre de nombreuses réformes sociales telles que les congés payés ainsi que la volonté de relancer l'économie en développant la consommation."
  france.152.a:0 "Tout est possible !"
- france.152.b:0 "Bonne chance à eux"
- france.152.c:0 "Ils ne sont rien de plus que des bolcheviks dégoûtants"
+ france.152.b:0 "Bonne chance à eux."
+ france.152.c:0 "Ils ne sont rien de plus que des bolchéviques dégoûtants."
  
  france.153.t:0 "Victoire de la droite en France"
  france.153.d:0 "Les élections législatives françaises ont vu les différents partis de droite, nominalement la Fédération républicaine et l'Alliance démocratique, obtenir la majorité des voix et ainsi vaincre la tentative du Front populaire. Principalement unis dans leur anti-socialisme et leur anticommunisme, leur victoire pourrait aussi être liée à la montée d'un mouvement encore plus extrémiste en France.\n\nPierre-Étienne Flandin, chef de l'Alliance démocratique et considéré comme une figure unificatrice de la droite, a été nommé Premier ministre et a formé un gouvernement comprenant des membres des principaux partis de la coalition."
- france.153.a:0 "Nous renforcerons la France"
- france.153.b:0 "Peut-être qu'ils peuvent ramener la stabilité en France"
- france.153.c:0 "Les élections ne peuvent amener que des capitalistes au pouvoir"
+ france.153.a:0 "Nous renforcerons la France."
+ france.153.b:0 "Peut-être qu'ils peuvent ramener la stabilité en France."
+ france.153.c:0 "Les élections ne peuvent amener que des capitalistes au pouvoir0"
  
  FRA_economic_reforms:0 "Réformes économiques"
  FRA_economic_reforms_desc:0 "L'économie française est dans une situation précaire. Nous devons engager des réformes économiques pour éliminer l'inflation, stabiliser le franc et réduire le déficit national."
@@ -365,14 +365,26 @@
  fascist_writer:0 "Écrivain fasciste"
  competent_orator:0 "Orateur compétent"
 	
+
+  ####MISSIONS ####
+ FRA_the_popular_front:0 "Le Front populaire"
+ FRA_the_popular_front_desc:0 "Une coalition chancelante de mouvements de gauche, comprenant la Section française de l'Internationale communiste, la Section française de l'Internationale ouvrière (SFIO) et le Parti républicain radical-socialiste, qui vise à mettre en œuvre des réformes de gauche. Cependant, des luttes internes entravent cette « alliance de circonstance »."
+
+  ####TOOLTIPS ####
+ FRA_has_no_deflation_tt:0 "N'a pas l'esprit national §Ydéflation§!"
+
+
+
+
+	
 	#### INDUSTRIAL SECTION ####
  free_france:0 "France libre"
 
 
  FRA_tools_modernisation:0 "Modernisation des outils"
  FRA_tools_modernisation_desc:0 "Le parc industriel français est désuet et surtout vieillissant. Nous devons moderniser nos outils en acquérant des machines plus récentes et modernes."
- FRA_decrease_unemployement:0 "Accord monétaire tripartite de [GetYear]"
- FRA_decrease_unemployement_desc:0 "Alors que d'autres pays ont laissé leur monnaie se dévaluer à la suite de la Grande Dépression, nous avons fermement refusé de le faire. En conséquence, notre économie est à la traîne. Si nous voulons résister à la tempête qui s'annonce, nous ne devons pas écarter d'emblée une dévaluation de notre monnaie ! Cela nous permettra de prendre une longueur d'avance dans le commerce mondial et d'attirer encore plus d'investissements étrangers."
+ FRA_monetary_tripartite_agreement:0 "Accord monétaire tripartite de [GetYear]"
+ FRA_monetary_tripartite_agreement_desc:0 "Alors que d'autres pays ont laissé leur monnaie se dévaluer à la suite de la Grande Dépression, nous avons fermement refusé de le faire. En conséquence, notre économie est à la traîne. Si nous voulons résister à la tempête qui s'annonce, nous ne devons pas écarter d'emblée une dévaluation de notre monnaie ! Cela nous permettra de prendre une longueur d'avance dans le commerce mondial et d'attirer encore plus d'investissements étrangers."
  FRA_overseas_factories:0 "Usines d'outre-mer"
  FRA_overseas_factories_desc:0 "L'Algérie française est considérée comme faisant partie de la France, nous devons donc renforcer la production et les infrastructures dans ces départements d'outre-mer."
  FRA_cnrs:0 "Centre national de la recherche scientifique"
@@ -389,7 +401,7 @@
 	
  FRA_colonial_investments:0 "Investissements coloniaux"
  FRA_colonial_investments_desc:0 "L'Europe traverse une période dangereuse. Nous devrions nous concentrer sur l'amélioration de nos territoires au sud et dans les colonies pour nous assurer que nous pouvons toujours soutenir la métropole."
- FRA_colonial_investments_tooltip:0 "Toutes les colonies françaises gagnent des §YInvestissements coloniaux§! et §Y-50§! de niveau d'autonomie."
+ FRA_colonial_investments_tooltip:0 "Toutes les colonies [FRA.GetAdjFP] hors d'Europe obtiennent :"
  FRA_continue_mandat:0 "Poursuivre le mandat au Moyen-Orient"
  FRA_continue_mandat_desc:0 "Nous ne pouvons pas appliquer pleinement les accords Viénots pour le moment, car le monde devient plus menaçant de jour en jour. Nous pourrions faire quelques concessions pour encourager les Syriens et les Libanais à nous soutenir."
  FRA_develop_morocco:0 "Développer le Maroc"
@@ -464,7 +476,6 @@
  FRA_social_reforms_desc:0 "Les Accords de Matignon sont un succès partiel mais dans le contexte économique, ils peuvent être effacés à tout moment. Nous devons aller plus loin dans les réformes sociales et en assurer les bénéfices."
  FRA_support_blum:0 "Soutenir Blum"
  FRA_support_blum_desc:0 "Les réformes de Blum ne sont pas aussi efficaces que la pensée française, mais il est dans la bonne direction. Nous devrions lui donner plus de pouvoir pour réformer la société."
- FRA_support_blum_tooltip:0 "§YRetarde l'effondrement du Front populaire.\n§!"
  FRA_intervention:0 "Intervention française"
  FRA_intervention_desc:0 "La démocratie a besoin de notre aide. Nous ne pouvons laisser un autre régime fasciste ou communiste gagner du terrain. Quiconque est prêt à se battre pour la cause devrait pouvoir le faire."
  FRA_intervention_tooltip:0 "§RLa Grande-Bretagne refusera peut-être une alliance.\n§!"
@@ -478,8 +489,6 @@
  FRA_go_with_britain_desc:0 "La Russie ayant changé à jamais, il ne reste plus que la France et la Grande-Bretagne de l'ancienne Triple Entente. Si l'histoire est vouée à se répéter, nous devons veiller à ce que ces deux nations, bastions de la démocratie et de la liberté en Europe, restent alliées."
  FRA_popular_front_united:0 "Front populaire uni"
  FRA_popular_front_united_desc:0 "Maintenant que les réformes sont terminées, nous devons cesser de nous battre entre nous et rester unis. Le Front ne s'effondrera pas et nous lutterons pour la France et sa devise, « Liberté, Égalité, Fraternité » !"
- FRA_popular_front_united_tooltip1:0 "§RLe Front populaire s'effondrera en août 1938 s'il n'est pas uni.§!"
- FRA_popular_front_united_tooltip2:0 "§RLe Front populaire s'effondrera en juin 1939 s'il n'est pas uni.§!"
  FRA_invite_yugoslavia:0 "Inviter la Yougoslavie"
  FRA_invite_yugoslavia_desc:0 "La Yougoslavie a assez de soucis sans avoir à se soucier des voisins expansionnistes. Les ramener dans la Petite Entente serait un grand service pour eux et pour nous."
  FRA_invite_romania:0 "Inviter la Roumanie"
@@ -914,7 +923,7 @@
  france.102.a:0 "Édouard Daladier et les radicaux formeront un nouveau gouvernement"
  france.103.t:0 "Déflation !"
  france.103.d:0 "En 1936, la France se remet lentement de la crise économique qui a frappé le pays en 1931. La situation politique instable, la stagnation des salaires et le déficit public constituent déjà un défi pour le gouvernement. \n\nMalheureusement, notre dépendance à l'égard de l'étalon-or laisse la déflation entraver la croissance de nos exportations et rend plus difficile le respect de nos obligations en matière de dette. La crise économique actuelle a déjà provoqué l'effondrement des deux tiers de nos exportations. Avec l'évasion généralisée des capitaux, la situation est alarmante et la désillusion de la classe ouvrière pour la politique aggrave nos problèmes."
- france.103.a:0 "Nous devons réformer l'économie rapidement"
+ france.103.a:0 "Nous devons réformer l'économie rapidement."
  FRA_deflation_tooltip:0 "§YDébloque la partie économique de l'arbre.\n§!"
  france.104.t:0 "Les accords de Matignon"
  france.104.d:0 "Après l'élection du Front populaire, une grève massive et générale de la classe ouvrière éclate. Initiée au Havre, elle a été accompagnée d'occupations d'usines pour éviter les fermetures et s'est rapidement étendue à l'ensemble de la France. Plus d'un million de travailleurs étaient en grève. Le mouvement social a immédiatement suivi la victoire électorale du Front populaire, afin d'atteindre cette position de force. Le nouveau gouvernement de gauche dirigé par Léon Blum négocie avec succès des accords sociaux, signés à l'Hôtel Matignon. Tous les travailleurs ont bénéficié de ces conventions, qui sont le droit de grève légal, les congés payés, la semaine de travail de 40 heures rémunérée à 48 heures et l'élimination de tous les obstacles à l'organisation syndicale."
@@ -922,13 +931,13 @@
  france.104.b:0 "Nous ne pouvons pas tenir toutes nos promesses."
  france.105.t:0 "Les communistes retirent leur soutien"
  france.105.d:0 "Mécontent des récentes décisions du gouvernement de gauche, Maurice Thorez, chef du Parti communiste français, annonce que les communistes quittent le Front populaire et vont manifester leur mécontentement."
- france.105.a:0 "Nous n'avons pas besoin de leur aide pour diriger la nation"	
+ france.105.a:0 "Nous n'avons pas besoin de leur aide pour diriger la nation."	
  france.106.t:0 "Les communistes soutiennent le gouvernement"
  france.106.d:0 "Contrairement à d'autres nations, la France accepte d'aider les républicains espagnols dans la guerre civile espagnole. Le cabinet de Blum a opté pour une politique d'intervention et a formalisé un accord pour l'envoi de munitions et de soldats volontaires en Espagne. Maurice Thorez, chef du Parti communiste français, annonce que les communistes soutiendront la politique de Blum et renforceront le Front actuel."
  france.106.a:0 "Les socialistes et les communistes se tiendront ensemble !"		
  france.107.t:0 "Le Front populaire s'effondre"
- france.107.d:0 "Après deux années d'activité majeure, le Front Populaire a perdu son esprit et n'a pu que temporiser au fur et à mesure que la crise européenne s'aggravait. Les travailleurs ont obtenu de nouveaux droits importants, mais l'augmentation de 48 % de leurs salaires a été compensée par une hausse de 46 % des prix. Le chômage est resté élevé et la production industrielle globale a stagné. Le Front populaire a été dissous à l'automne 1938, confronté à des dissensions internes liées à la guerre civile espagnole, à l'opposition de la droite et aux effets persistants de la Grande Dépression."
- france.107.a:0 "Camille Chautemps dirigera le nouveau gouvernement"	
+ france.107.d:0 "Après deux ans d'activité importante, le Front populaire a perdu son esprit et n'a pu que temporiser alors que la crise européenne s'aggravait de plus en plus. Les travailleurs ont certes obtenu de nouveaux droits substantiels, mais une hausse des prix de 46 % a annulé l'augmentation des salaires de 48 %. Le chômage reste élevé et la production industrielle globale stagne. Le Front populaire se dissout à l'automne 1938, confronté à des dissensions internes liées à la guerre civile espagnole, à l'opposition de la droite et aux effets persistants de la Grande Dépression."
+ france.107.a:0 "Camille Chautemps dirigera le nouveau gouvernement."	
  france.108.t:0 "Invitation de la Belgique et du Luxembourg"
  france.108.d:0 "Pour contenir la résurgence éventuelle d'un expansionnisme agressif de la part des anciennes puissances centrales, la France a demandé que la Belgique et le Luxembourg rejoignent les Alliés pour mettre fin aux ambitions hitlériennes."
  france.108.a:0 "Nous devons protéger le Benelux."
@@ -1092,7 +1101,7 @@
  worldnews.4.d:0 "TO DO"
  worldnews.4.a:0 "TO DO"
  worldnews.5.t:0 "L'exposition universelle de Paris" 
- worldnews.5.d:0 "La France est fière de lancer en grande fanfare l'exposition universelle de 1937. À Paris, sur environ 101 hectares, 44 pays proposent cent quatre-vingt-dix pavillons sur le thème des arts et techniques appliqués à la vie moderne. Près de 32 millions de visiteurs se précipiteront pour venir. À l'époque, Paris retiendra le palais de Chaillot, le palais de la découverte et le palais de Tokyo. L'esprit et le nouvel art triomphent partout. Le monde veut croire un instant que l'exposition réunira enfin tout ce qui unit les hommes. Mais les esprits sont frappés par des pavillons [SOV.GetAdjMP] et allemands monumentaux qui se font face pour se défier : l'un avec une statue de vingt-cinq mètres « L'Ouvrier et la Kolkhozienne » brandissant une faucille et un marteau, l'autre avec une sculpture monumentale d'un aigle tenant une croix gammée dans ses serres."
+ worldnews.5.d:0 "La France est fière de lancer en fanfare l'exposition universelle de 1937. À Paris, près de 101 hectares et 44 pays proposent cent-quatre-vingt-dix pavillons ayant pour thème les arts et techniques appliqués à la vie moderne. Près de 32 millions de visiteurs s'y presseront. À l'époque, Paris conservera le Palais de Chaillot, le Palais de la découverte, et le Palais de Tokyo. L'esprit et l'art nouveau triomphent partout. Le monde veut croire un instant que l'exposition va enfin rassembler tout ce qui unit les hommes. Mais ce qui frappe les esprits, ce sont les pavillons monumentaux soviétiques et allemands qui se font face pour se défier : une statue de vingt-cinq mètres de l'Ouvrier et la Kolkhozienne brandissant une faucille et un marteau s'opposant à une sculpture géante d'un aigle tenant une croix gammée dans ses serres."
  worldnews.5.a:0 "Un grand succès mondial !"
 
  ############################
@@ -1109,8 +1118,8 @@
 					#### EVENTS ####
 	############################
 	
- indochina.1.t:0 "[FRA.GetLeLaLNP] [FRA.GetName] cèd[FRA.GetEEntNP] face au Japon"
- indochina.1.d:0 "[FRA.GetLeLaLNP] [FRA.GetName] [FRA.GetAOntNP] ordonné à notre gouvernement de céder au Japon les régions de Tonkin et d'Indochine du Sud. Ces régions sont les plus importantes pour nous, contenant le plus de ressources, de population et d'industrie dans toute l'Indochine. Donnons-nous l'ordre, ou restons-nous fermes ?"
+ indochina.1.t:0 "[FRA.GetNameDefCap] cèd[FRA.GetEEntNP] face au Japon"
+ indochina.1.d:0 "[FRA.GetNameDefCap] [FRA.GetAOntNP] ordonné à notre gouvernement de céder au Japon les régions de Tonkin et d'Indochine du Sud. Ces régions sont les plus importantes pour nous, contenant le plus de ressources, de population et d'industrie dans toute l'Indochine. Donnons-nous l'ordre, ou restons-nous fermes ?"
  indochina.1.a:0 "Nous ne pouvons pas céder !"
  indochina.1.b:0 "Nous devons faire ce qu'on nous ordonne."
 	

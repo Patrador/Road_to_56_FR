@@ -8,10 +8,10 @@
  hold_the_neutrality_national_referendum:0 "Former un gouvernement réactionnaire"
 
  r56_alone_faction_leader:0 "Trouver des alliés"
- r56_alone_faction_leader_desc:0 "L'incapacité à trouver des alliés rendrait notre position diplomatique absurde et nous obligerait à nous ouvrir à de nouvelles opportunités diplomatiques."
+ r56_alone_faction_leader_desc:0 "L'incapacité à trouver des alliés rendrait notre position diplomatique ridicule et nous obligerait à ouvrir de nouvelles opportunités diplomatiques."
 
- ENG_restore_the_UK:0 "Unifier la Grande-Bretagne"
- ENG_restore_the_UK_desc:0 "Nous devons mettre fin à la division de la Grande-Bretagne, restaurer notre union séculaire et la cimenter à nouveau afin de rassembler la force nécessaire pour réévaluer notre place sur la scène mondiale."
+ ENG_restore_the_UK:0 "Restaurer le Royaume-Uni"
+ ENG_restore_the_UK_desc:0 "Nous devons mettre fin à la division de la Grande-Bretagne, restaurer notre union séculaire du Royaume-Uni d'Angleterre, d'Écosse, du Pays de Galles et d'Irlande du Nord, et la consolider à nouveau pour rassembler nos forces et réévaluer notre place sur la scène mondiale."
  unite_britain:0 "Rétablir l'unité britannique"
 
  reunite_germany:0 "Réunifier l'Allemagne"
@@ -20,9 +20,9 @@
  reunite_italy:0 "Réunifier l'Italie"
 
  recruit_women_pilots:0 "Recruter des femmes pilotes"
- recruit_women_pilots_desc:0 "En cette heure fatidique pour notre nation, nous ne pouvons pas nous permettre d'abuser du talent de qui que ce soit. Les aviatrices ont suscité l'étonnement du public par leurs exploits dans les années 1930. Ils doivent maintenant être mobilisés pour la cause nationale et faire leur devoir aux côtés des hommes."
+ recruit_women_pilots_desc:0 "En cette heure fatidique pour notre nation, nous ne pouvons nous permettre d'abuser du talent d'aucun individu. Les aviatrices ont créé l'étonnement du public par leurs exploits dans les années 30. Elles doivent être mobilisées pour la cause nationale et faire leur devoir aux côtés des hommes."
  r56_collect_civilian_aluminium_utensils:0 "Collecter des ustensiles civils en aluminium"
- r56_collect_civilian_aluminium_utensils_desc:0 "L'aluminium est un matériau essentiel pour l'effort de guerre. En cette période de besoin, il est nécessaire d'organiser des points de collecte pour que les vélos, pots et autres objets puissent être réutilisés pour l'effort de guerre."
+ r56_collect_civilian_aluminium_utensils_desc:0 "L'aluminium est un matériau vital pour l'effort de guerre. En cette période de besoin, il est nécessaire d'organiser des points de collecte pour réutiliser les vélos, les pots et autres objets pour l'effort de guerre."
 
  r56_coordinate_land_equipment_manufacturers:0 "Coordonner les fabricants d'équipement terrestre"
  r56_coordinate_naval_equipment_manufacturers:0 "Coordonner les fabricants d'équipement naval"
@@ -125,7 +125,11 @@
 
  xp_conversion_landxp:0 "§H150§!£army_experience §H10§!£pol_power"
  xp_conversion_landxp_blocked:0 "§R150§!£army_experience  §R10§!£pol_power"
- xp_conversion_landxp_tooltip:0 "Cela coûte 150£army_experience  et 10£pol_power de sélectionner cela."
+ xp_conversion_landxp_tooltip:0 "Cela coûte 150£army_experience et 10£pol_power de sélectionner cela."
+
+ xp_conversion_land_50_xp:0 "§H50§!£army_experience §H10§!£pol_power"
+ xp_conversion_land_50_xp_blocked:0 "§R50§!£army_experience §R10§!£pol_power"
+ xp_conversion_land_50_xp_tooltip:0 "Cela coûte 150£army_experience et 10£pol_power de sélectionner cela."
 
  xp_conversion_navyxp:0 "§H150§!£navy_experience §H10§!£pol_power"
  xp_conversion_navyxp_blocked:0 "§R150§!£navy_experience  §R10§!£pol_power"
@@ -220,3 +224,16 @@ decision_cost_CP_10_pp_10_tooltip:0 "Cela coûte £command_power §H10§! et £p
 
  r56_activate_naval_invasion_event_country:0 "Activer l'événement d'alerte d'invasion navale"
  r56_disable_naval_invasion_event_country:0 "Désactiver l'événement d'alerte d'invasion navale"
+ r56_disable_naval_invasion_event_country:0 "Désactiver l'événement d'alerte d'invasion navale"
+ 
+ unite_the_peninsula_category:0 "Unifier la péninsule"
+ unite_the_peninsula_desc:0 "Notre pays a été divisé à cause de l'impérialisme et de petites disputes idéologiques. Maintenant que nous contrôlons toute la péninsule, nous pouvons commencer l'unification de la Corée."
+ r56_generic_investment_unlocked:0 "Les investissements étrangers ont été autorisés"
+ r56_generic_investments:0 "Investissements [FROM.GetAdjMP]"
+ r56_generic_investments_tt:0 "Débloque les décisions pour attirer les §Yinvestissements étrangers§!" 
+ r56_generic_investment_running:0 "Attire actuellement des investissements"
+
+ game_rules_reminder_category:0 "Rappel des règles de jeu"
+ game_rules_reminder_category_desc:0 "N'oubliez pas de consulter le menu §YRègles personnalisées§! en bas à droite de la carte de lancement de la partie ! Il comprend de nombreuses options telles que la §Ysélection des arbres de priorités§!, qui permet d'alterner entre les priorités du jeu de base et de Road to 56 pour plusieurs pays. Il y a aussi le §Ycontrôle des conférences de paix par le joueur§! et une grande sélection de changements de gameplay, comme la désactivation des §Ycaractères nationaux§!, de disponibles !"
+ game_rules_reminder:0 "Rappel des règles de jeu"
+ game_rules_reminder_desc:0 "Lorsque le chronomètre sera écoulé, ce rappel sera supprimé pour le reste de la partie."

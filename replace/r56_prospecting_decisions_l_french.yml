@@ -20,7 +20,7 @@
  open_kings_island_scheelite_mine:0 "Ouvrir la mine de Scheelite de Kings Island"
  expand_lakes_entrance_oil_field:0 "Agrandire le gisement de pétrole de Lakes Entrance"
  open_cooks_creeks_mine:0 "Ouvrir la mine de Cooks Creeks"
- develop_tasmania_aluminium_deposits_with_british_help:0  "Développer des gisements d'aluminium en Tasmanie avec l'aide britannique"
+ develop_tasmania_aluminium_deposits_with_british_help:0 "Développer des gisements d'aluminium en Tasmanie avec l'aide britannique"
  r56_develop_tasmania_aluminium_deposits:0 "Develop Tasmania Aluminium Deposits"
  exploit_pyrenean_oil_field:0 "Exploiter le gisement de pétrole pyrénéen"
  develop_petitjean_oil_field:0 "Développer le gisement de pétrole de Petitjean"
@@ -107,6 +107,7 @@
  exploit_oregonian_chromium:0 "Exploiter le chrome de l'Oregon"
  exploit_californian_chromium:0 "Exploiter le chrome californien"
  exploit_alaskan_tungsten:0 "Exploiter le tungstène de l'Alaska"
+ develop_alaska_chromium_deposits:0 "Rouvrir les mines de chrome d'Alaska"
  develop_hamme_mining_district_in_virginia:0 "Développer la section de Virginie du district minier de Hamme"
  develop_hamme_mining_district_in_north_carolina:0 "Développer la section de Caroline du Nord du district minier de Hamme"
  exploit_mississippi_oil_field:0 "Développer le champ pétrolier du comté de Yazoo dans le Mississippi"
@@ -149,6 +150,7 @@
  exploit_norrland_chromium:0 "Exploiter le chrome du Jämtland"
  exploit_kvarntorp_shale_oil:0 "Exploiter le pétrole de schiste de Kvarntorp"
  develop_swabian_shale_oil:0 "Exploiter le pétrole de schiste souabe"
+ develop_northern_siamese_shale_oil:0 "Développer le pétrole de schiste du nord du Siam"
  exploit_rmelan_oil_field:0 "Exploiter le champ pétrolier de Rmelan"
 
  exploit_presov_oil_field:0 "Exploiter le champ pétrolier de Prešov"
@@ -304,6 +306,7 @@
  exploit_kvarntorp_shale_oil_wtt:0 "Exploiter le pétrole de schiste de Kvrantorp"
 
  develop_swabian_shale_oil_wtt:0 "Exploiter le pétrole de schiste souabe"
+  develop_northern_siamese_shale_oil_wtt:0 "Développer le pétrole de schiste du nord du Siam"
  exploit_rmelan_oil_field_wtt:0 "Exploiter le champ pétrolier de Rmelan"
 
  exploit_presov_oil_field_wtt:0 "Exploiter le champ pétrolier de Prešov"

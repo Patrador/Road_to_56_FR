@@ -30,19 +30,20 @@
  retraining_desc:0 "§LCe personnage suit actuellement des cours militaires supplémentaires afin d'améliorer ses capacités de commandement.§!"
  front_line_commander:0 "Commandant de ligne de front"
  front_line_commander_desc:0 "§LCe commandant a l'habitude de commander aussi près que possible des lignes de front. Cela lui permet de superviser la bataille dans son ensemble, mais en réalité, il n'est pas bien adapté pour mener de grandes opérations. Il prend des risques et, malgré ses lacunes, il est toujours respecté par ses hommes et admiré par ses collègues.§!" 
- jumping_general:0 "Général sautant"
+ jumping_general:0 "Jumping General"
  jumping_general_desc:0 "§LCe commandant a l'habitude de commander ses camarades parachutistes le plus près possible de l'action en se jetant directement dedans. Cela lui permet de superviser la bataille et de maintenir l’initiative et le moral de ses troupes, mais en réalité, il n’est pas bien adapté à la conduite d’opérations de grande envergure. Il est un preneur de risques et, malgré ses lacunes, il est admiré par ses hommes et respecté par ses collègues.§!"
  lucky:0 "Chanceux"
- lucky_desc:0 "Cet homme semble avoir été choisi par le destin, sa capacité à survivre à des situations dangereuses ne lui est peut-être pas encore connue, mais le Destin sait et attend le moment pour l'aider subtilement."
+ lucky_desc:0 "§LCet homme semble avoir été choisi par le destin, sa capacité à survivre à des situations dangereuses ne lui est peut-être pas encore connue, mais le Destin sait et attend le moment pour l'aider subtilement.§!"
  vigorous:0 "Vigoureux"
- vigorous_desc:0 "Cet homme est connu pour sa santé robuste, qui le rend résistant et prêt à se battre avec ses hommes même dans les environnements les plus rudes."
+ vigorous_desc:0 "§LCet homme est connu pour sa santé robuste, qui le rend résistant et prêt à se battre avec ses hommes même dans les environnements les plus rudes.§!"
  promising:0 "Prometteur"
  promising_desc:0 "Cet homme a un grand talent et apprendra les bases assez rapidement."
  promising_tooltip:0 "§RCe trait sera supprimé si le commandant atteint le niveau 3.§!"
 
 
 ##Companies 
- converted_train_manufacturer:0 "Constructeur de train convertit"
+ r56_train_manufacturer:0 "Concepteur de trains"
+ converted_train_manufacturer:0 "Constructeur de trains convertis"
  efficient_bomber_manufacturer:0 "Fabricant de bombardiers efficaces"
  infantry_tank_manufacturer:0 "Fabricant de chars d'infanterie"
  nuclear_physics_concern:0 "Préoccupation physique nucléaire"
@@ -60,6 +61,7 @@
  landing_craft_manufacturer:0 "Fabricant d'embarcations de débarquement"
 
 ##Leaders 
+ defacto_leader:0 "Dirigeant de facto"
  dislikes_russia:0 "N'aime pas la Russie"
  tank_enthusiast:0 "Passionné de chars"
  retired_admiral:0 "Amiral à la retraite"
@@ -108,7 +110,7 @@
  himmler_terrorizing_monomaniac:0 "Monomaniaque terrorisant" 
  minister_of_aircraft_production:0 "Ministre de la production aéronautique"
  corrupt_council:0 "Conseil corrompu"
- 
+ yan_xishan_thought:0 "Pensée de Yan Xishan"
  ##Australia
  aboriginal_journalist:0 "Journaliste autochtone"
  aboriginal_rights_activist:0 "Activiste des droits des autochtones"
@@ -116,12 +118,20 @@
  black_suffragette:0 "Suffragette noire"
 
 #Adviors 
+ head_of_the_fbi:0 "Directeur du FBI"
  intervention_advocate:0 "Avocat d'intervention"
  law_enforcement_militarizer_3:0 "Policier militariste\n(Génie)"
-reactionary_media_owner:0 "Baron des médias réactionnaires"
+ reactionary_media_owner:0 "Baron des médias réactionnaires"
+ nationalist_diplomat:0 "Diplomate nationaliste"
+ puppet_prime_minister_fascism:0 "Premier ministre fantoche"
+ religious_figure:0 "Figure religieuse"
+ industrious_innovator:0 "Innovateur industriel"
+ centrist_intellectual:0 "Intellectuel centriste"
+ royal:0 "Courtier royal"
+ minister_of_everything:0 "Ministre de tout"
 
 
-guerilla_expert:0 "Expert en guérilla"
-guerilla_expert_desc:0 "S'ils ne nous attrapent pas, nous pourrons survivre, nous battre un autre jour et recommencer."
-submarine_captain:0 "Capitaine de sous-marin"
-submarine_captain_desc:0 "Ohé matelot ! Prêt à plonger yahahahaaaaaarr !"
+ guerilla_expert:0 "Expert en guérilla"
+ guerilla_expert_desc:0 "S'ils ne nous attrapent pas, nous pourrons survivre, nous battre un autre jour et recommencer."
+ submarine_captain:0 "Capitaine de sous-marin"
+ submarine_captain_desc:0 "Ohé matelot ! Prêt à plonger yahahahaaaaaarr !"

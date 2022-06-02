@@ -275,3 +275,6 @@
  COL_hidroelectrics_desc:0 "La géographie avec les montagnes escarpées est idéale pour la construction de barrages, maintenant que nos besoins énergétiques augmentent."
  COL_coffe_growth:0 "Croissance du café"
  COL_coffe_growth_desc:0 "Le café est l'une de nos exportations les plus importantes. En négociant de nouveaux accords commerciaux, nous nous assurerons de continuer à vendre davantage."
+
+ #threats#
+ COL_war_with_andean_threat:0 "Ambitions bolivariennes dans les Andes"

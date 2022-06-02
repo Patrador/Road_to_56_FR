@@ -14,6 +14,7 @@
  VIN_comittee_independent_vietnam_party_long:0 "Comité de restauration du Vietnam indépendant"
  VIN_la_lutte_party_long:0 "La Lutte"
 
+
  # EVENTS #######################################################################################
 
  vietnam.1.t:0 "Entrée du Vietnam dans le Komintern"
@@ -95,12 +96,12 @@
 
 
  VIN_vnqdd_youth_league:0 "Ligue des jeunesses du VNQDD"
- Ngo_dinh_diem_tooltip:0 "§YNiveau§! : 3\n§RAttaque§! : 2\n§YDéfense§! : 3\n§GPlanification§! : 3\n§MLogistique§! : 3\n§gTrait§! : §HCombattant des collines§!\n"
+ Ngo_dinh_diem_tooltip:0 "§YNiveau§! : 3\n§RAttaque§! : 2\n§YDéfense§! : 3\n§GPlanification§! : 3\n§BLogistique§! : 3\n§gTrait§! : §HCombattant des collines§!\n"
 
  #####################################
 
  # MINISTERS ###
- revolutionnary_writer:0 "Écrivain révolutionnaire"
+ revolutionary_writer:0 "Écrivain révolutionnaire"
  VIN_phan_boi_chau:0 "Phan Boi Chau"
  VIN_truong_chinh:0 "Truong Chinh"
  VIN_ha_huy_tap:0 "Ha Huy Tap"

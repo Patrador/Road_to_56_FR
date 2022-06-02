@@ -32,6 +32,7 @@
  WELLAND_CANAL:0 "Canal Welland"
  ST_LAWRENCE:0 "Fleuve Saint-Laurent"
  disable_canal_tt:0 "§RCe canal a été en partie démoli, et doit être réparé avant que les navires puissent de nouveau le franchir.§!"
+ danish_straits_access_revoked_tt:0 "§RNotre marine a été empêchée de traverser le détroit du Danemark par le gouvernement danois [?DEN.copenhagen_backer.GetNameDef]§!"
  SUEZ_CANAL_BLOCKED:0 "Canal de Suez endommagé"
  PANAMA_CANAL_BLOCKED:0 "Canal de Panama endommagé"
  SUEZ_CANAL_BLOCKED_FOR_COUNTRY:0 "Canal de Suez fermé [Root.GetAuAlaAlNP] [Root.GetName]"

@@ -119,3 +119,4 @@
  small_ship_producer_mass_1:0 "Fabricant de petits navires en masse"
  small_ship_producer_mass_2:0 "Fabricant de petits navires en masse"
  trade_specialization:0 "Spécialisation commerciale"
+ generic_train_equipment_manufacturer_r56:0 "[Root.Capital.GetName] Locomotive Works"

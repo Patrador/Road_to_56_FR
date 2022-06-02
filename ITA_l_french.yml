@@ -19,6 +19,7 @@
 
  ITA_royal_intervention_tt:0 "Les loyalistes monarchistes et les personnes au sein de l'armée loyales envers le roi vont commencer une §Yguerre civile§! contre les fascistes !"
 
+
  # Decisions
  ITA_foreign_policy_fascism:0 "Politique étrangère fasciste"
  ITA_foreign_policy_fascism_desc:0 "Une politique étrangère plus active nous permettra de mieux défendre nos intérêts et assurera que notre influence est maintenue et étendue."
@@ -37,7 +38,7 @@
  ITA_temporarly_occupy_the_baleares_desc:0 "Les Baléares sont trop importantes stratégiquement parlant pour les laisser entre les mains d'un régime potentiellement communiste. Nous enverrons des troupes pour occuper les îles tout en promettant aux nationalistes qu'elles leur seront rendues une fois que la guerre civile sera terminée. Bien entendu, s'ils ne sont plus là, nous n'aurons aucune raison de les leur rendre..."
  ITA_temporarly_occupy_the_baleares_tt:0 "Vous promettez de rendre les îles aux §Gnationalistes§! §Iune fois que la guerre civile sera terminée§!. §!Si les §Yrépublicains§! gagnent, vous pourrez garder les îles, mais si vous refusez de les rendre aux §Gnationalistes§!, vous subirez de §Rlourdes pénalités§!"  
 
- ITA_cede_819_to_HUN:0 "Céder le Prekmurje à la Hongrie"
+ ITA_cede_884_to_HUN:0 "Céder le Prekmurje à la Hongrie"
 
 
  # Events
@@ -205,6 +206,21 @@
  r56_italy.103.a:0 "Ensemble pour la victoire !"
  r56_italy.103.b:0 "Ils se réunissent comme des moutons effrayés par un loup."
  r56_italy.103.c:0 "Espérons qu'ils puissent travailler ensemble pour de bon."
+
+ r56_italy.107.t:0 "Victor Emmanuel III prend le pouvoir"
+ r56_italy.107.d:0 "Avec la restauration complète en Italie, le roi Victor Emmanuel a pris le pouvoir pour le moment. Le roi a promis que le gouvernement organiserait un référendum sur la monarchie dans un an."
+ r56_italy.107.a:0 "Un développement intéressant."
+ ITA_referendum_year_tt:0 "Un §Yréférendum sur la monarchie§! sera organisé dans un an ; si une majorité vote contre la monarchie, de nouvelles élections auront lieu."
+ 
+ r56_italy.108.t:0 "Référendum sur la monarchie"
+ r56_italy.108.d:0 "Aujourd'hui, le peuple italien a voté en faveur de la monarchie italienne sous le règne d'Umberta II, qui a su modifier de manière inattendue le sentiment populaire en faveur de la monarchie après l'abdication de son père." #pro-monarchy
+ r56_italy.108.d2:0 "Aujourd'hui marque un jour historique dans l'histoire de l'Italie. L'abolition de la monarchie a été votée, le sort du roi Umberto et de sa famille reste inconnu." #anti-monarchy
+ r56_italy.108.a:0 "Vive la République !"
+ r56_italy.108.b:0 "Vive le Roi !"
+
+ r56_italy.109.t:0 "Victor Emmanuel abdique"
+ r56_italy.109.d:0 "Ayant vu ses pouvoirs réduits sous la pression des Alliés et étant controversé pour sa collaboration avec Mussolini, le roi Emmanuel a décidé d'abdiquer. La monarchie, désormais représentée par le fils d'Emmanuel, Umberto II, plus populaire, a de meilleures chances de l'emporter lors du prochain référendum."
+ r56_italy.109.a:0 "Bien."
 
  # Ideas
  ITA_lack_of_powered_planes:0 "Manque de moteurs puissants"

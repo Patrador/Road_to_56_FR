@@ -86,7 +86,7 @@
  
  KMT_commie_generals_join_tt:0 "§YLin Biao§!, §YZhu De§!, §YChen Yi§! et §YPeng Dehuai§! rejoignent notre armée."
  
- KMT_hundred_flowers_tt:0 "§YLa campagne des Cent Fleurs commence.§! \nIl s'agit d'un complot visant à exposer les malfaiteurs, cependant, leurs critiques §Rpeut influencer la volonté de notre peuple§! car ils peuvent être plus attirés par d'autres partis §Gavant d'arrêter ces malfaiteurs§!."
+ KMT_hundred_flowers_tt:0 "Il s'agit d'un complot visant à exposer les malfaiteurs, cependant, leurs critiques §Rpeut influencer la volonté de notre peuple§! car ils peuvent être plus attirés par d'autres partis §Gavant d'arrêter ces malfaiteurs§!."
 
  PRC_great_leap_timespan:0 "§YLe Grand Bond en avant§! est prévu pour durer §Gplusieurs§! années, mais elle pourrait être interrompue après §Run an§! si cela devait être désastreux pour notre économie..."
  
@@ -101,6 +101,9 @@
  PRC_question_of_our_capital_decision:0 "Régler la question de la capitale"
  PRC_question_of_our_capital_decision_desc:0 "La Révolution Populaire gagnera encore plus de soutien parmi les ouvriers et les paysans si nous proclamons officiellement l'établissement [PRC.GetDuDelaDelNP] [PRC.GetName] dans notre capitale nouvellement acquise."
 
+ PRC_the_new_communist_beacon:0 "Le nouveau phare du communisme"
+ PRC_the_new_communist_beacon_desc:0 "La lutte révolutionnaire ne prendra jamais fin, tant qu'existeront les oppresseurs, les colonisateurs, les impérialistes et les ennemis du peuple !\nEn quelques coups, nous pouvons détruire les cellules anti-gouvernementales à l'extérieur et à l'intérieur [ROOT.GetDuDelaDelNP] [ROOT.GetName].\nLe temps est venu pour Da Zhonghua Diqu de se lever et de prospérer !"
+ PRC_hundred_flowers_campaign_progress:0 "Progression de la campagne des Cent Fleurs"
 
  ########### FLAGS #############
  PRC_defy_sov_order:0 "A défié l'ordre des Soviétiques"
@@ -124,9 +127,9 @@
  cdx_returned:0 "Chen Duxiu est revenu"
  PRC_zxl_as_leader:0 "Zhang Xueliang est parvenu au pouvoir"
  PRC_yes_truce:0 "A accepté d'arrêter toutes les guerres civiles."
+ has_pact_with_jap:0 "A un pacte avec le Japon"
 
 
- 
  ################  IDEAS  ###############################
  PRC_defeatism_1:0 "Défaitisme"
  PRC_defeatism_1_desc:0 "Certains de nos camarades pensent que si nous nous battons contre les Japonais, nous deviendrons la prochaine Abyssinie. De telles pensées refroidissent considérablement la volonté de notre peuple."
@@ -537,7 +540,6 @@
 
  PRC_liberate_the_soviet_people:0 "Libérer le peuple soviétique"
  PRC_liberate_the_soviet_people_desc:0 "Il est temps pour nous de libérer le peuple soviétique des vils révisionnistes !"
-
  PRC_state_controlled_education:0 "Éducation sous contrôle de l'État"
  PRC_state_controlled_education_desc:0 "Tout ce qui risque d'ébranler la foi de notre peuple dans le communisme ne doit pas être enseigné à l'école !"
 
@@ -551,13 +553,13 @@
  PRC_fighter_focus_desc:0 "Nous n'avons pas vu ce dernier des combats de chiens de la Grande Guerre. Continuer à développer des avions de chasse nous donnera un avantage pour l'avenir."
 
  PRC_bomber_focus:0 "Priorité aux bombardiers"
- PRC_bomber_focus_desc:0 "Lorsque les gens du futur parleront de l'horreur des guerres d'aujourd'hui, le feu qui pleut du ciel sera au premier plan. Nous ferons de notre mieux pour que ces histoires soient racontées par nos ennemis."
+ PRC_bomber_focus_desc:0 "Lorsque les gens du futur parleront de l'horreur des guerres d'aujourd'hui, le feu tombant du ciel occupera une place importante. Nous ferons tout notre possible pour que nos ennemis racontent ces histoires."
 
  PRC_cas_effort:0 "Effort sur l'appui aérien rapproché"
- PRC_cas_effort_desc:0 "Une armée moderne a besoin du soutien de véhicules non seulement sur le terrain, mais aussi dans les airs."
+ PRC_cas_effort_desc:0 "Une armée moderne a besoin du soutien de véhicules au sol et dans les airs."
 
  PRC_nav_effort:0 "Effort sur l'aviation navale"
- PRC_nav_effort_desc:0 "Tout comme la nouvelle guerre navale se déroule en partie sous la surface de l'eau, une partie de celle-ci se déroule dans les airs au-dessus des eaux."
+ PRC_nav_effort_desc:0 "Tout comme la nouvelle guerre navale se déroule sous la surface de l'eau, une partie de celle-ci se déroule dans les airs, au-dessus des eaux."
 
  PRC_economic_reform:0 "Réforme économique"
  PRC_economic_reform_desc:0 "La dévastation apportée par la révolution culturelle pousse notre nation vers un abîme, nous devons chercher des réformes qui puissent nous en sortir."
@@ -812,7 +814,7 @@
  PRC_fight_effort_desc:0 "Nous n'avons pas vu ce dernier des combats de chiens de la Grande Guerre. Continuer à développer des avions de chasse nous donnera un avantage pour l'avenir."
 
  PRC_bomber_effort:0 "Effort sur les bombardiers"
- PRC_bomber_effort_desc:0 "Lorsque les gens du futur parleront de l'horreur des guerres d'aujourd'hui, le feu qui pleut du ciel sera au premier plan. Nous ferons de notre mieux pour que ces histoires soient racontées par nos ennemis."
+ PRC_bomber_effort_desc:0 "Lorsque les gens du futur parleront de l'horreur des guerres d'aujourd'hui, le feu tombant du ciel occupera une place importante. Nous ferons tout notre possible pour que nos ennemis racontent ces histoires."
 
  PRC_air_innovation:0 "Innovation aérienne"
  PRC_air_innovation:0 "Les doctrines aériennes traditionnelles et la conception des avions finiront par tomber en disgrâce. Nous devons trouver des moyens nouveaux et plus efficaces pour détruire nos ennemis dans les airs pendant qu'ils stagnent."
@@ -871,6 +873,9 @@
  PRC_continuous_restrict_freedom:0 "Supprimer nos sujets"
  PRC_continuous_restrict_freedom_desc:0 "Nos sujets coloniaux se sont fait des idées assez stupides sur des choses comme « l'autodétermination » ou « l'indépendance nationale ». Il est temps de les détourner de ces notions."
 
+
+ PRC_he_long:0 "He Long"
+ PRC_luo_rong_huan:0 "Luo Rong Huan"
                          
  
 
@@ -1352,6 +1357,9 @@
  kmt.47.d:0 "Le président Mao a été extrêmement heureux de voir le dévouement des paysans d'une commune du Henan. En l'honneur de leur esprit prolétarien, il a donné sa bénédiction à de telles communes dans toute la Chine."
  kmt.47.a:0 "Notre peuple est vraiment dévoué au Parti !"
 
+ prc.126.t:0 "Mao prend le pouvoir"
+ prc.126.d:0 "Après la longue marche, beaucoup de divisions de nos autres chefs militaires ont été affaiblies par les combats. La propre armée de Mao a été relativement épargnée. En outre, ses récents discours au sein de l'armée ont également mis en évidence une chose. Il est maintenant le leader incontesté de notre cause !"
+ prc.126.a:0 "Vers des jours meilleurs."
 
 
  ## UNUSED ##

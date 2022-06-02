@@ -1,5 +1,8 @@
 ﻿l_french:
  
+ #Special generic desc
+ country_capitulated.0.d_defeat_hitler:0 "[FROM.GetLeader] a finalement annoncé qu'après un effort considérable, les forces armées [ROOT.GetAdjFP] ont finalement accepté de se rendre sans condition. Il a donc annoncé que sa grande victoire, rendue possible par l'effort de l'ensemble du peuple [ROOT.GetAdjMS] et de ses alliés, marque la fin de la tyrannie hitlérienne.\n\nAvec la défaite finale du nazisme, une nouvelle aube se lève sur l'Europe, mais pour le moment, [ROOT.GetNameDef] restera sous occupation militaire jusqu'à l'établissement d'un accord de paix clair."
+ 
 #News
 r56.news_event.1.t:0 "Mussolini retiré du pouvoir"
 r56.news_event.1.desc:0 "Après la défaite de l'Italie en Éthiopie et le récent accord de paix entre les gouvernements italien et éthiopien, des manifestations massives se sont formées dans presque toutes les grandes villes italiennes pour demander l'exclusion de Mussolini au poste de Premier ministre italien et réclamer des élections. Avec des troubles sociaux massifs et la possibilité d'émeutes massives, Victor Emmanuel III a démis Mussolini de son poste de Premier ministre italien et a placé le général Pietro Badoglio au poste de Premier ministre par intérim. Une foule à Rome a ensuite pris d'assaut le siège du parti fasciste et a retrouvé Mussolini mort d'une blessure par balle auto-infligée."
@@ -19,7 +22,7 @@ r56.news_event.4.t:0 "L'Albanie rejoint l'Axe"
 r56.news_event.4.d:0 "L'Allemagne a accepté la demande de l'Albanie de rejoindre l'Axe. Ils s’opposent maintenant au communisme et aux nations démocratiques. Le roi Zog a exprimé la volonté de montrer au monde entier la puissance de son pays. Le Royaume-Uni et la France ont exprimé leur inquiétude face à la montée du fascisme en Europe et ont rappelé aux autorités allemandes les règles du Traité de Versailles que l'Allemagne devait respecter. Il semble que les démocraties occidentales ne semblent pas réagir contre l'Allemagne et l'Albanie."
 r56.news_event.4.a:0 "Une autre nation encore plie le genou devant l'Allemagne."
 
-#1942 world cup #fictional event, probably would had been held in South America due to FIFA internal politics. 
+#1942 world cup fictional event, probably would had been held in South America due to FIFA internal politics. 
 r56.news_event.6.t:0 "Coupe du monde de 1942"
 r56.news_event.6.desc:0 "La Coupe du Monde s'est tenue récemment [URG.GetAuEnANP] [URG.GetName]. C'était la quatrième édition du tournoi. Seize équipes ont participé à un tournoi à élimination.\n\nLes anciens champions [ITA.GetAdjMP] ont été battus au deuxième tour par les hôtes. Bien que la course des hôtes se termine en demi-finale, car ils ont été battus par [GER.GetNameDef]. L'équipe [GER.GetAdjFS] a finalement gagné en battant [BRA.GetNameDef] en finale lors un match tendu. C'était la première fois que [GER.GetNameDef] remporte le tournoi.\n\nLa Coupe du monde a été une agréable distraction pour beaucoup, permettant d'éloigner les esprits de la situation politique tendue qui se développe dans le monde entier."
 r56.news_event.6.a:0 "Faisons-la à nouveau dans quatre ans."
@@ -36,7 +39,6 @@ r56.news_event.8.t:0 "Coup d'État militaire au Paraguay"
 r56.news_event.8.d:0 "Après la guerre du Chaco de l'année dernière que le Paraguay a réussi à gagner, le gouvernement paraguayen a conservé le faible commandement d'Eusebio Ayala, mais [PAR.Getleader] a orchestré un coup d'État après avoir passé du temps en exil. [PAR.Getleader] a rapidement mis en place un régime militaire beaucoup plus fort.\n\nLe gouvernement du Paraguay devra très probablement se réorganiser après l'éviction de nombreux loyalistes d'Ayala."
 r56.news_event.8.a:0 "Un développement intéressant."
 r56.news_event.8.b:0 "C'était nécessaire."
-
 
 #Paraguay civil war
 r56.news_event.9.t:0 "Guerre civile au Paraguay"
@@ -98,11 +100,11 @@ r56.news_event.19.a:0 "Le Groenland ? Un territoire en plus, ça fait toujours p
 r56.news_event.19.b:0 "Un geste audacieux de la part [USA.GetDuDelaDelNP] [USA.GetName]."
 r56.news_event.19.c:0 "Comment osent-ils kidnapper ce que nous avons légitimement volé !"
 
-#The Kashar Islamic rebellion
+#The Kashar Islamic rebellion/SIK-TNG War
 r56.news_event.20.t:0 "La rébellion islamique de Kachgar"
-r56.news_event.20.d:0 "[SIK.getleader] a décidé d'agir contre les milices musulmanes turques de plus en plus autonomes dans l'armée de Kashgar distincte [TNG.GetAuEnANP] [TNG.getname]. Cette démarche est, en substance, une démarche contre [TNG.getleader] et son contrôle sur la région. Cette soi-disant « rébellion » a rapidement dégénéré en un conflit entre [SIK.getnamedef] et [TNG.getnamedef] puisque les forces armées de [TNG.getleader] sont venues au secours des rebelles.\n\nDe nombreuses rumeurs politiques ont laissé entendre que le vainqueur du conflit deviendrait le souverain incontesté de la région du Xinjiang."
+r56.news_event.20.d:0 "[SIK.GetLeader] a décidé d'agir contre les milices musulmanes turques de plus en plus autonomes dans l'armée de Kashgar distincte [TNG.GetAuEnANP] [TNG.getname]. Cette démarche est, en substance, une démarche contre [TNG.getleader] et son contrôle sur la région. Cette soi-disant « rébellion » a rapidement dégénéré en un conflit entre [SIK.getnamedef] et [TNG.getnamedef] puisque les forces armées de [TNG.getleader] sont venues au secours des rebelles.\n\nDe nombreuses rumeurs politiques ont laissé entendre que le vainqueur du conflit deviendrait le souverain incontesté de la région du Xinjiang."
 r56.news_event.20.a:0 "Vous m'avez forcé la main !"
-r56.news_event.20.b:0 "Des tensions entre pions..."
+r56.news_event.20.b:0 "Un simple échange de pions."
 r56.news_event.20.c:0 "Cela a rapidement dégénéré."
 
 #Franco-American fascist Faction
@@ -165,3 +167,65 @@ r56.news_event.28.a:0 "Un trône a été sauvé !"
 r56.news_event.28.b:0 "Le capitalisme féodo-bourgeois est l'antithèse de la domination prolétarienne."
 r56.news_event.28.c:0 "Il n'y a pas de guerre plus horrible que la guerre civile."
 r56.news_event.28.e:0 "Il n'y a pas de guerre plus horrible que la guerre civile."
+
+ r56.news_event.29.title:0 "Les tensions sont fortes entre [VEN.GetNameDef] et [695.Owner.GetNameDef]"
+ r56.news_event.29.desc:0 "\nLes tensions sont élevées car le dirigeant vénézuélien [VEN.GetLeader] a clairement indiqué que l'île de Curaçao, située à seulement 60 km des côtes du Vénézuéla, fait partie intégrante de la nation et doit être restituée. Même si cela signifie par la force.\n\nÀ moins qu'un accord pacifique ne soit conclu entre les deux nations concernant ce différend, un conflit pourrait éclater sur l'île."
+ r56.news_event.29.a:0 "Insignifiant."
+ r56.news_event.29.b:0 "Elle nous revient de droit."
+ #Extra yalta stuff marijn211
+ r56.news_event.30.title:0 "Occupation de l'Allemagne par les Alliés"
+ r56.news_event.30.desc:0 "La Seconde Guerre mondiale en Europe étant terminée, les Alliés ont pris le contrôle total de l'Allemagne et l'ont divisée en quatre nations d'occupation, les Britanniques et les Français à l'ouest et les Américains et les Soviétiques à l'est. Le temps qu'il faudra à ces terres pour se remettre et être dénazifiées reste inconnu."
+ r56.news_event.30.a:0 "Plus jamais."
+ #Japs democratic diplomacy
+ r56.news_event.31.title:0 "Une mission diplomatique [JAP.GetAdjFS] ouvre les négociations d'une alliance étrangère"
+ r56.news_event.31.desc:0 "\nNos renseignements font état d'une activité accrue du ministère des Affaires étrangères [JAP.GetAdjMS], dont les diplomates se rendent dans d'autres pays dans ce qui peut être considéré comme un effort pour établir des relations amicales avec certains de leurs alliés potentiels.\n\nCependant, on ne sait pas encore si ces négociations seront fructueuses ou non, mais nous devons être conscients de l'évolution de la situation et nous attendre au pire résultat pour nous-mêmes."
+ r56.news_event.31.a:0 "Nous devons rester vigilants."
+
+ #Goering emerges in Texas, because every nazi deserve a second chance (/s)
+ r56.news_event.32.title:0 "Göring réapparaît au Texas !"
+ r56.news_event.32.desc:0 "\nUne photo a été publiée, suggérant que Hermann Göring a survécu et s'est enfui [375.Controller.GetAuEnANP] [375.Controller.GetName]. Ancien as allemand qui a soutenu Hitler dans son ascension au pouvoir, il est porté disparu à la fin du conflit qui ravage l'Allemagne et est présumé mort. Il semble qu'il ait fui l'Allemagne en utilisant un avion capable de transporter son poids ainsi qu'une partie de sa garde-robe et un échantillon de sa collection d'art.\n\nIl a été accueilli et protégé par des admirateurs [375.Controller.GetAdjMP] après son arrivée, et il a maintenant été invité à participer au commandement de l'armée de l'air [375.Controller.GetAdjFS]."
+ r56.news_event.32.a:0 "S'il s'est échappé, combien de nazis ont fait de même ?"
+ r56.news_event.32.b:0 "Bienvenue [375.Controller.GetAuEnANP] [375.Controller.GetName]" 
+ r56.news_event.32.c:0 "C'est donc là que le bâtard est allé !"
+
+ r56.news_event.33.t:0 "Le monde celtique s'unifie"
+ r56.news_event.33.desc:0 "Après les récents développements, le monde celtique a été unifié sous la direction de [FROM.GetLeader]. Le gouvernement celte a annoncé qu'il veillerait à ce que les traditions soient protégées et entretenues par l'État. À cet effet, il a déjà appelé à soutenir les mouvements néo-druidiques et néo-bardes afin d'assurer la diffusion du celtisme.\n\nAlors que les célébrations se déroulent à [FROM.Capital.GetName], des détracteurs du nouvel État critiquent la création agitée de l'union. Ils tendent également à s'accorder sur le fait qu'une marine puissante pourrait éventuellement bloquer la mer d'Irlande et séparer les différentes parties de la nouvelle union, menaçant potentiellement son unité."
+ r56.news_event.33.a:0 "Des siècles d'humiliation ont été vengés !"
+ r56.news_event.33.b:0 "Fascinant !"
+ r56.news_event.33.c:0 "Une évolution inquiétante."
+
+ r56.news_event.34.t:0 "Le Levant s'unifie"
+ r56.news_event.34.desc:0 "Après les récents développements, le Levant tout entier a été unifié sous la direction de [FROM.GetLeader]. Le gouvernement pan-arabe a annoncé qu'il veillerait à ce que les lieux saints soient protégés des agresseurs étrangers.\n\nAlors que les célébrations se déroulent à [FROM.Capital.GetName], des détracteurs du nouvel État critiquent la création agitée de l'union. Néanmoins, ils remarquent que la religion fonctionnera probablement comme un facteur d'unification pour la population arabe musulmane."
+ r56.news_event.34.a:0 "L'humiliation de 1919 a été vengée !"
+ r56.news_event.34.b:0 "Fascinant !"
+ r56.news_event.34.c:0 "Une évolution inquiétante."
+
+ r56.news_event.35.t:0 "Les îles des Caraïbes ont été unifiées"
+ r56.news_event.35.desc:0 "Après les récents développements, les principales îles de l'archipel des Caraïbes ont été unifiées sous la direction de [FROM.GetLeader]. Le gouvernement [FROM.GetAdjMS] a annoncé qu'il veillera à protéger tous ses habitants et à faire en sorte que le pays soit reconnu dans le monde entier.\n\nAlors que les célébrations se déroulent à [FROM.Capital.GetName], des détracteurs du nouvel État critiquent la création agitée de l'union. Ils ont également tendance à s'accorder sur le fait qu'une marine forte pourrait potentiellement bloquer les Caraïbes et séparer les différentes parties de la nouvelle union, menaçant potentiellement son unité. Certains pensent même qu'elle pourrait les obliger à utiliser des sous-marins pour pratiquer une sorte de piraterie moderne."
+ r56.news_event.35.a:0 "Huzzah !"
+ r56.news_event.35.b:0 "Fascinant !"
+ r56.news_event.35.c:0 "Une évolution inquiétante."
+
+ r56.news_event.36.t:0 "[FROM.GetLeader] unit les territoires de la Plata"
+ r56.news_event.36.desc:0 "\nAprès l'évolution récente, les pays qui formaient la vice-royauté du Rio de la Plata sous la domination espagnole ont été unifiés sous la direction de [FROM.GetLeader]. Le gouvernement [FROM.GetAdjMS] a annoncé qu'elle veillera à protéger tous ses habitants et à faire en sorte que le pays soit reconnu dans le monde entier.\n\nAlors que les célébrations ont lieu à [FROM.Capital.GetName], des détracteurs du nouvel État critiquent la création agitée de l'union."
+ r56.news_event.36.a:0 "Huzzah !"
+ r56.news_event.36.b:0 "Fascinant !"
+ r56.news_event.36.c:0 "Une évolution inquiétante."
+
+ r56.news_event.37.t:0 "[FROM.GetLeader] proclame [FROM.GetNameDef]"
+ r56.news_event.37.desc:0 "\nLe continent africain évolue rapidement. Lors d'une cérémonie dans sa capitale à [FROM.Capital.GetName], [FROM.GetLeader] a proclamé la création d'une nouvelle union nommée [FROM.GetNameDef]. La déclaration du gouvernement [FROM.GetAdjMS] a annoncé qu'il veillerait à protéger tous ses habitants et à faire en sorte que le pays soit reconnu dans le monde entier.\n\nCette nouvelle soulève des questions quant au potentiel de cette nouvelle union à devenir un acteur majeur sur le continent."
+ r56.news_event.37.a:0 "Huzzah !"
+ r56.news_event.37.b:0 "Fascinant !"
+ r56.news_event.37.c:0 "Une évolution inquiétante."
+
+ r56.news_event.38.t:0 "La Grande-Bretagne réunifiée"
+ r56.news_event.38.desc:0 "\nLondres fait la fête car le gouvernement anglais a réussi à prendre le contrôle de toute l'île de Grande-Bretagne et proclame un nouvel acte d'union. Ce geste a effectivement réunifié la Grande-Bretagne.\n\nAlors que Londres fait la fête, d'autres puissances peuvent craindre un retour de l'impérialisme [FROM.GetAdjMS] sur la scène mondiale."
+ r56.news_event.38.a:0 "Huzzah !"
+ r56.news_event.38.b:0 "Fascinant !"
+ r56.news_event.38.c:0 "Une évolution inquiétante."
+
+ r56.news_event.39.t:0 "L'Allemagne réunifiée"
+ r56.news_event.39.desc:0 "Une fois de plus, le peuple allemand a été unifié sous un seul gouvernement. [FROM.GetLeader] a été immédiatement comparé à Otto von Bismark après avoir réussi à égaler, voire à dépasser, les réalisations politiques du « chancelier de fer ».\n\nAlors que Berlin fait la fête, d'autres puissances peuvent craindre un retour des forces armées [FROM.GetAdjFP] sur la scène mondiale."
+ r56.news_event.39.a:0 "Nous ne serons plus jamais divisés !"
+ r56.news_event.39.b:0 "Les Allemands sont de retour, dites-vous ? Qu'est-ce qui pourrait aller mal ?"
+ r56.news_event.39.c:0 "Une évolution inquiétante."

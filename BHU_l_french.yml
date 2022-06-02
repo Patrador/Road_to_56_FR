@@ -7,11 +7,11 @@
 #Jigmi Y Thinley foreign relations
 
 #I will try Jstor to make it complete
-#In 1935, during His Majesty Jigme Wangchuck’s trip to India, it was believed that Sonam Tobgye began a “systematic review of  social  conditions,  administrative  practices  and judicial proceedings,”   which   brought   about   new   reform   in   the Kingdom  (Aris  1994:  135).  Taxes  were  paid  in  various  forms such  as  firewood,  hay,  rice,  and  woven  cloth,  depen
+#In 1935, during His Majesty Jigme Wangchuck's trip to India, it was believed that Sonam Tobgye began a "systematic review of  social  conditions,  administrative  practices  and judicial proceedings,"   which   brought   about   new   reform   in   the Kingdom  (Aris  1994:  135).  Taxes  were  paid  in  various  forms such  as  firewood,  hay,  rice,  and  woven  cloth,  depen
 #ding  on the  district  of  which  the  Bhutan  House  collected  for  the Second King of Bhutan. This form of taxation soon ceased.
 #So a guy named Sonam Tobgye.
 #maybe Rani Chuni Wangmo. (a woman)
-#Bhutan’s  foreign  minister  (1949) Jigmi  Y  Thinley
+#Bhutan's  foreign  minister  (1949) Jigmi  Y  Thinley
 #Jigme Palden Dorji late PM
 # Tslzogdu national assembly
 l_french:
@@ -31,7 +31,7 @@ l_french:
  BHU_rin_singh_dorji:0 "Rin Singh Dorji"
  
  BHU_no_army:0 "Pays sans défense"
- BHU_no_army_desc:0 "Depuis le Traité de Punakha de 1910, nous avons bénéficié des avantages d'une indépendance limitée sous le règne [ENG.GetAdjMS]. Notre dépendance à l'égard des spécialistes militaires [RAJ.GetAdjMP] et [ENG.GetAdjMP] nous permet de redistribuer le budget du pays à d'autres fins. Cependant, cela laisse notre pays complètement sans défense face à la menace qui pèse sur le monde."
+ BHU_no_army_desc:0 "Depuis le Traité de Punakha de 1910, nous avons bénéficié des avantages d'une indépendance limitée sous le règne britannique. Notre dépendance à l'égard des spécialistes militaires [RAJ.GetAdjMP] et [ENG.GetAdjMP] nous permet de redistribuer le budget du pays à d'autres fins. Cependant, cela laisse notre pays complètement sans défense face à la menace qui pèse sur le monde."
  BHU_fledgling_army:0 "Jeune armée"
  #spicyalfredo edit
  BHU_treaty_with_britain:0 "Traités avec la Grande-Bretagne"

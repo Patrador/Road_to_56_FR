@@ -281,10 +281,10 @@
  BUL_ff_bulgaria_ADJ:0 "bulgare"
 
  #BUR
- ENG_BRM_democratic:0 "Colonie de Birmanie"
- ENG_BRM_democratic_DEF:0 "la Colonie de Birmanie"
- ENG_BRM_neutrality:0 "Colonie de Birmanie"
- ENG_BRM_neutrality_DEF:0 "la Colonie de Birmanie"
+ ENG_BUR_democratic:0 "Colonie de Birmanie"
+ ENG_BUR_democratic_DEF:0 "la Colonie de Birmanie"
+ ENG_BUR_neutrality:0 "Colonie de Birmanie"
+ ENG_BUR_neutrality_DEF:0 "la Colonie de Birmanie"
 
  #BYZ
  BYZ_UNIFIED_neutrality:0 "Empire byzantin"
@@ -407,6 +407,101 @@
  CaharCouncilCtag_neutrality:0 "Comité politique mongol tchakhar"
  CaharCouncilCtag_neutrality_DEF:0 "le Comité politique mongol tchakhar"
  CaharCouncilCtag_neutrality_ADJ:0 "mongol tchakhar"
+ 
+ #DEN
+ NOR_REP_democratic:0 "République de Norvège"
+ NOR_REP_democratic_DEF:0 "la République de Norvège"
+
+ DEN_SWE_democratic:0 "Royaume du Danemark-Suède"
+ DEN_SWE_democratic_DEF:0 "le Royaume du Danemark-Suède"
+ DEN_SWE_neutrality:0 "Royaume du Danemark-Suède"
+ DEN_SWE_neutrality_DEF:0 "le Royaume du Danemark-Suède"
+ DEN_SWE_communism:0 "Union des communes dano-suédoises"
+ DEN_SWE_communism_DEF:0 "l'Union des communes dano-suédoises"
+ DEN_SWE_fascism:0 "Empire dano-suédois"
+ DEN_SWE_fascism_DEF:0 "l'Empire dano-suédois"
+
+ DEN_NOR_democratic:0 "Royaume du Danemark-Norvège"
+ DEN_NOR_democratic_DEF:0 "le Royaume du Danemark-Norvège"
+ DEN_NOR_neutrality:0 "Royaume du Danemark-Norvège"
+ DEN_NOR_neutrality_DEF:0 "le Royaume du Danemark-Norvège"
+ DEN_NOR_communism:0 "Union des communes dano-norvégiennes"
+ DEN_NOR_communism_DEF:0 "l'Union des communes dano-norvégiennes"
+ DEN_NOR_fascism:0 "Empire dano-norvégien"
+ DEN_NOR_fascism_DEF:0 "l'Empire dano-norvégien"
+
+ DEN_SCA_fascism:0 "Empire scandinave"
+ DEN_SCA_fascism_DEF:0 "l'Empire scandinave"
+ DEN_SCA_democratic:0 "Fédération scandinave"
+ DEN_SCA_democratic_DEF:0 "la Fédération scandinave"
+ DEN_SCA_neutrality:1 "Scandinavie"
+ DEN_SCA_neutrality_DEF:0 "les Royaumes unis du Danemark, de Norvège et de Suède"
+ DEN_SCA_communism:0 "Union des communes scandinaves"
+ DEN_SCA_communism_DEF:0 "l'Union des communes scandinaves"
+ DEN_SCA_fascism_ADJ:0 "scandinave"
+ DEN_SCA_democratic_ADJ:0 "scandinave"
+ DEN_SCA_neutrality_ADJ:0 "scandinave"
+ DEN_SCA_communism_ADJ:0 "scandinave"
+
+
+ DEN_KAL_democratic:0 "Conseil nordique"
+ DEN_KAL_democratic_DEF:0 "le Conseil nordique"
+ DEN_KAL_neutrality:0 "Union de Kalmar"
+ DEN_KAL_neutrality_DEF:0 "l'Union de Kalmar"
+ DEN_KAL_communism:0 "Union des communes nordiques"
+ DEN_KAL_communism_DEF:0 "l'Union des communes nordiques"
+ DEN_KAL_fascism:0 "Empire nordique"
+ DEN_KAL_fascism_DEF:0 "l'Empire nordique"
+
+ DEN_COM_communism:0 "Folkerådsrepublik danoise"
+ DEN_COM_communism_DEF:0 "la République populaire soviétique danoise"
+ DEN_COM_democratic:0 "Folkerådsrepublik danoise"
+ DEN_COM_democratic_DEF:0 "la République populaire soviétique danoise"
+
+ DEN_REP_democratic:0 "République du Danemark"
+ DEN_REP_democratic_DEF:0 "la République du Danemark"
+ DEN_REP_neutrality:0 "État unitaire du Danemark"
+ DEN_REP_neutrality_DEF:0 "l'État unitaire du Danemark"
+
+ DEN_DANELAW_fascism:1 "Confédération du Danelaw"
+ DEN_DANELAW_fascism_DEF:1 "la Confédération du Danelaw"
+ DEN_DANELAW_fascism_ADJ:1 "anglo-danois"
+ DEN_DANELAW_neutrality:1 "Confédération du Danelaw"
+ DEN_DANELAW_neutrality_DEF:1 "la Confédération de Leicester, York, Nottingham, Derby, Lincoln, Essex, Cambridge, Suffolk, Norfolk, Northampton, Huntingdon, Bedford, Hertford, Middlesex et Buckingham"
+ DEN_DANELAW_neutrality_ADJ:1 "anglo-danois"
+ DEN_DANELAW_democratic:1 "Fédération du Danelaw"
+ DEN_DANELAW_democratic_DEF:1 "la Fédération du Danelaw"
+ DEN_DANELAW_democratic_ADJ:1 "anglo-danois"
+ DEN_DANELAW_communism:1 "Union des communes du Danelaw"
+ DEN_DANELAW_communism_DEF:1 "les Communes danoises unies des Îles britanniques"
+ DEN_DANELAW_communism_ADJ:1 "anglo-danois"
+
+ DEN_NORTH_SEA_fascism:1 "Empire de la mer du Nord"
+ DEN_NORTH_SEA_fascism_DEF:0 "l'Empire de la mer du Nord"
+ DEN_NORTH_SEA_fascism_ADJ:0 "danois"
+ DEN_NORTH_SEA_neutrality:1 "Empire de la mer du Nord"
+ DEN_NORTH_SEA_neutrality_DEF:1 "l'Empire de la mer du Nord"
+ DEN_NORTH_SEA_neutrality_ADJ:0 "danois"
+ DEN_NORTH_SEA_democratic:1 "Fédération de la mer du Nord"
+ DEN_NORTH_SEA_democratic_DEF:1 "la Fédération de la mer du Nord"
+ DEN_NORTH_SEA_democratic_ADJ:1 "anglo-dano-norvégiennes"
+ DEN_NORTH_SEA_communism:1 "Union des communes anglo-dano-norvégiennes"
+ DEN_NORTH_SEA_communism_DEF:1 "l'Union des communes anglo-dano-norvégiennes"
+ DEN_NORTH_SEA_communism_ADJ:0 "anglo-dano-norvégiennes"
+
+ DEN_COLLAB_fascism:1 "Danemark"
+ DEN_COLLAB_fascism_DEF:1 "l'État du Danemark"
+ DEN_COLLAB_communism:1 "Danemark"
+ DEN_COLLAB_communism_DEF:1 "la République populaire de transition du Danemark"
+ DEN_COLLAB_neutrality:1 "Danemark"
+ DEN_COLLAB_neutrality_DEF:1 "l'État du Danemark"
+
+ DEN_RUS_fascism:0 "Empire danois"
+ DEN_RUS_fascism_DEF:0 "l'Empire céleste du Danemark"
+
+ DEN_RUS_neutrality:0 "Tsardom du Danemark"
+ DEN_RUS_neutrality_DEF:0 "le Tsardom du Danemark"
+
 
  #DOU
  DOU_CONDOMINIUM:0 "Condominium de Galicie-Volhynie orientale"
@@ -468,8 +563,8 @@
  ENG_imperialist_new_zealand_neutrality_ADJ:0 "néo-zélandais"
 
  #ECS
- ECSAR_fascism:0 "Région autonome spéciale de Chahaer"
- ECSAR_fascism_DEF:0 "la Région autonome spéciale de Chahaer"
+ ECSAR_fascism:0 "Région autonome spéciale de Chahar"
+ ECSAR_fascism_DEF:0 "la Région autonome spéciale de Chahar"
  ECSAR_fascism_DEF:0 "tchakhar oriental"
 
  #EUR
@@ -511,14 +606,14 @@
  FIJ_ENG_fascism_subject_ADJ:1 "fidjien"
  
  #FSM
- FSM_JAP_fascism:0 "Mandat des îles du Pacifique"
- FSM_JAP_fascism_DEF:0 "le Mandat des îles du Pacifique"
- FSM_JAP_fascism_ADJ:0 "micronésien" 
- FSM_JAP_neutrality:0 "Mandat des îles du Pacifique"
- FSM_JAP_neutrality_DEF:0 "le Mandat des îles du Pacifique"
- FSM_JAP_neutrality_ADJ:0 "micronésien" 
- FSM_JAP_fascism_autonomy_collaboration_government:0 "Mandat des îles du Pacifique"
- FSM_JAP_fascism_autonomy_collaboration_government_DEF:0 "le Mandat des îles du Pacifique" 
+ FSM_JAP_fascism:0 "Mandat des mers du Sud"
+ FSM_JAP_fascism_DEF:0 "le Mandat des mers du Sud"
+ FSM_JAP_fascism_ADJ:0 "micronésien"
+ FSM_JAP_neutrality:0 "Mandat des mers du Sud"
+ FSM_JAP_neutrality_DEF:0 "le Mandat des mers du Sud"
+ FSM_JAP_neutrality_ADJ:0 "micronésien"
+ FSM_JAP_fascism_autonomy_collaboration_government:0 "Mandat des mers du Sud"
+ FSM_JAP_fascism_autonomy_collaboration_government_DEF:0 "le Mandat des mers du Sud" 
  FSM_JAP_fascism_autonomy_collaboration_government_ADJ:0 "micronésien"
 
  #FRA
@@ -560,10 +655,72 @@
  #FengClique
  FengClique_fascism:0 "Nouvelle clique de Fengtian"
  FengClique_fascism_DEF:0 "la Nouvelle clique de Fengtian"
+ 
+ #INS_islamic
+ INS_islamic_neutrality:0 "République islamique d'Indonésie"
+ INS_islamic_neutrality_DEF:0 "la République islamique d'Indonésie"
+ INS_islamic_neutrality_ADJ:0 "indonésien"
+ INS_islamic_democratic:0 "République fédérale d'Indonésie"
+ INS_islamic_democratic_DEF:0 "la République fédérale d'Indonésie"
+ INS_islamic_democratic_ADJ:0 "indonésien"
+ INS_islamic_fascism:0 "République d'Indonésie"
+ INS_islamic_fascism_DEF:0 "la République d'Indonésie"
+ INS_islamic_fascism_ADJ:0 "indonésien"
+ INS_islamic_communism:0 "République populaire islamique d'Indonésie"
+ INS_islamic_communism_DEF:0 "la République populaire islamique d'Indonésie"
+ INS_islamic_communism_ADJ:0 "indonésien"
+
+ #INS_monarchy
+ INS_monarchy_neutrality:0 "Royaume de Nusantara"
+ INS_monarchy_neutrality_DEF:0 "le Royaume de Nusantara"
+ INS_monarchy_neutrality_ADJ:0 "nusantarien"
+ INS_monarchy_democratic:0 "Royaume de Nusantara"
+ INS_monarchy_democratic_DEF:0 "le Royaume de Nusantara"
+ INS_monarchy_democratic_ADJ:0 "nusantarien"
+ INS_monarchy_fascism:0 "Royaume de Nusantara"
+ INS_monarchy_fascism_DEF:0 "le Royaume de Nusantara"
+ INS_monarchy_fascism_ADJ:0 "nusantarien"
+ INS_monarchy_communism:0 "République populaire d'Indonésie"
+ INS_monarchy_communism_DEF:0 "la République populaire d'Indonésie"
+ INS_monarchy_communism_ADJ:0 "indonésien"
+ 
+ #INS_secular
+ INS_secular_neutrality:0 "République d'Indonésie"
+ INS_secular_neutrality_DEF:0 "la République d'Indonésie"
+ INS_secular_neutrality_ADJ:0 "indonésien"
+ INS_secular_democratic:0 "République islamique d'Indonésie"
+ INS_secular_democratic_DEF:0 "la République islamique d'Indonésie"
+ INS_secular_democratic_ADJ:0 "indonésien"
+ INS_secular_fascism:0 "État islamique d'Indonésie"
+ INS_secular_fascism_DEF:0 "l'État islamique d'Indonésie"
+ INS_secular_fascism_ADJ:0 "indonésien"
+ INS_secular_communism:0 "République populaire d'Indonésie"
+ INS_secular_communism_DEF:0 "la République populaire d'Indonésie"
+ INS_secular_communism_ADJ:0 "indonésien"
 
  #KEN
  KEN_ENG_autonomy_integrated_puppet:0 "Kenya $OVERLORDADJ$"
  KEN_ENG_autonomy_integrated_puppet_DEF:0 "le Kenya $OVERLORDADJ$"
+
+ #yes it's an easter egg, deal with it.
+ KOM_JAP_fascism:0 "Komi-san no Jōtai"
+ KOM_JAP_democratic:0 "Komi-san Kyōwakoku"
+ KOM_JAP_neutrality:0 "Komi-san no Jōtai"
+ KOM_JAP_communism:0 "Komi-san Yūjō Kyōwakoku"
+
+ #Korea unified
+ KOR_unified_neutrality:0 "Empire Joseon"
+ KOR_unified_neutrality_DEF:0 "l'Empire Joseon"
+ KOR_unified_neutrality_ADJ:0 "Joseon"
+ KOR_unified_democratic:0 "République Joseon"
+ KOR_unified_democratic_DEF:0 "la République Joseon"
+ KOR_unified_democratic_ADJ:0 "Joseon"
+ KOR_unified_fascism:0 "République Joseon"
+ KOR_unified_fascism_DEF:0 "la République Joseon"
+ KOR_unified_fascism_ADJ:0 "Joseon"
+ KOR_unified_communism:0 "République populaire démocratique Joseon"
+ KOR_unified_communism_DEF:0 "la République populaire démocratique Joseon"
+ KOR_unified_communism_ADJ:0 "Joseon"
 
  #KOV
  #German Puppet
@@ -599,14 +756,6 @@
  KUR_ENG_autonomy_puppet_DEF:0 "le Protectorat du Kurdistan"
  KUR_ENG_autonomy_integrated_puppet:0 "Kurdistan $OVERLORDADJ$"
  KUR_ENG_autonomy_integrated_puppet_DEF:0 "le Kurdistan $OVERLORDADJ$"
-
- MALI_UNITED:0 "Empire du Mâli"
- MALI_UNITED_DEF:0 "l'Empire du Mâli"
- MALI_UNITED_democratic:0 "République fédérale du Mâli"
- MALI_UNITED_democratic_DEF:0 "la République fédérale du Mâli" 
- MALI_UNITED_communism:0 "République populaire du Mâli"
- MALI_UNITED_communism_DEF:0 "la République populaire du Mâli"
- MALI_UNITED_ADJ:0 "mâlien"
 
  #HOL
  #Dietschland
@@ -791,6 +940,9 @@
  SOV2_neutrality:0 "République russe"
  SOV2_neutrality_DEF:0 "la République russe"
  SOV2_neutrality_ADJ:0 "russe"
+ SOV_FED_democratic:0 "Fédération de Russie"
+ SOV_FED_democratic_DEF:0 "la Fédération de Russie"
+ SOV_FED_democratic_ADJ:0 "russe"
 
  #SLV
  SLV_YUG_neutrality:0 "Banovine de la Drave"
@@ -798,7 +950,7 @@
  SLV_YUG_neutrality_ADJ:0 "drave"
 
  #SPR
- #Castille
+ #Castile
  SPR_castille_communism:0 "République populaire de Castille"
  SPR_castille_communism_DEF:0 "la République populaire de Castille"
  SPR_castille_communism_ADJ:0 "castillan"
@@ -814,8 +966,8 @@
  #Republican
  SPR_republican_spain_democratic:0 "République espagnole"
  SPR_republican_spain_democratic_def:0 "la République espagnole"
- SPR_republican_spain_cosmetic_democratic:0 "Spanish Republic"
- SPR_republican_spain_cosmetic_democratic_DEF:0 "the Spanish Republic"
+ SPR_republican_spain_cosmetic_democratic:0 "République espagnole"
+ SPR_republican_spain_cosmetic_democratic_DEF:0 "la République espagnole"
  #Carlist
  SPR_carlist_spain_neutrality:0 "Royaume carliste d'Espagne"
  SPR_carlist_spain_neutrality_def:0 "le Royaume carliste d'Espagne"
@@ -942,6 +1094,13 @@
  RUT2_SOV_communism_autonomy_puppet_DEF:1 "la République socialiste soviétique autonome d'Ukraine"
  RUT2_SOV_communism_autonomy_integrated_puppet_DEF:0 "l'Oblast autonome d'Ukraine"
 
+ RUT_WEST_UKRAINE:0 "République populaire d'Ukraine occidentale"
+ RUT_WEST_UKRAINE_DEF:0 "la République populaire d'Ukraine occidentale"
+ RUT_WEST_UKRAINE_communism:0 "République soviétique d'Ukraine occidentale"
+ RUT_WEST_UKRAINE_communism_DEF:0 "la République soviétique d'Ukraine occidentale"
+ RUT_WEST_UKRAINE_fascism:0 "État d'Ukraine occidentale"
+ RUT_WEST_UKRAINE_fascism_DEF:0 "l'État d'Ukraine occidentale"
+
  #Romanian Transylvania (Ardeal)
  TRA_ROM_communism_autonomy_puppet:0 "République socialiste autonome d'Ardeal"
  TRA_ROM_communism_autonomy_puppet_DEF:0 "la République socialiste autonome d'Ardeal"
@@ -1030,8 +1189,8 @@
  MAL_JAP_fascism:0 "Gouvernement malaisien réorganisé"
  MAL_JAP_fascism_DEF:0 "le Gouvernement malaisien réorganisé"
  MAL_JAP_fascism_ADJ:0 "malaisien"
- #MalPhiIndo
- MALPHIINDO:0 "MalPhiIndo"
+ #Maphilindo
+ MALPHIINDO:0 "Maphilindo"
 
  #MAC
  #Yugoslavian Puppet
@@ -1054,12 +1213,12 @@
  MAC_BUL_neutrality_autonomy_integrated_puppet_DEF:0 "la Principauté autonome de Macédoine"
 
  #MAJ
- MAJ_UNIFIED_communism:0 "Union communale de toute l'Indonésie"
- MAJ_UNIFIED_communism_DEF:0 "l'Union communale de toute l'Indonésie"
- MAJ_UNIFIED_communism_ADJ:0 "indonésien"
- MAJ_UNIFIED_democratic:0 "Grande République indonésienne"
- MAJ_UNIFIED_democratic_DEF:0 "la Grande République indonésienne"
- MAJ_UNIFIED_democratic_ADJ:0 "indonésien"
+ MAJ_UNIFIED_communism:0 "République populaire majapahit"
+ MAJ_UNIFIED_communism_DEF:0 "la République populaire majapahit"
+ MAJ_UNIFIED_communism_ADJ:0 "majapahit"
+ MAJ_UNIFIED_democratic:0 "République majapahit"
+ MAJ_UNIFIED_democratic_DEF:0 "la République majapahit"
+ MAJ_UNIFIED_democratic_ADJ:0 "majapahit"
  MAJ_UNIFIED_fascism:0 "Empire majapahit"
  MAJ_UNIFIED_fascism_DEF:0 "l'Empire majapahit"
  MAJ_UNIFIED_fascism_ADJ:0 "majapahit"
@@ -1069,28 +1228,28 @@
 
  #MAN
  #Qing
- MAN_qing_restored_fascism:0 "Empire du Grand Qing"
- MAN_qing_restored_fascism_DEF:0 "l'Empire du Grand Qing"
- MAN_qing_restored_fascism_ADJ:0 "Qing"
- MAN_qing_restored_neutrality:0 "Empire du Grand Qing"
- MAN_qing_restored_neutrality_DEF:0 "l'Empire du Grand Qing"
- MAN_qing_restored_neutrality_ADJ:0 "Qing"
+ MAN_qing_restored_fascism:0 "Empire chinois"
+ MAN_qing_restored_fascism_DEF:0 "l'Empire chinois"
+ MAN_qing_restored_fascism_ADJ:0 "chinois"
+ MAN_qing_restored_neutrality:0 "Empire chinois"
+ MAN_qing_restored_neutrality_DEF:0 "l'Empire chinois"
+ MAN_qing_restored_neutrality_ADJ:0 "chinois"
  MAN_restored_democratic:0 "Empire chinois"
  MAN_restored_democratic_DEF:0 "l'Empire chinois"
  MAN_restored_democratic_ADJ:0 "chinois"
  MAN_restored_communism:0 "Fédération populaire chinoise"
  MAN_restored_communism_DEF:0 "la Fédération populaire chinoise"
  MAN_restored_communism_ADJ:0 "chinois"
- MAN_restored_fascism:0 "Empire du Grand Qing"
- MAN_restored_neutrality:0 "Empire du Grand Qing"
+ MAN_restored_fascism:0 "Empire chinois"
+ MAN_restored_neutrality:0 "Empire chinois"
  MAN_restored_democratic:0 "Empire chinois"
  MAN_restored_communism:0 "Fédération populaire chinoise"
- MAN_restored_fascism_DEF:0 "l'Empire du Grand Qing"
- MAN_restored_neutrality_DEF:0 "l'Empire du Grand Qing"
+ MAN_restored_fascism_DEF:0 "l'Empire chinois"
+ MAN_restored_neutrality_DEF:0 "l'Empire chinois"
  MAN_restored_democratic_DEF:0 "l'Empire chinois"
  MAN_restored_communism_DEF:0 "la Fédération populaire chinoise"
- MAN_restored_fascism_ADJ:0 "Qing"
- MAN_restored_neutrality_ADJ:0 "Qing"
+ MAN_restored_fascism_ADJ:0 "chinois"
+ MAN_restored_neutrality_ADJ:0 "chinois"
  MAN_restored_democratic_ADJ:0 "chinois"
  MAN_restored_communism_ADJ:0 "chinois"
  qing_dynasty:0 "Empire du Grand Qing"
@@ -1200,18 +1359,18 @@
  NAP_FRA_neutrality_ADJ:0 "napolitain"
 
  #NOR
- NOR_KINGDOM_democratic:0 "Royaume de Norvège"
+ NOR_KINGDOM_democratic:0 "Haut-Royaume de Norvège"
  NOR_KINGDOM_democratic_ADJ:0 "norvégien"
- NOR_KINGDOM_democratic_DEF:0 "le Royaume de Norvège"
- NOR_KINGDOM_neutrality:0 "Haut-Royaume de Norvège"
+ NOR_KINGDOM_democratic_DEF:0 "le Haut-Royaume de Norvège"
+ NOR_KINGDOM_neutrality:0 "Royaume de Norvège"
  NOR_KINGDOM_neutrality_ADJ:0 "norvégien"
- NOR_KINGDOM_neutrality_DEF:0 "le Haut-Royaume de Norvège"
- NOR_KINGDOM_fascism:0 "Haut-Royaume de Norvège"
+ NOR_KINGDOM_neutrality_DEF:0 "le Royaume de Norvège"
+ NOR_KINGDOM_fascism:0 "Empire de Norvège"
  NOR_KINGDOM_fascism_ADJ:0 "norvégien"
- NOR_KINGDOM_fascism_DEF:0 "le Haut-Royaume de Norvège"
- NOR_KINGDOM_communism:0 "État soviétique de Norvège"
+ NOR_KINGDOM_fascism_DEF:0 "l'Empire de Norvège"
+ NOR_KINGDOM_communism:0 "Commune royale de Norvège"
  NOR_KINGDOM_communism_ADJ:0 "norvégien"
- NOR_KINGDOM_communism_DEF:0 "l'État soviétique de Norvège"
+ NOR_KINGDOM_communism_DEF:0 "la Commune royale de Norvège"
 
  #NDC
  NDC_UNIFIED_fascism:0 "Empire nordique"
@@ -1249,8 +1408,8 @@
  OTT_SULTANATE_fascism:0 "Sultanat ottoman"
  OTT_SULTANATE_democratic:0 "Fédération ottomane"
  OTT_SULTANATE_communism:0 "République socialiste du Proche-Orient"
- OTT_SULTANATE_neutrality_DEF:0 "the Sublime Ottoman State"
- OTT_SULTANATE_fascism_DEF:0 "the Sublime Ottoman State"
+ OTT_SULTANATE_neutrality_DEF:0 "le Sublime État ottoman"
+ OTT_SULTANATE_fascism_DEF:0 "le Sublime État ottoman"
  OTT_SULTANATE_democratic_DEF:0 "la Fédération ottomane"
  OTT_SULTANATE_communism_DEF:0 "la République socialiste du Proche-Orient"
  OTT_SULTANATE_neutrality_ADJ:0 "ottoman"
@@ -1313,8 +1472,8 @@
  HAN_WST_communism_ADJ:0 "westphalien"
 
  #HCPC
- HCPC_neutrality:0 "Conseil politique du Hebei-Chahaer"
- HCPC_neutrality_DEF:0 "le Conseil politique du Hebei-Chahaer"
+ HCPC_neutrality:0 "Conseil politique du Hebei-Chahar"
+ HCPC_neutrality_DEF:0 "le Conseil politique du Hebei-Chahar"
  HCPC_neutrality_ADJ:0 "tchakhar de l'Hebei"
 
  #GER
@@ -1389,11 +1548,11 @@
  GRE_stalinist_communism_ADJ:0 "hellénique"
  #Greater Greece
  GRE_GREATER_GREECE_neutrality:0 "Empire grec"
- GRE_GREATER_GREECE_fascism:0 "Ligue hellénistique"
+ GRE_GREATER_GREECE_fascism:0 "Ligue hellénique"
  GRE_GREATER_GREECE_democratic:0 "République hellénique"
  GRE_GREATER_GREECE_communism:0 "Commune égéenne"
  GRE_GREATER_GREECE_neutrality_DEF:0 "l'Empire grec"
- GRE_GREATER_GREECE_fascism_DEF:0 "la Ligue hellénistique"
+ GRE_GREATER_GREECE_fascism_DEF:0 "la Ligue hellénique"
  GRE_GREATER_GREECE_democratic_DEF:0 "la République hellénique"
  GRE_GREATER_GREECE_communism_DEF:0 "la Commune égéenne"
  GRE_GREATER_GREECE_fascism_ADJ:0 "hellénique"
@@ -1407,16 +1566,18 @@
 
  #GRL
  #Danish Puppet
- GRL_DEN_autonomy_integrated_puppet:0 "Inspection du Sud du Groenland"
- GRL_DEN_autonomy_integrated_puppet_DEF:0 "l'Inspection du Sud du Groenland"
+ GRL_DEN_autonomy_integrated_puppet:0 "Inspection du Groenland"
+ GRL_DEN_autonomy_integrated_puppet_DEF:0 "l'Inspection du Groenland"
+ GRL_DEN_autonomy_integrated_puppet_communism:0 "Union des communes ouvrières groenlandaises"
+ GRL_DEN_autonomy_integrated_puppet_communism_DEF:0 "l'Union des communes ouvrières groenlandaises"
  GRL_DEN_autonomy_puppet:0 "Colonie du Groenland"
  GRL_DEN_autonomy_puppet_DEF:0 "la Colonie du Groenland"
  GRL_DEN_autonomy_colony:0 "Comté du Groenland"
  GRL_DEN_autonomy_colony_DEF:0 "le Comté du Groenland"
  GRL_DEN_autonomy_dominion:0 "Groenland"
  GRL_DEN_autonomy_dominion_DEF:0 "le Groenland"
- GRL_DEN_autonomy_reichskommissariat:0 "Inspection du Sud du Groenland"
- GRL_DEN_autonomy_reichskommissariat_DEF:0 "l'Inspection du Sud du Groenland"
+ GRL_DEN_autonomy_reichskommissariat:0 "Inspection du Groenland"
+ GRL_DEN_autonomy_reichskommissariat_DEF:0 "l'Inspection du Groenland"
  GRL_DEN_autonomy_reichsprotectorate:0 "Colonie du Groenland"
  GRL_DEN_autonomy_reichsprotectorate_DEF:0 "la Colonie du Groenland"
  GRL_DEN_autonomy_satellite:0 "Groenland"
@@ -1621,13 +1782,13 @@
  #PER
  PER_UNIFIED_neutrality:0 "Empire perse"
  PER_UNIFIED_fascism:0 "Empire perse"
- PER_UNIFIED_democratic:0 "République perse"
- PER_UNIFIED_communism:0 "Grande république socialiste iranienne"
+ PER_UNIFIED_democratic:0 "République islamique de Perse"
+ PER_UNIFIED_communism:0 "République socialiste de Perse"
  PER_UNIFIED_neutrality_DEF:0 "l'Empire perse"
  PER_UNIFIED_fascism_DEF:0 "l'Empire perse"
- PER_UNIFIED_democratic_DEF:0 "la République perse"
- PER_UNIFIED_communism_DEF:0 "la Grande république socialiste iranienne"
- PER_UNIFIED_communism_ADJ:0 "iranien"
+ PER_UNIFIED_democratic_DEF:0 "la République islamique de Perse"
+ PER_UNIFIED_communism_DEF:0 "la République socialiste de Perse"
+ PER_UNIFIED_communism_ADJ:0 "perse"
  PER_UNIFIED_democratic_ADJ:0 "perse"
  PER_UNIFIED_neutrality_ADJ:0 "perse"
  PER_UNIFIED_fascism_ADJ:0 "perse"
@@ -1689,6 +1850,19 @@
  SAD_PIEDMONT_neutrality:0 "Royaume de Piémont-Sardaigne"
  SAD_PIEDMONT_neutrality_DEF:0 "le Royaume de Piémont-Sardaigne"
  SAD_PIEDMONT_ADJ:0 "sarde"
+ 
+ #SAF_ENG
+ SAF_ENG_neutrality:0 "Union d'Afrique du Sud"
+ SAF_ENG_neutrality_DEF:0 "l'Union d'Afrique du Sud"
+ SAF_ENG_fascism:0 "République d'Afrique du Sud"
+ SAF_ENG_fascism_DEF:0 "la République d'Afrique du Sud"
+ SAF_ENG_democratic:0 "Union d'Afrique du Sud"
+ SAF_ENG_democratic_DEF:0 "l'Union d'Afrique du Sud"
+ SAF_ENG_communism_ADJ:0 "captonien"
+
+ SCO_MONARCHIST_neutrality:0 "Royaume d'Écosse"
+ SCO_MONARCHIST_neutrality_DEF:0 "le Royaume d'Écosse"
+ SCO_MONARCHIST_neutrality_ADJ:0 "écossais"
 
  #TRN
  TRN_neutrality:0 "Fédération tourane"
@@ -1796,12 +1970,12 @@
  #VIN
  VIN_FRA_neutrality:0 "Protectorat d'Annam-Tonkin"
  VIN_FRA_neutrality_DEF:0 "le Protectorat d'Annam-Tonkin"
- VIN_FRA_neutrality_ADJ:0 "Annam-Tonkin"
+ VIN_FRA_neutrality_ADJ:0 "annam-tonkinois"
  VIN_FRA_democratic:0 "Protectorat d'Annam-Tonkin"
  VIN_FRA_democratic_DEF:0 "le Protectorat d'Annam-Tonkin"
  VIN_FRA_fascism:0 "Protectorat d'Annam-Tonkin"
  VIN_FRA_fascism_DEF:0 "le Protectorat d'Annam-Tonkin"
- VIN_FRA_fascism_ADJ:0 "Annam-Tonkin"
+ VIN_FRA_fascism_ADJ:0 "annam-tonkinois"
 
  #URG
  URG_BRA_autonomy_integrated_puppet:0 "Estado da Cisplatina"
@@ -1836,8 +2010,8 @@
  USA_REBEL_democratic_DEF:0 "les Constitutionnalistes"
  USA_REBEL_communism:0 "Rebelles"
  USA_REBEL_communism_DEF:0 "les Rebelles"
- USA_REBEL_neutrality:0 "Rebelles"
- USA_REBEL_neutrality_DEF:0 "les Rebelles"
+ USA_REBEL_neutrality:0 "Confédération anti-gauche"
+ USA_REBEL_neutrality_DEF:0 "la Confédération anti-gauche"
  USA_REBEL_fascism_ADJ:0 "rebelle"
  USA_REBEL_communism_ADJ:0 "rebelle"
  USA_REBEL_democratic_ADJ:0 "constitutionnaliste"

@@ -1,16 +1,25 @@
 ﻿l_french:
 
+MONGOL_UNIFIED_claim_greater_mongolia:0 "Revendiquer la Grande Mongolie"
+MONGOL_UNIFIED_claim_greater_mongolia_desc:0 "Nous devons essayer de réunir les terres mongoles sous une seule bannière !"
+MONGOL_UNIFIED_stimulate_mongol_traditions:0 "Stimuler les traditions mongoles"
+MONGOL_UNIFIED_stimulate_mongol_traditions_desc:0 "Nous sommes tous des Mongols !"
+
 integration_mongolian_lands_category:0 "Intégration des territoires mongols"
-integration_mongolian_lands_category_desc:0 "Le contrôle des terres habitées par la population mongole nous offre l'opportunité d'étendre notre administration à ces régions et de les intégrer à notre État."
-MON_decision_integrate_tuva:0 "Intégrer le Tannou-Touva"
-MON_decision_integrate_mongolia:0 "Intégrer la Mongolie"
-MON_decision_integrate_south_chahar:0 "Intégrer le Sud du Chahaer"
-MON_decision_integrate_north_chahar:0 "Intégrer le Nord du Chahaer"
-MON_decision_integrate_suiyuan:0 "Intégrer le Suiyuan"
-MON_decision_integrate_ordos:0 "Intégrer l'Ordos"
-MON_decision_integrate_jiuquan:0 "Intégrer le Jiuquan"
-MON_decision_integrate_buryatia:0 "Intégrer la Bouriatie"
-MON_decision_integrate_irkutsk:0 "Intégrer Irkoutsk"
+integration_mongolian_lands_category_desc:0 "Le contrôle des terres habitées par les population mongoles nous offre l'opportunité d'étendre notre administration à ces régions et de les intégrer à notre État."
+#MON_decision_integrate_tuva:0 "Intégrer le Tannou-Touva"
+#MON_decision_integrate_mongolia:0 "Intégrer la Mongolie"
+#MON_decision_integrate_south_chahar:0 "Intégrer le Sud du Chahaer"
+#MON_decision_integrate_north_chahar:0 "Intégrer le Nord du Chahaer"
+#MON_decision_integrate_suiyuan:0 "Intégrer le Suiyuan"
+#MON_decision_integrate_ordos:0 "Intégrer l'Ordos"
+#MON_decision_integrate_jiuquan:0 "Intégrer le Jiuquan"
+#MON_decision_integrate_buryatia:0 "Intégrer la Bouriatie"
+#MON_decision_integrate_irkutsk:0 "Intégrer Irkoutsk"
+
+MON_decision_integrate_mongol_state:0 "Intégrer [FROM.GetNameDef]"
+
+MON_reform_the_cavalry:0 "Réforme de la cavalerie"
 
 MON_go_on_pilgrimage_to_the_burkhan_khaldun:0 "Pèlerinage au Burkhan Khaldoun"
 MON_go_on_pilgrimage_to_the_burkhan_khaldun_desc:0 "Montagne la plus sainte de Mongolie, le Burkhan Khaldoun pourrait également être le lieu de repos de Gengis Khan et de ses successeurs. Un lieu d'une grande importance pour tout Mongol désireux de dominer tout ce qui se trouve sous le ciel."
@@ -19,3 +28,9 @@ mongol.7.t:0 "Les ombres dansantes"
 mongol.7.d:0 "Depuis les remaniements politiques massifs qui ont eu lieu [SOV.GetAuEnANP] [SOV.GetName], de nombreux fonctionnaires au sein [SOV.GetDuDelaDelNP] [SOV.GetName] craignent que [ROOT.GetLeLaLNP] [Root.GetName] puisse protéger les ennemis du régime de [SOV.GetLeader]. Ils demandent que les éventuels ennemis [SOV.GetDuDelaDelNP] [SOV.GetName] soient extradés. Par ailleurs, [SOV.GetLeader] a ciblé [Root.GetLeader] comme quelqu'un qui a protégé les ennemis [SOV.GetDuDelaDelNP] [SOV.GetName] et veut qu'il soit jugé et exécuté rapidement."
 mongol.7.a:0 "Il n'y a pas de cinquième colonne ici. [Root.GetLeader] est un patriote et un communiste loyal."
 mongol.7.b:0 "[SOV.GetLeLaLNPCap] [SOV.GetName] a raison, les ombres anti-communistes sont partout."
+
+
+staunch_atheist:0 "Athée convaincu"
+chairwoman:0 "Présidente"
+out_of_office_trait:0 "Hors mandat"
+stalin_of_mongolia:0 "Staline de Mongolie"

@@ -15,6 +15,11 @@
  sons_of_liberty_desc:0 "Nous avons combattu la tyrannie une fois, nous la combattrons à nouveau."
  deo_vindice:0 "Deo vidice"
  deo_vindice_desc:0 "« Sous Dieu, notre vengeur »"
+ r56_USA_world_loco_motive_works:0 "Worlds Locomotive Works"
+ r56_USA_world_loco_motive_works_desc:0 "Pendant que le reste du monde s'inquiète de produire des biens de guerre, nous avons la puissance industrielle et l'expertise pour prendre le relais dans la production mondiale de locomotives."
+
+ general_motor_electrco_motive_loco_works:0 "General Motor Electro Motive Diesel"
+ USA_the_worlds_loco_works_effect_tt:0 "§WPermet la production de§! §YUSATC S100§!"
 
  rt56_arnold_unlock_tt:0 "L'armée de l'air s'est vue accorder l'autonomie par l'institution de la §YDivision des plans de guerre aérienne§!."
 
@@ -28,7 +33,7 @@
  USA_standard_oil_new_jersey:0 "Standard Oil of New Jersey"
  USA_lima_locomotive_works:0 "Lima Locomotive Works"
  
- r56_USA_decision_the_jumping_general:0 "Le général sautant"
+ r56_USA_decision_the_jumping_general:0 "Promouvoir le Jumping General"
  r56_USA_decision_join_us_research_collaboration_program:0 "Rejoindre le programme [USA.GetAdjMS] de coopération sur la recherche"
  r56_USA_decision_initiate_us_research_collaboration_program:0 "Faire pression pour une coopération accrue dans la recherche avec [USA.GetNameDef]"
  
@@ -48,6 +53,14 @@
  USA_double_victory_desc:0 "Il est important d'obtenir le soutien de la communauté afro-américaine lorsque nous sommes en guerre. Le recours à des campagnes de propagande ciblées permettra d'y parvenir. Elles peuvent être trompeuses, mais nous ne pouvons pas laisser le pays être divisé à nos moments les plus critiques."
  USA_three_dimensional_assault_force:0 "Force d'assaut tridimensionnelle"
  USA_three_dimensional_assault_force_desc:0 "En développant une doctrine d'assaut amphibie qui intègre non seulement un débarquement bien équipé mais aussi une attaque aérienne et un bombardement naval, nous pouvons nous assurer que nos débarquements ont plus de chances de réussir et de gagner une tête de pont."
+ USA_continue_dieselisation:0 "Continuer la diésélisation"
+ USA_continue_dieselisation_desc:0 "Les événements ont fait obstacle à la modernisation du matériel roulant de nos chemins de fer nationaux. Il est grand temps de revoir les efforts de diésélisation."
+ USA_mobilize_the_railways:0 "Mobiliser les chemins de fer"
+ USA_mobilize_the_railways_desc:0 "Nous devons avoir nos chemins de fer mobilisés et prêts pour la guerre !"
+ r56_USA_mobilize_the_railways_idea:0 "Mobilisation des chemins de fer"
+ r56_USA_mobilize_the_railways_idea_desc:0 "Nous devons avoir nos chemins de fer mobilisés et prêts pour la guerre !"
+ USA_the_worlds_loco_works:0 "L'usine mondiale de locomotives"
+ USA_the_worlds_loco_works_desc:0 "Alors que le reste du monde s'inquiète de produire des biens de guerre, nous devons tirer parti de nos nombreuses usines de locomotives nationales pour aider à approvisionner le monde en locomotives."
 
  USA_heirs_of_lafayette:0 "Les héritiers de Lafayette"
  USA_heirs_of_lafayette_desc:0 "Washington et Lafayette ont combattu côte à côte pour nous libérer des Anglais. En ces temps troublés, une nouvelle alliance plus forte pourrait nous lier à Paris."
@@ -90,6 +103,11 @@
  r56_usa.9.desc:0 "Après des années de travail inlassable pour le bonheur du peuple [USA.GetAdjMS], le Premier secrétaire du [USA.GetCommunistParty] a décidé de se retirer de la plupart de ses responsabilités. À la place, le congrès du parti a été invité à choisir entre James W. Ford, le vice-président de Browder et Francis X. Waldron, un chef de faction influent au sein du parti."
  r56_usa.9.a:0 "Ford sera à la tête du prolétariat [USA.GetAdjMS]"
  r56_usa.9.b:0 "Le Premier secrétaire Waldron guidera la révolution"
+
+ r56_usa.13.t:0 "Hermann Göring offre ses services"
+ r56_usa.13.desc:0 "Ayant échappé à l'effondrement du régime national-socialiste d'Adolf Hitler en Allemagne, l'ancien as de la Grande Guerre et plus récemment commandant en chef de la Luftwaffe allemande est arrivé au Texas et est prêt à contribuer à nos objectifs politiques. Il est probable qu'il souhaite conserver son rang et ses honneurs et qu'il reviendra peut-être un jour à la tête d'une Allemagne autosuffisante restaurée."
+ r56_usa.13.a:0 "Nous avons toujours besoin de talents plus fiables sur le plan idéologique."
+ r56_usa.13.b:0 "Refuser et régler l'affaire discrètement."
 
  r56_USA_the_alaskan_trap:0 "Le piège de l'Alaska"
  r56_USA_the_alaskan_trap_desc:0 "En faisant passer l'Alaska pour un point d'invasion attrayant pour nos ennemis de l'Est et avec quelques travaux mineurs de l'USACE, nous pouvons transformer l'Alaska en un piège mortel pour une force d'invasion."
@@ -174,7 +192,8 @@
 
  #tooltip
  r56_USA_Korea_controls_peninsula:0 "§Y[KOR.GetNameDefCap]§! contrôle tous les États de la péninsule coréenne."
-
+ r56_USA_legislation_drafted_days_tt:0 "Les jours actuels sont : [?USA_new_legislation_drafed_flag:days|Y0]"
+ USA_new_legislation_drafed_flag:0 "La dernière loi gouvernementale a été rédigée"
 
  #focuses#
  r56_USA_foundation_of_NATO:0 "Fondation de l'OTAN"

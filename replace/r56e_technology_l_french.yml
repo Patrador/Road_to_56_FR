@@ -1,4 +1,4 @@
-﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
+﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre et al
 
 #--> All the new techs
 
@@ -26,9 +26,14 @@ l_french:
   aluminium_tech:0 "Technologies de production d'aluminium"
   r56_special_forces_training_tech:0 "Formation des forces spéciales"
   cat_scout_plane:0 "Modèles d'avions de reconnaissance"
+  cat_scout_plane_research:0 "Technologies d'avions de reconnaissance" 
   armor_variant_tech:0 "Variantes de blindage"
   camo_tech:0 "Technologies de camouflage d'infanterie"
   transport_plane_tech:0 "Avions de transport"
+  transport_plane_tech_research:0 "Technologies d'avions de transport"
+  para_tech_research:0 "Technologies de parachutage"
+  r56_special_forces_training_tech:0 "Technologies d'entraînement des forces spéciales"
+  r56_special_forces_training_tech_research:0 "Technologies d'entraînement des forces spéciales" 
   standard_artillery_tech:0 "Technologies d'artillerie de ligne"
   anti_air_tech:0 "Technologies d'artillerie anti-aérienne" 
   amphibious_armor_tech:0 "Technologies de blindés amphibies"
@@ -50,7 +55,7 @@ l_french:
 
 ###------> Artillery   <><> <><> <><> <><> <><>
  artillery_a:0 "Amélioration de l'artillerie avancée II"
- artillery_a_desc:0 "Le premier coup est pour le Diable, le second pour Dieu, et seulement le troisième est pour le Roi."
+ artillery_a_desc:0 "Le premier coup est pour le Diable, le second pour Dieu, et le troisième est pour le Roi."
 # artillery_b:0 "Amélioration de l'artillerie avancée III"
 # artillery_b_desc:0 "N'oubliez pas vos chiens de guerre, vos gros canons, qui sont les arguments les plus respectés de ceux qui détiennent le pouvoir."
  artillery_c:0 "Amélioration de l'artillerie semi-moderne I"
@@ -63,18 +68,18 @@ l_french:
  rocket_artillery_a:0 "Amélioration de l'artillerie de roquettes avancée"
  rocket_artillery_a_desc:0 "L'une des choses que nous pouvons dire avec confiance, c'est que nous aurons des matériaux beaucoup plus légers et beaucoup plus résistants, ce qui réduira le coût des roquettes."
  rocket_artillery_b:0 "Amélioration de l'artillerie de roquettes avancée II"
- rocket_artillery_b_desc:0 "Les roquettes... peuvent être construites si puissantes qu'elles pourraient être capables de lancer un homme. Alors, essayez de ne pas finir sur la lune, d'accord ?"
+ rocket_artillery_b_desc:0 "Les fusées peuvent être construites si puissantes qu'elles pourraient lancer un homme. Alors essayez de ne pas finir sur la lune, d'accord ?"
 # rocket_artillery_c:0 "X"
 # rocket_artillery_c_desc:0 "X"
  rocket_artillery_d:0 "Amélioration de l'artillerie de roquettes semi-moderne"
  rocket_artillery_d_desc:0 "Des roquettes avec une vitesse et une force de lancement accrues."
  rocket_artillery_e:0 "Amélioration de l'artillerie de roquettes semi-moderne II"
- rocket_artillery_e_desc:0 "Le châssis a été affiné, ce qui permet d'accroître son efficacité et sa fiabilité."
+ rocket_artillery_e_desc:0 "Le châssis a été affiné, ce qui accroît son efficacité et sa fiabilité."
 #-<><><>
  antiair_a:0 "Amélioration de l'anti-aérien avancé"
  antiair_a_desc:0 "Pourquoi l'armée a-t-elle besoin de nouvelles armes coûteuses ? Les pilotes sur lesquels nous avons tiré au fil des ans ont-ils commencé à se plaindre ?"
  antiair_b:0 "Amélioration de l'anti-aérien avancé II"
- antiair_b_desc:0 "À ma gauche, les tirs de l'artillerie d'infanterie explosaient, à ma droite, on entendait les coups de canon sporadiques qui tonnaient du front, et au-dessus du ciel, le ciel était clair et le soleil brillant."
+ antiair_b_desc:0 "À ma gauche, les tirs de l'artillerie d'infanterie explosaient. À ma droite, on entendait les coups de canon sporadiques qui tonnaient du front, et au-dessus, le ciel était clair et le soleil brillant."
 # antiair_c:0 "X"
 # antiair_c_desc:0 "X"
  antiair_d:0 "Amélioration de l'anti-aérien semi-moderne"
@@ -104,11 +109,11 @@ l_french:
  infantry_at_c_desc:0 "Visez bien, n'osez pas respirer le feu - et courez comme l'enfer."
 #-<><><>
  advanced_infantry_weapons_a:0 "Équipement d'infanterie avancé"
- advanced_infantry_weapons_a_desc:0 "Les armes, Dieu merci, les armes...."
+ advanced_infantry_weapons_a_desc:0 "Les armes, Dieu merci, les armes..."
  advanced_infantry_weapons_c:0 "Équipement d'infanterie semi-moderne"
- advanced_infantry_weapons_c_desc:0 "Les armes, Dieu merci, les armes...."
+ advanced_infantry_weapons_c_desc:0 "Les armes, Dieu merci, les armes..."
  advanced_infantry_weapons_d:0 "Équipement d'infanterie moderne"
- advanced_infantry_weapons_d_desc:0 "Les armes, Dieu merci, les armes...."
+ advanced_infantry_weapons_d_desc:0 "Les armes, Dieu merci, les armes..."
 #-<><><>
  paratroopers_a:0 "Parachutistes IV"
  paratroopers_a_desc:0 "Ce qui monte doit redescendre."
@@ -286,53 +291,53 @@ l_french:
 
 ###------> Support  <><> <><> <><> <><> <><>
  tech_engineers_a:0 "Cie du génie V"
- tech_engineers_a_desc:0 "Les ingénieurs de combat de l'avenir veilleront à ce que nos troupes, où qu'elles soient attaquées, soient préparées."
+ tech_engineers_a_desc:0 "La formation spécialisée et la standardisation des équipements amélioreront considérablement les capacités de construction des ingénieurs de combat, leur permettant de construire des fortifications dans les environnements les plus difficiles."
  tech_engineers_b:0 "Cie du génie VI"
- tech_engineers_b_desc:0 "Les ingénieurs de combat de l'avenir veilleront à ce que nos troupes, où qu'elles soient attaquées, soient préparées."
+ tech_engineers_b_desc:0 "Avec le développement des avions à réaction et de la technologie infrarouge, les ingénieurs seront formés aux techniques de camouflage avancées."
  tech_engineers_c:0 "Cie du génie VII"
  tech_engineers_c_desc:0 "Les ingénieurs de combat de l'avenir veilleront à ce que nos troupes, où qu'elles soient attaquées, soient préparées."
 #-<><><>
  tech_recon_a:0 "Cie de reconnaissance V"
  tech_recon_a_desc:0 "Des opérations de reconnaissance en profondeur, mêlant espionnage et entraînement des commandos, faciliteront notre tactique et nos choix et nous permettront d'adapter rapidement nos décisions."
  tech_recon_b:0 "Cie de reconnaissance VI"
- tech_recon_b_desc:0 "Des opérations de reconnaissance en profondeur, mêlant espionnage et entraînement des commandos, faciliteront notre tactique et nos choix et nous permettront d'adapter rapidement nos décisions."
+ tech_recon_b_desc:0 "La construction de caches de ravitaillement camouflées derrière les lignes ennemies peut donner plus de temps aux troupes de reconnaissance pour recueillir des renseignements et permettre aux nouvelles équipes de reconnaissance de poursuivre les opérations de reconnaissance en profondeur en cours."
  tech_recon_c:0 "Cie de reconnaissance VIII"
- tech_recon_c_desc:0 "Des opérations de reconnaissance en profondeur, mêlant espionnage et entraînement des commandos, faciliteront notre tactique et nos choix et nous permettront d'adapter rapidement nos décisions."
+ tech_recon_c_desc:0 "En fournissant des équipements infrarouges à nos équipes de reconnaissance et en les formant à l'identification des signatures thermiques, nous pouvons améliorer la précision des renseignements recueillis sur l'ennemi, ce qui nous permet de préparer de meilleures contre-mesures pour tout ce à quoi nos troupes peuvent être confrontées."
 #-<><><>
  tech_military_police_a:0 "Police militaire V"
  tech_military_police_a_desc:0 "Le maintien de l'ordre en toute sécurité dans les territoires occupés consiste autant à rétablir la normalité qu'à éliminer impitoyablement l'opposition. Notre police militaire doit veiller à ce que ce processus commence tôt, afin d'assurer la sécurité des soldats et des civils."
  tech_military_police_b:0 "Police militaire VI"
- tech_military_police_b_desc:0 "Le maintien de l'ordre en toute sécurité dans les territoires occupés consiste autant à rétablir la normalité qu'à éliminer impitoyablement l'opposition. Notre police militaire doit veiller à ce que ce processus commence tôt, afin d'assurer la sécurité des soldats et des civils."
+ tech_military_police_b_desc:0 "Il y a des moments où il ne suffit pas d'attendre les problèmes. En coordonnant nos espions, nous pouvons au contraire permettre plusieurs soulèvements contrôlés où et quand nous le voulons et les utiliser pour se débarrasser des pires fauteurs de troubles."
  tech_military_police_c:0 "Police militaire VII"
- tech_military_police_c_desc:0 "Le maintien de l'ordre en toute sécurité dans les territoires occupés consiste autant à rétablir la normalité qu'à éliminer impitoyablement l'opposition. Notre police militaire doit veiller à ce que ce processus commence tôt, afin d'assurer la sécurité des soldats et des civils."
+ tech_military_police_c_desc:0 "Dans le cas d'occupations de longue durée, notre police militaire devrait être soutenue par divers personnels, tels que des interprètes, des sociologues et des anthropologues. Un peu de compréhension peut être très utile."
 #-<><><>
  tech_maintenance_company_a:0 "Cie de maintenance V"
- tech_maintenance_company_a_desc:0 "L'expérience acquise lors de la conception de la redondance active pendant la Grande Guerre peut être renouvelée pour travailler avec des équipements plus modernes afin de faciliter l'entretien."
+ tech_maintenance_company_a_desc:0 "Nous pouvons renouveler les expériences conçues pour une redondance active pendant la Grande Guerre afin de travailler avec des équipements plus modernes pour faciliter la maintenance."
  tech_maintenance_company_b:0 "Cie de maintenance VI"
- tech_maintenance_company_b_desc:0 "L'expérience acquise lors de la conception de la redondance active pendant la Grande Guerre peut être renouvelée pour travailler avec des équipements plus modernes afin de faciliter l'entretien."
+ tech_maintenance_company_b_desc:0 "En accompagnant certains véhicules d'un petit manuel de terrain, nous pouvons permettre aux soldats ordinaires de participer à l'entretien essentiel de leurs véhicules, ce qui permet de rationaliser les entreprises de maintenance pour qu'elles puissent travailler sur des questions plus spécifiques."
  tech_maintenance_company_c:0 "Cie de maintenance VII"
- tech_maintenance_company_c_desc:0 "L'expérience acquise lors de la conception de la redondance active pendant la Grande Guerre peut être renouvelée pour travailler avec des équipements plus modernes afin de faciliter l'entretien."
+ tech_maintenance_company_c_desc:0 "La séparation des systèmes critiques de nos équipements peut réduire notre dépendance à l'égard de la redondance active et permettre à nos équipements de fonctionner de manière limitée lorsqu'ils sont gravement endommagés."
 #-<><><>
  tech_field_hospital_a:0 "Hôpital de campagne V"
- tech_field_hospital_a_desc:0 "Bien que de nombreuses améliorations aient été apportées dans le domaine de la médecine de terrain, de nombreuses avancées sont improvisées et il nous manque une doctrine établie. Avec plus d'expérience, nous pouvons expliquer plus clairement le rôle de ces unités et rendre permanentes les innovations améliorées."
+ tech_field_hospital_a_desc:0 "Avec l'aide de nos compagnies de génie, des hôpitaux de campagne plus solides et facilement défendables peuvent être construits, assurant la sécurité des soldats à l'intérieur pendant leur convalescence."
  tech_field_hospital_b:0 "Hôpital de campagne VI"
- tech_field_hospital_b_desc:0 "Bien que de nombreuses améliorations aient été apportées dans le domaine de la médecine de terrain, de nombreuses avancées sont improvisées et il nous manque une doctrine établie. Avec plus d'expérience, nous pouvons expliquer plus clairement le rôle de ces unités et rendre permanentes les innovations améliorées."
+ tech_field_hospital_b_desc:0 "Grâce à une avancée dans le domaine de l'aviation, l'hélicoptère, nous pouvons transporter plus rapidement des médecins de terrain pour trier les soldats blessés. Le temps supplémentaire gagné sera crucial pour leur survie."
  tech_field_hospital_c:0 "Hôpital de campagne VII"
  tech_field_hospital_c_desc:0 "Bien que de nombreuses améliorations aient été apportées dans le domaine de la médecine de terrain, de nombreuses avancées sont improvisées et il nous manque une doctrine établie. Avec plus d'expérience, nous pouvons expliquer plus clairement le rôle de ces unités et rendre permanentes les innovations améliorées."
 #-<><><>
  tech_logistics_company_a:0 "Logistique V"
- tech_logistics_company_a_desc:0 "L'élaboration de classifications normalisées pour les fournitures réduira la confusion et rendra la planification plus efficace."
+ tech_logistics_company_a_desc:0 "L'ajout de codes de couleur aux différentes catégories d'équipement est un moyen simple mais efficace de rationaliser le soutien logistique."
  tech_logistics_company_b:0 "Logistique VI"
  tech_logistics_company_b_desc:0 "L'élaboration de classifications normalisées pour les fournitures réduira la confusion et rendra la planification plus efficace."
  tech_logistics_company_c:0 "Logistique VII"
- tech_logistics_company_c_desc:0 "L'élaboration de classifications normalisées pour les fournitures réduira la confusion et rendra la planification plus efficace."
+ tech_logistics_company_c_desc:0 "Une classification plus poussée des catégories d'équipements en de nombreuses sous-catégories améliorera considérablement l'organisation des équipements."
 #-<><><>
  tech_signal_company_a:0 "Cie de transmission V"
  tech_signal_company_a_desc:0 "Parmi nos spécialistes de la signalisation, il y a des gens qui ont une connaissance de première main inégalée de l'utilisation sur le terrain de cet équipement. En les impliquant dans la recherche de nouvelles technologies de communication, nous pouvons faire appel à leur expertise."
  tech_signal_company_b:0 "Cie de transmission VI"
- tech_signal_company_b_desc:0 "Parmi nos spécialistes de la signalisation, il y a des gens qui ont une connaissance de première main inégalée de l'utilisation sur le terrain de cet équipement. En les impliquant dans la recherche de nouvelles technologies de communication, nous pouvons faire appel à leur expertise."
+ tech_signal_company_b_desc:0 "Grâce aux progrès de la technologie, les radios peuvent être utilisées sur des distances beaucoup plus grandes, ce qui permet une communication simplifiée entre toutes les sections de l'armée."
  tech_signal_company_c:0 "Cie de transmission VII"
- tech_signal_company_c_desc:0 "Parmi nos spécialistes de la signalisation, il y a des gens qui ont une connaissance de première main inégalée de l'utilisation sur le terrain de cet équipement. En les impliquant dans la recherche de nouvelles technologies de communication, nous pouvons faire appel à leur expertise."
+ tech_signal_company_c_desc:0 "Le cryptage des communications radio est vital pour conserver l'élément de surprise. En intégrant la compression d'impulsions dans nos radios, nous pouvons déjouer toute tentative d'écoute de l'ennemi."
 #-<><><>
 
 ###------> Etat / Etax Folder Name  <><> <><> <><> <><> <><>
@@ -343,6 +348,12 @@ l_french:
 
 
  ETAX_TITLE_DOCTRINE_X:0 "Division spéciale de recherche"
+
+###------>  R56 Vechicles Folder Name  <><> <><> <><> <><> <><>
+ r56_vechicles_folder:0 "Infanterie mécanisée"
+ r56_vechicles_folder_desc:0 "Équipement pour les forces d'infanterie mécanisées."
+#-<><><>
+ 
 
 ###------> New Doc   <><> <><> <><> <><> <><>
 
@@ -359,7 +370,7 @@ l_french:
  etax_army_firepower:0 "Puissance de feu des armes légères"
  etax_army_firepower_desc:0 "L'accent mis sur la puissance de feu nous mènera à la victoire. Cette approche a permis d'obtenir des armes légères puissantes et des améliorations générales de leur efficacité."
  etax_army_firepower_2:0 "Grande puissance de feu"
- etax_army_firepower_2_desc:0 "Les recherches spéciales que nous avons menées nous ont permis d'ajouter une puissance d'arrêt significative à nos gros calibres."
+ etax_army_firepower_2_desc:0 "Nos recherches approfondies nous ont permis d'ajouter une puissance d'arrêt significative à nos gros calibres."
  etax_army_defense:0 "Armée blindée"
  etax_army_defense_desc:0 "Notre armée peut encaisser des coups qui laisseraient n'importe qui d'autre mort dans leur sillage. Avec cela, nous pouvons facilement endurer n'importe quel conflit."
  etax_army_defense_2:0 "Fortification extensive"
@@ -405,7 +416,7 @@ l_french:
  etax_desperation:0 "Sacrifice"
  etax_desperation_desc:0 "Avec un peu d'effort, nous pouvons convaincre notre population de se contenter d'un peu moins, tout en luttant tout aussi fort."
  etax_no_qa:0 "Production d'urgence"
- etax_no_qa_desc:0 "Les besoins immédiats de la première ligne exigent que nous fassions des économies ici et là. Bien que la qualité puisse être moindre, au bout du compte, la majeure partie de nos efforts finira par nous dépasser."
+ etax_no_qa_desc:0 "Les besoins immédiats de la première ligne exigent que nous fassions des économies ici et là. Bien que la qualité puisse être moindre, au bout du compte, la majeure partie de nos efforts finira par dépasser l'ennemi."
  etax_expendable_labor:0 "Main-d'œuvre"
  etax_expendable_labor_desc:0 "Les briques qui recouvrent nos murs ont été payées en sang, et le ciment est recouvert d'os. Que personne ne dise que nous n'avons pas payé le prix de la victoire."
 
@@ -438,6 +449,7 @@ l_french:
 ###------> Jaeger   <><> <><> <><> <><> <><>
  jaeger:0"Chasseur à pied"
  jaeger_desc:0"Les chasseurs à pied sont des forces qui se spécialisent dans la survie au froid et dans la nature sauvage de la forêt boréale. Généralement, ces troupes sont originaires de leur territoire et prennent plus de temps à s'entraîner.\n \n§GCe type d'unité ne compte pas dans le plafond des forces spéciales mais exige en revanche 5 équipements de soutien par bataillon§!"
+
  jungletroop:0"Infanterie de la jungle"
  jungletroop_desc:0"L'infanterie de la jungle est entraînée à supporter les dures conditions de la guerre de la jungle et à défier l'ennemi selon ses propres termes.\n \n§GCe type d'unité ne compte pas dans le plafond des forces spéciales mais exige en revanche 5 équipements de soutien par bataillon§!"
 

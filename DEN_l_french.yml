@@ -1,889 +1,1021 @@
-﻿l_french:
- Denmark_focus:0 "Priorités nationales danoises"
- #DANISH REGION ===============================================================================================================================
- 
- #Fixed Link
- DEN_fixed_link:0 "Liaison fixe"
- DEN_fixed_link_desc:0 "La ceinture danoise prend aujourd'hui une heure à traverser en ferry. C'est tout simplement inacceptable pour toute nation moderne - et avec la guerre qui menace, cela peut être fatal. Notre infrastructure doit être mise à jour avant que tout autre projet puisse être envisagé."
- DEN_fixed_link_tt:0 "Ajouter le maximum d'§Yinfrastructure§! en §YSjælland§! et au §YJutland§!"
- 
- #Industrialise Scania
- DEN_industrialise_scania:0 "Industrialiser la Scanie"
- DEN_industrialise_scania_desc:0 "La Suède est un pays très modernisé, et un exemple pour nous tous, mais il y a place à l'amélioration. L'industrialisation de la Scandinavie continentale va commencer près de chez nous."
- 
- #Industrialise Southern Sweden
- DEN_industrialise_southern_sweden:0 "Industrialiser le sud de la Suède"
- DEN_industrialise_southern_sweden_desc:0 "Scania a été un excellent premier pas, mais nous pouvons faire mieux. Nous allons faire porter nos efforts vers le nord, et notre capacité augmentera à son tour. Le sud de la Suède, densément peuplé, est mûr pour la modernisation."
- 
- #Industrialise Northern Sweden
- DEN_industrialise_northern_sweden:0 "Industrialiser le nord de la Suède"
- DEN_industrialise_northern_sweden_desc:0 "Notre travail est presque terminé, et se termine logiquement au nord. Nos efforts permettront à la Suède d'entrer résolument dans l'ère moderne."
- 
- #Road To The North
- DEN_road_to_the_north:0 "La route vers le Nord"
- DEN_road_to_the_north_desc:0 "Maintenant que la Suède est industrialisée, nous devons porter notre attention sur leur infrastructure. Ce sera une entreprise gigantesque, mais l'intégration avec notre propre liaison fixe est à la fois possible et nécessaire."
- DEN_road_to_the_north_tt:0 "Ajouter le maximum d'§Yinfrastructure§! en §YScanie§!, en §YSmåland§!, en §YVästergötland§!, au §YSvealand§!, au §YNorrland§! et en §YLaponie§!"
- 
- #The Baltic Sea Wall
- DEN_the_baltic_sea_wall:0 "Le mur de la Baltique"
- DEN_the_baltic_sea_wall_desc:0 "Les Scandinaves ont le potentiel pour exercer une influence totale sur la Baltique, mais pour cela, nous devons d'abord nous protéger des forces maritimes. Ce sera la prochaine étape pour amener la Suède au niveau des normes danoises."
- 
- #The Lappland Line
- DEN_the_lappland_line:0 "La ligne de Laponie"
- DEN_the_lappland_line_desc:0 "L'intérêt soviétique pour la Finlande signifie que nous ne pouvons pas laisser notre sécurité à l'Est au hasard. Nos moyens de production et notre protection par mer étant assurés, nous devons veiller à ce que rien n'entre en Suède sans avoir été invité."
- DEN_the_lappland_line_tt:0 "Ajoute §Y12 fortifications terrestres§! à la frontière finlandaise.\n"
- 
- #Industrialise Ostlandet
- DEN_industrialise_ostlandet:0 "Industrialiser l'Østlandet"
- DEN_industrialise_ostlandet_desc:0 "La Norvège ne dispose que de très peu de bonnes terres pour la construction industrielle, mais ce qu'il y a, nous allons l'exploiter au maximum pour faire du territoire norvégien une force puissante pour les intérêts scandinaves."
- 
- #Norwegian Naval Industry
- DEN_norwegian_naval_industry:0 "Industrie navale norvégienne"
- DEN_norwegian_naval_industry_desc:0 "L'industrie navale norvégienne n'est déjà pas à négliger, mais nous pouvons la développer davantage et tenter de consolider notre place dans la mer Baltique et la mer du Nord, et au-delà."
- 
- #Offshore Drilling Platforms
- DEN_offshore_drilling_platforms:0 "Plateformes de forage en mer"
- DEN_offshore_drilling_platforms_desc:0 "Nos inspecteurs industriels ont présenté des preuves de la présence de pétrole sous-marin au large des côtes du Vestlandet. S'y rendre sera un exploit d'ingénierie, mais de récentes avancées américaines ont montré que le forage en mer est possible. Nous essaierons de nous en inspirer."
- 
- #Fortify The Norwegian Coast
- DEN_fortify_the_norwegian_coast:0 "Fortifier la côte norvégienne"
- DEN_fortify_the_norwegian_coast_desc:0 "De grandes parties du littoral norvégien sont inaccessibles et difficiles à défendre. Nous les avons rendues accessibles, et nous allons maintenant les rendre défendables. Nous devons nous protéger contre la mer du Nord."
- 
- #Great Coastal Road
- DEN_great_coastal_road:0 "Grande route côtière"
- DEN_great_coastal_road_desc:0 "Nos plans pour un grand réseau de transport scandinave se poursuivent en Norvège. Nous allons normaliser et moderniser leurs routes et continuer à faire entrer les transports scandinaves dans le XXème siècle."
- DEN_great_coastal_road_tt:0 "Ajouter le maximum d'§Yinfrastructure§! en §YØstlandet§!, en §YVestlandet§!, au §YTrøndelag§! et au §YNord-Norge§!"
- 
- #Industrialise Helsinki
- DEN_industrialise_helsinki:0 "Industrialiser Helsinki"
- DEN_industrialise_helsinki_desc:0 "La Finlande est une nation pleine de potentiel, et nous ferons de notre mieux pour mettre ce potentiel en valeur. Helsinki et la région environnante en particulier sont prometteuses."
- 
- #Road To The East
- DEN_road_to_the_east:0 "Projets routiers finlandais"
- DEN_road_to_the_east_desc:0 "Nos efforts se poursuivent avec le système de transport finlandais. La Finlande peut être inhospitalière pour ceux qui ne savent pas comment s'y retrouver - nous prévoyons d'éliminer ce problème."
- DEN_road_to_the_east_tt:0 "Ajouter le maximum d'§Yinfrastructure§! en §YUusimaa§!, en §YOstrobotnie§!, en §YSavonie§! et en §YLappi§!"
- 
- #Finish The Mannerheim Line
- DEN_finish_the_mannerheim_line:0 "Achever la ligne Mannerheim"
- DEN_finish_the_mannerheim_line_desc:0 "The Soviet threat cannot be understated. If we are to survive a potential incursion, we must be ready to defend - and fortifications are a necessary first step. We must finish the fortifications we were preparing for the Soviet threat."
- DEN_finish_the_mannerheim_line_tt:0 "Add §Y8 Land Forts§! near Leningrad.\n"
- 
- #Paint The Skies Red
- DEN_paint_the_skies_red:0 "Fortifier la région des lacs de Finlande"
- DEN_paint_the_skies_red_desc:0 "Les fortifications du sud ont simplement éliminé la voie de la moindre résistance. Nous devons continuer à fortifier le long des principaux points d'étranglement de notre propre territoire - comme les ponts terrestres entre les lacs finlandais."
- 
- #Industrialise Jutland 
- DEN_industrialise_jutland:0 "Industrialiser le Jutland"
- DEN_industrialise_jutland_desc:0 "Le Jutland est depuis longtemps notre lien avec le continent, et nous devons nous assurer qu'il est un bon exemple de l'assiduité européenne. Il y a place pour des améliorations dans tous les domaines de la production - améliorations que nous avons l'intention d'apporter."
- 
- #Industrialise the Islands
- DEN_industrialise_the_islands:0 "Industrialiser Seeland"
- DEN_industrialise_the_islands_desc:0 "L'île de Seeland est une grande partie des terres danoises, mais elle manque cruellement de capacités industrielles. Nous devons y remédier le plus rapidement possible, à la fois pour apporter de l'emploi à notre population et pour construire une armée moderne acceptable."
- 
- #Militarise the Mainland
- DEN_militarise_the_mainland:0 "Militariser le Jutland"
- DEN_militarise_the_mainland_desc:0 "Le Jutland est notre lien avec le continent, et toutes les menaces qui viennent du continent. Nous devons nous armer pour le défendre, et nous devons donc militariser le Jutland lui-même."
- 
- #Militarise the Islands
- DEN_militarise_the_islands:0 "Militariser Seeland"
- DEN_militarise_the_islands_desc:0 "L'île de Seeland est séparée du continent par des détroits dans toutes les directions. Il n'y a pas de lieu plus sûr pour développer notre production militaire - et il n'y a jamais eu de moment plus pressant pour le faire."
- 
- #Fortress Denmark
- DEN_fortress_denmark:0 "La forteresse danoise"
- DEN_fortress_denmark_desc:0 "Nous sommes entourés d'ennemis potentiels. Notre seul ami est notre géographie naturellement inaccessible - et nous allons l'exploiter au maximum. Des fortifications minimales devraient nous rendre totalement inaccessibles par voie terrestre avec une résistance minimale."
- 
- #Icelandic Militarisation
- DEN_icelandic_militarisation:0 "Militarisation de l'Islande"
- DEN_icelandic_militarisation_desc:0 "L'isolement de l'Islande est à la fois une force et une faiblesse. Il est difficile d'attaquer - mais toute force de défense est entièrement autonome. Nous devons nous fortifier contre une incursion potentielle, afin de ne jamais être pris par surprise."
- 
- #The Winter Base
- DEN_the_winter_base:0 "La base hivernale"
- DEN_the_winter_base_desc:0 "Le Groenland est un désert de glace sans caractéristiques, dépourvu de toute utilité, à l'exception d'une petite base navale. Un peu d'expansion et de fortification contribuerait grandement à en faire une puissante zone d'étape pour de futures opérations."
- DEN_the_winter_base_tt:0 "Ajoute §Y3§! §Yinfrastructures§! au §YGroenland§!.\n"
- 
- #Industrialise the North Sea Provinces
- DEN_industrialise_the_north_sea_provinces:0 "Industrialiser les îles Féroé et l'Islande"
- DEN_industrialise_the_north_sea_provinces_desc:0 "Les îles Féroé et l'Islande sont isolées dans l'Atlantique et la mer du Nord - des endroits parfaits pour construire une industrie loin de nos ennemis potentiels au sud et à l'est."
- 
- #Upgrade the Ports
- DEN_upgrade_the_ports:0 "Améliorer les chantiers navals"
- DEN_upgrade_the_ports_desc:0 "Nous prétendons contrôler la mer Baltique, et pourtant nous sommes terriblement sous-développés dans notre industrie navale. Nos chantiers navals doivent être rénovés si nous voulons avoir l'espoir de produire une marine sérieuse."
- 
- #Invest in the Oil and Coal Industry
- DEN_invest_in_the_oil_and_coal_industry:0 "Investir dans l'industrie pétrolière et charbonnière"
- DEN_invest_in_the_oil_and_coal_industry_desc:0 "Les combustibles fossiles sont une composante nécessaire de notre monde moderne à presque tous les égards, et pourtant le Danemark n'en produit aucune quantité utilisable. Nous devons y remédier par des investissements gouvernementaux."
- 
- #Invest in the Steel Industry
- DEN_invest_in_the_steel_industry:0 "Investir dans l'industrie sidérurgique"
- DEN_invest_in_the_steel_industry_desc:0 "L'acier est la force motrice et l'épine dorsale de toute industrie militaire, et nous devons produire notre propre approvisionnement si nous voulons produire une armée moderne. Une participation du gouvernement dans les industries danoises existantes garantira notre approvisionnement."
- 
- #Fund Danish Universities
- DEN_fund_danish_universities:0 "Financer les universités danoises"
- DEN_fund_danish_universities_desc:0 "Le Danemark est rempli à ras bord de grands esprits qui n'ont pas les ressources nécessaires pour faire ressortir tout leur potentiel en eux-mêmes et dans leur pays. Nous pouvons et devons remédier à cette situation. Un programme d'enseignement supérieur subventionné par le gouvernement est à la fois logique et nécessaire."
- 
- #Theoretical Weaponry
- DEN_theoretical_weaponry:0 "Armement théorique"
- DEN_theoretical_weaponry_desc:0 "Notre investissement a été largement amorti. De nouvelles applications puissantes de nouveaux matériaux exotiques sont apparues dans la communauté scientifique danoise, et nous pouvons exploiter ces nouvelles connaissances pour obtenir des résultats importants, voire changer le monde."
- 
- #North Sea RADAR
- DEN_north_sea_RADAR:0 "Radar de la mer du Nord"
- DEN_north_sea_RADAR_desc:0 "La détection radio est le dernier concept en date dans le domaine du renseignement, et elle pourrait nous permettre de voir les menaces potentielles bien au-delà de la mer du Nord. Nous avons la possibilité d'installer ce système dès maintenant - nous ne devons pas laisser passer cette occasion."
- 
- ########################
- ### MILITARY SECTION ###
- ########################
- 
- #Army Reforms
- DEN_army_reforms:0 "Army Reforms"
- DEN_army_reforms_desc:0 "À l'échelle internationale, notre armée est à la fois petite et sous-équipée. Nous devons faire de sérieux efforts pour moderniser nos tactiques et nos équipements, sinon nous serons dépassés, au sens propre et au sens figuré, par des forces plus importantes."
- 
- #Form The Danish Volunteer Corps
- DEN_form_the_danish_volunteer_corps:0 "Former le corps de volontaires danois"
- DEN_form_the_danish_volunteer_corps_desc:0 "Nous ne pouvons pas mener toutes les guerres du monde, mais il est dans notre intérêt de participer à celles qui pourraient être pertinentes pour nos intérêts internationaux. Le corps des volontaires danois sera un moyen utile de mener des guerres par procuration à l'étranger."
- 
- #Expand Foreign Operations
- DEN_expand_foreign_operations:0 "Développer les opérations à l'étranger"
- DEN_expand_foreign_operations_desc:0 "Notre faible population rend difficile l'aide à nos alliés étrangers, mais nous devons offrir notre aide si nous voulons défendre nos intérêts et nous opposer aux éléments dangereux qui sont en liberté dans le monde aujourd'hui. L'expansion de nos opérations à l'étranger n'est qu'un moyen d'y parvenir."
- 
- #Foreign Military Advisors
- DEN_foreign_military_advisors:0 "Dansk Industri Syndikat"
- DEN_foreign_military_advisors_desc:0 "Le Dansk Industri Syndikat est une entreprise qui se spécialise principalement dans la fonte des métaux. Un peu d'influence politique et économique devrait contribuer à les convaincre de se spécialiser davantage dans la production d'armes pour l'armée danoise."
- 
- #German Military Doctrine
- DEN_german_military_doctrine:0 "Armes et blindés allemands"
- DEN_german_military_doctrine_desc:0 "Pour beaucoup de gens, la machine de guerre allemande en développement est une source d'opportunités considérables. Nos conseillers militaires espionnent une opportunité dans leur technologie de blindage - si nous pouvons nous occuper de l'accès à notre politique intérieure que cela leur donne."
- 
- #Soviet Military Doctrine
- DEN_soviet_military_doctrine:0 "Armes et artillerie soviétiques"
- DEN_soviet_military_doctrine_desc:0 "If there is one thing that has come out of the Soviet Union in large amounts in recent years, it is guns. SovieRéformes de l'arméet artillery stands to revolutionise the field, but we must consider their revolutionary intent if we are to explore this field."
- 
- #British Military Doctrine
- DEN_british_military_doctrine:0 "Armes et électronique britanniques"
- DEN_british_military_doctrine_desc:0 "Les Britanniques ont récemment fait de grands progrès dans le domaine de l'électronique et de l'ingénierie mécanique. Avec un peu de concessions politiques, nous pouvons accéder à ce domaine, et à tout le potentiel qu'il contient, grâce à l'expertise britannique."
- 
- #Infantry Focus
- DEN_infantry_focus:0 "Priorité à l'infanterie"
- DEN_infantry_focus_desc:0 "La guerre motorisée a changé la face du monde, mais l'infanterie reste l'épine dorsale de toute armée forte. Nous devrions orienter nos efforts en conséquence."
-
- #Mechanised Focus
- DEN_mechanised_focus:0 "Priorité au mécanisé"
- DEN_mechanised_focus_desc:0 "La capacité à transporter l'infanterie et l'équipement sur de grandes distances était rapidement limitée par le stock de chevaux de la nation. Aujourd'hui, nous pouvons simplement produire tous les moteurs dont nous avons besoin dans une usine. Nous devrions exploiter cela en priorité."
-
- #Armor Focus
- DEN_armor_focus:0 "Priorité aux blindés"
- DEN_armor_focus_desc:0 "Les chars étaient peu maniables et tactiquement inflexibles pendant la Grande Guerre, mais cela a changé ces dernières années. Nous devrions orienter les recherches sur les possibilités des blindages modernes."
- 
- #Modernise the Army
- DEN_modernise_the_army:0 "Moderniser l'armée"
- DEN_modernise_the_army_desc:0 "Les efforts de recherche dirigés sont bons, mais nous devons encore nous améliorer dans tous les domaines pour amener nos armes et nos blindés dans les rangs de la concurrence. Il y a des améliorations à faire dans tous les domaines, toujours."
- 
- #Found the Danish Air Force
- DEN_found_the_danish_air_force:0 "Fonder l'Armée de l'air danoise"
- DEN_found_the_danish_air_force_desc:0 "Il n'y a pas longtemps, les corps d'aviation de la marine et de l'armée de terre de l'armée danoise ont été formés. Le temps est venu de créer notre propre force aérienne, une branche de notre armée à part entière. L'expansion de nos installations et la mise à jour de nos conceptions aéronautiques sont un début."
- 
- #Indigenious Designs
- DEN_indigenious_designs:0 "Skandinavisk Aero Industri"
- DEN_indigenious_designs_desc:0 "Maintenant que notre force aérienne existe officiellement, nous pouvons concentrer nos efforts sur la production de chasseurs. Skandinavisk Aero Industri est une entreprise du secteur privé qui pourrait être en mesure de rationaliser nos efforts et de produire des avions de combat de conception supérieure."
- 
- #Luftwaffe Tactics
- DEN_luftwaffe_tacticts:0 "Bombardiers navals allemands"
- DEN_luftwaffe_tacticts_desc:0 "Les efforts navals allemands ont créé une génération de bombardiers navals avancés, idéale pour nos efforts en mer du Nord et en mer Baltique. Cependant, nous ouvrir à leur contribution militaire pourrait bien nous exposer à leur idéologie."
- 
- #Royal Air Force Tactics
- DEN_royal_air_force_tacticts:0 "Bombardiers lourds britanniques"
- DEN_royal_air_force_tacticts_desc:0 "Les Britanniques ont en circulation de nombreux avions stratégiques révolutionnaires, capables de larguer des charges massives d'explosifs et d'engins incendiaires sur des distances extrêmes. Ils peuvent partager ces conceptions - si nous leur offrons quelques concessions politiques."
- 
- #Soviet Air Force Tactics
- DEN_soviet_air_force_tacticts:0 "Bombardiers moyens soviétiques"
- DEN_soviet_air_force_tacticts_desc:0 "Les Soviétiques ont de nombreuses idées nouvelles et intéressantes dans le domaine des bombardiers tactiques, et ils peuvent partager ces conceptions avec nous - nous devons cependant nous méfier de leurs efforts incessants pour répandre leur révolution dans le processus."
- 
- #Expand the Air Force
- DEN_expand_the_air_force:0 "Développer l'Armée de l'air"
- DEN_expand_the_air_force_desc:0 "Grâce à des consultations externes et à un travail acharné, nous avons créé quelque chose qui ressemble aux fondations d'une force aérienne moderne. Cependant, notre travail est loin d'être terminé. Une nouvelle expansion est très nécessaire pour assurer la sécurité de notre ciel."
- 
- #Keep the Seas Clear
- DEN_keep_the_seas_clear:0 "Sécuriser la mer"
- DEN_keep_the_seas_clear_desc:0 "La mer Baltique - et en particulier les eaux qui entourent notre propre détroit danois - est d'une importance stratégique vitale. Nous devons orienter nos efforts vers le développement d'avions torpilles navals modernisés pour assurer la sécurité de nos eaux intérieures."
- 
- #Keep the Skies Clear
- DEN_keep_the_skies_clear:0 "Sécuriser le Danemark"
- DEN_keep_the_skies_clear_desc:0 "Notre marine s'occupera des détroits. La préoccupation de notre force aérienne doit être de garder le ciel au-dessus du Danemark lui-même à l'abri des forces extérieures, et nos efforts de recherche doivent en tenir compte. La mise à jour des modèles de chasseurs est une priorité."
-
-#Jet Experiments
-DEN_jet_experiments:0 "Expérimentations sur les avions à réaction"
-DEN_jet_experiments_desc:0 "La recherche théorique nous a présenté la possibilité d'un nouveau type de moteur aérien, qui utilise des turbines à réaction internes pour produire une vitesse, une portée et une agilité sans précédent dans les modèles de chasseurs et de bombardiers de pointe."
-
-#Expand Naval Operations
-DEN_expand_naval_operations:0 "Développer les opérations navales"
-DEN_expand_naval_operations_desc:0 "La mer Baltique et la mer du Nord sont essentielles à la sécurité de notre nation. Pour assurer notre place parmi les vagues, nous devons développer nos capacités de production et de maintenance navales."
-
-#Secure the Straits
-DEN_secure_the_straits:0 "Sécuriser les détroits"
-DEN_secure_the_straits_desc:0 "We cannot trust chance to keep our domestic waters safe. We must fortify against naval invasion - as a partially island-based nation, we are particularly vulnerable to this strategy."
-
-#Naval Wolf Packs
-DEN_naval_wolf_packs:0 "Loups de mer"
-DEN_naval_wolf_packs_desc:0 "Nous ne pouvons pas espérer produire une marine pour défier les géants industriels de tous bords, mais nous pouvons tenter de les affamer avec nos propres sous-marins. Nous devrions orienter la recherche et la production vers la conception de sous-marins."
-
-#Home Sea Defence
-DEN_home_sea_defence:0 "Défense maritime intérieure"
-DEN_home_sea_defence_desc:0 "Nous partageons les côtes de la mer Baltique avec les Soviétiques et les Nazis. Si nous voulons espérer maintenir notre sécurité navale, nous devons orienter les recherches vers la modernisation de notre flotte de navigation intérieure."
-
-#North Sea Superiority
-DEN_north_sea_superiority:0 "Supériorité en mer du Nord"
-DEN_north_sea_superiority_desc:0 "Avec un effort industriel très sérieux et un prototypage dirigé, nous pourrions être en mesure de projeter nos forces navales dans la mer du Nord. Pour l'instant, nos forces ne peuvent engager en toute sécurité rien de plus qu'une légère incursion - mais nous pouvons facilement devenir une puissance navale."
-
-#Danish Merchant Marine
-DEN_danish_merchant_marine:0 "Marine marchande danoise"
-DEN_danish_merchant_marine_desc:0 "La clé de toute notre activité industrielle, de la terre à l'air en passant par la mer, est la capacité à faire venir en toute sécurité sur nos côtes les ressources de nos partenaires commerciaux. Une marine marchande dévouée contribuerait grandement à assurer cette sécurité."
-
-#German Dealings
-DEN_german_dealings:0 "Programme allemand de U-Boats"
-DEN_german_dealings_desc:0 "Les rapports sur les U-boats allemands ridiculement avancés ne sont pas passés inaperçus de nos conseillers navals. Nous sommes intéressés par l'acquisition d'une partie de cette technologie furtive révolutionnaire pour nous-mêmes - et les Allemands sont intéressés par des alliés potentiels."
-
-#British Dealings
-DEN_british_dealings:0 "Programme britannique de cuirassés"
-DEN_british_dealings_desc:0 "La marine britannique était célèbre pendant la Grande Guerre, et elle l'est toujours. Elle a développé des modèles de cuirassés révolutionnaires, et pourrait les partager si nous faisons preuve d'une certaine loyauté symbolique envers l'idéal démocratique."
-
-#Soviet Dealings
-DEN_soviet_dealings:0 "Programme soviétique de croiseurs"
-DEN_soviet_dealings_desc:0 "La présence soviétique dans la Baltique ne peut être niée, et leur expérience de la navigation remonte presque aussi loin que la nôtre. Leur forte base industrielle a produit quelques croiseurs révolutionnaires, mais ils sont prêts à tout pour exporter leur révolution."
-
-#Control the Baltic
-DEN_control_the_baltic:0 "Contrôler la Baltique"
-DEN_control_the_baltic_desc:0 "Nous ne pouvons confier le contrôle de la mer Baltique à aucune autre force extérieure. Nous devons nous préparer à mettre en place une marine plus importante et être prêts à l'utiliser pour sécuriser nos eaux nationales."
-
-#########################
-### POLITICAL SECTION ###
-#########################
- 
-#International Relations
-DEN_international_relations:0 "Relations internationales"
-DEN_international_relations_desc:0 "Notre nation est petite, mais notre position stratégique à cheval sur le Grand Belt et nos voisins belligérants au sud et à l'est nous assurent de trouver des alliés. Il nous suffit de tendre la main et de voir qui prendra la main offerte."
-
-#An Empire Once More
-DEN_an_empire_once_more:0 "Recréer l'Union de Kalmar"
-DEN_an_empire_once_more_desc:0 "Les manœuvres du Danemark ont été la clé de l'alliance des nations du Danemark, de la Norvège et de la Suède en 1397. Le temps est venu de relancer cette union, maintenant que nous travaillons à nouveau à des objectifs communs."
-DEN_an_empire_once_more_tt:0 "Le Danemark possède ou a des fantoches qui contrôlent §YStockholm§! et §YOslo§!"
-
-####FASCIST SECTION####
-
-#Nationalist Teachings
-DEN_nationalist_teachings:0 "Enseignements nationalistes"
-DEN_nationalist_teachings_desc:0 "L'idéal le plus surfait d'une société « éclairée » est l'idée que le pouvoir réside dans la dépendance à l'égard des forces extérieures. Le temps est venu et passé où nous avons pris en main notre propre destin - mais il n'est peut-être pas trop tard."
-
-#Right Wing Rallies
-DEN_right_wing_rallies:0 "Ralliement de la droite"
-DEN_right_wing_rallies_desc:0 "Les pouvoirs démocratiques aiment prêcher la liberté d'expression comme un idéal à poursuivre, mais jamais auparavant ils n'avaient permis à la voix nationaliste de la raison de s'exprimer. Nous corrigerons cette erreur par tous les moyens dont nous disposons."
-
-#Denmark Stands Alone
-DEN_denmark_stands_alone:0 "Le Danemark reste seul"
-DEN_denmark_stands_alone_desc:0 "Nous n'avons peut-être pas toujours été fiers de notre gouvernement, mais nous avons toujours été fiers de notre nation. Les nazis ont été prompts à se lier d'amitié avec nous une fois que nos objectifs se sont alignés sur les leurs, mais il est facile de voir à travers leurs mensonges leurs objectifs impérialistes."
-
-#Befriend Germany
-DEN_befriend_germany:0 "Se rapprocher de l'Allemagne"
-DEN_befriend_germany_desc:0 "Un homme fier de son pays est rare et précieux à notre époque, et la fierté d'Hitler et de ses nazis dans leur pays uni est particulièrement admirable, et égale à la nôtre. Nos objectifs sont complémentaires - et notre ligne de conduite est claire."
-
-#Viking Heraldry
-DEN_viking_heraldry:0 "L'héritage Viking"
-DEN_viking_heraldry_desc:0 "Autrefois, l'Europe craignait les raids des Danois, qui prenaient ce qu'ils voulaient avec du feu et des haches. Nous avons oublié une grande partie de l'histoire exemplaire et nécessaire. Nous devons rappeler aux gens qui ont construit leur pays."
-
-#Conquerors of Scandanavia
-DEN_conquerors_of_scandanavia:0 "Les conquérants de Scandinavie"
-DEN_conquerors_of_scandanavia_desc:0 "Le Danemark a toujours occupé une position qui fait partie intégrante du contrôle de la mer Baltique et de la Scandinavie elle-même. Nous détenons la clé de toute la péninsule scandinave - et les États démocratiques faibles et transitoires du nord ne nous feront pas obstacle."
-
-#Rally Beneath The Dannebrog
-DEN_rally_beneath_the_dannebrog:0 "Rassemblement sous le Dannebrog"
-DEN_rally_beneath_the_dannebrog_desc:0 "Même notre population pure et fière aura sa part de mécontents et de lâches, mais hissez le drapeau et tous les bons patriotes y afflueront. Venez, venez tous, fiers citoyens du Danemark. Rassemblez-vous sous le Dannebrog !"
-
-#Invade Osel
-DEN_invade_osel:0 "Envahir Ösel"
-DEN_invade_osel_desc:0 "Pour un Estonien, l'île d'Osel peut très bien être considérée comme sa maison. Pour un Danois, c'est l'occasion de consolider le contrôle danois sur la Baltique. Une invasion rapide pourrait être judicieuse."
-
-#Control Riga
-DEN_control_riga:0 "Contrôler Riga"
-DEN_control_riga_desc:0 "La Lettonie n'est pas une puissance imposante, mais sa capitale, Riga, est toujours un centre de l'industrie balte. Nous devons sécuriser la Lettonie, et assurer notre influence dans les pays baltes."
-
-#Close The Baltic Gap
-DEN_close_the_baltic_gap:0 "Fermer la Baltique"
-DEN_close_the_baltic_gap_desc:0 "Les Soviétiques sont spécialisés dans la projection dans des espaces où ils ne sont pas les bienvenus. Le temps est venu de retirer notre principal ennemi de la mer Baltique. Pour le bien de notre peuple, nous allons prendre Léningrad à l'ours soviétique."
-
-#Industrialise Latvia
-DEN_industrialise_latvia:0 "Industrialiser la Lettonie"
-DEN_industrialise_latvia_desc:0 "La Lettonie est une étape importante de l'autre côté de la mer, mais elle est pitoyablement sous-développée. Nous prendrons des mesures pour remédier à cette situation et nous assurer un solide ancrage à la frontière terrestre soviétique."
-DEN_industrialise_latvia_tt:0 "Ajoute le maximum d'§Yinfrastructure§! en §YCourlande§! et en §YVidzeme§!\n"
-
-#Industrialise Estonia
-DEN_industrialise_estonia:0 "Industrialiser l'Estonie"
-DEN_industrialise_estonia_desc:0 "Les îles estoniennes en tant que points d'étape sont utiles, mais l'Estonie elle-même présente également une opportunité d'augmenter notre production dans tous les domaines. Nous devrions tirer parti de cette opportunité."
-DEN_industrialise_estonia_tt:0 "Ajoute le maximum d'§Yinfrastructure§! en §YHarju§! et en §YTartu§!\n"
-
-#Reclaim Schleswig-Holstein
-DEN_reclaim_schleswig_holstein:0 "Récupérer le Schleswig-Holstein"
-DEN_reclaim_schleswig_holstein_desc:0 "Le « Schleswig-Holstein » est ce que les Allemands se plaisent à appeler aujourd'hui le Jutland du Sud. Ils oublient volontiers qu'ils l'ont pris à la royauté danoise il y a longtemps. Peut-être devrions-nous leur montrer combien la mémoire des Danois peut être longue."
-
-#Influence France
-DEN_influence_france:0 "Influencer la France"
-DEN_influence_france_desc:0 "Les Français ont vécu beaucoup de choses et il semble qu'ils aient encore beaucoup de choses à vivre. La fierté nationale française est peut-être au plus bas, mais nous devrions prendre des mesures pour réveiller cette ancienne identité."
-
-#Befriend France
-DEN_befriend_france:0 "Se rapprocher de la France"
-DEN_befriend_france_desc:0 "Le parti nationaliste français a récemment pris son essor et une puissante alliance nous attend. Nous sommes prêts à agir en ayant à cœur les intérêts nationaux français."
-
-#Reclaim Normandy
-DEN_reclaim_normandy:0 "Reconquérir la Normandie"
-DEN_reclaim_normandy_desc:0 "Le fief de Normandie que les Britanniques ont si fièrement occupé au cours de l'âge des ténèbres a été créé par et pour un Danois - Hrolf Ragnvaldsson. La France a eu le temps de prendre en main son propre destin. Il est temps que nous prenions le nôtre."
-
-#Influence Britain
-DEN_influence_britain:0 "Influencer le Royaume-Uni"
-DEN_influence_britain_desc:0 "Dans un passé pas si lointain, la Grande-Bretagne était une fière puissance coloniale, qui contrôlait une grande partie du monde. Elle est descendue de cette gloire passée, et est maintenant pratiquement redevable à son propre Commonwealth. Nous devrions réveiller le vieux géant impérial."
-
-#Befriend Britain
-DEN_befriend_britain:0 "Se rapprocher du Royaume-Uni"
-DEN_befriend_britain_desc:0 "Il y a longtemps, la Grande-Bretagne a été la cible de raids danois incontrôlés. Nous sommes peut-être fiers de notre passé, mais nous reconnaissons que la Grande-Bretagne est aujourd'hui un allié précieux et nous sommes prêts à laisser ce passé derrière nous pour forger un avenir ensemble."
-
-#Operation Longboat
-DEN_operation_longboat:0 "Opération Longboat"
-DEN_operation_longboat_desc:0 "La Grande-Bretagne, en particulier les terres écossaises, était autrefois pratiquement un territoire scandinave. Comment peut-on confier aux Britanniques leur propre territoire ? Nous devrions faire revivre l'ancienne culture des raids danois et nous approprier ces terres."
-
-#Influence Norway
-DEN_influence_norway:0 "Influencer la Norvège"
-DEN_influence_norway_desc:0 "Les Norvégiens ont eu une histoire fière dans le passé, mais ils l'ont volontairement oubliée au profit d'un chemin plus doux et plus faible. Peu importe - nous nous souvenons de qui étaient les vikings, et nous le leur rappellerons."
-
-#Cross The Straits
-DEN_cross_the_strait:0 "Franchir le détroit"
-DEN_cross_the_strait_desc:0 "On peut peut-être compter sur la Norvège pour y voir clair. Peut-être pas. Quoi qu'il en soit, nous avons attendu assez longtemps pour faire entrer la vraie terre scandinave dans le vrai pays scandinave. Une guerre d'unification est notre droit et notre seule voie."
-
-#Befriend Norway
-DEN_befriend_norway:0 "Assujetir la Norvège"
-DEN_befriend_norway_desc:0 "Le peuple norvégien a compris le sens de sa politique intérieure - et puisque nous sommes si étroitement alignés, pourquoi ne pas rapprocher encore plus nos nations ? Avec la coopération militaire norvégienne, nous ne pouvons que réussir ensemble."
-
-#Influence Sweden
-DEN_influence_sweden:0 "Influencer la Suède"
-DEN_influence_sweden_desc:0 "L'empire suédois était déjà une puissance mondiale il y a trois cents ans. Peut-être pouvons-nous inciter le vieux géant impérial à agir une fois de plus, et inciter la population suédoise à se tenir fièrement sous ses propres bannières."
-
-#Befriend Sweden
-DEN_befriend_sweden:0 "Assujetir la Suède"
-DEN_befriend_sweden_desc:0 "Les Suédois semblent avoir réalisé qu'ils étaient grands autrefois - et ont annoncé au monde leur intention de l'être à nouveau. Il n'est que juste et approprié qu'ils se rencontrent en coopération avec nous, qui les avons guidés si patiemment vers la voie juste et appropriée."
-DEN_befriend_sweden_tt:0 "Si la Suède accepte, transfère la région de §YScanie§! au Danemark"
-
-#Reclaim scania
-DEN_reclaim_scania:0 "Revendiquer la Scanie"
-DEN_reclaim_scania_desc:0 "La Scanie était dirigée par les Danois sous le roi Harald Bluetooth jusqu'à ce que les Suédois nous l'arrachent. Ils ont le potentiel pour être grands - mais nous ne leur permettrons pas de faire semblant sur des terres qui nous appartiennent de droit. La guerre est notre seul recours."
-
-#Influence Finland
-DEN_influence_finland:0 "Influencer la Finlande"
-DEN_influence_finland_desc:0 "La Finlande n'a trouvé que relativement récemment sa liberté par rapport à la Russie, échappant de justesse à la tyrannie de l'ours soviétique. Ils ont une longue et fière histoire scandinave, et la nôtre est l'exemple qui leur rappellera ce passé glorieux."
-
-#For Their Own Good
-DEN_for_their_own_good:0 "Pour leur propre bien"
-DEN_for_their_own_good_desc:0 "Les Finlandais vivent sur le fil du rasoir, mais ils ne le voient évidemment pas. Ils n'ont rien fait pour éviter l'Union soviétique, et continuent joyeusement à avancer vers leur destin. S'ils ne sont pas prêts pour la guerre avec les communistes, nous les préparerons par la force."
-
-#Befriend Finland
-DEN_befriend_finland:0 "Assujetir la Finlande"
-DEN_befriend_finland_desc:0 "La Finlande est un lieu d'une grande importance culturelle et stratégique. Ils n'en ont pris pleinement conscience que récemment. Nous pouvons les aider à réaliser leurs visions avec quelques conseillers danois bien placés dans leur système gouvernemental."
-
-#Expand The Union
-DEN_expand_the_union:0 "Étendre l'Union"
-DEN_expand_the_union_desc:0 "L'Union de Kalmar est complète, apparemment, mais il lui manque encore une partie essentielle de son patrimoine. La Finlande faisait auparavant partie de l'empire suédois, et maintenant l'empire danois naissant accueillera son entrée dans notre glorieuse union."
-
-#A State Undivided
-DEN_a_state_undivided:0 "Un État indivisible"
-DEN_a_state_undivided_desc:0 "Les armées des Norvégiens, des Suédois et des Finlandais ont été utiles pendant un temps, mais le temps est venu de réclamer les terres pour nous-mêmes. Bientôt, nous annoncerons l'unification de tout le Danemark légitime, un État indivisible."
-DEN_a_state_undivided_tt:0 "Le Danemark possède ou a des fantoches qui contrôlent §YStockholm§!, §YOslo§! et §YHelsinki§!"
-
-#Karelia Is Ours
-DEN_karelia_is_ours:0 "La Carélie est à nous"
-DEN_karelia_is_ours_desc:0 "L'importance de la Carélie pour le peuple scandinave ne peut être surestimée, et l'amertume que nous ressentons pour sa perte est encore forte aujourd'hui. Les Soviétiques s'imposent, mais prendre ce qui nous appartient est la seule chose à faire. C'est la guerre !"
-
-#Operation Vinland
-DEN_operation_vinland:0 "Opération Vinland"
-DEN_operation_vinland_desc:0 "Les Espagnols et les Portugais trop fiers aiment se consoler de l'illusion que Christophe Colomb a découvert le nouveau monde. En réalité, la colonisation du nouveau monde a été entamée par l'Islandais Leif Erikson. Nous reprendrons ses terres."
-
-####DEMOCRATIC SECTION####
-
-#Support The Status Quo
-DEN_support_the_status_quo:0 "La défense de la liberté"
-DEN_support_the_status_quo_desc:0 "Nous sommes une nation démocratique et, malgré les discours allemands et soviétiques contraires, nous trouvons que c'est une chose dont nous pouvons être fiers. Le temps est venu de prouver au monde que nous allons défendre notre mode de vie."
-
-#Liberal Freedoms
-DEN_liberal_freedoms:0 "Libertés individuelles"
-DEN_liberal_freedoms_desc:0 "Notre peuple jouit de nombreux droits et libertés que certains de nos voisins n'offrent pas à leurs citoyens. Nous avons un mode de vie libre et idéal - et nous devons nous assurer que notre peuple est prêt et disposé à le défendre."
-
-#Seek Support From Britain
-DEN_seek_support_from_britain:0 "Obtenir le soutien du Royaume-Uni"
-DEN_seek_support_from_britain_desc:0 "Pour assurer notre avenir en cas de guerre, le cautionnement de nations plus puissantes serait indispensable. Le Royaume-Uni comprendra certainement notre inquiétude, car nous sommes entourés de deux de ses plus grands ennemis potentiels."
-
-#Seek Support From France
-DEN_seek_support_from_france:0 "Obtenir le soutien de la France"
-DEN_seek_support_from_france_desc:0 "Pour assurer notre avenir en cas de guerre, le cautionnement de nations plus puissantes serait indispensable. La France a gagné une guerre contre la machine allemande, et nous apportera probablement son soutien si le moment est venu d'en mener une autre."
-
-#United Against Tyranny
-DEN_nations_against_tyranny:0 "Unis contre la tyrannie"
-DEN_nations_against_tyranny_desc:0 "Le Commonwealth britannique n'est pas seulement une union symbolique. Partout dans le monde, la Grande-Bretagne et ses colonies se préparent à une guerre contre ceux qui voudraient nous enlever notre mode de vie. Nous avons une chance d'y participer - pouvons-nous nous permettre de la manquer ?"
-
-#A United North
-DEN_a_united_north:0 "Un Nord uni"
-DEN_a_united_north_desc:0 "L'Union de Kalmar est une chose du passé, mais la sécurité qu'elle offrait n'a pas besoin de l'être. Nos gouvernements frères de Norvège et du Danemark trouveront sans aucun doute un sens à une contingence militaire unifiée."
-
-#Alliance With Finland
-DEN_alliance_with_finland:0 "Alliance avec la Finlande"
-DEN_alliance_with_finland_desc:0 "La Finlande est très menacée, et bien qu'elle puisse différer légèrement de nous sur le plan idéologique, cela ne justifie pas qu'elle soit écrasée sous la machine de guerre rouge. Leur intégration renforcera les alliés démocratiques et garantira leur sécurité - une situation gagnant-gagnant."
-
-#The Fascist Threat
-DEN_the_fascist_threat:0 "La menace fasciste"
-DEN_the_fascist_threat_desc:0 "La rhétorique agressive des nazis n'est pas un vain mot - ils ont soutenu leur vitriol par des actions dangereuses. Nous ne pouvons pas permettre que cela aille plus loin. Le temps de la guerre est venu."
-
-#The Red Menace
-DEN_the_red_menace:0 "La menace rouge"
-DEN_the_red_menace_desc:0 "L'ours soviétique écrase déjà la moitié du monde sous son poids. Il est certain que toute l'Europe sera menacée si nous attendons plus longtemps pour lutter contre leur avancée. Les Alliés doivent se rallier, non pas au nom du capitalisme, mais au nom même de la liberté."
-
-#Defence Against Fascism
-DEN_defence_against_fascism:0 "Défense contre le fascisme"
-DEN_defence_against_fascism_desc:0 "Notre plus grande menace - peut-être la plus grande menace pour la démocratie - se situe au sud. Nos conseillers militaires, cependant, pensent que même une petite fortification devrait permettre de réduire considérablement le fer de lance des blindés nazis."
-
-#Defence Against Communism
-DEN_defence_against_communism:0 "Défense contre le communisme"
-DEN_defence_against_communism_desc:0 "Notre pays est petit, et une invasion navale bien placée pourrait mener à notre perte si nous ne sommes pas préparés. Maintenant que l'accès par le sud est sécurisé, la prochaine étape logique est de bloquer l'accès des Soviétiques par la mer."
-
-#A Stronger Democracy
-DEN_a_stronger_democracy:0 "Une démocratie plus forte"
-DEN_a_stronger_democracy_desc:0 "La clé de voûte de la démocratie est la foi dans le gouvernement. Il est temps que nous mettions nos ressources au service de cette foi. La guerre se prépare dans le monde entier - de quel droit pouvons-nous exiger de nos citoyens qu'ils se battent et meurent pour leur pays s'ils ne font pas confiance à ses dirigeants ?"
-
-#Danish Patriotism
-DEN_danish_patriotism:0 "Patriotisme danois"
-DEN_danish_patriotism_desc:0 "Le Danemark est un petit pays avec une petite population - et chaque homme, femme et enfant est fier d'elle. Si nous faisons appel à ce fier esprit national de patriotisme, nous pouvons certainement convaincre le peuple de nous aider à travailler pour protéger notre nation et notre foyer."
-
-####COMMUNIST SECTION####
-
-#Empower The Workers
-DEN_empower_the_workers:0 "Soutenir les travailleurs"
-DEN_empower_the_workers_desc:0 "La façade du « socialisme » démocratique est un mensonge que le gouvernement aime raconter. Le communisme se développe en Europe non seulement comme système économique, mais aussi comme mode de vie. La voie à suivre réside dans le pouvoir massif du travailleur commun."
-
-#Workers Rallies
-DEN_workers_rallies:0 "Rassemblements ouvriers"
-DEN_workers_rallies_desc:0 "Nous avons dit aux gens qu'il y avait une autre solution, mais jusqu'à présent, nous n'avons pas eu la liberté de faire passer le message dans la rue. La seule bonne voix est celle du peuple, et nous allons la faire entendre au Danemark."
-
-#The Danish Struggle
-DEN_the_danish_struggle:0 "La lutte danoise"
-DEN_the_danish_struggle_desc:0 "La vision du communisme est peut-être issue de l'Union soviétique, mais nous avons notre propre vision de notre propre avenir en tant que peuple. Le Danemark peut et va prendre soin des siens, maintenant que nous sommes sur la bonne voie."
-
-#The International Struggle
-DEN_the_international_struggle:0 "La lutte internationale"
-DEN_the_international_struggle_desc:0 "La lutte du travailleur ne connaît ni frontières ni nationalités. L'Internationale communiste est une initiative admirable, et chaque travailleur danois sera fier d'avoir la chance d'y participer. Prolétaires de tous les pays, unissez-vous !"
-
-#Socialist Propaganda
-DEN_socialist_propoganda:0 "Propagande socialiste"
-DEN_socialist_propoganda_desc:0 "Émerger maintenant est le message que le peuple n'a pas besoin d'avoir peur d'un gouvernement ou d'un pouvoir militaire. Nous prendrons en main notre propre destin, et notre pays se tiendra derrière lui non pas comme une entité dirigeante stérile, mais comme un peuple uni."
-
-#Establish The Commissariat School
-DEN_establish_the_commissariat_school:0 "Créer l'école du Commissariat"
-DEN_establish_the_commissariat_school_desc:0 "Les militaires rendaient compte au gouvernement, mais sous l'idéal communiste, l'armée, le gouvernement et le peuple ne font qu'un. Nous devons commencer à former les élus politiques à des rôles militaires afin de garantir que nos peuples travaillent ensemble comme un tout."
-
-#All For Denmark
-DEN_all_for_denmark:0 "Tout pour le Danemark"
-DEN_all_for_denmark_desc:0 "Il est regrettable que le peuple danois doive se défendre contre ceux qui voudraient détruire notre nouveau mode de vie, mais c'est la réalité. Si nous voulons être vraiment en sécurité, chaque citoyen doit savoir comment prendre les armes et défendre sa maison."
- 
-#Remove The False Tyrant
-DEN_remove_the_false_tyrant:0 "Éliminer le faux tyran"
-DEN_remove_the_false_tyrant_desc:0 "Trotsky a raison - le communisme stalinien n'est rien d'autre qu'un mécanisme destiné à camoufler l'oppression de la classe ouvrière. La souffrance du peuple soviétique ne nous est pas inconnue. Il n'y a pas de meilleur moment que maintenant pour apporter la libération à nos voisins."
-
-#The Revolution Spreads To Sweden
-DEN_the_revolution_spreads_sweden:0 "La révolution suédoise"
-DEN_the_revolution_spreads_sweden_desc:0 "Bien qu'elle soit apparemment une démocratie, la Suède a toujours refusé d'écouter la volonté de son propre peuple. Il semble que les Danois doivent montrer l'exemple pour entrer dans l'âge d'or du travailleur."
-
-#Swedish Brotherhood
-DEN_swedish_brotherhood:0 "Fraternité suédoise"
-DEN_swedish_brotherhood_desc:0 "Le peuple suédois en est venu à soutenir le communisme avec une ferveur admirable - c'est le moment idéal pour le rallier à la cause des travailleurs."
-
-#The Revolution Spreads To Norway
-DEN_the_revolution_spreads_norway:0 "La révolution norvégienne"
-DEN_the_revolution_spreads_norway_desc:0 "La Norvège est une grande nation, avec un peuple fort et honnête. Ces gens méritent d'entendre ce que le gouvernement leur a caché - il existe un autre mode de vie que l'esclavage du capitalisme."
-
-#Norwegian Brotherhood
-DEN_norwegian_brotherhood:0 "Fraternité norvégienne"
-DEN_norwegian_brotherhood_desc:0 "Le peuple norvégien a adopté le communisme comme mode de vie national - le moment est certainement venu pour lui de nous rejoindre dans la coopération."
-
-#Destroy The Swedish Bourgoisie
-DEN_destroy_the_swedish_bourgoisse:0 "Détruire la bourgeoisie suédoise"
-DEN_destroy_the_swedish_bourgoisse_desc:0 "Nous avons essayé de guider le peuple suédois vers l'idéal de vie du travailleur, mais l'élite corrompue de leur gouvernement opprime toujours le travailleur. Nous devons mettre fin à cette atrocité par la force."
-
-#Destroy The Norwegian Bourgoisie
-DEN_destroy_the_norwegian_bourgoisse:0 "Détruire la bourgeoisie norvégienne"
-DEN_destroy_the_norwegian_bourgoisse_desc:0 "La démocratie dite éclairée du peuple norvégien est un piège dont sa population active semble incapable de se libérer. Nous devons leur tendre la main, même si cela implique une guerre avec leur gouvernement oppressif."
-
-#Red Winter
-DEN_red_winter:0 "L'hiver rouge"
-DEN_red_winter_desc:0 "La Finlande a longtemps résisté à la révolution communiste, simplement parce que les Soviétiques sont intimidants comme voisins. Le travailleur finlandais peut et doit s'élever avec toute la Scandinavie. Nous les parrainerons pour qu'ils prennent le contrôle de leur propre destin !"
-
-#Break The Finnish Resistance
-DEN_break_the_finnish_resistance:0 "Briser la résistance finlandaise"
-DEN_break_the_finnish_resistance_desc:0 "Les Finlandais ont eu toutes les chances d'écouter la voix de la raison et de libérer leur peuple. Le temps est venu de montrer notre soutien aux travailleurs qui se sont soulevés - un soutien militaire."
-
-#Finnish Brotherhood
-DEN_finnish_brotherhood:0 "Fraternité finlandaise"
-DEN_finnish_brotherhood_desc:0 "Malgré leur haine et leur crainte du communisme, les Finlandais ont plus peur de l'ours soviétique que de l'idéal qu'ils représentent. Nous ne sommes pas nous-mêmes amis des Soviétiques - et nous pouvons offrir une voie plus douce à la libération de leurs travailleurs."
-
-#Enemy Of The People
-DEN_enemy_of_the_people:0 "Ennemi du peuple"
-DEN_enemy_of_the_people_desc:0 "Adolf Hitler est l'archétype d'un chef suprême oppressif, qui pousse son peuple à conquérir en son nom propre et à donner sa vie pour rien d'autre qu'un impérialisme tordu. S'il y a un pays que nous devons libérer pour la révolution, c'est bien l'Allemagne."
-
-#Strike First
-DEN_strike_first:0 "Frapper en premier"
-DEN_strike_first_desc:0 "Les politiques colonialistes du Royaume-Uni n'ont pas leur place dans l'avenir des travailleurs que nous essayons de créer. Ils utiliseront sans doute notre État éclairé comme excuse pour essayer de faire de nous des marionnettes - à moins que nous ne les atteignions d'abord."
-
-#Support The French Workers
-DEN_support_the_french_workers:0 "Soutenir les travailleurs français"
-DEN_support_the_french_workers_desc:0 "Le soutien aux communistes en France est écrasant, et il suffirait d'un petit geste de solidarité pour inciter les travailleurs de leur nation à se libérer. Nous fournirons cette petite poussée."
-
-#Free The French Workers
-DEN_free_the_french_workers:0 "Libérer les travailleurs français"
-DEN_free_the_french_workers_desc:0 ""
-
-DEN_unite_scandinavia:0 "Unifier la Scandinavie"
-DEN_unite_scandinavia_desc:0 "Avec les vastes territoires de Scandinavie sous notre domination directe et un contrôle minutieux de [DEN.getLeader], le rêve de réaliser un État unitaire du Nord peut être proclamé comme un rêve désiré ou une réalité effrayante. Tout dépend du point de vue de certains groupes de personnes."
- 
- ### DANISH SECTION ###
- 
- DEN_kalmar_union:0 "Union de Kalmar"
- DEN_kalmar_union_desc:0 "Les peuples du Danemark, de la Norvège et de la Suède sont à nouveau unis. Le monde regarde la Scandanavie avec admiration !"
- 
- DEN_finnish_drill_sergeants:0 "Sergents instructeurs finlandais"
- DEN_finnish_drill_sergeants_desc:0 "Stoïques dans la défense de leur patrie, les Finlandais serviront bien à former nos troupes à leur manière."
- 
- DEN_inspired_population:0 "Population inspirée"
- DEN_inspired_population_desc:0 "Inspirés par les discours des victoires passées et l'héroïsme, les jeunes hommes du Danemark affluent maintenant vers nos militaires pour faire eux-mêmes partie de l'histoire."
-
- DEN_german_tech:0 "Coopération technologique allemande"
- DEN_german_tech_desc:0 "L'Allemagne nous fournit gracieusement des plans pour ses merveilles technologiques."
- DEN_german_tech_tt:0 "Permet des modèles allemands."
- 
- DEN_soviet_tech:0 "Coopération technologique soviétique"
- DEN_soviet_tech_desc:0 "L'Union soviétique nous fournit gracieusement des plans pour ses merveilles technologiques."
- DEN_soviet_tech_tt:0 "Permet des modèles soviétiques."
- 
- DEN_british_tech:0 "Coopération technologique britannique"
- DEN_british_tech_desc:0 "Le Royaume-Unin nous fournit gracieusement des plans pour ses merveilles technologiques."
- DEN_british_tech_tt:0 "Permet des modèles britanniques."
- 
- ### DANISH REGION
- 
-  denmark.1006.t:0 "Alliance militaire du Danemark"
- denmark.1006.d:0 "Le parti ouvrier socialiste nationaliste danois a pris le pouvoir et nous a officiellement envoyé une demande d'alliance militaire."
- denmark.1006.a:0 "Ensemble, nous serons puissants !"
- denmark.1006.b:0 "L'Allemagne n'a pas besoin de nouveaux alliés"
- 
- news.1006a.t:0 "L'Allemagne a accepté notre alliance"
- news.1006a.d:0 "Après mûre réflexion, le Führer d'Allemagne a accepté notre proposition et a officiellement accepté le Danemark dans l'Axe !"
- news.1006a.a:0 "Personne ne nous arrêtera !"
- 
- news.1006b.t:0 "L'Allemagne a refusé notre alliance"
- news.1006b.d:0 "Après mûre réflexion, le Führer d'Allemagne a rejeté notre proposition d'alliance !"
- news.1006b.a:0 "Ils le regretteront !"
- 
- denmark.1010.t:0 "Fusion avec le Danemark"
- denmark.1010.d:0 "Le Parti des travailleurs socialistes nationalistes danois a pris le pouvoir et nous a officiellement envoyé une demande de fusion gouvernementale."
- denmark.1010.a:0 "Ensemble, nous serons puissants !"
- denmark.1010.b:0 "La Suède ne deviendra pas esclave !"
- 
- news.1010a.t:0 "La Suède a accepté notre alliance"
- news.1010a.d:0 "Mettant de côté nos différences historiques, le gouvernement suédois a fusionné avec le nôtre. Nous avons maintenant le contrôle total sur leur pays !"
- news.1010a.a:0 "Personne ne nous arrêtera !"
- 
- news.1010b.t:0 "La Suède a refusé notre alliance"
- news.1010b.d:0 "Après mûre réflexion, le gouvernement suédois a rejeté notre proposition d'alliance !"
- news.1010b.a:0 "Ils le regretteront !"
- 
- denmark.1007.t:0 "Fusion avec le Danemark"
- denmark.1007.d:0 "Le Parti des travailleurs socialistes nationalistes danois a pris le pouvoir et nous a officiellement envoyé une demande de fusion gouvernementale."
- denmark.1007.a:0 "Ensemble, nous serons puissants !"
- denmark.1007.b:0 "La Norvège ne deviendra pas esclave !"
- 
- news.1007a.t:0 "La Norvège a accepté notre alliance"
- news.1007a.d:0 "Sachant que nos deux pays seraient beaucoup plus puissants ensemble, le gouvernement norvégien a fusionné avec le nôtre. Nous avons maintenant le contrôle total sur leur pays !"
- news.1007a.a:0 "Personne ne nous arrêtera !"
- 
- news.1007b.t:0 "La Norvège a refusé notre alliance"
- news.1007b.d:0 "Après mûre réflexion, le gouvernement norvégien a rejeté notre proposition d'alliance !"
- news.1007b.a:0 "Ils le regretteront !"
- 
- denmark.1003.t:0 "Fusion avec le Danemark"
- denmark.1003.d:0 "Le Parti des travailleurs socialistes nationalistes danois a pris le pouvoir et nous a officiellement envoyé une demande de fusion gouvernementale."
- denmark.1003.a:0 "Ensemble, nous serons puissants !"
- denmark.1003.b:0 "La Finlande peut se débrouiller toute seule !"
- 
- news.1003a.t:0 "La Finlande a accepté notre alliance"
- news.1003a.d:0 "Afin de mieux repousser une invasion soviétique, le gouvernement finlandais a fusionné avec le nôtre. Nous avons maintenant le contrôle total sur leur pays !"
- news.1003a.a:0 "Personne ne nous arrêtera !"
- 
- news.1003b.t:0 "La Finlande a refusé notre alliance"
- news.1003b.d:0 "Ne voulant pas participer à une autre guerre, le gouvernement finlandais a rejeté notre proposition d'alliance !"
- news.1003b.a:0 "Ils le regretteront !"
- 
- denmark.1005.t:0 "Invitation du Danemark"
- denmark.1005.d:0 "Le parti ouvrier socialiste nationaliste danois a pris le pouvoir et nous a officiellement envoyé une demande d'alliance militaire."
- denmark.1005.a:0 "Ensemble, nous serons puissants !"
- denmark.1005.b:0 "La France peut se débrouiller toute seule !"
- 
- news.1005a.t:0 "La France a accepté notre alliance"
- news.1005a.d:0 "Unis contre l'Ouest et l'Est corrompus, le gouvernement français a accepté notre proposition d'alliance !"
- news.1005a.a:0 "Personne ne nous arrêtera !"
- 
- news.1005b.t:0 "La France a refusé notre alliance"
- news.1005b.d:0 "Ne voulant pas participer à notre nouvel ordre mondial, le gouvernement français a rejeté notre proposition d'alliance !"
- news.1005b.a:0 "Ils le regretteront !"
- 
- denmark.1001.t:0 "Invitation du Danemark"
- denmark.1001.d:0 "Le parti ouvrier socialiste nationaliste danois a pris le pouvoir et nous a officiellement envoyé une demande d'alliance militaire."
- denmark.1001.a:0 "Ensemble, nous serons puissants !"
- denmark.1001.b:0 "Le Roaume-Uni peut se débrouiller tout seul !"
- 
- news.1001a.t:0 "Le Royaume-Uni a accepté notre alliance"
- news.1001a.d:0 "Unis contre les corrompus de l'Ouest et de l'Est, le gouvernement britannique a accepté notre proposition d'alliance !"
- news.1001a.a:0 "Personne ne nous arrêtera !"
- 
- news.1001b.t:0 "Le Royaume-Uni a rejeté notre alliance"
- news.1001b.d:0 "Ne voulant pas prendre part à notre nouvel ordre mondial, le gouvernement britannique a rejeté notre proposition d'alliance !"
- news.1001b.a:0 "Ils le regretteront !"
- 
- denmark.1002.t:0 "Alliance militaire avec le Danemark"
- denmark.1002.d:0 "Le gouvernement danois a demandé à se joindre à notre faction, ce qui nous donnerait un terrain d'entente dans le nord de l'Europe."
- denmark.1002.a:0 "Le monde libre deviendra de plus en plus fort !"
- denmark.1002.b:0 "Le Royaume-Uni n'a pas besoin de nouveaux alliés"
- 
- news.1002a.t:0 "Le Royaume-Uni a accepté notre alliance"
- news.1002a.d:0 "Après mûre réflexion, le Parlement britannique nous a acceptés dans les rangs des Alliés !"
- news.1002a.a:0 "La démocratie et la liberté ne faibliront jamais !"
- 
- news.1002b.t:0 "Le Royaume-Uni a rejeté notre alliance"
- news.1002b.d:0 "Après un examen approfondi, le Parlement britannique a rejeté notre proposition d'alliance."
- news.1002b.a:0 "Le Danemark se débrouillera donc tout seul"
- 
- denmark.1009.t:0 "Alliance militaire avec le Danemark"
- denmark.1009.d:0 "Le parti communiste danois a pris le pouvoir et nous a officiellement envoyé une proposition d'alliance."
- denmark.1009.a:0 "Ensemble, nous serons puissants"
- denmark.1009.b:0 "The Soviet Union has no need for more allies"
- 
- news.1009a.t:0 "The Soviet Union has accepted our alliance"
- news.1009a.d:0 "After careful consideration, the Communist Party of The Soviet Union has accepted our proposal and has formally accepted Denmark into the Comintern!"
- news.1009a.a:0 "Personne ne nous arrêtera !"
- 
- news.1009b.t:0 "The Soviet Union has denied our alliance"
- news.1009b.d:0 "After careful consideration, the Communist Party of The Soviet Union has denied our proposal for an alliance!"
- news.1009b.a:0 "Ils le regretteront !"
- 
- denmark.1011.t:0 "Alliance militaire avec le Danemark"
- denmark.1011.d:0 "Le parti communiste danois a pris le pouvoir et nous a officiellement envoyé une proposition d'alliance."
- denmark.1011.a:0 "Ensemble, nous serons puissants"
- denmark.1011.b:0 "La Suède n'a pas besoin de nouveaux alliés"
- 
- news.1011csa.t:0 "La Suède a accepté notre alliance"
- news.1011csa.d:0 "Après mûre réflexion, le Parti communiste suédois a accepté notre proposition et a formellement accepté notre alliance militaire !"
- news.1011csa.a:0 "Personne ne nous arrêtera !"
- 
- news.1011csb.t:0 "La Suède a refusé notre alliance"
- news.1011csb.d:0 "Après mûre réflexion, le Parti communiste suédois a rejeté notre proposition d'alliance !"
- news.1011csb.a:0 "Ils le regretteront !"
- 
- denmark.1008.t:0 "Alliance militaire avec le Danemark"
- denmark.1008.d:0 "Le parti communiste danois a pris le pouvoir et nous a officiellement envoyé une proposition d'alliance."
- denmark.1008.a:0 "Ensemble, nous serons puissants"
- denmark.1008.b:0 "La Norvège n'a pas besoin de nouveaux alliés"
- 
- news.1008cna.t:0 "La Norvège a accepté notre alliance"
- news.1008cna.d:0 "Après mûre réflexion, le Parti communiste norvégien a accepté notre proposition et a formellement accepté notre alliance militaire !"
- news.1008cna.a:0 "Personne ne nous arrêtera !"
- 
- news.1008cnb.t:0 "La Norvège a refusé notre alliance"
- news.1008cnb.d:0 "Après mûre réflexion, le Parti communiste norvégien a rejeté notre proposition d'alliance !"
- news.1008cnb.a:0 "Ils le regretteront !"
- 
- denmark.1004.t:0 "Alliance militaire avec le Danemark"
- denmark.1004.d:0 "Le parti communiste danois a pris le pouvoir et nous a officiellement envoyé une proposition d'alliance."
- denmark.1004.a:0 "Ensemble, nous serons puissants"
- denmark.1004.b:0 "La Finlande n'a pas besoin de nouveaux alliés"
- 
- news.1004cfa.t:0 "La Finlande a accepté notre alliance"
- news.1004cfa.d:0 "Après mûre réflexion, le Parti communiste finlandais a accepté notre proposition et a formellement accepté notre alliance militaire !"
- news.1004cfa.a:0 "Personne ne nous arrêtera !"
- 
- news.1004cfb.t:0 "La Finlande a refusé notre alliance"
- news.1004cfb.d:0 "Après mûre réflexion, le Parti communiste finlandais a rejeté notre proposition d'alliance !"
- news.1004cfb.a:0 "Ils le regretteront !"
-
- denmark.1101.t:0 "Modèle reçu : Panzer III"
- denmark.1101.d:0 "Nous venons de recevoir un modèle pour le char moyen Panzerkampfwagen III de nos partenaires allemands."
- denmark.1101.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1101.a.tt:0 "Vous recevrez une variante améliorée du §Ychar moyen Panzer III§!"
- 
- denmark.1102.t:0 "Modèle reçu : Panzer IV"
- denmark.1102.d:0 "Nous venons de recevoir un modèle pour le char moyen Panzerkampfwagen IV de nos partenaires allemands."
- denmark.1102.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1102.a.tt:0 "Vous recevrez une variante améliorée du §Ychar moyen Panzer IV§!"
- 
- denmark.1103.t:0 "Modèle reçu : Panzer V Panther"
- denmark.1103.d:0 "Nous venons de recevoir un modèle pour le char moyen Panzerkampfwagen V de nos partenaires allemands."
- denmark.1103.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1103.a.tt:0 "Vous recevrez une variante améliorée du §Ychar moyen Panzer V Panther§!"
- 
- denmark.1104.t:0 "Modèle reçu : Panzer I"
- denmark.1104.d:0 "Nous venons de recevoir un modèle pour le char léger Panzerkampfwagen I de nos partenaires allemands."
- denmark.1104.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1104.a.tt:0 "Vous recevrez une variante améliorée du §Ychar léger Panzer I§!"
- 
- denmark.1105.t:0 "Modèle reçu : Panzer II"
- denmark.1105.d:0 "Nous venons de recevoir un modèle pour le char léger Panzerkampfwagen II de nos partenaires allemands."
- denmark.1105.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1105.a.tt:0 "Vous recevrez une variante améliorée du §Ychar léger Panzer II§!"
- 
- denmark.1106.t:0 "Modèle reçu : Leopard"
- denmark.1106.d:0 "Nous venons de recevoir un modèle pour le char léger Panzerkampfwagen 1602 Leopard de nos partenaires allemands."
- denmark.1106.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1106.a.tt:0 "Vous recevrez une variante améliorée du §Ychar léger Leopard§!"
- 
- denmark.1107.t:0 "Modèle reçu : Grosstraktor"
- denmark.1107.d:0 "Nous venons de recevoir un modèle pour le char lourd Grosstraktor de nos partenaires allemands."
- denmark.1107.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1107.a.tt:0 "Vous recevrez une variante améliorée du §Ychar lourd Grosstraktor§!"
- 
- denmark.1108.t:0 "Modèle reçu : Tiger I"
- denmark.1108.d:0 "Nous venons de recevoir un modèle pour le char lourd Panzerkampfwagen VI Tiger I de nos partenaires allemands."
- denmark.1108.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1108.a.tt:0 "Vous recevrez une variante améliorée du §Ychar lourd Panzer VI Tiger I§!"
- 
- denmark.1109.t:0 "Modèle reçu : Tiger II"
- denmark.1109.d:0 "Nous venons de recevoir un modèle pour le char lourd Panzerkampfwagen VI Ausf.b Tiger II de nos partenaires allemands."
- denmark.1109.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1109.a.tt:0 "Vous recevrez une variante améliorée du §Ychar lourd Panzer VI Ausf.b Tiger II§!"
- 
- denmark.1110.t:0 "Modèle reçu : Maus"
- denmark.1110.d:0 "Nous venons de recevoir un modèle pour le char super-lourd Panzerkampfwagen VIII Maus de nos partenaires allemands."
- denmark.1110.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1110.a.tt:0 "Vous recevrez une variante améliorée du §Ychar super-lourd Panzer VIII Maus§!"
- 
- denmark.1111.t:0 "Modèle reçu : E-50"
- denmark.1111.d:0 "Nous venons de recevoir un modèle pour le char moderne E-50 de nos partenaires allemands."
- denmark.1111.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1111.a.tt:0 "Vous recevrez une variante améliorée du §Ychar moderne E-50§!"
- 
- denmark.1112.t:0 "L'Allemagne a révoqué notre coopération technologique"
- denmark.1112.d:0 "L'Allemagne ne souhaite plus partager ses modèles avec nous, et a retiré tous les conseillers de notre pays."
- denmark.1112.a:0 "Nous utiliserons leurs propres modèles contre eux !"
- 
- denmark.1113.t:0 "Modèle reçu : Vickers II"
- denmark.1113.d:0 "Nous venons de recevoir un modèle pour le char léger Vickers II de nos partenaires britanniques."
- denmark.1113.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1113.a.tt:0 "Vous recevrez une variante améliorée du §Ychar léger Vickers II§!"
- 
- denmark.1114.t:0 "Modèle reçu : Matilda"
- denmark.1114.d:0 "Nous venons de recevoir un modèle pour le char léger Matilda de nos partenaires britanniques."
- denmark.1114.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1114.a.tt:0 "Vous recevrez une variante améliorée du §Ychar léger Matilda§!"
- 
- denmark.1115.t:0 "Modèle reçu : Valentine"
- denmark.1115.d:0 "Nous venons de recevoir un modèle pour le char léger Valentine de nos partenaires britanniques."
- denmark.1115.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1115.a.tt:0 "Vous recevrez une variante améliorée du §Ychar léger Valentine§!"
- 
- denmark.1116.t:0 "Modèle reçu : Crusader"
- denmark.1116.d:0 "Nous venons de recevoir un modèle pour le char moyen Crusader de nos partenaires britanniques."
- denmark.1116.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1116.a.tt:0 "Vous recevrez une variante améliorée du §Ychar moyen Crusader§!"
- 
- denmark.1117.t:0 "Modèle reçu : Cromwell"
- denmark.1117.d:0 "Nous venons de recevoir un modèle pour le char moyen Cromwell de nos partenaires britanniques."
- denmark.1117.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1117.a.tt:0 "Vous recevrez une variante améliorée du §Ychar moyen Cromwell§!"
- 
- denmark.1118.t:0 "Modèle reçu : Comet"
- denmark.1118.d:0 "Nous venons de recevoir un modèle pour le char moyen Comet de nos partenaires britanniques."
- denmark.1118.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1118.a.tt:0 "Vous recevrez une variante améliorée du §Ychar moyen Comet§!"
- 
- denmark.1119.t:0 "Modèle reçu : Vickers A1E1 Independent"
- denmark.1119.d:0 "Nous venons de recevoir un modèle pour le char lourd Vickers A1E1 Independent de nos partenaires britanniques."
- denmark.1119.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1119.a.tt:0 "Vous recevrez une variante améliorée du §Ychar lourd Vickers A1E1 Independent§!"
- 
- denmark.1120.t:0 "Modèle reçu : Churchill"
- denmark.1120.d:0 "Nous venons de recevoir un modèle pour le char lourd Churchill de nos partenaires britanniques."
- denmark.1120.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1120.a.tt:0 "Vous recevrez une variante améliorée du §Ychar lourd Churchill§!"
- 
- denmark.1121.t:0 "Modèle reçu : Black Prince"
- denmark.1121.d:0 "Nous venons de recevoir un modèle pour le char lourd Black Prince de nos partenaires britanniques."
- denmark.1121.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1121.a.tt:0 "Vous recevrez une variante améliorée du §Ychar lourd Black Prince§!"
- 
- denmark.1122.t:0 "Modèle reçu : Tortoise"
- denmark.1122.d:0 "Nous venons de recevoir un modèle pour le char super-lourd Tortoise de nos partenaires britanniques."
- denmark.1122.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1122.a.tt:0 "Vous recevrez une variante améliorée du §Ychar super-lourd Tortoise§!"
- 
- denmark.1123.t:0 "Modèle reçu : Centurion"
- denmark.1123.d:0 "Nous venons de recevoir un modèle pour le char moderne Centurion de nos partenaires britanniques."
- denmark.1123.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1123.a.tt:0 "Vous recevrez une variante améliorée du §Ychar moderne Centurion§!"
- 
- denmark.1124.t:0 "Le Royaume-Uni a révoqué notre coopération technologique"
- denmark.1124.d:0 "Le Royaume-Uni ne souhaite plus partager ses modèles avec nous, et a retiré tous les conseillers de notre pays."
- denmark.1124.a:0 "Nous utiliserons leurs propres modèles contre eux !"
- 
- denmark.1125.t:0 "Modèle reçu : T-26"
- denmark.1125.d:0 "Nous venons de recevoir un modèle pour le char léger T-26 de nos partenaires soviétiques."
- denmark.1125.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1125.a.tt:0 "Vous recevrez une variante améliorée du §Ychar léger T-26§!"
- 
- denmark.1126.t:0 "Modèle reçu : BT-7"
- denmark.1126.d:0 "Nous venons de recevoir un modèle pour le char léger BT-7 de nos partenaires soviétiques."
- denmark.1126.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1126.a.tt:0 "Vous recevrez une variante améliorée du §Ychar léger BT-7§!"
- 
- denmark.1127.t:0 "Modèle reçu : T-60"
- denmark.1127.d:0 "Nous venons de recevoir un modèle pour le char léger T-60 de nos partenaires soviétiques."
- denmark.1127.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1127.a.tt:0 "Vous recevrez une variante améliorée du §Ychar léger T-60§!"
- 
- denmark.1128.t:0 "Modèle reçu : A-32"
- denmark.1128.d:0 "Nous venons de recevoir un modèle pour le char moyen A-32 de nos partenaires soviétiques."
- denmark.1128.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1128.a.tt:0 "Vous recevrez une variante améliorée du §Ychar moyen A-32§!"
- 
- denmark.1129.t:0 "Modèle reçu : T-34"
- denmark.1129.d:0 "Nous venons de recevoir un modèle pour le char moyen T-34 de nos partenaires soviétiques."
- denmark.1129.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1129.a.tt:0 "Vous recevrez une variante améliorée du §Ychar moyen T-34§!"
- 
- denmark.1130.t:0 "Modèle reçu : T-44"
- denmark.1130.d:0 "Nous venons de recevoir un modèle pour le char moyen T-44 de nos partenaires soviétiques."
- denmark.1130.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1130.a.tt:0 "Vous recevrez une variante améliorée du §Ychar moyen T-44§!"
- 
- denmark.1131.t:0 "Modèle reçu : T-35"
- denmark.1131.d:0 "Nous venons de recevoir un modèle pour le char lourd T-35 de nos partenaires soviétiques."
- denmark.1131.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1131.a.tt:0 "Vous recevrez une variante améliorée du §Ychar lourd T-35§!"
- 
- denmark.1132.t:0 "Modèle reçu : KV-1"
- denmark.1132.d:0 "Nous venons de recevoir un modèle pour le char lourd KV-1 de nos partenaires soviétiques."
- denmark.1132.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1132.a.tt:0 "Vous recevrez une variante améliorée du §Ychar lourd KV-1§!"
- 
- denmark.1133.t:0 "Modèle reçu : IS-1"
- denmark.1133.d:0 "Nous venons de recevoir un modèle pour le char lourd IS-1 de nos partenaires soviétiques."
- denmark.1133.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1133.a.tt:0 "Vous recevrez une variante améliorée du §Ychar lourd IS-1§!"
- 
- denmark.1134.t:0 "Modèle reçu : IS-7"
- denmark.1134.d:0 "Nous venons de recevoir un modèle pour le char super-lourd IS-7 de nos partenaires soviétiques."
- denmark.1134.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1134.a.tt:0 "Vous recevrez une variante améliorée du §Ychar super-lourd IS-7§!"
- 
- denmark.1135.t:0 "Modèle reçu : T-54"
- denmark.1135.d:0 "Nous venons de recevoir un modèle pour le char moyen T-54 de nos partenaires soviétiques."
- denmark.1135.a:0 "Excellent, mettez-les en production immédiatement !"
- denmark.1135.a.tt:0 "Vous recevrez une variante améliorée du §Ychar moyen T-54§!"
- 
- denmark.1136.t:0 "L'Union soviétique a révoqué notre coopération technologique"
- denmark.1136.d:0 "L'Union soviétique ne souhaite plus partager ses modèles avec nous, et a retiré tous les conseillers de notre pays."
- denmark.1136.a:0 "Nous utiliserons leurs propres modèles contre eux !"
+﻿l_english:
+
+
+#Ideas
+
+ab_landsverk_denmark:0 "Ab Landsverk Danmark"
+royal_army_aircraft_factory:0 "Royal Army Aircraft Factory"
+orlogsvaerftet:0 "Orlogsværftet"
+bang_olufsen:0 "Bang & Olufsen"
+danske_statsbaner:0 "Danske Statsbaner"
+FLSmidth:0 "FLSmidth"
+Krupp_Denmark:0 "Krupp Dänemark"
+porsche_denmark:0 "Porsche Dänemark"
+disa:2 "Dansk Industri Syndikat"
+DEN_Peter_Munch:0 "Peter Munch"
+den_randomized_names_test:0 "§RPLACEHOLDER LOC§!"
+den_danelaw_party_name:0 "Danelaw Council"
+den_danelaw_long_party_name:0 "Danelaw Council of the Five Boroughs"
+den_denied_scandinavia:0 "Denied Scandinavian Plan"
+
+DEN_stagnant_economy:0 "Stagnant Economy"
+DEN_stagnant_economy_desc:0 "The great depression has not ravaged this country as it has others, but it has stopped the economic growth of the 20s."
+DEN_King_Christian_X:0 "King Christian X"
+DEN_King_Christian_X_desc:0 "Since the Easter Crisis of 1920, King Christian X has been a controversial figure in Danish politics, though this does not stop him from symbolizing national pride if war is to come."
+den_revolutionary_zeal_0:0 "Revolutionary Zeal"
+den_revolutionary_zeal_1:0 "Post-Revolutionary Zeal"
+den_comintern_support:0 "Comintern Support"
+den_socialist_volunteers:0 "Received Socialist Volunteers"
+den_armor_designs:0 "Armor Technology Exchange"
+den_sov_trade_agreement:0 "Dano-[SOV.GetAdjective] Trade Agreement"
+den_dano_soviet_trade:0 "Dano-[SOV.GetAdjective] Trade Agreement"
+den_munch_ribbentrop:0 "Munch-Ribbentrop Pact"
+den_munch_ribbentrop_pakt:0 "Munch-Ribbentrop Pakt"
+ger_claimed_schleswig:0 "Claimed Schleswig-Holstein"
+den_international_volunteers_idea:0 "International Volunteers"
+den_international_theorists_idea:0 "International Theorists"
+den_an_army_of_peoples_idea:0 "An Army of Peoples"
+DEN_consoldiating_society:0 "Consolidating Society"
+den_secure_military:0 "A Loyal Army"
+den_italian_advisors:0 "[ITA.GetAdjective] Advisors"
+den_german_advisors:0 "[GER.GetAdjective] Advisors"
+den_german_economic_collaboration:0 "[GER.GetAdjective] Economic Collaboration"
+danish_neutrality:0 "[DEN.GetAdjective] Neutrality"
+den_forced_industrialization:0 "Forced Industrialization"
+den_artisan_production:0 "Artisan Production"
+den_gosplan_planners:0 "Gosplan Planners"
+den_peasent_support:0 "Peasant Support"
+nordic_council_member:0 "Nordic Council Member"
+nordic_unified_defence_plan:0 "Nordic United Defence Plan"
+den_swe_planning_bonus:0 "War Planning against Sweden"
+den_danish_advisors:0 "[DEN.GetAdjective] Advisors"
+den_norwegian_stability:0 "Stabilize Norway"
+den_motorization_of_the_army:0 "Motorization of the Army"
+den_restructure_army_command:0 "Joint Military Command"
+den_danish_air_command:0 "The Combined Army Command"
+den_operational_command:0 "[DEN.GetAdjective] Operational Command"
+den_fighter_production:0 "Fighter Production"
+den_german_funding:0 "[GER.GetAdjective] Funding for the DNSAP"
+den_never_a_battle_of_copenhagen:0 "[DEN.GetAdjective] Naval Pride"
+DEN_Tax_Reductions:0 "Tax Reductions"
+DEN_Deregulated_Banking:0 "Deregulated Banking"
+den_workplace_discipline:0 "Workplace Discipline"
+den_fight_for_denmark_idea:0 "Fight for Denmark"
+den_danish_officer_corp:0 "Fight for Denmark"
+den_social_nationalism_idea:0 "Social Nationalism"
+den_anti_communist_attacks:0 "Anti Communist Attacks"
+den_containement:0 "The Shared Burden of Containment"
+DEN_social_democratic_policies_4:0 "The [DEN.GetAdjective] Welfare State"
+den_abolish_unions:0 "Abolish the Unions"
+den_restrict_unions:0 "Restrict the Unions"
+den_sa_recruitment:0 "Storm Afdeling Recruitment"
+north_sea_trade_membership:0 "North Sea Trade Agreement"
+nordic_customs_union_membership:0 "Nordic Customs Union"
+den_baltic_trade:0 "Baltic Trade"
+den_anti_communist_attacks:0 "Anti-Communist Attacks"
+
+den_started_soc:0 "Has started focus §YStrengthen the Labour Unions§!"
+den_started_con:0 "Has started focus §YInitiate Economic Reforms§!"
+
+den_schleswig_claim_tt:0 "Upon the fascist takeover, we will gain a core on Schleswig-Holstein."
+den_is_nordic_tt:0 "Is §YNordic§!"
+den_danelaw_tt:0 "§YThe Danelaw Confederacy§! will be released as an integrated puppet."
+den_christian_field_marshall_tt:0 "Recruits §YChristian X§! as a field marshal."
+den_frederik_recruit_tt:0 "Recruit §YChristian Frederik von Schalburg§!."
+#Scripted Loc
+DEN_army_localisation_cap:0 "Free Danish Army"
+DEN_army_localisation_com:0 "People's Guard"
+DEN_army_localisation_gen:0 "Danish Army"
+DEN_army_localisation_royal:0 "Royal Army"
+
+DEN_navy_localisation_cap:0 "Free Danish Navy"
+DEN_navy_localisation_com:0 "Danish Red Navy"
+DEN_navy_localisation_gen:0 "Danish Navy"
+DEN_navy_localisation_royal:0 "Royal Navy"
+
+DEN_air_localisation_cap:0 "Free Danish Air Force"
+DEN_air_localisation_com:0 "Danish People's Air Force"
+DEN_air_localisation_gen:0 "Danish Airforce"
+DEN_air_localisation_royal:0 "Royal Airforce"
+
+DEN_Fighter_Cooperation_specified:0 "Dano-[?fighter_target.GetAdjective] Fighter Cooperation"
+DEN_Fighter_Cooperation_fasc:0 "Dano-[GER.GetAdjective] Fighter Cooperation"
+DEN_Fighter_Cooperation_dem:0 "Dano-[ENG.GetAdjective] Fighter Cooperation"
+DEN_Fighter_Cooperation_gen:0 "Fighter Cooperation"
+
+#Traits
+den_stauning_or_chaos:0 "Stauning or Chaos"
+POLITICS_THORVALD_STAUNING_DESC:0 "Stauning or Chaos was the electoral motto for the Social Democrats, signifying that a Denmark under anyone else than Stauning would go down in flames."
+
+den_father_of_danish_communism:0 "Father of Danish Communism"
+minister_of_transportation:0 "Minister of Transportation"
+anti_fascist_veteran:0 "Anti-Fascist Veteran"
+den_peace_proponent:0 "Peace Proponent"
+#Decisions
+DEN_GEN_Correspondence:0 "Recent Approachment"
+den_monarch_popularities_tt:0 "More than §Y50%§! support for the DKP and the DNSAP combined."
+den_locked_into_communism_tt:0 "This Decision will §Rlock§! you onto the path of §YCommunism§!."
+den_anti_monarchist_resistance_tt:0 "Communists, Fascists, and Democrats will all militantly resist our efforts to restore order."
+norwegian_government_acceptance_tt:0 "Due to the nature of our government, it will have a §G[?nor_government_odds|0]%§! chance of accepting our absolute rule."
+den_scw_volunteering_tt:0 "Most of these volunteers will return with inspiring stories to tell."
+this_has_same_ideology_as_prev_tt:0 "[THIS.GetNameDef] has the same ideology as [PREV.GetNameDef]."
+den_approach_tt:0 "§Y[THIS.GetNameDefCap]§! will be more likely to militarily support us."
+den_military_research_tt:0 "We have improved the §YNeglected Army§! idea §Y6§! times. (Currently: §Y[?den_military_improved]§!)"
+den_sca_plan_needs_approval_tt:0 "§R[SOV.GetNameDefCap] must approve of the agreement for the bonus to take effect.§!"
+den_is_den_nor_tt:0 "Is §YDenmark-Norway§!"
+DEN_SCA_formed:0 "Scandinavia has been formed"
+political_gridlock_counter:0 "Increased Political Gridlock"
+political_gridlock_counter_desc:0 ""
+den_oligarchy_coup:0 "Pending Oligarchical Takeover"
+den_lower_class_coup:0 "Pending Abolishment of the Kingdom"
+DEN_reconsider_the_status_of_the_straits:0 "Reconsider the status of the Straits"
+straits_laws_changed:0 "We have changed our policy in the last 100 Days"
+DEN_communist_organisation:0 "The Sparks of Revolution"
+den_strengthen_union:0 "This will strengthen the §YUnions§! within the Socialist Movement."
+den_rally_the_light_industrial_workers:0 "§YRally the Light Industrial Workers§!"
+den_rally_the_heavy_industrial_workers:0 "§YRally the Heavy Industrial Workers§!"
+den_rally_the_mining_workers:0 "§YRally the Mining Workers§!"
+
+den_strengthen_party:0 "This will strengthen the §RParty§! within the Socialist Movement."
+den_invite_kpd_partisans:0 "§RInvite KPD Partisans§!"
+den_urban_demonstrations:0 "§RUrban Demonstrations§!"
+den_rally_the_sailors:0 "§RRally the Sailors§!"
+den_rally_college_students:0 "§RRally College Students§!"
+den_encourage_volunteering_in_spain:0 "Encourage Volunteering in Spain"
+den_encourage_volunteering_in_spain_desc:0 "The Spanish Republic is currently fighting a conflict it cannot afford to lose. A broad coalition of Anarchists, Leninists, Socialists, and Democratic Republicans have banded together to defeat the military coup by the nationalists. Spain has also become a melting pot for international soldiers in this conflict, volunteering for the Republican Army to uphold liberty. [DEN.GetNameDefCap] cannot ignore its duty to help the endangered Republic."
+den_support_the_spanish_nationalists:0 "Support the Spanish Nationalists"
+
+den_cancel_coup:0 "The Coup was called off by King Christian"
+den_forceful_resignation:0 "The government has been forced to resign"
+
+den_targeted_land_reform:0 "Land Reform in [FROM.GetName]"
+den_land_reform_tt:0 "Unlocks Decision: §YLand Reform in State§!"
+
+DEN_political_landscape_map:0 "Political Divisions of [DEN.GetNameDef]"
+den_scuttled_tt:0 "This will prevent the §Y[GER.GetAdjective]s§! from aquiring the remainder of our navy in §YDenmark§!."
+
+DEN_political_integration:0 "Political Integration"
+den_integrate_greenland:0 "Integrate Greenland"
+den_integrate_sweden:0 "Form Scandinavia"
+
+den_integrate_norway:0 "Integrate Norway"
+den_integrate_finland:0 "Integrate Finland"
+den_integrate_schleswig:0 "Integrate [58.GetName]"
+DEN_integrating_iceland:0 "Integrating Iceland"
+den_integrate_the_north_sea_islands:0 "Integrate the North Sea Islands"
+den_reestablish_danish_administration:0 "Restablish Danish Administration in [FROM.GetName]"
+
+den_grant_greenland_self_rule:0 "Grant Greeland Self Rule"
+den_promote_greenland_to_a_county:0 "Promote Greenland to a County"
+#Political Violence
+den_generate_violence_2:0 "[den_political_violence_localisation]  [?violence_name]"
+
+DEN_political_violence:0 "Political Violence"
+DEN_political_violence_dkp_tt:0 "Unlocks §YCommunist Political Violence§! Decisions"
+DEN_political_violence_antifa_tt:0 "Unlocks §YAnti-Fascist Political Violence§! Decisions"
+DEN_political_violence_dnsap_tt:0 "Unlocks §YFascist Political Violence§! Decisions"
+DEN_political_violence_gov_tt:0 "Unlocks §YGovernmental Political Violence§! Decisions"
+den_upcoming_political_violence:0 "[den_political_violence_localisation]"
+den_increase_police_presence:0 "Increase Police Presence"
+den_investigate_extremists:0 "Investigate Extremists"
+den_deradicalisation_programs:0 "Deradicalisation Programs"
+den_recruit_additional_blackshirts:0 "Recruit Additional Blackshirts"
+den_draw_upon_the_schleswig_germans:0 "Draw Upon the Schleswig Germans"
+den_raid_dkp_headquarters:0 "Raid DKP Headquarters"
+den_mobilize_the_common_worker:0 "Mobilize the Common Worker"
+den_get_the_unions_involved:0 "Get the Unions Involved"
+den_rural_support:0 "Garner Rural Support"
+den_provoke_the_SA:0 "Provoke the SA"
+den_sabotage_police_efforts:0 "Sabotage Police Efforts"
+den_expand_social_democratic_participation:0 "Expand Social Democratic Participation"
+den_propaganda_efforts:0 "Propaganda Efforts"
+den_encourage_restraint:0 "Encourage Restraint"
+den_political_assassination:0 "Political Assassination"
+den_industrialist_support:0 "Industrialist Support"
+den_invite_select_communist_ministers:0 "Invite Select Communist Ministers"
+political_violence_resolved:0 "Political Violence Resolved"
+
+den_increased_police_tt:0 "This will lead to a slightly higher chance of the police §Ycontaining the situation§! and lower the stability penalty in the [den_political_violence_localisation]."
+den_slightly_increase_stale_tt:0 "This will lead to a slightly higher chance of the police §Ycontaining the situation§!."
+den_slightly_decrease_stale_tt:0 "This will lead to a slightly lower chance of the police §Ycontaining the situation§!."
+den_permantent_increase_stale_tt:0 "This will permanently lead to a higher chance of the police §Ycontaining the situation§!"
+den_additional_blackshirts_tt:0 "This will §Ystrengthen the fascists§! in all future street clashes."
+den_common_worker_tt:0 "This will §Ystrengthen the communists§! in all future street clashes."
+den_af_common_worker_tt:0 "This will §Ystrengthen the anti-fascists§! in all future street clashes."
+den_strengthen_anti_fascists_tt:0 "This will §Yincrease the chances of the anti-fascists§!."
+den_strengthen_communists_tt:0 "This will §Yincrease the chances of the communists§!."
+den_strengthen_fascists_tt:0 "This will §Yincrease the chances of the fascists§!."
+den_significantly_strengthen_fascists_tt:0 "This will §Ysignificantly increase the chances of the fascists§!."
+den_perm_strengthen_fascists_tt:0 "This will §Ypermanently increase the chances of the fascists§!."
+den_slightly_decreases_anti_fascist_tt:0 "This will §Yslightly decrease the chances of the anti-fascists§!."
+den_slightly_decreases_communist_tt:0 "This will §Yslightly decrease the chances of the communists§!."
+den_permanent_decrease_communist_tt:0 "This will §Ydecrease the chances of the communists§! permanently."
+den_slightly_decreases_fascist_tt:0 "This will §Yslightly decrease the chances of the fascists§!."
+den_lower_com_odds_tt:0 "This will §Ylower the chances of the communists§!."
+den_lower_fasc_odds_tt:0 "This will §Ylower the chances of the fascists§!."
+den_higher_stab_tt:0 "This will §Yincrease the consequences§! of a violent result by §R7.50%§! Stability."
+den_slightly_higher_stab_tt:0 "This will §Yincrease the consequences§! of a violent result by §R5.00%§! Stability."
+den_slightly_lower_stab_tt:0 "This will §Ydecrease the consequences§! of a violent result by §G5.00%§! Stability."
+den_political_violence_stability_tooltip:0 "This will increase the consequences of a violent clash by $RIGHT|+3$ Stability."
+den_initiate_violence_tt:0 "All factions will gear up for another showing of political violence."
+den_disable_political_violence_tt:0 "This will §Ypermanently disable§! the §YPolitical Violence§! Decisions."
+
+denmark.50.t:0 "Communist Victory at the [den_political_violence_localisation]"
+denmark.50.d:0 "Through the bloody fighting at the [den_political_violence_localisation] the communists, led by the [DEN.GetCommunistParty], have persevered and, with it, have swung public perception into their favor."
+denmark.50.a:0 "A bloody showing."
+denmark.51.t:0 "Fascist Victory at the [den_political_violence_localisation]"
+denmark.51.d:0 "Through the bloody fighting at the [den_political_violence_localisation] the fascists, led by the [DEN.GetFascistParty], have persevered and, with it, have swung public perception into their favor."
+denmark.51.a:0 "A bloody showing."
+denmark.52.t:0 "Situation Contained at the [den_political_violence_localisation]"
+denmark.52.d:0 "Though the [den_political_violence_localisation] was supposed to be a violent clash, showing the incapability of the [DEN.GetRulingParty] it has failed in doing so, as the police has professionally kept the situation under control, not allowing the radicals to spin this to their advantage."
+denmark.52.a:0 "Contained, for now."
+denmark.53.t:0 "Anti-Fascist Victory at the [den_political_violence_localisation]"
+denmark.53.d:0 "Through the bloody fighting at the [den_political_violence_localisation] the anti-fascist coalition, led by the DKP and the radical faction of the Socialdemokratiet, have persevered and, with it, have swung public perception into their favor."
+denmark.53.a:0 "A bloody showing."
+denmark.54.t:0 "Tensions on the Rise"
+denmark.54.d:0 "Recent rhetoric of the [DEN.GetFascistParty] and the [DEN.GetCommunistParty] has pointed to them planning another clash. The police should be on high alert."
+denmark.54.a:0 "This again."
+
+#Dynamic Modifiers
+r56_german_minority:0 "German Minority"
+r56_german_minority_placated:0 "Placated German Minority"
+r56_german_minority_galvanised:0 "Galvanised German Minority"
+
+r56_social_democrat_elected:0 "Socialdemokratiet Stronghold"
+r56_conservative_elected:0 "Konservative Folkeparti Stronghold"
+r56_communist_elected:0 "Kommunistiske Parti Stronghold"
+
+r56_army_disorginization:0 "Neglected Army"
+
+r56_exploit_occupied:0 "Industrial Exploitation"
+r56_den_sabotaged_frontlines:0 "Sabotaged Frontlines"
+r56_den_sabotaged_frontlines_desc:0 "Vile KPD Partisans have risen and sabotaged our military apparatus in this state."
+#Strata
+DEN_political_landscape:0 "Our Internal Affairs"
+DEN_political_landscape_desc:0 "[DEN_Upper_Enabled][DEN_Middle_Enabled][DEN_Lower_Enabled]"
+
+den_upper_strata_desc:0 "\nThe §YRich Stratas§! loyalty is §Y[?den_upper_loyalty]§!, which is drifting monthly with §Y[?den_upper_diff]§! towards the equilibrium §Y[?den_upper_equilibrium]§!. Their influence is §Y[?den_upper_influence]§!. They grant: \n[DEN.DEN_Upper_Localisation]\n"
+den_middle_strata_desc:0 "\nThe §YMiddle Stratas§! loyalty is §Y[?den_middle_loyalty]§!, which is drifting monthly with §Y[?den_middle_diff]§! towards the equilibrium §Y[?den_middle_equilibrium]§!. Their influence is §Y[?den_middle_influence]§!. They grant: \n[DEN.DEN_Middle_Localisation]\n"
+den_lower_strata_desc:0 "\nThe §YPoor Stratas§! loyalty is §Y[?den_lower_loyalty]§!, which is drifting monthly with §Y[?den_lower_diff]§! towards the equilibrium §Y[?den_lower_equilibrium]§!. Their influence is §Y[?den_lower_influence]§!. They grant: \n[DEN.DEN_Lower_Localisation]\n"
+
+r56_danish_lower_strata:0 "Lower Stratas Influence"
+r56_danish_middle_strata:0 "Middle Stratas Influence"
+r56_danish_upper_strata:0 "Upper Stratas Influence"
+
+DEN_Seize_Agricultural_Property:0 "Seize Agricultural Property"
+DEN_Confiscate_Civilian_Vessels:0 "Confiscate Civilian Vessels"
+DEN_Nationalize_Vital_Industries:0 "Nationalize Vital Industries"
+
+DEN_Reduce_Lower_Strata_Influence:0 "Reduce the Lower Stratas Influence"
+DEN_Reduce_Middle_Strata_Influence:0 "Reduce the Middle Stratas Influence"
+DEN_Reduce_Upper_Strata_Influence:0 "Reduce the Upper Stratas Influence"
+
+den_remove_lower_tt:0 "This will §Rpermanently§! remove the §YLower Stratas§! influence on the government."
+den_remove_middle_tt:0 "This will §Rpermanently§! remove the §YMiddle Stratas§! influence on the government."
+den_remove_upper_tt:0 "This will §Rpermanently§! remove the §YUpper Stratas§! influence on the government."
+
+DEN_Upper_Low:0 "Planning Speed [?den_upper_planning|%+=]."
+DEN_Upper_Middle:0 "Planning Speed [?den_upper_planning|%+=] and Construction Speed [?den_upper_contruction|%+=]."
+DEN_Upper_Upper:0 "Planning Speed [?den_upper_planning|%+=], Construction Speed [?den_upper_contruction|%+=] and Daily Political Power Gain [?den_upper_pp|+*=]."
+DEN_Middle_Low:0 "Division Defense on core territory [?den_middle_defence|%+=]."
+DEN_Middle_Middle:0 "Division Defense on core territory [?den_middle_defence|%+=] and Consumer Goods Factories [?den_middle_consumer|%1=Y]."
+DEN_Middle_Upper:0 "Division Defense on core territory [?den_middle_defence|%+=], Consumer Goods Factories [?den_middle_consumer|%1=Y] and Daily Political Power Gain [?den_middle_pp|+*=]."
+DEN_Low_Low:0 "Recruitable Population [?den_lower_manpower|%+=]."
+DEN_Low_Middle:0 "Recruitable Population [?den_lower_manpower|%+=] and Factory Output [?den_lower_output|%+=]."
+DEN_Low_Upper:0 "Recruitable Population [?den_lower_manpower|%+=], Factory Output [?den_lower_output|%+=] and Daily Political Power Gain [?den_lower_pp|+*=]."
+DEN_No_Effect:0 "No Effect."
+
+#Loyalty Effects
+den_coup_minus_equ_tt:0 "§YAll Stratas§! lose §R20§! Loyalty Equilibrium"
+den_political_violence_minus_loyalty_tt:0 "§YAll Stratas§! lose §R10§! Loyalty"
+den_political_violence_plus_loyalty_tt:0 "§YAll Stratas§! gain §G5§! Loyalty"
+
+den_stale_add:0 "This increases the chance of a contained situation by §Y$RIGHT|0$%§!."
+den_fasc_add:0 "This increases the chance of a fascist victory by §Y$RIGHT|0$%§!."
+den_com_add:0 "This increases the chance of a communist victory by §Y$RIGHT|0$%§!."
+den_antifasc_add:0 "This increases the chance of a communist victory by §Y$RIGHT|0$%§!."
+
+den_upper_loyalty_tooltip:0 "The §YUpper Stratas§! gain $RIGHT|+0$ Loyalty."
+den_middle_loyalty_tooltip:0 "The §YMiddle Stratas§! gain $RIGHT|+0$ Loyalty."
+den_lower_loyalty_tooltip:0 "The §YLower Stratas§! gain $RIGHT|+0$ Loyalty."
+
+den_upper_equilibrium_tooltip:0 "The §YUpper Stratas§! gain $RIGHT|+0$ Loyalty Equilibrium."
+den_middle_equilibrium_tooltip:0 "The §YMiddle Stratas§! gain $RIGHT|+0$ Loyalty Equilibrium."
+den_lower_equilibrium_tooltip:0 "The §YLower Stratas§! gain $RIGHT|+0$ Loyalty Equilibrium."
+
+den_lower_influence_tooltip:0 "The §YLower Stratas§! gain $RIGHT|Y0$ Influence"
+den_middle_influence_tooltip:0 "The §YMiddle Stratas§! gain $RIGHT|Y0$ Influence"
+den_upper_influence_tooltip:0 "The §YUpper Stratas§! gain $RIGHT|Y0$ Influence"
+
+den_upper_eqilibrium_0:0 "The §YUpper Stratas§! Equilibrium is set to §R0§!" 
+
+den_lower_loyalty_40_trigger:0 "The §YLower Stratas§! Loyalty is §Yhigher than 40§!."
+den_lower_loyalty_25_trigger:0 "The §YLower Stratas§! Loyalty is §Yhigher than 25§!."
+den_lower_eqilibrium_20_trigger:0 "The §YLower Strata§! Equilibrium is §Yhigher than 20§!."
+den_lower_influence_20_trigger:0 "The §YLower Stratas§! have §Ymore than 20 Influence§!."
+
+den_middle_loyalty_40_trigger:0 "The §YMiddle Stratas§! Loyalty is §Yhigher than 40§!."
+den_middle_loyalty_25_trigger:0 "The §YMiddle Stratas§! Loyalty is §Yhigher than 25§!."
+den_middle_eqilibrium_20_trigger:0 "The §YMiddle Strata§! Equilibrium is §Yhigher than 20§!."
+den_middle_influence_20_trigger:0 "The §YMiddle Stratas§! have §Ymore than 20 Influence§!."
+
+den_upper_loyalty_40_trigger:0 "The §YUpper Stratas§! Loyalty is §Yhigher than 40§!."
+den_upper_loyalty_25_trigger:0 "The §YUpper Stratas§! Loyalty is §Yhigher than 25§!."
+den_upper_eqilibrium_20_trigger:0 "The §YUpper Strata§! Equilibrium is §Yhigher than 20§!."
+den_upper_influence_20_trigger:0 "The §YUpper Stratas§! have §Ymore than 20 Influence§!."
+
+den_upper_influence_90_trigger:0 "The §YUpper Stratas§! have §Yless than 90 Influence§!."
+den_upper_influence_60_trigger:0 "The §YUpper Stratas§! have §Yless than 60 Influence§!."
+den_upper_influence_min_90_trigger:0 "The §YUpper Stratas§! have §Ymore than 90 Influence§!."
+den_upper_loyalty_80_trigger:0 "The §YUpper Stratas§! have §Ymore than 80 Loyalty§!."
+den_lower_influence_90_trigger:0 "The §YLower Stratas§! have §Yless than 90 Influence§!."
+
+den_lower_influence_10:0 "The §YLower Stratas§! gain §G10§! Influence."
+## l - lower ; m - middle ; u - upper
+## l - loyalty ; i - influence ; e - equilibrium
+
+den_strli5:0 ""
+
+den_strle10:0 ""
+
+## Democratic Policies
+socialdemokratiet_dominating:0 "§YSocial Democrats§! in Power"
+conservatives_dominating:0 "§YConservatives§! in Power"
+
+DEN_social_democratic_policies_0:0 "Strengthened Labor Unions"
+DEN_social_democratic_policies_0_desc:0 "§RThis National Spirit will be removed if Conservative policies are enacted.§!"
+DEN_social_democratic_policies_1:0 "Bolstered Labor Rights"
+DEN_social_democratic_policies_1_desc:0 "§RThis National Spirit will be removed if Conservative policies are enacted.§!"
+DEN_social_democratic_policies_2:0 "Collective Bargaining"
+DEN_social_democratic_policies_2_desc:0 ""
+DEN_social_democratic_policies_3:0 "Minimum Wage Legislation"
+DEN_social_democratic_policies_3_desc:0 ""
+den_devalued_krone:0 "Devaluation of the Krone"
+den_devalue_krone_tt:0 "\nIf a trade partner is found within 500 days §YEconomic Stagnation§! will be removed. If not it will get §Rworse§!."
+den_increased_protection_tt:0 "\nIf we don't stay with §YLimited Exports§! and §YCivilian Economy§! for a year §YEconomic Stagnation§! will get §Rworse§!."
+den_economic_hardship:0 "Economic Hardships"
+den_protectionist_economy:0 "Protectionist Economy"
+
+DEN_conservative_policies_0:0 "Ongoing Economic Reforms"
+DEN_conservative_policies_0_desc:0 "§RThis National Spirit will be removed if Social Democratic policies are enacted.§!"
+DEN_conservative_policies_1:0 "Increasing Rural Development"
+DEN_conservative_policies_1_desc:0 "§RThis National Spirit will be removed if Social Democratic policies are enacted.§!"
+DEN_conservative_policies_2:0 "Agrarian Reform"
+DEN_conservative_policies_2_desc:0 ""
+
+
+DEN_fueled_nationalism:0 "Reinvigorated Nationalism"
+DEN_fueled_nationalism_desc:0 "§RThis National Spirit will be removed if Social Democratic policies are enacted.§!"
+
+#Events
+danish_elections.1.t:0 "Municipal Elections of 1937/8 - Sjaelland"
+danish_elections.1.d:0 "Although the Folketing elections showed a strong electorate for the social democrats, they struggled particularly in the region of Sjaelland, where it seems the conservatives hold the upper hand. The considerable political effort would have to be expended to secure this stronghold."
+danish_elections.1.a:0 "Socialdemokratiet er det sejrherre!"
+danish_elections.1.b:0 "Konservative Parti er det sejrherre!"
+
+danish_elections.2.t:0 "Municipal Elections of 1937/8 - North Jutland"
+danish_elections.2.d:0 "The social democrats have to thank the people of North Jutland for their past electoral victories as it seems a stronghold of theirs. It would indeed be an upset if the conservatives were to take the region."
+danish_elections.2.a:0 "Kommunistiske Parti er det sejrherre!"
+
+danish_elections.3.t:0 "Municipal Elections of 1937/8 - South Jutland"
+danish_elections.3.d:0 "Within the Danish region of South Jutland screams a loud minority, the Germans inhabiting Nordslesvig. The political representation for these screams is the Schleswigsche Partei, which has national socialist undertones and vague connections to the German NSDAP, thus being considered dangerous by the Danish majority inhabiting the region. Of course, the Danish resistance will be insignificant compared to the German dissent."
+danish_elections.3.b:0 "Slesvigsk Parti er det sejrherre!"
+
+denmark.1.t:0 "Political Violence in [DEN.GetNameDef]"
+denmark.1.d:0 "There are currently two political movements gearing up for political violence. The Danmarks Kommunistiske Parti and the Danmarks Nationalsocialistiske Arbejderparti, both trying to strengthen their political platform. The government will do its best to contain the violence with the help of the police, though if that will be enough is to be seen."
+denmark.1.a:0 "Im smelling a Bloody Sunday."
+
+denmark.7.t:0 "[DEN.GetNameDefCap] is in Contact with the KPD"
+denmark.7.d:0 "There is news coming directly from the Gestapo. They have uncovered a plot by the newly established [DEN.GetAdjective] Bolshevist government to reorganize and weaponize the nearly defunct KPD against [GER.GetRulingParty] rule. After extensive interrogation of the captured partisan, he has revealed the plan behind these efforts. In the case of a [GER.GetAdjective] invasion into Jutland, the [DEN.GetAdjective] would lead the KPD to incite a civil war. Of course, such a massive undertaking would take weeks, if not months, so if the [DEN.GetAdjective] government falls before then, the seditious KPD will have no opportunity to strike."
+denmark.7.a:0 "Deeply concerning."
+
+denmark.8.t:0 "KPD Sabotage in [?DEN.den_ger_current_sabotage_state.GetName]"
+denmark.8.d:0 "With the support of [DEN.GetNameDefCap], KPD Partisans have infiltrated and carried out sabotage in [?DEN.den_ger_current_sabotage_state.GetName]. They will pay for their crimes in the end."
+denmark.8.a:0 "There'll be retribution for this."
+
+denmark.9.t:0 "KPD Preparing for Civil War"
+denmark.9.d:0 "[DEN.GetNameDefCap] has initiated its contingency plan to incite a civil war in [GER.GetNameDef]. If their government isn't wiped off the map in the following weeks, we can count on a large-scale uprising in our backyard."
+denmark.9.a:0 "This has the upmost priority."
+
+denmark.100.t:0 "[DEN.GetNameDefCap] Repealed the Copenhagen Convention"
+denmark.100.d:0 "The Danish Straits have been an international waterway ever since the Copenhagen Convention of 1857, allowing all vessels to pass through freely regardless of country of origin or purpose. With the diplomatic support of [?DEN.copenhagen_backer.GetLeader] of [?DEN.copenhagen_backer.GetNameDef], [DEN.GetLeader] has now renounced the treaty and forced merchant ships trying to pass through to pay tolls to the Danish government. This has left the major nations of Europe stunned and outraged as Denmark now holds the keys to the Baltic."
+denmark.100.a:0 "Dominium Maris Baltici!"
+denmark.100.b:0 "A reckless disregardance of international law."
+denmark.100.c:0 "An event barely worth covering."
+
+denmark.99.t:0 "The Liberation of Denmark"
+denmark.99.d:0 "After the years of [?DEN.occupation_target.GetAdjective] occupation, Denmark was freed, to the jubilation of thousands. The multi-national force marching into Denmark repelling the forces of [?DEN.occupation_target.GetNameDef] are hailed as heroes and their flags widely displayed. The [DEN.GetAdjective] government has also returned from their exile, determined to end this war as quickly as possible."
+denmark.99.a:0 "A temporary setback."
+denmark.99.b:0 "Denmark, free at last."
+
+christian_denmark.0.t:0 "Royal Coup in Denmark"
+christian_denmark.0.d:0 "After the rising current of fascism and communism engulfed Denmark, its democratic government struggled to overcome this extremism. There commonly raged street skirmishes between the Danish police, the communists, and the fascists. Fearing an imminent takeover by the fascists, King Christian X capitalized on the situation and dismissed the government, and has, for now at least, assumed absolute control of Denmark. According to his public statements, he has plans to crack down on any extremism harshly. The Icelandic government has refused to comment for now."
+christian_denmark.0.a:0 "The continued failures of democracy."
+christian_denmark.0.b:0 "A return to the middle ages."
+christian_denmark.0.c:0 "The Danish Lion seems to rise again"
+christian_denmark.0.e:0 "Der er et yndigt land!"
+
+christian_denmark.1.t:0 "Anti-monarchist Opposition Intensifying"
+christian_denmark.1.d:0 "With the recent takeover of his majesty King Christian X, many resistance groups have formed. May it be the fascists, communists, or democrats, all of them wish to tear Denmark down and prostitute it to the powers of Europe. It is vital to smash these groups in due time before they destroy the fabric of the Danish nation even further."
+christian_denmark.1.a:0 "Herlig vil Danmark være!"
+
+christian_denmark.10.t:0 "The First Meeting"
+christian_denmark.10.d:0 "King Christian met the conservative leadership at their headquarters. To the surprise of all present, he suggested removing the current government due to their failures in dealing with the radical movements sprouting up in [DEN.GetNameDef]. Though the course of action seemed extreme, Christmas Møller pledged the support of the Conservative Party to the coup for the preservation of [DEN.GetNameDef]."
+christian_denmark.10.a:0 "A pleasent meeting."
+christian_denmark.10.b:0 "This all seems a bit extreme."
+
+christian_denmark.11.t:0 "Shoring up Support"
+christian_denmark.11.d:0 "Christian, the commander-in-chief, has called the high command and the divisional commander of the Sjælland Division to the royal palace to secure the military's support in case of violent response by the DKP and DNSAP. They gave reluctant reassurances and were then dismissed."
+christian_denmark.11.a:0 "Let's hope we don't need them."
+christian_denmark.11.b:0 "Maybe this is all an overreaction."
+
+christian_denmark.12.t:0 "Mr. Thorvald, you are dismissed"
+christian_denmark.12.d:0 "i cant do this event justice"
+christian_denmark.12.a:0 "Now to pick up where he left off."
+
+christian_denmark.13.t:0 "Silence in the Atlantic Ocean"
+christian_denmark.13.d:0 "His Majesty played the invasion of Iceland off as a minor quelling of an uprising, but now months later, there still are no troops in Iceland, yet the war is still ongoing. Many have called for an end to this useless, phony war."
+christian_denmark.13.a:0 "The operation was miscalculated."
+christian_denmark.13.b:0 "They are weeks away from capitulation."
+
+christian_denmark.2.t:0 "Turmoil in Copenhagen"
+christian_denmark.2.d:0 "The head of the personal union between Denmark and Iceland has assumed absolute control in Copenhagen and now asks for reassurances from Reykjavik that the effects of the Danish–Icelandic Act of Union of 1918 will not be altered by the recent political instability in [DEN.GetNameDef]. Troublingly, however, current rhetoric has suggested that our sovereign seeks to reign in Iceland and bring it under his control as he did with Denmark. Two options present themselves."
+christian_denmark.2.a:0 "Declare the Republic of Iceland!"
+christian_denmark.2.b:0 "The Act of Union still applies."
+
+christian_denmark.3.t:0 "Proclamation of the Republic of Iceland"
+christian_denmark.3.d:0 "The Icelandic Prime Minister [ICE.GetLeader] has declared a presidential republic after hearing of the political turmoil in Copenhagen. This is a clear violation of the Danish-Icelandic Act of Union, signed in 1918, and the King is not yet ruling out military intervention. We shall see how the situation develops."
+christian_denmark.3.a:0 "A daring yet foolish move."
+christian_denmark.3.b:0 "They shall face our wrath someday."
+
+christian_denmark.4.t:0 "Iceland Shows Itself Compliant"
+christian_denmark.4.d:0 "The now-former Icelandic Prime Minister stood before the Althing yesterday and asked the parliament to support him in severing all ties with [DEN.GetNameDef] and proclaiming an illegitimate republic, with him, of course, at its head. Though it seems the legislative was sensible that day as they denied this outright treasonous request. We must now look towards the future of the union."
+christian_denmark.4.a:0 "To further [DEN.GetAdjective]-Icelandic cooperation."
+
+christian_denmark.5.t:0 "Family Business"
+christian_denmark.5.d:0 "The dissolution of Denmark-Norway in the 19th century was a true tragedy. The Norwegian parts of our realm were stripped away by the treacherous Swedes in the aftermath of the Napoleonic Wars, and ever since then, our two nations have walked separately. Luckily in 1905, the Swedish-Norwegian Union dissolved, and the brother of his majesty King Christian X, Prince Carl of Denmark, was elected to the Norwegian throne. With royal authority restored in Denmark, we may help Norway free itself from parliamentarianism."
+christian_denmark.5.a:0 "Hilsen fra København"
+
+christian_denmark.6.t:0 "Family Business"
+christian_denmark.6.d:0 "The recent takeover of Christian X as the absolute monarch of [DEN.GetNameDef] has inspired some monarchists in Norway to demand the same government change. Christian X has suggested similar things, proposing to reunite the Danish-Norwegian Union."
+christian_denmark.6.a:0 "Christian has the King's support."
+christian_denmark.6.b:0 "The times of absolutism are over."
+
+christian_denmark.7.t:0 "The Royal Coup"
+christian_denmark.7.d:0 "The dissolution of Denmark-Norway by the Swedes to our east is by some considered a tragedy; one of those people is His Majesty's brother, Christian X of Denmark. The King has received an enticing offer from him. His Majesty should demand from the [NOR.GetAdjective] Civilian government his deserved absolute rights. If a civil war were to break out, the [DEN.GetAdjective] Royal Army would also support the Monarchy. This help would, of course, come at a cost, which some expect to be the independence of [NOR.GetNameDef]."
+christian_denmark.7.a:0 "The King rallies against the government."
+
+christian_iceland_annexation_tt:0 "§RThis may lead to the eventual annexation of Iceland into the Kingdom of Denmark.§!"
+christian_iceland_war_tt:0 "§RThis may lead to war with the Kingdom of Denmark.§!"
+den_brothers_torn_apart_tt:0 "If Haakon VII is cooperative he will lead a royal coup, if not we gain a war goal on §Y[NOR.GetNameDef]§!."
+den_haakon_cooperation_tt:0 "Contacts with the §YKing of Norway§! may come in useful in the future."
+den_integrated_norway:0 "Integrated §YNorway§! by Decision"
+den_christian_cancel_coup_tt:0 "The §YRoyal Coup§! will be canceled."
+
+denmark.101.t:0 "The Fate of Denmark"
+denmark.101.d:0 "The [DEN.GetAdjective] government has capitulated, but they seem amicable towards collaboration with us, unlike others. Perhaps a puppet government fighting alongside us in all future conflicts is a more desirable outcome than a harsh and costly occupation."
+denmark.101.a:0 "Send the Ultimatum."
+denmark.101.b:0 "Our troops can handle the matter."
+
+denmark.102.t:0 "The Fate of Denmark"
+denmark.102.d:0 "With our capitulation at the hands of the relentless foreign advance, [DEN.GetNameDef] is given a choice: Is it to fall into foreign hands under occupation, or should it collaborate with the occupiers. It is a tricky question with no good answer, though [DEN.GetLeader] has to come up with one soon."
+denmark.102.a:0 "Collaboration would be a betrayal of all Danes."
+denmark.102.b:0 "The good of the nation comes first."
+
+denmark.103.t:0 "Operation Weserübung"
+denmark.103.d:0 "[GER.GetNameDefCap], currently involved in the Second World War in Europe, has had increasing problems importing [SWE.GetAdjective] iron and steel due to [ENG.GetAdjective] convoy raiding tactics. In response, the [GER.GetAdjective] government has launched Operation Weserübung, in which it aims to secure the steel supply. Due to our \"friendly\" relations, they have brought an ultimatum before us: We either allow [GER.GetAdjective] troops to pass through [DEN.GetAdjective] soil and use [DEN.GetAdjective] ports or face invasion. What should our response be?"
+denmark.103.a:0 "[DEN.GetAdjective] borders are to be respected."
+denmark.103.b:0 "Accept the ultimatum."
+
+denmark.57.t:0 "Fascists March on the Folketing"
+denmark.57.d:0 "Our policies have failed, the Danish people are angry and all of the consequences of that now stand in front of our parliament building. Armed to the teeth and unopposed, as the police has been virtually destroyed by the constant street battles, they now demand a resignation of [DEN.GetLeader]'s government. Faced with no other option, the government resigns and lets the facekess mob have their way. "
+denmark.57.a:0 "Dark times are ahead for Denmark."
+
+denmark.58.t:0 "Communists March on the Folketing"
+denmark.58.d:0 "Our policies have failed, the Danish people are angry and all of the consequences of that now stand in front of our parliament building. Additionally a general strike has immobilized our entire economy and the government, faced with no other option, resigns and lets the popular masses have their way. "
+denmark.58.a:0 "Dark times are ahead for Denmark."
+
+denmark.59.t:0 "Aksel Larsen's Leadership Called into Question"
+denmark.59.d:0 "Our recent policy swing on the Comintern and Soviet Russia have prompted many party members to question the position of General Secretary Aksel Larsen, as he was known to be a staunch supporter of Moscow in the years prior to our revolution. The Supreme Council of the DKP voted this morning on the removal of Larsen and..."
+denmark.59.a:0 "...the proposal is narrowly defeated."
+denmark.59.b:0 "...Alfred Jensen will be promoted to General Secretary of the DKP."
+
+denmark.3.t:0 "The Danish Straits"
+denmark.3.d:0 "The Copenhagen Convention was a disgraceful robbery of our national sovereignty by granting all nations rights to pass the Straits without paying a toll. It is now time to reclaim our territorial waters and decide on a new policy towards foreign ships."
+denmark.3.a:0 "Any neutral nation is welcome."
+denmark.3.b:0 "Any nation valued by our government is welcome."
+denmark.3.c:0 "Any likeminded nation is welcome."
+denmark.3.e:0 "Any allied nation is welcome."
+
+denmark.10.t:0 "A Conservative Government"
+denmark.10.d:0 "The Socialdemokratiet have recently lost much public support amid current economic and internal problems. With this loss of trust in the government, the King has instated the conservative party as the ruling party of [DEN.GetNameDef]. The announcement of their cabinet is soon to follow."
+denmark.10.a:0 "Hopefully we can restore trust in democracy."
+
+denmark.20.t:0 "The Return of the Socialdemokratiet"
+denmark.20.d:0 "Though the conservatives' promises were sky-high, their implementation was lacking. Fearing further radicalization by inaction, the King has placed the social democrats into power again with the support of a plurality."
+denmark.20.a:0 "Let's not repeat our mistakes."
+
+denmark.32.t:0 "Invitation to the Nordic Council"
+denmark.32.d:0 "[DEN.GetNameDefCap] has announced a grand creation of a Nordic Council, seeking to coordinate the militaries and governments of the Nordic region. Should [ROOT.GetNameDef] be a part of this council?"
+denmark.32.a:0 "Further Nordic cooperation only benefits us."
+denmark.32.b:0 "Never trust those dirty [DEN.GetAdjective]."
+
+denmark.34.t:0 "The Failure of the Nordic Council"
+denmark.34.d:0 "Our grand announcement of the establishment of the Nordic Council was followed up by awkward silence as we failed to gain any positive responses from the Nordic governments. This certainly is an international embarrassment for [DEN.GetNameDef]."
+denmark.34.a:0 "Further Nordic cooperation only benefits us."
+
+denmark.35.t:0 "The First Session of the Nordic Council"
+denmark.35.d:0 "With a generally positive response to our announcement of the Nordic Council, its first session has taken place. This organization will strengthen the Nordic countries on the international stage."
+denmark.35.a:0 "Splendid."
+
+denmark.36.t:0 "Invitation to the Nordic Customs Union"
+denmark.36.d:0 "In an attempt to help its recovery from the great depression, the [DEN.GetAdjective] government has suggested a way for all Scandinavian economies to recover from the crisis. [DEN.GetNameDefCap] shall lift tolls and restrictions between the member states to encourage economic cooperation."
+denmark.36.a:0 "A fine arrangement."
+denmark.36.a:0 "The [ROOT.GetAdjective] economy shall remain [ROOT.GetAdjective]!"
+
+denmark.37.t:0 "[FROM.GetNameDefCap] Has Agreed to the Nordic Customs Union"
+denmark.37.d:0 "The [FROM.GetAdjective] government has seen the advantages of our proposed customs union and agreed to all its terms. Our future cooperation will bring prosperity for both of us."
+denmark.37.a:0 "Splendid."
+
+denmark.38.t:0 "[FROM.GetNameDefCap] Has Refused the Nordic Customs Union"
+denmark.38.d:0 "The [FROM.GetAdjective] government seems blinded by nationalistic protectionism, as it refused the most vital policies in the proposed union. It seems they intend to go their own way."
+denmark.38.a:0 "Tragic."
+
+denmark.39.t:0 "[DEN.GetNameDefCap] Proposes the North Sea Agreement"
+denmark.39.d:0 "To help its recovery from the great depression, the [DEN.GetAdjective] government has suggested a trade agreement between the countries trading in the North Sea. This will make trade and commerce between our nations a lot easier and help our economic recovery."
+denmark.39.a:0 "A fine arrangement."
+denmark.39.a:0 "The [DEN.GetAdjective] have their own gain at heart."
+
+denmark.42.t:0 "[FROM.GetNameDef] has agreed to the North Sea Trade Agreement"
+denmark.42.d:0 "The [FROM.GetAdjective] government has seen the advantages of our proposed trade agreement and accepted all its terms. Our future cooperation will bring prosperity for both of us."
+denmark.42.a:0 "Splendid."
+
+denmark.43.t:0 "[FROM.GetNameDef] Has Refused the North Sea Trade Agreement"
+denmark.43.d:0 "The [FROM.GetAdjective] government seems blinded by nationalistic protectionism, as it refused the most vital policies in the proposed trade agreement. It seems they intend to go their own way."
+denmark.43.a:0 "Tragic."
+
+denmark.44.t:0 "[DEN.GetNameDefCap] Proposes the [DEN.GetAdjective]-[SOV.GetAdjective] Trade Agreement"
+denmark.44.d:0 "[DEN.GetNameDefCap] proposes a trade agreement between us, seeking to dominate the Baltic Sea economically. Though they are, of course, a bourgeois republic, this agreement may be weighted in our favor."
+denmark.44.dc:0 "After the great depression and the recent revolution in Denmark, its economy seems riddled with uncertainty. Our comrades in [DEN.GetNameDef] have proposed a way to stabilize the [DEN.GetAdjective] economy and simultaneously help the [SOV.GetAdjective] economy. Economists see no reason to refuse this request."
+denmark.44.a:0 "Sign the agreement!"
+denmark.44.a:0 "No."
+
+denmark.45.t:0 "[DEN.GetNameDefCap] Proposes the Munch-Ribbentrop Pact"
+denmark.45.d:0 "[DEN.GetNameDefCap] has sent us a request to negotiate non-aggression and economic cooperation. As they sit on the entry of the Baltic Sea, their strategic value under [GER.GetAdjective] occupation would be immense. If they want this, they are going to swallow harsh terms."
+denmark.45.a:0 "Send our demands!"
+denmark.45.a:0 "We will not negotiate with [DEN.GetNameDef]."
+
+denmark.46.t:0 "Munch-Ribbentrop Pact Signed"
+denmark.46.d:0 "The [GER.GetAdjective] government has accepted the favorable terms and has signed a guarantee of independence and non-aggression. Though our concessions in return are harsh, they are necessary."
+denmark.46.a:0 "Fine."
+
+denmark.47.t:0 "Munch-Ribbentrop Pact refused"
+denmark.47.d:0 "The [GER.GetAdjective] government has refused the very favorable terms we gave them. Our advisors have no idea what to make of this."
+denmark.47.a:0 "An invasion must be imminent!"
+
+denmark.48.t:0 "Dano-[SOV.GetAdjective] Trade Agreement agreed to"
+denmark.48.d:0 "The [SOV.GetAdjective] government has accepted the mutually benefitial terms of the trade agreement and has signed their guarantee of independence and non aggression pact."
+denmark.48.a:0 "To mutual prosperity!"
+
+denmark.49.t:0 "Dano-[SOV.GetAdjective] Trade Agreement refused"
+denmark.49.d:0 "The [SOV.GetAdjective]s have, to our dismay, refused the terms of our proposed trade agreement."
+denmark.49.a:0 "Tragic."
+
+denmark.71.t:0 "[DEN.GetNameDefCap] proposes a Scandinavian Plan"
+denmark.71.d:0 "The [DEN.GetAdjective] government has proposed a pincer attack to consolidate Scandinavia under the Comintern. The risk of this operation may be high, but having our northern flank secured under an ally will help in any future defense of the union."
+denmark.71.a:0 "Let's ready our troops."
+denmark.71.a:0 "Much too risky."
+
+denmark.40.t:0 "Peasant Uprising Brewing"
+denmark.40.d:0 "With the overwhelming influence of the Lower Classes, the factory workers of the cities and the peasants of the countryside have united in their struggle to remove the King from power and institute the \"Republic of Denmark\". If we want the Kingdom to prevail, we need to limit their influence on this government."
+denmark.40.a:0 "The Kingdom under threat."
+
+denmark.41.t:0 "Oligarchical Takeover Brewing"
+denmark.41.d:0 "Our country's industrialists and large landowners have increasingly tried to replace our democratically elected [DEN.GetRulingParty] with an oligarchical puppet. Our democratic principles may be under threat if their attempts are not thwarted."
+denmark.41.a:0 "A harrowing thought."
+
+#Communism
+den_kpd_contacts:0 "Memories of the German Revolution"
+den_kpd_contacts_desc:0 "For the eyes of most, [GER.GetNameDef] seems like a country long unified under a brutal government, but not every [GER.GetAdjective] is content with this regime; independent resistance cells are trying their best to undermine the [GER.GetRulingParty]. If we reestablish pre-Nazi organizations and provide them with aid, perhaps we can bring [GER.GetNameDef] to crumble.\n\n"
+DEN_KPD_Strength_Desc:0 ""
+DEN_KPD_Strength_Val:0 " [?DEN.DEN_KPD_Strength]%"
+den_kpd_chapter_per:0 "Will increase §RKPD§! strength by between\n    §Y1% and 3%§!.\n"
+den_kpd_minus3:0 "Will decrease §RKPD§! strength by 3%."
+den_kpd_minus5:0 "Will decrease §RKPD§! strength by 5%."
+den_kpd_minus10:0 "Will decrease §RKPD§! strength by 10%."
+den_the_second_german_revolution:0 "The Second German Revolution"
+den_kpd_established:0 "Local Resistance Cell established"
+den_establish_local_chapter:0 "Establish a Resistance Cell in [FROM.GetName]"
+den_sabotage_industrial_centers:0 "Sabotage Industries in [FROM.GetName]"
+den_sabotage_frontlines:0 "Sabotage German Frontlines in [FROM.GetName]"
+den_call_upon_the_partisans:0 "Call upon Partisans in [FROM.GetName]"
+den_german_propaganda_campaigns:0 "Propaganda Campaigns in [FROM.GetName]"
+
+den_kpd_partisan_uprising_tt:0 "§Y2 Partisan Units§! will rise up and join our cause."
+
+#Focuses
+DEN_Resistance_1:0 "[DEN.GetAdjective] Resistance"
+DEN_Resistance_2:0 "Widespread [DEN.GetAdjective] Resistance"
+den_ships_seized:0 "Our remaining Ships in Denmark are being seized"
+den_ships_seized_desc:0 "Not all of the [DEN.GetAdjective] [DEN_navy_localisation] could escape the harrowing [GER.GetAdjective] advance. For now, the collaborating [DEN.GetAdjective] sailors are still holding onto them. However, we have noticed the ever-increasing [GER.GetAdjective] pressure to obtain these ships. We can rip the [DEN.GetAdjective] vessels out of Axis hands and score a huge propaganda victory simultaneously if we are quick."
+#Focuses
+denmark:0 "Danish Focus Tree"
+denmark_focus:0 "Danish Focus Tree"
+free_denmark:0 "Free Danish Focus Tree"
+collab_denmark:0 "Collaborationist Danish Focus Tree"
+DEN_King_Christian_Coup:0 "King Christian's Coup"
+DEN_King_Christian_Coup_desc:0 "The [DEN.GetAdjective] way of life seems in peril as extremists now hold significant political power, and it seems the democratic system is unable to handle the pressure. To preserve the nation's soul, a royal coup is ruled as the best option by his highness Christian X himself. Reclaiming the authority of the Glücksburg dynasty may come with significant challenges, but it seems it is the only way."
+DEN_Changing_Times:0 "Changing Times"
+DEN_Changing_Times_desc:0 "The recent examples of violent political change, the overthrowal of the Weimar Republic in Germany and the Russian Revolution and subsequent Russian Civil War in the now ascending [SOV.GetName], made it clear that the traditional Danish way of politics through the ballot and the Folketing may increasingly be replaced by firearms in the streets."
+DEN_Galvanise_the_German_Minority:0 "Galvanize the German Minority"
+DEN_Galvanise_the_German_Minority_desc:0 "Ever since the return of Northern Schleswig following the Great War, Denmark is the home to many Germans, most of them sympathetic to the German Reich. Using them for the rise of [DEN.GetAdjective] Fascism is only logical."
+DEN_Secure_Industrialists_Support:0 "Secure Industrialists' Support"
+DEN_Secure_Industrialists_Support_desc:0 "The increasing instability caused by political violence concerns multiple prominent industrialists, who fear a communist revolution may be imminent. By convincing them that the current government is incapable of stopping the rise of communism, we can surely count on their support."
+DEN_Increase_Attacks_on_the_Communists:0 "Increase Attacks on the Communists"
+DEN_Increase_Attacks_on_the_Communists_desc:0 "The collective enemy of the Danish nation, the communists have in recent times been more active than usual. It is our duty to curb their influence."
+DEN_Bolster_the_SA:0 "Bolster the SA"
+DEN_Bolster_the_SA_desc:0 "The paramilitary arm of our party shall be expanded to make sure the partys will is carried out in the streets alongside parliamentary work of the party leadership."
+DEN_Appeal_for_German_Funding:0 "Appeal for [GER.GetAdjective] Funding"
+DEN_Appeal_for_German_Funding_desc:0 "The inspiration for our current movement stems from the German national socialist movement, which has of course now replaced the weak Weimar republic and would be able to fund our cause with this new might."
+DEN_Press_the_Schleswig_Claim:0 "Press the Schleswig Claim"
+DEN_Press_the_Schleswig_Claim_desc:0 "Germany cruelly ripped away Schleswig-Holstein following the Schleswig Wars between Prussia and the German Confederation. A resurgent [DEN.GetNameDef] cannot allow this calamity to sit idly."
+DEN_Initiate_Economic_Reforms:0 "Initiate Economic Reforms"
+DEN_Initiate_Economic_Reforms_desc:0 "The policies of the Social Democrats have failed in addressing the Great Depression, and it is time for the Conservatives to revamp our economy."
+DEN_Fuel_Nationalism:0 "Fuel Nationalism"
+DEN_Fuel_Nationalism_desc:0 "The recent uneasy peace has sharply decreased the militancy and adherence of the Danes towards the Danish nation. We shall inspire our countrymen to once again be prepared to die for their country."
+DEN_Increased_Protectionism:0 "Increased Protectionism"
+DEN_Increased_Protectionism_desc:0 "Our agricultural industries are bleeding their wealth dry by being outcompeted by foreign goods; we must increase tariffs to counteract this."
+DEN_Increase_Rural_Developement:0 "Increase Rural Development"
+DEN_Increase_Rural_Developement_desc:0 "The countryside is the heart of the [DEN.GetAdjective] nation, though its development has been recently neglected to grow the cities' economies. A reversal of this process is invaluable for [DEN.GetNameDef]."
+DEN_Conservative_Majority:0 "Conservative Majority"
+DEN_Conservative_Majority_desc:0 "Because of policy failures after policy failures the once widely popular social democrats have lost their public mandate and shall be replaced by a responsible conservative government. The people of Denmark can once again rest easily knowing that their republic is protected."
+DEN_Expand_Agricultural_Subsidies:0 "Expand Agricultural Subsidies"
+DEN_Expand_Agricultural_Subsidies_desc:0 "Our farmers are on their last legs, and though not a permanent solution, subsidies will help them weather the storm that is the Great Depression."
+DEN_Strengthen_the_Labour_Unions:0 "Strengthen the Labor Unions"
+DEN_Strengthen_the_Labour_Unions_desc:0 "The most treasured institution by any [DEN.GetAdjective] worker is the labor union, ensuring their voice in the workplace is heard. Strengthening the Unions strengthens our party."
+DEN_Devalue_the_Krone:0 "Devalue the Krone"
+DEN_Devalue_the_Krone_desc:0 "We can gain a competitive advantage in the European export market by devaluing our currency, hopefully lifting our stagnant economy."
+DEN_Expand_the_Copenhagen_University:0 "Expand the Copenhagen University"
+DEN_Expand_the_Copenhagen_University_desc:0 "The University of Copenhagen is our most prominent scientific institution, and further expansion will foster the ever-growing [DEN.GetAdjective] scientist community."
+DEN_Bolster_Labour_Rights:0 "Bolster Labor Rights"
+DEN_Bolster_Labour_Rights_desc:0 "With the leveraged positions of the labor unions, we can enact sweeping change to better the working conditions of our factory workers. Though it will significantly benefit our voter base, the industrialists will disapprove."
+DEN_Social_Democratic_Majority:0 "Social Democratic Majority"
+DEN_Social_Democratic_Majority_desc:0 "With the storms of internal crises weathered, [DEN.GetNameDef]'s democratic tradition can march forward under the Social Democrats into a Golden Age for our beacon of liberty."
+DEN_An_Appeal_to_the_Proletariat:0 "An Appeal to the Proletariat"
+DEN_An_Appeal_to_the_Proletariat_desc:0 "The unheard masses of factory workers are heavily impacted by the stagnant state of our economy and demand change. A change that only the Communist Party can bring."
+DEN_Popular_Front_against_Fascism:0 "Popular Front against Fascism"
+DEN_Popular_Front_against_Fascism_desc:0 "The threat of fascism has united many social democratic and socialist movements worldwide, and in [DEN.GetNameDef], they shall too. With the militant parts of the Socialdemokratiet and the Kommunistiske Parti, the fascism that rose in Germany will be defeated."
+DEN_Channel_Economic_Frustrations:0 "Channel Economic Frustrations"
+DEN_Channel_Economic_Frustrations_desc:0 "By increasingly focusing our rhetoric on the economic failings of the current administration, we can win even more of the working people over to our communist cause."
+DEN_Ally_the_Peasents:0 "Ally the Peasants"
+DEN_Ally_the_Peasents_desc:0 "The proletarian is exploited in [DEN.GetNameDef], but the landowners of the countryside also profit heavily off the simple farmer. The two oppressed classes shall unite and overthrow the system alienating them from their labor."
+DEN_Comintern_Support:0 "Comintern Support"
+DEN_Comintern_Support_desc:0 "The Communist International, the third attempt at uniting the world's socialist movements, has plenty of political support it can offer to the various liberationist movements of the world. We shall make good use of our comrades' help."
+DEN_Organize_Nationwide_Strikes:0 "Inspire Revolutionary Fervor"
+DEN_Organize_Nationwide_Strikes_desc:0 "\"The revolution is near\", reads a pamphlet distributed by an enthusiastic communist youth, touring the heavily trafficked squares of Copenhagen. Its sentiment is shared by many of the socialists optimistically waiting for the revolution to make its way to [DEN.GetNameDef]."
+DEN_DNSAP_Takeover:0 "March on Copenhagen"
+DEN_DNSAP_Takeover_desc:0 "This day will be the culmination of the recent months of political violence and street fighting. The population has become dissatisfied enough with the current democratic government and scared enough of the ever rising communists to throw their support behind our fascist movement. Our march into the city centres of Copenhagen shall mark our glorious victory over the Bolsheviks and their allies."
+DEN_DKP_Takeover:0 "The General Strike"
+DEN_DKP_Takeover_desc:0 "The inevitability of the uprising of the European proletariat has been questioned after the tragic failure of the Spartacus Revolution. However, it seems the [DEN.GetADjective] communists now have the opportunity to overthrow this bourgeoisie democracy."
+
+DEN_Denmark_in_Peril:0 "[DEN.GetNameDefCap] in Peril"
+DEN_Denmark_in_Peril_desc:0 "Since its defeat in the Napoleonic Wars, Denmark has been a smooth sailing boat rowing by the world's global conflicts and internal struggles. But with a revanchist [GER.GetName] and an ambitious [SOV.GetName], the recent calm of Europe seems fleeting. For [DEN.GetNameDef] to survive in this new climate, it must adapt. Either the world will force it into grueling militarization or degrading concessions."
+#DEN_Denmark_in_Peril_desc:0 "As Europe witnesses a rising [GER.GetNameDef], its recent calm seems fleeting."
+DEN_Reverse_the_Disarmament:0 "Reverse the Disarmament"
+DEN_Reverse_the_Disarmament_desc:0 "With Europe's calm fleeting, we cannot rely on peace, which means reversing the decades-old disarmament policies."
+DEN_A_Modern_Hammershus:0 "A Modern Hammershus"
+DEN_A_Modern_Hammershus_desc:0 "The island of Bornholm has a strategic position in the Baltic and was fortified as much in medieval times. With a modern invasion seeming more and more likely, we shall also defend this crucial island."
+DEN_Fortify_the_Southern_Islands:0 "Fortify the Naval Bases"
+DEN_Fortify_the_Southern_Islands_desc:0 "The [DEN_navy_localisation] and the [DEN_army_localisation] have to work together to protect [DEN.GetNameDef]. With the military fortifying the naval bases, we can hinder the enemy from outflanking us on our home islands."
+DEN_AA_Installations:0 "AA Installations"
+DEN_AA_Installations_desc:0 "The third dimension of modern warfare has seen increasing use by the superpowers of Europe, and if we want to protect [DEN.GetAdjective] civilian centers, we have to be prepared to shoot down dozens of Stukas."
+DEN_Radar_Installations:0 "Radar Installations"
+DEN_Radar_Installations_desc:0 "We need to adopt a squadron detection system akin to the [ENG.GetAdjective] one to know what's happening in [DEN.GetAdjective] airspace."
+DEN_Fortress_Sjaelland:0 "Fortress Sjaelland"
+DEN_Fortress_Sjaelland_desc:0 "By focusing on the fortification of our islands, we can more effectively resist aggressors at the cost of abandoning all Danes of Jutland."
+DEN_The_Frederick_Line:0 "Rebirth of the Danevirke"
+DEN_The_Frederick_Line_desc:0 "The Danevirke was a series of fortifications set up by the Vikings to dissuade Germanic invasions, and with our current position, a modern rebirth of it will serve [DEN.GetNameDef] well."
+DEN_Ramp_up_Conscription:0 "Ramp up Conscription"
+DEN_Ramp_up_Conscription_desc:0 "Conscription has been the Danish way of life since the Viking age, though our current situation requires us to expand it further."
+DEN_Reestablish_Arms_Industries:0 "Reestablish Arms Industries"
+DEN_Reestablish_Arms_Industries_desc:0 ""
+DEN_Rearm_the_Royal_Army:0 "Rearm the [DEN_army_localisation]"
+DEN_Rearm_the_Royal_Army_desc:0 ""
+DEN_Retrofit_the_Royal_Navy:0 "Retrofit the [DEN_navy_localisation]"
+DEN_Retrofit_the_Royal_Navy_desc:0 ""
+DEN_Establish_the_Royal_Airforce:0 "Establish the [DEN_air_localisation]"
+DEN_Establish_the_Royal_Airforce_desc:0 ""
+DEN_Minelayers:0 "Minelayers"
+DEN_Minelayers_desc:0 ""
+DEN_Expand_the_Operational_Command:0 "Expand the Operational Command"
+DEN_Expand_the_Operational_Command_desc:0 ""
+DEN_Expand_the_Shipyards:0 "Expand the Shipyards"
+DEN_Expand_the_Shipyards_desc:0 ""
+DEN_Complete_Control_over_the_Baltic:0 "Dominium Maris Baltici"
+DEN_Complete_Control_over_the_Baltic_desc:0 ""
+DEN_Keep_the_Sealanes_Open:0 "Keep the Sealanes Open"
+DEN_Keep_the_Sealanes_Open_desc:0 ""
+DEN_Expand_the_Marine_Regiment:0 "Expand the Marine Regiment"
+DEN_Expand_the_Marine_Regiment_desc:0 ""
+DEN_Battleship_Development:0 "Battleship Development"
+DEN_Battleship_Development_desc:0 ""
+DEN_Carrier_Developement:0 "Carrier Development"
+DEN_Carrier_Developement_desc:0 ""
+DEN_Naval_Bomber_Production:0 "Naval Bomber Effort"
+DEN_Naval_Bomber_Production_desc:0 ""
+DEN_Fighter_Production:0 "Fighter Effort"
+DEN_Fighter_Production_desc:0 ""
+DEN_CAS_Production:0 "Close Air Support Effort"
+DEN_CAS_Production_desc:0 ""
+DEN_The_Air_Force_Command:0 "The Air Force Command"
+DEN_The_Air_Force_Command_desc:0 ""
+DEN_Jet_Engine_Research:0 "Jet Engine Research"
+DEN_Jet_Engine_Research_desc:0 ""
+DEN_Restructure_the_Army_Command:0 "Restructure the Army Command"
+DEN_Restructure_the_Army_Command_desc:0 ""
+DEN_Foreign_Designs:0 "Foreign Designs"
+DEN_Foreign_Designs_desc:0 ""
+DEN_A_Uniquely_Danish_Tank:0 "A Uniquely [DEN.GetAdjective] Tank"
+DEN_A_Uniquely_Danish_Tank_desc:0 ""
+DEN_Mechanization_Efforts:0 "Mechanization Efforts"
+DEN_Mechanization_Efforts_desc:0 ""
+DEN_Stage_War_Games:0 "Stage War Games"
+DEN_Stage_War_Games_desc:0 ""
+DEN_Move_past_the_Krag_Jorgesen:0 "Move past the Krag-Jørgensen"
+DEN_Move_past_the_Krag_Jorgesen_desc:0 ""
+DEN_Produce_Domestic_Artillery:0 "Produce Domestic Artillery"
+DEN_Produce_Domestic_Artillery_desc:0 ""
+DEN_Motorization_of_the_Army:0 "Motorization of the Army"
+DEN_Motorization_of_the_Army_desc:0 ""
+DEN_Reassurences_from_Reyklavik:0 "Reassurances from Reykjavik"
+DEN_Reassurences_from_Reyklavik_desc:0 "King Christian X is not only the King of Denmark but also of Iceland, which has grown more and more republican in recent years and may not accept Christian's absolute rule of [DEN.GetNameDef]."
+DEN_Dissolve_the_Folketing:0 "Dissolve the Folketing"
+DEN_Dissolve_the_Folketing_desc:0 "Since its establishment in the 19th century, the Folketing has become a competition that could propose the most outrageous populist policies, only for the sake of more voter support. The King will dissolve our parliament and restore [DEN.GetNameDef] to its glory."
+DEN_Crackdown_on_Extremism:0 "Crackdown on Extremism"
+DEN_Crackdown_on_Extremism_desc:0 "The vile ideologies that forced Christian to dismiss the government have found broad support among Danes, and it is the King's sacred duty to crack down on the leaders of this movement and restore a shared [DEN.GetAdjective] political culture."
+DEN_Consolidate_Iceland:0 "Consolidate Iceland"
+DEN_Consolidate_Iceland_desc:0 "With Iceland rightfully submitting to His Majesty, we shall reorganize the Kingdom of Iceland into a constituency of [DEN.GetNameDef]."
+DEN_Crush_the_Rebellion:0 "Crush the Rebellion"
+DEN_Crush_the_Rebellion_desc:0 "With the Icelandic government's foolish choice to abandon the personal union with [DEN.GetNameDef], there seems to be no other option than invasion."
+DEN_Proclaim_the_Danish_Empire:0 "Attention to Oslo"
+DEN_Proclaim_the_Danish_Empire_desc:0 "King Haakon VII, the King of Norway and the brother of King Christian X, might get a tad of inspiration from the absolute rule conducted out of Copenhagen and want the same."
+DEN_Form_a_Cabinet:0 "Form a Cabinet"
+DEN_Form_a_Cabinet_desc:0 "Now that we have dealt with our immediate political concerns, we can focus on stabilizing [DEN.GetNameDef]. Our first step will be to establish a government and invite any willing political figures."
+DEN_Approach_the_British:0 "Approach the [ENG.GetAdjective]"
+DEN_Approach_the_British_desc:0 "The [ENG.GetAdjective] have taken on safeguarding Europe, and [DEN.GetNameDef] should pursue closer relations."
+DEN_The_Stockholm_Communique:0 "The Stockholm Communique"
+DEN_The_Stockholm_Communique_desc:0 "Our closest allies are the Kingdoms of Scandinavia, whom we shall approach."
+DEN_North_Sea_Trade_Agreement:0 "North Sea Trade Agreement"
+DEN_North_Sea_Trade_Agreement_desc:0 "Our surplus agricultural produce has met increasing challenges to find their markets and deregulating trade between the nations sharing the North Sea, Denmark, Norway and the United Kingdom, could provide these desperately sought after markets."
+DEN_Nordic_Customs_Union:0 "Nordic Customs Union"
+DEN_Nordic_Customs_Union_desc:0 "Economic integration between the Nordic nations of Denmark, Sweden, Norway and Finland has always been higher than in most geographical regions seperated by political entities, but we shall take a step further. We shall eliminate the remaining tolls and restrictions on trade between our brethren nations."
+DEN_Baltic_Trade:0 "Baltic Trade"
+DEN_Baltic_Trade_desc:0 "Our trade policies towards our neighbours has been decided and we are now ready to further expand our involvement in the trade routes of the Baltic Sea."
+DEN_Approach_Germany:0 "Approach [GER.GetNameDef]"
+DEN_Approach_Germany_desc:0 "[GER.GetNameDefCap] has been a resurgent power, and it seems necessary to pursue closer relations."
+DEN_Munch_Ribbentrop_Pakt:0 "Munch-Ribbentrop Pakt"
+DEN_Munch_Ribbentrop_Pakt_desc:0 "The reality that Denmark has to face is that [GER.GetNameDef] is the primary threat to its existance and that the easier option opposed to rampant militarization may be collaboration. The German demands may be tough, but worth it if they maintain the Danish nation state."
+DEN_Approach_the_Soviets:0 "Approach the [SOV.GetAdjective]s"
+DEN_Approach_the_Soviets_desc:0 "The bear in the east seems to wait patiently to counter the fascist upsurge; we shall approach them and make them sympathise with our situation."
+DEN_Dano_Soviet_Trade_Agreement:0 "Dano-[SOV.GetAdjective] Trade Agreement"
+DEN_Dano_Soviet_Trade_Agreement_desc:0 "The ruthless and ongoing militarization of [GER.GetNameDef] is scaring Danish politicians and countrymen alike and some see the only way of countering this threat on the border as seeking close ties to its biggest continental adversary, [SOV.GetNameDef]. Extensive trade agreements may prompt a guarantee of independence from the [SOV.GetAdjective]."
+DEN_Revoke_the_Copenhagen_Convention:0 "Revoke the Copenhagen Convention"
+DEN_Revoke_the_Copenhagen_Convention_desc:0 "The Copenhagen Convention tragically stripped Denmark of its right to collect tolls on merchant ships passing through its waters. We shall reverse this forced treaty and restore sovereignty over our seas."
+DEN_Unify_the_Socialist_Movement:0 "Unify the Socialist Movement"
+DEN_Unify_the_Socialist_Movement_desc:0 "As in most countries, many socialist movements are vying for influence and working against each other. We shall unite all those who seek justice for the proletarian to gain a real chance to do so."
+#DEN_The_First_National_Congress:0 "The First National Congress"
+#DEN_The_First_National_Congress_desc:0 ""
+DEN_Contacts_to_the_KPD:0 "Contacts to the KPD"
+DEN_Contacts_to_the_KPD_desc:0 "The KPD has been utterly decimated by the NSDAP's seizure of the Reich Chancellery in 1933. We shall still reach out to their underground networks to see how [DEN.GetNameDef] can help."
+DEN_Danish_Folksradrepublik:0 "Establish the Folkerådsrepublik"
+DEN_Danish_Folksradrepublik_desc:0 "It is time to leave behind the old Danish flag and political system. We shall redesign our state along the lines Lenin laid out. We will dissolve the Folketing and replace it with a central committee appointed by the party will be our first step."
+DEN_The_Hammer_and_the_Sickle:0 "The Hammer and the Sickle"
+DEN_The_Hammer_and_the_Sickle_desc:0 "The class war has been concluded, and the proletarian has come out on top. But the proletarian cannot rule [DEN.GetNameDef] on his own; the vital task of feeding our population is relegated to the farmers, with whom we shall form a class alliance and march into the future together, with hammer and sickle in hand."
+DEN_Break_the_Fasces:0 "Break the Fasces"
+DEN_Break_the_Fasces_desc:0 "Now that the instruments of the state are in the hands of the communist movement, we shall use them to break the fascist movement, hopefully bringing back peace to [DEN.GetNameDef]."
+DEN_Propaganda_Campaigns:0 "Propaganda Campaigns"
+DEN_Propaganda_Campaigns_desc:0 "Our party shall concentrate on distributing leaflets, hanging posters and holding engaging speeches to engage the Danish populace into action."
+DEN_Nationalization_of_Key_Industries:0 "Nationalization of Key Industries"
+DEN_Nationalization_of_Key_Industries_desc:0 "We shall seize the vital industries of [DEN.GetNameDef]'s economy with our first economic reforms. These include the arms plants, metal industries, and shipping companies."
+DEN_Introduce_Land_Reform:0 "Introduce Land Reform"
+DEN_Introduce_Land_Reform_desc:0 "Large landowners and wealthy capitalists control a majority of the agricultural industry. With the bourgeois government gone, we shall gradually break up these private holdings."
+DEN_Soviet_Military_Aid:0 "[SOV.GetAdjective] Military Aid"
+DEN_Soviet_Military_Aid_desc:0 "The Soviet Red Army is a feared fighting force with an impressive arms industry backing it. With [SOV.GetAdjective] help, we shall strive to achieve the same to defend the revolution permanently!"
+DEN_Soviet_Economic_Aid:0 "[SOV.GetAdjective] Economic Aid"
+DEN_Soviet_Economic_Aid_desc:0 "The [SOV.GetAdjective] economy is the second-largest globally, and with such a high volume of production, their aid will significantly help [DEN.GetNameDef] bolster its industries."
+DEN_Encourage_Collective_Bargaining:0 "Encourage Collective Bargaining"
+DEN_Encourage_Collective_Bargaining_desc:0 "In opposition to the large businesses, we shall further strengthen the labor unions with legislation further leveraging the workers in negotiations."
+DEN_Invite_Select_Communist_Ministers:0 "Invite Select Communist Ministers"
+DEN_Invite_Select_Communist_Ministers_desc:0 "Though the communists' goals are unacceptable and irresponsible, including some of them in our government will increase our support among the lower classes. Either way, they do have some talented people."
+DEN_Align_the_Unions:0 "Align the Unions"
+DEN_Align_the_Unions_desc:0 "While the unions are mostly behind our government's agenda, many industries are still made up of conservative or reactionary currents. We will make sure the labor movement's direction is unified."
+DEN_Encourage_Artisan_Production:0 "Encourage Artisan Production"
+DEN_Encourage_Artisan_Production_desc:0 "Instead of forcibly centralizing our economy around a few state sanctioned may mathematically yield the highest production quota, but the individual skilled labourer selling his products at a fair price will be a lot less alienated from his work than his factory working counter-part."
+DEN_Forced_Heavy_Industrialization:0 "Forced Heavy Industrialization"
+DEN_Forced_Heavy_Industrialization_desc:0 "We shall lay our focus upon the centralization of our industrial economy to maximize the efficiency of the production of goods important for the thriving of the proletariat."
+DEN_Alliegence_to_Moscow:0 "Alliegence to Moscow"
+DEN_Alliegence_to_Moscow_desc:0 "The home of the revolution, Russia, has set an increadible precedent as the first Marxist revolution and has continued to uphoald its principles. An alliance between our two nations shall carry the torch of the proletariat further into Europe."
+DEN_Icelandic_path_to_Socialism:0 "Icelandic Path to Socialism"
+DEN_Icelandic_path_to_Socialism_desc:0 "[ICE.GetNameDefCap] has always enjoyed close ties to Denmark through various royal treaties. But that spirit carries forth even after the dismantlement of the monarchy and we shall do our best to reconnect with the Icelandic nation."  
+DEN_Scandinavian_Plan:0 "Scandinavian Plan"
+DEN_Scandinavian_Plan_desc:0 "The communists of Finland, Norway, Sweden and of course Denmark have dreamed of a Pan-Scandinavian union state, akin to the Italian or German example, only of course based upon proletarian principles. There sadly is no way around war in achieving this dream, but with the support of the Scandinavian proletarians sharing our vision this war will hopefully be brief and bloodless."
+DEN_Defy_Russia:0 "Defy Russia"
+DEN_Defy_Russia_desc:0 "The DKP has always been split on the issue of the development of the Russian Revolution. Larsen was of course always a supporter of Lenin, Stalin and the rest of their leadership, but the Central Committee seems to favour a path of independence from [SOV.GetNameDef]."
+DEN_Pan_Scandinavianism:0 "Pan Scandinavianism"
+DEN_Pan_Scandinavianism_desc:0 "Reinvigorating the dream of a Scandinavian nation united by the proletarian spirit will be the goal of all official channels in preparation for more concrete plans on the matter."
+DEN_International_Volunteers:0 "International Volunteers"
+DEN_International_Volunteers_desc:0 "With our distance to Russia many of the worlds anti-leninist socialists have found our government agreeable and have vowed to fight to protect our independent revolution."
+DEN_International_Theorists:0 "International Theorists"
+DEN_International_Theorists_desc:0 "Communists across the world (even in the so-called \"Union of Soviet Socialist Republics\") are prosecuted and barred from expressing their views. We shall provide a refuge for them to further develop their theories and perhaps we may invite them to help with our revolution."
+DEN_Overthrow_the_Faux_Revolution:0 "End the Charade"
+DEN_Overthrow_the_Faux_Revolution_desc:0 "What has only become increasingly clear after the passing of Lenin, the establishment of a faux proletarian state in the aftermath of the Russian Revolution, is now clear to everyone outside of the CPSU. It will be our duty to overthrow this false proletarian state and to show the Soviet people true socialist freedom."
+#DEN_An_Army_of_Peoples:0 "An Army of Peoples"
+#DEN_An_Army_of_Peoples_desc:0 ""
+DEN_Collectivization_of_Agriculture:0 "Collectivization of Agriculture"
+DEN_Collectivization_of_Agriculture_desc:0 "The large landowners taking advantage of the small farmer, not being in possession of farmland, is an especially cruel form of exploitation, which cannot stand under our socialist society."
+DEN_Invite_Gosplan_Planners:0 "Invite Gosplan Experts"
+DEN_Invite_Gosplan_Planners_desc:0 "Until now our Central Planning Comission has been built up and operated independently. Inviting some of [SOV.GetNameDef]s experts can greatly help in our goal of maximising effiecency and bring greater prosperity to Denmark."
+DEN_Primacy_of_the_Peasentry:0 "Primacy of the Peasentry"
+DEN_Primacy_of_the_Peasentry_desc:0 "We have kept our promises in the class alliance between the proletariat and the farmers. Both represent a vital part to our society and both enjoy equal representation in our government."
+DEN_Rapid_Urbanisation:0 "Rapid Urbanization"
+DEN_Rapid_Urbanisation_desc:0 "The growth of the urban proletariat is the precondition to a prosperous Denmark and must be encouraged by our state."
+DEN_Study_the_NEP:0 "Study the New Economic Policy"
+DEN_Study_the_NEP_desc:0 "While Lenins New Economic Policy wasn't perfect and left some cries of exploitation unanswered it seems the healthiest way for our economy to grow. Using it to its fullest, contrary to the Soviet Union may bring a more balanced and well-paced industrial sector."
+DEN_Maintain_Rural_Relations:0 "Maintain Rural Relations"
+DEN_Maintain_Rural_Relations_desc:0 "While the current system of agriculture might have a pinch of exploitation baked into it, collectivizing it or completely discombobulating it some other way will only reduce agricultural produce and the happiness of the peasent class. To the contrary, we shall reluctantly cooperate with the large landowners to power the hunger of the urban proletariat."
+DEN_Puncture_the_Heart_of_Fascism:0 "Puncture the Heart of Fascism"
+DEN_Puncture_the_Heart_of_Fascism_desc:0 "Fascism. What good is it for?"
+DEN_Cut_off_the_Lions_Head:0 "Cut off the Lions Head"
+DEN_Cut_off_the_Lions_Head_desc:0 "The largest empire for the last god knows how many years has decisively been the British Empire, reigning from the Americas, to Africa, to Asia. We shall strike them at their heart, the British Isles, and take down their empire with it."
+DEN_Control_the_Banking_Institutions:0 "Control the Banking Institutions"
+DEN_Control_the_Banking_Institutions_desc:0 "Necessary for the economic development of Denmark are the banks. Such a large responsibility laying within the hands of the sparsely private industries is a concern for many in our government. We shall take action and begin the process of exerting the states control of the banks of Denmark."
+DEN_Encourage_Foreign_Investment:0 "Encourage Foreign Investment"
+DEN_Encourage_Foreign_Investment_desc:0 "The overcontrolling regulations of the economy have largely fallen and Denmark is now ready to receive heaps of incoming investments from the Anglo-American and French credit markets."
+DEN_Abolish_the_Unions:0 "[DEN_Union_Focus_Localisation] the Unions"
+DEN_Abolish_the_Unions_desc:0 "Unions have always encouraged laziness and unproductivity and it is important we diminish their status in society."
+DEN_Crackdown_on_Political_Violence:0 "Defence of the [DEN_Government_Form]"
+DEN_Crackdown_on_Political_Violence_desc:0 "Our current [DEN_Government_Form] stands at odds with foreign invading powers and internal sabotaging parties and we shall make sure the DKP or the DNSAP can't harm our beautiful [DEN_Government_Form]."
+DEN_Safehaven_for_the_Scientists:0 "Scientist Safehaven"
+DEN_Safehaven_for_the_Scientists_desc:0 "The ever-growing tide of fascism and stalinism have left the intellectuals of Europe stranded with nowhere to go. We shall gladly accept them into our schools, universities and research facilities."
+DEN_Tactical_Nationalizations:0 "Tactical Nationalizations"
+DEN_Tactical_Nationalizations_desc:0 "Our recently expanded coalition of socialists have of course demanded some outrageous policies. But more importantly their political capital enables us to enact things previously unthinkable. One of those policies is the targeted nationalization of either failing or law-breaking businesses."
+DEN_Agrarian_Reform:0 "Agrarian Reform"
+DEN_Agrarian_Reform_desc:0 "The agricultural sector has suffered greatly under the great depression and is in dire need of some reform. We shall overhaul regulations in this sector and hopefully reinvigorate it."
+DEN_Tax_Reform:0 "Tax Reform"
+DEN_Tax_Reform_desc:0 "The current tax system imposed by the social democratic governments of the past greatly hinders business and the wealthy in general. We shall scale back the progressive nature of these taxes to strengthen our economy."
+DEN_Public_Investments:0 "Public Investments"
+DEN_Public_Investments_desc:0 "Targeted investments by the state will greatly further the sectors in which profitability generally is low, which will in turn strengthen our entire economy."
+DEN_Armed_Neutrality:0 "Armed Neutrality"
+DEN_Armed_Neutrality_desc:0 "Though we shall declare unilateral neutrality, we shall back up these words with increased militarization and a population ready to defend Denmark."
+DEN_Scandinavian_Connections:0 "Scandinavian Connections"
+DEN_Scandinavian_Connections_desc:0 "Political, social and economic ties between our Scandinavian nations have always been strong, but it these troubling times it seems like a full-blown defensive alliance is needed to safeguard Scandinavia."
+DEN_Look_towards_the_West:0 "Look Towards the West"
+DEN_Look_towards_the_West_desc:0 "The western Anglo-French Alliance has made it its mission to contain the aggressive [GER.GetName] and helping out in their defensive alliance will further box in the rabid Germans."
+DEN_Unified_Defence_Plan:0 "Unified Defence Plan"
+DEN_Unified_Defence_Plan_desc:0 "We shall coordinate the high commands of the Scandinavian alliance to come up with a unified plan for the defence of Scandinavia."
+DEN_Establish_the_Nordic_Council:0 "Establish the Nordic Council"
+DEN_Establish_the_Nordic_Council_desc:0 "To further the political and economic integration of Scandinavia we shall establish a council of all its countries to encourage shared policies and similar."
+DEN_Reaffirm_British_Continental_Commitments:0 "Reaffirm [ENG.GetAdjective] Continental Commitments"
+DEN_Reaffirm_British_Continental_Commitments_desc:0 "The British government has in some times seemed like their focus lies on its colonial possessions in Africa or Asia. But we must ensure they honor their commitments to Europe."
+DEN_Reciprocal_Containment:0 "Shared Burden of Containment"
+DEN_Reciprocal_Containment_desc:0 "The containement of [GER.GetNameDef] has been a task mostly undertaken by the French and the English, though as a new part of the Allies this duty also falls upon our shoulders."
+DEN_Regional_Economic_Development:0 "Regional Economic Development"
+DEN_Regional_Economic_Development_desc:0 "To solidify our control over the newly unified Scandinavian state we shall divert resources to invest into the neighbourhoods of our brothers."
+DEN_Rail_Investments:0 "Rail Investments"
+DEN_Rail_Investments_desc:0 "The Danske Statsbaner have suffered from partial underfunding and general governmental disinterest. It is imperative that we reverse this attitude and reconnect our country."
+DEN_Steel_Investments:0 "Steel Investments"
+DEN_Steel_Investments_desc:0 "Denmark is a land of few resources, which is why we have to build our industry around the few resources that are available. We shall gather the scraps of iron ore and invest into steel mills capable of turning it into hardened steel."
+DEN_Business_Ties:0 "Business Ties"
+DEN_Business_Ties_desc:0 "The government should always be in touch with the private sector as imposing regulations from the isolated Folketing often greatly hinders the businesses providing employment and economic growth in our country."
+DEN_Deregulate_Banking:0 "Deregulate Banking"
+DEN_Deregulate_Banking_desc:0 "Bureaucratic regulations have always held back the banking sector from efficiently investing into our society, our newly elected conservative government shall reverse these developments."
+DEN_Shatter_the_Hammer:0 "Shatter the Hammer"
+DEN_Shatter_the_Hammer_desc:0 "The tide of Bolshevism has been stopped here, in Denmark and every step has to be taken to further crush the DKP."
+DEN_Consolidate_Media_Institutions:0 "Consolidate Media Institutions"
+DEN_Consolidate_Media_Institutions_desc:0 "We shall rip the grasp of the media out of the hands of the weak democratic owners and into the hands of our parties propagandists."
+DEN_Invite_German_Advisors:0 "Invite [GER.GetAdjective] Advisors"
+DEN_Invite_German_Advisors_desc:0 "[GER.GetAdjective] military tradition dates back to the Prussian days, though the Great War interrupted that streak of glory. However, the Wehrmacht is already preparing tactics for their next war, which would greatly help the [DEN.GetAdjective] Army."
+DEN_Invite_Italian_Advisors:0 "Invite [ITA.GetAdjective] Advisors"
+DEN_Invite_Italian_Advisors_desc:0 "The [ITA.GetAdjective] Royal Army has learned a lot from its campaign in Ethiopia and seems willing to share that expertise with our new fascist state." #im lying
+DEN_Secure_the_Military:0 "Secure the Military"
+DEN_Secure_the_Military_desc:0 "The foundation of our power base lies in our ability to control the military to act out the [DEN.GetAdjective] might."
+DEN_Secure_Iceland:0 "Secure Iceland"
+DEN_Secure_Iceland_desc:0 "The temporary independence of Iceland shall not stop us from reclaiming them."
+#DEN_Joint_Arms_Production:0 "Increase Arms Production"
+#DEN_Joint_Arms_Production_desc:0 ""
+DEN_Research_Efforts:0 "Military Research Funding"
+DEN_Research_Efforts_desc:0 "With our recent drive to expand our military-industrial complex, investment into the military sciences seems logical."
+DEN_Join_the_Axis:0 "Join the Axis"
+DEN_Join_the_Axis_desc:0 "[GER.GetNameDefcap] to our south is undeniably mighty in its military and economic force. To not ally them would be a colossal waste to [DEN.GetNameDef]."
+DEN_German_Economic_Collaboration:0 "[GER.GetAdjective] Economic Collaboration"
+DEN_German_Economic_Collaboration_desc:0 "The coal and steel-rich [GER.GetName] and our agricultural surplus make a great match. We shall increase our reliance on [GER.GetNameDef]s economy."
+DEN_Invite_the_Wehrwirtschaftsfuhrer:0 "Invite the Wehrwirtschaftsführer"
+DEN_Invite_the_Wehrwirtschaftsfuhrer_desc:0 "The large industrial monopolies of [GER.GetNameDef], like IG Farben, Mercedes, and Krupp, shall be invited into [DEN.GetNameDef] to help develop our economy."
+DEN_Dano_German_Propaganda:0 "Dano-[GER.GetAdjective] Propaganda"
+DEN_Dano_German_Propaganda_desc:0 "The [DEN.GetAdjective] and [GER.GetAdjective]s shall march together into the future for a better Europe."
+DEN_Fighter_Cooperation:0 "[DEN_fighter_coop_localisation]"
+DEN_Fighter_Cooperation_desc:0 "The [DEN_air_localisation] lacks quality, quantity, and expertise; by cooperating with our allies, we can overcome the current state of the Airforce."
+DEN_Look_Elsewhere:0 "Denmark First"
+DEN_Look_Elsewhere_desc:0 "The [DEN.GetAdjective] nation cannot be under any circumstances subservient to another. The [DEN.GetAdjective] destiny is ours to decide."
+DEN_Rapidly_Increase_Arms_Production:0 "To Arms, Danes!"
+DEN_Rapidly_Increase_Arms_Production_desc:0 "The factory workers shall reach towards their hammers and create the arms used by the soldier to protect [DEN.GetNameDef]!"
+DEN_Scandinavian_Intervention:0 "Scandinavian Intervention"
+DEN_Scandinavian_Intervention_desc:0 "Scandinavia can not tolerate totalitarian governments ruling within it; we must make sure the Scandinavian countries stay democratic!"
+DEN_Militarization_of_Society:0 "Militarization of Society"
+DEN_Militarization_of_Society_desc:0 "[DEN.GetAdjective] society has become weak through the pacifism of the social democratic administration of the last decades. We shall reinvigorate the fighting spirit of the [DEN.GetAdjective]."
+DEN_Expand_Military_Research:0 "Expand Military Research"
+DEN_Expand_Military_Research_desc:0 "With our recent drive to expand our military-industrial complex, we shall also invest in military research."
+DEN_Danish_Autarky:0 "[DEN.GetAdjective] Autarky"
+DEN_Danish_Autarky_desc:0 "While [DEN.GetNameDef] is not rich in resources, it is rich in economic and military might, with which we shall make sure our supply chain is secured."
+DEN_Bolster_Danish_Corporations:0 "Bolster [DEN.GetAdjective] Corporations"
+DEN_Bolster_Danish_Corporations_desc:0 "We must make sure that the industrialists supporting our party can reap the rewards of our war economy."
+DEN_Exploit_the_Conquered_Lands:0 "Exploit the Conquered Lands"
+DEN_Exploit_the_Conquered_Lands_desc:0 "The enemies of the [DEN.GetAdjective] have fallen one by one, and now their lands are under our control. We shall make use of their resources and industries."
+DEN_Cross_the_Skagerrak:0 "Cross the Skagerrak"
+DEN_Cross_the_Skagerrak_desc:0 "The national bond of Denmark and Norway is undeniable, and both shall now be reunited under one ruler."
+DEN_Return_to_England:0 "Return to England"
+DEN_Return_to_England_desc:0 "After the disaster at Stamford Bridge, Scandinavians have had no say in British affairs. It is now time to prepare for another invasion of England."
+DEN_Reclaim_our_Hibernian_Vassals:0 "Reclaim our Hibernian Vassals"
+DEN_Reclaim_our_Hibernian_Vassals_desc:0 "During the late Viking Age, many Irish principalities were Vassals of the Danish kings; some see this as enough justification for an invasion of the island."
+DEN_Reestablish_the_Danelaw_Confederacy:0 "Reestablish the Danelaw Confederacy"
+DEN_Reestablish_the_Danelaw_Confederacy_desc:0 "Rather than direct domination of the British Isles, we should be reasonable and look back at history to find solutions for our current position. By remodeling England along the lines of the Danelaw, we could introduce [DEN.GetAdjective] administrative customs into the old Anglo-Saxon structures, which will be easier than forcing our [DEN.GetAdjective] system on them directly."
+DEN_Rebirth_of_the_North_Sea_Empire:0 "Rebirth of the North Sea Empire"
+DEN_Rebirth_of_the_North_Sea_Empire_desc:0 "With England, Norway, and Denmark under one leader, it is time to reinvoke images of the old with the proclamation of the North Sea Empire."
+DEN_Never_Again_a_Battle_of_Copenhagen:0 "Never Again a Battle of Copenhagen"
+DEN_Never_Again_a_Battle_of_Copenhagen_desc:0 "The unprovoked Battle of Copenhagen destroyed the Danish Royal Navy and Danish national pride with it. We must strengthen our navy to be prepared for the next unprovoked raid."
+DEN_Fight_for_Denmark:0 "Fight for Denmark"
+DEN_Fight_for_Denmark_desc:0 "The last century of peace has inspired pacifism in the average Dane, but pacifism in such an unstable situation could wipe away [DEN.GetNameDef] from the map."
+DEN_Dismantle_the_Unions:0 "Dismantle the Unions"
+DEN_Dismantle_the_Unions_desc:0 "The only purpose of the unions is to encourage laziness among the workers. To address this inefficiency, we will abolish the institution altogether."
+DEN_Reascension_of_the_Aristrocracy:0 "Reascension of the Aristocracy"
+DEN_Reascension_of_the_Aristrocracy_desc:0 "The current disempowered state of the aristocracy is a disgrace and has to be addressed."
+DEN_Restore_Aristocratic_Land_Rights:0 "Restore Aristocratic Land Rights"
+DEN_Restore_Aristocratic_Land_Rights_desc:0 "It's no wonder that the power of the aristocracy dwindles when a democratic government is in control. So currently, with no fault of their own, the royals of the lands have not been left with much. We can elevate their position by granting them some generous land rights."
+DEN_Retain_the_Welfare_State:0 "Retain the Welfare State"
+DEN_Retain_the_Welfare_State_desc:0 "While the democratic cabinets of the last century have made many misguided attempts to reform Denmark, the welfare state is not one of those. It has dramatically increased the living standard of the average Dane, with which we outshine most industrialized countries. So we shall keep this system in place for the betterment of [DEN.GetNameDef]."
+DEN_Social_Nationalism:0 "Social Nationalism"
+DEN_Social_Nationalism_desc:0 "Though Danish parliamentarism has been extinguished, some of its more thoughtful contributions to Danish society shall be kept. One of those surely are selected social programs bringing prosperity to the whole of Denmark. Abolishing any of these would incur a large loss of support for the monarchy and is to be avoided."
+DEN_Reinvigorate_the_Officer_Corp:0 "Reinvigorate the Officer Corps"
+DEN_Reinvigorate_the_Officer_Corp_desc:0 "A vital duty of the royals of Denmark since medieval times is the defense of Denmark, and for them to fulfill their purpose, we shall increase military education among them."
+DEN_Royal_Industries:0 "Royal Industries"
+DEN_Royal_Industries_desc:0 "During the democratic phase of our country, the Burghers have had the lion's share of industry, trade, and many other sectors. With this political shift, the aristocrats shall now dominate the industries of [DEN.GetNameDef]."
+DEN_The_Royal_Academy:0 "The Royal Academy"
+DEN_The_Royal_Academy_desc:0 "With the position of the aristocrats secured again, they can focus on education and the arts again."
+DEN_Amnesty_for_Political_Prisoners:0 "Amnesty for Political Prisoners"
+DEN_Amnesty_for_Political_Prisoners_desc:0 "Most of the followers of the socialists and fascists were just heavily misled by the political leaders, and most have served for their mistakes."
+DEN_Norwegian_Economic_Developement:0 "Norwegian Economic Development"
+DEN_Norwegian_Economic_Developement_desc:0 "We shall integrate the Norwegian economy even further by investing in the Kingdom."
+DEN_Norwegian_War_Infrastructure:0 "Norwegian War Infrastructure"
+DEN_Norwegian_War_Infrastructure_desc:0 "A conflict between [DEN.GetNameDef] and [SWE.GetNameDef] seems inevitable, so preparing our fronts will be essential to beat back our age-old rival."
+DEN_Swedish_Economic_Developement:0 "Swedish Economic Development"
+DEN_Swedish_Economic_Developement_desc:0 "The Swedes didn't meet our invasion of Sweden with much enthusiasm. We might convince them that Danish rule is more beneficial than independence with some focused economic development."
+DEN_Reclaim_our_Baltic_Possessions:0 "Reclaim Our Baltic Possessions"
+DEN_Reclaim_our_Baltic_Possessions_desc:0 "The Duchy of Estonia was granted to Denmark by the crusades in the east and played a vital role in Baltic trade. With [DEN.GetNameDef] on the rise, we shall reclaim Estonia."
+DEN_Reclaim_the_Swedes:0 "Reclaim the Kingdom of Sweden"
+DEN_Reclaim_the_Swedes_desc:0 "Since the Swedish War of Liberation, Sweden has played a prominent role in North European politics, but that will now end again. It will be again designated as a constituency of [DEN.GetNameDef]."
+DEN_Reclaim_the_Finns:0 "Reclaim the Duchy of Finland"
+DEN_Reclaim_the_Finns_desc:0 "Finland has always been defenseless unless protected by another power. Without outside domination, Finland cannot prosper." #that kinda mean im sorry
+DEN_Focus_Outwards:0 "Return to the World Stage"
+DEN_Focus_Outwards_desc:0 "Denmark has been dormant in international politics ever since the humiliating peace in 1814; more than a hundred years later, [DEN.GetNameDef] is ready to return to the world stage."
+DEN_Reestablish_French_Ties:0 "Reestablish [FRA.GetAdjective] Ties"
+DEN_Reestablish_French_Ties_desc:0 "We fought bravely side by side with the Napoleonic forces of France, and as we did in 1813, we shall also now seek close relations with the French."
+DEN_Reestablish_Polish_Ties:0 "Reestablish [POL.GetAdjective] Ties"
+DEN_Reestablish_Polish_Ties_desc:0 "The alliances between the Poles and the Danes have been plenty and a weigthy counter balance to any German powers. In our current crisis of the rising [GER.GetName] seeking close ties with the Polish government will come in handy."
+DEN_Reclaim_Schleswig:0 "Reclaim Schleswig"
+DEN_Reclaim_Schleswig_desc:0 "After the defeat of the German Empire in the Great War, the weak democratic government gave up on any claims lost during the Schleswig Wars. We shall forcefully correct this mistake."
+DEN_The_Stolen_Kingdom:0 "Brothers, Torn Apart"
+DEN_The_Stolen_Kingdom_desc:0 "The separation of the Skagerrak shall not keep Denmark and Norway apart! Denmark shall reunite with its national brother, and King Christian shall reunite with his actual brother."
+DEN_Scandinavian_Cooperation:0 "Scandinavian Cooperation"
+DEN_Scandinavian_Cooperation_desc:0 "Scandinavians share a common history, so old it's nearly incomprehensible. Scandinavia must defensibly band together to protect the peninsula from foreign invasion."
+DEN_Direct_Involvement:0 "Send Advisors to [NOR.GetNameDef]"
+DEN_Direct_Involvement_desc:0 "In support of Haakon, the [NOR.GetAdjective]s shall receive the best military advisors [DEN.GetNameDef] has to offer."
+DEN_Legitimize_the_Kingdom_of_Norway:0 "Stabilize [NOR.GetNameDef]"
+DEN_Legitimize_the_Kingdom_of_Norway_desc:0 "The political instability caused by Haakon VII's royal coup has somewhat damaged [NOR.GetNameDef]; we must make sure to mend these wounds."
+DEN_Restoration_of_Denmark_Norway:0 "Restoration of Denmark-Norway"
+DEN_Restoration_of_Denmark_Norway_desc:0 "Over 100 years after the discontinuation of the Dano-Norwegian union, it will again be a major power in the European theatre."
+#DEN_Kalmar_Unification:0 "Kalmar Unification"
+#DEN_Kalmar_Unification_desc:0 ""
+#DEN_Reunite_the_Peninsula:0 "Reunite the Peninsula"
+#DEN_Reunite_the_Peninsula_desc:0 ""
+DEN_CIA_Contacts:0 "CIA Contacts"
+DEN_CIA_Contacts_desc:0 "The Americans, our dear allies, have their fair share of expertise in the branches of intelligence and espionage and to further our own intelligence goals we shall foster cooperation."
+
+
+DEN_Continue_the_Fight:0 "Continue the Fight"
+DEN_Continue_the_Fight_desc:0 "[DEN.GetNameDef] is beaten but not defeated! With [ENG.GetAdjective] support, we shall continue fighting to recapture our homeland."
+DEN_Sabotage_German_Supply:0 "Sabotage [?occupation_target.GetAdjective] Supply"
+DEN_Sabotage_German_Supply_desc:0 "Though our government has been forced to flee out of Jutland and Sjælland, many partisans dedicated to liberty, freedom, and [DEN.GetNameDef] lie dormant, waiting for our command. We shall use them to make supplying the occupying forces a living nightmare."
+DEN_Target_Danish_Collaborators:0 "Target [DEN.GetAdjective] Collaborators"
+DEN_Target_Danish_Collaborators_desc:0 "Though most [DEN.GetAdjective] left behind wait eagerly for our return, some have made a career out of betraying the [DEN.GetAdjective] nation by collaborating with the occupiers."
+DEN_Scuttle_the_Ships:0 "Scuttle the Ships"
+DEN_Scuttle_the_Ships_desc:0 "Some parts of our navy have been sadly left behind in the ports of Copenhagen. Those ships are at risk of being seized by the occupiers. We can make sure these ships stay out of [GER.GetAdjective] hands by convincing the "collaborationist" admiral to run the vessels aground."
+DEN_Alliance_with_the_Communists:0 "Alliance with the Communists"
+DEN_Alliance_with_the_Communists_desc:0 "Before the invasion of [DEN.GetNameDef], relations between the democratic parties and the DKP have been cold in the best times. But this shared experience of occupation lets us overlook these differences. Let us liberate [DEN.GetNameDef] together!"
+DEN_Local_Recruitment:0 "Local Recruitment"
+DEN_Local_Recruitment_desc:0 "The few islands that we have left, protected by the [faction_leader.GetAdjective] Navy, are sparsely populated, but with the right motivations may be a new source of recruits for the [DEN_army_localisation]."
+DEN_BBC_Broadcasts_to_Denmark:0 "BBC Broadcasts to Denmark"
+DEN_BBC_Broadcasts_to_Denmark_desc:0 "Even in peacetime Denmark, John Christmas Møller was a fervorous speaker, but the occupation has riled him up. In collaboration with the BBC, we shall let him become the voice of the occupied [DEN.GetAdjective]."
+DEN_British_Guns:0 "[ENG.GetAdjective] Guns"
+DEN_British_Guns_desc:0 "Our continued resistance has inspired many [ENG.GetAdjective] politicians in London, and the [ENG.GetAdjective] government has declared itself willing to hand over some infantry weapons to [DEN.GetNameDef]."
+DEN_Liberation:0 "Liberation"
+DEN_Liberation_desc:0 "Many were unsure if this day would come, but alas, it is here. It's Liberation Day for the occupied [DEN.GetAdjective] as they put the last few years of occupation behind them and look optimistically into the future."

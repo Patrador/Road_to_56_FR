@@ -72,6 +72,7 @@
  ROM_eugeniu_rosca:0 "Eugeniu Rosca"
  ROM_petre_barbuneanu:0 "Petre Bărbuneanu"
 
+ ROM_claim_state_to_divide:0 "Revendiquer [FROM.GetNameDef]"
  ROM_claim_debar:0 "Revendiquer Debar"
  ROM_claim_mitrovica:0 "Revendiquer Mitrovica"
  ROM_claim_west_sandzak:0 "Revendiquer le Sandzak occidental"
@@ -82,6 +83,7 @@
  ROM_claim_prekmurje:0 "Revendiquer le Prekmurje"
  ROM_claim_lower_styria:0 "Revendiquer Basse-Styrie"
  ROM_claim_herzegovina:0 "Revendiquer l'Herzégovine"
+ ROM_claim_posavina:0 "Revendiquer la Posavina"
 
  DOD_romania.800.t:0 "[BUL.getLeader] exige la Macédoine"
  DOD_romania.800.desc:0 "Alors que le pays était un spectateur dans les négociations menant au démantèlement de la Yougoslavie, le gouvernement bulgare demande le contrôle de la Macédoine, arguant que la population est ethniquement bulgare et que ce serait un signe de bonne volonté."

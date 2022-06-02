@@ -20,7 +20,7 @@
  
  YUG_UST_fascism_party:0 "Ustaša"
  YUG_UST_fascism_party_long:0 "Ustaša – Hrvatski Revolucionarni Pokret"
- YUG_ZBR_fascism_party:0 "ZBOR"
+ YUG_ZBR_fascism_party:0 "Zbor"
  YUG_ZBR_fascism_party_long:0 "Jugoslovenski Narodni Pokret Zbor"
  
  #SER
@@ -30,9 +30,9 @@
  ##############################################################
  
  YUG_prince_paul:0 "Prince Paul"
- YUG_prince_paul_desc:0 "Prince Paul Karađorđević est le cousin germain du roi Alexandre Ier, aujourd'hui décédé. Il est le régent de la Yougoslavie depuis que le fils d'Alexandre est mineur."
- YUG_peter_II:0 "Petar II"
- YUG_peter_II_desc:0 "Petar II, du nom du dernier roi de Serbie Petar I, est le fils du défunt roi Alexandre I. Bien qu'étant officiellement le monarque, il a été incapable de gouverner en raison de son âge."
+ YUG_prince_paul_desc:0 "Prince Paul Karađorđević est le cousin germain du Roi Alexandre Ier, aujourd'hui décédé. Le fils d'Alexandre étant mineur, il est le régent de la Yougoslavie."
+ YUG_peter_II:0 "Pierre II"
+ YUG_peter_II_desc:0 "Pierre II, du nom du dernier roi de Serbie Pierre I, est le fils du défunt Roi Alexandre I. Bien qu'étant officiellement le monarque, il a été incapable de gouverner en raison de son âge."
  
  YUG_milan_grol:0 "Milan Grol"
  YUG_ivo_andric:0 "Ivo Andrić"

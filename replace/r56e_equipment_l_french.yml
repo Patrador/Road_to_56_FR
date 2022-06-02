@@ -47,10 +47,10 @@ l_french:
  POR_EQUIPMENT_VERSION_14:0 "P-130"
 
 ###------> Naval Units <><> <><> <><> <><> <><>
- coastal_defense_ship:0"Bâtiment de défense littorale"
- coastal_defense_ship_desc:0"Construits pour la Marine suédoise avant la Première Guerre mondiale, les trois cuirassés côtiers de la classe Sverige ressemblaient davantage à des croiseurs lourds, tant par leur taille (ils déplaçaient plus de 6 800 tonnes) que par leur armement (composé de quatre canons K/45 M12 de 283 mm/44 calibres). Relativement lents pour des croiseurs, ils étaient cependant lourdement blindés. Les trois navires de cette classe servirent pendant la Seconde Guerre mondiale."
- coastal_defense_ship_1:0"Classe Sverige"
- coastal_defense_ship_1_desc:0"Construits pour la Marine suédoise avant la Première Guerre mondiale, les trois cuirassés côtiers de la classe Sverige ressemblaient davantage à des croiseurs lourds, tant par leur taille (ils déplaçaient plus de 6 800 tonnes) que par leur armement (composé de quatre canons K/45 M12 de 283 mm/44 calibres). Relativement lents pour des croiseurs, ils étaient cependant lourdement blindés. Les trois navires de cette classe servirent pendant la Seconde Guerre mondiale."
+ coastal_defense_ship:0 "Bâtiment de défense littorale"
+ coastal_defense_ship_desc:0 "Construits pour la Marine suédoise avant la Première Guerre mondiale, les trois cuirassés côtiers de la classe Sverige ressemblaient davantage à des croiseurs lourds, tant par leur taille (ils déplaçaient plus de 6 800 tonnes) que par leur armement (composé de quatre canons K/45 M12 de 283 mm/44 calibres). Relativement lents pour des croiseurs, ils étaient cependant lourdement blindés. Les trois navires de cette classe servirent pendant la Seconde Guerre mondiale."
+ coastal_defense_ship_1:0 "Classe Sverige"
+ coastal_defense_ship_1_desc:0 "Construits pour la Marine suédoise avant la Première Guerre mondiale, les trois cuirassés côtiers de la classe Sverige ressemblaient davantage à des croiseurs lourds, tant par leur taille (ils déplaçaient plus de 6 800 tonnes) que par leur armement (composé de quatre canons K/45 M12 de 283 mm/44 calibres). Relativement lents pour des croiseurs, ils étaient cependant lourdement blindés. Les trois navires de cette classe servirent pendant la Seconde Guerre mondiale."
  torpedo_equipment_research:0 "Recherche sur les torpilles"
 
 ###------> Battlecruisers

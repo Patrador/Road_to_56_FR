@@ -4,24 +4,15 @@
 
 l_french:
 
-##### Corrections du jeu vanilla #####
-
- VICTORY_POINTS_8248:0 "Luanda" # vanilla : Louanda
- FRA_arms_purchases_in_the_us:1 "Acheter des armes américaines" # vanilla : Acheter des armes [USA.GetAdjFP] (pb de loc, besoin de refaire les scripts pour R56 FR. Donc remplacé pour le moment)
-
 ##### Trad des textes bruts de R56 #####
 
 ## Technologies
  # Infanterie
  CLIMATE_SPECIFIC_EQUIPMENT:0 "ÉQUIPEMENT SPÉCIFIQUE AU CLIMAT"
 
- # Blindés
- TROOP_TRANSPORTS:0 "TRANSPORT DE TROUPES"
- ARMOURED_CARS:0 "VOITURES BLINDÉES"
- ARMORED_VECHICLES:0 "VÉHICULES BLINDÉS"
- Mechanized_Transports:0 "Transports mécanisés"
- Motorized_Rocket_Artillery:0 "Artillerie motorisée"
- Amphibious_Transports:0 "Transports amphibies"
+ # Infanterie mécanisée
+ MECHANIZED_INFRANTRY:0 "Infanterie mécanisée"
+ TRAINS_RAILWAYS:0 "Trains & Rails"
 
  # Doctrine terrestre
  ASYMMETRICAL_WARFARE_DOCTRINE:0 "DOCTRINE DE LA GUERRE ASYMÉTRIQUE"
