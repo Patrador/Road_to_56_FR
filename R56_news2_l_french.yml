@@ -1,0 +1,16 @@
+﻿l_french:
+
+ r56.news_event.41.t:0 "[BRA.GetNameDefCap] se tourne vers l'Atlantique"
+ r56.news_event.41.desc:0 "\nSuite à l'engagement de [BRA.GetLeader] de contrôler les lignes commerciales vitales entre [BRA.GetNameDef] et le reste du monde, la politique étrangère [BRA.GetAdjFS] cherche des alliés à proximité de l'océan Atlantique. Afin d'atteindre cet objectif, la faction [BRA.GetFactionName] a été déclarée et des efforts diplomatiques devraient assurer le succès de cette nouvelle politique."
+ r56.news_event.41.a:0 "Cela garantira la sécurité [BRA.GetAdjFS]."
+ r56.news_event.41.b:0 "Nos ennemis s'étendent !"
+
+ r56.news_event.42.t:0 "La faction [BRA.GetFactionName] a été créée"
+ r56.news_event.42.desc:0 "\nSuite à l'engagement de [BRA.GetLeader] à combattre les régimes expansionnistes à travers l'Amérique du Sud, un nouveau traité d'alliance appelé [BRA.GetFactionName] a été signé à [BRA.Capital.GetCapitalVictoryPointName].\n\nCompte tenu du nombre de délégués, d'ambassadeurs et de ministres des affaires étrangères présents, il semble assez certain qu'elle aura de sérieuses répercussions sur le développement politique de la région... voire du monde entier."
+ r56.news_event.42.a:0 "Cela garantira la sécurité [BRA.GetAdjFS]."
+ r56.news_event.42.b:0 "Nos ennemis s'étendent !"
+
+ r56.news_event.43.t:0 "[SWE.GetNameDefCap] organiser sa propre diplomatie défensive"
+ r56.news_event.43.desc:0 "\nPoussant leur politique de neutralité dans une direction légèrement différente, les [SWE.GetHabitants] ont décidé d'établir une organisation de traité défensif qui servirait de pivot à leur politique de défense.\n\nCela leur donnerait des alliés leur permettant de sécuriser leur environnement mais pourrait aussi les conduire à des guerres pour le sort de pays étrangers."
+ r56.news_event.43.a:0 "Cela garantira la sécurité [SWE.GetAdjFS]."
+ r56.news_event.43.b:0 "Nos ennemis s'étendent !"

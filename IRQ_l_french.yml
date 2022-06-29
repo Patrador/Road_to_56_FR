@@ -258,6 +258,24 @@
   IRQ_invite_foreign_investors:0 "Inviter les investisseurs occidentaux"
   IRQ_invite_foreign_investors_desc:0 "Nos vastes gisements de pétrole sont regardés avec avidité par les étrangers qui cherchent à prendre le contrôle de l'or noir qui se trouve sous nos pieds. Nous pouvons utiliser ces intérêts et établir une industrie puissante si nous agissons."
 
+  IRQ_fascist_oil_nationalization:0 "Nationalisation des champs pétroliers"
+  IRQ_fascist_oil_nationalization_desc:0 "Le Royaume-Uni est l'incarnation de l'exploitation capitaliste rapace ! Nous devons prendre notre avenir en main."
+  IRQ_communist_oil_nationalization:0 "Nationalisation des champs pétroliers"
+  IRQ_communist_oil_nationalization_desc:0 "Le Royaume-Uni est l'incarnation de l'exploitation capitaliste rapace ! Nous devons prendre notre avenir en main."
+  IRQ_opportunistic_oil_nationalization:0 "Nationalisation opportuniste du pétrole"
+  IRQ_opportunistic_oil_nationalization_desc:0 "Le Royaume-Uni vaincu, nous devrions prendre notre avenir en main."
+  IRQ_tip_the_oil_balance:0 "Faire pencher la balance du pétrole"
+  IRQ_tip_the_oil_balance_desc:0 "Notre alignement sur le Royaume-Uni peut être utilisé comme monnaie d'échange dans les négociations afin de récupérer le contrôle d'une partie de notre pétrole."
+
+  IRQ_nationalized_oil_fields:0 "@IRQ§Y[IRQ.GetNameDefCap]§! a nationalisé ses champs pétroliers"
+  IRQ_oil_concessions:0 "Concessions pétrolières étrangères"
+
+  IRQ_ally_the_turkish_communists:0 "S'allier aux communistes turcs ?"
+  IRQ_ally_the_turkish_communists_desc:0 "Puisque les Turcs font leur propre révolution, il pourrait être utile de s'allier à eux."
+  IRQ_ally_the_iranian_communists:0 "S'allier aux communistes iraniens ?"
+  IRQ_ally_the_iranian_communists_desc:0 "Puisque les Iraniens font leur propre révolution, il pourrait être utile de s'allier à eux."
+
+  IRQ_assimilate_arabistan:0 "Assimiler l'Arabistan"
 
    irq.1.t:0 "Mission militaire allemande"
    irq.1.d:0 "La montée du fascisme en Irak ouvre une nouvelle porte sur le Moyen-Orient. C'est dans notre intérêt de les préparer à soutenir notre cause."

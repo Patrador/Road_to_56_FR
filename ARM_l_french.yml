@@ -7,7 +7,7 @@
 # SADOYAN, Artavazd (1904-1971)  Rear-admiral (1951)
  armenian_focus:0 "Priorités nationales arméniennes"
  ARM_liberators:0 "Libérateur de l'Arménie"
- 
+
  Armenian_question_category:0 "La question arménienne"
  Armenian_question_category_desc:0 "Le sort du peuple arménien était déjà au cœur des discussions entourant le traité de Versailles. Pourtant, les aspirations des nationalistes arméniens ont été balayées par le traité de Kars et l'oppression soviétique. De nombreux Arméniens vivent en exil et espèrent qu'une Arménie libre apparaîtra à nouveau sur les cartes un jour."
  ARM_form_armenian_national_council:0 "Former un conseil national arménien"
@@ -15,7 +15,7 @@
  ARM_establish_armenian_legion_cost:0 "£army_experience §H10§! £pol_power §H25§! £command_power §H25§!"
  ARM_establish_armenian_legion_cost_blocked:0 "£army_experience §R10§! £pol_power §R25§! £command_power §R25§!"
  ARM_establish_armenian_legion_cost_tooltip:0 "Cela coûte £army_experience 10, £pol_power 25 et  £command_power 25 pour sélectionner cela."
- ARM_establish_national_armenian_government:0 "Établir un gouvernement national arménien"   
+ ARM_establish_national_armenian_government:0 "Établir un gouvernement national arménien"
  armenian_army_category:0 "Organiser l'armée"
  armenian_army_category_desc:0 "Pour être efficace, notre armée doit être organisée."
  armenian_monarchism_category:0 "Le sentiment monarchiste"
@@ -39,11 +39,11 @@
  ARM_expulsion_from_van:0 "Expulser les Kurdes et les Turcs de Van"
  ARM_return_to_van:0 "Rendre le territoire aux Van-Armenians"
  TUR_undo_armenian_policies:0 "Annuler les politiques [ARM.GetAdjFP]"
- 
- 
+
+
  open_kajaran_mine:0 "Ouvrir la mine de Kajaran" #change effect if copper is added
  extract_northern_armenia_deposits:0 "Exploiter l'aluminium du nord de l'Arménie"
- 
+
  ARM_ararat_cement:0 "Ciment Ararat"
  ARM_yerevan_oil_and_gas_factory:0 "Usine de pétrole et de gaz d'Erevan"
  ARM_yerevan_automobile_plant:0 "Usine d'automobile d'Erevan"
@@ -51,7 +51,7 @@
 
  ARM_catholicos_khoren_has_died:0 "§RCatholicos Khoren est mort.§!"
  open_kajaran_mine_developed:0 "La mine Kajaran a été ouverte"
- 
+
  ARM_gold_extraction_idea:0 "Extraction d'or"
  ARM_mass_tank_production_idea:0 "Production de chars"
  ARM_rifle_production_idea:0 "Production de fusils"
@@ -65,17 +65,17 @@
  ARM_repression_apparatus_idea:0 "Appareil de répression"
  ARM_armenian_youth_federation_idea:0 "Fédération de la jeunesse [ARM.GetAdjFS]"
  ARM_cherish_what_we_have_idea:0 "Chérir ce que nous avons"
- 
+
  ARM_party_involvement_idea:0 "Participation à la fête"
  ARM_state_atheism_idea:0 "État athé"
  ARM_beat_production_quotas_idea:0 "Battre les quotas de production"
  ARM_workers_propaganda_idea:0 "Propagande du travailleur"
  ARM_protect_the_revolution_idea:0 "Protéger la révolution"
- 
+
  ARM_generic_democratic_reformer:0 "Hamo Ohanjanyan"
  ARM_generic_fascist_demagogue:0 "Misak Torlakian"
- ARM_generic_communist_revolutionary:0 "Aghasi Sargsyan" 
- 
+ ARM_generic_communist_revolutionary:0 "Aghasi Sargsyan"
+
  ARM_drastamat_kanayan:0 "Drastamat Kanayan"
  ARM_nubar_gulbenkian:0 "Nubar Gulbenkian"
  ARM_alexander_khastisian:0 "Alexander Khastisian"
@@ -92,7 +92,7 @@
  ARM_anastas_mikoyan:0 "Anastas Mikoyan"
  ARM_george_mardikian:0 "George Mardikian"
  ARM_suren_tovmasyan:0 "Suren Tovmasyan" #reserve communist
- 
+
  ARM_abraham_alikhanov:0 "Abraham Alikhanov"
  ARM_hovhannes_ter_isahakyan:0 "Hovhannes Ter-Isahakyan"
  ARM_armenak_artem_hanperiants:0 "Armenak Artem Khanperiants"
@@ -110,33 +110,33 @@
  ARM_artashes_vasilyan:0 "Artashes Vasilyan"
  ARM_artashes_vasilyan2:0 "Artashes Vasilyan"
  ARM_nver_safaryan:0 "Nver Safaryan"
- ARM_garegin_nzhdeh:0 "Garegin Nzhdeh" 
+ ARM_garegin_nzhdeh:0 "Garegin Nzhdeh"
  ARM_garegin_nzhdeh2:0 "Garegin Nzhdeh"
  ARM_garegin_nzhdeh3:0 "Garegin Nzhdeh"
  ARM_sarkis_galajyan:0 "Sarkis Galajyan" #rus. name Sergei Galadzhev
  ARM_karo_halabyan:0 "Karo Halabyan" #architect, maybe replace in future
  ARM_aram_piruzyan:0 "Aram Piruzyan"
  ARM_hovhannes_bagramyan:0 "Hovhannes Bagramyan"
- 
- 
+
+
  ARM_return_from_exile:0 "Retour de l'exil"
  ARM_return_from_exile_desc:0 "L'Arménie était autrefois libre, et, avec le retour de nos parents de leur lieu de refuge, le sera à nouveau."
  ARM_the_last_claimant:0 "Le dernier réclamant"
  ARM_the_last_claimant_desc:0 "Pour retrouver la gloire de notre passé, nous devons nous tenir aux côtés des fils de Léon II."
  ARM_royal_guards:0 "Former la garde royale"
- ARM_royal_guards_desc:0 "Nous devons unir nos meilleurs guerriers en tant que bras droit forts de la monarchie." 
+ ARM_royal_guards_desc:0 "Nous devons unir nos meilleurs guerriers en tant que bras droit forts de la monarchie."
  ARM_ensure_church_support:0 "Assurer le soutien de l'Église"
- ARM_ensure_church_support_desc:0 "La foi est le feu dans le cœur de notre peuple. L'Église apostolique doit se tenir aux côtés du nouveau monarque, dans l'intérêt de tous les [ARM.GetHabitants]." 
+ ARM_ensure_church_support_desc:0 "La foi est le feu dans le cœur de notre peuple. L'Église apostolique doit se tenir aux côtés du nouveau monarque, dans l'intérêt de tous les [ARM.GetHabitants]."
  ARM_reestablish_the_republic:0 "Rétablir le Hanrapetutyun"
  ARM_reestablish_the_republic_desc:0 "Les nouvelles technologies permettront au monde d'entendre une nouvelle fois la voix de l'Arménie."
  ARM_armenian_youth_federation:0 "Fédération de la jeunesse [ARM.GetAdjFS]"
- ARM_armenian_youth_federation_desc:0 "La fraternité est le fondement de la démocratie et elle commence dans le cœur des jeunes hommes." 
+ ARM_armenian_youth_federation_desc:0 "La fraternité est le fondement de la démocratie et elle commence dans le cœur des jeunes hommes."
  ARM_organize_the_institutions:0 "Organiser les institutions"
  ARM_organize_the_institutions_desc:0 "Le gouvernement doit créer les outils dont il a besoin pour servir sa population."
  ARM_diaspora_expertise:0 "Experts de la diaspora"
- ARM_diaspora_expertise_desc:0 "Nos parents sont répartis à travers le monde. Nous devrions écouter ce qu'ils ont appris." 
+ ARM_diaspora_expertise_desc:0 "Nos parents sont répartis à travers le monde. Nous devrions écouter ce qu'ils ont appris."
  ARM_transfer_officers_of_armenian_descent:0 "Transférer les officiers de la descendance [ARM.GetAdjFS]"
- ARM_transfer_officers_of_armenian_descent_desc:0 "Le devoir appelle nos guerriers à la maison. Ils ont beaucoup appris à leur service à l'étranger, mais leur peuple en a besoin maintenant." 
+ ARM_transfer_officers_of_armenian_descent_desc:0 "Le devoir appelle nos guerriers à la maison. Ils ont beaucoup appris à leur service à l'étranger, mais leur peuple en a besoin maintenant."
  ARM_the_triumph_over_communism:0 "Triomphe sur le communisme"
  ARM_the_triumph_over_communism_desc:0 "Les bolcheviks nous ont trahis en ces temps difficiles. Nous devons nous en débarrasser."
  ARM_war_propaganda:0 "Propagande de guerre"
@@ -148,25 +148,25 @@
  ARM_saint_gregory_protects_our_skies:0 "Saint Grégoire, protège notre ciel"
  ARM_saint_gregory_protects_our_skies_desc:0 "Le Saint bénira nos œuvres, tant qu'elles sont construites dans une foi honnête."
  ARM_cherish_what_we_have:0 "Le Caucase est notre patrie"
- ARM_cherish_what_we_have_desc:0 "C'est la place de nos pères et de leurs pères et de leurs pères avant eux pendant des siècles. Nous allons les rendre dignes de leur héritage." 
+ ARM_cherish_what_we_have_desc:0 "C'est la place de nos pères et de leurs pères et de leurs pères avant eux pendant des siècles. Nous allons les rendre dignes de leur héritage."
  ARM_irano_persian_diplomats:0 "Diplomates irano-perses"
  ARM_irano_persian_diplomats_desc:0 "L'ennemi de nos ennemis peut constituer un bon voisin. Nous devrions tendre la main à notre voisin du sud."
  ARM_join_iran:0 "Rejoindre [PER.GetNameDef]"
- ARM_join_iran_desc:0 "La Perse a accueilli nos réfugiés pendant les jours sombres. Nous devrions nous tenir à leurs côtés maintenant alors que les cendres du monde s'allument." 
+ ARM_join_iran_desc:0 "La Perse a accueilli nos réfugiés pendant les jours sombres. Nous devrions nous tenir à leurs côtés maintenant alors que les cendres du monde s'allument."
  ARM_the_wilsonian_promise:0 "La promesse Wilsonienne"
  ARM_the_wilsonian_promise_desc:0 "Autrefois, le monde croyait que Trabzon, Erzurum et le lac Van appartenaient à l'Arménie. Ils avaient raison."
  ARM_operation_nemesis_wasn_t_enough:0 "Reprendre l'opération Némésis"
- ARM_operation_nemesis_wasn_t_enough_desc:0 "Les Turcs ont massacré nos mères, nos pères, par milliers. Notre juste revanche n'est pas encore terminée." 
+ ARM_operation_nemesis_wasn_t_enough_desc:0 "Les Turcs ont massacré nos mères, nos pères, par milliers. Notre juste revanche n'est pas encore terminée."
  ARM_assimilation:0 "Assimilation"
  ARM_assimilation_desc:0 "La rétribution ne demande pas que nous devenions les mêmes que nos ennemis. Nous allons traiter les vaincus mieux que nous avons été traités."
  ARM_strong_hand:0 "Une main forte"
  ARM_strong_hand_desc:0 "La terre que nous gouvernons maintenant appartient aux Arméniens, et seulement aux Arméniens."
  ARM_an_open_hand_to_turkey:0 "Chercher la réconciliation avec l'Anatolie"
- ARM_an_open_hand_to_turkey_desc:0 "Malgré tous leurs maux, les révolutionnaires d'Atatürk ne sont plus les Ottomans et peuvent se tenir à nos côtés contre les bolcheviks."  
+ ARM_an_open_hand_to_turkey_desc:0 "Malgré tous leurs maux, les révolutionnaires d'Atatürk ne sont plus les Ottomans et peuvent se tenir à nos côtés contre les bolcheviks."
  ARM_hayk_youth:0 "Jeunesse d'Hayk"
  ARM_hayk_youth_desc:0 "Hayk est notre père à tous et nous devons élever nos fils pour qu'ils soient à la hauteur de sa force."
- ARM_repression_apparatus:0 "Appareil de répression" 
- ARM_repression_apparatus_desc:0 "Ceux qui ne sont pas avec nous ne sont pas de vrais Arméniens et ne sont pas la volonté du peuple." 
+ ARM_repression_apparatus:0 "Appareil de répression"
+ ARM_repression_apparatus_desc:0 "Ceux qui ne sont pas avec nous ne sont pas de vrais Arméniens et ne sont pas la volonté du peuple."
  ARM_an_army_out_of_diaspora:0 "Armée de la diaspora"
  ARM_an_army_out_of_diaspora_desc:0 "Nous pouvons apprendre beaucoup des voyages de nos parents qui ont parcouru le monde."
  ARM_diaspora_defense_fund:0 "Financer la défense par la diaspora"
@@ -293,14 +293,14 @@
  ARM_event.4.a:0 "Dommage."
  ARM_event.5.t:0 "Nos alliés ont refusé de nous aider !"
  ARM_event.5.desc:0 "Notre humble demande faite à nos libérateurs de nous donner quelques avions a été refusée."
- ARM_event.5.a:0 "Décevant." 
+ ARM_event.5.a:0 "Décevant."
  ARM_event.6.t:0 "Les chasseurs sont enfin arrivés !"
  ARM_event.6.desc:0 "Même si la livraison a été retardée, les chasseurs promis ont finalement été livrés."
  ARM_event.6.a:0 "Excellent !"
  ARM_event.7.t:0 "Les volontaires [ARM.GetAdjMP] veulent rentrer !"
  ARM_event.7.desc:0 "Les unités de volontaires ont été formées dans le but de combattre [SOV.GetNameDef] et de libérer l'Arménie. Avec la défaite de l'État [SOV.GetAdjMS], ces volontaires ont le sentiment que leur mission est accomplie et ils veulent être renvoyés chez eux."
- ARM_event.7.a:0 "Les convaincre de rester un peu plus longtemps." 
- ARM_event.7.b:0 "Dissoudre leur unité." 
+ ARM_event.7.a:0 "Les convaincre de rester un peu plus longtemps."
+ ARM_event.7.b:0 "Dissoudre leur unité."
  ARM_event.8.t:0 "Les volontaires rentrent chez eux !"
  ARM_event.8.desc:0 "Après des combats héroïques pour assurer la libération de notre patrie de l'oppression étrangère, les volontaires qui ont répondu à l'appel de se battre pour [ARM.GetNameDef] sont rentrés chez eux. Ils ont défilé dans le centre-ville sous les acclamations de la foule."
  ARM_event.8.a:0 "Nous nous sommes libérés !"

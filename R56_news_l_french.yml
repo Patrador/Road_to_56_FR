@@ -1,8 +1,8 @@
 ﻿l_french:
- 
+
  #Special generic desc
  country_capitulated.0.d_defeat_hitler:0 "[FROM.GetLeader] a finalement annoncé qu'après un effort considérable, les forces armées [ROOT.GetAdjFP] ont finalement accepté de se rendre sans condition. Il a donc annoncé que sa grande victoire, rendue possible par l'effort de l'ensemble du peuple [ROOT.GetAdjMS] et de ses alliés, marque la fin de la tyrannie hitlérienne.\n\nAvec la défaite finale du nazisme, une nouvelle aube se lève sur l'Europe, mais pour le moment, [ROOT.GetNameDef] restera sous occupation militaire jusqu'à l'établissement d'un accord de paix clair."
- 
+
 #News
 r56.news_event.1.t:0 "Mussolini retiré du pouvoir"
 r56.news_event.1.desc:0 "Après la défaite de l'Italie en Éthiopie et le récent accord de paix entre les gouvernements italien et éthiopien, des manifestations massives se sont formées dans presque toutes les grandes villes italiennes pour demander l'exclusion de Mussolini au poste de Premier ministre italien et réclamer des élections. Avec des troubles sociaux massifs et la possibilité d'émeutes massives, Victor Emmanuel III a démis Mussolini de son poste de Premier ministre italien et a placé le général Pietro Badoglio au poste de Premier ministre par intérim. Une foule à Rome a ensuite pris d'assaut le siège du parti fasciste et a retrouvé Mussolini mort d'une blessure par balle auto-infligée."
@@ -13,16 +13,16 @@ r56.news_event.2.t:0 "Coupe du monde de 1938"
 r56.news_event.2.desc:0 "La Coupe du Monde s'est tenue récemment en France. C'était la troisième édition du tournoi. Quinze équipes ont participé à un tournoi à élimination.\n\n[SWI.GetNameDefCap] contrarie [GER.GetNameDef], bien que les [SWI.GetHabitants] aient été éliminés au tour suivant par [HUN.GetNameDef]. L’équipe [HUN.GetAdjFS] s’est rendue jusqu’à la finale mais a finalement été battue par [ITA.GetNameDef]. C'est la deuxième fois que [ITA.GetNameDef] remporte le tournoi. Le Brésil a également battu la Suède dans la finale de consolation pour obtenir la troisième place.\n\nLa Coupe du Monde a été une distraction agréable pour beaucoup, permettant d'éloigner les esprits de l'orage qui se forme dans le monde entier."
 r56.news_event.2.a:0 "Faisons-la à nouveau dans quatre ans."
 r56.news_event.2.b:0 "Gloire aux [ITA.GetHabitants] !"
- 
+
 r56.news_event.3.t:0 "L'Albanie rejoint le Komintern"
-r56.news_event.3.d:0 "Enver Hoxha, président du Parti communiste albanais, a décidé d'envoyer une demande d'adhésion au Komintern. L'Union soviétique a accepté la demande d'adhésion de l'Albanie et l'ancien royaume d'Albanie fait maintenant partie de la Troisième Internationale. Les deux pays partageant les mêmes idées et ambitions, leur amitié semble solide et l'Albanie prévoit un avenir prometteur pour leur place en Europe." 
+r56.news_event.3.d:0 "Enver Hoxha, président du Parti communiste albanais, a décidé d'envoyer une demande d'adhésion au Komintern. L'Union soviétique a accepté la demande d'adhésion de l'Albanie et l'ancien royaume d'Albanie fait maintenant partie de la Troisième Internationale. Les deux pays partageant les mêmes idées et ambitions, leur amitié semble solide et l'Albanie prévoit un avenir prometteur pour leur place en Europe."
 r56.news_event.3.a:0 "Une autre victoire pour le prolétariat !"
 #was news 336
 r56.news_event.4.t:0 "L'Albanie rejoint l'Axe"
 r56.news_event.4.d:0 "L'Allemagne a accepté la demande de l'Albanie de rejoindre l'Axe. Ils s’opposent maintenant au communisme et aux nations démocratiques. Le roi Zog a exprimé la volonté de montrer au monde entier la puissance de son pays. Le Royaume-Uni et la France ont exprimé leur inquiétude face à la montée du fascisme en Europe et ont rappelé aux autorités allemandes les règles du Traité de Versailles que l'Allemagne devait respecter. Il semble que les démocraties occidentales ne semblent pas réagir contre l'Allemagne et l'Albanie."
 r56.news_event.4.a:0 "Une autre nation encore plie le genou devant l'Allemagne."
 
-#1942 world cup fictional event, probably would had been held in South America due to FIFA internal politics. 
+#1942 world cup fictional event, probably would had been held in South America due to FIFA internal politics.
 r56.news_event.6.t:0 "Coupe du monde de 1942"
 r56.news_event.6.desc:0 "La Coupe du Monde s'est tenue récemment [URG.GetAuEnANP] [URG.GetName]. C'était la quatrième édition du tournoi. Seize équipes ont participé à un tournoi à élimination.\n\nLes anciens champions [ITA.GetAdjMP] ont été battus au deuxième tour par les hôtes. Bien que la course des hôtes se termine en demi-finale, car ils ont été battus par [GER.GetNameDef]. L'équipe [GER.GetAdjFS] a finalement gagné en battant [BRA.GetNameDef] en finale lors un match tendu. C'était la première fois que [GER.GetNameDef] remporte le tournoi.\n\nLa Coupe du monde a été une agréable distraction pour beaucoup, permettant d'éloigner les esprits de la situation politique tendue qui se développe dans le monde entier."
 r56.news_event.6.a:0 "Faisons-la à nouveau dans quatre ans."
@@ -34,7 +34,7 @@ r56.news_event.7.d:0 "Des nouvelles ce matin qui ont choqué une grande partie d
 r56.news_event.7.a:0 "Un développement intéressant."
 r56.news_event.7.b:0 "Independência ou Morte!"
 
-#Pargauy coup 
+#Pargauy coup
 r56.news_event.8.t:0 "Coup d'État militaire au Paraguay"
 r56.news_event.8.d:0 "Après la guerre du Chaco de l'année dernière que le Paraguay a réussi à gagner, le gouvernement paraguayen a conservé le faible commandement d'Eusebio Ayala, mais [PAR.Getleader] a orchestré un coup d'État après avoir passé du temps en exil. [PAR.Getleader] a rapidement mis en place un régime militaire beaucoup plus fort.\n\nLe gouvernement du Paraguay devra très probablement se réorganiser après l'éviction de nombreux loyalistes d'Ayala."
 r56.news_event.8.a:0 "Un développement intéressant."
@@ -51,7 +51,7 @@ r56.news_event.10.t:0 "[From.GetNameDefCap] proclam[From.GetEEntNP] une politiqu
 r56.news_event.10.d:0 "\nAujourd'hui, dans la capitale [From.GetDuDelaDelNP] [From.GetName], [From.GetLeader] a dit au peuple de sa nation qu'il doit regarder au-delà de ses frontières pour trouver la gloire et le bonheur, qu'il est nécessaire d'étendre les frontières que le pays inhibe actuellement. [From.Getleader] a également fait de nombreuses mentions des transgressions perçues [Root.GetDuDelaDelNP] [Root.GetName] à l'égard [From.GetDuDelaDelNP] [From.GetName]. On ne sait pas encore si ce ne sont que des paroles dures ou si ces ambitions vont se transformer en conflit. Bien que les voisins [From.GetDuDelaDelNP] [From.GetName] s'inquiètent d'un éventuel conflit dans la région, beaucoup espèrent une solution diplomatique aux problèmes [From.GetDuDelaDelNP] [From.GetName] avec ses voisins."
 r56.news_event.10.a:0 "C'est pour le moins inquiétant."
 
-#Honduras going fascist 
+#Honduras going fascist
 r56.news_event.11.t:0 "La United Fruit Company prend le contrôle du Honduras"
 r56.news_event.11.d:0 "La United Fruit Company est présente au Honduras depuis 1899, date à laquelle elle a racheté sept producteurs de bananes locaux et a commencé à exporter des bananes vers la Nouvelle-Orléans. Depuis lors, la United Fruit Company s'est de plus en plus impliquée dans la politique hondurienne, bien que cette dernière initiative de la société soit une escalade de son implication dans le pays. Il semble que la United Fruit Company ait fait un rachat complet du petit pays d'Amérique latine.\n\nPersonne ne sait ce que cela implique pour le reste de l'Amérique centrale."
 r56.news_event.11.a:0 "Cela sent les ennuis."
@@ -60,7 +60,7 @@ r56.news_event.11.c:0 "Ce n'est que business."
 
 #Honduras goes AnCap
 r56.news_event.12.t:0 "Création d'une « zone libre des entreprises » en Amérique centrale."
-r56.news_event.12.d:0 "\nDepuis le rachat du Honduras par la United Fruit companies, les affaires ont été bonnes pour l'entreprise de Samuel Zemurray. Bien qu'il semble qu'il y ait eu sous la surface un mécontentement pour l'impitoyabilité de l'homme d'affaires et son contrôle total de l'entreprise d'État. Depuis ce matin, un groupe de puissants membres de la United Fruit Company a renversé Zemurray lors d'un coup d'État. Ils ont rapidement mis en place un nouveau gouvernement qui, selon eux, offrira un environnement « idéal » pour les entreprises. Le coup d'État a permis aux entreprises privées de contrôler entièrement le fonctionnement quotidien du pays. La première mesure radicale qu'ils ont prise pour atteindre cet objectif a été de privatiser l'armée et les forces de l'ordre sous la tutelle d'agences concurrentes de transfert et de récupération des fonds." 
+r56.news_event.12.d:0 "\nDepuis le rachat du Honduras par la United Fruit companies, les affaires ont été bonnes pour l'entreprise de Samuel Zemurray. Bien qu'il semble qu'il y ait eu sous la surface un mécontentement pour l'impitoyabilité de l'homme d'affaires et son contrôle total de l'entreprise d'État. Depuis ce matin, un groupe de puissants membres de la United Fruit Company a renversé Zemurray lors d'un coup d'État. Ils ont rapidement mis en place un nouveau gouvernement qui, selon eux, offrira un environnement « idéal » pour les entreprises. Le coup d'État a permis aux entreprises privées de contrôler entièrement le fonctionnement quotidien du pays. La première mesure radicale qu'ils ont prise pour atteindre cet objectif a été de privatiser l'armée et les forces de l'ordre sous la tutelle d'agences concurrentes de transfert et de récupération des fonds."
 r56.news_event.12.a:0 "Une expérience intéressante."
 r56.news_event.12.b:0 "Libérez le marché, libérez le peuple !"
 r56.news_event.12.c:0 "Une entité répugnante."
@@ -93,7 +93,7 @@ r56.news_event.18.d:1 "Pour la première fois depuis l'époque de l'Empire espag
 r56.news_event.18.a:1 "Un pas de plus vers le rêve."
 r56.news_event.18.b:1 "L'esprit de Bolivar est-il revenu ?"
 
-#Greenland sizeure 
+#Greenland sizeure
 r56.news_event.19.t:0 "[USA.GetNameDefCap] annex[USA.GetEEnt] le Groenland"
 r56.news_event.19.d:0 "\nÉtrange nouvelle en provenance de Washington ce matin, alors qu'un diplomate danois du nom de Henrik Kauffmann a récemment signé et remis le contrôle du Groenland à [USA.GetAuAlaAlNP] [USA.GetName]. Kauffmann a rencontré représentants de [USA.GetLeader] pour formaliser l'accord. Les fonctionnaires de Nuuk ont contacté Kauffmann pour lui demander de proposer cet accord, car ils préféreraient une occupation américaine plutôt qu'une éventuelle occupation par [ENG.getnameDEF] ou [CAN.getnameDEF]. Les observateurs ont exprimé des inquiétudes quant au fait que l'accord est juridiquement douteux au regard du droit international. Mais ces inquiétudes sont restées sans réponse, le gouvernement américain n'ayant pas tardé à signer l'accord."
 r56.news_event.19.a:0 "Le Groenland ? Un territoire en plus, ça fait toujours plaisir."
@@ -174,7 +174,7 @@ r56.news_event.28.e:0 "Il n'y a pas de guerre plus horrible que la guerre civile
  r56.news_event.29.b:0 "Elle nous revient de droit."
  #Extra yalta stuff marijn211
  r56.news_event.30.title:0 "Occupation de l'Allemagne par les Alliés"
- r56.news_event.30.desc:0 "La Seconde Guerre mondiale en Europe étant terminée, les Alliés ont pris le contrôle total de l'Allemagne et l'ont divisée en quatre nations d'occupation, les Britanniques et les Français à l'ouest et les Américains et les Soviétiques à l'est. Le temps qu'il faudra à ces terres pour se remettre et être dénazifiées reste inconnu."
+ r56.news_event.30.desc:0 "La seconde Grande Guerre en Europe étant terminée, les Alliés ont pris le contrôle total de l'Allemagne et l'ont divisée en quatre nations d'occupation, les Britanniques et les Français à l'ouest et les Américains et les Soviétiques à l'est. Le temps qu'il faudra à ces terres pour se remettre et être dénazifiées reste inconnu."
  r56.news_event.30.a:0 "Plus jamais."
  #Japs democratic diplomacy
  r56.news_event.31.title:0 "Une mission diplomatique [JAP.GetAdjFS] ouvre les négociations d'une alliance étrangère"
@@ -185,7 +185,7 @@ r56.news_event.28.e:0 "Il n'y a pas de guerre plus horrible que la guerre civile
  r56.news_event.32.title:0 "Göring réapparaît au Texas !"
  r56.news_event.32.desc:0 "\nUne photo a été publiée, suggérant que Hermann Göring a survécu et s'est enfui [375.Controller.GetAuEnANP] [375.Controller.GetName]. Ancien as allemand qui a soutenu Hitler dans son ascension au pouvoir, il est porté disparu à la fin du conflit qui ravage l'Allemagne et est présumé mort. Il semble qu'il ait fui l'Allemagne en utilisant un avion capable de transporter son poids ainsi qu'une partie de sa garde-robe et un échantillon de sa collection d'art.\n\nIl a été accueilli et protégé par des admirateurs [375.Controller.GetAdjMP] après son arrivée, et il a maintenant été invité à participer au commandement de l'armée de l'air [375.Controller.GetAdjFS]."
  r56.news_event.32.a:0 "S'il s'est échappé, combien de nazis ont fait de même ?"
- r56.news_event.32.b:0 "Bienvenue [375.Controller.GetAuEnANP] [375.Controller.GetName]" 
+ r56.news_event.32.b:0 "Bienvenue [375.Controller.GetAuEnANP] [375.Controller.GetName]"
  r56.news_event.32.c:0 "C'est donc là que le bâtard est allé !"
 
  r56.news_event.33.t:0 "Le monde celtique s'unifie"
@@ -229,3 +229,8 @@ r56.news_event.28.e:0 "Il n'y a pas de guerre plus horrible que la guerre civile
  r56.news_event.39.a:0 "Nous ne serons plus jamais divisés !"
  r56.news_event.39.b:0 "Les Allemands sont de retour, dites-vous ? Qu'est-ce qui pourrait aller mal ?"
  r56.news_event.39.c:0 "Une évolution inquiétante."
+
+ r56.news_event.40.t:0 "[ROM.GetNameDefCap] se rapproche de la Hongrie"
+ r56.news_event.40.desc:0 "\nSous la pression du gouvernement [ROM.GetAdjMS], [HUN.GetLeader] a accepté un traité d'amitié qui réunirait les deux pays au sein de la faction [ROM.GetFactionName]. Cela rendrait clairement la Hongrie dépendante de la Roumanie en matière de défense, mais ne résout pas les tensions hongroises concernant le sort des magyarophones vivant en Transylvanie. On dit que certaines concessions ont été faites en faveur des Szeklers, mais le gouvernement [ROM.GetAdjMS] peut encore en limiter les effets dans la pratique."
+ r56.news_event.40.a:0 "Cela assurera la sécurité des Roumains."
+ r56.news_event.40.b:0 "Nos ennemis s'étendent !"

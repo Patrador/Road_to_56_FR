@@ -3,7 +3,7 @@
  spain.1.t:0 "La guerre civile espagnole"
  SPR_r56_general_n_tt:0 "§GLes généraux loyaux aux nationalistes se rallieront à nos côtés !§!"
  SPR_r56_general_r_tt:0 "§GLes généraux loyaux aux républicains se rallieront à nos côtés !§!"
- SPR_r56_non_intervention_agreement:0 "Accord de non-intervention" 
+ SPR_r56_non_intervention_agreement:0 "Accord de non-intervention"
  SPA_recovering_from_civil_war:0 "Récupération de la guerre civile"
  SPR_join_the_allies:0 "Rejoindre les Alliés"
  SPR_join_the_little_entente:0 "Rejoindre la Petite Entente"
@@ -15,7 +15,7 @@
  SPR_back_the_ceda:0 "Soutenir la CEDA"
  SPR_back_the_ceda_tt:0 "§WLes§! §Ynationalistes§! §Wcommenceront la guerre civile avec §G75§! de §Wpoids politique.§! §WLes§! §Yrépublicains§! §Wcommenceront la guerre civile avec §Y0§! de §Wpoids politique.§!\n"
  SPR_back_the_ceda_2_tt:0 "§RNous soutiendrons les§! §Ynationalistes§! §Rlorsque la guerre civile débutera§!\n "
- SPR_civil_war_load_tt:0 "Les §Ypriorités§! de la guerre civile deviennent §Gdisponibles§!\n " 
+ SPR_civil_war_load_tt:0 "Les §Ypriorités§! de la guerre civile deviennent §Gdisponibles§!\n "
  SPR_back_the_ceda_desc:0 "Soutenons la CEDA. Pour l'Espagne !"
  SPR_establish_a_conspiracy:0 "Élargir la conspiration militaire"
  SPR_establish_a_conspiracy_tt:0 "§WLes§! §Ynationalistes§! §Wcommenceront la guerre civile avec un bonus de :\nExpérience terrestre :§! §G+10§!§W.§!"
@@ -47,7 +47,7 @@
  SPR_equipment_shipments_r56_desc:0 "De nombreuses puissances mondiales ont la gentillesse de « donner » des armes pour aider notre cause."
  SPR_tackle_the_weak_fronts_r56:0 "S'attaquer aux fronts faibles"
  SPR_tackle_the_weak_fronts_r56_desc:0 "Nous savons bien mieux que les républicains quels fronts sont faibles et peuvent être exploités. Ainsi, une nouvelle campagne d'offensive peut commencer !"
- SPR_new_approach_r56:0 "Une nouvelle approche" 
+ SPR_new_approach_r56:0 "Une nouvelle approche"
  SPR_new_approach_r56_desc:0 "Si nous voulons gagner cette guerre. Nous avons besoin de nouvelles tactiques."
  SPR_international_brigdes_r56:0 "Brigades internationales"
  SPR_international_brigdes_r56_desc:0 "Des gens du monde entier viennent dans la République pour arrêter la mêlée nationaliste !"
@@ -107,23 +107,23 @@
  SPR_spain.6.desc:0 "Le gouvernement britannique a rejeté notre demande de restitution du territoire de Gibraltar. Nous avions menacé que s'ils refusaient, des représailles militaires seraient possibles, mais peut-être serait-il plus sûr de reculer ?"
  SPR_spain.6.a:0 "Gibraltar sera espagnol, par la force si nécessaire !"
  SPR_spain.6.b:0 "Cet Ultimatum était une mauvaise idée"
- 
- SPR_spain.7.t:0 "Une vieille connaissance est revenue" 
+
+ SPR_spain.7.t:0 "Une vieille connaissance est revenue"
  SPR_spain.7.desc:0 "Nos services ont identifié qu'Alexandre Mikhaïlovitch Orlov (né Leïba Lazarevitch Feldbine selon nos données) est retourné aux États-Unis après la fin de la guerre civile espagnole. Nos sources indiquent qu'il était un agent du NKVD mais qu'il a refusé de revenir [SOV.GetAuEnANP] [SOV.GetName]."
  SPR_spain.7.a:0 "S'il veut se cacher des communistes, laissez-le."
  SPR_spain.7.b:0 "Essayons de le recruter !"
- 
+
 
  spain.10.t:0 "Dissolution des Cortès"
  spain.10.d:0 "Après que le dirigeant de la Confederación Española de Derechas Autónomas, le principal parti de droite qui avait auparavant coopéré avec le gouvernement centriste d'Alejandro Lerroux, José María Gil-Robles y Quiñones, ait brigué le poste de Premier ministre, qui aurait renforcé le contrôle de la CEDA sur le gouvernement espagnol, le Président Niceto Alcalá-Zamora a décidé de dissoudre les Cortès, car il avait toujours été hostile envers la CEDA et son leader. De nouvelles élections sont prévues pour février et, dans l'intervalle, Manuel Portela restera Premier ministre."
  spain.10.a:0 "Les élections réuniront tout le monde"
- 
+
  spain.21.t:0 "Arrivée de Vicente Rojo"
  spain.21.d:0 "Vicente Rojo a accepté notre invitation et est arrivé dans notre pays. Nous n'avons pas encore décidé de la manière de travailler ici, nous devrons prendre cette décision maintenant."
  spain.21.a:0 "Nous avons besoin de ses compétences sur le terrain"
  spain.21.b:0 "Son expertise nous serait précieuse"
  spain.21.c:0 "Accorder l'asile serait suffisant"
- 
+
  spain.22.t:0 "Les généraux républicains arrivent"
  spain.22.d:0 "José Miaja et d'autres généraux espagnols ont accepté notre invitation et sont arrivés dans notre pays. Nous n'avons pas encore décidé de la manière de travailler ici, nous devrons prendre cette décision maintenant."
  spain.22.a:0 "Soutenier leur mouvement anti-fasciste"
@@ -308,12 +308,12 @@ euskalduna:0 "Euskalduna"
  SPR_expand_the_mines_desc:0 "Nos sous-sols sont riches, surtout en tungstène. L'amélioration de nos capacités d'extraction nous permettra d'en profiter pour les utiliser dans notre expansion industrielle."
  SPR_una_grande_y_libre:0 "Una, grande y libre"
  SPR_una_grande_y_libre_desc:0 "L'Espagne est une nation libre de toute influence étrangère, nous n'avons pas besoin de l'aide d'une quelconque puissance pour affirmer notre place dans ce monde !"
- 
+
  SPR_befriend_portugal:0 "Se rapprocher du Portugal"
  SPR_befriend_portugal_desc:0 "Notre partenaire ibérique est un partenaire essentiel dans ce monde agité."
- 
+
  SPR_francisco_franco:0 "Francisco Franco"
- 
+
  SPR_tallares_mecanicos_y_garaje:0 "Talleres Mecánicos y Garaje RAG S.A."
 
  SPA_ally_the_french:0 "S'allier aux Français"
@@ -340,16 +340,16 @@ euskalduna:0 "Euskalduna"
  SPA_r56_spanish_austrian_diplomatic_unity_desc:0 "Bien que les couronnes d'Autriche et d'Espagne ne soient plus liées de manière dynastique depuis le début du XVIIIe siècle, les menaces du monde moderne soulignent clairement la nécessité d'une alliance forte des monarques d'Europe."
 
  SPA_alliance_with_the_kaiserreich:0 "Alliance avec le Kaiserreich"
- SPA_alliance_with_the_kaiserreich_desc:0 "Le retour des Hohenzollern sur le trône d'Allemagne offre l'opportunité de rejoindre leur alliance afin de défendre le droit divin de régner." 
- 
+ SPA_alliance_with_the_kaiserreich_desc:0 "Le retour des Hohenzollern sur le trône d'Allemagne offre l'opportunité de rejoindre leur alliance afin de défendre le droit divin de régner."
+
  SPA_carlist_diplomacy:0 "Diplomatie carliste"
- SPA_carlist_diplomacy_desc:0 "Nous devons trouver des alliés dans ce monde en constante évolution, afin de pouvoir rester fermes sur notre trône." 
+ SPA_carlist_diplomacy_desc:0 "Nous devons trouver des alliés dans ce monde en constante évolution, afin de pouvoir rester fermes sur notre trône."
 
  SPA_r56_alliance_with_the_kaiserreich:0 "Alliance avec le Kaiserreich"
- SPA_r56_alliance_with_the_kaiserreich_desc:0 "Le retour des Hohenzollern sur le trône d'Allemagne offre l'opportunité de rejoindre leur alliance afin de défendre le droit divin de régner." 
- 
+ SPA_r56_alliance_with_the_kaiserreich_desc:0 "Le retour des Hohenzollern sur le trône d'Allemagne offre l'opportunité de rejoindre leur alliance afin de défendre le droit divin de régner."
+
  SPA_r56_carlist_diplomacy:0 "Diplomatie carliste"
- SPA_r56_carlist_diplomacy_desc:0 "Nous devons trouver des alliés dans ce monde en constante évolution, afin de pouvoir rester fermes sur notre trône." 
+ SPA_r56_carlist_diplomacy_desc:0 "Nous devons trouver des alliés dans ce monde en constante évolution, afin de pouvoir rester fermes sur notre trône."
 
  SPR_direct_NKVD_assistance:0 "Expertise tchékiste"
  SPR_direct_NKVD_assistance_desc:0 "L'aide des Tchékistes serait précieuse pour protéger la révolution."

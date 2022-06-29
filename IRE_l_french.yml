@@ -21,7 +21,7 @@
  NIR_miles_aircraft_company:0 "Miles Aircraft Company"
  NIR_antrim_torpedo_factory:0 "Antrim Torpedo Factory"
  NIR_antrim_torpedo_factory_aviation:0 "Antrim Torpedo Factory"
- 
+
  IRE_finna_fail:0 "L'administration du Fianna Fáil"
  IRE_finna_fail_desc:0 "Le Fianna Fáil ayant remporté les élections, c'est un match nul pour l'instauration de nos réformes."
  IRE_push_the_constituition:0 "Pousser la Constitution"
@@ -83,6 +83,10 @@
  IRE_trade_war:0 "Guerre commerciale paralysante"
  IRE_trade_war_desc:0 "La guerre commerciale anglo-irlandaise se déroule depuis un certain temps déjà à propos d'accords commerciaux contestés et du statut de la constitution de l'Irlande. Il faut y mettre fin avant que notre économie ne soit davantage mise à mal."
  IRE_IRELAND:0 "Irlande"
+ IRE_claim_the_celtic_world:0 "Revendiquer le monde celtique"
+ IRE_claim_the_celtic_world_desc:0 "Unir l'Irlande n'est pas suffisant, notre objectif est la libération de tous nos frères celtes."
+
+
 ireland.1.t:0 "L'Irlande du Nord contre de l'assistance"
 ireland.1.d:0 "Malcolm MacDonald, qui a négocié avec l'État libre d'Irlande aux côtés de Neville Chamberlain, a été envoyé en Irlande pour nous rencontrer et discuter d'une proposition intéressante. Le Royaume-Uni propose de révoquer la partition de l'Irlande, rendant ainsi l'Irlande du Nord sous notre contrôle, à condition que nous nous joignions à l'effort de guerre des Alliés."
 ireland.1.a:0 "N'importe quoi pour un allié"

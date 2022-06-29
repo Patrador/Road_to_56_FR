@@ -26,16 +26,16 @@ l_french:
   aluminium_tech:0 "Technologies de production d'aluminium"
   r56_special_forces_training_tech:0 "Formation des forces spéciales"
   cat_scout_plane:0 "Modèles d'avions de reconnaissance"
-  cat_scout_plane_research:0 "Technologies d'avions de reconnaissance" 
+  cat_scout_plane_research:0 "Technologies d'avions de reconnaissance"
   armor_variant_tech:0 "Variantes de blindage"
   camo_tech:0 "Technologies de camouflage d'infanterie"
   transport_plane_tech:0 "Avions de transport"
   transport_plane_tech_research:0 "Technologies d'avions de transport"
   para_tech_research:0 "Technologies de parachutage"
   r56_special_forces_training_tech:0 "Technologies d'entraînement des forces spéciales"
-  r56_special_forces_training_tech_research:0 "Technologies d'entraînement des forces spéciales" 
+  r56_special_forces_training_tech_research:0 "Technologies d'entraînement des forces spéciales"
   standard_artillery_tech:0 "Technologies d'artillerie de ligne"
-  anti_air_tech:0 "Technologies d'artillerie anti-aérienne" 
+  anti_air_tech:0 "Technologies d'artillerie anti-aérienne"
   amphibious_armor_tech:0 "Technologies de blindés amphibies"
 
 ### Extra Special Forced Tech Categories
@@ -264,6 +264,8 @@ l_french:
  aluminum_production_2_desc:0 "Les progrès des techniques de fraisage nous permettent d'augmenter modérément notre production d'aluminium."
  aluminum_production_3:0 "Production d'aluminium III"
  aluminum_production_3_desc:0 "Grâce à nos nouvelles techniques de fraisage, nous pouvons augmenter considérablement notre production d'aluminium."
+ aluminum_production_4:0 "Production d'aluminium IV"
+ aluminum_production_4_desc:0 "Grâce à nos nouvelles techniques de fraisage, nous pouvons augmenter notre production d'aluminium à des niveaux dont on ne pouvait pas rêver il y a quelques années."
  #-<><><>
  steel_production_1:0 "Production d'acier"
  steel_production_1_desc:0 "Les progrès récents dans les techniques de fraisage nous permettent maintenant d'augmenter notre production d'acier."
@@ -353,7 +355,7 @@ l_french:
  r56_vechicles_folder:0 "Infanterie mécanisée"
  r56_vechicles_folder_desc:0 "Équipement pour les forces d'infanterie mécanisées."
 #-<><><>
- 
+
 
 ###------> New Doc   <><> <><> <><> <><> <><>
 

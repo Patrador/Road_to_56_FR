@@ -15,6 +15,8 @@
  sons_of_liberty_desc:0 "Nous avons combattu la tyrannie une fois, nous la combattrons à nouveau."
  deo_vindice:0 "Deo vidice"
  deo_vindice_desc:0 "« Sous Dieu, notre vengeur »"
+ rt56_office_of_econimic_warfare_idea:0 "Office of Economic Warfare"
+ rt56_office_of_econimic_warfare_idea_desc:0 ""
  r56_USA_world_loco_motive_works:0 "Worlds Locomotive Works"
  r56_USA_world_loco_motive_works_desc:0 "Pendant que le reste du monde s'inquiète de produire des biens de guerre, nous avons la puissance industrielle et l'expertise pour prendre le relais dans la production mondiale de locomotives."
 
@@ -23,26 +25,30 @@
 
  rt56_arnold_unlock_tt:0 "L'armée de l'air s'est vue accorder l'autonomie par l'institution de la §YDivision des plans de guerre aérienne§!."
 
+
  rt56_USA_cash_and_carry_home:0 "Projet Cash and Carry"
  rt56_USA_cash_and_carry_home_desc:0 "Nous apportons une aide matérielle à nos alliés jusqu'à ce que le Congrès prenne connaissance du projet et que nos avocats ne puissent plus faire valoir d'objections à la pratique devant les tribunaux."
  r56_usa_three_dimensional_assault_force:0 "Force d'assaut tridimensionnelle"
+ rt56_the_gaint_wakes_idea:0 "Le Géant se réveille"
 
  USA_curtiss_wright:0 "Curtiss-Wright"
  USA_claude_shannon:0 "Claude Shannon"
  USA_waco:0 "WACO"
  USA_standard_oil_new_jersey:0 "Standard Oil of New Jersey"
  USA_lima_locomotive_works:0 "Lima Locomotive Works"
- 
+
  r56_USA_decision_the_jumping_general:0 "Promouvoir le Jumping General"
  r56_USA_decision_join_us_research_collaboration_program:0 "Rejoindre le programme [USA.GetAdjMS] de coopération sur la recherche"
  r56_USA_decision_initiate_us_research_collaboration_program:0 "Faire pression pour une coopération accrue dans la recherche avec [USA.GetNameDef]"
- 
+
  r56_USA_decision_rural_electrification_act:0 "Loi sur l'électrification rurale"
  r56_USA_decision_flood_control_act:0 "Loi sur la protection contre les inondations"
  r56_USA_decision_anti_price_discrimination_act:0 "Loi sur la discrimination anti-prix"
  r56_USA_decision_foreign_agents_registration_act:0 "Loi sur l'enregistrement des agents étrangers"
  r56_USA_decision_second_vinson_act:0 "Deuxième loi Vinson"
- 
+ USA_WPA_program_decision:0 "Lancer un projet WPA"
+ USA_WPA_program_decision_desc:0 "Mettre les gens au travail dans le cadre d'un projet WPA peut aider à construire des choses dans les États ainsi qu'à l'échelle nationale. Cela peut également jeter les bases d'autres constructions dans certains États."
+
  USA_expand_unoffical_operations:0 "Développer les opérations non-officielles"
  USA_expand_unoffical_operations_desc:0 "L'expérience nous a appris que les renseignements peuvent faire la différence entre la victoire et la défaite. Ils peuvent nous aider à remporter la victoire mais aussi à prévenir la guerre. Une bombe bien placée peut remplacer une flotte de bombardiers et un agent bien placé peut remplacer une division."
  USA_office_of_economic_warfare:0 "Bureau de la guerre économique"
@@ -51,6 +57,8 @@
  USA_cash_and_carry_desc:0 "L'amendement « Cash and Carry » à la loi sur la neutralité permet aux pays de nous acheter du matériel non militaire s'ils paient d'avance et l'expédient eux-mêmes. Le Congrès part du principe qu'aucun pays ne profitera de cette possibilité, en raison du manque de capital initial. Nous pouvons abuser de cet amendement pour fournir du matériel à nos alliés en laissant les pays « emprunter » de l'argent à notre trésorerie qu'ils peuvent ensuite utiliser pour payer les marchandises."
  USA_double_victory:0 "Double victoire"
  USA_double_victory_desc:0 "Il est important d'obtenir le soutien de la communauté afro-américaine lorsque nous sommes en guerre. Le recours à des campagnes de propagande ciblées permettra d'y parvenir. Elles peuvent être trompeuses, mais nous ne pouvons pas laisser le pays être divisé à nos moments les plus critiques."
+ USA_fight_jim_crow_now:0 "Combattre Jim Crow"
+ USA_fight_jim_crow_now_desc:0 "Nous ne pouvons plus laisser la pratique de « Jim Crow » être une tache sur notre nation. Nous devons réprimer cette pratique dès maintenant."
  USA_three_dimensional_assault_force:0 "Force d'assaut tridimensionnelle"
  USA_three_dimensional_assault_force_desc:0 "En développant une doctrine d'assaut amphibie qui intègre non seulement un débarquement bien équipé mais aussi une attaque aérienne et un bombardement naval, nous pouvons nous assurer que nos débarquements ont plus de chances de réussir et de gagner une tête de pont."
  USA_continue_dieselisation:0 "Continuer la diésélisation"
@@ -69,7 +77,7 @@
  r56_usa.1.desc:0 "Une fois de plus, Thomas Dewey est le titulaire contre le candidat actuel. Cette fois-ci, Harry Truman se présente à la présidence en tant que successeur de Franklin Roosevelt."
  r56_usa.1.a:0 "Truman remporte les élections"
  r56_usa.1.b:0 "Dewey remporte les élections"
- 
+
  USA_mobilize_the_national_guard:0 "Mobiliser les réserves"
  USA_mobilize_the_national_guard_desc:0 "La mobilisation des réserves contribuera grandement à la croissance de notre armée."
  rt56_rushed_r_n_d:0 "Recherche et développement précipités"
@@ -97,7 +105,7 @@
  r56_usa.8.t:0 "L'élection présidentielle de 1956"
  r56_usa.8.desc:0 "Une fois encore, le peuple [USA.GetAdjMS] est appelé à voter pour déterminer le sort de la nation."
  r56_usa.8.a:0 "Quatre ans de plus"
- r56_usa.8.b:0 "Le bon ami de Morbo gagne. Haroooooo !" 
+ r56_usa.8.b:0 "Le bon ami de Morbo gagne. Haroooooo !"
 
  r56_usa.9.t:0 "Le congrès du parti de 1952"
  r56_usa.9.desc:0 "Après des années de travail inlassable pour le bonheur du peuple [USA.GetAdjMS], le Premier secrétaire du [USA.GetCommunistParty] a décidé de se retirer de la plupart de ses responsabilités. À la place, le congrès du parti a été invité à choisir entre James W. Ford, le vice-président de Browder et Francis X. Waldron, un chef de faction influent au sein du parti."
@@ -123,6 +131,9 @@
  r56_j_edgar_hoover_given_army_command:0 "Est actuellement un général"
  USA_three_dimensional_assault_force_tt:0 "§YHolland Smith§! est actuellement un général."
 
+ r56_USA_join_the_mexican_revolutionaries:0 "Rejoindre les révolutionnaires mexicains"
+ r56_USA_join_the_mexican_revolutionaries:0 "Les Mexicains nous montrent que la révolution peut réussir ailleurs en Amérique."
+
  USA_invite_cuba:0 "Inviter Cuba"
  USA_invite_cuba_desc:0 "Le gouvernement cubain semble être prêt à collaborer avec nous."
  USA_invite_synarchist_mexico:0 "Inviter le Mexique synarchiste"
@@ -143,29 +154,14 @@
  USA_combating_jim_crow_desc:0 "La défaite du Sud pendant la guerre civile américaine et l'humiliation perçue comme telle qui s'est accumulée à l'époque de la Reconstruction étaient trop pour les cultivateurs et la bourgeoisie du Sud. Ils ont canalisé leur frustration face à la récente déresponsabilisation politique, et l'ont utilisée pour conspirer contre la population afro-américaine nouvellement autonomisée. Les intrigues politiques du Sud ont culminé avec le Compromis de 1877. Le Compromis a vu la fin officielle de la Reconstruction dans le Sud et la levée des dernières protections pour les communautés afro-américaines et les politiciens du Sud. Le compromis était fonctionnellement une trahison et un abandon des Afro-Américains par leurs alliés politiques du Nord.\n \nDepuis lors, les législateurs des États du Sud, poussés par une population encore plus hostile, ont adopté des lois qui marginalisent les Afro-Américains. Des lois qui séparent les Afro-Américains du reste de la population du Sud sur la base de la « race » dans les lieux publics tout en supprimant leur droit de vote. Dans le même temps, la population de ces États mène ses propres campagnes extrajudiciaires pour terroriser et tourmenter les Afro-Américains. Ces pratiques ont été appelées lois « Jim Crow ».\n\nBien que nous ayons actuellement des problèmes plus urgents, nous ne pouvons pas ignorer le fait que la pratique des lois Jim Crow continue à mettre notre pays à rude épreuve. Un pays qui promet « la liberté et la justice pour tous »."
  USA_combating_jim_crow_map:0 "Ces États disposent actuellement de lois Jim Crow."
  USA_pass_a_new_civil_rights_bill:0 "Adopter une nouvelle loi sur les droits civils"
- USA_pass_a_new_civil_rights_bill_tt:0 "L'un de nos États possède les lois Jim Crow."
- USA_pass_a_new_civil_rights_bill_effect_tt:0 "Débloque les décisions visant à combattre les lois Jim Crow dans les États."
+ USA_pass_a_new_civil_rights_bill_tt:0 "L'un de nos États possède les lois §RJim Crow§!."
+ USA_pass_a_new_civil_rights_bill_effect_tt:0 "Débloque les décisions visant à combattre les lois §RJim Crow§! dans les États."
  r56_jim_crow_removed_tt:0 "§Gretire§! les lois Jim Crow dans l'État"
  r56_jim_crow_lowered_tt:0 "§Gdiminue§! l'intensité des lois Jim Crow dans l'État"
- r56_jim_crow_state:0 "a actuellement les lois Jim Crow."
- USA_pass_a_new_civil_rights_bill_flag:0 "Nous avons adopté une nouvelle loi sur les droits civils"
+ r56_jim_crow_state:0 "a actuellement les lois §RJim Crow§!."
+ USA_pass_a_new_civil_rights_bill_flag:0 "Nous avons §Gadopté§! une nouvelle loi sur les droits civils"
  USA_pass_a_new_civil_rights_bill_flag_desc:0 "Un nouveau projet de loi sur les droits civils est un bon premier pas dans la lutte contre les lois Jim Crow dans le Sud."
- USA_fight_jim_crow_in_wv:0 "Lutter contre les lois Jim Crow dans [829.GetName]"
- USA_fight_jim_crow_in_my:0 "Lutter contre les lois Jim Crow dans [361.GetName]"
- USA_fight_jim_crow_in_vg:0 "Lutter contre les lois Jim Crow dans [362.GetName]"
- USA_fight_jim_crow_in_kt:0 "Lutter contre les lois Jim Crow dans [369.GetName]"
- USA_fight_jim_crow_in_nc:0 "Lutter contre les lois Jim Crow dans [363.GetName]"
- USA_fight_jim_crow_in_tn:0 "Lutter contre les lois Jim Crow dans [368.GetName]"
- USA_fight_jim_crow_in_sc:0 "Lutter contre les lois Jim Crow dans [364.GetName]"
- USA_fight_jim_crow_in_ga:0 "Lutter contre les lois Jim Crow dans [365.GetName]"
- USA_fight_jim_crow_in_fl:0 "Lutter contre les lois Jim Crow dans [366.GetName]"
- USA_fight_jim_crow_in_mi:0 "Lutter contre les lois Jim Crow dans [373.GetName]"
- USA_fight_jim_crow_in_ak:0 "Lutter contre les lois Jim Crow dans [372.GetName]"
- USA_fight_jim_crow_in_al:0 "Lutter contre les lois Jim Crow dans [367.GetName]"
- USA_fight_jim_crow_in_ms:0 "Lutter contre les lois Jim Crow dans [370.GetName]"
- USA_fight_jim_crow_in_ls:0 "Lutter contre les lois Jim Crow dans [371.GetName]"
- USA_fight_jim_crow_in_ok:0 "Lutter contre les lois Jim Crow dans [374.GetName]"
- USA_fight_jim_crow_in_tx:0 "Lutter contre les lois Jim Crow dans [375.GetName]"
+ USA_fight_jim_crow_in_from:0 "Lutter contre les lois Jim Crow dans [FROM.GetName]"
 
  USA_population_migration:0 "Migrations de population"
  USA_population_migration_desc:0 "Si les efforts actuels de relance économique ont aidé beaucoup de gens, il y a eu beaucoup de retour en arrière dans certains de nos efforts passés. Le principal inconvénient de notre politique est l'aggravation de la situation des petits agriculteurs ruraux du sud. Nombre d'entre eux, qui ne peuvent plus joindre les deux bouts, ont dû se déraciner et s'installer là où il y a du travail, qui sont actuellement les villes industrielles du nord."
@@ -222,7 +218,7 @@
 
  r56_USA_strike_the_prc:0 "Attaquer la République populaire de Chine"
  r56_USA_strike_the_prc_desc:0 "Peu importe nos efforts, la peste rouge engloutit de plus en plus l'Asie de l'Est. Mais avant de pouvoir frapper à sa source, nous devons nous assurer que nos alliés remportent la lutte sur le continent chinois."
- 
+
  r56_USA_guide_true_democracies:0 "Guider les vraies démocraties"
  r56_USA_guide_true_democracies_desc:0 "De nombreux pays ont allié [ENG.GetNameDef] et [FRA.GetNameDef] dans leur lutte pour la liberté, mais certains d'entre eux sont loin de correspondre à la définition d'un régime démocratique. En tant que gouvernement responsable et véritablement dévoué aux principes des pères fondateurs, nous ne tolérerons plus ceux qui nient les libertés de leur peuple."
 
@@ -287,6 +283,6 @@
  r56_usa.12.desc:0 "Les [FRA.GetHabitants] a transmis la réponse de son gouvernement. Malheureusement pour nous, ils ont refusé notre proposition d'alliance."
  r56_usa.12.a:0 "Quelle déception !"
 
- #Vanilla Overrides 
+ #Vanilla Overrides
  USA_manifest_destiny_r56:0 "Le nouveau manifeste du destin" #revisit with better name. band-aide fix
  USA_manifest_destiny_r56_desc:0 "Notre pays est devenu grand grâce à la politique d'expansion agressive de notre nation. Il est temps que nous y revenions."

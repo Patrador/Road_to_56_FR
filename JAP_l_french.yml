@@ -1,14 +1,17 @@
 ﻿l_french:
+
+ JAP_caught_off_gruad:0 "Pris au dépourvu"
+ JAP_caught_off_gruad_desc:0 "Nous savions qu'ils allaient arriver, mais nous ne pensions pas que ce serait si tôt."
  #Vanilla rename
  r56_JAP_prepare_for_war_with_the_soviet_union:0 "Doctrine d'expansion vers le Nord"
  r56_JAP_prepare_for_war_with_the_soviet_union_desc:0 "Nous devons faire face à la menace qui pèse sur nos frontières nord. Nous devons commencer à préparer une guerre avec [SOV.GetNameDef]."
 
  japan_wtt_focus:0 "Priorités nationales japonaises"
  JAP_revolutionary_fervour:0 "Ferveur révolutionnaire"
- 
+
  JAP_fascism_party:0 "Kyokoku Itchi Naikaku"
  JAP_imperial_rule_assistance_association_party:0 "Taisei Yokusankai"
- 
+
  JAP_SOV_sakhalin_oil_agreement:0 "Accord pétrolier de Sakhaline"
  JAP_kawanishi:0 "Kawanishi"
  JAP_japan_international_aviation_industries:0 "Japan Int. Aviation Industries"
@@ -20,6 +23,8 @@
  JAP_teruhisa_komatsu:0 "Teruhisa Komatsu"
  JAP_minoru_takano:0 "Minoru Takano"
  JAP_tomin_suzuki:0 "Tomin Suzuki"
+
+ mobilization_proponent:0 "Promoteur de mobilisation"
 
  JAP_fascism_ideology_desc:0 "L'§YAssociation de soutien à l'autorité impériale§! (Taisei Yokusankai) a été créé par le Premier ministre Fumimaro Konoe pour promouvoir les objectifs de son mouvement §MShintaisei§! (« Nouvel ordre »). Elle s'est transformée en une Parti politique §Yétatiste§! au pouvoir qui visait à supprimer le sectionnalisme dans la politique et l'économie de l'Empire du Japon pour créer un §HÉtat totalitaire à parti unique§! afin de maximiser l'efficacité de l'effort de §Rguerre totale§! du Japon."
 
@@ -33,7 +38,7 @@
  JAP_rocket_artillery:0 "Artillerie à roquettes"
  JAP_rocket_artillery_desc:0 "WIP"
  JAP_kempetai_repression:0 "Répression Kempetai"
- JAP_kempetai_repression_desc:0 "La Kempetai répond au ministère de l'intérieur lorsqu'elle est à la maison, mais elle est sous les ordres de l'armée lorsqu'elle est à l'étranger. Ils sont essentiels pour la sécurité de nos dominions impériaux." 
+ JAP_kempetai_repression_desc:0 "La Kempetai répond au ministère de l'intérieur lorsqu'elle est à la maison, mais elle est sous les ordres de l'armée lorsqu'elle est à l'étranger. Ils sont essentiels pour la sécurité de nos dominions impériaux."
  JAP_pack_guns:0 "Pistolets de poche"
  JAP_pack_guns_desc:0 "WIP"
  JAP_expand_the_teishin_shudan:0 "Développer la Teishin Shudan"
@@ -73,12 +78,12 @@
 # JAP_tac_bomber_equipment_2:1 "Kawasaki Ki-48"
 # JAP_tac_bomber_equipment_2_short:1 "Ki-48"
 # JAP_cv_nav_bomber_equipment_3:0 "Aichi B7A"
-# JAP_cv_nav_bomber_equipment_3_short:0 "B7A" 
+# JAP_cv_nav_bomber_equipment_3_short:0 "B7A"
 # JAP_nav_bomber_equipment_1:0 "G3M1 Model 11"
 # JAP_nav_bomber_equipment_1_short:0 "G3M1"
 # JAP_cv_nav_bomber_equipment_2:0 "Nakajima B6N"
 # JAP_cv_nav_bomber_equipment_2_short:0 "B6N"
- 
+
  JAP_kantaro_suzuki:0 "Kantarō Suzuki"
  JAP_ichizo_kobayashi:0 "Ichizō Kobayashi"
  JAP_koyata_iwasaki:0 "Koyata Iwasaki"
@@ -126,22 +131,22 @@
  JAP_invite_malaysia_desc:0 "Les voies maritimes entourant la Malaisie sont les veines du commerce mondial et des minéraux. Un pacte d'alliance et de défense mutuelle avec [MAL.GetNameDef] permettra d'ouvrir cette précieuse ressource à nos marchés et d'accéder à leurs détroits."
 
  JAP_invite_indonesia:0 "Inviter l'Indonésie"
- JAP_invite_indonesia_desc:0 "L'archipel de Nusantara est essentiel pour protéger la route vers l'Inde et l'Europe. Se lier d'amitié avec eux et les inviter à notre alliance sera mutuellement bénéfique pour tous les pays concernés." 
+ JAP_invite_indonesia_desc:0 "L'archipel de Nusantara est essentiel pour protéger la route vers l'Inde et l'Europe. Se lier d'amitié avec eux et les inviter à notre alliance sera mutuellement bénéfique pour tous les pays concernés."
 
  JAP_invite_canada:0 "Inviter le Canada"
  JAP_invite_canada_desc:0 "Avez-vous déjà essayé de mettre du sirop d'érable sur vos sushis ?"
 
  JAP_invite_the_philippines:0 "Inviter les Philippines"
- JAP_invite_the_philippines_desc:0 "Maintenant que les USA sont partis, il est de notre responsabilité de défendre les Philippines des autres puissances colonialistes." 
+ JAP_invite_the_philippines_desc:0 "Maintenant que les USA sont partis, il est de notre responsabilité de défendre les Philippines des autres puissances colonialistes."
 
  JAP_invite_australia:0 "Inviter l'Australie"
- JAP_invite_australia_desc:0 "Avec les Australiens dans notre camp, nous pouvons garantir la paix à notre époque, loin des puissances interventionnistes occidentales."  
+ JAP_invite_australia_desc:0 "Avec les Australiens dans notre camp, nous pouvons garantir la paix à notre époque, loin des puissances interventionnistes occidentales."
 
  JAP_invite_new_zealand:0 "Inviter la Nouvelle-Zélande"
- JAP_invite_new_zealand_desc:0 "Nous devons nous allier à la Nouvelle-Zélande ! Une alliance avec la Nouvelle-Zélande est le moyen le plus souhaitable et le plus efficace de protéger les voies maritimes qui lient les nations insulaires comme nous."  
+ JAP_invite_new_zealand_desc:0 "Nous devons nous allier à la Nouvelle-Zélande ! Une alliance avec la Nouvelle-Zélande est le moyen le plus souhaitable et le plus efficace de protéger les voies maritimes qui lient les nations insulaires comme nous."
 
  JAP_invite_the_pacific_states:0 "Inviter les États du Pacifique"
- JAP_invite_the_pacific_states_desc:0 "Individuellement, ces États sont agréables à visiter et à fréquenter. Collectivement, ils sont des points de départ potentiels pour une invasion par voie maritime, un couteau caché dans le dos du Japon lui-même. Nous devons nous allier avec eux à tout prix pour éviter que cela ne devienne une réalité." 
+ JAP_invite_the_pacific_states_desc:0 "Individuellement, ces États sont agréables à visiter et à fréquenter. Collectivement, ils sont des points de départ potentiels pour une invasion par voie maritime, un couteau caché dans le dos du Japon lui-même. Nous devons nous allier avec eux à tout prix pour éviter que cela ne devienne une réalité."
 
  JAP_side_with_the_balkan_league_against_the_ussr:0 "S'allier à la Ligue des Balkans contre l'URSS"
  JAP_side_with_the_balkan_league_against_the_ussr_desc:0 "Les Balkans sont en guerre contre [SOV.GetNameDef], ils pourraient et devraient être aidés afin d'éliminer l'un de nos plus grands rivaux en Asie."
@@ -151,7 +156,7 @@
 
  JAP_nippon_nordic_friendship_treaty:0 "Traité d'amitié nippon-nordique"
  JAP_anglo_japanese_friendship_treaty:0 "Traité d'amitié anglo-japonais"
- 
+
  JAP_nordic_strategy:0 "La stratégie nordique"
  JAP_nordic_strategy_desc:0 "Pour compléter la stratégie nordique, il est logique d'essayer de trouver des pays du Nord qui partagent nos points de vue concernant [SOV.GetNameDef]. La Scandinavie et la Finlande s'inquiètent depuis longtemps des activités [SOV.getAdjFP], et les relations diplomatiques se termineront probablement par la signature d'un traité de coopération. Vive le traité d'amitié nippon-nordique !"
 
@@ -170,18 +175,18 @@
  JAP_corporate_developments_desc:0 "Notre collaboration avec les Zaibatsus sera certainement fructueuse."
 
  JAP_airframe_supplies_improvements:0 "Améliorer le ravitaillement des cellules d'avion"
- JAP_airframe_supplies_improvements_desc:0 "La nécessité d'augmenter la production d'avions a rendu nécessaire une réforme de la production des différentes parties des avions de chasse." 
+ JAP_airframe_supplies_improvements_desc:0 "La nécessité d'augmenter la production d'avions a rendu nécessaire une réforme de la production des différentes parties des avions de chasse."
  JAP_reform_airframe_production:0 "Réforme de la production des cellules d'avion"
- JAP_reform_airframe_production_desc:0 "La nécessité d'augmenter la production d'avions a rendu nécessaire une réforme de la production des différentes parties des avions de chasse." 
+ JAP_reform_airframe_production_desc:0 "La nécessité d'augmenter la production d'avions a rendu nécessaire une réforme de la production des différentes parties des avions de chasse."
  JAP_submarine_modernization:0 "Modernisation des sous-marins"
- JAP_submarine_modernization_desc:0 "Si l'on considère le débat grand porte-avions contre cuirassé, les sous-marins sont néanmoins un élément essentiel de la marine japonaise car la rupture de l'approvisionnement peut paralyser temporairement toute armée ennemie entrante." 
+ JAP_submarine_modernization_desc:0 "Si l'on considère le débat grand porte-avions contre cuirassé, les sous-marins sont néanmoins un élément essentiel de la marine japonaise car la rupture de l'approvisionnement peut paralyser temporairement toute armée ennemie entrante."
  JAP_supply_disruption:0 "Perturbation de l'approvisionnement"
  JAP_supply_disruption_desc:0 "Au lieu de combattre l'ennemi de front, nous pourrions retarder et affaiblir sa projection de force en attaquant ses lignes de ravitaillement naval."
  JAP_finance_the_naval_arsenals:0 "Financer les arsenaux navals"
  JAP_finance_the_naval_arsenals_desc:0 "Afin de garantir la sécurité de l'océan Pacifique, une marine plus importante est nécessaire."
  JAP_increased_repair_capabilities:0 "Accroître les capacités de réparation"
  JAP_increased_repair_capabilities_desc:0 "Notre marine ne peut être efficace que si elle est réparée rapidement et efficacement, en reprenant son service de combat avant que l'ennemi n'endommage les navires."
- 
+
  JAP_trans_pacific_alliance:0 "Amitié transpacifique"
  JAP_trans_pacific_alliance_desc:0 "Les tensions entre le Japon et les États-Unis ont été élevées ces derniers temps. Mais avec notre nouveau gouvernement et notre nouveau mode de vie, il est désormais naturel que nous nous alliions avec eux afin que nos deux nations puissent former un front digne de défendre le monde démocratique."
 
@@ -202,7 +207,7 @@
 
  JAP_liberate_korea:0 "Libérer la Corée"
  JAP_liberate_korea_desc:0 "Pendant trop longtemps, le peuple coréen a souffert de la domination capitaliste et impérialiste ; il est de notre droit de le libérer de cette tyrannie !"
- 
+
  JAP_soviet_technology_sharing:0 "Échanges technologiques soviéto-japonais"
  JAP_soviet_technology_sharing_desc:0 "Si nous voulons rester unis, nous devons partager nos recherches en matière d'armement afin de dissuader toute menace contre nous deux."
 
@@ -217,19 +222,19 @@
  #JAP_nav_bomber_equipment_1:0 " Nakajima B5N"
  #JAP_nav_bomber_equipment_1_short:0 "B5N"
  #JAP_nav_bomber_equipment_2:0 " Nakajima B6N"
- #JAP_nav_bomber_equipment_2_short:0 "B6N" 
+ #JAP_nav_bomber_equipment_2_short:0 "B6N"
  #JAP_nav_bomber_equipment_3:0 " Aichi B7A"
  #JAP_nav_bomber_equipment_3_short:0 "B7A"
 
- 
+
 #Maritme bombers
  #JAP_flying_boat_equipment_equipment_1:0 " G3M1 Model 11"
- #JAP_flying_boat_equipment_1_short:0 "G3M1" 
+ #JAP_flying_boat_equipment_1_short:0 "G3M1"
  #JAP_flying_boat_equipment_2:1 " Mitsubishi G4M"
  #JAP_flying_boat_equipment_2_short:1 "G4M"
  #JAP_flying_boat_equipment_3:1 " Yokosuka P1Y Ginga"
  #JAP_flying_boat_equipment_3_short:1 "P1Y Ginga"
- 
+
  JAP_redesign_the_naval_guns:0 "Modifier les canons de la marine"
  JAP_redesign_the_naval_guns_desc:0 "Afin de permettre la suprématie de nos navires, des canons modernes doivent être conçus, améliorant la portée et l'efficacité de nos honorables flottes."
  JAP_black_dragon_society:0 "Société du Dragon noir"
@@ -238,7 +243,7 @@
  JAP_divert_naval_guns_to_the_army_desc:0 "Au lieu d'une tourelle de cuirassé, on pourrait avoir de l'artillerie ferroviaire."
 
 
-  r56_japan.1.t:0 "L'incident du 26 février" 
+  r56_japan.1.t:0 "L'incident du 26 février"
   r56_japan.1.desc:0 "Il semble qu'une tentative de coup d'État ait été faite par de jeunes officiers de l'armée. Prétendant être une « armée vertueuse », ils ont tué de nombreux politiciens et critiques qui n'étaient pas d'accord avec leur rhétorique trop nationaliste. Nous avons réagi rapidement et avons mis fin à cette rébellion. Beaucoup des membres de ce coup d'état sont de la faction Kōdōha au sein de notre gouvernement et de notre armée."
   r56_japan.1.a:0 "L'insurrection ne sera pas tolérée"
   r56_japan.2.t:0 "Coopération technologique japonaise"
@@ -246,12 +251,12 @@
   r56_japan.2.a:0 "Excellent."
 
  JAP_reignite_the_chinese_civil_war:0 "Relancer la guerre civile chinoise"
- JAP_reignite_the_chinese_civil_war_desc:0 "Pendant trop longtemps, les nationalistes et autres forces réactionnaires ont fait obstacle à la libération du peuple chinois !" 
+ JAP_reignite_the_chinese_civil_war_desc:0 "Pendant trop longtemps, les nationalistes et autres forces réactionnaires ont fait obstacle à la libération du peuple chinois !"
 
  ############################## IDEAS #######################3
  sino_jap_war_fail_naisen:0 "Naisen"
  sino_jap_war_fail_naisen_desc:0 "L'échec de la conquête de la Chine a conduit à une fragmentation au sein du gouvernement et du public, notre nation est maintenant au bord de l'effondrement total !"
- 
+
  sino_jap_war_fail_naisen_overthrow:0 "Kakumei Seishin"
  sino_jap_war_fail_naisen_overthrow_desc:0 "L'échec de la conquête de la Chine a montré l'incapacité du gouvernement actuel à diriger le Japon. Nous devons nous élever contre lui et sortir le Japon de l'obscurité abyssale !"
 
@@ -265,7 +270,7 @@
  jap.1.d:0 "Une intense rivalité politique a déclenché une série d'assassinats de politiciens dans tout le pays. La Kodoha, le cerveau derrière tous ces actes, cherche à détruire leur rival Toseiha, estimant que leur méthode axée sur le parlement est simplement un fardeau pour le règne de l'Empereur. L'Empereur est maintenant conscient de l'événement, et a fait un discours public déclarant que..."
  jap.1.a:0 "...les pratiques violentes de la Kodoha doivent cesser !"
  jap.1.b:0 "...les citoyens sont encouragés à soutenir la Kodoha pour rendre le pouvoir à l'Empereur."
- 
+
  jap.2.t:0 "Taisei Yokusankai"
  jap.2.d:0 "Taisei Yokusankai, une organisation visant à aider le règne de l'Empereur, a été créée."
  jap.2.a:0 "Nihon banzai !"
@@ -273,7 +278,7 @@
  sfl.1.t:0 "Naisen !"
  sfl.1.d:0 "Les protestations de la population et de certains officiels ont atteint un point de rupture, une guerre civile semble inévitable ! Pire encore, les civils de Taïwan et de Corée se sont soulevés et ont tué tous nos fonctionnaires locaux pour revenir sous la domination chinoise !"
  sfl.1.a:0 "Protégez l'empereur Hirohito à tout prix !"
- 
+
  sfl.3.t:0 "La péninsule Joseon"
  sfl.3.d:0 "La péninsule Joseon, qui était à l'origine la patrie de la dynastie des Joseons, est tombée aux mains des Japonais depuis 1910. Il est peut-être temps pour nous de leur donner l'indépendance tant attendue."
  sfl.3.a:0 "Ils deviendront une nation libre !"
@@ -283,16 +288,16 @@
  sfl.4.t:0 "Le Japon restitue nos territoires"
  sfl.4.d:0 "Après le coup d'État réussi des démocrates au Japon, le nouveau gouvernement veut améliorer ses relations avec nous en restituant les terres occupées par l'ancien gouvernement fasciste."
  sfl.4.a:0 "Ces terres nous reviennent de droit !"
- 
+
  sfl.5.t:0 "Démonstration d'amitié du Japon"
  sfl.5.d:0 "Après le coup d'État réussi des démocrates au Japon, le nouveau gouvernement veut améliorer ses relations avec nous en renonçant à ses revendications sur les terres contestées entre nos deux nations."
  sfl.5.a:0 "Ils sont sages de renoncer à ces terres."
- 
+
  sfl.6.t:0 "Îles de la mer de Bismarck"
  sfl.6.d:0 "Après le coup d'État réussi des démocrates au Japon, le nouveau gouvernement veut améliorer ses relations avec nous en nous donnant des îles qui ont été prises à l'Empire allemand pendant la Grande Guerre."
  sfl.6.a:0 "Nous acceptons cette preuve d'amitié"
  sfl_aftermath_chi_tt:0 "[Root.GetNameDefCap] prend le contrôle des États chinois détenus par [JAP.GetNameDef]"
- 
+
  sfl.7.t:0 "La Corée libérée"
  sfl.7.d:0 "La péninsule Joseon est tombée aux mains des étrangers, et ils ont libéré le peuple coréen."
  sfl.7.a:0 "C'est de la folie !"
@@ -303,26 +308,26 @@
  sfl.8.a:0 "[CHI.GetNameDefCap] reprendra ces terres"
  sfl.8.b:0 "Nous devons satisfaire le monde communiste, de peur de périr sous la puissance soviétique."
  sfl.8.c:0 "Ce ne sont pas nos priorités"
- 
+
  sfl.9.t:0 "Territoires contestés avec [SOV.GetNameDef]"
  sfl.9.d:0 "Les territoires contestés sur l'île de Sakhaline sont une excellente occasion de faire plaisir au géant rouge au-dessus de nous et de nous garder en sécurité."
  sfl.9.a:0 "Nous ne devons pas provoquer notre propre destruction !"
  sfl.9.b:0 "N'importe quoi, le monde communiste ne triomphera jamais du monde libre !"
- 
+
  sfl.10.t:0 "Les îles du Pacifique"
  sfl.10.d:0 "[USA.GetNameDefCap] sont de grands alliés étant donné que nous avons la même idéologie, nous devrions les satisfaire avec les îles que nous avons prises à l'Empire allemand lors de la Grande Guerre. Nous pouvons donc bénéficier d'un soutien très solide."
  sfl.10.a:0 "Un grand allié n'a pas de prix"
  sfl.10.b:0 "Nous sommes bien mieux tout seuls !"
- 
+
  sfl.11.t:0 "Le Japon a refusé de nous rendre la Mandchourie."
  sfl.11.d_prc:0 "[JAP.GetNameDefCap] a décidé de rendre ses territoires chinois occupés [CHI.GetAuAlaAlNP] [CHI.GetName]. C'est une humiliation pour notre gouvernement !"
  sfl.11.d_chi:0 "[JAP.GetNameDefCap] a décidé de rendre ses territoires chinois occupés [PRC.GetAuAlaAlNP] [PRC.GetName]. C'est une humiliation pour notre gouvernement !"
- sfl.11.a:0 "Nous ne supporterons pas cette humiliation !" 
- 
+ sfl.11.a:0 "Nous ne supporterons pas cette humiliation !"
+
  sfl.12.t:0 "La question de la Mandchourie ignorée"
  sfl.12.d:0 "Le gouvernement japonais a annoncé qu'il reportait indéfiniment le débat sur la question de la Mandchourie. Ils ne veulent pas rendre ces terres !"
  sfl.12.a:0 "Si cela peut être toléré, quoi d'autre ne le pourrait pas ?" #是可忍,孰不可忍!
- 
+
  sfl.13.t:0 "La question de la Corée"
  sfl.13.d:0 "Devrions-nous libérer les Coréens et les laisser en paix ?"
  sfl.13.a:0 "Certainement."
@@ -332,16 +337,16 @@
  sfl.14.d:0 "Maintenant que le Japon n'est plus en guerre contre nous, les raisons qui ont poussé les autres pays de l'Axe à nous faire la guerre ont disparu. Peut-être devrions-nous rechercher la paix avec eux au lieu de continuer à nous battre."
  sfl.14.a:0 "Nous allons les contacter pour la paix."
  sfl.14.b:0 "Nous pouvons obtenir quelques profits dans cette guerre..."
- 
+
  sfl.15.t:0 "[From.GetNameDefCap] demande la paix"
  sfl.15.d:0 "Le gouvernement de [From.GetName] a demandé à [Root.GetLeader] une discussion de paix. Puisqu'ils ne sont plus en guerre contre le Japon, ils pensent que nous n'avons plus de raisons de continuer la guerre entre nous."
  sfl.15.a:0 "Ils ont raison, la guerre entre nous doit cesser."
  sfl.15.b:0 "Nous nous battons au nom de notre propre intérêt !"
- 
+
  sfl.16.t:0 "[From.GetNameDefCap] accepte la paix"
  sfl.16.d:0 "[From.GetLeader] a décidé qu'il n'avait plus de raisons de se battre avec nous, d'où la signature d'une paix blanche entre nos nations."
  sfl.16.a:0 "Ils auront notre sincère gratitude."
- 
+
  sfl.17.t:0 "[From.GetNameDefCap] refuse les discussions de paix"
  sfl.17.d:0 "[From.GetLeader] a déclaré qu'ils avaient d'autres intérêts derrière la prolongation de cette guerre !"
  sfl.17.a:0 "Maudit chien de porc impérialiste !"
@@ -352,7 +357,7 @@
  sfl.18.d:0 "Avec la libération de la Corée, notre échec dans la conquête de la Chine et la guerre civile en cours, nos forces sont trop limitées. L'empereur et les militaires ont décidé de renoncer à la politique continentale et de se concentrer sur la guerre civile. Bien que ce soit une décision difficile, c'est peut-être la meilleure dans la situation actuelle."
  sfl.18.a:0 "Oui, l'Empereur a raison."
  sfl.18.b:0 "Quelle absurdité !"
- 
+
  sfl.19.t:0 "Le Japon cherche la paix"
  sfl.19.d:0 "L'échec du Japon dans la guerre l'a amené à prendre la décision de renoncer à sa politique continentale, ce qui signifie qu'il renoncera aux terres chinoises afin de concentrer ses forces sur sa guerre civile en cours.\n\nComment devons-nous réagir ?"
  sfl.19.a:0 "Ils sont finis quoi qu'il arrive, pas besoin de perdre du temps avec eux."
@@ -360,7 +365,7 @@
  sfl.19.c:0 "Pas de répit pour les chiens impérialistes !"
  sfl_jap_forfeit_land:0 "[Root.GetNameDefCap] s'empare des terres chinoises appartenant au Japon.\n"
  sfl_later_war_with_jap:0 "Vous pouvez décider d'entrer en guerre contre le Japon après un mois, §Rquelle que soit leur idéologie.§!"
- 
+
  sfl.20.t:0 "Paix avec [CHI.GetNameDef]"
  sfl.20.d:0 "[CHI.GetNameDefCap] a convenu d'une paix entre nous."
  sfl.20.a:0 "Nous pouvons maintenant nous concentrer sur la guerre civile."
@@ -368,27 +373,27 @@
  sfl.22.t:0 "Pas de paix avec [CHI.GetNameDef]"
  sfl.22.d:0 "[CHI.GetNameDefCap] a refusé une paix entre nous."
  sfl.22.a:0 "Est-ce notre destin ?"
- 
+
  sfl.23.t:0 "Guerre avec le Japon ?"
  sfl.23.d:0 "Il est temps de décider si nous déclarons la guerre [JAP.GetAuAlaAlNP] [JAP.GetName] ou non."
  sfl.23.a:0 "Le peuple japonais paiera pour ses atrocités !"
  sfl.23.b:0 "Il y a déjà trop eu d'effusion de sang."
- 
+
  sfl.24.t:0 "[CHI.GetNameDefCap] nous déclare la guerre !"
  sfl.24.d:0 "Les Chinois ont révoqué leur trêve et nous ont déclaré la guerre !"
  sfl.24.a:0 "Salauds de traîtres !"
  sfl_cant_peace_with_axis_later:0 "§RVous ne serez pas en mesure de faire une paix séparée avec l'Axe à l'avenir.§!\n"
- 
+
  sfl.25.t:0 "La question de l'Indochine"
  sfl.25.d:0 "Comment devons-nous agir sur la question de l'Indochine ?"
  sfl.25.a:0 "[FRA.GetNameDefCap] peut la récupérer."
  sfl.25.b:0 "[CHI.GetNameDefCap] peut l'avoir."
  sfl.25.c:0 "Nous la garderons."
- 
+
  sfl.26.t:0 "[From.GetNameDefCap] nous rend l'Indochine"
  sfl.26.d:0 "[From.GetNameDefCap] a décidé de soumettre l'Indochine à notre autorité."
  sfl.26.a:0 "Une sage décision."
- 
+
  sfl.27.t:0 "[From.GetNameDefCap] ignore notre revendication sur l'Indochine"
  sfl.27.d:0 "Malgré nos justes revendications, [From.GetNameDef] a décidé de ne pas nous céder l'Indochine."
  sfl.27.a:0 "Alors nous la prendrons par la force."

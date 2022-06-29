@@ -1,7 +1,7 @@
 ﻿l_french:
   # Ministers
  balbo_dead:0 "Italo Balbo est mort"
- 
+
  #flags
 
  ITA_carlo_favagrossa:0 "Carlo Favagrossa"
@@ -36,7 +36,7 @@
 
  ITA_temporarly_occupy_the_baleares:0 "Occuper temporairement les Baléares"
  ITA_temporarly_occupy_the_baleares_desc:0 "Les Baléares sont trop importantes stratégiquement parlant pour les laisser entre les mains d'un régime potentiellement communiste. Nous enverrons des troupes pour occuper les îles tout en promettant aux nationalistes qu'elles leur seront rendues une fois que la guerre civile sera terminée. Bien entendu, s'ils ne sont plus là, nous n'aurons aucune raison de les leur rendre..."
- ITA_temporarly_occupy_the_baleares_tt:0 "Vous promettez de rendre les îles aux §Gnationalistes§! §Iune fois que la guerre civile sera terminée§!. §!Si les §Yrépublicains§! gagnent, vous pourrez garder les îles, mais si vous refusez de les rendre aux §Gnationalistes§!, vous subirez de §Rlourdes pénalités§!"  
+ ITA_temporarly_occupy_the_baleares_tt:0 "Vous promettez de rendre les îles aux §Gnationalistes§! §Iune fois que la guerre civile sera terminée§!. §!Si les §Yrépublicains§! gagnent, vous pourrez garder les îles, mais si vous refusez de les rendre aux §Gnationalistes§!, vous subirez de §Rlourdes pénalités§!"
 
  ITA_cede_884_to_HUN:0 "Céder le Prekmurje à la Hongrie"
 
@@ -211,12 +211,15 @@
  r56_italy.107.d:0 "Avec la restauration complète en Italie, le roi Victor Emmanuel a pris le pouvoir pour le moment. Le roi a promis que le gouvernement organiserait un référendum sur la monarchie dans un an."
  r56_italy.107.a:0 "Un développement intéressant."
  ITA_referendum_year_tt:0 "Un §Yréférendum sur la monarchie§! sera organisé dans un an ; si une majorité vote contre la monarchie, de nouvelles élections auront lieu."
- 
+ r56_italy.107.b:0 "Longue vie à Victor Emmanuel III !"
+
  r56_italy.108.t:0 "Référendum sur la monarchie"
- r56_italy.108.d:0 "Aujourd'hui, le peuple italien a voté en faveur de la monarchie italienne sous le règne d'Umberta II, qui a su modifier de manière inattendue le sentiment populaire en faveur de la monarchie après l'abdication de son père." #pro-monarchy
+ r56_italy.108.d:0 "Ces derniers temps, [ITA.GetNameDef] a connu des moments difficiles, mais maintenant que le pouvoir est à nouveau consolidé et que la stabilité est rétablie, nous pouvons enfin nous tourner vers le sujet principal, la monarchie italienne.\n\nLa monarchie italienne a dirigé la nation et a agi comme une force unificatrice pour la péninsule, mais ces dernières années, elle a reçu de lourdes critiques pour avoir ouvertement soutenu le parti national fasciste de Mussolini. Certains appellent à l'éviction de la monarchie en faveur d'une nouvelle république italienne totalement indépendante et d'autres appellent à ce que Victor Emmanuel conserve sa position et continue à agir comme une force unificatrice dans la nouvelle Italie. Certains ont même suggéré qu'Emmanuel abdique le trône en faveur de son fils Umberto II afin d'agir comme un compromis.\n\nLe résultat final repose sur un référendum libre organisé par le peuple pour déterminer le sort de la monarchie, tandis que le sort de la monarchie italienne, qui dure depuis des décennies, est dans la balance." #pro-monarchy
  r56_italy.108.d2:0 "Aujourd'hui marque un jour historique dans l'histoire de l'Italie. L'abolition de la monarchie a été votée, le sort du roi Umberto et de sa famille reste inconnu." #anti-monarchy
- r56_italy.108.a:0 "Vive la République !"
- r56_italy.108.b:0 "Vive le Roi !"
+ r56_italy.108.a:0 "Bien que malmené, Victor Emmanuel III est le seul roi pour l'Italie."
+ r56_italy.108.b:0 "Forcer Victor Emmanuel à abdiquer en faveur de son fils, Umberto II."
+ r56_italy.108.c:0 "La monarchie a mis l'Italie à genoux, elle doit disparaître."
+ r56_italy.108.d:0 "Umberto II agira comme un roi plus fidèle."
 
  r56_italy.109.t:0 "Victor Emmanuel abdique"
  r56_italy.109.d:0 "Ayant vu ses pouvoirs réduits sous la pression des Alliés et étant controversé pour sa collaboration avec Mussolini, le roi Emmanuel a décidé d'abdiquer. La monarchie, désormais représentée par le fils d'Emmanuel, Umberto II, plus populaire, a de meilleures chances de l'emporter lors du prochain référendum."
@@ -236,7 +239,12 @@
  ITA_excessive_regia_marina_budget_2:0 "Budget excessif de la Regia Marina"
  ITA_excessive_regia_marina_budget_2_desc:0 "De nos trois forces armées, la Regia Marina reçoit la plus grosse part du budget, permettant une plus facile modernisation de celle-ci, au détriment des autres."
  ITA_scientific_cooperation_with_germany:0 "Coopération scientifique avec l'Allemagne"
+ ITA_invite_andorra:0 "Inviter [ADR.GetNameDef]"
+ ITA_invite_andorra_desc:0 "Nous allons élargir notre alliance ibérique en invitant [ADR.GetNameDef] dans notre faction."
  ITA_giannini_sarnow_protocols_ger:0 "Protocoles Giannini-Sarnow"
+
+ soldier_king_2:0 "Roi-Soldat"
+ umberto:0 "Umberto II"
 
 
  ITA_our_own_sphere:0 "Notre propre sphère"
@@ -278,7 +286,7 @@
  ITA_leave_the_league_of_nations_desc:0 "La Société des Nations, dont l'impuissance n'est plus à démontrer, a cependant jugé pertinent de condamner notre invasion de l'Éthiopie. Nous n'avons pas besoin de son soutien ou de sa validation pour savoir ce qui est bon pour l'Italie, et nous devrions en conséquence la quitter."
  ITA_move_toward_autarky:0 "S'orienter vers l'autarcie"
  ITA_move_toward_autarky_desc:0 "Les divers embargos auxquels nous sommes soumis nous obligent à adopter une politique d'autarcie vis-à-vis de nos ressources."
- ITA_the_stab_in_the_back:0 "Le coup de couteau dans le dos"
+ ITA_the_stab_in_the_back:0 "Triomphe en Afrique"
  ITA_the_stab_in_the_back_desc:0 "Malgré tout le sang répandu par nos braves soldats pendant la Grande Guerre, les nations victorieuses ne nous ont donné qu'une maigre compensation, nous privant de terres peuplées d'Italiens. Nous corrigeront cette injustice et parviendrons finalement à l'unification totale de l'Italie !"
  ITA_the_lega_latina:0 "La Lega Latina"
  ITA_the_lega_latina_desc:0 "Pour nous assurer que nous ne serons plus trahis par quiconque, nous allons former notre propre alliance militaire. Nous montrerons au monde que l'Italie est une puissance qui doit être respectée, capable d'imposer sa volonté à quiconque veut la défier."
@@ -290,6 +298,8 @@
  ITA_joint_austrian_gaurantee_tt:0 "L'Autriche refusera désormais §Gtoujours§! l'§YAnschluss§!\n"
  ITA_scientific_cooperation:0 "Coopération scientifique"
  ITA_scientific_cooperation_desc:0 "Les scientifiques allemands ont beaucoup d'avance, notamment dans l'usage de véhicules blindés et de fusées. La coopération scientifique entre nos deux pays ne pourrait que nous être bénéfique."
+ ITA_the_italian_tiger:0 "Le Tigre d'Italie"
+ ITA_the_italian_tiger_desc:0 "Les chars lourds [GER.GetAdjMP] se sont révélés d'une efficacité redoutable sur le champ de bataille. Si nous voulons remporter des victoires similaires, nous devons concevoir notre propre char à la hauteur des [GER.GetHabitants]."
  ITA_ultimatum_to_albania:0 "Ultimatum à l'Albanie"
  ITA_ultimatum_to_albania_desc:0 "Depuis bien des années nous avons des vues sur l'Albanie, l'ayant déjà transformée en protectorat de fait. Il est maintenant temps de l'intégrer complètement dans notre empire en demandant la déposition du gouvernement actuel."
  ITA_alliance_with_austria:0 "Alliance avec l'Autriche"
@@ -309,7 +319,7 @@
  ITA_claims_in_africa_desc:0 "" #//WIP
  ITA_influence_iberia:0 "Influencer l'Ibérie"
  ITA_influence_iberia_desc:0 "" #//WIP
- ITA_officialize_the_albanian_protectorate:0 "Officialiser le protectorat albanais"
+ ITA_officialize_the_albanian_protectorate:0 "Légitimer le protectorat albanais"
  ITA_formalize_the_albanian_protectorate:0 "Formaliser le protectorat albanais"
  ITA_formalize_the_albanian_protectorate_desc:0 "Sans aller jusqu'à une annexion directe, l'établissement d'une plus grande supervision italienne des prises de décisions politiques en Albanie serait suffisant pour en faire un protectorat officiel, sans attirer la colère des Alliés."
  ITA_demand_dalmatia:0 "Demander la Dalmatie"
@@ -320,8 +330,14 @@
  ITA_prevent_the_spread_of_communism_desc:0 "Les risques de l'expension du communisme sont tout à fait réels, comme en témoigne la guerre civile espagnole. Nous devons intervenir avant que tout soit hors de contrôle."
  ITA_expand_ond_membership:0 "Étendre l'adhésion à l'OND"
  ITA_expand_ond_membership_desc:0 "L'Opera Nazionale Dopolavoro, ou Œuvre nationale du temps libre, est une association créée en 1925 pour gérer le temps libre des travailleurs. À un niveau apolitique, elle est progressivement devenue un organe officiel du parti, accroissant ainsi la loyauté des travailleurs au fascisme."
+ ITA_revive_the_opera_nazionale_balilla:0 "Relancer l'Opera Nazionale Balilla"
+ ITA_revive_the_opera_nazionale_balilla_desc:0 "L'Opera Nazionale Balilla est une organisation d'éducation de la jeunesse fondée en 1926 sous le contrôle direct du parti national fasciste, mais agissant en même temps comme une force paramilitaire destinée à former une nouvelle génération au service militaire et loyale au régime fasciste."
+ ITA_opera_nazionale_balilla:0 "Opera Nazionale Balilla"
+ ITA_opera_nazionale_balilla_desc:0 "L'Opera Nazionale Balilla est une organisation d'éducation de la jeunesse fondée en 1926 sous le contrôle direct du parti national fasciste, mais agissant en même temps comme une force paramilitaire destinée à former une nouvelle génération au service militaire et loyale au régime fasciste."
  ITA_mobilize_womens:0 "Nuova Italiana"
  ITA_mobilize_womens_desc:0 "Notre conquête de l'Éthiopie représente l'occasion parfaite pour mobiliser les femmes dans la construction de l'empire italien. Les groupes de femmes fascistes étendront leur rôle pour recouvrir des fonctions telles que donner des cours sur comment lutter contre le gaspillage domestique."
+ ITA_expand_the_OVRA:0 "Renforcer l'OVRA"
+ ITA_expand_the_OVRA_desc:0 "L'Organizzazione per la Vigilanza e la Repressione dell'Antifascismo est un réseau de police secrète conçu pour éliminer les antifascistes, écraser les partisans et protéger le régime de Musolini. Avec les temps difficiles qui s'annoncent, il est important d'étendre leurs opérations et de renforcer encore le régime."
  ITA_reorganize_the_unpa:0 "Réorganiser l'UNPA"
  ITA_reorganize_the_unpa_desc:0 "L'Union Nationale pour la Défense Aérienne a été créée pour la défense civile en 1934, mais elle doit maintenant être réorganisée pour définir son rôle en temps de paix."
  ITA_resume_food_importation:0 "Réimporter de la nourriture"
@@ -570,6 +586,30 @@
  ITA_shift_toward_an_offensive_force_desc:0 "Nous devons être en mesure de frapper les premiers afin que notre infériorité numérique ne se sente pas."
  ITA_royal_intervention:0 "Intervention royale"
  ITA_royal_intervention_desc:0 "Nous ne pouvons pas faire confiance au régime fasciste pour mener l'Italie vers la gloire. Les revers subis au début de notre guerre en Éthiopie étaient un signe clair de l'incapacité du parti fasciste à diriger. Nous devons chasser les fascistes et placer le pays sous le contrôle de notre grand roi !"
+ ITA_empower_the_monarchists:0 "Les monarchistes au pouvoir"
+ ITA_empower_the_monarchists_desc:0 "Après des années d'agitation politique, il est clair que notre roi Victor Emmanuel III est le seul à qui l'on peut faire confiance pour donner à notre nation une main forte et unir le pays en une nation stable et puissante !"
+ ITA_secure_control_over_parliament:0 "Contrôle du Parlement"
+ ITA_secure_control_over_parliament_desc:0 "Le parlement a été à l'origine de nombreuses crises politiques internes au pays et a souvent mis notre nation à genoux. Pour arrêter la progression de tout incident futur, nous ne dissoudrons pas directement le parlement, mais nous nous assurerons que chacun sait à qui il est loyal."
+ ITA_restore_the_statuto_albertino:0 "Restaurer le Statuto Albertino"
+ ITA_restore_the_statuto_albertino_desc:0 "Le Statuto Albertino est la constitution de notre nation depuis 1848, mais sous le régime fasciste, il a été lourdement modifié et massacré au point d'être à peine reconnaissable de ses principes fondateurs, nous devons le restaurer dans son état original et libérer le parlement une fois de plus."
+ ITA_royal_militarism:0 "Militarisme royal"
+ ITA_royal_militarism_desc:0 "L'armée royale se souviendra des victoires de la Grande Guerre et suivra l'inspiration de notre glorieux roi soldat."
+ ITA_control_the_industrial_elites:0 "Contrôler les élites industrielles"
+ ITA_control_the_industrial_elites_desc:0 "La corruption industrielle a causé d'énormes dommages économiques dans le passé, nous devons rappeler aux élites industrielles de notre nation à qui elles sont loyales."
+ ITA_rebuild_the_north:0 "Reconstruire le Nord"
+ ITA_rebuild_the_north_desc:0 "La guerre civile brutale a causé d'énormes dégâts dans le nord industriel de notre nation, et si aucun effort n'est fait pour résoudre ces problèmes, la région pourrait devenir un terrain fertile pour la résistance communiste. Il est donc important de redonner à cette région sa gloire passée."
+ ITA_reopen_the_markets:0 "Rouvrir les marchés"
+ ITA_reopen_the_markets_desc:0 "Les politiques d'autosuffisance de Mussolini nous ont lourdement empêchés de faire du commerce avec de nombreuses nations, de telles idées stupides seront bientôt la ruine de notre économie, nous devons rouvrir les marchés."
+ ITA_strengthen_the_coalition:0 "Renforcer la coalition"
+ ITA_strengthen_the_coalition_desc:0 "Maintenant que les fascistes ont été chassés d'Italie, nous pouvons enfin combiner les forces des partis de centre-gauche italiens en une coalition forte de partis cherchant à restaurer la démocratie italienne et l'établissement d'une nouvelle république italienne !"
+ ITA_referendum_on_the_monarchy:0 "Référendum sur la monarchie"
+ ITA_referendum_on_the_monarchy_desc:0 "Maintenant que notre guerre civile est terminée, nous pouvons enfin aborder la deuxième question, celle de la monarchie, qui a soutenu le régime fasciste pendant plus d'une décennie - il est temps de décider du sort de la monarchie de notre nation."
+ ITA_christian_democracy:0 "Démocratie chrétienne"
+ ITA_christian_democracy_desc:0 "Notre nouvelle république suivra des valeurs très chrétiennes pour améliorer le mode de vie de notre peuple et protéger notre libre démocratie."
+ ITA_disband_the_partisans:0 "Dissoudre les partisans"
+ ITA_disband_the_partisans_desc:0 "Les partisans communistes nous ont bien servi, mais maintenant que la guerre civile est terminée, ils sont devenus une menace bien trop grande, nous devons les dissoudre tant que nous le pouvons avant qu'ils ne commencent à avoir des idées."
+ ITA_liberalize_our_industries:0 "Libéraliser nos industries"
+ ITA_liberalize_our_industries_desc:0 "La nationalisation et le contrôle étroit des industries, bien que réussis au départ, se sont avérés inefficaces à long terme. Pour assurer notre stabilité économique, nous allons permettre aux industries de fonctionner librement à nouveau."
  ITA_defenders_of_southern_europe:0 "Les défenseurs de l'Europe du Sud"
  ITA_defenders_of_southern_europe_desc:0 "" #//WIP
  ITA_formalise_the_front:0 "Officialiser le front"
@@ -601,6 +641,8 @@ POLITICS_ITALO_BALBO_DESC: "Italo Balbo"
  ITA_giacomo_acerbo:0 "Giacomo Acerbo"
  ITA_junio_valerio_borghese:0 "Junio Valerio Borghese"
  ITA_paolo_thaon_di_revel:0 "Paolo Thaon di Revel"
+ ITA_liberalize_our_industries_idea:0 "Libéralisation de l'industrie"
+ ITA_liberalize_our_industries_idea_desc:0 "La nationalisation et le contrôle étroit des industries, bien que réussis au départ, se sont avérés inefficaces à long terme. Pour assurer notre stabilité économique, nous allons permettre aux industries de fonctionner librement à nouveau."
  italo_balbo_pol:0 "Italo Balbo"
  victor_emmanuel:0 "Vittorio Emanuele III"
 

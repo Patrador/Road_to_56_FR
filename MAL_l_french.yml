@@ -5,13 +5,13 @@ MAL_the_empire_desc:0 "Autonomy? Nationalism? Self-Determination? What this colo
 MAL_the_empire_1:0 "Resident Generals"
 MAL_the_empire_1_desc:0 "The Resident Generals are the key to controlling Malaysia, if we can bolster their already considerable powers and sideline the local rulers, we can solidify our hold on the colony for years to come."
 MAL_the_empire_2:0 "Open the Civil Service"
-MAL_the_empire_2_desc:0 "Playing the locals off of each other has worked well so far, but in the long-term, such a clearly undemocratic system will cause more problems than its worth, opening government roles to all malaysian citizens is the right thing to do."
+MAL_the_empire_2_desc:0 "Playing the locals off of each other has worked well so far, but in the long-term, such a clearly undemocratic system will cause more problems than its worth, opening government roles to all Malaysian citizens is the right thing to do."
 MAL_the_empire_3:0 "Reinforce Ketuan Melayu"
 MAL_the_empire_3_desc:0 "Any attempt to change the status quo will only result in more trouble for us than its worth. Instead, let's reaffirm our commitment to Ketuan Melayu, and shore up support amongst the Malay natives."
 MAL_the_empire_4:0 "Dethrone the Princes"
 MAL_the_empire_4_desc:0 "The last refuge of native control, the Council of Princes has been a useful tool in ruling from afar in our colony, but no longer. Now we shall rule as we see fit, with no petty squabbling princes to get in our way."
 MAL_the_empire_5:0 "The Pearl of the East"
-MAL_the_empire_5_desc:0 "Singapore remains the heart of British Asian control, linking the British concessions in China to our far-flung Pacific dominions. We should celebrate this fact, and turn singapore into the greatest city of Southeast Asia!"
+MAL_the_empire_5_desc:0 "Singapore remains the heart of British Asian control, linking the British concessions in China to our far-flung Pacific dominions. We should celebrate this fact, and turn Singapore into the greatest city of Southeast Asia!"
 MAL_the_empire_6:0 "Commonwealth Research Benefits"
 MAL_the_empire_6_desc:0 "With our commitment to the empire reaffirmed, we can begin to enjoy the benefits of such loyalty through the relaying of scientific breakthroughs and their implementation in our own colony."
 MAL_the_empire_7:0 "Fighting for the Empire"
@@ -39,7 +39,7 @@ MAL_state_of_malaya_desc:0 "The State of Malaya"
 MAL_centralisation:0 "Centralization"
 MAL_centralisation_desc:0 "Under the current political system, the power of the governor to exert any kind of control over the colonies is nonexistent, if we are to reform the colony, we need to centralise our power under the a strong state authority."
 MAL_centralisation_1:0 "Economic Restructuring"
-MAL_centralisation_1_desc:0 "Too much of the current economic power in the region is squandled by competing producers and market manipulation by private interests. To combat this, we need to first restructure Malaya's economy to allow for state regulation and protection of the markets."
+MAL_centralisation_1_desc:0 "Too much of the current economic power in the region is squandered by competing producers and market manipulation by private interests. To combat this, we need to first restructure Malaya's economy to allow for state regulation and protection of the markets."
 MAL_centralisation_2:0 "Nationalize the Plantations"
 MAL_centralisation_2_desc:0 "Rubber plantations make up the largest amount of our national exports, but only a small amount of these profits are returned to the state, if we can nationalize some of the underperforming and smaller plantations, we can pave the way for further control of our foreign market exports."
 MAL_centralisation_3:0 "Renegotiate Foreign Investments"
@@ -113,7 +113,7 @@ MAL_the_island_air_straits_desc:0 "War is inevitable, and we need to prepare soo
 MAL_the_island_air_straits_1:0 "War Acts"
 MAL_the_island_air_straits_1_desc:0 "The worst has come to past, there is no more time for planning, appeasement or preparation, now is the time to wait, and hope, and fight."
 MAL_the_island_air_straits_2:0 "Blow the Causeways"
-MAL_the_island_air_straits_2_desc:0 "As a last ditch effort to slow any enemy advancement the causeways connecting the island of Singapore from the mainland must be severed. Not One Step Back." 
+MAL_the_island_air_straits_2_desc:0 "As a last ditch effort to slow any enemy advancement the causeways connecting the island of Singapore from the mainland must be severed. Not One Step Back."
 MAL_the_straits:0 "The Straits"
 MAL_the_straits_desc:0 "The sole purpose of British Malaya as a colony is to secure naval power in the straits of Southeast Asia, if we cannot do this, we are worth less than nothing on the world stage."
 MAL_the_straits_1:0 "Singapore Shipyards"
@@ -179,7 +179,7 @@ mal_independence_tooltip:0 "Our overlord is occupied with a major war."
 
 MAL_restrain_tungsten_extraction:0 "Restrain Tungsten Extraction"
 MAL_tungsten_mining_decline_1:0 "[842.GetName] Tungsten Mining Decline"
-MAL_tungsten_mining_decline_2:0 "Serious Diruptions in [842.GetName]'s Tungsten Mining"
+MAL_tungsten_mining_decline_2:0 "Serious Disruptions in [842.GetName]'s Tungsten Mining"
 MAL_tungsten_mining_decline_3:0 "Worsening [842.GetName]'s Tungsten Mining Decline"
 MAL_tungsten_mining_decline_4:0 "Depletion of the Tungsten ore in [842.GetName]"
 tungsten_mine_depleted:0 "Tungsten Mines Depleted"
@@ -214,40 +214,40 @@ mal_trade_external_on:0 "Invite Foreign Investors"
 mal_trade_external_desc:0 ""
 
 mal_trade_start:0 "Prepare our Economy for Foreign Business"
-mal_trade_start_desc:0 "" 
+mal_trade_start_desc:0 ""
 
 mal_trade_usa:0 "Attract American Business Interests"
-mal_trade_usa_desc:0 "" 
+mal_trade_usa_desc:0 ""
 
 mal_trade_usa_mission:0 "American Trade Profits"
-mal_trade_usa_mission_desc:0 "" 
+mal_trade_usa_mission_desc:0 ""
 
 mal_trade_france:0 "Attract French Business Interests"
-mal_trade_france_desc:0 "" 
+mal_trade_france_desc:0 ""
 
 mal_trade_france_mission:0 "French Trade Profits"
 mal_trade_france_mission_desc:0 ""
 
 mal_trade_italy:0 "Attract Italian Business Interests"
-mal_trade_italy_desc:0 "" 
+mal_trade_italy_desc:0 ""
 
 mal_trade_italy_mission:0 "Italian Trade Profits"
 mal_trade_italy_mission_desc:0 ""
 
 mal_trade_holland:0 "Attract Dutch Business Interests"
-mal_trade_holland_desc:0 "" 
+mal_trade_holland_desc:0 ""
 
 mal_trade_holland_mission:0 "Dutch Trade Profits"
 mal_trade_holland_mission_desc:0 ""
 
 
 mal_trade_external_mission:0 "Meeting Investor Demands"
-mal_trade_external_mission_desc:0 "As other nations begin to invest in our company, our stock value will continue to rise, however, if we cannot meet investor expectations for growth, both of our economies will suffer for it."  
+mal_trade_external_mission_desc:0 "As other nations begin to invest in our company, our stock value will continue to rise, however, if we cannot meet investor expectations for growth, both of our economies will suffer for it."
 
 mal_investors_tooltip:0 "We currently need §G[?current_industry]§! free civilian factories to meet our investor demands."
 
 mal_trade_internal:0 "Internal investments"
-mal_trade_internal_desc:0 "" 
+mal_trade_internal_desc:0 ""
 
 mal_internal_investment_tt:0 "Continued internal investment will allow for us to boost our external trading capacity."
 
@@ -446,7 +446,7 @@ malaysia.5.a:0 ""
 malaysia.5.b:0 ""
 
 malaysia.6.t:0 "The Unfederated States"
-malaysia.6.desc:0 "The Unfederated States of Malaysia are a byproduct of the gradual, unplanned colonization of the malaysian peninsula, while efforts have been made to organize these disparate groups, our attempts so far have been unsuccessful. Thus, it is time for us to make a final decision on the fate of the Unfederated States, and their future in the colony."
+malaysia.6.desc:0 "The Unfederated States of Malaysia are a byproduct of the gradual, unplanned colonization of the Malaysian peninsula, while efforts have been made to organize these disparate groups, our attempts so far have been unsuccessful. Thus, it is time for us to make a final decision on the fate of the Unfederated States, and their future in the colony."
 malaysia.6.a:0 "Fully incorporate them!"
 malaysia.6.b:0 "Focus on joining them with their federated brothers."
 malaysia.6.c:0 "Leave them be."
@@ -505,7 +505,7 @@ malaysia.17.a:0 ""
 malaysia.17.b:0 ""
 
 malaysia.18.t:0 "Malaysia Asks For Greater Autonomy"
-malaysia.18.desc:0 "Having proved themselves a loyal subject, our government in Malaysia has asked that we grant them increased autonomy in the region, as a reward for their continued obediance. "
+malaysia.18.desc:0 "Having proved themselves a loyal subject, our government in Malaysia has asked that we grant them increased autonomy in the region, as a reward for their continued obedience. "
 malaysia.18.a:0 "Very well."
 malaysia.18.b:0 "They have not proven themselves yet."
 
@@ -520,11 +520,11 @@ malaysia.20.a:0 "Perhaps they're right."
 malaysia.20.b:0 "Since when did we take orders from Malaysia?"
 
 malaysia.21.t:0 "Malaysia Asks For Support!"
-malaysia.21.desc:0 "A native nationalist movement has taken hold of the colony of British Malaya, while their efforts so far have been thwarted, a delegation of local rulers have sent a secret envoy, pledging subserviance in exchange for supporting their freedom."
+malaysia.21.desc:0 "A native nationalist movement has taken hold of the colony of British Malaya, while their efforts so far have been thwarted, a delegation of local rulers have sent a secret envoy, pledging subservience in exchange for supporting their freedom."
 malaysia.21.a:0 "They shall have it."
 malaysia.21.b:0 "It's too risky."
 
-malaysia.22.t:0 "Japan Presses Malaysian Indpendence"
+malaysia.22.t:0 "Japan Presses Malaysian Independence"
 malaysia.22.desc:0 "It appears our attempts to quell Malaysian independence have backfired, the Japanese Emperor has personally demanded that Britain recognise Malaysias independence, and has threatened to take action unless we abandon the colony. Doing so would almost assuredly let Malaysia fall into Japanese hands, but refusing might draw us into an unfavourable war, what should we do?"
 malaysia.22.a:0 "We have no choice but to appease them."
 malaysia.23.b:0 "Perhaps we didn't make ourselves clear: NO."
@@ -543,8 +543,8 @@ malaysia.25.desc:0 "With finally having reached our shore, the position in our M
 malaysia.25.a:0 "Ok"
 malaysia.25.b:0 "Ok"
 
-malaysia.26.t:0 "Tunsten Extraction Slows Down"
-malaysia.26.desc:0 "Following the prediction of the geologists, the Tunsten is beginning to slow down. Intervention may be necessary but in any case it will only delay the inevitable. At some point there will be no more ore to extract."
+malaysia.26.t:0 "Tungsten Extraction Slows Down"
+malaysia.26.desc:0 "Following the prediction of the geologists, the Tungsten is beginning to slow down. Intervention may be necessary but in any case it will only delay the inevitable. At some point there will be no more ore to extract."
 malaysia.26.a:0 "Ok"
 
 
@@ -560,10 +560,10 @@ mal_fascist_denied:0 "Denied Freedom"
  #MAL_fascism_party:0 "Panoceanic Unionists"
  #MAL_democratic_party:0 "United Malays National Organisation" #or UMNO or PEKEMBAR
  #MAL_communism_party:0 "Malayan Communist Party" #or MCP
- #MAL_neutrality_party:0 "Kesatuan Melayu Muda" #or KMM 
- 
+ #MAL_neutrality_party:0 "Kesatuan Melayu Muda" #or KMM
+
 MAL_monarchy_party:0 "Royalists"
- MAL_monarchy_party_long:0 "Malayan Royalists" 
+ MAL_monarchy_party_long:0 "Malayan Royalists"
 MAL_fascism_party:0 "KNM" #Young Malaysian Union
   MAL_fascism_party_long:0 "Kesatuan Melayu Muda"
 MAL_fascism_party_puppet:0 "PETA"
@@ -571,10 +571,10 @@ MAL_fascism_party_puppet:0 "PETA"
 MAL_democratic_party:0 "Pertubuhan Kebangsaan Melayu Bersatu" #or UMNO or PEKEMBAR
   MAL_democratic_party_long:0 "PEKEMBAR" #or UMNO or PEKEMBAR
 MAL_democratic_party_puppet:0 "KM"
-  MAL_democratic_party_puppet_long:0 "Kesatuan Melayu"  
+  MAL_democratic_party_puppet_long:0 "Kesatuan Melayu"
 MAL_communism_party:0 "MCP" #or MCP
   MAL_communism_party_long:0 "Parti Komunis Malaya" #or MCP
-MAL_neutrality_party_puppet:0 "Kerajaan Penjajah" 
+MAL_neutrality_party_puppet:0 "Kerajaan Penjajah"
 MAL_neutrality_party:0 "AMCJA"
   MAL_neutrality_party_long:0 "All-Malaya Council of Joint Action"
 

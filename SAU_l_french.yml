@@ -4,13 +4,11 @@
  SAU_concessions_to_standard_oil:0 "Concession avec Standard Oil"
  SAU_concessions_to_standard_oil_desc:0 "Dans le passé, nous avions déjà signé des accords de concession avec Standard Oil California concernant l'exploration pétrolière. Maintenant que nous avons découvert de grandes réserves, ces accords peuvent être étendus à leur exploitation."
  SAU_deal_with_bp:0 "Faire affaire avec BP"
- SAU_deal_with_bp_desc:0 "Dans le passé, nous avions signé des accords de concession avec la Standard Oil California concernant l'exploration pétrolière. Maintenant que nous avons découvert d'importantes réserves, il serait peut-être judicieux d'inviter la British Petrolium Company à prendre en charge leur exploitation."
+ SAU_deal_with_bp_desc:0 "Dans le passé, nous avions signé des accords de concession avec la Standard Oil California concernant l'exploration pétrolière. Maintenant que nous avons découvert d'importantes réserves, il serait peut-être judicieux d'inviter la British Petroleum Company à prendre en charge leur exploitation."
  SAU_air_bases:0 "Bases aériennes"
  SAU_air_bases_desc:0 "Bases aériennes"
  SAU_dharan_oil_wells:0 "Puits de pétrole de Dharan"
  SAU_dharan_oil_wells_desc:0 "Le repérage dans les champs autour de Dharan a trouvé d'autres gisements de gaz. Nous devrions commencer à forer pour exploiter les richesses de la région."
- SAU_dharan_oil_wells:0 "Puits de pétrole de Dhahran"
- SAU_dharan_oil_wells_desc:0 "Nos géologues ont découvert des gisements de pétrole prometteurs sur la côte du golfe Persique, à proximité de Bahreïn. La petite ville de Dhahran peut être établie comme nouveau siège de notre industrie pétrolière, tout en fournissant de meilleurs transports et logements aux travailleurs locaux."
  SAU_aramco_underwater_pipeline:0 "Oléoduc sous-marin ARAMCO"
  SAU_aramco_underwater_pipeline_desc:0 "Les Américains demandent que nous coopérions à la construction d'un ensemble d'oléoducs pour faciliter le ravitaillement de leurs navires de guerre. Une telle entreprise permettrait sûrement aux États-Unis de commercer plus efficacement avec l'étranger."
  SAU_force_tribes_to_settle:0 "Forcer les tribus à s'installer"
@@ -72,11 +70,11 @@
  saudi.3.t:0 "L'Allemagne refuse d'envoyer des troupes"
  saudi.3.d:0 "Citant en particulier la priorité qu'elle accorde à la défense du territoire allemand, l'Allemagne refuse d'envoyer des troupes pour défendre l'Arabie saoudite."
  saudi.3.a:0 "Nous devrons nous défendre seuls"
- 
+
  ############################
  #######ARMYLOCALISATION#####
  ############################
- 
+
  SAU_army_focus_1:0 "L'armée saoudienne"
  SAU_army_focus_1_desc:0 "Il est temps de lancer des programmes et de consacrer des ressources à l'amélioration de la technologie et des performances de notre armée en général."
 
@@ -84,7 +82,7 @@
  SAU_army_infantry_desc:0 "Notre équipement d'infanterie doit être mis à niveau pour être plus performant, nous devons faire des efforts dans la conception de nouveaux équipements d'infanterie."
 
  SAU_army_infantry_desert:0 "Équipement du désert"
- SAU_army_infantry_desert_desc:0 "L'armée saoudienne doit être fortement préparée à combattre dans l'environnement naturel de l'Arabie - le désert. Nous devons nous efforcer de fournir à nos soldats l'équipement nécessaire pour une telle tâche." 
+ SAU_army_infantry_desert_desc:0 "L'armée saoudienne doit être fortement préparée à combattre dans l'environnement naturel de l'Arabie - le désert. Nous devons nous efforcer de fournir à nos soldats l'équipement nécessaire pour une telle tâche."
 
  SAU_artillery:0 "Artillerie"
  SAU_artillery_desc:0 "Nos forces doivent disposer de pièces d'artillerie adéquates pour rivaliser avec les autres nations sur la scène mondiale."
@@ -139,7 +137,7 @@
 
  SAU_general_army_buff1:0 "Armée saoudienne revigorée"
  SAU_general_army_buff1_desc:0 "L'armée saoudienne est maintenant une force de combat puissante et revigorée grâce à nos efforts en matière de technologie et de doctrine."
- 
+
  SAU_incorporate_nomad_tactics1:0 "Tactiques nomades intégrées"
  SAU_incorporate_nomad_tactics1_desc:0 "Nous avons intégré des aspects de la guerre arabe nomade dans notre doctrine militaire moderne."
 
@@ -158,16 +156,16 @@
  SAU_radio_innovations1:0 "Innovations radio"
  SAU_radio_innovations1_desc:0 "Nous avons fait des efforts pour renforcer l'utilisation de la radio par l'armée saoudienne."
 
- 
- 
+
+
  #############################
  SAU_2_Invite_the_Soviet_oil_barons:0 "Inviter les compagnies pétrolières soviétiques"
  SAU_2_Invite_the_Soviet_oil_barons_desc:0 "Un changement de cap est nécessaire. Les Soviétiques pourront nous aider dans notre industrialisation."
  SAU_change_law:0 "Mobilisation économique"
  SAU_change_law_desc:0 "Il est temps de sortir de notre état d'isolement et de regarder vers l'extérieur."
- SAU_request_soviet_investment:0 "Demande d'investissement soviétique" 
+ SAU_request_soviet_investment:0 "Demande d'investissement soviétique"
  SAU_request_soviet_investment_desc:0 "Nos alliés soviétiques devraient pouvoir nous aider dans nos efforts de modernisation."
- SAU_communmism_001:0 "Relancer le mouvement de la jungle"
+ SAU_communmism_001:0 "Poursuivre les actions de Karim Hakimov"
  SAU_communmism_001_desc:0 ""
  SAU_arabian_spring:0 "Notre propre chemin"
  SAU_arabian_spring_desc:0 "Notre indépendance diplomatique est primordiale !"
@@ -228,7 +226,7 @@
  SAU_east_destabilized:0 "Déstabiliser le Moyen-Orient"
  SAU_claim:0 "Expansionnisme saoudien"
  SAU_integrate_kuwait:0 "Intégrer le Koweït"
- 
+
 #Events
  arabia.1.t:0 "L'Arabie exige nos colonies"
  arabia.1.d:0 "Aujourd'hui, le diplomate saoudien, Ahmut al Pasha, nous a apporté une proposition de leur roi. Ils proposent de prendre nos colonies dans la péninsule arabique sous leur contrôle. Après les récentes découvertes de pétrole dans cette région, dire non signifierait que nous n'aurions plus besoin de leur pétrole. Que devons-nous faire ?"

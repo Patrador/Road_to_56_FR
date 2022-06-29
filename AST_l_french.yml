@@ -85,7 +85,7 @@
  r56_australia.18.t:0 "[ENG.GetNameDefCap] transfère la gouvernance à [AST.GetNameDef]"
  r56_australia.18.d:0 "Les pourparlers entre [ENG.GetNameDef] et [AST.GetNameDef] ont abouti à la prise en charge par le gouvernement [AST.GetAdjMS] de l'administration des Établissements des détroits et de la Malaisie et de l'île de Bornéo britannique. Nous leur rendrons désormais compte de toutes les questions."
  r56_australia.18.a:0 "Nouveaux maîtres, mêmes problèmes."
- 
+
  r56_australia.19.t:0 "[AST.GetNameDefCap] demande l'intégration de la Nouvelle-Zélande"
  r56_australia.19.d:0 "L'idée que la Nouvelle-Zélande soit un État [AST.GetDuDelaDelNP] [AST.GetName] existe depuis avant la fondation de nos nations, mais nous craignons que cela ne se fasse jamais. La distance qui nous sépare, les différences politiques et économiques, et le traitement que [AST.GetNameDef] réserve à sa population indigène. Cependant, lors de récentes discussions entre diplomates, la Nouvelle-Zélande a évoqué sa place en tant qu'État [AST.GetAdjMS]. Bien que ce ne soit pas un choix populaire, les avantages pourraient s'avérer fructueux dans ce monde toujours dangereux."
  r56_australia.19.a:0 "Il est temps que nous mettions de côté nos différences et que nous nous unissions."
@@ -141,7 +141,7 @@
  r56_australia.31.t:0 "Ingérence étrangère [MAL.GetAuEnANP] [MAL.GetName]"
  r56_australia.31.desc:0 "Récemment, les activités des rebelles pro-indépendance ont augmenté [MAL.GetAuEnANP] [MAL.GetName]. Une importante cache d'armes [AST.GetAdjFP] a été découverte par les autorités locales et des rebelles capturés ont révélé qu'elles avaient été introduites clandestinement [MAL.GetAuEnANP] [MAL.GetName] par des navires [AST.GetAdjMP]. Enhardi par cette manifestation de soutien international, les chefs rebelles locaux ont rallié de nombreuses personnes à leur cause. Il semble que nous pourrions bientôt avoir un nouveau conflit sur les bras."
  r56_australia.31.a:0 "Nous devons surveiller ces nationalistes."
- 
+
  r56_australia.32.t:0 "L'Insurrection communiste [MAL.GetAdjFS]"
  r56_australia.32.desc:0 "Des rebelles pro-indépendance, soutenus et financés par [AST.GetNameDef], se sont soulevés à travers [AST.GetNameDef]. Ils se sont emparés d'une grande partie des hauts plateaux et de la jungle de [MAL.GetName] et rassemblent actuellement leurs forces pour frapper Singapour."
  r56_australia.32.a:0 "Mon Dieu."

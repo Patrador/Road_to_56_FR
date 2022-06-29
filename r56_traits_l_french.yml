@@ -29,7 +29,7 @@
  retraining:0 "Entraînement"
  retraining_desc:0 "§LCe personnage suit actuellement des cours militaires supplémentaires afin d'améliorer ses capacités de commandement.§!"
  front_line_commander:0 "Commandant de ligne de front"
- front_line_commander_desc:0 "§LCe commandant a l'habitude de commander aussi près que possible des lignes de front. Cela lui permet de superviser la bataille dans son ensemble, mais en réalité, il n'est pas bien adapté pour mener de grandes opérations. Il prend des risques et, malgré ses lacunes, il est toujours respecté par ses hommes et admiré par ses collègues.§!" 
+ front_line_commander_desc:0 "§LCe commandant a l'habitude de commander aussi près que possible des lignes de front. Cela lui permet de superviser la bataille dans son ensemble, mais en réalité, il n'est pas bien adapté pour mener de grandes opérations. Il prend des risques et, malgré ses lacunes, il est toujours respecté par ses hommes et admiré par ses collègues.§!"
  jumping_general:0 "Jumping General"
  jumping_general_desc:0 "§LCe commandant a l'habitude de commander ses camarades parachutistes le plus près possible de l'action en se jetant directement dedans. Cela lui permet de superviser la bataille et de maintenir l’initiative et le moral de ses troupes, mais en réalité, il n’est pas bien adapté à la conduite d’opérations de grande envergure. Il est un preneur de risques et, malgré ses lacunes, il est admiré par ses hommes et respecté par ses collègues.§!"
  lucky:0 "Chanceux"
@@ -40,8 +40,7 @@
  promising_desc:0 "Cet homme a un grand talent et apprendra les bases assez rapidement."
  promising_tooltip:0 "§RCe trait sera supprimé si le commandant atteint le niveau 3.§!"
 
-
-##Companies 
+##Companies
  r56_train_manufacturer:0 "Concepteur de trains"
  converted_train_manufacturer:0 "Constructeur de trains convertis"
  efficient_bomber_manufacturer:0 "Fabricant de bombardiers efficaces"
@@ -60,12 +59,12 @@
  railway_company:0 "Société ferroviaire"
  landing_craft_manufacturer:0 "Fabricant d'embarcations de débarquement"
 
-##Leaders 
+##Leaders
  defacto_leader:0 "Dirigeant de facto"
  dislikes_russia:0 "N'aime pas la Russie"
  tank_enthusiast:0 "Passionné de chars"
  retired_admiral:0 "Amiral à la retraite"
- blessed:0 "Béni" 
+ blessed:0 "Béni"
  regent_without_a_king:0 "Régent sans roi"
  undecided:0 "Indécis"
  army_connections:0 "Connexions de l'armée"
@@ -103,11 +102,12 @@
  superficial_modernizer:0 "Modernisateur superficiel"
  pacifist_isolationist:0 "Isolationniste pacifiste"
  united_front_leader:0 "Dirigeant du Front uni"
+ polyglot:0 "Polyglotte"
  heir_of_the_knight_king:0 "Héritier du Roi-Chevalier"
  teacher_of_teachers:0 "Enseignant des enseignants"
 
  wary_of_the_high_command:0 "Se méfie du haut commandement"
- himmler_terrorizing_monomaniac:0 "Monomaniaque terrorisant" 
+ himmler_terrorizing_monomaniac:0 "Monomaniaque terrorisant"
  minister_of_aircraft_production:0 "Ministre de la production aéronautique"
  corrupt_council:0 "Conseil corrompu"
  yan_xishan_thought:0 "Pensée de Yan Xishan"
@@ -117,7 +117,9 @@
  odinist:0 "Odiniste"
  black_suffragette:0 "Suffragette noire"
 
-#Adviors 
+
+
+#Adviors
  head_of_the_fbi:0 "Directeur du FBI"
  intervention_advocate:0 "Avocat d'intervention"
  law_enforcement_militarizer_3:0 "Policier militariste\n(Génie)"
@@ -129,7 +131,6 @@
  centrist_intellectual:0 "Intellectuel centriste"
  royal:0 "Courtier royal"
  minister_of_everything:0 "Ministre de tout"
-
 
  guerilla_expert:0 "Expert en guérilla"
  guerilla_expert_desc:0 "S'ils ne nous attrapent pas, nous pourrons survivre, nous battre un autre jour et recommencer."

@@ -6,6 +6,7 @@
  form_prussia:0 "Former la Prusse"
 
  DNZ_join_germany:0 "Rejoindre l'Allemagne"
+ r56_unite_DNZ_with_ger:0 "Dissoudre la cité-État"
 
  r56_DNZ_prussia_legacy:0 "Dantzig a déclaré son indépendance"
 
@@ -14,8 +15,8 @@
  DNZ_neutrality_party:0 "DNVP"
  DNZ_neutrality_party_long:0 "Deutschnationale Volkspartei"
  DNZ_fascism_party:0 "NSDAP - Dantzig"
- DNZ_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei" 
- 
+ DNZ_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+
  danzigerwerft:0 "Danzigerwerft"
  ernst_stieberitz:0 "Ernst Stieberitz"
  Danzig_ist_Deutsch:0 "Dantzig est allemand"
@@ -34,9 +35,9 @@
  DNZ_generic_fascist_demagogue:0 "Wilhelm von Wnuck"
  DNZ_albert_forster:0 "Albert Forster"
  DNZ_edmund_beyl:0 "Edmund Beyl"
- DNZ_helmut_froboss:0 "Helmut Froböss" 
+ DNZ_helmut_froboss:0 "Helmut Froböss"
  DNZ_helmut_froboss2:0 "Helmut Froböss"
- 
+
  danzig.1.t:0 "La ville libre de Dantzig"
  danzig.1.desc:0 "Après la Grande Guerre, la ville libre de Dantzig a été créée afin d'assurer l'utilisation d'un port pour le nouvel État polonais renaissant. Ce compromis était nécessaire au lieu d'une annexion complète car la grande majorité de la population de Dantzig est d'origine allemande.\n\nLa montée de l'ultra-nationalisme en Allemagne a amené dans son sillage le contrôle total des institutions locales au NSDAP. Actuellement, les politiciens nazis qui ne souhaitent qu'une réunification avec l'Allemagne gardent un silence relatif, mais cela pourrait changer bientôt et dans le cas d'une crise, la ville-État disparaîtrait très probablement et serait annexée par la Pologne ou l'Allemagne."
  danzig.1.a:0 "Notre désir sera bientôt à notre portée"
@@ -140,7 +141,7 @@
  DNZ_destroyer_effort_desc:0 "En étudiant la conception et l'utilisation stratégique des sous-marins, nous avons aussi appris comment contrer ces stratégies. Les destroyers joueront un rôle crucial à cet égard."
  DNZ_capital_ships_effort:0 "Priorité aux navires capitaux"
  DNZ_capital_ships_effort_desc:0 "La nation avec le plus grand nombre de cuirassés régnera sur les océans. Les cuirassés et les porte-avions représentent l'ancienne et la nouvelle supériorité navale."
- 
+
  autonomy_mandate_city:0 "Ville mandataire"
  autonomy_free_city:0 "Ville libre"
  autonomy_protectorate:0 "Protectorat"
@@ -150,7 +151,7 @@
  POL_unlock_pressure_tt:0 "§Y Une condition préalable à la priorité « Faire pression sur Dantzig » a été remplie"
 
  DNZ_GER_betrayal:0 "Trahison allemande"
- 
+
  #new
  Military_Police_Paramilitarization:0 "Paramilitarisation de la police militaire"
  DNZ_Schutzpolizei_Paramilitarization_tt:0 "Active la §Hparamilitarisation de la police militaire§!\n§HPolice militaire§!:\n  Percée : §G+25%§!\n   Organisation max. : §G+3§!\n\n"

@@ -407,7 +407,7 @@
  CaharCouncilCtag_neutrality:0 "Comité politique mongol tchakhar"
  CaharCouncilCtag_neutrality_DEF:0 "le Comité politique mongol tchakhar"
  CaharCouncilCtag_neutrality_ADJ:0 "mongol tchakhar"
- 
+
  #DEN
  NOR_REP_democratic:0 "République de Norvège"
  NOR_REP_democratic_DEF:0 "la République de Norvège"
@@ -604,7 +604,7 @@
  FIJ_ENG_fascism_subject:1 "Colonie de Fidji"
  FIJ_ENG_fascism_subject_DEF:1 "la Colonie de Fidji"
  FIJ_ENG_fascism_subject_ADJ:1 "fidjien"
- 
+
  #FSM
  FSM_JAP_fascism:0 "Mandat des mers du Sud"
  FSM_JAP_fascism_DEF:0 "le Mandat des mers du Sud"
@@ -613,7 +613,7 @@
  FSM_JAP_neutrality_DEF:0 "le Mandat des mers du Sud"
  FSM_JAP_neutrality_ADJ:0 "micronésien"
  FSM_JAP_fascism_autonomy_collaboration_government:0 "Mandat des mers du Sud"
- FSM_JAP_fascism_autonomy_collaboration_government_DEF:0 "le Mandat des mers du Sud" 
+ FSM_JAP_fascism_autonomy_collaboration_government_DEF:0 "le Mandat des mers du Sud"
  FSM_JAP_fascism_autonomy_collaboration_government_ADJ:0 "micronésien"
 
  #FRA
@@ -655,7 +655,7 @@
  #FengClique
  FengClique_fascism:0 "Nouvelle clique de Fengtian"
  FengClique_fascism_DEF:0 "la Nouvelle clique de Fengtian"
- 
+
  #INS_islamic
  INS_islamic_neutrality:0 "République islamique d'Indonésie"
  INS_islamic_neutrality_DEF:0 "la République islamique d'Indonésie"
@@ -683,7 +683,7 @@
  INS_monarchy_communism:0 "République populaire d'Indonésie"
  INS_monarchy_communism_DEF:0 "la République populaire d'Indonésie"
  INS_monarchy_communism_ADJ:0 "indonésien"
- 
+
  #INS_secular
  INS_secular_neutrality:0 "République d'Indonésie"
  INS_secular_neutrality_DEF:0 "la République d'Indonésie"
@@ -852,7 +852,7 @@
  HUN_MONARCHY_democratic_DEF:0 "le Royaume de Hongrie"
  HUN_MONARCHY_fascism:0 "Royaume de Hongrie"
  HUN_MONARCHY_fascism_DEF:0 "le Royaume de Hongrie"
- 
+
  #Moldavian Romania
 
  MOL_ROM_communism_autonomy_puppet:0 "République socialiste autonome de Moldavie"
@@ -860,7 +860,7 @@
  MOL_ROM_fascism_autonomy_puppet:0 "Province autonome de Moldavie"
  MOL_ROM_fascism_autonomy_puppet_DEF:0 "la Province autonome de Moldavie"
  MOL_ROM_autonomy_puppet:0 "Principauté de Moldavie"
- MOL_ROM_autonomy_puppet_DEF:0 "la Principauté de Moldavie" 
+ MOL_ROM_autonomy_puppet_DEF:0 "la Principauté de Moldavie"
 
  #ROM Wallachia
  ROM_WALLACHIA_neutrality:0 "Royaume de Valachie"
@@ -1107,7 +1107,7 @@
  TRA_ROM_fascism_autonomy_puppet:0 "Province autonome d'Ardeal"
  TRA_ROM_fascism_autonomy_puppet_DEF:0 "la Province autonome d'Ardeal"
  TRA_ROM_autonomy_puppet:0 "Principauté d'Ardeal"
- TRA_ROM_autonomy_puppet_DEF:0 "la Principauté d'Ardeal" 
+ TRA_ROM_autonomy_puppet_DEF:0 "la Principauté d'Ardeal"
 
  #LAO
  LAO_FRA_neutrality:0 "Protectorat du Laos"
@@ -1850,7 +1850,7 @@
  SAD_PIEDMONT_neutrality:0 "Royaume de Piémont-Sardaigne"
  SAD_PIEDMONT_neutrality_DEF:0 "le Royaume de Piémont-Sardaigne"
  SAD_PIEDMONT_ADJ:0 "sarde"
- 
+
  #SAF_ENG
  SAF_ENG_neutrality:0 "Union d'Afrique du Sud"
  SAF_ENG_neutrality_DEF:0 "l'Union d'Afrique du Sud"
@@ -2075,3 +2075,13 @@
  ZIM_ENG_autonomy_integrated_puppet:0 "Colonie de Rhodésie du Sud"
  ZIM_ENG_autonomy_integrated_puppet_DEF:0 "la Colonie de Rhodésie du Sud"
  ZIM_ENG_autonomy_integrated_puppet_ADJ:0 "rhodésien du Sud"
+
+ #PHI
+ PHI_USA_democratic:0 "Commonwealth des Philippines"
+ PHI_USA_democratic_DEF:0 "le Commonwealth des Philippines"
+ PHI_USA_neutrality:0 "Commonwealth des Philippines"
+ PHI_USA_neutrality_DEF:0 "le Commonwealth des Philippines"
+
+ #USA NON CIVIl WAR COMMIE
+ USA_Non_civil_war_communist_tag:0 "États-Unis d'Amérique"
+ USA_Non_civil_war_communist_tag:0 "les États-Unis d'Amérique"

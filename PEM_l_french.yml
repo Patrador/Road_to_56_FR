@@ -13,7 +13,7 @@
  POR_desenvolver_o_interior:0 "Développer l'intérieur"
  POR_desenvolver_o_interior_desc:0 "Le gouvernement portugais veillera à ce que le secteur reçoive le soutien dont il a besoin, en termes de bonnes infrastructures dans tout le pays."
  POR_construir_fabricas:0 "Construire des usines I"
- POR_construir_fabricas_desc:0 "Le gouvernement portugais a promis d'augmenter la production au Portugal. Il est maintenant temps pour eux de tenir leurs promesses." 
+ POR_construir_fabricas_desc:0 "Le gouvernement portugais a promis d'augmenter la production au Portugal. Il est maintenant temps pour eux de tenir leurs promesses."
  POR_construir_fabricas_2:0 "Construire des usines militaires I"
  POR_construir_fabricas_2_desc:0 "Si le Portugal veut redevenir une grande puissance, nous devons fournir davantage de production d'armes. Ainsi soit-il."
  POR_acores:0 "Développer les Açores"
@@ -42,7 +42,7 @@
  POR_timor_2_desc:0 "Nous avons découvert une petite source de caoutchouc au Timor oriental. Nous devrions construire une installation pour extraire cette ressource."
  POR_army_primacy:0 "L'armée portugaise"
  POR_army_primacy_desc:0 "Une armée forte fait une nation féroce. Nous devons développer notre armée tant sur le plan technique que sur celui de la production d'équipements militaires."
- POR_modernized_artillery:0 "Armes de soutien" 
+ POR_modernized_artillery:0 "Armes de soutien"
  POR_modernized_artillery_desc:0 "L'amélioration de notre artillerie et de nos équipements antichars est un atout pour notre armée."
  POR_modernized_army:0 "Nouvelles tactiques de l'armée"
  POR_modernized_army_desc:0 "L'accent mis sur les doctrines terrestres est important, de même que les cies de reconnaissance."
@@ -78,7 +78,7 @@
  POR_naval_air_effort_desc:0 "L'efficacité des frappes aériennes contre des cibles navales a été démontrée par les Américains dès 1921. Nous ne devons pas négliger cette branche de l'armée de l'air si nous avons l'intention de faire la guerre à une puissance navale."
  POR_submarine_effort:0 "Effort sur les sous-marins"
  POR_submarine_effort_desc:0 "La guerre sous-marine est le développement naval le plus passionnant depuis l'invention du torpilleur. Nous ferions bien de ne pas nous contenter de nous protéger contre les sous-marins, mais de les utiliser également contre les navires ennemis."
- 
+
  POR_salazar:0 "L'échiquier politique"
  POR_salazar_desc:0 "Le Portugal est toujours une étape de la lutte pour le pouvoir. Gagnons du pouvoir avec lui."
  POR_collectivist_ethos:0 "Le Portugal d'abord"
@@ -171,7 +171,7 @@ POR_naval_aviation:0 "L'aviation navale"
 POR_naval_aviation_desc:0 "Les flottes de combat modernes seront centrées sur les porte-avions et non sur les cuirassés. La suprématie de la puissance aérienne sur les navires a été démontrée par les Américains dès 1921 !"
 POR_silent_service:0 "Service silencieux"
 POR_silent_service_desc:0 "La guerre sous-marine est le développement naval le plus passionnant depuis l'invention du torpilleur. Nous ferions bien de ne pas nous contenter de nous protéger contre les sous-marins, mais de les utiliser également contre les navires ennemis."
- 
+
 POR_elastic_defense:0 "Défense élastique"
 
 
@@ -203,7 +203,7 @@ POR_elastic_defense:0 "Défense élastique"
   por_pvde:0 "Polícia de Vigilância e Defesa do Estado"
   por_military_youth_focus:0 "Mocidade Portuguesa"
   por_dpfamilia:0 "Deus, Pátria e Família"
- 
+
 
  ### demand Ceuta event
  portugal.1.t:0 "Le Portugal exige Ceuta"

@@ -628,7 +628,7 @@
  SOV_popular_speeches_poum_desc:0 "Grâce aux organisations locales et à des membres influents de l'opposition anti-stalinienne à l'étranger, une vaste campagne d'information et d'agitation a été lancée dans les territoires sous contrôle [Root.GetDuDelaDelNP] [Root.GetName] afin de rallumer la ferveur révolutionnaire au sein de la population."
  SOV_agents_in_the_stalinist_command_poum:0 "Agents infiltrés dans les troupes stalinistes"
  SOV_agents_in_the_stalinist_command_poum_desc:0 "L'opposition de droite [SOU.GetAuAlaAlDir] [SOU.GetLeader] est parvenue à infiltrer des agents parmi les derniers conseillers militaires qu'[SOU.GetIlElleDir] a envoyé soutenir la République espagnole. Ces agents ont mis en place un réseau d'informateurs, qui permettra de tout savoir des plans ennemis, avant même qu'ils soient lancés."
- 
+
  SOV_organized_wreckers_idea:0 "Saboteurs"
  SOV_organized_wreckers_idea_desc:1 "Les ennemis de l'État ont recruté des saboteurs dans les classes populaires, qui créent des tensions dans le secteur critique de l'industrie et empêchent d'atteindre les objectifs de production."
  SOV_organized_wreckers_idea_tt:0 "Les ennemis peuvent lancer des missions de sabotage."

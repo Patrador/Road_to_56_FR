@@ -1,8 +1,8 @@
 ﻿l_french:
 
 #parties
- 
-SGP_fascism_party:0 "PAP" 
+
+SGP_fascism_party:0 "PAP"
   SGP_fascism_party_long:0 "Parti d'action populaire"
 SGP_democratic_party:0 "Progressistes"
   SGP_democratic_party_long:0 "Parti progressiste"

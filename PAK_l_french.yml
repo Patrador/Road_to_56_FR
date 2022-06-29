@@ -1,43 +1,43 @@
 ﻿l_french:
  PAK_democratic_party:0 "Ligue musulmane"
- PAK_democratic_party_long:0 "LM" 
+ PAK_democratic_party_long:0 "LM"
  PAK_communism_party:0 "PCP"
- PAK_communism_party_long:0 "Parti communiste pakistanais" 
+ PAK_communism_party_long:0 "Parti communiste pakistanais"
  PAK_fascism_party:0 "LI"
- PAK_fascism_party_long:0 "Ligue pour l'indépendance" 
+ PAK_fascism_party_long:0 "Ligue pour l'indépendance"
  pak_influence:0 "Soutiendrait notre nouveau gouvernement"
  PAK_democratic:2 "République du Pakistan"
  PAK_democratic_DEF:2 "la République du Pakistan"
- 
+
  PAK_Islam_Nationalism:0 "Nationalisme islamique"
  PAK_Ally_the_Army:0 "S'allier à l'armée"
  PAK_Loyalty_in_the_Army:0 "Loyauté dans l'armée"
  PAK_Central_Planning_Commission:0 "Commission centrale de planification"
  PAK_Curb_Extremist_Influence:0 "Limiter l'influence des extrémistes"
- 
+
  pak_support:0 "Soutient maintenant notre nouveau gouvernement"
  reintegrate_states:0 "Réintégrer [From.GetLeLaLNP] [From.GetName]"
- 
+
  communist_power_base:0 "Influence communiste [From.GetAuEnANP] [From.GetName]"
  communist_revolution:0 "Révolution communiste"
  communist_revolution_desc:0 "Une révolution réussie ne peut être raisonnablement exécutée que si la majorité du pays soutient le nouveau gouvernement. Nous devons rallier les provinces à la cause communiste, sinon notre nouveau gouvernement sera une piètre excuse pour le faire."
- 
+
  fascist_power_base:0 "Influence fasciste [From.GetAuEnANP] [From.GetName]"
  fascist_coup:0 "Coup d'État fasciste"
  fascist_coup_desc:0 "Un coup d'État réussi ne peut être raisonnablement exécuté que si la majorité du pays soutient le nouveau gouvernement. Nous devons rallier les provinces à la cause fasciste, sinon notre nouveau gouvernement sera une piètre excuse pour le faire."
- 
+
  choose_fascism:0 "Vers le fascisme"
  choose_communism:0 "Vers le communisme"
- 
+
  PAK_Liaquat_Ali_Khan:0 "Liaquat Ali Khan"
  PAK_Mian_Iftikharuddin:0 "Mian Iftikharuddin"
- 
+
  bangladesh_liberation:0 "Libération du Bangladesh"
  bangladesh_liberation_desc:0 "Les Bangladais du Pakistan oriental se sentent désillusionnés et sous-représentés à Karachi. Des forces nationalistes commencent à se former et à bénéficier d'un soutien populaire à un degré inquiétant.\n\nL'attitude des Indiens à l'égard de l'indépendance du Bangladesh est [Root.PAK_indian_support]\nLe §Ydésire de liberté§! actuel du Bangladesh est : §R[?bangladesh_freedom]§!\nCe nombre peut être modifié par la construction d'§Yinfrastructures§!, la contruction d'§Yusines civiles§!, la §Yprésence de troupes§! ou par des §Yévénements et décisions§!\nSi le §Ydésire de liberté§! se rapproche de §R100§!, une guerre civile éclatera."
  pak_mus_unity:0 "Permet d'§Yintégrer n'importe quel État national§! d'un §Ypays musulman§!"
  support_loyalist_militias:0 "Soutenir les milices loyalistes"
  support_loyalist_militias_desc:0 "La situation dans la partie orientale de notre pays se détériore et la violence semble désormais être la seule mesure capable d'étouffer un soulèvement."
- 
+
  increase_federalism:0 "Suggérer un plus grand fédéralisme"
  increase_federalism_desc:0 "Bien que nous ne puissions pas faire de promesses concrètes pour l'instant, de vagues notions d'autonomie accrue, une fois les tensions apaisées, pourraient diminuer le militantisme et la conscience de la population bengalie."
 
@@ -49,17 +49,17 @@
  appeal_to_the_proletariat:0 "L'appel au prolétariat"
  appeal_to_the_proletariat_desc:0 "Notre situation politique, culturelle et géographique défavorable en tant que pays ne signifie pas que les travailleurs de l'Ouest et de l'Est doivent s'opposer les uns aux autres. Nous devons libérer les masses des notions oppressantes de nationalisme."
 
- 
+
  integrate_muslim_states:0 "Intégrer [From.GetLeLaLNP] [From.GetName]"
- 
+
  pak_very_sympathetic:0 "§RTrès favorable§!\nCela signifie qu'ils envisageront de se joindre à eux si la guerre devait éclater.\n"
  pak_sympathetic:0 "§OFavorable§!\nCela signifie qu'ils les aideront probablement si la guerre devait éclater.\n"
  pak_opposed:0 "§GOpposé§!\nCela signifie qu'ils nous soutiendront passivement si une guerre devait éclater.\n"
  pak_neutral:0 "§YNeutre§!\nCela signifie qu'ils resteront en dehors de tout conflit.\n"
- 
+
  PAK_Storm_Karachi:0 "Storm Karachi"
  PAK_Storm_Karachi_f:0 "Storm Karachi"
- 
+
  bangladesh_liberation_countdown:0 "Aspiration accrue à la liberté"
  establish_east_bengal:0 "Établir le Bengale oriental"
  substract50ban:0 "Réduit le §Ydésire de liberté§! bangladais de §G50§!"
@@ -73,17 +73,17 @@
  add2ban:0 "Augmente le §Ydésire de liberté§! bangladais de §R2§!"
  needs95ban:0 "Le §Ydésire de liberté§! bangladais est d'au moins §R95§!"
  needs50ban:0 "Le §Ydésire de liberté§! bangladais est d'au moins §R50§!"
- 
+
  pakistan.3.t:0 "Mort d'un important homme politique bangladais"
  pakistan.3.d:0 "Après une longue lutte à l'hôpital, le Bangladesh a perdu l'un de ses principaux dirigeants. Leur peuple se tourne maintenant vers votre réaction pour faire face à leur perte tragique."
- 
+
  pakistan.4.t:0 "La controverse linguistique"
  pakistan.4.d:0 "La langue du Pakistan oriental, le bengali, a longtemps été une épine dans le pied des Pakistanais. La réforme de l'éducation est apparue récemment et les Bangladais s'interrogent : « Le bengali nous sera-t-il enseigné ? »"
-  
+
  pakistan.5.t:0 "Un cyclone dévastateur va frapper le Pakistan oriental"
  pakistan.5.d:0 "La côte du Bengale semble plus hostile que d'habitude. Avec la nouvelle qu'un cyclone dévastateur pourrait frapper à tout moment, les gens paniquent et demandent de l'aide à leur dirigeant."
- 
- 
+
+
  EFFECT_CHANGE_LAW_r56i_laws_social:0 "Change l'application de la loi pour :"
 PAK_Build_Refineries:0 "Construire des raffineries"
 PAK_Build_Refineries_desc:0 ""

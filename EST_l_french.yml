@@ -2,7 +2,7 @@
  estonian_focus:0 "Priorités nationales estoniennes"
 
  est.1.t:0 "Invitation de l'Estonie"
- est.1.d:0 "Suite au resserrement des tensions en Europe, l'Estonie appelle maintenant à une alliance défensive entre les États du Soumi-Ugri. Mais cela ne va pas sans ses opposants. Le consensus général au sein du cabinet de [Root.GetLeader] est que notre pays peut facilement se défendre contre toutes les menaces extérieures. Que ce soit pour que le cas improbable de l'éclatement d'une nouvelle Grande Guerre."
+ est.1.d:0 "Suite au resserrement des tensions en Europe, l'Estonie appelle maintenant à une alliance défensive entre les États du Suomi-Ugri. Mais cela ne va pas sans ses opposants. Le consensus général au sein du cabinet de [Root.GetLeader] est que notre pays peut facilement se défendre contre toutes les menaces extérieures. Que ce soit pour que le cas improbable de l'éclatement d'une nouvelle Grande Guerre."
  est.1.a:0 "Accepter"
  est.1.b:0 "Décliner"
  est.2.t:0 "[From.GetLeLaLNPCap] [From.GetName] dit OUI !"
@@ -21,7 +21,7 @@
  est.5.b:0 "La victoire nous appartient !"
  est.5.a:0 "Un autre pays est tombé aux mains de son ennemi..."
  est.6.t:0 "Fall of Leningrad"
- est.6.d:0 "Léningrad, l'ancienne capitale de l'Empire russe, a été occupée par les forces estoniennes. Avec une population de plus de trois millions d'habitants, la ville compte deux fois plus d'habitants que toute l'Estonie, mais ce fait n'a évidemment pas dissuadé les attaquants estoniens.\n\nIl y a un débat sur la question de savoir si la ville doit être intégrée à la Grande Estonie, puisque les différents soumi-ugriphones constituent une minorité considérable dans les régions situées en dehors de la ville. Cela suppose, bien sûr, que l'Armée rouge soit incapable de reprendre la ville dans le cadre d'une contre-offensive."
+ est.6.d:0 "Léningrad, l'ancienne capitale de l'Empire russe, a été occupée par les forces estoniennes. Avec une population de plus de trois millions d'habitants, la ville compte deux fois plus d'habitants que toute l'Estonie, mais ce fait n'a évidemment pas dissuadé les attaquants estoniens.\n\nIl y a un débat sur la question de savoir si la ville doit être intégrée à la Grande Estonie, puisque les différents suomi-ugriphones constituent une minorité considérable dans les régions situées en dehors de la ville. Cela suppose, bien sûr, que l'Armée rouge soit incapable de reprendre la ville dans le cadre d'une contre-offensive."
  est.6.a:0 "D'accord"
  est.6.b:0 "Prenez ça, Bolševiks !"
  est.7.t:0 "Partisans communistes"
@@ -60,7 +60,7 @@
  est.18.a:0 "Un retour à la démocratie est notre meilleur espoir."
  est.18.b:0 "L'établissement de liens étroits avec l'Allemagne est la meilleure solution."
  est.18.c:0 "L'Union des travailleurs estoniens nous guidera."
- 
+
  #focus
  EST_the_four_year_plan:0 "Le plan quadriennal"
  EST_the_four_year_plan_desc:0 "Notre industrie et notre agriculture sont en retard par rapport à la production que nous avions avant la Grande Dépression. Commençons à les améliorer en lançant le plan quadriennal."
@@ -226,7 +226,7 @@
  EST_demmand_friendship_desc:0 "L'Union soviétique est la seule nation qui peut nous aider à défendre nos idéaux. L'établissement de liens étroits ne devrait même pas être remis en question."
 
  #Ideas
- 
+
  EST_johan_laidoner:0 "Johan Laidoner"
  EST_alfons_rebane:0 "Alfons Rebane"
  EST_richard_tomberg:0 "Richard Tomberg"
@@ -251,7 +251,7 @@
  EST_friedrich_akel:0 "Friedrich Akel"
  EST_social_security_2:0 "Prioriser la sécurité sociale"
  EST_social_security_3:0 "Prioriser la sécurité sociale"
- 
+
  kaitseliit:0 "Eesti Kaitseliit"
  democratic_leanings:0 "Penchants démocratiques"
  armed_neutrality:0 "Neutralité armée"
@@ -281,11 +281,11 @@
  aero_idea:0 "Idée aérienne"
  closed_borders:0 "Frontières fermées"
  defending_their_homeland:0 "Défense de la patrie"
- 
+
  EST_tallinn_radiotehas:0 "Tallinna Radiotehas"
  EST_eesti_kivioli:0 "AS Eesti Kiviõli"
  EST_as_kunda_nordic:0 "AS Kunda Nordic"
- 
+
  NK:0 "Noored Kotkad"
  NK_desc:0 "Les organisations affiliées à la Ligue de défense regroupent au total plus de 21 000 volontaires et comprennent le corps féminin de la Ligue de défense estonienne Naiskodukaitse, le corps masculin de la Ligue de défense estonienne Noored Kotkad et le corps féminin de la Ligue de défense estonienne Kodutütred."
 
@@ -293,7 +293,7 @@
 
 
  EST_generic_light_aircraft_manufacturer:0 "Aviotehas"
- 
+
  EST_election_tt:0 "Nous organiserons des élections libres"
  EST_sare_tt:0 "Cette priorité s'achèvera après la victoire de Karl Säre aux élections"
  EST_mae_tt:0 "Cette priorité s'achèvera après la victoire de Hajlmar Mae aux élections"

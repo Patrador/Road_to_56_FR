@@ -332,7 +332,7 @@
  EAU_UNITED_neutrality:0 "Fédération est-africaine"
  EAU_UNITED_neutrality_DEF:0 "la Fédération est-africaine"
  EAU_UNITED_ADJ:0 "est-africain"
- 
+
  #korea
  unify_the_peninsula_category:0 "Unifier la péninsule"
  unify_the_peninsula_category_desc:0 "Notre pays a été divisé à cause de l'impérialisme et de petites disputes idéologiques. Maintenant que nous contrôlons toute la péninsule, nous pouvons commencer l'unification de la Corée proprement dite."
@@ -341,6 +341,10 @@
  #sardinia Piedmont
 
  form_sardinia_piedmont:0 "Récupérer le Piémont"
+
+ #arabia
+
+ form_arabia_britain_required_states_tt:0 "Contrôle tous les États §Ybritanniques§! en Égypte, au Soudan, au Moyen-Orient et en Arabie."
 
  is_baltic_union_tt:0 "Est l'§YUnion balte§!"
  BAL_UNIFIED_baltic_unification:0 "Unification balte"
@@ -436,7 +440,7 @@
 
  is_majapahit_tt:0 "A unifié §YMajapahit§!"
  MAJ_UNIFIED_majapahit_unification:0 "La renaissance de Majapahit"
- MAJ_UNIFIED_majapahit_unification_desc:0 "Les îles et les zones côtières de l'Asie du Sud-Est ont enfin été réunies. Un avenir glorieux les attend !" 
+ MAJ_UNIFIED_majapahit_unification_desc:0 "Les îles et les zones côtières de l'Asie du Sud-Est ont enfin été réunies. Un avenir glorieux les attend !"
  MAJ_UNIFIED_develop_mining:0 "Développer nos ressources"
  MAJ_UNIFIED_develop_mining_desc:0 "Nos ressources sont notre plus grand atout. Révélons les trésors qui se trouvent sous nos pieds."
  MAJ_UNIFIED_improve_local_infrastructure:0 "Connecter les villes"
@@ -477,7 +481,7 @@
 
 is_persian_empire_tt:0 "A réalisé les §YAmbitions impériales de la Perse§!"
  PER_UNIFIED_persian_imperial_ambitions:0 "La renaissance de l'Empire perse"
- PER_UNIFIED_persian_imperial_ambitions_desc:0 "L'Empire perse a enfin été reformé. Un avenir glorieux l'attend !" 
+ PER_UNIFIED_persian_imperial_ambitions_desc:0 "L'Empire perse a enfin été reformé. Un avenir glorieux l'attend !"
  PER_UNIFIED_military_camelry:0 "Camelerie militaire"
  PER_UNIFIED_military_camelry_desc:0 "Les chameaux ont été au centre du transport en Asie centrale pendant des siècles. Maintenant, ils vont enfin être utilisés dans le militaire."
  PER_UNIFIED_develop_mining:0 "Développer nos ressources"

@@ -3,7 +3,7 @@
  LIT_generic_fascist_demagogue:0 "Jonas Karutis"
  fascist_figurehead:0 "Personnalité fasciste"
  LIT_become_lithuania:0 "Devenir la Lituanie"
- LIT_generic_artillery_manufacturer:0 "Linkaiciai Artillerty Manufactory"
+ LIT_generic_artillery_manufacturer:0 "Linkaiciai Artillery Manufactory"
  LIT_generic_infantry_equipment_manufacturer:0 "Metalas Factory Kaunas"
  LIT_generic_motorized_equipment_manufacturer:0 "Amlit"
  #LIT_generic_industrial_equipment_manufacturer:0 "Elektra"
@@ -34,7 +34,7 @@
  unify_baltics_lithuania_required_states_tt:0 "Possède tous les États §Ylituaniens§!. (Sauf Memel et Wilno)"
  unify_baltics_latvia_required_states_tt:0 "Possède tous les États §Ylettons§!."
  unify_baltics_estonia_required_states_tt:0 "Possède tous les États §Yestoniens§!."
- 
+
 #Focuses
  LIT_Aviation_Effort:0 "Développer l'armée de l'air [ROOT.GetAdjFS]"
  LIT_Aviation_Effort_desc:0 "L'armée de l'air [ROOT.GetAdjFS], correctement constituée, peut être une force puissante capable d'anéantir toute nation agressive à notre égard. Nous devrions commencer à construire des bases aériennes et à former nos officiers à l'utilisation de ces machines volantes."

@@ -1,4 +1,4 @@
-﻿l_french: 
+﻿l_french:
 
  is_AH_tt:0 "Est l'§YAutriche-Hongrie§!"
 
@@ -27,7 +27,7 @@
 
  HUN_expand_the_levente:0 "Développer le Levente"
  HUN_expand_the_levente_desc:0 "L'association Levente est une organisation paramilitaire qui existe depuis 1921, créée à l'origine à des fins d'entraînement physique et de santé, mais qui a ensuite été militarisée pour contourner les restrictions du traité de Trianon."
-  
+
  HUN_demand_the_coastline:0 "[ROOT.GetHUNdemandthecoastline]"
  HUN_demand_the_coastline_desc:0 "L'héritage du Royaume de Hongrie concerne les territoires côtiers de Dalmatie perdus aux mains des Ottomans il y a cinq siècles. Si nous voulons retrouver notre gloire d'antan, nous devons exiger ou conquérir les territoires nécessaires !"
  GetHUNdemandthecoastlinenormal_KEY:0 "Exiger le littoral"
@@ -37,13 +37,13 @@
  HUN_gyor_program_investment:0 "Investissement du programme Gyor"
 
  HUN_gyor_program_decision_category:0 "Le programme Gyor"
- HUN_gyor_program_decision_category_desc:0 "Le programme Gyor est le plan qui permettra au pays d'augmenter sa production d'armement et de rééquiper l'armée [ROOT.GetAdjFS]." 
+ HUN_gyor_program_decision_category_desc:0 "Le programme Gyor est le plan qui permettra au pays d'augmenter sa production d'armement et de rééquiper l'armée [ROOT.GetAdjFS]."
  HUN_support_manufacturers_coordination:0 "Soutenir la coordination des fabricants"
 
  HUN_idea_support_armament_manufacturers:0 "Coordination des fabricants d'armement"
 
  HUN_acquire_skoda_naval_artillery_experience:0 "Acquérir l'expérience de l'artillerie navale Skoda"
- HUN_acquire_skoda_naval_artillery_experience_desc:0 "Skoda a conçu les canons de la marine austro-hongroise, il est temps de mettre cette expérience à profit une fois de plus." 
+ HUN_acquire_skoda_naval_artillery_experience_desc:0 "Skoda a conçu les canons de la marine austro-hongroise, il est temps de mettre cette expérience à profit une fois de plus."
  HUN_experiment_with_torpedoes:0 "Expérimenter les torpilles"
  HUN_experiment_with_torpedoes_desc:0 "Nous devons rattraper les autres nations en ce qui concerne nos modèles de torpilles afin d'attaquer en silence."
 
@@ -98,9 +98,9 @@
  HUN_ally_bulgaria:0 "S'allier à la Bulgarie"
  HUN_ally_bulgaria_desc:0 "La Bulgarie doit être soutenue et être notre alliée dans notre lutte pour la libération des travailleurs du monde !"
  HUN_ally_austria:0 "S'allier à l'Autriche"
- HUN_ally_austria_desc:0 "L'Autriche doit être soutenue et être notre alliée dans notre lutte pour la libération des travailleurs du monde !" 
+ HUN_ally_austria_desc:0 "L'Autriche doit être soutenue et être notre alliée dans notre lutte pour la libération des travailleurs du monde !"
 
- 
+
  HUN_revolt_of_the_arrow_crosses:0 "Révolte des Croix fléchées"
  HUN_revolt_of_the_arrow_crosses_desc:0 "Le soi-disant régent a trahi la mère patrie et son armée pendant des années en gardant le pouvoir pour lui tout en étant complaisant avec les oppresseurs étrangers." # it's motherland (anyaföld) in hungarian, not fatherland
  HUN_favor_the_army:0 "Privilégier l'armée"
@@ -112,9 +112,9 @@
  HUN_invite_yugoslavia:0 "Inviter la Yougoslavie"
  HUN_invite_yugoslavia_desc:0 "Le soutien de la Yougoslavie est essentiel pour l'avenir d'une coalition balkanique durable."
  HUN_invite_czechoslovakia:0 "Inviter la Tchécoslovaquie"
- HUN_invite_czechoslovakia_desc:0 "Le soutien de la Tchécoslovaquie est essentiel pour l'avenir d'une coalition balkanique durable." 
+ HUN_invite_czechoslovakia_desc:0 "Le soutien de la Tchécoslovaquie est essentiel pour l'avenir d'une coalition balkanique durable."
  HUN_invite_greece:0 "Inviter la Grèce"
- HUN_invite_greece_desc:0 "Le soutien de la Grèce est essentiel pour l'avenir d'une coalition balkanique durable" 
+ HUN_invite_greece_desc:0 "Le soutien de la Grèce est essentiel pour l'avenir d'une coalition balkanique durable"
  HUN_protect_ruthenia:0 "Protéger la Ruthénie"
  HUN_protect_ruthenia_desc:0 "Il est dans notre intérêt, dans celui des Magyarones et des Rusyns, de protéger la Ruthénie et de faire en sorte que chaque communauté vive en paix avec les autres. Ces temps sont déjà assez troublés. Nous n'avons pas besoin d'ennemis internes."
  HUN_join_the_little_entente:0 "Rejoindre la Petite Entente"
@@ -122,7 +122,7 @@
  HUN_join_the_cordon_sanitaire:0 "Rejoindre le Cordon Sanitaire"
  HUN_join_the_cordon_sanitaire_desc:0 "L'alliance polono-roumaine est le rempart de l'Europe de l'Est contre la tyrannie, elle sert la cause de la liberté de les rejoindre."
  HUN_hungarian_minorities_recruitment_agreement:0 "Accord sur le recrutement des minorités hongroises"
- HUN_hungarian_minorities_recruitment_agreement_desc:0 "Faites pression sur nos alliés pour que leurs citoyens d'origine hongroise puissent servir dans l'armée hongroise." 
+ HUN_hungarian_minorities_recruitment_agreement_desc:0 "Faites pression sur nos alliés pour que leurs citoyens d'origine hongroise puissent servir dans l'armée hongroise."
 
  HUN_rearmament_refused:0 "§YLes membres de la Petite Entente se voient refuser le réarmement§!"
 
@@ -148,3 +148,14 @@
  r56_hungary_6.desc:0 "Rejoindre Charles Bernadotte"
  r56_hungary_6.a:0 "Pour la victoire !"
  r56_hungary_6.b:0 "Plûtot mourrir"
+
+ r56_hungary_coastline.1.t:0 "La Hongrie exige les territoires de la Grande Hongrie"
+ r56_hungary_coastline.1.d:0 "[HUN.GetNameDefCap] a utilisé l'héritage du Royaume hongrois comme un casus beli pour exiger le territoire de la Grande Hongrie."
+ r56_hungary_coastline.1.a:0 "Donnons-leur ces territoires."
+ r56_hungary_coastline.1.b:0 "Pour qui se prennent-ils, à nier la Grande Italie ?!"
+ r56_hungary_coastline.2.t:0 "[ITA.GetNameDefCap] accepte !"
+ r56_hungary_coastline.2.d:0 "[Ita.GetNameDefCap] a cédé à nos demandes pour la Grande Hongrie !"
+ r56_hungary_coastline.2.a:0 "Excellent."
+ r56_hungary_coastline.3.t:0 "[ITA.GetNameDefCap] refuse notre demande"
+ r56_hungary_coastline.3.d:0 "[ITA.GetNameDefCap] a rejeté notre demande en sachant très bien quelle était l'alternative."
+ r56_hungary_coastline.3.a:0 "Alors c'est la guerre."

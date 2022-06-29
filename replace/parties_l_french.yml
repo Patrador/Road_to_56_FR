@@ -67,9 +67,9 @@
  ENG_neutrality_party_queens_party:0 "Queen's Party"
  ENG_neutrality_party_queens_party_long:0 "The Queen's Party"
  ITA_communism_party:0 "Partito Comunista Italiano"
- ITA_democratic_party:0 "Partito Popolare Italiano"
+ ITA_democratic_party:0 "Partito d'Azione"
  ITA_fascism_party:0 "Partito Nazionale Fascista"
- ITA_neutrality_party:0 "Partito Nazionale Monarchico"
+ ITA_neutrality_party:0 "Casa Savoia"
  JAP_communism_party:0 "Nihon Kyosan-to"
  JAP_democratic_party:0 "Rikken Minseito"
  JAP_fascism_party:0 "Kyokoku Itchi Naikaku" #national unity cabinet
@@ -542,7 +542,7 @@
  INS_communist_party:0 "PKI" #Partai Komunis Indonesia
  INS_communist_party_long:0 "Partai Komunis Indonesia"
  INS_neutrality_party:0 "Colonial Government"
- INS_neutrality_party_long:0 "Colonial Government" #made up, in reality this guy was a member of PNI 
+ INS_neutrality_party_long:0 "Colonial Government" #made up, in reality this guy was a member of PNI
  MAL_fascism_party:0 "Panoceanic Unionists"
  MAL_democratic_party:0 "United Malays National Organisation" #or UMNO or PEKEMBAR
  MAL_communism_party:0 "Malayan Communist Party" #or MCP

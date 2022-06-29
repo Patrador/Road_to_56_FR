@@ -42,14 +42,14 @@
  LUX_empower_the_capitalists_desc:0 "Nos entreprises privées sont l'une des plus grandes forces de notre pays. Nous devons faire tout ce qui est en notre pouvoir pour les soutenir et leur donner les moyens d'agir."
  LUX_border_sercuity:0 "Sécurité des frontières"
  r56_LUX_empower_the_capitalists:0 "Capitalistes soutenus"
- r56_LUX_border_sercuity:0 "Sauver notre pays"
+ r56_LUX_border_sercuity:0 "Sécuriser notre pays"
  LUX_border_sercuity_desc:0 "Malheureusement, les récents événements ont rendu nécessaire la fortification de notre nation. Si quelqu'un devait attaquer, nous serions prêts."
  LUX_pass_maulkuerfgesetz:0 "Coalition de droite"
  LUX_pass_maulkuerfgesetz_desc:0 "Nous ne pouvons pas compter sur notre gouvernement actuel pour protéger le pays à l'extérieur et à l'intérieur contre les menaces auxquelles nous sommes confrontés. Nous avons besoin d'un nouveau gouvernement puissant."
  LUX_favor_the_royalist:0 "Renforcer la monarchie"
  LUX_favor_the_royalist_desc:0 "Enraciner le nouveau régime royaliste enrichira notre nation et la rendra plus forte sur le plan national et militaire."
  LUX_favor_the_fasicts:0 "Intégrer les groupes de jeunesse"
- LUX_favor_the_fasicts_desc:0 "Les groupes de jeunesse ont été notre plus grand allié dans la montée de notre parti dans ce grand pays. En les incorporant dans notre armée, nous continuerons à faire de notre pays et de notre armée un grand pays !" 
+ LUX_favor_the_fasicts_desc:0 "Les groupes de jeunesse ont été notre plus grand allié dans la montée de notre parti dans ce grand pays. En les incorporant dans notre armée, nous continuerons à faire de notre pays et de notre armée un grand pays !"
  LUX_embrace_autarky:0 "Adopter l'autarcie"
  LUX_embrace_autarky_desc:0 "Si nous voulons soutenir notre armée au mieux de nos capacités, alors notre industrie nationale doit servir l'État."
  LUX_german_alignment:0 "Alignement allemand"
@@ -71,7 +71,7 @@
  LUX_assert_ourselves:0 "Affirmer notre puissance"
  LUX_assert_ourselves_desc:0 "Nous ne sommes plus une petite puissance, mais une nation forte ! Avec la puissance militaire pour le prouver !"
 
- 
+
  #Events
  luxembourg.1.t:0 "Une invitation au Benelux"
  luxembourg.1.d:0 "Bien que de petite taille, le Luxembourg est devenu très actif sur le plan politique ces dernières années, en raison de la nature de plus en plus belliqueuse de ses voisins. Le Premier ministre Joseph Bech a fait valoir que les pays de la plaine devraient s'unir, avant que nos destins ne soient décidés pour nous."
@@ -101,8 +101,8 @@
  luxembourg.14.d:0 "Malgré les nuages d'orage qui s'amoncellent partout dans le monde, la politique luxembourgeoise continue d'avancer. Les prochaines élections de 1937 verront une forte participation du Rietspartei et des sociaux-démocrates. Cependant, la Maulkuerfgesetz proposée par le parti conservateur, conçue pour étouffer la popularité et la voix croissantes du KPL, ne s'avère pas aussi populaire que prévu. [ROOT.GetLeader] a joué le sort de la loi sur un référendum. Le vote final pour le référendum est censé être très serré."
  luxembourg.14.d.alt:0 "Malgré les nuages d'orage qui s'amoncellent partout dans le monde, la politique luxembourgeoise continue d'avancer. Les prochaines élections de 1937 verront une forte participation du Rietspartei et des sociaux-démocrates. Avec l'adoption récente par le parti Rietspartei de la loi Maulkuerfgesetz, [ROOT.GetLeader] devrait conserver son pouvoir avec l'aide d'un des partis minoritaires de droite."
  luxembourg.14.a:0 "Le référendum est un échec."
- luxembourg.14.b:0 "Le référendum est un succès." 
- luxembourg.14.c:0 "La politique est un drôle de jeu." 
+ luxembourg.14.b:0 "Le référendum est un succès."
+ luxembourg.14.c:0 "La politique est un drôle de jeu."
  luxembourg.100.t:0 "[ROOT.GetLeader] démissionne"
  luxembourg.100.d:0 "Avec l'échec récent de l'adoption du projet de loi Maulkuerfgesetz, Joseph Bech a estimé qu'il était préférable pour le parti de démissionner de son rôle de dirigeant. Pierre Dupong a pris la tête du parti, ce que sa nouvelle coalition apportera reste à prouver."
  luxembourg.100.a:0 "Juste un simple déplacement de quelques chaises."
@@ -147,7 +147,7 @@
 
 
 #Ideas
- 
+
  r56_LUX_charles_marx:0 "Charles Marx"
  LUX_camille_dennemeyer:0 "Camille Dennemeyer"
  LUX_prince_jean:0 "Prince Jean"
@@ -162,7 +162,7 @@
  r56_LUX_favor_the_fasicts:0 "Groupes de jeunesse incorporés"
  r56_legacy_of_luxembourg_crisis:0 "Héritage de la crise du Luxembourg"
  r56_legacy_of_luxembourg_crisis_desc:0 "Depuis la crise luxembourgeoise, le Luxembourg a adhéré à une politique de neutralité, bien que l'occupation allemande pendant la Grande Guerre et leur récent réarmement aient commencé à éroder le soutien à cette politique au sein de notre gouvernement."
- r56_lux_stand_agaisnt_authoritarianism: "Lutte contre l'autoritarisme"
+ r56_lux_stand_agaisnt_authoritarianism:0 "Lutte contre l'autoritarisme"
  r56_LUX_politcal_safe_heaven:0 "Paradis politique sûr"
  r56_LUX_coaltition_with_kpl:0 "Syndicats renforcés"
  r56_LUX_strengthen_rietspartei_position:0 "Technocrates soutenus"
@@ -216,7 +216,7 @@
  LUX_communism_idea:0 "Influence communiste"
  LUX_communism_idea_desc:0 "Les banquiers et les hommes d'affaires de l'élite ont maintenu le peuple luxembourgeois opprimé pendant trop longtemps. Maintenant, nous allons reprendre notre pays !"
  LUX_fascism_idea:0 "Influence fasciste"
- LUX_fascism_idea_desc:0 "Notre nation a cédé aux traités et démantèlements démocratiques qui ont fait de notre grand pays la risée de tous. Ce n'est que par la ferveur nationaliste que nous pourrons retrouver l'honneur de notre nation." 
+ LUX_fascism_idea_desc:0 "Notre nation a cédé aux traités et démantèlements démocratiques qui ont fait de notre grand pays la risée de tous. Ce n'est que par la ferveur nationaliste que nous pourrons retrouver l'honneur de notre nation."
  LUX_democratic_idea:0 "Influence démocratique"
  LUX_democratic_idea_desc:0 "L'avenir du Luxembourg repose sur la démocratie, Joseph Bech et le Rietspartei ont guidé notre nation jusqu'à présent et ont le soutien total du pays."
  LUX_neutrality_idea:0 "Influence royaliste"
@@ -241,8 +241,8 @@
  LUX_edouard_kremmer:0 "Edouard Kremmer"
  tblra_LUX_BEL_customs_union:0 "Union douanière belgo-luxembourgeoise"
  tblra_BEL_LUX_customs_union:0 "Union douanière belgo-luxembourgeoise"
- 
- LUX_prepareforwar:0 "Se préparer à la guerre" 
+
+ LUX_prepareforwar:0 "Se préparer à la guerre"
  LUX_prepareforwar_desc:0 "La guerre pour mettre fin à toutes les guerres n'a rien donné. Alors que les grandes puissances à notre gauche et à notre droite se mobilisent à nouveau, le Luxembourg doit être prêt à défendre son peuple."
  LUX_boostindustry:0 "Stimuler l'industrie"
  LUX_boostindustry_desc:0 "Une nation sans industrie florissante est vouée à s'effondrer sous son propre poids. La guerre étant imminente, il est primordial que le Luxembourg dispose de ses propres moyens pour soutenir ses efforts de défense."
@@ -265,7 +265,7 @@
  LUX_restoretheauxiliaries:0 "Restaurer les auxiliaires"
  LUX_restoretheauxiliaries_desc:0 "À la veille de la guerre, chaque citoyen doit être prêt à se battre. En renforçant nos forces actuelles avec des auxiliaires, nous aurons peut-être une chance dans le conflit à venir."
  LUX_volunteerarmy:0 "Armée de volontaires"
- LUX_volunteerarmy_desc:0 "Aujourd'hui plus que jamais, le Luxembourg compte sur ses courageux citoyens pour assumer le devoir de défendre notre nation contre les menaces étrangères." 
+ LUX_volunteerarmy_desc:0 "Aujourd'hui plus que jamais, le Luxembourg compte sur ses courageux citoyens pour assumer le devoir de défendre notre nation contre les menaces étrangères."
  LUX_expandthesteelworks:0 "Développer les aciéries"
  LUX_expandthesteelworks_desc:0 "Notre pays est depuis longtemps réputé pour la qualité de son acier. Même si nos ressources sont limitées, une utilisation accrue de l'aciérie permettra au Luxembourg de rester compétitif sur le marché mondial."
  LUX_modernizetherails:0 "Moderniser les chemins de fer"
@@ -340,20 +340,20 @@
  LUX_retakemoselle_desc:0 "Les terres qui nous ont été volées ont été détenues par les Français pendant trop longtemps. Près de 400 ans plus tard, le Luxembourg va réparer cette injustice."
  LUX_retakeareleland:0 "Reprendre le Pays d'Arlon"
  LUX_retakeareleland_desc:0 "Notre perte la plus cruelle aux mains des révolutionnaires belges n'a pas été oubliée. Le Benelux a beau nous lier, cette injustice ne peut être oubliée."
- LUX_military:0 "Effort militaire" 
+ LUX_military:0 "Effort militaire"
  LUX_military_desc:0 "Notre industrie et nos infrastructures étant désormais à la hauteur de la tâche, nous pouvons nous concentrer sur la préparation du Luxembourg à l'art de la guerre moderne."
- LUX_tank:0 "Modèles de chars théoriques" 
+ LUX_tank:0 "Modèles de chars théoriques"
  LUX_tank_desc:0 "L'avantage d'avoir des voisins aussi militaristes, c'est que l'on peut observer de près les dernières technologies de terreur."
- LUX_navy:0 "Développement de la marine" 
+ LUX_navy:0 "Développement de la marine"
  LUX_navy_desc:0 "Le Luxembourg n'a jamais pris la mer, et est encore moins une puissance navale. Aujourd'hui, nous remédions à ce fait."
  LUX_destroyer:0 "Destroyers"
  LUX_destroyer_desc:0 "Aussi agréable que cela puisse être de créer des mastodontes navals, terrorisant la mer, mieux vaut commencer petit."
  LUX_benelux_military_cooperation:0 "Coopération militaire du Benelux"
- LUX_benelux_military_cooperation_desc:0 "Comme nous dépendons du soutien militaire de nos voisins, nous devons mettre en place un état-major interarmées spécialisé dans la défense contre nos voisins qui sont aussi nos ennemis potentiels." 
- 
- 
- 
- 
+ LUX_benelux_military_cooperation_desc:0 "Comme nous dépendons du soutien militaire de nos voisins, nous devons mettre en place un état-major interarmées spécialisé dans la défense contre nos voisins qui sont aussi nos ennemis potentiels."
+
+
+
+
 #Descriptions
  POLITICS_DAMIAN_KRATZENBERG_DESC:0 "Chef du Volksdeutsche Bewegung (« Mouvement ethnique allemand ») pendant l'occupation allemande, Kratzenburg croyait en un pays nationaliste fort et était à la tête des précédents partis d'extrême droite avant la guerre."
  POLITICS_CHARLES_MARX_DESC:0 "Charles Marx est devenu le chef du Parti communiste luxembourgeois à la fin de la guerre. Alors que les efforts d'avant-guerre avaient tenté d'étouffer les mouvements communistes, le KPL fonctionne encore aujourd'hui et est l'un des plus anciens partis politiques du Luxembourg."
@@ -366,7 +366,7 @@
 #Traits
  charismatic_monarch:0 "Monarque charismatique"
  savvy_politician:0 "Politicien avisé"
- 
+
 #parties
  LUX_fascist_party:0 "Volksdeutsche Bewegung"
  LUX_neutrality_party:0 "Royalistes"

@@ -7,7 +7,7 @@
  ROM_restore_greater_romania_desc:0 "Nous devons unir tous les Roumains sous une même bannière !"
 
  ROM_obtain_polish_cryptological_data:0 "Obtenir des données cryptologiques polonaises"
- ROM_obtain_polish_cryptological_data_desc:0 "Nos grands alliés polonais ont fait des percées dans le domaine des décryptages assistés par ordinateur. En collaborant étroitement, nous pourrions profiter de leurs technologies." 
+ ROM_obtain_polish_cryptological_data_desc:0 "Nos grands alliés polonais ont fait des percées dans le domaine des décryptages assistés par ordinateur. En collaborant étroitement, nous pourrions profiter de leurs technologies."
 
  ROM_scw_tooltip:0 "Envoyer des volontaires dans la §YGuerre civile espagnole§! vous donnera de l'expérience militaire et un bonus de recherche de doctrine."
 
@@ -46,7 +46,7 @@
  #rewrite that one
  ROM_embrace_orthodox_nationalist_mysticism_desc:0 "La Roumanie est protégée par l'archange Michel."
  ROM_legionary_workers_corps:0 "Corps des travailleurs légionnaires"
- ROM_legionary_workers_corps_desc:0 "Au lieu d'être une petite partie de notre mouvement composée des membres les plus dévoués, le Corps des travailleurs légionnaires doit devenir le pilier central de notre réorganisation économique. Il permettra d'abolir la domination des capitalistes sur l'économie et de montrer aux travailleurs l'importance de l'unité nationale." 
+ ROM_legionary_workers_corps_desc:0 "Au lieu d'être une petite partie de notre mouvement composée des membres les plus dévoués, le Corps des travailleurs légionnaires doit devenir le pilier central de notre réorganisation économique. Il permettra d'abolir la domination des capitalistes sur l'économie et de montrer aux travailleurs l'importance de l'unité nationale."
  ROM_supplement_military_developments:0 "Compléter le développement militaire"
  ROM_supplement_military_developments_desc:0 "Le développement de nouvelles armes est essentiel pour la sauvegarde de notre patrie sacrée."
  ROM_iron_guard_volunteer_brigades:0 "Brigades de volontaires de la Garde de fer"
@@ -55,7 +55,7 @@
  ROM_youth_cult_desc:0 "La jeunesse est un élément central de la Garde de fer, son propre hymne étant intitulé « Jeunesse de la Sainte Légion »."
  ROM_reorganize_the_government:0 "Réorganiser le gouvernement"
  ROM_reorganize_the_government_desc:0 "Maintenant que le régime est sécurisé, nous pouvons réduire l'importance de la propagande idéologique."
- 
+
  orientalist_philosopher:0 "Philosophe orientaliste"
  fascistic_paramilitarist:0 "Paramilitariste fasciste"
  ROM_mircea_eliade:0 "Mircea Eliade"

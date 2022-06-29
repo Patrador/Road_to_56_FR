@@ -73,7 +73,7 @@
  TUR_fascist_category_desc:0 "Après l'humiliation de notre défaite lors de la Grande Guerre, nous nous sommes levés les premiers pour protéger notre patrie contre les Yunanlılar, mais Ataturk a seulement stabilisé nos frontières. Avec la montée de notre mouvement, nous pouvons récupérer notre patrimoine et restaurer notre domaine impérial."
  r56_TUR_reclaim_the_tomb_of_suleiman_shah:0 "Reprendre le tombeau de Suleiman Shah"
 
- r56_deploy_heavy_aa_capital:0 "Déployer de l'antiaérien lourd dans la capitale"
+ r56_deploy_heavy_aa_capital:0 "Déployer de l'antiaérien lourd pour protéger [Root.Capital.GetCapitalVictoryPointName]"
  r56_deploy_heavy_aa_capital_cost:0 "£command_power §H25§! £pol_power §H25§!"
  r56_deploy_heavy_aa_capital_cost_blocked:0 "£command_power §R25§! £pol_power §R25§!"
  r56_deploy_heavy_aa_capital_cost_tooltip:0 "Cela coûte £command_power §H25§! et £pol_power §H25§! de sélectionner cela"
@@ -118,30 +118,31 @@
  r56_send_combat_reports_to_the_light_bomber_manufacturers:0 "Rapports aux fabricants de bombardiers tactiques"
  r56_send_combat_reports_to_the_bomber_manufacturers:0 "Rapports aux fabricants de bombardiers stratégiques"
  r56_send_combat_reports_to_the_naval_plane_manufacturers:0 "Rapports aux fabricants de bombardiers navals"
+ r56_send_combat_reports_to_the_jet_plane_manufacturers:0 "Rapports aux fabricants d'avions à réaction"
  r56_send_combat_reports_to_the_small_ship_manufacturers:0 "Rapports aux fabricants de petits navires"
  r56_send_combat_reports_to_the_submarines_manufacturers:0 "Rapports aux fabricants de sous-marins"
  r56_send_combat_reports_to_the_capital_ship_manufacturers:0 "Rapports aux fabricants de navires capitaux"
  r56_send_combat_reports_to_the_carrier_manufacturers:0 "Rapports aux fabricants de porte-avions"
 
- xp_conversion_landxp:0 "§H150§!£army_experience §H10§!£pol_power"
- xp_conversion_landxp_blocked:0 "§R150§!£army_experience  §R10§!£pol_power"
- xp_conversion_landxp_tooltip:0 "Cela coûte 150£army_experience et 10£pol_power de sélectionner cela."
+ xp_conversion_landxp:0 "§H100§!£army_experience §H10§!£pol_power"
+ xp_conversion_landxp_blocked:0 "§R100§!£army_experience  §R10§!£pol_power"
+ xp_conversion_landxp_tooltip:0 "Cela coûte 100£army_experience et 10£pol_power de sélectionner cela."
 
  xp_conversion_land_50_xp:0 "§H50§!£army_experience §H10§!£pol_power"
  xp_conversion_land_50_xp_blocked:0 "§R50§!£army_experience §R10§!£pol_power"
- xp_conversion_land_50_xp_tooltip:0 "Cela coûte 150£army_experience et 10£pol_power de sélectionner cela."
+ xp_conversion_land_50_xp_tooltip:0 "Cela coûte 100£army_experience et 10£pol_power de sélectionner cela."
 
- xp_conversion_navyxp:0 "§H150§!£navy_experience §H10§!£pol_power"
- xp_conversion_navyxp_blocked:0 "§R150§!£navy_experience  §R10§!£pol_power"
- xp_conversion_navyxp_tooltip:0 "Cela coûte 150£navy_experience  et 10£pol_power de sélectionner cela."
+ xp_conversion_navyxp:0 "§H100§!£navy_experience §H10§!£pol_power"
+ xp_conversion_navyxp_blocked:0 "§R100§!£navy_experience  §R10§!£pol_power"
+ xp_conversion_navyxp_tooltip:0 "Cela coûte 100£navy_experience  et 10£pol_power de sélectionner cela."
 
- xp_conversion_airxp:0 "§H150§!£air_experience §H10§!£pol_power"
- xp_conversion_airxp_blocked:0 "§R150§!£air_experience §R10§!£pol_power"
- xp_conversion_airxp_tooltip:0 "Cela coûte 150£air_experience et 10£pol_power de sélectionner cela."
+ xp_conversion_airxp:0 "§H100§!£air_experience §H10§!£pol_power"
+ xp_conversion_airxp_blocked:0 "§R100§!£air_experience §R10§!£pol_power"
+ xp_conversion_airxp_tooltip:0 "Cela coûte 100£air_experience et 10£pol_power de sélectionner cela."
 
- xp_conversion_carriers:0 "§H150§!£navy_experience §H50§!£air_experience §H10§!£pol_power"
- xp_conversion_carriers_blocked:0 "§R150§!£navy_experience §R50§!£air_experience §R10§!£pol_power"
- xp_conversion_carriers_tooltip:0 "Cela coûte 150£navy_experience 50£air_experience et 10£pol_power de sélectionner cela."
+ xp_conversion_carriers:0 "§H100§!£navy_experience §H25§!£air_experience §H10§!£pol_power"
+ xp_conversion_carriers_blocked:0 "§R100§!£navy_experience §R25§!£air_experience §R10§!£pol_power"
+ xp_conversion_carriers_tooltip:0 "Cela coûte 100£navy_experience 25£air_experience et 10£pol_power de sélectionner cela."
 
  land_combat_report_analyzed:0 "Rapports de combat terrestre analysés"
  air_combat_report_analyzed:0 "Rapports de combat aérien analysés"
@@ -225,12 +226,12 @@ decision_cost_CP_10_pp_10_tooltip:0 "Cela coûte £command_power §H10§! et £p
  r56_activate_naval_invasion_event_country:0 "Activer l'événement d'alerte d'invasion navale"
  r56_disable_naval_invasion_event_country:0 "Désactiver l'événement d'alerte d'invasion navale"
  r56_disable_naval_invasion_event_country:0 "Désactiver l'événement d'alerte d'invasion navale"
- 
+
  unite_the_peninsula_category:0 "Unifier la péninsule"
  unite_the_peninsula_desc:0 "Notre pays a été divisé à cause de l'impérialisme et de petites disputes idéologiques. Maintenant que nous contrôlons toute la péninsule, nous pouvons commencer l'unification de la Corée."
  r56_generic_investment_unlocked:0 "Les investissements étrangers ont été autorisés"
  r56_generic_investments:0 "Investissements [FROM.GetAdjMP]"
- r56_generic_investments_tt:0 "Débloque les décisions pour attirer les §Yinvestissements étrangers§!" 
+ r56_generic_investments_tt:0 "Débloque les décisions pour attirer les §Yinvestissements étrangers§!"
  r56_generic_investment_running:0 "Attire actuellement des investissements"
 
  game_rules_reminder_category:0 "Rappel des règles de jeu"

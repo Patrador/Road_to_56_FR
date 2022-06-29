@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_french:
  DEN_Industrial_focus:0 "Industrialization Effort"
  DEN_Industrial_focus_desc:0 "We need to expand our industrial capacity. Jutland should have enough space for a few more factories, and we might learn a thing or two about efficiency while we build them."
  DEN_Industrial_focus_short_desc:0 "§Build two factories in Jutland!§"
@@ -147,14 +147,14 @@
  DEN_Liberalism_Focus_desc:0 "We must avoid any extremist movements if our people are to remain free and prosperous. Let us do more to discredit movements such as fascism and communism."
  DEN_Liberalism_Focus_short_desc:0 "Support Democracy"
  DEN_Ger_Alliance:0 "Denmark seeks alliance with [GER.GetNameDef]"
- DEN_Communism:0 "Support for Communism Rsing"
+ DEN_Communism:0 "Support for Communism Rising"
  DEN_Communism_desc:0 "Our people are beginning to accept communism as a possible solution to our problems, both within our country and worldwide."
  DEN_Communism_Focus:0 "Support Communism"
  DEN_Communism_Focus_desc:0 "It is not enough to create a welfare state, as we have done. We must altogether remove the capitalist system from our country; only through such means will the workers finally be free!"
  DEN_Communism_Focus_short_desc:0 "Support Communism"
  DEN_SOV_Alliance:0 "[DEN.GetAdjective]-[SOV.GetAdjective] Friendship"
  DEN_Fascism_Self:0 "Denmark First"
- DEN_Fascism_Self_desc:0 "While [GER.GetNameDef] may be the main force of fascism in Europe at the moment, [DEN.GetNaemDef] can expand on its own. We do not need to join their faction and be under their command. Let us create our destiny!"
+ DEN_Fascism_Self_desc:0 "While [GER.GetNameDef] may be the main force of fascism in Europe at the moment, [DEN.GetNameDef] can expand on its own. We do not need to join their faction and be under their command. Let us create our destiny!"
  DEN_Fascism_Self_short_desc:0 "Denmark First"
  DEN_Soviet_Focus:0 "Alliance with [SOV.GetNameDef]"
  DEN_Soviet_Focus_desc:0 "To ensure our protection, we should ally with the major Communist power globally, [SOV.GetNameDef]. Let us improve our relations with them."
@@ -217,7 +217,7 @@
  DEN_Research_Slot_desc:0 "If we expand our universities, we could most likely perform more research."
  DEN_Commonwealth:0 "Create the Scandinavian Commonwealth"
  DEN_Commonwealth_desc:0 "We should show our neighbors in the North the true path of Communism. Let us create a 20th century Kalmar Union!"
- 
+
  ##########Focuses
 DEN_neutrality_focus:0"Copenhagen Communiqué"
 DEN_intervention:0"Foreign Involvement"
