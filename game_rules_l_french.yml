@@ -51,6 +51,7 @@
  RULE_ALLOW_RELEASE_NATIONS_POLAND_SILESIA_TOOLTIP:0 "§Y[ROOT.GetNameDefCap]§! ne va peut-être pas libérer §Y[SIL.GetNameDef]§!."
  RULE_ALLOW_RELEASE_NATIONS_SPAIN_TOOLTIP:0 "[Root.GetLeLaLNPCap] §Y[Root.GetName]§! ne pourr[Root.GetAOntNP] accorder l'indépendance à ce pays que lorsque la guerre civile espagnole sera terminée."
  RULE_ALLOW_RELEASE_NATIONS_ANARCHIST_SPAIN_TOOLTIP:0 "§R[Root.GetLeLaLNPCap] §Y[Root.GetName]§! [Root.GetEstSontNP] anarchiste[Root.GetXSNP] et ne peu[Root.GetTVentNP] accorder l'indépendance à d'autres pays ou en faire [Root.GetSesLeursNP] dépendances.§!"
+ RULE_ALLOW_RELEASE_NATIONS_SOVIET_TOOLTIP:0 "§Y[ROOT.GetNameDefCap]§! ne peut pas libérer ce pays sans avoir au préalable complété la priorité §Y$SOV_autonomous_soviet_republics$§! ou §YDissoudre l'URSS§!."
  RULE_ALLOW_RELEASE_NATIONS_PEACE_ONLY_TOOLTIP:0 "Règles de la partie : §Ril n'est possible d'accorder l'indépendance à d'autres pays qu'en temps de paix.§!"
  RULE_ALLOW_RELEASE_NATIONS_BLOCKED_TOOLTIP:0 "Règles de la partie : §Ril n'est jamais possible d'accorder l'indépendance à d'autres pays.§!"
  RULE_ALLOW_LICENSING:0 "Licences de production"

@@ -14,7 +14,9 @@
  UKR_generic_infantry_equipment_manufacturer:0 "Shostka Powder Plant"
  UKR_shostka_powder_plant:0 "Shostka Powder Plant"
 
+ UKR_restore_ukranian_placenames:0 "Restaurer les noms de lieux ukrainiens"
  UKR_contact_west_ukrainians:0 "Contacter les Ukrainiens de l'ouest"
+ UKR_ukranianize_the_west:0 "Ukranianiser l'ouest"
  UKR_multinational_army_command:0 "Commandement de l'armée multinationale"
  UKR_join_integrated_army_command:0 "Rejoindre le commandement intégré de l'armée de terre"
  UKR_integrated_air_workshops:0 "Ateliers d'aviation intégrés"

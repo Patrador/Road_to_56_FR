@@ -498,7 +498,7 @@
  cityfall.99.desc:0 "Déjà touchée par la guerre civile, [41.GetName] est à nouveau sous contrôle militaire, les forces [new_controller.GetAdjFP] ayant pris le contrôle de la ville. Les forces [old_controller.GetAdjFP] ont été vaincues et évacuent la zone, abandonnant les positions préparées dans le Parque Oeste.\n\nLes derniers pompiers tentent d'éteindre le feu des quartiers ravagés."
 
  cityfall.101.t:0 "Les unités [new_controller.GetAdjFP] saisissent Vienne !"
- cityfall.101.desc:0 "Un communiqué des forces armées [new_controller.GetAdjFP] annonce qu'elles ont pris le contrôle de Vienne. Si elles ont repoussé leurs adversaires [old_controller.GetAdjMP], elles ont également endommagé certains monuments de la ville, notamment une partie du château de Schönbrunn."
+ cityfall.101.desc:0 "Les autorités [new_controller.GetAdjFP] ont fièrement annoncé au monde que leurs forces armées ont réussi à prendre le contrôle de Vienne. La nouvelle administration a établi ses quartiers dans l'aile non endommagée du palais de Schönbrunn, surplombant les restes des jardins qui ont été coupés par la population locale au cours des derniers mois de lutte.\n\nLes défenseurs [old_controller.GetAdjMP] restants se sont barricadés dans les caves du Rathaus tandis que de violents combats de rue se poursuivent dans les quartiers de Leopoldstadt et de Simmering. [old_controller.GetLeader] a tenu un discours à la radio soulignant que la lutte pour la ville n'est pas encore terminée et que l'issue est incertaine."
 
 
 #cityfall.12.t:0 "The Fall of Stockholm"

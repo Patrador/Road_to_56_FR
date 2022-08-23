@@ -56,15 +56,18 @@ l_french:
  r56i_idea_suppress_spend:0 "Apaisement"
  r56i_idea_suppress_spend_desc:0 "Nous affectons des fonds fédéraux aux programmes réclamés par les émeutiers."
 
+ r56_ai_lesser_tag_debuff_1:0 "Un débuff « secret » pour empêcher le spam des divisions de l'IA dans les petits pays"
+ r56_ai_lesser_tag_debuff_2:0 "Débuff « confidentiel » pour les petits pays aimant spammer les divisions"
+
  limited_engagement_spirit:0 "Engagement limité"
  unit_elitism_army_spirit:0 "Élitisme des unités"
  air_sky_soldiers_spirit:0 "Soldats du ciel"
  air_glider_insertion_spirit:0 "Insertion aéroportée"
- modifier_tactic_guerrilla_tactics_preferred_weight_factor:0 "Chance supplémentaire de §Ytactiques de guérilla§! si tactique préférée :"
- modifier_unit_shocktroop_design_cost_factor:0 "Coût de conception de l'unité de choc :"
- modifier_unit_jaeger_design_cost_factor:0 "Coût de conception de l'unité Jaeger :"
- modifier_unit_jungletroop_design_cost_factor:0 "Coût de conception des unités d'infanterie de la jungle :"
- modifier_unit_desertinfantry_design_cost_factor:0 "Coût de conception des unités d'infanterie du désert :"
+ modifier_tactic_guerrilla_tactics_preferred_weight_factor:0 "Chance supplémentaire de §Ytactiques de guérilla§! si tactique préférée"
+ modifier_unit_shocktroop_design_cost_factor:0 "Coût de conception de l'unité de choc"
+ modifier_unit_jaeger_design_cost_factor:0 "Coût de conception de l'unité Jaeger"
+ modifier_unit_jungletroop_design_cost_factor:0 "Coût de conception des unités d'infanterie de la jungle"
+ modifier_unit_desertinfantry_design_cost_factor:0 "Coût de conception des unités d'infanterie du désert"
 #Decisions
  #r56i_national_character_decisions:0 "Décisions nationales"
  r56i_decision_suppress_revolts:0 "Lutter contre les troubles civils"

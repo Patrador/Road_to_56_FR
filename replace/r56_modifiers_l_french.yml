@@ -28,3 +28,36 @@ l_french:
  r56_the_project_desc:0 "Des zones de cet État ont été mises de côté dans l'optique du projet Manhattan."
  r56_military_exercises:0 "Exercices militaires"
  r56_local_development:0 "Développement local"
+
+ modifier_experience_gain_infantry_training_factor:0 "Gain d'expérience de l'§Yinfanterie§! à l'entraînement"
+
+modifier_experience_gain_bicycle_battalion_training_factor:0 "Gain d'expérience de l'§Yinfanterie à bicyclette§! à l'entraînement"
+modifier_experience_gain_bicycle_battalion_combat_factor:0 "Gain d'expérience de l'§Yinfanterie à bicyclette§! au combat"
+
+ modifier_experience_gain_light_armor_training_factor:0 "Gain d'expérience des §Ychars légers§! à l'entraînement"
+ modifier_experience_gain_light_armor_combat_factor:0 "Gain d'expérience des §Ychars légers§! au combat"
+ modifier_experience_gain_medium_armor_training_factor:0 "Gain d'expérience des §Ychars moyens§! à l'entraînement"
+ modifier_experience_gain_medium_armor_combat_factor:0 "Gain d'expérience des §Ychars moyens§! au combat"
+ modifier_experience_gain_heavy_armor_training_factor:0 "Gain d'expérience des §Ychars lourds§! à l'entraînement"
+ modifier_experience_gain_heavy_armor_combat_factor:0 "Gain d'expérience des §Ychars lourds§! au combat"
+
+
+modifier_experience_gain_transport_plane_training_factor:0 "Gain d'expérience des §Yavions de transport§! à l'entraînement"
+modifier_experience_gain_transport_plane_combat_factor:0 "Gain d'expérience des §Yavions de transport§! au combat"
+
+### a good joke for victory or death ###
+modifier_experience_gain_suicide_craft_training_factor:0 "Gain d'expérience des §Yavions-suicide§! à l'entraînement"
+modifier_experience_gain_suicide_craft_combat_factor:0 "Gain d'expérience des §Yavions-suicide§! au combat"
+
+
+modifier_experience_gain_engineer_combat_factor:0 "Gain d'expérience des §Yingénieurs§! au combat"
+
+# RECON #
+modifier_experience_gain_armored_car_recon_training_factor:0 "Gain d'expérience des §Yvoitures blindées de reconnaissance§! à l'entraînement"
+modifier_experience_gain_armored_car_recon_combat_factor:0 "Gain d'expérience des §Yvoitures blindées de reconnaissance§! au combat"
+modifier_experience_gain_recon_training_factor:0 "Gain d'expérience de la §Ycavalerie de reconnaissance§! à l'entraînement"
+modifier_experience_gain_recon_combat_factor:0 "Gain d'expérience des §Ycavalerie de reconnaissance§! au combat"
+modifier_experience_gain_mot_recon_training_factor:0 "Gain d'expérience de la §Yreconnaissance motorisée§! à l'entraînement"
+modifier_experience_gain_mot_recon_combat_factor:0 "Gain d'expérience des §Yreconnaissance motorisée§! au combat"
+modifier_experience_gain_light_tank_recon_training_factor:0 "Gain d'expérience des §Ychars légers de reconnaissance§! à l'entraînement"
+modifier_experience_gain_light_tank_recon_combat_factor:0 "Gain d'expérience des §Ychars légers de reconnaissance§! au combat"

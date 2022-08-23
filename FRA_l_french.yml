@@ -232,7 +232,7 @@
  montreux_convention:0 "Convention de Montreux"
  french_union:0 "Union française"
 
-	#### TECHNOLOGY SHARING ####
+	#### TECHNOLOGY SHARING #### #getadjective didnt work here
  french_research_name:0 "Recherche française"
  french_research_desc:0 "Réduction du temps de recherche pour les technologies recherchées par ceux qui sont sous la domination française."
 
@@ -551,7 +551,7 @@
  FRA_strike_empire:0 "Frapper l'Empire"
  FRA_strike_empire_desc:0 "La vraie menace pour la liberté dans le monde, ce sont les empires capitalistes construits par les superpuissances européennes. Ils doivent être écrasés et leurs populations libérées, à commencer par l'Empire britannique."
  FRA_work_with_the_cgt:0 "Collaborer avec la CGT"
- FRA_work_with_the_cgt_desc:0 "La Confédération nationale du travail est le plus grand syndicat français et a joué un rôle clé dans la victoire du front populaire et dans les grèves en sa faveur. Nous devrions chercher à nous rapprocher d'eux afin de donner plus de pouvoir aux syndicats."
+ FRA_work_with_the_cgt_desc:0 "La Confédération générale du travail est le plus grand syndicat français et a joué un rôle clé dans la victoire du front populaire et dans les grèves en sa faveur. Nous devrions chercher à nous rapprocher d'eux afin de donner plus de pouvoir aux syndicats."
  FRA_pcf_sfio_coalition:0 "Coalition PCF/SFIO"
  FRA_pcf_sfio_coalition_desc:0 "Avec la montée de l'extrême gauche en France, une alliance permanente entre les deux plus grands partis dans cette tendance permettrait une reprise sans problèmes majeurs."
  FRA_syndicalist_revolution:0 "Révolution syndicaliste"
@@ -1100,23 +1100,9 @@
  france.159.c:0 "S'agit-il d'une nouvelle ère napoléonienne ?"
  france.159.d:0 "Ce soi-disant Napoléon doit être arrêté."
 
-	#### WORLD NEWS ####
- worldnews.1.t:0 "Alliance avec le Benelux"
- worldnews.1.d:0 "TO DO"
- worldnews.1.a:0 "TO DO"
- worldnews.2.t:0 "La France fait pression sur le Benelux"
- worldnews.2.d:0 "TO DO"
- worldnews.2.a:0 "TO DO"
- worldnews.3.t:0 "La France annexe la Wallonie"
- worldnews.3.d:0 "TO DO"
- worldnews.3.a:0 "TO DO"
- worldnews.4.t:0 "Restauration en France"
- worldnews.4.d:0 "TO DO"
- worldnews.4.a:0 "TO DO"
- worldnews.5.t:0 "L'exposition universelle de Paris"
- worldnews.5.d:0 "La France est fière de lancer en fanfare l'exposition universelle de 1937. À Paris, près de 101 hectares et 44 pays proposent cent-quatre-vingt-dix pavillons ayant pour thème les arts et techniques appliqués à la vie moderne. Près de 32 millions de visiteurs s'y presseront. À l'époque, Paris conservera le Palais de Chaillot, le Palais de la découverte, et le Palais de Tokyo. L'esprit et l'art nouveau triomphent partout. Le monde veut croire un instant que l'exposition va enfin rassembler tout ce qui unit les hommes. Mais ce qui frappe les esprits, ce sont les pavillons monumentaux soviétiques et allemands qui se font face pour se défier : une statue de vingt-cinq mètres de l'Ouvrier et la Kolkhozienne brandissant une faucille et un marteau s'opposant à une sculpture géante d'un aigle tenant une croix gammée dans ses serres."
- worldnews.5.a:0 "Un grand succès mondial !"
-
+ r56.news_event.1000.t:0 "Paris Universal Exhibition"
+ r56.news_event.1000.d:0 "La France est fière de lancer en fanfare l'exposition universelle de 1937. A Paris, près de 101 hectares et 44 pays proposent cent-quatre-vingt-dix pavillons ayant pour thème les arts et techniques appliqués à la vie moderne. Près de 32 millions de visiteurs s'y presseront. À l'époque, Paris conservera le Palais de Chaillot, le Palais de la découverte, et le Palais de Tokyo. L'esprit et l'art nouveau triomphent partout. Le monde veut croire un instant que l'exposition va enfin rassembler tout ce qui unit les hommes. Ce qui frappe les esprits, ce sont les pavillons monumentaux soviétiques et allemands qui se font face pour se défier : une statue de vingt-cinq mètres de L'Ouvrier et la Kolkhozienne brandissant une faucille et un marteau s'opposant à une sculpture géante d'un aigle tenant une croix gammée dans ses serres."
+ r56.news_event.1000.a:0 "A huge global success"
  ############################
 				#### DECISIONS ####
 	############################
@@ -1152,13 +1138,6 @@
  FRI_georges_catroux:0 "Georges Catroux"
  FRI_jean_decoux:0 "Jean Decoux"
  FRI_jules_brevie:0 "Jules Brévié"
-
- 	############################
-						#### Revenge ####
-	############################
-
- french_research_name:0 "Les paresseux bâtards ne vérifient rien"
-
 
  ############################
  #### MISC				####

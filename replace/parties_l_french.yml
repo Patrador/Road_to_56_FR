@@ -546,8 +546,8 @@
  INS_neutrality_party:0 "Colonial Government"
  INS_neutrality_party_long:0 "Colonial Government" #made up, in reality this guy was a member of PNI
  MAL_fascism_party:0 "Panoceanic Unionists"
- MAL_democratic_party:0 "United Malays National Organisation" #or UMNO or PEKEMBAR
- MAL_communism_party:0 "Malayan Communist Party" #or MCP
+ MAL_democratic_party:0 "UMNO" #or UMNO or PEKEMBAR
+ MAL_communism_party:0 "MCP" #or MCP
  MAL_neutrality_party:0 "Kesatuan Melayu Muda" #or KMM
  LAO_fascism_party:0 "Parti de centralisation tribale"
  LAO_democratic_party:0 "Parti démocratique"
@@ -555,12 +555,16 @@
  LAO_neutrality_party:0 "Royalistes"
  MNT_fascism_party:0 "Verts"
  MNT_democratic_party:0 "Ligue démocratique"
- MNT_communism_party:0 "Parti communiste du Monténégro" #or KPCG
+ MNT_communism_party:0 "KPCG" #or KPCG
  MNT_neutrality_party:0 "Parti fédéraliste" # Montenegrin ultra nationalists, start democtratic right wing but went full fascist collaboration in 41'
  UKR_fascism_party:0 "OUN"
- UKR_democratic_party:0 "Alliance démocratique nationale ukrainienne" # or UNDO
- UKR_communism_party:0 "Parti communiste d'Ukraine"
- UKR_neutrality_party:0 "Parti du progrès ukrainien"
+ UKR_fascism_party_long:0 "Orhanizatsiya Ukrayins'kykh Natsionalistiv"
+ UKR_democratic_party:0 "UNDO"
+ UKR_democratic_party_long:0 "Ukrayin'ske Natsional'no-Demokratichne Obyednannia"
+ UKR_communism_party:0 "KPU"
+ UKR_communism_party_desc:0 "Komunistychna Partiya Ukrayiny"
+ UKR_neutrality_party:0 "Hetmanska Dynastiya"
+ UKR_neutrality_party_long:0 "Hetmanska Dynastiya"
  GEO_fascism_party:0 "Conseil de Tbilissi"
  GEO_democratic_party:0 "Parti social-démocrate de Géorgie"
  GEO_communism_party:0 "Parti communiste de Géorgie"

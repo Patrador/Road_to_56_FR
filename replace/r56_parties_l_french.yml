@@ -140,7 +140,7 @@
  BEL_fascism_party_long:0 "Parti Rexiste - Verbond der Dietsche Nationaal-Solidaristen"
  BELverdinaso_party:0 "Verdinaso - Rex"
  BELverdinaso_party_long:0 "Verbond der Dietsche Nationaal-Solidaristen - Parti rexiste"
- 
+
  #BHU
  BHU_communism_party:0 "PCB"
  BHU_communism_party_long:0 "Parti communiste du Bhoutan"
@@ -242,7 +242,7 @@
  #DOM
  DOM_neutrality_party:0 "PD"
  DOM_neutrality_party_long:0 "Partido Dominicano"
- DOM_fascism_party:0 "PD Military Junta" #made up since Partido Dominicano were kinda fasicts aswell 
+ DOM_fascism_party:0 "PD Military Junta" #made up since Partido Dominicano were kinda fasicts aswell
  DOM_fascism_party_long:0 "Partido Dominicano Military Junta"
  DOM_democratic_party:0 "PRD"
  DOM_democratic_party_long:0 "Partido Revolucionario Dominicano"
@@ -316,7 +316,7 @@
  FSM_democratic_party_long:0 "FSM Democratic Alliance"
  FSM_communism_party:0 "PCU"
  FSM_communism_party_long:0 "Pohnpei Communist Union"
- 
+
  #GEO
  GEO_monarchy_neutrality:0 "Dynastie des Bagratides"
 
@@ -477,7 +477,7 @@
  NAV_democratic_party_long:0 "Eusko Abertzale Ekintza"
  NAV_communism_party:0 "EPK-PCE"
  NAV_communism_party_long:0 "Euskadiko Partidu Komunista"
- 
+
  #NEP
  NEP_fascism_party:0 "NRGP"
  NEP_fascism_party_long:0 "Nepal Rashtrabadi Gorkha Parishad"
@@ -571,7 +571,7 @@
  SAF_neutrality_party_long:0 "United Party"
  SAF_anc:0 "ANC"
  SAF_anc_long:0 "African National Congress"
- 
+
  #SAU
  SAU_communism_party:0 "OCS"
  SAU_communism_party_long:0 "Organisation des communistes saoudiens"
@@ -683,6 +683,10 @@
  URG_democratic_party_long:0 "Partido Colorado"
  URG_communism_party:0 "PCU"
  URG_communism_party_long:0 "Partido Comunista del Uruguay"
+
+ #USA
+ USA_neutrality_party:0 "Gouvernement provisoire"
+ USA_neutrality_party_long:0 "Gouvernement provisoire des États-Unis d'Amérique"
 
  #SUD
  SUD_fascism_party:0 "Khatmiyya Movement"

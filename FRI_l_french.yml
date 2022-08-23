@@ -1,6 +1,6 @@
 ﻿l_french:
  FrenchIndochina:0 "Priorités nationales de l'Indochine française"
- #New Stuff 
+ #New Stuff
  r56_FRI_nationist_uprising_2:0 "Soulèvement vietnamien"
  r56_FRI_nationist_uprising_2_desc:0 "Depuis la mutinerie de Yen Bai, les mouvements indépendantistes vietnamiens sont devenus plus militants et plus combatifs. Il semble qu'un second soulèvement soit maintenant une question de « quand » et non de « si »."
  r56_FRI_strikes:0 "Grèves imminentes"
@@ -262,7 +262,7 @@
  FRI_adopt_the_mas_36_tt:0 "Ajoute la technologie : §YMAS-36§!\nSi nous l'avons déjà : §Y1x §!§G100%§! de bonus de recherche sur les §YArmes d'infanterie§!\n"
  FRI_improve_communications:0 "Améliorer les communications"
  FRI_improve_communications_desc:0 "En raison de la nature très hostile des jungles d'Indochine, la communication entre les troupes peut être très complexe. Le développement de la radio pour nos troupes atténuerait en partie ce problème."
- FRI_establish_the_armee_d_indochine:0 "Établir l'Armée d'Indochine"
+ FRI_establish_the_armee_d_indochine:0 "Établir l'Armée indochinoise"
  FRI_establish_the_armee_d_indochine_desc:0 "Nous ne pouvons pas simplement compter sur l'Armée de Terre pour protéger l'Indochine, surtout si nous sommes en guerre sur les fronts européen et asiatique. Nous établirons une véritable armée indochinoise pour protéger la colonie nous-mêmes."
  FRI_maintain_reliance_on_the_armee_de_terre:0 "Maintenir la dépendance à l'Armée de Terre"
  FRI_maintain_reliance_on_the_armee_de_terre_desc:0 "L'Armée de Terre est assez puissante pour défendre l'Indochine. Nous devons concentrer nos efforts sur le développement de nos fortifications et de nos installations militaires."
@@ -325,7 +325,7 @@
  FRI_the_return_of_cuong_de:0 "Le retour de Cuong De"
  FRI_the_return_of_cuong_de_desc:0 "Cuong De est un membre de la dynastie Nguyen qui, selon la loi de Primogéniture, aurait dû hériter du trône du Vietnam. Il a passé plus de deux décennies à voyager en Asie dans l'espoir d'obtenir le soutien de l'indépendance vietnamienne, et a de nombreux liens avec les ultra-nationalistes japonais. Des rumeurs d'insurrection lui sont parvenues, et il se prépare à retourner dans son pays natal..."
  FRI_politique_du_paysannat:0 "Politique du paysannat"
- FRI_tirailleurs_indochinois:0 "Tirailleurs indochinois"
+ FRI_tirailleurs_indochinois:0 "Mobiliser les Tirailleurs indochinois"
  FRI_tirailleurs_indochinois_desc:0 "Recrutés dans toute l'Indochine, les Tirailleurs indochinois ont été créés en 1880 lors de l'expédition du Tonkin. Cette dernière permet à la France de maintenir son autorité sur la colonie indochinoise et d'écraser toutes les rébellions nationalistes."
  FRI_tirailleurs_indochinois_tt:0 "Gain de §Y2§! divisions d'infanterie près de Hanoï"
  VIN_request_the_mortier_modele_27_31:0 "Demander le mortier modèle 27/31"

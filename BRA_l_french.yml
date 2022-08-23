@@ -2,8 +2,8 @@
  brazilian_focus:0 "Brazilian National Focus"
 
  BRA_integrate_uruguay:0 "Integrate Uruguay"
- BRA_take_uruguay:0 "Take Uruguay"
- BRA_take_uruguay_desc:0 "Uruguay is rightfully ours." 
+ BRA_take_uruguay:0 "Reclaim Uruguay"
+ BRA_take_uruguay_desc:0 "Ever since Uruguay declared indpendence from us in 1828 it has remianed as a painful memory of a vital region slipping right from our hands. it is now time to reclaim what is rightfully ours!"
  POR_lisbon_pact:0 "Lisbon Pact"
  #FOCUS
  bra_strike_dem_focus:0 "Spread Nationalist Sentiment"
@@ -151,7 +151,7 @@
  bra_cmvrg_desc:0 "The government can subsidize the construction of an industrial armaments complex in the Rio Grande Valley, which encompasses the Oeste Paulista and the Triângulo Mineiro."
  bra_cmvrparana_desc:0 "The government can subsidize the construction of an industrial armaments complex in the Paraná River Valley, which encompasses part of the south of São Paulo and almost the entire state of Paraná."
  bra_cmvrparnaiba_desc:0 "The government can subsidize the construction of an industrial armaments complex in the Parnaíba River Valley in northeastern Brazil."
- bra_anhanguera_desc:0 "More extensive than most sections of the German Autobahn, the "Via Anhanguera" will be the country's largest highway complex, and its affluent highways connect the whole country with exceptional driveability."
+ bra_anhanguera_desc:0 "More extensive than most sections of the German Autobahn, the "Via Anhanguera" will be the country's largest highway complex, and its affluent highways connect the whole country with exceptional drivability."
  bra_salvador_desc:0 "The government can nationalize the new oil wells discovered in Salvador, guaranteeing the country's sovereignty over this essential resource."
  bra_brasilia:0 "Brasília"
  bra_feb:0 "The [BRA.GetAdjective] Expeditionary Forces"
@@ -188,7 +188,7 @@
  bra_sudene:0 "SUDENE"
  bra_sudam:0 "SUDAM"
  bra_industrial_innovations:0 "Industrial Innovations"
- bra_industrial_innovations_desc:0 "Our now extensively modernized industry is ready to tackle the challenges of our time: design and produce modern equipment to ensure our victory in the field."  
+ bra_industrial_innovations_desc:0 "Our now extensively modernized industry is ready to tackle the challenges of our time: design and produce modern equipment to ensure our victory in the field."
  bra_zfm:0 "Duty-Free Zone of Manaus"
  bra_chsf:0 "São Francisco's Hidroelectrical Company"
  bra_itaipu:0 "Itaipu Hydroelectrical Plant"
@@ -197,7 +197,6 @@
  bra_zfm_desc:0 "The Manaus Free Trade Zone will be a [BRA.GetAdjective] industrial zone in Manaus to boost the economic development of the Western Amazon. The industrial center plans to house about 700 industries."
  bra_chsf_desc:0 "The São Francisco Hydroelectric Company is a publicly-traded corporation that operates to generate and transmit energy in high and extra-high voltage, exploring the São Francisco river basin."
  bra_itaipu_desc:0 "The Itaipu Hydroelectric Power Plant is the most ambitious project in the federal government's imagery so far. It will be built in the Paraná River Basin and responsible for the entire electricity production of the South and Southeast regions. The hydroelectrical marvel has been planned to become the most extensive and most efficient of its kind in the whole world, the most incredible feat of [BRA.GetAdjective] engineering and ingenuity so far."
- bra_diplomacia_tooltip:0 "Initiates diplomatic missions throughout the globe."
  bra_mercosul_militar_tooltip:0 "Expands the DefenSul defense treaty into a broader joint-defense organization focused on the Southern Hemisphere."
  bra_inimigo_eua_tooltip:0 "Diplomatic professionals will successfully muster enough support from other powers to pressure [USA.GetNameDef] on not intervening in South American affairs."
  bra_diplomacia:0 "Itamaraty"
@@ -206,7 +205,7 @@
  bra_amigo_aliados:0 "The Allied Cause"
  bra_amigo_uk:0 "Treaty of Commerce and Navigation"
  bra_liga_nacoes:0 "Join the War"
- bra_mercosul_focus:0 "Militarize the Rio-Pact"
+ bra_mercosul_focus:0 "South American Trade Initiative"
  bra_mercosul_militar_focus:0 "Solidifying the DefenSul"
  bra_mercosul_expansao_focus:0 "Champions of Democracy"
  bra_transatlantico:0 "The Transatlantic Pact"
@@ -215,13 +214,13 @@
  bra_amigo_urss:0 "Seek Alliance with the Soviets"
  bra_entrar_comintern:0 "The World Revolution!"
  bra_sem_urss:0 "Our Revolution!"
- bra_foro_de_sao_paulo_focus:0 "O Foro de São Paulo"
+ bra_foro_de_sao_paulo_focus:0 "Latin America's Workers Congress"
  BRA_ideological_propaganda:0 "Ideological Propaganda"
- BRA_ideological_propaganda_desc:0 "Every communist movement is a potential cell ready to organize the masses."  
+ BRA_ideological_propaganda_desc:0 "Every communist movement is a potential cell ready to organize the masses."
  bra_pan_americano:0 "The Pan-American"
- bra_cuba_rev:0 "Cuba Libre!"
+ bra_cuba_rev:0 "Liberate Cuba"
  bra_amigo_alemanha:0 "Diplomatic Sovereignty"
- bra_sem_eixo:0 "O Nosso Nacionalismo"
+ bra_sem_eixo:0 "Pact of Rio"
  bra_eixo:0 "The Principle of Authority"
  bra_basta:0 "Basta!"
  bra_diplomacia_desc:0 "We can expand the activities of the Itamaraty so we can focus on world affairs."
@@ -257,12 +256,36 @@
  bra_casacivil_desc:0 "To the new Casa Civil shall be delegated all responsibilities related to advising the president of the republic, assuring that he communicates effectively with his Ministers and his Parliament, and can coordinate with all Federal Dominion."
  bra_ciclocana_desc:0 "With the introduction of calcarization and localized irrigation, despite acid soil and dry air, we can create in the Triângulo Mineiro and Baixo Goiás a new hyper-region of Sugar Cane cultivation. Obsolete for centuries, it has future potential as there are predictions for the use of alcohol in industrial plants and as fuel."
  bra_ciclosoja_desc:0 "With the introduction of advanced drainage methods and the mechanization of agriculture at the national level, it is possible to grow soybeans in Mato Grosso, an isolated region. Soy has never been cultivated on national soil. It represents potential as food and being exported and serving as a method for the colonization of the interior."
- bra_etanol_desc:0 "Never before has agriculture represented such potential for the [BRA.GetAdjective] economy and war machine. With the implantation of soy and sugar cane in the interior, it was possible, through research conducted by the Federal Universities and sponsored by the large landowners, the possibility of partial replacement of gasoline with refined ethanol. PROÁLCOOL will be a Federal Government program focused on ensuring that vehicles produced in [BRA.GetNameDef] run on acohol."
+ bra_etanol_desc:0 "Never before has agriculture represented such potential for the [BRA.GetAdjective] economy and war machine. With the implantation of soy and sugar cane in the interior, it was possible, through research conducted by the Federal Universities and sponsored by the large landowners, the possibility of partial replacement of gasoline with refined ethanol. PROÁLCOOL will be a Federal Government program focused on ensuring that vehicles produced in [BRA.GetNameDef] run on alcohol."
  bra_territoriosfederais_desc:0 "The Jungle Warfare Instruction Center (CIGS) is a military organization of the [BRA.GetAdjective] Army based in Manaus, designed to qualify military leaders of small fractions, such as jungle warriors, combatants capable of carrying out missions of a military nature in the areas more inhospitable areas of the Brazilian Amazon Forest as well as similar environments."
  BRA_selva_tech_effect:0 "Creates the §YJungle Warfare Instruction Center - CIGS§! focused on training our army to defend our most precious national treasury. §YRegular Infantry§! units will move and battle through the Rainforest as if they were in their backyards. All other §YSpecial Forces§! gain a slight bonus for movement on the Jungle. §YMechanized§! and §YMotorized§! Battalions have a 0.25x §HCombat Penalty§!.\n."
  bra_vitrine_tooltip:0 "The effects of this focus will only be revealed when you pick your specific path on Vargas's future."
  bra_uiracu_tooltip:0 "Unlocks the Platine basin annexation decisions."
- 
+
+ bra_naval_logistics:0 "Naval Logistics"
+ bra_naval_logistics_desc:0 "The sea is calling us, the time has come for a radical transformation to occur."
+ bra_shared_naval_experience:0 "Shared Naval Experience"
+ bra_shared_naval_experience_desc:0 "To dominate the Atlantic, we will have to share our experience with our allies."
+ bra_shared_naval_experience_tt:0 "§Y[ROOT.GetNameDefCap]§! and its §Yallies with a fleet§! will gain:"
+
+
+ bra_african_initiative:0 "African Diplomatic Initiative"
+ bra_african_initiative_desc:0 "We must reach for allies on the other side of the continent, all those country may be poorer, but together they could contribute significantly."
+ bra_invite_south_africa:0 "Invite South Africa"
+ bra_invite_south_africa_desc:0 "As a developed country guarding the passage between the Atlantic and the Indian oceans, South Africa could be an excellent ally."
+ bra_invite_canada:0 "Invite Canada"
+ bra_invite_canada_desc:0 "As a developed country guarding the passage between the Atlantic and the Indian oceans, South Africa could be an excellent ally."
+ bra_carribean_diplomacy:0 "Carribean Diplomacy"
+ bra_carribean_diplomacy_desc:0 "The Carribean countries are key to control not only their surrounding but also the Sargasso sea."
+
+ BRA_invite_andean_countries:0 "Invite Andean Countries"
+ BRA_invite_andean_countries_desc:0 "Let's see if we can sway Peru, Chile and Bolivia."
+ BRA_invite_platine_countries:0 "Invite Platine Countries"
+ BRA_invite_platine_countries_desc:0 "Our Southern Neighbors should become our allies."
+ BRA_allies_in_the_north:0 "Allies in the North"
+ BRA_allies_in_the_north_desc:0 "Our Northern Neighbors should become our allies."
+ BRA_invite_central_american_countries:0 "Invite Central American Countries"
+ BRA_invite_central_american_countries_desc:0 "Our Northern Neighbors should become our allies."
  #IDEAS
  BRA_augusto_rademaker:0 "Augusto Rademaker"
  #bra_no_arms:0 "Imported Arms Policy"
@@ -323,7 +346,7 @@
  bra_eficiencia_7_desc:0 "Our national electrical network is now fully expanded and functioning in the critical areas of our country."
  bra_eficiencia_8:0 "[BRA.GetNameDefCap]: Love It or Leave It"
  bra_eficiencia_8_desc:0 "With our industry reorganized, expanded, and modernized, we now can fully mobilize our manufacturing complexes to fit the needs of war."
- #bra_cruzadores_idea:0 "Rio de Janeiro' Naval Arsenal" 
+ #bra_cruzadores_idea:0 "Rio de Janeiro' Naval Arsenal"
  #bra_aero_idea:0 "The Factory of Lagoa Santa"
  #bra_fed_uni_imp:0 "Imperial Universities"
  BRA_alfredo_de_almeida:0 "Alfredo de Almeida"
@@ -395,7 +418,7 @@
  #bra_inteligencia_artificial_desc:0 "Beep Boop"
  bra_feb_idea:0 "The [BRA.GetAdjective] Expeditionary Forces"
  bra_feb_idea_desc:0 "Do you know where I come from? I come from the hills, from the farms. From the jungles, from the coffee plantations. From the land of the coconut. From the little cabin where one is few, two is good, three is great!"
- 
+
  bra_national_security_law_idea:0 "National Security Law"
  bra_national_security_law_idea_desc:0 "The new security law will increase the safety of citizens."
  bra_federal_universities_idea:0 "Federal Universities"
@@ -417,6 +440,9 @@
  bra_ana_paulista_idea_3:0 "Sao Paulo's War Doctrine"
  bra_ana_paulista_idea_4:0 "Sao Paulo's War Doctrine"
 
+ BRA_international_volunteers:0 "International Volunteers"
+ BRA_international_volunteers_desc:0 "To support to spreading of our ideology and the helping of our friends abroad we must establish an volunteer force to fight the good fights were needed."
+
 
 
  #EVENTS
@@ -426,12 +452,12 @@
  bra.1.a:0 "If he rebuilt São Paulo, why can't he rebuild [BRA.GetNameDef]?"
  bra.1.b:0 "For our democracy, we need someone that has never given up on it."
  bra.1.c:0 "What I don't understand is how a nation, like Brazil, after years of democratic tradition, could retrograde to a dictatorship that humiliates us in the eyes of the civilized world!"
- bra.1.e:0 "To us, wiseness is constructed through the consequences of our choices."
+ bra.1.e:0 "To us, wisdom is constructed through the consequences of our choices."
  bra.1.f:0 "The future is not what we fear; it is what we dare to reach!"
 
  bra.2:0 "The Cohen Plan"
  bra.2.t:0 "The Cohen Plan"
- bra.2.d:0 "Through Captain Mourão, a document, theoretically written by the ANL, has arrived in your hands. It contains a well detailed plan to assassinate the candidates for the 1938's electon, Armando Sales and José Américo. An action must be taken by us, even though our intelligence services can't deduct the veracity of the document."
+ bra.2.d:0 "Through Captain Mourão, a document, theoretically written by the ANL, has arrived in your hands. It contains a well detailed plan to assassinate the candidates for the 1938's election, Armando Sales and José Américo. An action must be taken by us, even though our intelligence services can't deduct the veracity of the document."
  bra.2.a:0 "Bring the microphone! We can't afford to lose more time."
  bra.2.b:0 "Arrest the Captain and burn the document! This farce can't become endemic."
  bra.2.c:0 "We must adjust the political organism to the necessities of the fatherland."
@@ -470,52 +496,52 @@
  bra.8.d:0 "After a breakthrough in international diplomacy and becoming the newest great power, [BRA.GetNameDef] invites us to its faction to guarantee prosperity and assured defense. Will we join?"
  bra.8.a:0 "Of course!"
  bra.8.b:0 "Rather not"
- 
+
  bra.9:0 "State of Siege"
  bra.9.t:0 "State of Siege"
  bra.9.d:0 "On this fateful day, a war against our country was declared. The Catete Palace declares the State of Siege. Currently, federal troops are marching through the streets of Copacabana, volunteers heap the trolleys that pass through the Rua da Consolação, gaúcho tropeiros load their rifles, and wealthy businesspeople arm their corvettes with guns and rifles. Military polices from all around the country are marching to the fronts, ready to defend our independence. May God have mercy on our enemies."
  bra.9.a:0 "Thou wilt see that a son of thine flees not from battle, nor do those who love thee fear their own death."
- 
+
  bra.10:0 "Oh Dear Motherland"
  bra.10.t:0 "Oh Dear Motherland"
  bra.10.d:0 "It is the year 1936, the 114th of Independence and 47th of the Republic. Six years ago, Mr. Getúlio Vargas assumed this honorable position as President of the Republic of the United States of Brazil. In the latter, the Civil War was seen in 32, followed by the rapid industrialization of the Noble State of São Paulo. At this moment, in the first steps of its industrialization, [BRA.GetNameDef] disputes with its inferior neighbors for the control of the South Atlantic. In Europe, [GER.GetLeader] woke [GER.GetNameDef] and promised salvation. In [USA.GetNameDef], the crisis kills many by starvation and leaves many others with no place to live. In Africa and Asia, [FRA.GetNameDef] and [ENG.GetNameDef] are struggling to keep their empires alive. It is our time to perish or to rule. Glory to [BRA.GetNameDef]!"
  bra.10.a:0 "Eternally lying on a splendid cradle, to the sound of the sea and under deep sky light."
- 
+
  bra.11:0 "The Green and Yellow Tutelage"
  bra.11.t:0 "The Green and Yellow Tutelage"
  bra.11.d:0 "As [BRA.GetAdjective] officials seize our government's last bastion, the strict military presence of [BRA.GetAdjective] authorities in our soil implies the formation of a puppet government, managed by a new chief of state under the tutelage of the President of the Federation, whose ideological doctrines will undoubtedly align with those of the mainland Brazil itself. Through the [BRA.GetAdjective] Department of Press and Propaganda (DIP), our cultural elites and great masses will, as time passes, gather around [BRA.GetAdjective] schools of thought, maintaining the newly installed national order aligned to [BRA.GetNameDef]'s interests."
  bra.11.a:0 "Do we even have a choice?"
- 
+
  bra.12:0 "Ripping the Green and Yellow"
  bra.12.t:0 "Ripping the Green and Yellow"
  bra.12.d:0 "As the new national government is formed, under the sole guidance of our politicians and our people, the Federal-installed state retreats, seeking exile in mainland Brazil. With it goes their twisted ideology, imposed on us throughout our time as subjects of the DIP. Now, our destiny is ours."
  bra.12.a:0 "Free! At Last!"
- 
+
  bra.13:0 "Vargas Murdered!"
  bra.13.t:0 "Vargas Murdered!"
  bra.13.d:0 "During the supreme manifestation of the liberation of the Proletariat, dozens of supporters, supported by thousands more in the streets of Rio de Janeiro, surrounded and invaded the Palácio do Cacete. In a few hours, the bourgeois chief Getúlio Vargas was dead, and Mr. Luís Carlos Prestes was declared the republic's new president."
  bra.13.a:0 "Do svidaniya, mister Vargas."
- 
+
  bra.14:0 "Vargas Exiled!"
  bra.14.t:0 "Vargas Exiled!"
  bra.14.d:0 "During the supreme manifestation of citizenship of all peoples and races, thousands of Integralists surrounded and threatened to invade the Palácio do Cacete. President Vargas would take refuge in Rio Grande do Sul in a few hours, and Dr. Plínio Salgado would assume his due post as the new President of the Republic."
  bra.14.a:0 "Anauê!"
- 
+
  bra.15:0 "Vargas Entrenched!"
  bra.15.t:0 "Vargas Entrenched!"
  bra.15.d:0 "Created to coordinate the propaganda of the National State, the Department of Press and Propaganda, associated with the intelligence sectors of the federal government, will guarantee the perpetuation of the President of the Republic, Mr. Getúlio Vargas, in power."
  bra.15.a:0 "The Constitutional Regime has lost its practical value."
- 
+
  bra.16:0 "Vargas Impeached!"
  bra.16.t:0 "Vargas Impeached!"
  bra.16.d:0 "During the supreme manifestation of freedom of the Fatherland, the Associated Sectors of the Army, Navy, and Air Force surrounded the Palácio do Cacete in support of the National Congress. In a few hours, Mr. Getúlio Vargas would give the Republic back to the National Congress and the [BRA.GetAdjective] people under pressure from a select body of generals and admirals."
  bra.16.a:0 "To us mortals, wisdom is built through the consequences of our choices."
- 
+
  bra.17:0 "A Voz do Brasil"
  bra.17.t:0 "A Voz do Brasil"
  bra.17.d:0 "The influence of the [USA.GetAdjective]s in our internal politics, although present, would never manifest itself through public will if it were not the influence of the North American media on our people. To combat the presence of the [USA.GetAdjective]s in our culture, we will expand the Voice of Brazil to include moments of appreciation of the national culture through the Rádio Nacional."
  bra.17.a:0 "Sólidos fossem, come-los-iamos!"
- 
+
  #DECISIONS
  BRA_fight_rural_elites:0 "Fight the Rural Elites"
  BRA_the_rubber_soldiers:0 "The Rubber Soldiers"
@@ -563,7 +589,7 @@
  bra_inv_urg_flag:0 "The Reconquest of Cisplatine has started"
  bra_inv_par_flag:0 "The 2nd Paraguayan War has started"
  bra_inv_bol_flag:0 "The Chaco Race has started"
- 
+
  #MISC
  BRA_nero_fiuza_de_castro:0 "Álvaro Fiúza de Castro"
  BRA_joao_neves_da_fontoura:0 "João Neves da Fontoura"
@@ -580,7 +606,7 @@
  BRA_newton_cavalcanti:0 "Newton de Andrade Cavalcanti"
 
  selva_tech:0 "CIGS"
- 
+
  bra_amigo_modifier:0 "Diplomatic Approachment"
  bra_inimigo_modifier:0 "Diplomatic Reluctance"
  bra_amigo_outro_modifier:0 "Diplomatic Approachment"
@@ -588,7 +614,7 @@
  bra_comercio_modifier:0 "Bi-Lateral Commerce"
  bra_comercio_inimigo_modifier:0 "Nationalization of Multi-Nationals"
  bra_comercio_mercosul_modifier:0 "DefenSul"
- 
+
  vfb_trait_dutra:0 "Devout Industrialist"
  vfb_trait_jk:0 "Hyper-Developmentalist"
  vfb_trait_mc:0 "Leader of the Columns"
@@ -616,21 +642,21 @@
  vfb_trait_prestes_2:0 "Campaigner"
  vfb_trait_senado_1:0 "Inefficient Bureaucracy"
  vfb_trait_senado_2:0 "Divided Citizenry"
- 
+
  vfb_trait_tenentista:0 "Tenentista"
  vfb_trait_officer:0 "Officer of the Army"
- 
+
  vfb_trait_dompedro_1:0 "Unanimous Acclamation"
  vfb_trait_dompedro_2:0 "Perpetual Defender"
  vfb_trait_dompedro_3:0 "Perpetual Defender"
- 
+
  vfb_trait_alfredo:0 "Genius Negotiator"
  vfb_trait_morato:0 "Staunch Paulista"
  vfb_trait_muller:0 "Director of the D.I.P"
  vfb_trait_washington:0 "Coffee Magnate"
  vfb_trait_aranha:0 "Father of the UN"
  vfb_trait_afranio:0 "Continental Diplomat"
- 
+
  BRA_invasion_cost:0 "§H50§!£pol_power §H30§!£command_power"
  BRA_invasion_cost_blocked:0 "§H50§!£pol_power  §R30§!£command_power"
  BRA_invasion_cost_tooltip:0 "It costs  §H50§!£pol_power and  30£command_power to select this."

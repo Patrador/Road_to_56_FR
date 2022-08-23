@@ -89,7 +89,7 @@ NIC_ssgn:0 "SSGN"
 
 nicaragua.1.t:0 "Somoza prend le pouvoir"
 nicaragua.1.d:0 "Personne n'a été surpris d'apprendre que plus tôt ce matin, Anastasio Somoza García a demandé à [ROOT.getleader] de quitter la présidence du Nicaragua. Somoza et la Guardia Nacional sous son contrôle ont mené une campagne d'assassinats et de terrorisme contre les opposants politiques de Somoza depuis l'accord de partage du pouvoir de 1933. Le pays est en crise présidentielle depuis le milieu de 1935, une crise que beaucoup pensaient voir plonger le pays dans le chaos. [ROOT.getleader] a décidé d'éviter une éventuelle guerre civile et de se retirer, plutôt que d'essayer de maintenir son emprise sur le pouvoir. [USA.getnameDef], qui ont négocié l'accord de 1933 se sont lavé les mains de la situation, et ne se soucient pas de ce qui, pour de nombreux experts, est essentiellement la chute de la démocratie au Nicaragua.\n\nAnastasio Somoza García a nommé un président temporaire qui n'est pour lui qu'une simple marionnette. De nouvelles élections seront organisées, bien que beaucoup soupçonnent une fraude électorale qui sera naturellement en faveur d'Anastasio Somoza García."
-nicaragua.1.a:0 "Le pouvoir est détenu dans un Fusil Sacasa chargé" 
+nicaragua.1.a:0 "Le pouvoir est détenu dans un Fusil Sacasa chargé"
 
 nicaragua.2.t:0 "Le Nicaragua demande à rejoindre le Komintern"
 nicaragua.2.d:0 "Le Nicaragua a demandé à rejoindre le Komintern et à son tour à participer à la guerre contre l'Allemagne."
@@ -130,14 +130,14 @@ nicaragua.10.t:0 "Les Allemands disent oui !"
 nicaragua.10.d:0 "L'Allemagne nous a acceptés dans son alliance."
 nicaragua.10.a:0 "Merveilleux"
 
-nicaragua.11.t:0 "The Germans say no"
+nicaragua.11.t:0 "Les Allemands disent non !"
 nicaragua.11.d:0 "L'Allemagne a répondu par un non, souhaitant prendre ses distances avec nous."
 nicaragua.11.a:0 "Un désastre"
 
-nic_news.1.t:0 "Somoza siezes power in [NIC.getname]"
-nic_news.1.d:0 "Personne n'a été surpris d'apprendre que plus tôt ce matin, Anastasio Somoza García a demandé à [ROOT.getleader] de quitter la présidence du Nicaragua. Somoza et la Guardia Nacional sous son contrôle ont mené une campagne d'assassinats et de terrorisme contre les opposants politiques de Somoza depuis l'accord de partage du pouvoir de 1933. Le pays est en crise présidentielle depuis le milieu de 1935, une crise que beaucoup pensaient voir plonger le pays dans le chaos. [ROOT.getleader] a décidé d'éviter une éventuelle guerre civile et de se retirer, plutôt que d'essayer de maintenir son emprise sur le pouvoir. [USA.GetNameDef], qui [USA.GetAOntNP] négocié l'accord de 1933 se sont lavé les mains de la situation, et ne se soucient pas de ce qui, pour de nombreux experts, est essentiellement la chute de la démocratie au Nicaragua."
-nic_news.1.a:0 "C'est dommage de voir comment les choses ont tourné"
-nic_news.1.b:0 "Espérons qu'il reste discret"
+r56.news_event.1100.t:0 "Somoza s'empare du pouvoir au Nicaragua"
+r56.news_event.1100.d:0 "Personne n'a été surpris d'apprendre que plus tôt ce matin, Anastasio Somoza García a demandé à [ROOT.getleader] de quitter la présidence du Nicaragua. Somoza et la Guardia Nacional sous son contrôle ont mené une campagne d'assassinats et de terrorisme contre les opposants politiques de Somoza depuis l'accord de partage du pouvoir de 1933. Le pays est en crise présidentielle depuis le milieu de 1935, une crise que beaucoup pensaient voir plonger le pays dans le chaos. [ROOT.getleader] a décidé d'éviter une éventuelle guerre civile et de se retirer, plutôt que d'essayer de maintenir son emprise sur le pouvoir. [USA.GetNameDef], qui [USA.GetAOntNP] négocié l'accord de 1933 se sont lavé les mains de la situation, et ne se soucient pas de ce qui, pour de nombreux experts, est essentiellement la chute de la démocratie au Nicaragua."
+r56.news_event.1100.a:0 "C'est dommage de voir comment les choses ont tourné"
+r56.news_event.1100.b:0 "Espérons qu'il reste discret"
 
 #Decisions
 NIC_fire_service:0 "Former un service de pompiers"

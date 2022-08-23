@@ -329,9 +329,15 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  #-> SWE: Sweden <><>
  SWE_AI_BEHAVIOR:0 "@SWE Suède"
  RULE_OPTION_DEMOCRATIC_HISTORICAL_SWE_AI_DESC:0 "L'AI suédoise se concentrera sur la neutralité et s'engagera en faveur de la démocratie."
+ RULE_OPTION_DEMOCRATIC_GOSTA_BAGGE:0 "Démocratique - Gouvernement de Gösta Bagge"
+ RULE_OPTION_DEMOCRATIC_GOSTA_BAGGE_SWE_AI_DESC:0 "Gösta Bagge devient Premier ministre au lieu d'envoyer ses « condoléances » à Per Albin Hansson."
  RULE_OPTION_COMMUNIST_SWE_AI_DESC:0 "L'IA suédoise va rejeter la Convention d'Åland et se tourner vers le communisme."
+ RULE_OPTION_COMMUNIST_ANTI_SOVIET:0 "Communisme anti-soviétique"
+ RULE_OPTION_COMMUNIST_ANTI_SOVIET_SWE_AI_DESC:0 "Selon certains communistes suédois, Staline est pire qu'Hitler et la collaboration avec les nationaux-socialistes est un moyen légitime de contrer Moscou."
  RULE_OPTION_FASCIST_SWE_AI_DESC:0 "L'IA suédoise va rejeter la Convention d'Åland et se tourner vers le fascisme."
- RULE_OPTION_MONARCHIST_SWE_AI_DESC:0 "L'IA suédoise choisira la priorité « Le Roi en Conseil », prenant le plein pouvoir et formant la faction des aurores boréales."
+ RULE_OPTION_MONARCHIST_SWE_AI_DESC:0 "Gustav V ralliera les politiciens autour de lui afin d'aider la Suède à traverser cette période sombre."
+ RULE_OPTION_MONARCHIST_PRINCE_GUSTAV:0 "Monarchiste - Coup d'État du prince Gustav"
+ RULE_OPTION_MONARCHIST_PRINCE_GUSTAV_SWE_AI_DESC:0 "Désireux de se rallier à un monarque plus jeune, les monarchistes vont se rallier au prince Gustav et adopter ses pensées."
 
  #-> TUR: Turkey <><>
  TUR_AI_BEHAVIOR_R56:0 "@TUR Turquie (Arbre de R56)"

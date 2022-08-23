@@ -199,6 +199,7 @@
 
  r56_declare_independence:0 "Déclarer notre indépendance"
 
+ r56_military_buildup:0 "Renforcement militaire"
 
  naval_decision_category:0 "Construction navale"
  naval_decision_category_desc:0 "Notre pays n'a pas de marine et il serait peut-être sage d'envisager d'en construire une."

@@ -1,6 +1,6 @@
 ﻿l_french:
  australian_focus:0 "Priorités nationales australiennes"
- AUS_gottfried_von_banfield:0 "Gottfried von Banfield" 
+ AUS_gottfried_von_banfield:0 "Gottfried von Banfield"
 
  #POLITICS
  AUS_fascism_ideology_desc:0 "L'§Yaustrofascisme§! est le système autoritaire installé en Autriche avec la Constitution de mai 1934. Il est basé sur un parti au pouvoir, le §YFront patriotique§! (Vaterländische Front) et la milice paramilitaire §YHeimwehr§! (Garde nationale), et épouse le §Hcatholicisme d'État§!, §Gcorporatisme§! et §Mnationalisme autrichien§!."
@@ -152,15 +152,12 @@
 
  AUS_german_aeronautic_cooperation:0 "Coopération aéronautique [GER.GetAdjFS]"
  AUS_german_aeronautic_cooperation_desc:0 "L'ingénierie [GER.GetAdjFS] a révolutionné presque tous les domaines de la guerre, y compris la guerre aérienne. Nous avons beaucoup en commun et toutes les raisons de coopérer à nos activités technologiques. L'accès que nous leur donnons leur permettra toutefois d'affecter notre politique."
- AUS_german_aeronautic_cooperation_tt:0 "Permet des variantes spéciales des conceptions d'avions [GER.GetAdjFP]\n"
 
  AUS_british_aeronautic_cooperation:0 "Coopération aéronautique [ENG.GetAdjFS]"
  AUS_british_aeronautic_cooperation_desc:0 "[ENG.GetNameDefCap] est un pays qui cherche désespérément à se faire des amis en Europe centrale et nous avons besoin de leur expertise technologique. Leur force aérienne est l'une des plus puissantes au monde à ce jour, et nous pouvons le partager avec un peu de perte d'influence interne."
- AUS_british_aeronautic_cooperation_tt:0 "Permet des variantes spéciales des conceptions d'avions [ENG.GetAdjFP]\n"
 
  AUS_soviet_aeronautic_cooperation:0 "Coopération aéronautique [SOV.GetAdjFS]"
  AUS_soviet_aeronautic_cooperation_desc:0 "[SOV.GetNameDefCap] cherche toujours à étendre son influence dans toute la sphère européenne et nous sommes sur le marché pour moderniser nos forces aériennes. Avec quelques concessions politiques, nous pouvons sécuriser l'accès à leur expertise industrielle."
- AUS_soviet_aeronautic_cooperation_tt:0 "Permet des variantes spéciales des conceptions d'avions [SOV.GetAdjFP]\n"
 
  AUS_innsbruck_airbase_project:0 "Projet de base aérienne d'Innsbruck"
  AUS_innsbruck_airbase_project_desc:0 "L'aéroport d'Innsbruck est situé dans une grande vallée, idéale pour le lancement d'avions de combat et civils. Le convertir en un aérodrome militaire le rendra beaucoup plus adapté à nos besoins."
@@ -190,9 +187,9 @@
 
  AUS_recreate_the_kuk_kriegsmarine:0 "Recréer la K.u.K Kriegsmarine"
  AUS_recreate_the_kuk_kriegsmarine_desc:0 "La marine de guerre royale et impériale était la marine autrichienne jusqu'à ce que nous ayons perdu l'accès à la mer après la Grande Guerre. Nous pouvons récupérer sa gloire passée, presque sans effort."
- 
+
  AUS_acquire_skoda_naval_artillery_experience:0 "Acquérir l'expérience de l'artillerie navale Skoda"
- AUS_acquire_skoda_naval_artillery_experience_desc:0 "Skoda a conçu les canons de la marine austro-hongroise, il est temps de mettre cette expérience à profit une fois de plus." 
+ AUS_acquire_skoda_naval_artillery_experience_desc:0 "Skoda a conçu les canons de la marine austro-hongroise, il est temps de mettre cette expérience à profit une fois de plus."
 
  AUS_rijeka_naval_academy:0 "Académie navale de Rijeka"
  AUS_rijeka_naval_academy_desc:0 "Rijeka est l'une des plus grandes villes portuaires de la région croate et l'un des principaux atouts de la marine pour la cause austro-hongroise. Ils ne sont pas étrangers à la guerre maritime et navale, et nous pouvons prendre cette expertise à bord."
@@ -241,19 +238,15 @@
 
  AUS_steyr_mannlicher_arms:0 "Armes de Steyr Mannlicher"
  AUS_steyr_mannlicher_arms_desc:0 "Steyr Mannlicher en tant que société est restée patriote et fidèle au mode de vie [AUS.GetAdjMS]. Leur soutien indéfectible a rendu notre réarmement possible. Il n'y a aucune raison pour que nous ne fassions pas d'eux un entrepreneur militaire régulier."
- AUS_steyr_mannlicher_arms_tt:0 "Déverrouille le concepteur d'équipement :"
 
  AUS_german_armour_cooperation:0 "Coopération de blindés [GER.GetAdjMP]"
  AUS_german_armour_cooperation_desc:0 "Les [GER.GetHabitants] ont créé leurs propres projets pour rivaliser avec les forces blindées des autres nations et leur expansion sur le terrain a été déterminée. Peut-être avons-nous quelque chose à apprendre d'eux, s'ils sont aptes."
- AUS_german_armour_cooperation_tt:0 "Permet des variantes spéciales des modèles de chars [GER.GetAdjMP].\n"
 
  AUS_british_armour_cooperation:0 "Coopération de blindés [ENG.GetAdjMP]"
  AUS_british_armour_cooperation_desc:0 "[ENG.GetNameDefCap] est l'une des forces les plus variées et les plus répandues au monde. Ils ont accès à un nombre sans précédent des meilleurs esprits du monde. Nous aurions beaucoup à apprendre de l'étude de leurs conceptions d'armures."
- AUS_british_armour_cooperation_tt:0 "Permet des variantes spéciales des modèles de chars [ENG.GetAdjMP].\n"
 
  AUS_soviet_armour_cooperation:0 "Coopération de blindés [SOV.GetAdjMP]"
  AUS_soviet_armour_cooperation_desc:0 "Les [GER.GetHabitants] ont la base industrielle la plus puissante de la région eurasienne, rivalisée par très peu de grandes puissances européennes. On dit qu'ils peuvent produire une centaine de chars par jour. Cette efficacité nous servirait-elle dans nos propres efforts ?"
- AUS_soviet_armour_cooperation_tt:0 "Permet des variantes spéciales des conceptions de chars [SOV.GetAdjMP].\n"
 
  AUS_motorisation_effort:0 "Effort de motorisation"
  AUS_motorisation_effort_desc:0 "Le moteur à combustion interne était autrefois une nouveauté pour le secteur civil, trop inefficace pour être utilisé pour la guerre, mais il est maintenant à la fois fiable et puissant. Les applications militaires ne peuvent être ignorées."
@@ -591,7 +584,7 @@ AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
 
  AUS_reclaim_historical_lands:0 "Récupérer les terres historiques"
  AUS_reclaim_historical_lands_desc:0 "Avec la déclaration de la réforme du Saint-Empire romain germanique, nous avons revendiqué tacitement tous les territoires autrefois sous l'empire. Mais nous sommes le même pouvoir impérial ! Nous n'avons rien à faire tacitement. Nous annoncerons notre revendication sur les terres au monde."
- 
+
  AUS_invade_czechoslovakia:0 "Envahir [CZE.GetNameDef]"
  AUS_invade_czechoslovakia_desc:0 ""
 
@@ -605,9 +598,9 @@ AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
  AUS_security_measures:0 "Mesures de sécurité"
  AUS_security_measures_desc:0 "Il est essentiel de protéger [AUS.GetNameDef] contre les menaces étrangères."
 
- 
+
  #IDEAS
- 
+
  AUS_eduard_freiherr:0 "Eduard Freiherr"
  AUS_alexander_lohr:0 "Alexander Löhr"
  AUS_lothar_rendulic:0 "Dr. Lothar Rendulic"
@@ -658,7 +651,7 @@ AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
  AUS_raterepubliks2:0 "Une Räterepublik suprême"
  AUS_rote_garde2:0 "Une armée professionnelle"
  AUS_rote_garde3:0 "Rote Garde"
- 
+
  AUS_ernst_rudiger_starhemberg:0 "Ernst Rüdiger Starhemberg"
  AUS_ernst_kaltenbrunner:0 "Ernst Kaltenbrunner"
  AUS_hermann_broch:0 "Hermann Broch"
@@ -673,648 +666,384 @@ AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
 
  AUS_exiles_returned:0 "Les communistes exilés sont de retour"
  AUS_anti_stalin:0 "Une position plus tolérante a été adoptée"
- 
+
  AUS_german_aero_tech:0 "Modèles d'avions [GER.GetAdjMP]"
  AUS_german_aero_tech_desc:0 "Nos alliés [GER.GetAdjMP] nous ont donné accès à leurs plus récents modèles d'avion."
- 
+
  AUS_british_aero_tech:0 "Modèles d'avions [ENG.GetAdjMP]"
  AUS_british_aero_tech_desc:0 "Nos alliés [ENG.GetAdjMP] nous ont donné accès à leurs plus récents modèles d'avion."
- 
+
  AUS_soviet_aero_tech:0 "Modèles d'avions [SOV.GetAdjMP]"
  AUS_soviet_aero_tech_desc:0 "Nos alliés [SOV.GetAdjMP] nous ont donné accès à leurs plus récents modèles d'avions."
- 
+
  AUS_imperial_naval_academy:0 "Académie navale impériale"
  AUS_imperial_naval_academy_desc:0 "L'Académie Navale de Rijeka nous permettra d'affecter les officiers de la marine les plus brillants et les plus talentueux."
- 
+
  AUS_triesteshipyards:0 "Chantiers navals de Trieste"
  AUS_triesteshipyards_desc:0 "Les grands chantiers navals de la ville côtière de Trieste étaient autrefois les principaux producteurs des marines de la Double Monarchie. Maintenant, ils nous serviront une fois de plus."
- 
+
  AUS_csepel_muvek:0 "Csepel Muvek"
  AUS_csepel_muvek_desc:0 "Situé sur une île de la région de Budapest, cet immense complexe industriel répondra à nos besoins en matière de production en série de véhicules blindés."
- 
+
  AUS_erdol_bohr_und_verwertungs_gesellschaft:0 "Erdol-Bohr und Verwertungs Gesellschaft"
 
  AUS_steyr_mannlicher:0 "Steyr Mannlicher Arms"
- 
+
  AUS_steyr_daimler_puch_ag:0 "Steyr-Daimler-Puch AG"
- 
+
  AUS_german_armour_tech:0 "Modèles de blindés [GER.GetAdjMP]"
  AUS_german_armour_tech_desc:0 "Nos alliés [GER.GetAdjMP] nous ont donné accès à leurs derniers modèles de blindés."
- 
+
  AUS_british_armour_tech:0 "Modèles de blindés [ENG.GetAdjMP]"
  AUS_british_armour_tech_desc:0 "Nos alliés [ENG.GetAdjMP] nous ont donné accès à leurs derniers modèles de blindés."
- 
+
  AUS_soviet_armour_tech:0 "Modèles de blindés [SOV.GetAdjMP]"
  AUS_soviet_armour_tech_desc:0 "Nos alliés [SOV.GetAdjMP] nous ont donné accès à leurs derniers modèles de blindés."
- 
+
  AUS_german_overseers:0 "Surveillants [GER.GetAdjMP]"
  AUS_german_overseers_desc:0 "[GER.GetNameDefCap] de [GER.GetLeader] a peut-être accepté notre proposition, mais elle exerce toujours une influence considérable sur notre politique."
- 
+
  AUS_austrian_resistance:0 "Résistance [AUS.GetAdjFS]"
  AUS_austrian_resistance_desc:0 "[GER.GetLeader] a décidé que l'Autriche devait faire partie [GER.GetDuDelaDelNP] [GER.GetName], nous lui prouverons le contraire !"
- 
+
  AUS_front_milliz:0 "Front Milliz"
- 
+
  AUS_austro_hungarian_union:0 "Union austro-hongroise"
- 
- AUS_war_for_transylvania:0 "Guerre pour la Transylvanie"
- AUS_war_for_transylvania_desc:0 "Contrôler toute la Transylvanie peut forcer [ROM.GetNameDef] à se rendre."
- 
+
  AUS_the_austrian_plot:0 "Le complot [AUS.GetAdjMS]"
  AUS_the_austrian_plot_desc:0 "Les [AUS.GetHabitants] planifient quelque chose le long de notre frontière..."
- 
+
  AUS_germanic_brotherhood:0 "Fraternité germanique"
- 
+
  AUS_ukrainian_uprising:0 "Le soulèvement ukrainien"
  AUS_ukrainian_uprising_desc:0 "La guerre pour l'indépendance de l'Ukraine a commencé. Si nous poussons les [SOV.GetHabitants] assez loin de l'Ukraine, nous pourrons peut-être les forcer à se rendre."
- 
+
  AUS_grand_imperial_bureaucracy:0 "Grande bureaucratie impériale"
- 
+
  AUS_austrian_military_assistance:0 "Assistance militaire [AUS.GetAdjFS]"
- 
+
  AUS_great_steppe_testing_grounds:0 "Grand terrain d'essais de la steppe"
- 
+
  AUS_inspired_population:0 "Population inspirée"
- 
+
  AUS_british_support:0 "Soutien [ENG.GetAdjMS]"
  AUS_british_support_desc:0 "Avec les [ENG.GetHabitants] à nos côtés, nous pourrions avoir une chance contre les Allemands."
- 
+
  AUS_soviet_support:0 "Soutien [SOV.GetAdjMS]"
  AUS_soviet_support_desc:0 "Avec les [SOV.GetHabitants] de notre côté, nous pourrions avoir une chance contre les Allemands."
- 
+
  AUS_austrian_neutrality:0 "Neutralité [AUS.GetAdjFS]"
- 
+
  AUS_austrian_german_leadership:0 "Présidence [GER.GetAdjFS] et [AUS.GetAdjFS]"
 
  #Diplomacy
  alps_defence_member:0 "Membre du Pacte de défense des Alpes"
- 
+
  #Events
  news.10001.t:0 "Bienvenue dans Grandes possibilités : Autriche"
  news.10001.d:0 "Ce mod vous permettra de refuser l'événement d'Anschluss de l'Autriche par [GER.GetNameDef], traçant ainsi votre propre chemin à travers la Seconde Guerre mondiale. Assurez-vous de lire attentivement la section politique des priorités, en particulier « Le compromis autrichien », car c'est votre seule chance de refuser l'Anschluss."
  news.10001.a:0 "Amusez-vous bien !"
- 
+
  r56.news_event.1114.t:0 "L'Autriche-Hongrie a été reformée"
  r56.news_event.1114.d:0 "Bien que séparés de plus de 19 ans, l'Autriche et la Hongrie ont décidé de rejoindre l'union qu'ils partageaient jadis, mais les deux pays ne font désormais plus qu'un, politiquement et militairement."
  r56.news_event.1114.a:0 "Verrons-nous l'ancien empire de nouveau ?"
- 
+
  austria.1111.t:0 "Le compromis [AUS.GetAdjMS]"
  austria.1111.d:0 "Le gouvernement [AUS.GetAdjMS] a évidemment entendu parler de notre campagne en faveur de l'Anschluss de nos deux grandes nations et a proposé un compromis - un soutien pour toute guerre à venir, pour l'autonomie dans l'intervalle."
  austria.1111.a:0 "Ils seront précieux en tant qu'alliés autonomes."
  austria.1111.b:0 "Faut-il leur rappeler l'importance de la vraie unité ?"
- 
+
  austria.1112.t:0 "[GER.GetNameDefCap] a accepté notre proposition"
  austria.1112.d:0 "Le gouvernement [GER.GetAdjMS] a accepté notre offre alternative, nous accordant notre liberté en tant que nation. Salut à notre alliance !"
  austria.1112.a:0 "Pour l'avenir des Puissances centrales !"
- 
+
  austria.1113.t:0 "[GER.GetNameDefCap] a refusé notre proposition"
  austria.1113.d:0 "Les nazis ont décidé que l'unification des puissances centrales est la seule voie à suivre, et il semble que nous ne faisons pas partie de ce plan. L'Anschluss ira de l'avant."
  austria.1113.a:0 "C'est une possibilité interdite."
- 
+
  austria.1114.t:0 "Réunification de l'Autriche-Hongrie"
  austria.1114.d:0 "Pendant longtemps, les pays de l'Autriche et de la Hongrie ont été unis sous un empereur commun. Le gouvernement [AUS.GetAdjMS] nous a contactés et nous demande de nous aider à rétablir cet arrangement."
  austria.1114.a:0 "Bien sûr ! Nous allons retrouver ce que nous avons perdu ensemble !"
  austria.1114.b:0 "[HUN.GetNameDefCap] protégera son autonomie des [GER.GetHabitants] et des [AUS.GetHabitants]."
- 
+
  austria.1115.t:0 "[HUN.GetNameDefCap] a accepté la réunification"
  austria.1115.d:0 "[HUN.GetNameDefCap] a accepté sa place dans notre nouvel empire partagé. Nous nous tournons maintenant vers l'avenir de l'Autriche-Hongrie !"
  austria.1115.a:0 "En avant !"
- 
+
  austria.1116.t:0 "[HUN.GetNameDefCap] a refusé la réunification"
  austria.1116.d:0 "Il semble que les [HUN.GetHabitants] protègent leur autonomie. Notre offre a été respectueusement refusée, ce qui a suscité des doutes quant à leurs véritables motivations."
  austria.1116.a:0 "Hm..."
- 
+
  austria.1117.t:0 "[AUS.GetNameDefCap] exige la Transylvanie"
  austria.1117.d:0 "[AUS.GetNameDefCap] a fait des déclarations parmi son peuple et le nôtre sur l'importance de la Transylvanie pour le peuple hongrois. Si nous voulons éviter la guerre, elle est arrivée au point de rupture - cédons-nous la Transylvanie ?"
  austria.1117.a:0 "La Transylvanie est à notre juste raison !"
  austria.1117.b:0 "Si nous partons en guerre, ils vont tout prendre."
- 
+
  austria.1118.t:0 "[ROM.GetNameDefCap] a cédé"
  austria.1118.d:0 "Les [ROM.GetHabitants] ont fait preuve d'une sagesse inhabituelle en cédant la Transylvanie comme demandé. L'infrastructure gouvernementale locale est déjà sous notre contrôle et nous pouvons déplacer des troupes si nécessaire."
  austria.1118.a:0 "Parfait."
- 
+
  austria.1119.t:0 "[ROM.GetNameDefCap] a refusé"
  austria.1119.d:0 "Il semble que les [ROM.GetHabitants] arrivant ont oublié à qui appartient la Transylvanie. La guerre avec eux est absolument justifiée ; mais est-ce l'heure ?"
  austria.1119.a:0 "Les imbéciles. Mobilisez les troupes."
  austria.1119.b:0 "La guerre est inopportune en ce moment. Une autre fois."
- 
+
  austria.1122.t:0 "La Transylvanie est à nous"
  austria.1122.d:0 "La Transylvanie est à nous, et nous avons la possibilité de forcer une paix avantageuse pour conserver la terre que nous avons demandée. Cette guerre a déjà fait trop de victimes. Devrions-nous forcer un accord de paix ?"
  austria.1122.a:0 "Cette guerre est inutile maintenant."
  austria.1122.b:0 "Poussez à [ROM.Capital.GetName] !"
- 
+
  austria.1124.t:0 "La question roumaine"
  austria.1124.d:0 "La majorité roumaine en Transylvanie, bien que largement pacifique, a maintenu une vive résistance politique à la domination hongroise. C'est inacceptable. Si la majorité n'accepte pas leur règle, nous en ferons une minorité."
  austria.1124.a:0 "Retirez-les."
  austria.1124.b:0 "Peut-être un pont trop loin."
- 
+
  austria.1125.t:0 "[AUS.GetNameDefCap] exige la Slovénie"
  austria.1125.d:0 "Le gouvernement [AUS.GetAdjMS] exerce depuis peu des pressions politiques sur la région slovène. La guerre avec eux peut coûter cher, mais pouvons-nous nous permettre de céder des terres si facilement ?"
  austria.1125.a:0 "Si cela épargne la vie de notre peuple, oui."
  austria.1125.b:0 "Jamais ! [YUG.GetNameDefCap] se défendra !"
- 
+
  austria.1126.t:0 "[YUG.GetNameDefCap] cède la Slovénie"
  austria.1126.d:0 "Les [YUG.GetHabitants] ont sagement cédé la terre que nous avions demandée, accordant à nos troupes un accès complet ainsi que le contrôle de toutes les installations. Nos plans se déroulent comme requis."
  austria.1126.a:0 "Excellent."
- 
+
  austria.1127.t:0 "[YUG.GetNameDefCap] a refusé nos demandes"
  austria.1127.d:0 "La fausse nation naissante [YUG.GetAdjFS] semble vouloir riposter contre nous. Quelle autre explication pourrions-nous avoir pour un refus aussi impoli ? Nous devrons reprendre ce qui nous appartient."
  austria.1127.a:0 "Il semble que nous n'ayons pas le choix."
- 
+
  austria.1128.t:0 "[AUS.GetNameDefCap] réclame d'anciens territoires"
  austria.1128.d:0 "Les agressions [AUS.GetAdjFP] ont pris de l'ampleur et ils réclament maintenant les territoires du nord [YUG.GetDuDelaDelNP] [YUG.GetName]. Ils sont une puissance intimidante - mais devrions-nous concéder ?"
  austria.1128.a:0 "Nous défendrons notre propre terre !"
  austria.1128.b:0 "Nous ne pouvons pas faire face à une guerre avec [AUS.GetNameDef]."
- 
+
  austria.1129.t:0 "[YUG.GetNameDefCap] refuse nos demandes"
  austria.1129.d:0 "L'État prétendant [YUG.GetAdjFS] nous a refusé les terres auxquelles nous avons tous les droits. Nous pouvons entrer en guerre en ce moment même, mais est-ce le moment opportun ?"
  austria.1129.a:0 "Nous prendrons ce dont nous avons besoin."
  austria.1129.b:0 "Ce n'est pas le moment."
- 
+
  austria.1130.t:0 "[YUG.GetNameDefCap] cède le nord des Balkans"
  austria.1130.d:0 "[YUG.GetNameDefCap] reconnaît qu'elle ne peut pas faire face à une guerre avec nos supérieurs militaires et nous a cédé ses terres septentrionales. Nous installons déjà nos propres agents politiques."
  austria.1130.a:0 "Exactement comme prévu."
- 
+
  austria.1131.t:0 "Nos objectifs ont été atteints"
  austria.1131.d:0 "Nous avons pris tout le terrain que nous avions demandé [YUG.GetAuAlaAlNP] [YUG.GetName] et, à présent, leurs forces défensives désespérées s'attaquent à tout - y compris un cessez-le-feu. Nous pouvons appliquer cela maintenant, mais est-ce la meilleure option ?"
  austria.1131.a:0 "Ce n'est pas le moment de mener de longues guerres."
  austria.1131.b:0 "Nous pouvons et allons prendre tout ce qu'ils ont !"
- 
+
  austria.1132.t:0 "Remilitarisation de la Serbie"
  austria.1132.d:0 "Au lendemain de la guerre [YUG.GetAuEnANP] [YUG.GetName], nos armées ont maintenant accès tactiquement à des régions plus profondes de la Serbie. En avant !"
  austria.1132.a:0 "Exactement comme prévu !"
- 
+
  austria.1133.t:0 "[AUS.GetNameDefCap] exige la Slovaquie"
  austria.1133.d:0 "Le gouvernement [AUS.GetAdjMS] a demandé que la région occupée de Slovaquie soit transférée sous son contrôle, compte tenu de son héritage ancestral de terre austro-hongroise."
  austria.1133.a:0 "Cela semble raisonnable."
  austria.1133.b:0 "C'est maintenant [GER.GetAdjMS]."
- 
+
  austria.1138.t:0 "[GER.GetNameDefCap] nous a donné la Slovaquie"
  austria.1138.d:0 "Le gouvernement [GER.GetAdjMS] est parvenu à un consensus sur le fait que nous méritions un intérêt dans la région slovaque. Ils nous ont transféré le contrôle de toutes les installations et nous sommes libres d'utiliser le terrain de quelque manière que ce soit."
  austria.1138.a:0 "Excellent."
- 
+
  austria.1139.t:0 "[GER.GetNameDefCap] a gardé la Slovaquie"
  austria.1139.d:0 "[GER.GetNameDefCap] a rejeté notre demande concernant la région slovaque. Un triste état de choses, mais nous aurons sûrement notre journée dans le temps."
  austria.1139.a:0 "Un malheureux revers."
- 
+
  austria.1140.t:0 "[AUS.GetNameDefCap] exige Cracovie"
  austria.1140.d:0 "[AUS.GetNameDefCap] a sollicité la région polonaise de Cracovie, longtemps contestée entre l'empire austro-hongrois et la Pologne. Leur revendication est juste - mais allons-nous l'accepter ?"
  austria.1140.a:0 "Bien sûr."
  austria.1140.b:0 "Cela ne convient pas à nos besoins."
- 
+
  austria.1141.t:0 "[GER.GetNameDefCap] nous a donné Cracovie"
  austria.1141.d:0 "[GER.GetNameDefCap] a cédé l'accès à la région de Cracovie, nous permettant d'accéder à un autre centre ancien du patrimoine austro-hongrois."
  austria.1141.a:0 "Excellent."
- 
+
  austria.1142.t:0 "[GER.GetNameDefCap] a gardé Cracovie"
  austria.1142.d:0 "[GER.GetNameDefCap] a refusé de nous donner Cracovie, en conservant l'accès à la ville et en nous refusant l'ancienne terre austro-hongroise. Une décision discutable, à coup sûr."
  austria.1142.a:0 "Discutable, mais implacable."
- 
+
  austria.1143.t:0 "La Dalmatie pour le Tyrol du Sud"
  austria.1143.d:0 "Les machinations politiques de l'Italie nous ont valu une partie du Tyrol après la Grande Guerre. Les [AUS.GetHabitants] ont l'intention de récupérer le territoire à temps - et nous avons l'intention de revendiquer la Dalmatie. Peut-être qu'un accord peut être conclu... ?"
  austria.1143.a:0 "Cela semble être nécessaire."
  austria.1143.b:0 "Nous ne leur céderons rien !"
- 
+
  austria.1144.t:0 "[ITA.GetNameDefCap] a accepté notre accord"
  austria.1144.d:0 "Les [ITA.GetHabitants] ont accepté notre offre, acceptant de déplacer leurs troupes de Dalmatie et les nôtres du Tyrol. L'échange est effectif immédiatement."
  austria.1144.a:0 "Exactement comme prévu."
- 
+
  austria.1145.t:0 "[ITA.GetNameDefCap] a refusé notre accord"
  austria.1145.d:0 "Les [ITA.GetHabitants] ont décidé que leur revendication sur la majorité italienne en Dalmatie valait plus que leur prétention douteuse au reste du Tyrol. Ils ont refusé notre offre."
  austria.1145.a:0 "Peut-être pour le mieux."
- 
+
  austria.1146.t:0 "[AUS.GetNameDefCap] exige la péninsule d'Istrie"
  austria.1146.d:0 "Les [AUS.GetHabitants] ont réclamé la péninsule d'Istrie, fief de la supériorité navale austro-hongroise depuis avant la Grande Guerre. Les nier pourrait signifier des conséquences."
  austria.1146.a:0 "Ils sont une puissance trop dangereuse à nier."
  austria.1146.b:0 "Nous pouvons faire face aux conséquences."
- 
+
  austria.1147.t:0 "[ITA.GetNameDefCap] a cédé l'Istrie"
  austria.1147.d:0 "[ITA.GetNameDefCap] nous a cédé l'ancienne forteresse de la marine d'Istrie, avec effet immédiat. Nos troupes sont libres de la récupérer."
  austria.1147.a:0 "Parfait !"
- 
+
  austria.1148.t:0 "[ITA.GetNameDefCap] a refusé nos demandes"
  austria.1148.d:0 "Les [ITA.GetHabitants] se sont bêtement tenus pour nous. Peut-être est-il temps que nous montrions aux nouveaux arrivants que nous battre une fois ne garantit pas encore la victoire."
  austria.1148.a:0 "Sont-ils préparés à la guerre ?"
- 
+
  austria.1149.t:0 "Invitation [AUS.GetAdjFS]"
  austria.1149.d:0 "Le gouvernement [AUS.GetAdjMS] a lancé une invitation à une alliance militaire dirigée par son propre empire. Un allié puissant, mais avons-nous besoin de leur aide ?"
  austria.1149.a:0 "Toute aide en ces temps instables est la bienvenue."
  austria.1149.b:0 "Nous pouvons forger notre propre chemin."
- 
+
  austria.1150.t:0 "Ultimatum [AUS.GetAdjMS]"
  austria.1150.d:0 "[AUS.GetNameDefCap] nous a lancé un ultimatum : nous placer sous la domination des [AUS.GetAdjMP] ou nous soumettre à la domination de l'Autriche. Nous sommes placés dans une position difficile."
  austria.1150.a:0 "Nous allons protéger le mode de vie de nos citoyens !"
  austria.1150.b:0 "Il semble que nous devons accepter le leadership [AUS.GetAdjMS]."
- 
+
  austria.1151.t:0 "[GRE.GetNameDefCap] a refusé notre ultimatum"
  austria.1151.d:0 "Les [GRE.GetHabitants] impudents ont livré une gifle brûlante au visage, refusant notre offre de protection politique et militaire. Un tel geste manifeste est absolument un acte de guerre !"
  austria.1151.a:0 "Et nous allons le traiter comme tel !"
- 
+
  austria.1152.t:0 "[GRE.GetNameDefCap] a succombé à notre ultimatum"
  austria.1152.d:0 "[GRE.GetNameDefCap] a sagement accepté notre offre de protection en ces temps sombres et troublés. Leur gouvernement a changé de mains avec un minimum de bruit sous notre contrôle et ils opéreront dans le cadre de notre coalition."
  austria.1152.a:0 "Le choix le plus sage à faire."
- 
+
  austria.1153.t:0 "Invitation [AUS.GetAdjFS]"
  austria.1153.d:0 "Nos anciens alliés, les [AUS.GetHabitants], ont tendu le bras en amitié, offrant une résurrection des anciennes puissances centrales. Peut-être qu'il est temps de rejoindre nos anciens alliés ottomans ?"
  austria.1153.a:0 "S'il y a du temps, c'est maintenant."
  austria.1153.b:0 "Nous devons considérer nos alliés plus attentivement, si une guerre approche."
- 
+
  austria.1154.t:0 "[TUR.GetNameDefCap] a accepté de nous rejoindre"
  austria.1154.d:0 "[TUR.GetNameDefCap] a accepté notre offre d'alliance et se tient à nos côtés pour tout conflit futur. Les Ottomans n'ont pas oublié leurs amis !"
  austria.1154.a:0 "Et nous non plus."
- 
+
  austria.1155.t:0 "[TUR.GetNameDefCap] a refusé de nous rejoindre"
  austria.1155.d:0 "[TUR.GetNameDefCap], semble-t-il, a oublié à quel point nous étions loyaux l'un envers l'autre au cours de la Grande Guerre. Ils ont nié notre alliance et suivront leur propre chemin."
  austria.1155.a:0 "Un concept troublant."
- 
+
  austria.1156.t:0 "Nous avons repoussé les [SOV.GetHabitants]"
  austria.1156.d:0 "Le soulèvement ukrainien s'est bien déroulé, mais l'ours [SOV.GetAdjMS] est toujours une présence inquiétante au-dessus de nous. Nous pouvons continuer à faire pression si nous croyons pouvoir prendre plus de terrain - ou nous pouvons parvenir à un accord de paix."
  austria.1156.a:0 "Nous allons offrir la paix - avec conditions."
  austria.1156.b:0 "Les [SOV.GetHabitants] ne peuvent pas continuer !"
- 
+
  austria.1157.t:0 "L'armistice ukrainien"
  austria.1157.d:0 "Les [AUS.GetHabitants] ont signé un accord de paix. Compte tenu de l'état de la guerre, les conditions sont généreuses - un cessez-le-feu immédiat, en échange de la liberté de l'Ukraine russe. Devrions-nous accepter ?"
  austria.1157.a:0 "Cela semble nécessaire."
  austria.1157.b:0 "Pas avant que le dernier homme soit mort !"
- 
+
  austria.1158.t:0 "Les [SOV.GetHabitants] ont concédé"
  austria.1158.d:0 "Les [SOV.GetHabitants] ont accepté un cessez-le-feu. L'Ukraine est entre les mains des Ukrainiens et les Ukrainiens nous en sont très reconnaissants. Une victoire majeure."
  austria.1158.a:0 "Et une autre étape dans nos plans."
- 
+
  austria.1159.t:0 "Les [SOV.GetHabitants] ont refusé"
  austria.1159.d:0 "Les [SOV.GetHabitants] ont décidé que leurs intérêts seraient mieux servis par une longue et dure guerre. Preuve de la véritable vision [SOV.GetAdjFS] de la valeur du travailleur, peut-être ?"
  austria.1159.a:0 "Pour notre bénéfice, nous allons en finir rapidement."
- 
+
  austria.1160.t:0 "Nous avons atteint nos objectifs"
  austria.1160.d:0 "Le soulèvement ukrainien s'est bien déroulé et la création d'un État ukrainien libre est désormais une possibilité. Nous pouvons proposer aux [SOV.GetHabitants] un accord de paix - la paix, pour la liberté ukrainienne. Une offre plus raisonnable, nous ne pouvions pas faire."
  austria.1160.a:0 "N'importe quoi pour apporter la démocratie en Ukraine."
  austria.1160.b:0 "On ne peut pas faire confiance aux [SOV.GetHabitants] pour rester pacifiques."
- 
- ### GERMAN TECH ###
- 
- austria.1161.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1161.d:0 "Nous avons reçu le modèle du §YPanzer III§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1161.a:0 "Un cadeau de nos frères."
- austria.1161.a.tt:0 "Vous recevez une variante améliorée du §YPanzer III§!."
- 
- austria.1162.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1162.d:0 "Nous avons reçu le modèle du §YPanzer IV§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1162.a:0 "Un cadeau de nos frères."
- austria.1162.a.tt:0 "Vous recevez une variante améliorée du §YPanzer IV§!."
- 
- austria.1163.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1163.d:0 "Nous avons reçu le modèle du §YPanther§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1163.a:0 "Un cadeau de nos frères."
- austria.1163.a.tt:0 "Vous recevez une variante améliorée du §YPanther§!."
- 
- austria.1164.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1164.d:0 "Nous avons reçu le modèle du §YPanzer I§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1164.a:0 "Un cadeau de nos frères."
- austria.1164.a.tt:0 "Vous recevez une variante améliorée du §YPanzer I§!."
- 
- austria.1165.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1165.d:0 "Nous avons reçu le modèle du §YPanzer II§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1165.a:0 "Un cadeau de nos frères."
- austria.1165.a.tt:0 "Vous recevez une variante améliorée du §YPanzer II§!."
- 
- austria.1166.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1166.d:0 "Nous avons reçu le modèle du §YLeopard§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1166.a:0 "Un cadeau de nos frères."
- austria.1166.a.tt:0 "Vous recevez une variante améliorée du §YLeopard§!."
- 
- austria.1167.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1167.d:0 "Nous avons reçu le modèle du §YTiger I§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1167.a:0 "Un cadeau de nos frères."
- austria.1167.a.tt:0 "Vous recevez une variante améliorée du §YTiger I§!."
- 
- austria.1168.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1168.d:0 "Nous avons reçu le modèle du §YTiger II§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1168.a:0 "Un cadeau de nos frères."
- austria.1168.a.tt:0 "Vous recevez une variante améliorée du §YTiger II§!."
- 
- austria.1169.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1169.d:0 "Nous avons reçu le modèle du §YMaus§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1169.a:0 "Un cadeau de nos frères."
- austria.1169.a.tt:0 "Vous recevez une variante améliorée du §YMaus§!."
- 
- austria.1170.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1170.d:0 "Nous avons reçu le modèle du §YE-50 Standardpanzer§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1170.a:0 "Un cadeau de nos frères."
- austria.1170.a.tt:0 "Vous recevez une variante améliorée du §YE-50 Standardpanzer§!."
- 
- austria.1172.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1172.d:0 "Nous avons reçu le modèle du §YBf 109§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1172.a:0 "Un cadeau de nos frères."
- austria.1172.a.tt:0 "Vous recevez une variante améliorée du §YBf 109§!."
- 
- austria.1173.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1173.d:0 "Nous avons reçu le modèle du §YFw 190§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1173.a:0 "Un cadeau de nos frères."
- austria.1173.a.tt:0 "Vous recevez une variante améliorée du §YFw 190§!."
- 
- austria.1174.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1174.d:0 "Nous avons reçu le modèle du §YTa 152§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1174.a:0 "Un cadeau de nos frères."
- austria.1174.a.tt:0 "Vous recevez une variante améliorée du §YTa 152§!."
- 
- austria.1175.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1175.d:0 "Nous avons reçu le modèle du §YMe 262§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1175.a:0 "Un cadeau de nos frères."
- austria.1175.a.tt:0 "Vous recevez une variante améliorée du §YMe 262§!."
- 
- austria.1176.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1176.d:0 "Nous avons reçu le modèle du §YHo 229§! de nos alliés [GER.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1176.a:0 "Un cadeau de nos frères."
- austria.1176.a.tt:0 "Vous recevez une variante améliorée du §YHo 229§!."
- 
- austria.1171.t:0 "[GER.GetNameDefCap] a annulé notre accord commercial"
- austria.1171.d:0 "Nous avons appris que le gouvernement [GER.GetAdjMS] avait annulé notre accès à leurs améliorations technologiques."
- austria.1171.a:0 "Nous ferons avec ce que nous avons."
- 
- ### BRITSH TECH ###
- 
- austria.1177.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1177.d:0 "Nous avons reçu le modèle du §YVicker II§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1177.a:0 "Un cadeau de nos amis."
- austria.1177.a.tt:0 "Vous recevez une variante améliorée du §YVicker II§!."
- 
- austria.1178.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1178.d:0 "Nous avons reçu le modèle du §YMatilda§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1178.a:0 "Un cadeau de nos amis."
- austria.1178.a.tt:0 "Vous recevez une variante améliorée du §YMatilda§!."
- 
- austria.1179.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1179.d:0 "Nous avons reçu le modèle du §YValentine§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1179.a:0 "Un cadeau de nos amis."
- austria.1179.a.tt:0 "Vous recevez une variante améliorée du §YValentine§!."
- 
- austria.1180.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1180.d:0 "Nous avons reçu le modèle du §YCrusader§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1180.a:0 "Un cadeau de nos amis."
- austria.1180.a.tt:0 "Vous recevez une variante améliorée du §YCrusader§!."
- 
- austria.1181.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1181.d:0 "Nous avons reçu le modèle du §YCromwell§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1181.a:0 "Un cadeau de nos amis."
- austria.1181.a.tt:0 "Vous recevez une variante améliorée du §YCromwell§!."
- 
- austria.1182.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1182.d:0 "Nous avons reçu le modèle du §YComet§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1182.a:0 "Un cadeau de nos amis."
- austria.1182.a.tt:0 "Vous recevez une variante améliorée du §YComet§!."
- 
- austria.1183.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1183.d:0 "Nous avons reçu le modèle du §YVickers A1E1 Independent§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1183.a:0 "Un cadeau de nos amis."
- austria.1183.a.tt:0 "Vous recevez une variante améliorée du §YVickers A1E1 Independent§!."
- 
- austria.1184.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1184.d:0 "Nous avons reçu le modèle du §YChurchill§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1184.a:0 "Un cadeau de nos amis."
- austria.1184.a.tt:0 "Vous recevez une variante améliorée du §YChurchill§!."
- 
- austria.1185.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1185.d:0 "Nous avons reçu le modèle du §YBlack Prince§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1185.a:0 "Un cadeau de nos amis."
- austria.1185.a.tt:0 "Vous recevez une variante améliorée du §YBlack Prince§!."
- 
- austria.1186.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1186.d:0 "Nous avons reçu le modèle du §YCenturion§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1186.a:0 "Un cadeau de nos amis."
- austria.1186.a.tt:0 "Vous recevez une variante améliorée du §YCenturion§!."
 
- austria.1207.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1207.d:0 "Nous avons reçu le modèle du §YTortoise§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1207.a:0 "Un cadeau de nos amis."
- austria.1207.a.tt:0 "Vous recevez une variante améliorée du §YTortoise§!."
-
- austria.1209.t:0 "Spécialistes [SOV.GetAdjMP] détenus"
- austria.1209.d:0 "Le déclenchement de la guerre entre nos deux pays a suscité des interrogations sur la loyauté des experts [SOV.GetAdjMP] et des technologies qu'ils nous ont fournies. \n\nLes spécialistes détenus sont gardés dans une prison spécifique dans un endroit inconnu où ils ne peuvent pas nous faire de mal ou espionner pour nos ennemis."
- austria.1209.a:0 "Nous avons fait ce qui devait être fait"
- 
- austria.1187.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1187.d:0 "Nous avons reçu le modèle du §YHurricane§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1187.a:0 "Un cadeau de nos amis."
- austria.1187.a.tt:0 "Vous recevez une variante améliorée du §YHurricane§!."
- 
- austria.1188.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1188.d:0 "Nous avons reçu le modèle du §YSpitfire§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1188.a:0 "Un cadeau de nos amis."
- austria.1188.a.tt:0 "Vous recevez une variante améliorée du §YSpitfire§!."
- 
- austria.1189.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1189.d:0 "Nous avons reçu le modèle du §YSpiteful§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1189.a:0 "Un cadeau de nos amis."
- austria.1189.a.tt:0 "Vous recevez une variante améliorée du §YSpiteful§!."
- 
- austria.1190.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1190.d:0 "Nous avons reçu le modèle du §YMeteor§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1190.a:0 "Un cadeau de nos amis."
- austria.1190.a.tt:0 "Vous recevez une variante améliorée du §YMeteor§!."
- 
- austria.1191.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1191.d:0 "Nous avons reçu le modèle du §YVampire§! de nos alliés [ENG.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1191.a:0 "Un cadeau de nos amis."
- austria.1191.a.tt:0 "Vous recevez une variante améliorée du §YVampire§!."
- 
- austria.1192.t:0 "[ENG.GetNameDefCap] a annulé notre accord commercial"
- austria.1192.d:0 "Nous avons appris que le gouvernement [ENG.GetAdjMS] avait annulé notre accès à leurs améliorations technologiques."
- austria.1192.a:0 "Nous ferons avec ce que nous avons."
- 
- ### SOVIET TECH ###
- 
- austria.1193.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1193.d:0 "Nous avons reçu le modèle du §YT-26§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1193.a:0 "Un cadeau de nos camarades."
- austria.1193.a.tt:0 "Vous recevez une variante améliorée du §YT-26§!."
- 
- austria.1194.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1194.d:0 "Nous avons reçu le modèle du §YBT-7§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1194.a:0 "Un cadeau de nos camarades."
- austria.1194.a.tt:0 "Vous recevez une variante améliorée du §YBT-7§!."
- 
- austria.1195.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1195.d:0 "Nous avons reçu le modèle du §YT-60§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1195.a:0 "Un cadeau de nos camarades."
- austria.1195.a.tt:0 "Vous recevez une variante améliorée du §YT-60§!."
- 
- austria.1196.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1196.d:0 "Nous avons reçu le modèle du §YA-32§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1196.a:0 "Un cadeau de nos camarades."
- austria.1196.a.tt:0 "Vous recevez une variante améliorée du §YA-32§!."
- 
- austria.1197.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1197.d:0 "Nous avons reçu le modèle du §YT-34§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1197.a:0 "Un cadeau de nos camarades."
- austria.1197.a.tt:0 "Vous recevez une variante améliorée du §YT-34§!."
- 
- austria.1198.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1198.d:0 "Nous avons reçu le modèle du §YT-44§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1198.a:0 "Un cadeau de nos camarades."
- austria.1198.a.tt:0 "Vous recevez une variante améliorée du §YT-44§!."
- 
- austria.1199.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1199.d:0 "Nous avons reçu le modèle du §YT-35§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1199.a:0 "Un cadeau de nos camarades."
- austria.1199.a.tt:0 "Vous recevez une variante améliorée du §YT-35§!."
- 
- austria.1200.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1200.d:0 "Nous avons reçu le modèle du §YKV-1§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1200.a:0 "Un cadeau de nos camarades."
- austria.1200.a.tt:0 "Vous recevez une variante améliorée du §YKV-1§!."
- 
- austria.1201.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1201.d:0 "Nous avons reçu le modèle du §YIS-1§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1201.a:0 "Un cadeau de nos camarades."
- austria.1201.a.tt:0 "Vous recevez une variante améliorée du §YIS-1§!."
- 
- austria.1202.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1202.d:0 "Nous avons reçu le modèle du §YIS-7§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1202.a:0 "Un cadeau de nos camarades."
- austria.1202.a.tt:0 "Vous recevez une variante améliorée du §YIS-7§!."
- 
- austria.1203.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1203.d:0 "Nous avons reçu le modèle du §YT-54§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1203.a:0 "Un cadeau de nos camarades."
- austria.1203.a.tt:0 "Vous recevez une variante améliorée du §YT-54§!."
- 
- austria.1204.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1204.d:0 "Nous avons reçu le modèle du §YI-16§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1204.a:0 "Un cadeau de nos camarades."
- austria.1204.a.tt:0 "Vous recevez une variante améliorée du §YI-16§!."
- 
- austria.1205.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1205.d:0 "Nous avons reçu le modèle du §YLaGG-3§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1205.a:0 "Un cadeau de nos camarades."
- austria.1205.a.tt:0 "Vous recevez une variante améliorée du §YLaGG-3§!."
- 
- austria.1206.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1206.d:0 "Nous avons reçu le modèle du §YYaK-3§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1206.a:0 "Un cadeau de nos camarades."
- austria.1206.a.tt:0 "Vous recevez une variante améliorée du §YYaK-3§!."
- 
- austria.1207.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1207.d:0 "Nous avons reçu le modèle du §YMiG-9§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1207.a:0 "Un cadeau de nos camarades."
- austria.1207.a.tt:0 "Vous recevez une variante améliorée du §YMiG-9§!."
- 
- austria.1208.t:0 "Nous avons reçu de nouveaux documents de conception"
- austria.1208.d:0 "Nous avons reçu le modèle du §YMiG-15§! de nos alliés [SOV.GetAdjMP]. Le nouveau modèle sera prêt pour la production immédiatement."
- austria.1208.a:0 "Un cadeau de nos camarades."
- austria.1208.a.tt:0 "Vous recevez une variante améliorée du §YMiG-15§!."
- 
  ### ROYALIST SECTION ###
- 
+
  austria.5000.t:0 "[AUS.GetNameDefCap] propose le Pacte de défense des Alpes"
  austria.5000.d:0 "Apparemment, dans le but d'éviter les tactiques prédatrices des [GER.GetHabitants] dans leur nord, nous avons rencontré des diplomates [AUS.GetAdjMP] avec une proposition de pacte défensif. L'objectif est clairement de renforcer les liens que nous entretenons déjà avec leur nation, ce qui pourrait également avoir un effet dissuasif sur l'expansion [AUS.GetAdjFS]. Quelle devrait être notre réponse ?"
  austria.5000.a:0 "Oui, il est temps de formaliser notre amitié."
  austria.5000.b:0 "Non, nous ne pouvons pas risquer de mettre les [GER.GetHabitants] en colère."
- 
+
  austria.5001.t:0 "[ITA.GetNameDefCap] rejette notre proposition"
  austria.5001.d:0 "De toute évidence, par crainte de nouvelles représailles [GER.GetAdjFP], les [ITA.GetHabitants] ont décliné notre proposition généreuse."
  austria.5001.a:0 "Si nous devons rester seuls, nous le ferons."
- 
+
  r56.news_event.1115.t:0 "[AUS.GetNameDefCap] et [ITA.GetNameDef] signent un pacte de défense"
  r56.news_event.1115.d:0 "Surnommés « Pacte de défense des Alpes », de nouveaux organes de presse signalent que [AUS.GetNameDef] et [ITA.GetNameDef] sont parvenues à un accord sur la question de la défense mutuelle. On ne sait pas si [ITA.GetNameDef] entend profiter de son nouvel allié pour mettre fin à l'expansionnisme [GER.GetAdjMS], ou simplement pour consolider ses frontières nord. Quoi qu'il en soit, l'idée que la souveraineté [AUS.GetDuDelaDelNP] [AUS.GetName] soit violée sans conflit semble s'être évaporée du jour au lendemain."
  r56.news_event.1115.a:0 "Autrefois ennemis, aujourd'hui amis."
- r56.news_event.1115.b:0 "Une grande opportunité !" 
- 
+ r56.news_event.1115.b:0 "Une grande opportunité !"
+
  austria.5002.t:0 "Les nationalistes socialistes ont tenté un coup d'État"
  austria.5002.d:0 "Des fanatiques nazis ont pénétré de force dans la chambre du Parlement, tuant de nombreux hommes politiques et provoquant un tollé général. Ils ont publiquement exigé qu'ils soient rétablis dans leurs fonctions de pouvoir. Leur coup d'État a été repoussé - mais leur demande remplit l'endroit où siégeaient de bons et honnêtes politiciens."
  austria.5002.a:0 "C'est cependant une chance de renforcer notre position."
  austria.5002.b:0 "Si nous ne nous plions pas à leurs demandes, ils pourraient bien trouver le moyen de commettre une autre atrocité."
- 
+
  austria.5003.t:0 "[AUS.GetNameDefCap] propose le Traité de Vénétie"
  austria.5003.d:0 "Les diplomates [AUS.GetAdjMP] se sont à nouveau adressés à nous, cherchant maintenant à formaliser notre pacte en une alliance militaire. Quelle sera notre réponse ?"
  austria.5003.a:0 "Signer le traité"
  austria.5003.b:0 "Nous refusons de signer ce traité"
- 
+
  austria.5004.t:0 "[ITA.GetNameDefCap] rejette la proposition"
  austria.5004.d:0 "Incapables de doubler nos relations libres, les lâches [ITA.GetHabitants] ont rejeté notre proposition si gracieuse."
  austria.5004.a:0 "Peut-être devrions-nous chercher des alliances ailleurs."
- 
+
  austria.5005.t:0 "Offre d'intervention [AUS.GetAdjFS]"
  austria.5005.d:0 "Au milieu de la guerre pour l'avenir de l'Italie, les diplomates [AUS.GetAdjMP] nous ont contactés et ont offert leur aide pour rétablir la monarchie [ITA.GetAdjFS]. Ils ne demandent qu'une chose : la restitution des terres que nous avons gagnées pendant la Grande Guerre et le réexamen du traité de Vienne de 1866."
  austria.5005.a:0 "Une offre équitable pour une aide précieuse."
  austria.5005.b:0 "Le prix est trop raide ; les renvoyer."
- 
+
  austria.5006.t:0 "[AUS.GetNameDefCap] propose le Traité du Liechtenstein"
  austria.5006.d:0 "Des diplomates [AUS.GetAdjMP] sont arrivés avec une proposition de traité. Son objectif est clairement d'élargir leur liste d'alliés en cas de conflit armé. Avec la montée de l'expansionnisme [GER.GetAdjMS] et le fait que l'Europe semble se diriger vers une autre guerre, il serait peut-être sage d'écouter leurs paroles et d'envisager sérieusement leur offre."
  austria.5006.a:0 "Oui, nous devons chercher des alliés dans le cas d'une nouvelle guerre en Europe."
  austria.5006.b:0 "Nous ne pouvons accepter une proposition qui pourrait saper notre neutralité."
- 
+
  austria.5007.t:0 "[SWI.GetNameDefCap] refuse notre traité"
  austria.5007.d:0 "[SWI.GetNameDefCap] a rejeté notre proposition d'alliance, soit par désir de maintenir sa position de neutralité vis-à-vis du reste du monde, soit simplement en raison de différences entre leur gouvernement et le nôtre."
  austria.5007.a:0 "Merde."
- 
+
  austria.5008.t:0 "[AUS.GetNameDefCap] exige ses revendications « légitimes »"
  austria.5008.d:0 "[AUS.GetNameDefCap], sentant notre temps de faiblesse, nous a envoyé des diplomates « demandant » le retour des provinces autrefois autrichiennes du Tyrol du Sud, du Frioul et de toute la péninsule d'Istrie. On peut se demander dans quelle mesure ils ont eu une influence sur les événements jusqu'à présent."
  austria.5008.a:0 "Nous ne pouvons pas nous permettre de livrer bataille sur deux fronts. Nous allons céder la terre."
  austria.5008.b:0 "Ils n'oseraient pas prendre les terres pour lesquelles nous nous sommes battus et ont été gagnés, même maintenant. Nous restons fermes."
- 
+
  austria.5009.t:0 "[ITA.GetNameDefCap] rejette nos exigences"
  austria.5009.d:0 "Une fois de plus, les [ITA.GetHabitants] ont refusé de reconnaître nos revendications légitimes sur les terres du Tyrol du Sud et de l'Istrie. Bien que notre tentative de reconquête diplomatique de ces terres ait échoué, une approche plus directe serait peut-être plus efficace."
  austria.5009.a:0 "La diplomatie a échoué, peut-être qu'une autre voie est possible."
- 
+
  austria.5010.t:0 "[AUS.GetNameDefCap] propose une alliance"
  austria.5010.d:0 "Notre ancienne nation sœur, [AUS.GetNameDef], a proposé une alliance entre nous. Bien que le lien ne soit pas aussi fort que celui de notre monarque commun, ce serait un retour à nos anciennes relations."
  austria.5010.a:0 "C'est bien sûr la seule option raisonnable."
  austria.5010.b:0 "L'Autriche-Hongrie est cassée. Les chemins de la Hongrie et de l'Autriche divergent, maintenant."
- 
+
  austria.5011.t:0 "[AUS.GetNameDefCap] réclame l'autonomie tchèque !"
  austria.5011.d:0 "[AUS.GetNameDefCap] a pris contact avec nos responsables pour leur demander de libérer leur ancien territoire sous une domination [GER.GetAdjFS] semi-autonome. Comment cela leur profite reste inconnu."
  austria.5011.a:0 "Tant que la terre reste [GER.GetAdjFS], le peuple peut s'appeler ce qu'il veut."
  austria.5011.b:0 "Absolument pas. Le destin de la Tchécoslovaquie a été forgé."
- 
+
  austria.5012.t:0 "[AUS.GetNameDefCap] demande le sud de la Slovaquie !"
  austria.5012.d:0 "[AUS.GetNameDefCap] a demandé le retour de la Slovaquie méridionale à son régime, comme c'était le cas avant la Grande Guerre. Étant donné l'histoire de la région, ils font une réclamation juste."
  austria.5012.a:0 "L'équité de la demande ne peut être niée."
  austria.5012.b:0 "Elle est et restera sous la domination [GER.GetAdjFS]."
- 
+
  austria.5013.t:0 "[AUS.GetNameDefCap] nous invite au Pacte de défense des Alpes"
  austria.5013.d:0 "En tant que puissance centrale dans la région des Alpes, [AUS.GetNameDef] est toujours à la recherche d'alliés potentiels - des alliés, apparemment, comme nous. Une lettre de l'ambassade [AUS.GetAdjFS] nous a invités à un « Pacte de Défense des Alpes »."
  austria.5013.a:0 "Ce sont des temps instables et les alliés sont toujours les bienvenus."
  austria.5013.b:0 "[AUS.GetNameDefCap] est puissante et, avec le pouvoir, viennent des ennemis dangereux que nous préférerions ne pas partager."
- 
+
  austria.5014.t:0 "[AUS.GetNameDefCap] exige la Slovénie"
  austria.5014.d:0 "Les diplomates [AUS.GetAdjMP] ont rencontré notre prince et ont demandé le retour de la Slovénie à la domination [AUS.GetAdjFS]. Ils ont mis en garde contre les « répercussions diplomatiques » potentielles d'une réponse hâtive."
  austria.5014.a:0 "Nous ne pouvons pas nous permettre une guerre avec [AUS.GetNameDef]. Nous acceptons."
  austria.5014.b:0 "Ils n'oseraient pas insister, nous resterons fermes."
- 
+
  austria.5015.t:0 "Invitation [AUS.GetAdjFS] à une faction"
  austria.5015.d:0 "[AUS.GetNameDefCap] nous a contactés avec une proposition visant à consolider et à officialiser notre pacte défensif existant. Compte tenu de notre histoire récente de coopération, cela pourrait être à notre avantage mutuel."
  austria.5015.a:0 "Bien sûr. Les relations austro-yougoslaves n'ont jamais été meilleures."
  austria.5015.b:0 "Aussi bonnes que soient nos relations, nous ne souhaitons pas être tenus pour responsables de la défense des autres."
- 
+
  austria.5016.t:0 "Résistance croate"
  austria.5016.d:0 "Alors que les Croates étaient un Banat dans notre vieil empire, il semble qu'ils aient profité du changement de propriétaire pour commencer à former une résistance active contre nos forces."
  austria.5016.a:0 "Ils finiront bien par revenir à la raison."
- 
+
  austria.5017.t:0 "Nationalisme serbe"
  austria.5017.d:0 "Une fois de plus, les Serbes causent des problèmes à nos forces, sous la forme d'un sentiment nationaliste continu en faveur d'un concept malheureux de « Royaume de Serbie » une fois de plus. Ils ne montrent aucun signe de recul dans l'immédiat, alors nos forces doivent être en alerte."
  austria.5017.a:0 "Serbien muss sterbien !"
- 
+
  austria.5018.t:0 "Ultimatum transylvanien"
  austria.5018.d:0 "[AUS.GetNameDefCap] nous a demandé le retour de la Transylvanie à son règne. Ils ont déjà gouverné la région - mais la Grande Guerre a changé cela. La menace qu'ils posent maintenant, cependant, est très réelle."
  austria.5018.a:0 "Nous ne pouvons pas faire face à une guerre seul contre [AUS.GetNameDef]."
  austria.5018.b:0 "Après leur défaite dans la Grande Guerre, ils n'oseraient pas."
- 
+
  austria.5019.t:0 "[FROM.GetNameDefCap] refuse notre ultimatum"
  austria.5019.d:0 "Il semble que le gouvernement [FROM.GetAdjMS] ne reconnaît pas le pouvoir de la nation avec laquelle il traite, et ils ont donc refusé notre ultimatum, refusant d'accepter nos droits historiques à régner sur la Transylvanie."
  austria.5019.a:0 "Si la plume échoue, l'épée doit être tirée !"
- 
+
  austria.5020.t:0 "Des nationalistes roumains apparaissent en Transylvanie"
  austria.5020.d:0 "Apparemment mécontents du passage de la main des [ROM.GetHabitants] à celle des [AUS.GetHabitants], nous constatons une menace très réelle sur le terrain sous la forme d'une agitation nationaliste. Cela entravera quelque peu nos efforts pour intégrer pleinement la région."
  austria.5020.a:0 "Nous devons redoubler d'efforts."
- 
- austria.5021.t:0 "La Transylvanie est tombée !"
- austria.5021.d:0 "Nos forces ont réussi à sécuriser la province de Transylvanie. Cependant, même pendant les premières heures de notre occupation, il est devenu clair que ce ne sera pas une intégration facile du territoire."
- austria.5021.a:0 "Continuons de surveiller la situation."
- 
- austria.5022.t:0 "Les Balkans ont été écrasés !"
- austria.5022.d:0 "Après de nombreuses effusions de sang, les territoires dont notre Empire était destiné à régner ont été récupérés et, dans certains cas, nous avons même étendu l'empire de nos ancêtres. Bien que ce soit un grand jour pour tout l'Empire, les nouveaux citoyens sont très réticents à se joindre à nous dans nos célébrations jubilatoires."
- austria.5022.a:0 "Ils nous rejoindront à temps."
- 
+
  austria.5023.t:0 "[YUG.GetNameDefCap] a cédé la Slovénie"
  austria.5023.d:0 "Le gouvernement [YUG.GetAdjMS], que ce soit par crainte d'un conflit armé ou simplement parce qu'il s'est rendu compte que la terre ne lui appartenait pas de droit, a accepté nos demandes pour la Slovénie."
  austria.5023.a:0 "Une province de l'Empire une fois de plus !"
@@ -1351,8 +1080,8 @@ AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
 
  austria.5041.t:0 "Les [ITA.GetHabitants] ont refusé"
  austria.5041.d:0 "Prêt à tout parier sur leur victoire, [ITA.GetLeader] a refusé notre proposition de donner certaines terres en échange d'une aide dans leur guerre civile."
- austria.5041.a:0 "Nous sommes en guerre." 
- 
+ austria.5041.a:0 "Nous sommes en guerre."
+
  #Research
  AUS_support_weapons:0 "Schwarlose M. 7"
  AUS_support_weapons_desc:0 "La Maschinengewehr (Schwarzlose) M. 7, également connue sous le nom de Schwarzlose MG, est une mitrailleuse moyenne, utilisée comme arme à feu standard dans l'armée austro-hongroise pendant la Première Guerre mondiale. Elle a été utilisée par les armées Hollandaises, les Grecques et les Hongroises au cours Seconde Guerre mondiale. Elle était régulièrement distribuée aux troupes coloniales italiennes, à côté du fusil Mannlicher M1895."
@@ -1362,43 +1091,30 @@ AUS_red_agitators:0 "Agitateurs rouges dans le Nord"
  AUS_support_weapons3_desc:0 "Destinée à remplacer la version précédente de la MG 34, la MG 42 a fait ses preuves en matière de fiabilité, de durabilité, de simplicité et de facilité d'utilisation, mais elle se distingue surtout par sa capacité à produire un volume élevé de feu de suppression. La MG 42 affichait l'une des cadences cycliques moyennes les plus élevées de toutes les mitrailleuses portables : entre 1 200 et 1 500 tr / min, ce qui se traduisait par un signal de museau distinct par rapport au son d'une scie mécanique ou d'un linoléum déchirant."
  AUS_support_weapons4:0 "MG 45"
  AUS_support_weapons4_desc:0 "La MG 45 se distinguait de la MG 42 par le fait qu'elle n'avait pas complètement verrouillé la culasse avant le tir, augmentant sa cadence de tir et simplifiant sa construction. En 1945, les pénuries matérielles du Troisième Reich entraînèrent le développement d'une version plus récente du MG 42, la MG 45 (ou MG 42V). La MG 45 / 42V testée a tirée 120 000 cartouches successives à une cadence de tir d'environ 1 350 cartouches par minute."
- 
+
  AUS_tech_mountaineers:0 "Gebirgsjäger I"
  AUS_tech_mountaineers2:0 "Gebirgsjäger II"
  AUS_tech_mountaineers3:0 "Gebirgsjäger III"
- 
+
  AUS_paratroopers:0 "Jagdkommando I"
  AUS_paratroopers2:0 "Jagdkommando II"
  AUS_paratroopers3:0 "Jagdkommando III"
- 
+
  AUS_motorised_infantry:0 "Raupenschlepper Ost"
  AUS_motorised_infantry_desc:0 "Raupenschlepper Ost, littéralement « Tracteur chenillé - Est », est plus communément abrégé en RSO. Ce véhicule léger entièrement chenillé a été conçu pour remédier aux mauvaises performances des véhicules à roues et à demi chenillés dans la boue et la neige lors des premiers automne et hiver de la Wehrmacht sur le front soviétique."
- 
- AUS_interwar_artillery:0 "Artillerie de l'entre-deux-guerres"
- AUS_interwar_artillery_desc:0 "Les leçons tirées du développement de différents types d'artillerie peuvent être appliquées de manière croisée à la conception d'autres pièces."
- AUS_artillery1:0 "Artillerie I"
- AUS_artillery1_desc:0 "Avec des matériaux et des mécanismes plus modernes, les obusiers et les fusils de campagne de la Grande Guerre peuvent être reclassés et modernisés pour la guerre moderne."
- AUS_artillery2:0 "Amélioration de l'artillerie I"
- AUS_artillery2_desc:0 "L'amélioration d'anciennes pièces peut nous mener jusqu'à présent. De nouveaux modèles d'obusiers seront nécessaires, tirant parti des nouveaux dispositifs de recul hydraulique et des canons plus longs."
- AUS_artillery3:0 "Amélioration de l'artillerie II"
- AUS_artillery3_desc:0 "Pour permettre l'utilisation de canons plus lourds sur des voitures plus légères, des freins de bouche peuvent être inclus dans les conceptions d'obus."
- AUS_artillery4:0 "Artillerie IV"
- AUS_artillery4_desc:0 "Le développement d'une artillerie légère pouvant être brisée pour le transport permettra d'apporter un soutien d'artillerie à des zones auparavant difficiles à atteindre."
- AUS_artillery5:0 "Amélioration d'artillerie avancée"
- AUS_artillery5_desc:0 "Les modèles d'artillerie avec des silhouettes plus basses seront plus difficiles à cibler pour l'ennemi."
- 
+
  austrian_research_name:0 "Groupe de recherche du Pacte de défense des Alpes"
  austrian_research_desc:0 ""
- 
+
  #UNITS
  AUS_paratrooper:0 "Jagdkommando"
  AUS_paratrooper_desc:0 "En incorporant des forces aéroportées dans notre armée, nous pouvons faire des entrées forcées et positionner des troupes dans des zones auparavant inaccessibles, offrant ainsi de nouvelles opportunités tactiques."
  AUS_mountaineers:0 "Gebirgsjäger"
  AUS_mountaineers_desc:0 "Les combats dans les chaînes de montagnes exposent les troupes à de nombreux périls, mais sont parfois inévitables. En fournissant à nos soldats une formation spécialisée dans cet environnement, nous pouvons minimiser ces risques."
- 
+
  AUS_try_to_recruit_hungarian_officers:0 "Essayer de recruter des officiers hongrois"
  AUS_try_to_recruit_czech_officers:0 "Essayer de recruter des officiers tchèques"
- AUS_try_to_recruit_croat_officers:0 "Essayer de recruter des officiers croates" 
+ AUS_try_to_recruit_croat_officers:0 "Essayer de recruter des officiers croates"
  AUS_try_to_recruit_german_officers:0 "Essayer de recruter des officiers allemands"
  AUS_try_to_recruit_austrian_officers:0 "Essayer de recruter des officiers autrichiens"
 

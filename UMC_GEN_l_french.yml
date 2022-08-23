@@ -235,6 +235,8 @@
  GEN_Anti_Invasion:0 "Les forts protègent la nation"
  GEN_Anti_Invasion_desc:0 "La défense des principaux centres industriels et de recherche sera plus efficace si les emplacements les plus vulnérables peuvent être fortifiés et leur garnison étendue."
 
+ GEN_red_army:0 "L'armée rouge [ROOT.GetAdjFS]"
+ GEN_red_army_desc:0 "Seules les masses armées pourront se libérer."
 
  ########################## Other ##########################
 

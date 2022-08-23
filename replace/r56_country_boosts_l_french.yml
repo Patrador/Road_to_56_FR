@@ -44,7 +44,7 @@ l_french:
  custom_diff_strong_bul:0 "@BUL Renforcer la Bulgarie"
  custom_diff_strong_brm:0 "@BRM Renforcer la Birmanie"
  custom_diff_strong_brd:0 "@BRD Renforcer le Burundi"
- custom_diff_strong_bya:0 "@BYA Renforcer la Bouriatie" 
+ custom_diff_strong_bya:0 "@BYA Renforcer la Bouriatie"
 
  ###---> Minors: C <><> <><> <><>
  custom_diff_strong_cam:0 "@CAM Renforcer le Cambodge"
@@ -243,6 +243,7 @@ l_french:
  ###---> Factions <><> <><> <><>
  custom_diff_strong_allies:0 "@ENG @FRA @USA Renforcer les Alliés"
  custom_diff_strong_axis:0 "@GER @JAP @ITA Renforcer l'Axe"
+ custom_diff_strong_comintern:0 "@SOV @MON @TAN Renforcer le Komintern"
 
  ###---> Regions (Unused) <><> <><> <><>
  custom_diff_strong_africa:0 "Renforcer l'Afrique"

@@ -7,16 +7,6 @@
 
  OVERLORD_TRIGGER:0 "Overlord"
 
- axis_minors.1.t:0 "Fête de l'indépendance"
- axis_minors.1.desc:0 "Nous sommes maintenant une nation dotée d'un gouvernement indépendant qui doit prendre ses premières décisions politiques. D'autres pays ont eu des années pour s'organiser politiquement et préparer leurs armées alors que nous devons accomplir la même chose en quelques jours."
- axis_minors.1.a:0 "Nous avons encore le temps de nous préparer à la tempête à venir."
- axis_minors.1.b:0 "Formons un gouvernement."
- axis_minors.1.c:0 "Formons un gouvernement."
- axis_minors.1.d:0 "Formons un gouvernement."
- axis_minors.1.e:0 "Formons un gouvernement."
- axis_minors.1.f:0 "Formons un gouvernement."
- axis_minors.1.g:0 "Formons un gouvernement."
-
  axis_minors_balance_event_tooltip:0 "Cet événement accorde du poids politique sur la base de l'année en cours pour compenser partiellement le pouvoir politique non acquis lorsque le pays était inexistant.\n"
 
  ##Add in focus tree fight between German influenced and more radical Hlinka guard, more and more imitating the SS and the Slovak Popular Party (still fascist)
@@ -163,8 +153,8 @@
 
  axis_minors_ruthenia.7.t:0 "[RUT.GetNameDefCap] demande l'unification"
  axis_minors_ruthenia.7.desc:0 "[RUT.GetLeader], le dirigeant de ce qui était le territoire le plus extrême de la Tchécoslovaquie exige que le territoire [RUT.GetAdjMS] soit incorporé à l'Ukraine"
- axis_minors_ruthenia.7.a:0 "Parfait."
- axis_minors_ruthenia.7.b:0 "Refuser."
+ axis_minors_ruthenia.7.a:0 "Nous allons unir tous les Ukrainiens."
+ axis_minors_ruthenia.7.b:0 "Ce n'est pas pour nous."
  #Croatia
 
  axis_minors_croatia.1.t:0 "La Réunion avec [YUG.GetNameDef]"

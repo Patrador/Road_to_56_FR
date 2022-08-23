@@ -1,6 +1,22 @@
 ﻿#####-----> Organized by Abbus <><> <><> <><>
 
 l_french:
+
+ advanced_main_battle_tank_chassis:0 "Châssis de char moderne avancé"
+ advanced_modern_tank_chassis_desc:0 "Une nouvelle ère pour le développement des blindés signifie que, contrairement aux précédentes conceptions de chars moyens, il permet d'être rapide et maniable tout en ayant une grande quantité de blindage et une grande puissance de feu. Il en résulte un véhicule fiable qui peut agir comme une conception définitive et jouer un rôle sur toutes les parties du champ de bataille."
+ modern_tank_chassis_2:0 "Châssis de char moderne avancé"
+ modern_tank_equipment_2:0 "Char moderne avancé"
+ tank_designer_advanced_modern_tank_chassis:0 "Char moderne"
+
+ engine_tech_5:0 "Moteur moderne avancé"
+ engine_tech_5_desc:0 "En raison des nombreuses améliorations apportées aux blindages et aux armements, il est nécessaire de développer des moteurs puissants pour supporter le poids et la suspension de ces véhicules tout en parvenant à les garder rapides et maniables."
+ engine_tech_5_tt:0 "Permet les valeurs d'amélioration du moteur de 20 et plus."
+
+ armor_tech_5:0 "Protection blindée moderne avancée"
+ armor_tech_5_desc:0 "Les armements des chars et les armes antichars devenant de plus en plus puissants, il est nécessaire que la coque blindée des véhicules puisse protéger plus efficacement la coque et l'équipage."
+ armor_tech_5_tt:0 "Permet les valeurs d'amélioration du blindage de 20 et plus."
+
+
  amphibious_tank_equipment:0 "Chars amphibies"
  amphibious_tank_equipment_short:0 "Chars amphibies"
  amphibious_tank_equipment_1:0 "Char amphibie 40"

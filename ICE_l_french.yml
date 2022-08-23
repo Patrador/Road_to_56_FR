@@ -27,7 +27,7 @@
  ICE_destroyer_tech:0 "Priorité aux destroyers"
  ICE_nuclear:0 "Priorité au nucléaire"
  ICE_rocketry2:0 "Fusées d'entraînement"
- 
+
  ICE_look_den_tt:0 "Améliore l'opinion et le commerce avec le Danemark."
  ICE_close_eng_tt:0 "Améliore l'opinion et le commerce avec la Grande-Bretagne."
  ICE_close_usa_tt:0 "Améliore l'opinion et le commerce avec les États-Unis."
@@ -43,7 +43,7 @@
  ICE_carrier_tt:0 "Crée un §Yporte-avion§! ainsi que §G25§! §Ybombardier-torpilleurs§! et §G25§! §Ychasseurs embarqués§!. Les modèles seront les plus récemment recherchés."
  ICE_rocket_effort_tt:0 "Réduit la pénalité d'avance de §G-100%§! ou confère un avantage sur la recherche de §G50%§!. Valable pour les §Y2§! prochaines recherches technologiques en : §YRoquettes§!."
  ICE_no_six:0 "§RVous ne recevrez pas de sixième emplacement de recherche si vous en avez déjà cinq.§!"
- 
+
  ICE_roads_program:0 "Programme routier"
  ICE_roads_program_desc:0 "L'Islande est toujours un pays où la population est séparée. Nous ne disposons pas des infrastructures nécessaires pour transporter notre peuple entre nos grandes villes et nos villages. Cela doit changer, maintenant."
  ICE_look_den:0 "Se tourner vers le Danemark"
@@ -212,9 +212,9 @@
  ICE_steel_mill_desc:0 "Jusqu'à présent, l'Islande ne disposait pas de l'infrastructure ni de la technologie nécessaires pour développer une véritable aciérie. Maintenant que nous disposons de cette infrastructure et de cette technologie, il est temps que nous l'utilisions."
  ICE_discoveries:0 "Pensée industrielle"
  ICE_discoveries_desc:0 "L'Islande a passé de nombreuses années derrière d'autres pays lorsqu'il s'agissait de construire de grandes installations modernes. Toutefois, nos recherches sur les nouvelles techniques et méthodes de construction ont permis de réaliser des avancées dans tout notre pays."
- 
+
  #IDEAS
- 
+
  ICE_disloyal:0 "Sujet déloyal"
  ICE_disloyal_desc:0 "Ce pays souhaite se libérer de son suzerain, mais pas nécessairement immédiatement."
  ICE_disloyal_democratic:0 "Sujet déloyal"
@@ -229,34 +229,34 @@
  ICE_disloyal_fascism_desc:0 "Ce pays souhaite se libérer de son suzerain. Le nationalisme et les idées de suprématie sont devenus des éléments de base dans le débat national, certaines protestations devenant même violentes."
  ICE_disloyal_fascism2:0 "Sujet déloyal"
  ICE_disloyal_fascism2_desc:0 "Ce pays souhaite se libérer de son suzerin. Le nationalisme et les idées de suprématie sont devenus des éléments de base dans le débat national, certaines protestations devenant même violentes."
- 
+
  ICE_christian_x:0 "Christian X"
  ICE_christian_x_desc:0 "En dépit de son statut controversé au Danemark et le désir croissant de liberté de l'Islande, Christian X reste l'un des monarques danois les plus populaires de l'histoire moderne de l'Islande."
- 
+
  ICE_internal_conflicts:0 "Conflits au sein du parti"
  ICE_internal_conflicts_desc:0 "Bien que le parti au pouvoir affiche une politique forte face à ses ennemis, il est en fait affaibli par des luttes internes et des désaccords."
- 
+
  ICE_fascist_youth:0 "Programmes pour la jeunesse"
  ICE_fascist_youth_desc:0 "Les jeunes sont l'avenir de ce pays. Ils doivent être formés de manière à être prêts à faire le maximum pour sa défense."
- 
+
  ICE_ger_mil:0 "Conseillers allemands"
  ICE_ger_mil_desc:0 "L'armée de ce pays est conseillée par des officiers allemands expérimentés."
- 
+
  ICE_recycle:0 "Programmes de recyclage"
  ICE_recycle_desc:0 "Ce pays applique une politique stricte de refus des déchets, en utilisant tous les matériaux disponibles et en désapprouvant fortement les déchets qui ne peuvent être réutilisés d'une manière ou d'une autre."
- 
+
  ICE_den_investment:0 "Investissement danois"
  ICE_den_investment_desc:0 "Le Danemark a un intérêt direct dans ce pays."
  ICE_den_investment2:0 "Investissement danois"
  ICE_den_investment2_desc:0 "Le Danemark a un intérêt direct dans ce pays."
  ICE_den_investment3:0 "Investissement danois"
  ICE_den_investment3_desc:0 "Le Danemark a un intérêt direct dans ce pays."
- 
+
  ICE_icelandic_neutrality:0 "Neutralité islandaise"
  ICE_icelandic_neutrality_desc:0 "Ce pays croit fermement en sa neutralité et il est très peu probable qu'il soit impliqué dans une quelconque guerre."
  ICE_icelandic_neutrality2:0 "Neutralité islandaise"
  ICE_icelandic_neutrality2_desc:0 "Ce pays croit très fortement en sa neutralité. À moins d'être directement attaqués, ils n'iront jamais en guerre et défendront cette position au mieux."
- 
+
  ICE_armour_focused:0 "Doctrine des blindés"
  ICE_armour_focused_desc:0 "Ce pays a adopté le fait d'avoir une armée entièrement mécanisée."
  ICE_mountain_strong:0 "Infanterie de montagne régulière"
@@ -264,11 +264,11 @@
  ICE_marine_strong:0 "Marines réguliers."
  ICE_marine_strong_desc:0 "Attaque légère des marines : §G+5%§!\nMatériel d'infanterie nécessaire pour les marines : §G-50§!"
  ICE_para_strong:0 "Parachutistes réguliers"
- ICE_para_strong_desc:0 "Attaque légère des parachutistes : §G+5%§!\nMatériel d'infanterie nécessaire pour les parachutistes : §G-30§!" 
+ ICE_para_strong_desc:0 "Attaque légère des parachutistes : §G+5%§!\nMatériel d'infanterie nécessaire pour les parachutistes : §G-30§!"
  ICE_elite_forces_1:0 "Armée d'élite"
  ICE_elite_forces_2:0 "Forces d'élite"
- ICE_elite_forces_2_desc:0 "Attaque légère de l'infanteries de montagne : §G+5%§!\nMatériel d'infanterie nécessaire pour l'infanterie de montagne : §G-40§!\nAttaque légère des marines : §G+5%§!\nMatériel d'infanterie nécessaire pour les marines : §G-50§!\nAttaque légère des parachutistes : §G+5%§!\nMatériel d'infanterie nécessaire pour les parachutistes : §G-30§!" 
- 
+ ICE_elite_forces_2_desc:0 "Attaque légère de l'infanteries de montagne : §G+5%§!\nMatériel d'infanterie nécessaire pour l'infanterie de montagne : §G-40§!\nAttaque légère des marines : §G+5%§!\nMatériel d'infanterie nécessaire pour les marines : §G-50§!\nAttaque légère des parachutistes : §G+5%§!\nMatériel d'infanterie nécessaire pour les parachutistes : §G-30§!"
+
  ICE_home_defense:0 "Défense du territoire"
     ICE_home_defense2:0 "Défense du territoire"
     ICE_home_defense3:0 "Défense du territoire"
@@ -281,17 +281,17 @@
     ICE_home_defense10:0 "Défense du territoire"
     ICE_home_defense11:0 "Défense du territoire"
     ICE_home_defense12:0 "Défense du territoire"
-    
+
  ICE_akureyi:0 "École de formation d'Akureyi"
  ICE_akureyi_desc:0 "Située en Islande, cette école enseigne aux recrues comment se battre dans les environnements les plus difficiles."
-    
+
  ICE_idea_shieldmaidens:0 "Skjaldmö"
  ICE_idea_shieldmaidens_desc:0 "Ce pays recrute activement des femmes dans l'armée et les fait combattre en première ligne."
- 
+
  ICE_war_economics:0 "Économie de la guerre totale"
- 
+
  ICE_wolf_hunter:0 "Chasseurs de loups"
- 
+
  ICE_magnus_jonsson:0 "Magnús Jónsson"
  ICE_einar_olgeirsson:0 "Einar Olgeirsson"
  ICE_stefan_stefansson:0 "Stefán Stefánsson"
@@ -317,7 +317,7 @@
  ICE_flugfelag_akureyrar:0 "Flugfélag Akureyrar"
  ICE_eysteinn_jonsson:0 "Eysteinn Jónsson"
  ICE_asgeir_asgeirsson:0 "Ásgeir Ásgeirsson"
- 
+
  #LEADERS
  ICE_hermann_jonasson:0 "Hermann Jónasson"
  ICE_gisli_sigurbjornsson:0 "Gísli Sigurbjörnsson"
@@ -325,11 +325,11 @@
  ICE_jon_baldvinsson:0 "Jón Baldvinsson"
  ICE_sveinn_bjornsson:0 "Sveinn Björnsson"
  ICE_tryggvi_porhallsson:0 "Tryggvi Þórhallsson"
- 
+
  #EVENTS
  ICE_combined_arms:0 "Sur l'air et la mer"
- ICE_naval_supremacy:0 "Suprématie navale" 
- 
+ ICE_naval_supremacy:0 "Suprématie navale"
+
  SCA_iceland.1:0 "Envisager une invasion de l'Islande"
  SCA_iceland.1.t:0 "Envisager une invasion de l'Islande"
  SCA_iceland.1.desc:0 "Le Danemark est tombé, mais leur fantoche, l'Islande, reste libre de toute interférence allemande. Cependant, nous disposons de rapports fiables qui suggèrent que l'Allemagne pourrait s'intéresser à l'Islande comme terrain d'entraînement pour une invasion de l'Écosse. Malgré les efforts de nos diplomates, l'Islande reste fermement neutre dans ce conflit. Cela a conduit à des appels à une invasion de l'Islande pour forcer leur respect."
@@ -340,13 +340,13 @@
     SCA_iceland.2.desc:0 "La Grande-Bretagne nous a lancé un ultimatum. Soit nous permettons à ses troupes de se mettre en garnison dans notre pays et d'utiliser nos ports, soit ils nous forcent à le faire."
     SCA_iceland.2.a:0 "Nous n'avons donc guère le choix."
     SCA_iceland.2.b:0 "JAMAIS ! (Le Royaume-Uni déclare la guerre [ROOT.GetAuAlaAlNP] [ROOT.GetName])"
-    
+
  SCA_iceland.3:0 "L'Islande affirme son soutien à la démocratie"
  SCA_iceland.3.t:0 "L'Islande affirme son soutien à la démocratie"
  SCA_iceland.3.desc:0 "Dans une récente déclaration, le leader du Alþýðuflokkurinn a déclaré son soutien à la pleine indépendance de l'Islande et a appelé à la tenue d'un référendum dans les plus brefs délais. Les dirigeants des autres partis se sont ralliés à cet appel."
  SCA_iceland.3.a:0 "LIBERTÉ !"
     SCA_iceland.3.a.tt:0 "Le Sjálfstæðisflokkurinn devient le parti démocratique."
- 
+
  SCA_iceland.4:0 "L'Islande demande des volontaires"
  SCA_iceland.4.t:0 "L'Islande demande des volontaires"
  SCA_iceland.4.desc:0 "L'un de nos petits partenaires, l'Islande, a demandé des volontaires pour les aider à faire avancer la révolution. Bien qu'elle ne soit pas puissante, l'Islande est située dans un endroit extrêmement stratégique près des îles britanniques, et leur fournir des hommes peut être un excellent moyen de nous préparer à une éventuelle confrontation avec les impérialistes."
@@ -365,26 +365,26 @@
     SCA_iceland.7.t:0 "[SOV.GetLeLaLNPCap] [SOV.GetName] envoie peu de volontaires"
     SCA_iceland.7.desc:0 "[SOV.GetLeLaLNPCap] [SOV.GetName] a répondu à notre demande de volontaires. [SOV.GetLeader] a envoyé une lettre d'excuses pour ne pas nous avoir envoyé officiellement d'hommes. Cependant, [SOV.GetLeader] dit qu'ils ont pu fournir un transport et quelques provisions à ceux qui souhaitaient faire le voyage jusqu'à nos côtes."
     SCA_iceland.7.a:0 "C'est mieux que rien."
- 
+
  SCA_iceland.8:0 "Coup d'État fasciste"
  SCA_iceland.8.t:0 "Le coup d'État de Flokkur Þjóðernissinna"
  SCA_iceland.8.desc:0 "Aujourd'hui, les membres du Flokkur Þjóðernissinna ont organisé un coup d'État soudain contre le gouvernement. Prétendant représenter la « volonté du peuple », Gísli Sigurbjörnsson s'est proclamé le nouveau chef du gouvernement qui doit être restructuré pour s'éloigner du modèle parlementaire et se diriger vers un modèle corporatiste avec Gísli Sigurbjörnsson à sa tête. Bien qu'il y ait des rumeurs de mécontentement au sein du parti, leur suprématie est définitivement incontestée, du moins pour l'instant."
  SCA_iceland.8.a:0 "L'Islande sera amenée à une nouvelle ère de grandeur."
- 
+
  SCA_iceland.9:0 "Débat sur les gardes-côtes"
  SCA_iceland.9.t:0 "Débat sur les gardes-côtes"
  SCA_iceland.9.desc:0 "Les garde-côtes islandais ne sont pas une marine au sens littéral du terme. Ils protègent nos côtes et nos cieux, mais leur travail est resté celui d'une force de protection et de garde. Il est temps que nous décidions une fois pour toutes s'ils sont vraiment une force de garde, ou bien la marine et l'armée de l'air islandaises."
  SCA_iceland.9.a:0 "Ils sont les deux à la fois."
  SCA_iceland.9.b:0 "Ils sont notre marine, avant tout."
- 
+
  SCA_iceland.100:0 "Neutralité de l'Islande"
  SCA_iceland.100.t:0 "Neutralité de l'Islande"
  SCA_iceland.100.desc:0 "Le Danemark, notre partenaire dans l'Union du Danemark et de l'Islande, est tombé aux mains des envahisseurs allemands. Bien que le gouvernement reste le même, nous ne pouvons pas tenir compte de ce qu'ils disent, car cela viendra de la bouche du Reich. L'Islande reste toujours neutre dans le conflit, mais les batailles se rapprochent de plus en plus de nos côtes, et certains font pression pour que nous aidions à venger nos frères tombés au combat."
  SCA_iceland.100.a:0 "Nous resterons neutres."
  SCA_iceland.100.b:0 "Les Allemands ont outrepassé leurs limites, à la guerre!"
- 
+
  SCA_can_decline_tt:0 "Fixe la règle : £trigger_yes Peut refuser l'appel aux armes.\n"
- 
+
  #MODIFIERS
  ICE_loyal_subject:0 "Sujet loyal"
  ICE_loyal_subject2:0 "Sujet loyal"
@@ -392,7 +392,7 @@
  ICE_like_brits2:0 "Liens britanniques"
  ICE_like_us:0 "Liens américains"
  ICE_like_us2:0 "Liens américains"
- 
+
  #RESEARCH
  ICE_elite_mountaineers:0 "Infanterie de montagne d'élite"
  ICE_elite_mountaineers_desc:0 "En utilisant des tactiques avancées et en se spécialisant dans l'utilisation des ressources locales, nos infanteries de montagne sont maintenant mieux équipées pour faire face à leurs ennemis et avec moins de ressources."
@@ -406,6 +406,7 @@
  DEN_ICE_research_group_desc:0 "Réduit le temps de recherche pour les technologies étudiées par le Danemark et l'Islande."
  DEN_ICE_research_group2:0 "Programme d'échange global dano-islandais"
  DEN_ICE_research_group2_desc:0 "Réduit le temps de recherche pour les technologies étudiées par le Danemark et l'Islande."
- 
+
  #MISC
  ICE_elite_infantry:0 "Yfirstétt Fótgöngulið"
+ ICE_futile_resistance:0 "Résistance futile"

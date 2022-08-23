@@ -170,59 +170,31 @@
  #BEL
  #Zuid-Dietsland (if the Netherlands is not controlled by BEL)
  BEL2_fascism:0 "Zuid-Dietsland"
- BEL2_fascism_DEF:0 "het Zuid-Dietsland"
+ BEL2_fascism_DEF:0 "le Zuid-Dietsland"
  BEL2_communism:0 "République populaire de Belgique"
  BEL2_communism_DEF:0 "la République populaire de Belgique"
- BEL2_democratic:0 "Royaume de Belgique"
- BEL2_democratic_DEF:0 "le Royaume de Belgique"
- BEL2_neutrality:0 "Royaume de Belgique"
- BEL2_neutrality_DEF:0 "le Royaume de Belgique"
  BEL2_fascism_ADJ:0 "Zuid-Diets"
- BEL2_communism_ADJ:0 "belge"
- BEL2_democratic_ADJ:0 "belge"
- BEL2_neutrality_ADJ:0 "belge"
  #Thiois Empire
  BEL3_fascism:0 "Empire thiois"
  BEL3_fascism_DEF:0 "l'Empire thiois"
  BEL3_communism:0 "République populaire de Belgique"
  BEL3_communism_DEF:0 "la République populaire de Belgique"
- BEL3_democratic:0 "Royaume de Belgique"
- BEL3_democratic_DEF:0 "le Royaume de Belgique"
- BEL3_neutrality:0 "Royaume de Belgique"
- BEL3_neutrality_DEF:0 "le Royaume de Belgique"
+ BEL3_fascism_ADJ:0 "thiois"
  BEL3_GER_fascism_subject:0 "État de Bourgogne"
  BEL3_GER_fascism_subject_DEF:0 "l'État de Bourgogne"
  BEL3_GER_fascism_subject_ADJ:0 "bourguignon"
- BEL3_fascism_ADJ:0 "thiois"
- BEL3_democratic_ADJ:0 "belge"
- BEL3_communism_ADJ:0 "belge"
- BEL3_neutrality_ADJ:0 "belge"
  #Dietsche Rijk
  BEL4_fascism:0 "Dietsche Rijk"
- BEL4_fascism_DEF:0 "het Dietsche Rijk"
+ BEL4_fascism_DEF:0 "le Dietsche Rijk"
+ BEL4_fascism_ADJ:0 "Dietsche"
  BEL4_communism:0 "Union des Pays-Bas socialistes"
  BEL4_communism_DEF:0 "l'Union des Pays-Bas socialistes"
- BEL4_democratic:0 "Royaume de Belgique"
- BEL4_democratic_DEF:0 "le Royaume de Belgique"
- BEL4_neutrality:0 "Royaume de Belgique"
- BEL4_neutrality_DEF:0 "le Royaume de Belgique"
- BEL4_fascism_ADJ:0 "Dietsche"
- BEL4_communism_ADJ:0 "belge"
- BEL4_democratic_ADJ:0 "belge"
- BEL4_neutrality_ADJ:0 "belge"
  #Dietsland
  BEL5_fascism:0 "Dietsland"
- BEL5_fascism_DEF:0 "het Dietsland"
+ BEL5_fascism_DEF:0 "le Dietsland"
+ BEL5_fascism_ADJ:0 "Dietsche"
  BEL5_communism:0 "Union des Pays-Bas socialistes"
  BEL5_communism_DEF:0 "l'Union des Pays-Bas socialistes"
- BEL5_democratic:0 "Royaume de Belgique"
- BEL5_democratic_DEF:0 "le Royaume de Belgique"
- BEL5_neutrality:0 "Royaume de Belgique"
- BEL5_neutrality_DEF:0 "Royaume de Belgique"
- BEL5_fascism_ADJ:0 "Diets"
- BEL5_communism_ADJ:0 "belge"
- BEL5_democratic_ADJ:0 "belge"
- BEL5_neutrality_ADJ:0 "belge"
 
  #BOL
  BOL_BRA_autonomy_integrated_puppet:0 "Estado do Aímara"
@@ -760,7 +732,7 @@
  #HOL
  #Dietschland
  HOL2_fascism:0 "Dietschland"
- HOL2_fascism_DEF:0 "het Dietschland"
+ HOL2_fascism_DEF:0 "le Dietschland"
  HOL2_communism:0 "Provinces unies populaires des Pays-Bas"
  HOL2_communism_DEF:0 "les Provinces unies populaires des Pays-Bas"
  HOL2_democratic:0 "Royaume-Uni des Pays-Bas"
@@ -884,8 +856,8 @@
  SCA_UNIFIED_democratic_DEF:0 "la Fédération scandinave"
  SCA_UNIFIED_fascism:0 "Empire scandinave"
  SCA_UNIFIED_fascism_DEF:0 "l'Empire scandinave"
- SCA_UNIFIED_communism:0 "Union scandinave des États socialistes"
- SCA_UNIFIED_communism_DEF:0 "l'Union scandinave des États socialistes"
+ SCA_UNIFIED_communism:0 "Union scandinave des républiques socialistes"
+ SCA_UNIFIED_communism_DEF:0 "l'Union scandinave des républiques socialistes"
  SCA_UNIFIED_ADJ:0 "scandinave"
  SCA_UNIFIED_fascism_ADJ:0 "scandinave"
 
@@ -985,6 +957,7 @@
  SPR_Juan_democratic:0 "Royaume d'Espagne"
  SPR_Juan_democratic_def:0 "le Royaume d'Espagne"
 
+ #SWE
  #SWI
  #Swabia
  SWI_mori_union_neutrality:0 "Confédération souabe"
@@ -1378,8 +1351,8 @@
  NDC_UNIFIED_fascism_DEF:0 "l'Empire nordique"
  NDC_UNIFIED_democratic:1 "Ligue nordique"
  NDC_UNIFIED_democratic_DEF:1 "la Ligue nordique"
- NDC_UNIFIED_communism:0 "Union nordique des États socialistes"
- NDC_UNIFIED_communism_DEF:0 "l'Union nordique des États socialistes"
+ NDC_UNIFIED_communism:0 "Union nordique des républiques socialistes"
+ NDC_UNIFIED_communism_DEF:0 "l'Union nordique des républiques socialistes"
  NDC_UNIFIED_ADJ:0 "nordique"
 
  #NWND
@@ -2110,7 +2083,7 @@
  #MON
  MON_SOV_REPUBLIC_communism:0 "République socialiste soviétique de Mongolie"
  MON_SOV_REPUBLIC_communism_DEF:0 "la République socialiste soviétique de Mongolie"
- MON_SOV_REPUBLIC_communism_ADJ:0 "mongol soviétique"
+ MON_SOV_REPUBLIC_communism_ADJ:0 "mongol"
 
  MON_BOGD_KHANATE_communism:0 "Khanat populaire de Mongolie"
  MON_BOGD_KHANATE_communism_DEF:0 "le Khanat populaire de Mongolie"

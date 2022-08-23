@@ -262,7 +262,7 @@
  JAP_r56_nanshin_ron:0 "Nanshin-ron"
  JAP_r56_nanshin_ron_desc:0 ""
  jap_r56_hokushin_ron:0 "Hokushin-ron"
- jap_r56_hokushin_ron:0 ""
+ jap_r56_hokushin_ron_desc:0 "Nous lutterons contre le plus grand mal jusqu'à la fin des temps !"
 
   ###################### EVENTS FROM KMT (SUNFALL - JAPANESE CIVIL WAR AND STUFF) ######################
  jap.1.t:0 "La Kodoha a lancé un coup d'État !"

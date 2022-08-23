@@ -49,6 +49,8 @@
 
  LIT_GATHERING_STORM_DESC:0 "Née au lendemain de la Grande Guerre, la Lituanie s'est trouvée dans une position difficile. Non seulement elle a failli être annexée au projet colonial de l'Ober Ost allemand, mais en plus, les Polonais ont réussi à prendre le pouvoir et à annexer Vilnius au nouvel État polonais. Contrairement à tous les pays de la région principalement préoccupés par les ambitions des nazis et un éventuel retour de l'URSS, le pays est aussi dépourvu de sa capitale officielle, occupée par ceux qui ont été ses partenaires pendant des siècles..."
 
+ SWE_GATHERING_STORM_DESC:0 "Ayant été neutre pendant la Grande Guerre, la Suède est restée indemne au lendemain du conflit qui a ravagé l'Europe et vu la chute des empires sur tout le continent.\n\nMême pas trente ans ont passé et déjà une nouvelle tempête se prépare à l'horizon. Les fascistes au sud se préparent à une nouvelle guerre, et à l'est, l'ours russe sommeille, pour l'instant. Des jours sombres nous attendent, et la voie de la Suède est à nouveau incertaine."
+
  ###---> Scenario Names <><> <><> <><>
  FE_SELECT_SCENARIO:0 "Le scénario"
  GATHERING_STORM_NAME:0 "La tempête s'annonce"
