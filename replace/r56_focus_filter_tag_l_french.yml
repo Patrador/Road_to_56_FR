@@ -11,3 +11,5 @@
  FOCUS_FILTER_MILITARY_EQUIPMENT:0 "Équipement militaire"
  FOCUS_FILTER_MILITARY_IMPROVEMENT:0 "Amélioration militaire"
  FOCUS_FILTER_ALLIANCE:0 "Alliance"
+ FOCUS_FILTER_INFLUENCE_INCREASE:0 "Augmentation de l'influence"
+ FOCUS_FILTER_INFLUENCE_DECREASE:0 "Diminution de l'influence"

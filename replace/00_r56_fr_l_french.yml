@@ -14,10 +14,6 @@ l_french:
  MECHANIZED_INFRANTRY:0 "Infanterie mécanisée"
  TRAINS_RAILWAYS:0 "Trains & Rails"
 
- # Doctrine terrestre
- ASYMMETRICAL_WARFARE_DOCTRINE:0 "DOCTRINE DE LA GUERRE ASYMÉTRIQUE"
- ASYMMETRICAL_WARFARE_DOCTRINE_DESC:0 "Contre des armées plus puissantes, nous devons déjouer tactiquement nos ennemis et leur faire payer le prix des combats dans notre pays."
-
  # Aérien
  AIR_TITLE_CV_FIGHTER:0 "Chasseur embarqué"
  AIR_TITLE_DIVE_BOMBER:0 "Bomb. en piqué"

@@ -132,23 +132,3 @@ ind_prep2:0 "Préparation industrielle II"
 ind_prep2_desc:0 "Les Balkans n'ont jamais été considérés comme une puissance industrielle, nous devons changer cela."
 claim_bulg:0 "L'irrédentisme yougoslave"
 claim_bulg_desc:0 "Nous avons le droit d'être la locomotive des Balkans. Il y a de nombreux endroits dans les Balkans qui nous reviennent de droit et nous les revendiquerons."
-
-#### EVENTS ####
-
-news.6969.t:0 "La Yougoslavie rejoint l'Axe"
-news.6969.d:0 "La Yougoslavie, foyer des Slaves du Sud, a décidé que la meilleure voie pour sa nation était de rejoindre l'Allemagne et l'Axe. Sa demande a été acceptée."
-news.6969.a:0 "Intéressant"
-
-news.6970.t:0 "La Yougoslavie rejoint les Alliés"
-news.6970.d:0 "La Yougoslavie, foyer des Slaves du Sud, a décidé que la meilleure voie pour sa nation était de rejoindre le Royaume-Uni et les Alliés. Sa demande a été acceptée."
-news.6970.a:0 "Intéressant"
-
-#germany.6969.t:0 "La Yougoslavie demande à rejoindre l'Axe"
-#germany.6969.d:0 "Le nouveau gouvernement yougoslave souhaite aider notre effort face au reste du monde. Ils ont dépêché un envoyé diplomatique pour discuter de ces questions."
-#germany.6969.a:0 "Un pays de plus pour la chair à canon."
-#germany.6969.b:0 "Nous ne pouvons pas travailler avec des Slaves !"
-
-#britain.6970.t:0 "La Yougoslavie demande à rejoindre les Alliés"
-#britain.6970.d:0 "Le nouveau gouvernement yougoslave souhaite contribuer à notre effort contre les ennemis de la démocratie. Ils ont dépêché un envoyé diplomatique pour discuter de ces questions."
-#britain.6970.a:0 "Un allié dans les Balkans est une excellente idée."
-#britain.6970.b:0 "Ils n'ont rien à apporter à notre effort."

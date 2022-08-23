@@ -1,6 +1,8 @@
 ﻿l_french:
 volkssturm:0 "Renforcer le Volkssturm" #Vanilla Overide
 #New Localisation
+ASYMMETRICAL_WARFARE_DOCTRINE:0 "DOCTRINE DE LA GUERRE ASYMÉTRIQUE"
+ASYMMETRICAL_WARFARE_DOCTRINE_DESC:0 "Contre des armées plus puissantes, nous devons déjouer tactiquement nos ennemis et leur faire payer le prix des combats dans notre pays."
 cat_r56_guerilla_warfare:0 "Doctrine de la guerre asymétrique"
 r56_guerilla_warfare:0 "Guerre asymétrique"
 r56_guerilla_warfare_desc:0 "Nous devons changer le mode de fonctionnement de nos forces armées. Le fait est que les armées avec lesquelles nous pourrions entrer en guerre sont largement supérieures à nous. Nous devons adopter une approche asymétrique de la guerre si nous voulons avoir une chance."

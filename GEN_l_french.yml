@@ -160,6 +160,7 @@ state_in_soviet_far_east_tt:0 "Est dans l'extrême orient [SOV.GetAdjMS]"
 state_in_soviet_far_east_mongolia_sinkiang_tibet_tt:0 "Est dans l'extrême orient [SOV.GetAdjMS], en Mongolie, au Xinjiang ou au Tibet"
 state_in_indochina_malaysia_indonesia_raj_tt:0 "Est en §HIndochine§!, §HMalaisie§!, §HIndonésie§!, §HPhilippines§! ou dans l'§Hancien Raj britannique§!"
 state_in_indochina_except_siam_tt:0 "Est dans la région stratégique d'§HIndochine§! à l'exception du Siam proprement dit"
+state_is_in_central_asia_greater_steppe_siberia_tt:0 "Est en §HAsie centrale§!, dans la §HGrande steppe§!, en §HChine centrale§! ou dans le §HTrans-Oural§!"
 
 state_not_in_indochina_malaysia_indonesia_raj_tt:0 "§HN'EST PAS§! en §HIndochine§!, §HMalaisie§!, §HIndonésie§!, §HPhilippines§! ou dans l'§Hancien Raj britannique§!"
 
@@ -169,3 +170,8 @@ is_subject_extra_tt:0 "Est un §HÉtat fantoche§!"
 has_reformed_ottoman_empire_tt:0 "A réformé l'§HEmpire ottoman§!"
 
 GEN_control_of_these_states_is_required_to_form_the_nation:0 "Contrôler ces États est nécessaire pour former une nouvelle nation"
+
+is_core_or_compliance_30_tt:0 "est un État national de son §Ycontrôleur§! ou a §Y30 d'accomodement§!\n"
+is_core_or_compliance_30_tt_NOT:0 "n'est PAS un État national de son §Ycontrôleur§! ou a §Y30 d'accomodement§!\n"
+
+state_has_compliance_30_tt:0 "a §Y30 d'accomodement§!\n"

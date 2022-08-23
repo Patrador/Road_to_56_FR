@@ -11,3 +11,7 @@ r56_militia_tech_desc:0 "La milice est une force terrestre informelle qui peut �
 r56_militia_tt:0 "Permet les §Ymilices§!"
 mot_shocktroop:0 "Troupes de choc motorisées"
 mot_shocktroop_desc:0 "Les troupes de choc motorisées peuvent se frayer un passage dans les lignes ennemies. Ceci est presque essentiel à toute forme de combat en profondeur et peut contribuer grandement à désorganiser les défenseurs."
+mech_shocktroop:0 "Troupes de choc mécanisées"
+mech_shocktroop_desc:0 "Les troupes de choc mécanisées font appel à l'exploitation et à la mobilité, et sont capables d'effectuer rapidement une percée, d'encercler une partie de la force ennemie et de la défendre pendant que le front progresse vers l'ennemi encerclé."
+garrison:0 "Garnison"
+garrison_desc:0 "Les garnisons sont des troupes de seconde ligne utilisées pour sauvegarder des objectifs de valeur loin des lignes de front. Elles manquent d'équipement lourd et de moyens de transport, ce qui les rend immobiles, sauf en cas de redéploiement stratégique. Elles ont une capacité antichars limitée mais peuvent être utilisées pour libérer des troupes et des équipements plus performants pour une utilisation en première ligne."

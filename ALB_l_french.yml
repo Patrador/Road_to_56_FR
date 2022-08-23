@@ -5,7 +5,7 @@
  9_ALB_tt:0 "Il y a une chance que cela provoque un soulèvement national et une guerre civile !"
  POLITICS_KING_ZOG_DESC:0 "Né en 1895 au sein d'une famille noble du château de Burgajet, il a occupé des postes ministériels de 1920 à 1924, jusqu'à son exil forcé en Yougoslavie. Le jeune Zog est revenu avec l'aide de la Yougoslavie et a été élu président le 1er février 1925, puis a assumé le rôle de roi le 1er septembre.\nBien qu'il soit capable de manipuler les affaires internes de l'Albanie à son avantage, il en vient à dépendre fortement de l'Italie de Benito Mussolini."  #From Britannica
  #leader traits
- likes_italy:0 "Aime [ITA.GetLeLaLNP] [ITA.GetName]"
+ likes_italy:0 "Aime l'Italie"
  #Focus
  vive_le_roi:0 "Renforcer le pouvoir de Zog"
  vive_le_roi_desc:0 "Notre Roi est le protecteur de notre pays ! Il doit être le symbole de notre combat contre ceux qui menacent notre royaume ! Nous transmettrons l'héritage de Scanderbeg et de notre Roi aux générations futures !"

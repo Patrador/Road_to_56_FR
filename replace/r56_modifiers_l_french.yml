@@ -1,6 +1,9 @@
 ﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
 
 l_french:
+
+ developed_rural:0 "Région rurale développée" #wasn't sure where to put it, so it is here for now - Fantom
+
  neutrality_acceptance:0 "Acceptation de la diplomatie autoritaire"
  naval_armor_tech_research:0 "Vitesse de recherche du blindage naval"
  naval_gunnery_tech_research:0 "Vitesse de recherche de l'artillerie navale"
@@ -23,3 +26,5 @@ l_french:
  r56_wpa_project:0 "Projet WPA en cours"
  r56_the_project:0 "Zone du projet Manhattan"
  r56_the_project_desc:0 "Des zones de cet État ont été mises de côté dans l'optique du projet Manhattan."
+ r56_military_exercises:0 "Exercices militaires"
+ r56_local_development:0 "Développement local"

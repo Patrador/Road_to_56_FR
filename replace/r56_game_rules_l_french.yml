@@ -113,6 +113,15 @@
  RULE_OPTION_MONARCHIST_LEGITIMISTS_FRA:0 "Monarchistes - Légitimistes"
  RULE_OPTION_MONARCHIST_LEGITIMISTS_FRA_AI_DESC:0 "L'IA française restaurera la monarchie et se rangera du côté des Légitimistes."
 
+ #-> ARG: Argentina
+ ARG_AI_BEHAVIOR:0 "@ARG Argentine"
+ RULE_OPTION_DEMOCRATIC_ARG:0 "Démocratique"
+ RULE_OPTION_DEMOCRATIC_ARG_AI_DESC:0 "Le pays va mettre en œuvre des réformes constitutionnelles et tenter de rejoindre une faction démocratique à long terme."
+ RULE_OPTION_FASCIST_ARG_AI_DESC:0 "Les fascistes réformeront l'État et envahiront probablement les pays voisins."
+ RULE_OPTION_COMMUNIST_ARG_AI_DESC:0 "Le pays gardera des contacts avec l'URSS et évoluera vers le communisme."
+ RULE_OPTION_NON_ALIGNED_HISTORICAL_ARG:0 "Historique - Non-aligné"
+ RULE_OPTION_NON_ALIGNED_HISTORICAL_ARG_AI_DESC:0 "La junte maintient son emprise sur le pouvoir."
+
 
  #-> BEL: Belgium <><>
  BEL_AI_BEHAVIOR:0 "@BEL Belgique"
@@ -128,6 +137,18 @@
  RULE_OPTION_FASCISM_BEL_VERDINASO_AI_DESC:0 "L'IA va essayer de devenir fasciste et de mettre Joris Van Severen dirigeant."
  RULE_OPTION_FASCISM_BEL_REX:0 "Fasciste - Rex"
  RULE_OPTION_FASCISM_BEL_REX_AI_DESC:0 "L'IA va essayer de devenir fasciste et de mettre Léon Degrelle dirigeant."
+
+ #-> Bra Brazil <><>
+ BRA_AI_BEHAVIOR:0 "@BRA Brésil"
+ RULE_OPTION_DEMOCRATIC_BRA:0 "Démocratique"
+ RULE_OPTION_DEMOCRATIC_BRA_AI_DESC:0 "Le pays va mettre en œuvre des réformes constitutionnelles et tenter de rejoindre une faction démocratique à long terme."
+ RULE_OPTION_FASCIST_BRA_AI_DESC:0 "Les fascistes réformeront l'État et envahiront probablement les pays voisins."
+ RULE_OPTION_COMMUNIST_BRA_AI_DESC:0 "Le pays gardera des contacts avec l'URSS et évoluera vers le communisme."
+ RULE_OPTION_NON_ALIGNED_HISTORICAL_BRA:0 "Historique - Non-aligné"
+ RULE_OPTION_NON_ALIGNED_HISTORICAL_BRA_AI_DESC:0 "Le Brésil tentera de maintenir son indépendance et essaiera probablement de reconquérir ses territoires perdus lors de la guerre de continuation."
+ RULE_OPTION_MONARCHIST_BRA:0 "Monarchiste"
+ RULE_OPTION_MONARCHIST_BRA_AI_DESC:0 "Le Brésil va tenter de rétablir Pedro III sur le trône."
+
 
 
  #-> CHI China <><>
@@ -152,6 +173,15 @@
  RULE_OPTION_COMMUNISM_CHL:0 "Communiste"
  RULE_OPTION_COMMUNISM_CHL_AI_DESC:0 "Devenir communiste."
 
+ #-> FIN Finland <><>
+ FIN_AI_BEHAVIOR:0 "@FIN Finlande"
+ RULE_OPTION_DEMOCRATIC_FIN:0 "Démocratique"
+ RULE_OPTION_DEMOCRATIC_FIN_AI_DESC:0 "Le pays va mettre en œuvre des réformes constitutionnelles et tenter de rejoindre une faction démocratique à long terme."
+ RULE_OPTION_FASCIST_FIN_AI_DESC:0 "Les fascistes réformeront l'État et envahiront probablement les pays voisins."
+ RULE_OPTION_COMMUNIST_FIN_AI_DESC:0 "Le pays gardera des contacts avec l'URSS et évoluera vers le communisme."
+ RULE_OPTION_NON_ALIGNED_HISTORICAL_FIN:0 "Historique - Non-aligné"
+ RULE_OPTION_NON_ALIGNED_HISTORICAL_FIN_AI_DESC:0 "La Finlande tentera de maintenir son indépendance et essaiera probablement de reconquérir ses territoires perdus lors de la guerre de continuation."
+
  #-> HON: Honduras <><>
  HON_AI_BEHAVIOR:0 "@HON Honduras"
  RULE_OPTION_DEMOCRATIC_HISTORICAL:0 "Démocratique - Historique"
@@ -163,6 +193,15 @@
  RULE_OPTION_BANANA_EMPIRE_HON_AI_DESC:0 "La United Fruit Company fera tomber son masque et prendra le pouvoir."
  RULE_OPTION_BANANA_ANCAPISTAN:0 "Triomphe de l'Ancap"
  RULE_OPTION_BANANA_ANCAPISTAN_HON_AI_DESC:0 "D'une manière ou d'une autre, l'incarnation de chaque expérience de consommateur sera représentée par une IA capable de les convaincre de donner leur vie pour que la Chine reste britannique."
+
+ #-> PER: Iran
+ PER_AI_BEHAVIOR:0 "@PER Iran"
+
+ RULE_OPTION_DEMOCRATIC_PER_AI_DESC:0 "Le pays va mettre en œuvre des réformes constitutionnelles et tenter de rejoindre une faction démocratique à long terme."
+ RULE_OPTION_FASCIST_PER_AI_DESC:0 "Les fascistes réformeront l'État et envahiront probablement les pays voisins."
+ RULE_OPTION_COMMUNIST_PER_AI_DESC:0 "Le pays gardera des contacts avec l'URSS et évoluera vers le communisme."
+ RULE_OPTION_MONARCHIST_HISTORICAL_PER:0 "Historique - Monarchiste"
+ RULE_OPTION_MONARCHIST_HISTORICAL_PER_AI_DESC:0 "La dynastie Pahlavi tentera de maintenir son emprise sur le pouvoir."
 
  #-> RAJ: India
  RAJ_AI_BEHAVIOR:0 "@RAJ Inde"
@@ -240,6 +279,26 @@
  RULE_OPTION_COMMUNIST_NOR_AI_DESC:0 "L'IA norvégienne rejettera la démocratie et se tournera vers le communisme."
  RULE_OPTION_FASCIST_NOR_AI_DESC:0 "L'IA norvégienne rejettera la démocratie et se tournera vers le fascisme."
  RULE_OPTION_MONARCHIST_NOR_AI_DESC:0 "La Norvège donnera les pleins pouvoirs à Haakon VII."
+
+ #-> MON Mongolia <><>
+ MON_AI_BEHAVIOR:0 "@MON Mongolie"
+ RULE_OPTION_MON_COMMUNISM_HISTORICAL:0 "Communiste - Historique"
+ RULE_OPTION_MON_COMMUNISM_HISTORICAL_AI_DESC:0 "L'IA mongole suivra la doctrine stalinienne et adoptera le modèle soviétique d'organisation de l'État et du parti, ce qui entraînera la montée au pouvoir des Choibalsan et la réalisation tardive du rêve pan-mongol."
+
+ RULE_OPTION_MON_COMMUNISM_LEFTIST_TAKEOVER:0 "Communiste - Prise de pouvoir de la gauche"
+ RULE_OPTION_MON_COMMUNISM_LEFTIST_TAKEOVER_AI_DESC:0 "Les éléments de gauche au sein du Parti populaire mongol tenteront de prendre le pouvoir par tous les moyens possibles et de suivre les processus de réorganisation de l'État du début des années 30, menant à la formation d'une République de style soviétique et à l'exportation de la révolution communiste sur le plan central."
+
+ RULE_OPTION_MON_COMMUNISM_SOCIALIST:0 "Communiste - Socialiste"
+ RULE_OPTION_MON_COMMUNISM_SOCIALIST_AI_DESC:0 "La République populaire de Mongolie va promouvoir la position politique prudente et tolérante d'Anandyn Amar, former la république socialiste et essayer de rester en dehors de la sphère d'influence soviétique."
+
+ RULE_OPTION_MON_DEMOCRATIC_RIGHTIST:0 "Démocratique - Conservateur"
+ RULE_OPTION_MON_DEMOCRATIC_RIGHTIST_AI_DESC:0 "Suivant le principe de « l'union fait la force », la Mongolie jettera les bases d'un gouvernement de coalition, galvanisant la formation d'un cabinet de droite, qui promouvra les valeurs démocratiques libérales dans une tentative d'amitié avec les grandes démocraties du monde."
+
+ RULE_OPTION_MON_NEUTRALITY_GENDEN:0 "Autoritaire - Genden"
+ RULE_OPTION_MON_NEUTRALITY_GENDEN_AI_DESC:0 "Après une première prise de distance avec l'URSS, la Mongolie formera le cabinet hudonets dirigé par Peljidiin Genden, adoptera diverses politiques communistes avec des spécificités mongoles, adoptera les moyens du socialisme religieux et tentera de rétablir les anciens liens avec les diverses puissances de la Chine propre."
+
+ RULE_OPTION_MON_ANCOM:0 "Mongolie anarcho-communiste"
+ RULE_OPTION_MON_ANCOM_AI_DESC:0 "Fatigué des changements constants de politique et des intrigues gouvernementales, le peuple mongol se soulèvera, renversera le gouvernement faible et établira la société anarcho-communiste pour mener la Mongolie à la prospérité."
 
  #-> SIA: Siam <><>
  SIA_AI_BEHAVIOR:0 "@SIA Siam"
@@ -391,6 +450,16 @@ RULE_OPTION_RETURN_OF_THE_TSAR:0 "Le retour du Tsar"
  CENTRAL_AMERICA_UNIFICATION_STATUS:0 "@HON Unification de l'Amérique centrale"
 
  HISPANOAMERICA_UNIFICATION_STATUS:0 "Unification de l'Amérique hispanique"
+
+ SCANDINAVIA_UNIFICATION_STATUS:0 "Statut d'unification de la Scandinavie"
+ RULE_OPTION_SWE_SCANDINAVIA_UNIFIED:0 "Scandinavie unifiée"
+ RULE_OPTION_SWE_SCANDINAVIA_UNIFIED_DESC:0 "La Scandinavie est formée. Pour la jouer, sélectionnez la Suède."
+ RULE_OPTION_SWE_NORDIC_LEAGUE_UNIFIED:0 "Ligue nordique unifiée"
+ RULE_OPTION_SWE_NORDIC_LEAGUE_UNIFIED_DESC:0 "La Ligue nordique est unifiée. Pour la jouer, sélectionnez la Suède."
+
+ BALTIC_STATES_UNIFICATION_STATUS:0 "Statut d'unification des États baltes"
+ RULE_OPTION_LAT_BALTIC_FEDERATION_FORMED:0 "Fédération balte formée"
+ RULE_OPTION_LAT_BALTIC_FEDERATION_FORMED_DESC:0 "La Fédération balte est formée. Pour la jouer, sélectionnez la Lettonie."
 
  GER_FRAGMENTATION_STATUS:0 "@GER Division de l'Allemagne"
  RULE_OPTION_GER_FRAGMENTED:0 "Allemagne divisée"

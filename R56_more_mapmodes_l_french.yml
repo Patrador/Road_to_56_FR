@@ -1,0 +1,23 @@
+﻿l_french:
+
+ # Constants:
+ MAPMODE_CONSTANT: "Mode de carte"
+ DOTTET_LINE_SEPERATOR: "\n--------------\n"
+
+ # Map Modes:
+ more_mapmodes_core_map_mode: "États nationaux"
+ MAPMODE_MORE_MAPMODES_CORE_MAP_MODE: "Carte des §YÉtats nationaux§!"
+ MAPMODE_MORE_MAPMODES_CORE_MAP_MODE_NAME: "$more_mapmodes_core_map_mode$"
+ MAPMODE_MORE_MAPMODES_CORE_MAP_MODE_DESCRIPTION: "Montre nos États nationaux, nos États coloniaux et nos États occupés en différentes couleurs."
+ more_mapmodes_core_map_mode_tooltip: "[From.GetMoreMapModesCoreMapModeTooltip]"
+ more_mapmodes_core_map_mode_tooltip_delayed: "[From.GetMoreMapModesCoreMapModeTooltipDelayed]"
+
+ # Scripted Localisation:
+ more_mapmodes_core_map_mode_tt_core: "§Y[From.GetName]§! est un de nos États nationaux."
+ more_mapmodes_core_map_mode_tt_owned: "§Y[From.GetName]§! est un de nos États coloniaux."
+ more_mapmodes_core_map_mode_tt_claimed: "§Y[From.GetName]§! est notre revendication."
+ more_mapmodes_core_map_mode_tt_occupied: "§Y[From.GetName]§! est occupé par nous."
+ more_mapmodes_core_map_mode_tt_occupied_by_enemy: "§Y[From.GetName]§! est actuellement occupé par §R[From.Controller.GetNameWithFlag]§!."
+ more_mapmodes_core_map_mode_tt_core_not_owned_but_controlled: "§Y[From.GetName]§! est actuellement occupé par nous, mais est toujours possédé par §R[From.Owner.GetNameWithFlag]§!."
+ more_mapmodes_core_map_mode_tt_core_not_owned: "§Y[From.GetName]§! est possédé par §Y[From.Owner.GetNameWithFlag]§!."
+ more_mapmodes_core_map_mode_tt_occupied_info: "§Y[From.GetName]§! est originellement détenu par §R[From.Owner.GetNameWithFlag]§!."

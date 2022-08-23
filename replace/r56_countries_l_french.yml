@@ -910,8 +910,8 @@
  #GER
  GER_democratic:0 "République d'Allemagne"
  GER_democratic_DEF:0 "la République d'Allemagne"
- GER_communism:0 "République socialiste soviétique d'Allemagne"
- GER_communism_DEF:0 "la République socialiste soviétique d'Allemagne"
+ GER_communism:0 "État populaire d'Allemagne"
+ GER_communism_DEF:0 "l'État populaire d'Allemagne"
  GER_fascism:0 "Reich allemand"
  GER_fascism_DEF:0 "le Reich allemand"
 

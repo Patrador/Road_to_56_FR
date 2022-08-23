@@ -96,3 +96,129 @@
  DOD_romania.801.desc:0 "Alors que le pays était un spectateur dans les négociations qui ont conduit au démantèlement de la Yougoslavie, le gouvernement bulgare demande le contrôle des territoires qu'il juge être occupés par des populations d'origine albanaise. Ils font valoir que ce serait un signe de bonne volonté et qu'il serait plus facile d'obtenir la bonne volonté de la population."
  DOD_romania.801.a:0 "Très bien"
  DOD_romania.801.b:0 "Nous gardons ce que nous venons de gagner."
+
+
+#################################
+ ###Romanian Political Focuses###
+#################################
+
+ #All Paths#
+ ROM_upcoming_elections:0 "Prochaines élections"
+ ROM_upcoming_elections_desc:0 "Les élections de 1937 approchent à grands pas. Il est temps de commencer à faire campagne."
+
+###################
+ ###Fascist Path###
+###################
+ ROM_back_the_fascists:0 "Soutenir les fascistes"
+ ROM_back_the_fascists_desc:0 "N/A"
+ ROM_support_the_iron_guard:0 "Soutenir la Garde de Fer"
+ ROM_support_the_iron_guard_desc:0 "Nous allons apporter notre soutien à la Garde de Fer !"
+ ROM_support_the_national_christian_party:0 "Soutenir le Parti national chrétien"
+ ROM_support_the_national_christian_party_desc:0 "Nous soutiendrons le PNC !"
+
+ #############################
+ ###Historical & Democratic###
+ #############################
+ ROM_democracy_is_the_way:0 "La démocratie est la bonne voie!"
+ ROM_democracy_is_the_way_desc:0 "N/A"
+ ROM_back_the_national_liberal_party:0 "Soutenir le Parti national libéral"
+ ROM_back_the_national_liberal_party_desc:0 "N/A"
+ ROM_back_the_national_peasants_party:0 "Soutenir le Parti national des paysans"
+ ROM_back_the_national_peasants_party_desc:0 "N/A"
+
+
+
+#####################
+ ###Communist Path###
+#####################
+ROM_the_communist_alternative:0 "L'alternative communiste"
+ROM_the_communist_alternative_desc:0 "N/A"
+ROM_the_ploughmens_front:0 "Le front des laboureurs"
+ROM_the_ploughmens_front_desc:0 "N/A"
+ROM_the_romanian_communist_party:0 "Le Parti communiste roumain"
+ROM_the_romanian_communist_party_desc:0 "N/A"
+
+
+
+##################################
+ ###Romanian Industrial Focuses###
+ #################################
+ ROM_industrial_investments:0 "Investissements industriels"
+ ROM_industrial_investments_desc:0 "Notre économie ne s'est remise que récemment des effets de la Grande Dépression. En faisant des investissements judicieux, nous pouvons contribuer à relancer la croissance."
+ ROM_resita_works:0 "Resita Works"
+ ROM_resita_works_desc:0 "N/A"
+ ROM_ateliere_leonida:0 "Ateliere Leonida"
+ ROM_ateliere_leonida_desc:0 "N/A"
+ ROM_invest_in_the_calan_steelworks:0 "Investir dans l'aciérie de Călan"
+ ROM_invest_in_the_calan_steelworks_desc:0 "N/A"
+ ROM_expand_galati_steelworks:0 "Développer l'aciérie de Galati"
+ ROM_expand_galati_steelworks_desc:0 "N/A"
+ ROM_expand_nadrag_steelworks:0 "Développer l'aciérie de Nadrăg"
+ ROM_expand_nadrag_steelworks_desc:0 "N/A"
+ ROM_increase_mining_efforts:0 "Accroître les efforts d'exploitation minière"
+ ROM_increase_mining_efforts_desc:0 "Bonus pour la technologie d'excavation. Débloque de nouvelles décisions pour l'excavation."
+ ROM_gold_mining:0 "Extraction de l'or"
+ ROM_gold_mining_desc:0 "N/A"
+ ROM_derrick_upgrades:0 "Modernisation des puits de pétrole"
+ ROM_derrick_upgrades_desc:0 "La modernisation de nos puits de pétrole nous permettra d'extraire le pétrole plus efficacement."
+ ROM_coal_mining:0 "Exploitation du charbon"
+ ROM_coal_mining_desc:0 "N/A"
+ ROM_uranium_discovery:0 "Découverte d'uranium"
+ ROM_uranium_discovery_desc:0 "Nous avons eu la chance de découvrir des gisements d'uranium. Si nous exploitons cette découverte, nous pourrons accélérer notre recherche nucléaire !"
+ ROM_romloc_factory_expansion:0 "Extension de l'usine ROMLOC"
+ ROM_romloc_factory_expansion_desc:0 "ROMLOC cherche à agrandir ses usines. Cela permettra de fournir des emplois à de nombreuses personnes !"
+ ROM_romanian_timber_industry:0 "Industrie roumaine du bois"
+ ROM_romanian_timber_industry_desc:0 "N/A"
+ ROM_ford_bucuresti:0 "Ford Bucuresti"
+ ROM_ford_bucuresti_desc:0 "N/A"
+ ROM_agricultural_reforms:0 "Réformes agricoles"
+ ROM_agricultural_reforms_desc:0 "Nos agriculteurs sont au cœur de notre économie, et ils ont été durement touchés pendant la Grande Dépression. Ils ont commencé à se rétablir, mais si nous les aidons, ils peuvent faire un retour en force."
+ ROM_agricultural_boom:0 "Boom agricole"
+ ROM_agricultural_boom_desc:0 "N/A"
+ ROM_strei_river_hydroelectric_modernization:0 "Hydroélectricité de la rivière Strei"
+ ROM_strei_river_hydroelectric_modernization_desc:0 "N/A"
+ ROM_improve_rural_roads:0 "Améliorer les routes rurales"
+ ROM_improve_rural_roads_desc:0 "N/A"
+ ROM_malaxa_bucuresti:0 "Malaxa Bucuresti"
+ ROM_malaxa_bucuresti_desc:0 "N/A"
+ ROM_expand_the_romanian_academy:0 "Développer l'Académie roumaine"
+ ROM_expand_the_romanian_academy_desc:0 "N/A"
+
+######################
+###Industrial Ideas###
+######################
+ROM_gold_extraction_idea:0 "Extraction d'or"
+ROM_gold_extraction_idea_desc:0 "Une forte offre d'or donne une impulsion saine à notre situation économique."
+ROM_extensive_coal_mining_idea:0 "Exploitation extensive du charbon"
+ROM_extensive_coal_mining_idea_desc:0 "Une industrie charbonnière forte nous permet de produire plus d'acier et d'augmenter la production de nos usines."
+ROM_uranium_supply_idea:0 "Approvisionnement en uranium"
+ROM_uranium_supply_idea_desc:0 "Avec un approvisionnement régulier en uranium, nous pouvons accélérer nos efforts de recherche nucléaire."
+ROM_romanian_timber_idea:0 "Industrie du bois"
+ROM_romanian_timber_idea_desc:0 "Le bois roumain est une industrie florissante !"
+ROM_agricultural_reforms_idea:0 "Réformes agricoles"
+ROM_agricultural_reforms_idea_desc:0 "N/A"
+ROM_agricultural_boom_idea:0 "Boom agricole"
+ROM_agricultural_boom_idea_desc:0 "N/A"
+
+####################
+###Starting Ideas###
+####################
+ROM_iron_guard_idea:0 "La Garde de fer"
+ROM_iron_guard_desc:0 "La radicale Garde de fer cause de graves problèmes dans notre pays."
+
+
+#################################
+###Political Parties & Leaders###
+#################################
+ploughmens_front:0 "Frontul Plugarilor"
+FP:0 "FP"
+romanian_communist_party:0 "Partidul Comunist Român"
+PCR:0 "PCR"
+iron_guard:0 "Garda de Fier"
+GF:0 "GF"
+national_christian_party:0 "Partidul National Crestin"
+PNC:0 "PNC"
+national_peasants_party:0 "Partidul National Tărănesc"
+PNT:0 "PNT"
+national_liberal_party:0 "Partidul National Liberal"
+PNL:0 "PNL"

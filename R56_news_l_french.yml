@@ -100,7 +100,7 @@ r56.news_event.19.a:0 "Le Groenland ? Un territoire en plus, ça fait toujours p
 r56.news_event.19.b:0 "Un geste audacieux de la part [USA.GetDuDelaDelNP] [USA.GetName]."
 r56.news_event.19.c:0 "Comment osent-ils kidnapper ce que nous avons légitimement volé !"
 
-#The Kashar Islamic rebellion/SIK-TNG War
+#The Kashgar Islamic rebellion/SIK-TNG War
 r56.news_event.20.t:0 "La rébellion islamique de Kachgar"
 r56.news_event.20.d:0 "[SIK.GetLeader] a décidé d'agir contre les milices musulmanes turques de plus en plus autonomes dans l'armée de Kashgar distincte [TNG.GetAuEnANP] [TNG.getname]. Cette démarche est, en substance, une démarche contre [TNG.getleader] et son contrôle sur la région. Cette soi-disant « rébellion » a rapidement dégénéré en un conflit entre [SIK.getnamedef] et [TNG.getnamedef] puisque les forces armées de [TNG.getleader] sont venues au secours des rebelles.\n\nDe nombreuses rumeurs politiques ont laissé entendre que le vainqueur du conflit deviendrait le souverain incontesté de la région du Xinjiang."
 r56.news_event.20.a:0 "Vous m'avez forcé la main !"
@@ -234,3 +234,18 @@ r56.news_event.28.e:0 "Il n'y a pas de guerre plus horrible que la guerre civile
  r56.news_event.40.desc:0 "\nSous la pression du gouvernement [ROM.GetAdjMS], [HUN.GetLeader] a accepté un traité d'amitié qui réunirait les deux pays au sein de la faction [ROM.GetFactionName]. Cela rendrait clairement la Hongrie dépendante de la Roumanie en matière de défense, mais ne résout pas les tensions hongroises concernant le sort des magyarophones vivant en Transylvanie. On dit que certaines concessions ont été faites en faveur des Szeklers, mais le gouvernement [ROM.GetAdjMS] peut encore en limiter les effets dans la pratique."
  r56.news_event.40.a:0 "Cela assurera la sécurité des Roumains."
  r56.news_event.40.b:0 "Nos ennemis s'étendent !"
+
+ r56.news_event.41.t:0 "[BRA.GetNameDefCap] se tourne vers l'Atlantique"
+ r56.news_event.41.desc:0 "\nSuite à l'engagement de [BRA.GetLeader] de contrôler les lignes commerciales vitales entre [BRA.GetNameDef] et le reste du monde, la politique étrangère [BRA.GetAdjFS] cherche des alliés à proximité de l'océan Atlantique. Afin d'atteindre cet objectif, la faction [BRA.GetFactionName] a été déclarée et des efforts diplomatiques devraient assurer le succès de cette nouvelle politique."
+ r56.news_event.41.a:0 "Cela garantira la sécurité [BRA.GetAdjFS]."
+ r56.news_event.41.b:0 "Nos ennemis s'étendent !"
+
+ r56.news_event.42.t:0 "La faction [BRA.GetFactionName] a été créée"
+ r56.news_event.42.desc:0 "\nSuite à l'engagement de [BRA.GetLeader] à combattre les régimes expansionnistes à travers l'Amérique du Sud, un nouveau traité d'alliance appelé [BRA.GetFactionName] a été signé à [BRA.Capital.GetCapitalVictoryPointName].\n\nCompte tenu du nombre de délégués, d'ambassadeurs et de ministres des affaires étrangères présents, il semble assez certain qu'elle aura de sérieuses répercussions sur le développement politique de la région... voire du monde entier."
+ r56.news_event.42.a:0 "Cela garantira la sécurité [BRA.GetAdjFS]."
+ r56.news_event.42.b:0 "Nos ennemis s'étendent !"
+
+ r56.news_event.43.t:0 "[SWE.GetNameDefCap] organiser sa propre diplomatie défensive"
+ r56.news_event.43.desc:0 "\nPoussant leur politique de neutralité dans une direction légèrement différente, les [SWE.GetHabitants] ont décidé d'établir une organisation de traité défensif qui servirait de pivot à leur politique de défense.\n\nCela leur donnerait des alliés leur permettant de sécuriser leur environnement mais pourrait aussi les conduire à des guerres pour le sort de pays étrangers."
+ r56.news_event.43.a:0 "Cela garantira la sécurité [SWE.GetAdjFS]."
+ r56.news_event.43.b:0 "Nos ennemis s'étendent !"

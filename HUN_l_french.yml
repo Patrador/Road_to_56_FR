@@ -150,7 +150,7 @@
  r56_hungary_6.b:0 "Plûtot mourrir"
 
  r56_hungary_coastline.1.t:0 "La Hongrie exige les territoires de la Grande Hongrie"
- r56_hungary_coastline.1.d:0 "[HUN.GetNameDefCap] a utilisé l'héritage du Royaume hongrois comme un casus beli pour exiger le territoire de la Grande Hongrie."
+ r56_hungary_coastline.1.d:0 "[HUN.GetNameDefCap] a utilisé l'héritage du Royaume hongrois comme un casus belli pour exiger le territoire de la Grande Hongrie."
  r56_hungary_coastline.1.a:0 "Donnons-leur ces territoires."
  r56_hungary_coastline.1.b:0 "Pour qui se prennent-ils, à nier la Grande Italie ?!"
  r56_hungary_coastline.2.t:0 "[ITA.GetNameDefCap] accepte !"

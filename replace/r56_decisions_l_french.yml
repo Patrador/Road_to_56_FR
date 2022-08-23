@@ -81,17 +81,41 @@
  r56_25_command_power_cost_blocked:0 "£command_power §R25§!"
  r56_25_command_power_cost_tooltip:0 "Cela coûte £command_power §H25§! de sélectionner cela."
 
+ r56_1_command_power_cost:0 "£command_power §H1§!"
+ r56_1_command_power_cost_blocked:0 "£command_power §R1§!"
+ r56_1_command_power_cost_tooltip:0 "Cela coûte £command_power §H1§! de sélectionner cela."
+
+ r56_3_command_power_cost:0 "£command_power §H3§!"
+ r56_3_command_power_cost_blocked:0 "£command_power §R3§!"
+ r56_3_command_power_cost_tooltip:0 "Cela coûte £command_power §H3§! de sélectionner cela."
+
+ r56_5_command_power_cost:0 "£command_power §H5§!"
+ r56_5_command_power_cost_blocked:0 "£command_power §R5§!"
+ r56_5_command_power_cost_tooltip:0 "Cela coûte £command_power §H5§! de sélectionner cela."
+
  r56_10_command_power_cost:0 "£command_power §H10§!"
  r56_10_command_power_cost_blocked:0 "£command_power §R10§!"
  r56_10_command_power_cost_tooltip:0 "Cela coûte £command_power §H10§! de sélectionner cela."
+
+ r56_15_command_power_cost:0 "£command_power §H15§!"
+ r56_15_command_power_cost_blocked:0 "£command_power §R15§!"
+ r56_15_command_power_cost_tooltip:0 "Cela coûte £command_power §H15§! de sélectionner cela."
+
+ r56_35_command_power_cost:0 "£command_power §H35§!"
+ r56_35_command_power_cost_blocked:0 "£command_power §R35§!"
+ r56_35_command_power_cost_tooltip:0 "Cela coûte £command_power §H35§! de sélectionner cela."
+
+ r56_50_command_power_cost:0 "£command_power §H50§!"
+ r56_50_command_power_cost_blocked:0 "£command_power §R50§!"
+ r56_50_command_power_cost_tooltip:0 "Cela coûte £command_power §H50§! de sélectionner cela."
 
  control_ai_allies_category:0 "Coordination des alliés"
 
  control_ai_allies_category_desc:0 "En donnant des ordres clairs à nos alliés, nous augmenterons nos chances de coordonner nos actions et de vaincre nos ennemis.\n\n§RCes décisions n'affectent que le comportement de l'IA§!"
  ai_ally_favor_navy:0 "Demander au gouvernement [FROM.GetAdjMS] de se concentrer sur sa marine"
- drop_ai_ally_favor_navy:0 "Demander l'abandon de l'intiative navale [FROM.GetAdjFS]."
+ drop_ai_ally_favor_navy:0 "Demander l'abandon de l'initiative navale [FROM.GetAdjFS]."
  ai_ally_favor_aviation:0 "Demander au gouvernement [FROM.GetAdjMS] de se concentrer sur son aviation"
- drop_ai_ally_favor_aviation:0 "Demander l'abandon de l'intiative aérienne [FROM.GetAdjFS]."
+ drop_ai_ally_favor_aviation:0 "Demander l'abandon de l'initiative aérienne [FROM.GetAdjFS]."
 
 
  ai_ally_favor_defense:0 "Demander au gouvernement [FROM.GetAdjMS] de se concentrer sur sa défense"
@@ -191,6 +215,22 @@
  idea_r56_scrap_collection_campaign:0 "Campagne de collecte de ferraille"
  r56_collect_scrap_resources:0 "Collecter les ressources en ferraille"
 
+ decision_cost_CP_1_pp_1:0 "£command_power  §Y1§! £pol_power  §Y1§!"
+ decision_cost_CP_1_pp_1_blocked:0 "£command_power  §R1§! £pol_power  §R1§!"
+ decision_cost_CP_1_pp_1_tooltip:0 "Cela coûte £command_power §H1§! et £pol_power §H1§! de prendre cette décision"
+
+ decision_cost_CP_2_pp_2:0 "£command_power  §Y2§! £pol_power  §Y2§!"
+ decision_cost_CP_2_pp_2_blocked:0 "£command_power  §R2§! £pol_power  §R2§!"
+ decision_cost_CP_2_pp_2_tooltip:0 "Cela coûte £command_power §H2§! et £pol_power §H2§! de prendre cette décision"
+
+ decision_cost_CP_3_pp_3:0 "£command_power  §Y3§! £pol_power  §Y3§!"
+ decision_cost_CP_3_pp_3_blocked:0 "£command_power  §R3§! £pol_power  §R3§!"
+ decision_cost_CP_3_pp_3_tooltip:0 "Cela coûte £command_power §H3§! et £pol_power §H3§! de prendre cette décision"
+
+ decision_cost_CP_5_pp_5:0 "£command_power  §Y5§! £pol_power  §Y5§!"
+ decision_cost_CP_5_pp_5_blocked:0 "£command_power  §R5§! £pol_power  §R5§!"
+ decision_cost_CP_5_pp_5_tooltip:0 "Cela coûte £command_power §H5§! et £pol_power §H5§! de prendre cette décision"
+
 
  decision_cost_CP_25_pp_50:0 "£command_power  §Y25§! £pol_power  §Y50§!"
  decision_cost_CP_25_pp_50_blocked:0 "£command_power  §R25§! £pol_power  §R50§!"
@@ -238,3 +278,4 @@ decision_cost_CP_10_pp_10_tooltip:0 "Cela coûte £command_power §H10§! et £p
  game_rules_reminder_category_desc:0 "N'oubliez pas de consulter le menu §YRègles personnalisées§! en bas à droite de la carte de lancement de la partie ! Il comprend de nombreuses options telles que la §Ysélection des arbres de priorités§!, qui permet d'alterner entre les priorités du jeu de base et de Road to 56 pour plusieurs pays. Il y a aussi le §Ycontrôle des conférences de paix par le joueur§! et une grande sélection de changements de gameplay, comme la désactivation des §Ycaractères nationaux§!, de disponibles !"
  game_rules_reminder:0 "Rappel des règles de jeu"
  game_rules_reminder_desc:0 "Lorsque le chronomètre sera écoulé, ce rappel sera supprimé pour le reste de la partie."
+ request_reinstatement:0 "Demande de réintégration aux [From.GetHabitants]" #from vanilla where it is wrong, missing the last s

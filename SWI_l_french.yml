@@ -372,10 +372,6 @@
  SWI_pressured_demobilization_desc:0 "Le gouvernement de ce pays a été contraint de démobiliser son armée contre son gré par la population."
  SWI_mobilize_1:0 "Mobilisation des milices"
 
- #MAP
- VICTORY_POINTS_636:0 "Col du Gothard"
- VICTORY_POINTS_6666:0 "Genève"
-
  neutrality_advocate:0 "Défenseur de la neutralité"
  neutrality_advocate_desc:0 "Ce politicien croit fermement qu'il faut éviter les alliances fâcheuses, sauf si elles sont strictement nécessaires."
  assault_gun_manufacturer:0 "Fabricant de fusils d'assaut"

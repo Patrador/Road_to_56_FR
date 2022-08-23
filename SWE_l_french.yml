@@ -667,23 +667,6 @@ finland.45.t:0"La Suède refuse de rejoindre"
 finland.45.d:0"Les Suédois n'ont pas eu la volonté nécessaire pour rejoindre notre guerre, c'est très malheureux !"
 finland.45.a:0"Trahison !"
 
-import.10.t:0"La Suède demande de l'aide"
-import.10.d:0"Les Suédois se battent actuellement pour une Scandinavie libre et le rapport de force n'est pas à leur avantage. La région est stratégiquement très importante dans le théâtre européen et nous ne pouvons pas laisser les régimes totalitaires prendre le contrôle. Les Suédois nous demandent d'envoyer 2000 équipements d'infanterie, 500 équipements de soutien et 200 pièces d'artillerie ainsi que 8000 volontaires des États-Unis. Devrions-nous accepter leur demande ?"
-import.10.a:0"Oui, envoyez-les !"
-import.10.b:0"Non, nous ne pouvons rien nous permettre de perdre."
-
-import.11.t:0"Les États-Unis envoient de l'aide"
-import.11.d:0"Nos plaintes ont été entendues et les États-Unis nous envoient du matériel et des volontaires pour combattre en notre nom. C'est une tournure très heureuse des événements et nous devons les utiliser du mieux que nous pouvons. On peut s'attendre à ce que la cargaison arrive dans une vingtaine de jours."
-import.11.a:0"Cela pourrait nous sauver !"
-
-import.12.t:0"Le matériel américain arrive"
-import.12.d:0"Les volontaires et le matériel longtemps recherchés sont enfin arrivés en Suède. Nous devons maintenant les mettre à profit !"
-import.12.a:0"Enfin !"
-
-import.13.t:0"Les États-Unis refusent"
-import.13.d:0"Les États-Unis ne peuvent pas ou ne veulent pas nous envoyer de matériel ou de volontaires. C'est un désastre ! Nous en avions grandement besoin."
-import.13.a:0"Quelle catastrophe..."
-
 exileunits.2.t:0"Le recrutement et l'entraînement des Polistrupper"
 exileunits.2.d:0"Les Polistruppers du Danemark et de la Norvège sont entraînés et prêts au combat. Alors qu'ils se préparent à retourner un jour dans leur propre pays, en attendant, ils combattront aux côtés de nos militaires."
 exileunits.2.a:0"Un bon complément"

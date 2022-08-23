@@ -49,7 +49,7 @@
 
  andorra.1.t:0 "[ADR.GetNameDefCap] demande une garantie"
  andorra.1.d:0 "La guerre civile étant terminée, [ADR.GetNameDef] a une fois de plus demandé à utiliser la protection politique et militaire de leur nation, comme c'était le cas dans les années précédentes."
- andorra.1.a:0 "Nous serons toujours amis avec les [ADR.GetHabitant]."
+ andorra.1.a:0 "Nous serons toujours amis avec les [ADR.GetHabitants]."
  andorra.1.b:0 "Nous ne sommes plus intéressés par l'Andorre."
  andorra.2.t:0 "L'Espagne rétablit sa garantie"
  andorra.2.d:0 "Le gouvernement espagnol a accepté de rétablir sa garantie de protection militaire sur notre nation, comme c'était le cas dans les années précédentes."

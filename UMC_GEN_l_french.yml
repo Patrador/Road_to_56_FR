@@ -1,8 +1,6 @@
 ﻿l_french:
  ########################## Basics ##########################       \n      §H§!
 
- SIK_caught_off_gruad:0 "Prendre l'ennemi au dépourvu"
- SIK_caught_off_gruad_desc:0 "[TNG.GetNameDefCap] a été pris au dépourvu avec nos récentes demandes et interventions et nous avons donc actuellement le dessus."
  GEN_personal_affair:0 "Affaire personnelle"
  GEN_personal_affair_desc:0 "La guerre actuelle dans laquelle se trouve [ROOT.GetNameDef] est plus personnelle que politique. Les autres nations ne veulent donc pas s'impliquer, et ne devraient pas le faire."
  GEN_non_escalation_pact:0 "Pacte de non-escalade"

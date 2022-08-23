@@ -51,9 +51,9 @@
  armored_car_equipment_2:0 "Véhicule blindé 42"
  armored_car_equipment_2_short:0 "Véhicule blindé 42"
  armored_car_equipment_2_desc:0 "Les véhicules blindés étaient souvent utilisés conjointement avec les troupes pour le soutien des troupes légères."
- armored_car_at_equipment:0 "Véhicule blindé 45"
- armored_car_at_equipment_short:0 "Véhicule blindé 45"
- armored_car_at_equipment_desc:0 "Les véhicules blindés étaient souvent utilisés conjointement avec les troupes pour le soutien des troupes légères."
+ armored_car_at_equipment:0 "Véhicule blindé antichar"
+ armored_car_at_equipment_short:0 "Véhicule blindé antichar"
+ armored_car_at_equipment_desc:0 "Les véhicules blindés étaient souvent utilisés conjointement avec les troupes pour le soutien des troupes légères. Équipé d'un canon léger à des fins antichars."
 
  #-> Towed artillery <><>
  artillery_equipment:0 "Artillerie tractée"

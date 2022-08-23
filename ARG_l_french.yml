@@ -1,6 +1,6 @@
 ﻿l_french:
  argentinian_focus:0 "Priorités nationales argentines"
- 
+
  ARG_end_of_economic_depresion:0 "Fin de la dépression économique"
  ARG_end_of_economic_depresion_desc:0 "Pour que notre nation prospère, nous devons nous débarrasser de l'ombre de la Grande Dépression."
  ARG_imports_substitution:0 "Substitution des importations"
@@ -99,14 +99,14 @@
  ARG_la_patria_grande_desc:0 "Les traités de paix ne suffisent pas. L'Amérique latine doit former un front uni pour se protéger du reste du monde."
  la_patria_grande_faction:0 "Patria Grande"
  ARG_la_patria_grande_tt:0 "Les nations d'Amérique latine sont invitées à rejoindre la faction Patria Grande."
- ARG_the_will_of_the_people:0 "La volonté du peuple"
- ARG_the_will_of_the_people_desc:0 "Un pays n'est rien sans son peuple, et c'est lui qui le dirige."
+ ARG_the_will_of_the_people_focus:0 "La volonté du peuple"
+ ARG_the_will_of_the_people_focus_desc:0 "Un pays n'est rien sans son peuple, et c'est lui qui le dirige."
  ARG_one_mind:0 "Un seul esprit"
  ARG_one_mind_desc:0 "Notre peuple partage des buts et des objectifs, se réunissant pour archiver des choses toujours plus grandes."
  ARG_integrate_native_tribes:0 "Intégrer les tribus indigènes"
  ARG_integrate_native_tribes_desc:0 "Les descendants des premiers habitants de l'Argentine ont été tenus à l'écart de notre société pendant bien trop longtemps. Il est temps de changer cela."
- ARG_liberty:0 "Liberté"
- ARG_liberty_desc:0 "La démocratie est le véritable gouvernement du peuple. Chaque voix doit être entendue."
+ ARG_liberty_focus:0 "Liberté"
+ ARG_liberty_focus_desc:0 "La démocratie est le véritable gouvernement du peuple. Chaque voix doit être entendue."
  ARG_befriend_uruguay:0 "Se rapprocher [URG.GetDuDelaDelNP] [URG.GetName]"
  ARG_befriend_uruguay_desc:0 "Se rapprocher [URG.GetDuDelaDelNP] [URG.GetName]"
  ARG_befriend_bolivia:0 "Se rapprocher [BOL.GetDuDelaDelNP] [BOL.GetName]"
@@ -117,8 +117,8 @@
  ARG_befriend_chile_desc:0 "Se rapprocher [CHL.GetDuDelaDelNP] [CHL.GetName]"
  ARG_brazil_coop:0 "Coopération avec [BRA.GetNameDef]"
  ARG_brazil_coop_desc:0 "En coopérant avec [BRA.GetNameDef], nous jetterons les bases d'une amitié durable entre nos pays."
- ARG_external_help:0 "Aide extérieure"
- ARG_external_help_desc:0 "Il est possible de remédier à notre faible développement technologique et à notre économie terne en demandant une aide internationale."
+ ARG_external_help_focus:0 "Aide extérieure"
+ ARG_external_help_focus_desc:0 "Il est possible de remédier à notre faible développement technologique et à notre économie terne en demandant une aide internationale."
  ARG_neutrality_foc:0 "Neutralité"
  ARG_neutrality_foc_desc:0 "Les plus grandes puissances mondiales sont au bord de la guerre, peut-être que si nous restons à l'écart, aucun mal ne nous sera fait."
  ARG_usa_coop:0 "Coopération [USA.GetAdjFS]"
@@ -247,7 +247,7 @@
  ARG_internationalism_desc:0 "L'idéologie ne connaît pas de frontières. Nos idéaux sont au-dessus de la souveraineté."
  ARG_demand_georgia:0 "Exiger la Géorgie du Sud"
  ARG_demand_georgia_desc:0 "La Géorgie du Sud est [ARG.GetAdjFS]. Qui sont les [ENG.GetHabitants] pour nous en priver ? S'ils ne sont pas prêts à la rendre, nous les y obligerons."
- ARG_brazil_non_agression:0 "Pacte de non-agression avec [BRA.GetNameDef]"
+ ARG_brazil_non_agression:0 "Pacte de non-agression avec le Brésil"
  ARG_brazil_non_agression_desc:0 "Une confrontation avec [BRA.GetNameDef] n'est pas dans notre intérêt. Pour améliorer nos relations avec le gouvernement brésilien, nous pouvons proposer un pacte de non-agression entre nos nations."
  ARG_brazil_joint_exercises:0 "Exercices conjoints [ARG.GetName]-[BRA.GetName]"
  ARG_brazil_joint_exercises_desc:0 "Nos deux nations connaissent un essor grâce à la situation en Europe. Nous devrions aider notre voisin pour montrer que nous sommes à ses côtés."
@@ -266,7 +266,7 @@
 
 
  ARG_instituto_aerotecnico_de_cordoba:0 "Instituto Aerotecnico de Cordoba"
- 
+
  ARG_american_oil_concern:0 "Pétrole industriel"
  ARG_american_oil_concern_desc:0 "Nos réserves de pétrole peuvent être développées, grâce à l'expertise [USA.GetAdjFS]."
  ARG_american_industrial_investments:0 "Investissements industriels [USA.GetAdjMP]"
@@ -362,7 +362,7 @@
  ARG_ArsenalEDL2:0 "Arsenal Esteban De Luca"
  ARG_Somisa:0 "Sociedad Mixta Siderúrgica (SOMISA)"
  ARG_Somisa2:0 "Sociedad Mixta Siderúrgica (SOMISA)"
- 
+
  #####Advisors#####
  ARG_generic_fascist_demagogue:0 "Juan Bautista Molina" ## Leader of the Nationalist Liberation Alliance. He was a nazi who admired Hitler, appointed by Justo to Germany, and who later joined forces with Anquín.
  ARG_generic_democratic_reformer:0 "Roberto María Ortíz" ## Leaned Allies and was a democratic reformer.

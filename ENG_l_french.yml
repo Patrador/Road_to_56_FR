@@ -156,3 +156,11 @@ ENG_elisabeth_ii:0 "Élisabeth II"
 r56_eng.5.t:0 "La mort de Georges VI"
 r56_eng.5.desc:0 "Georges VI est mort tragiquement. Laissant la nation dans un profond état de chagrin. Le peuple britannique se souviendra avec émotion de celui qui nous a conduits durant ces années éprouvantes. C'est maintenant à la princesse Élisabeth de prendre la succession et de porter la couronne d'État impériale. Espérons qu'elle fera preuve des mêmes capacités qu'Élisabeth et Victoria. Longue vie à la Reine !"
 r56_eng.5.a:0 "Longue vie à la Reine !"
+
+r56_eng.10.t:0 "Gilbert Stephenson"
+r56_eng.10.d:0 "Lorsque Gilbert Stephenson a été mis à la retraite (en tant que contre-amiral) de la Royal Navy en 1929, il était l'un des plus grands experts de la guerre anti-sous-marine. Lorsque la guerre éclate à nouveau, il est rappelé au service. Malgré son âge (il est né en 1878), il reste en forme, en bonne santé et énergique, et a la capacité d'appliquer son esprit incisif à tout ce que l'Amirauté juge bon de lui confier.\n\nHistoriquement, sa principale contribution a été de diriger le centre de formation des escortes à Tobermory (la baie de Tobermory est photographiée ci-dessous avec Stephenson), où lui et son équipe ont fait passer 1 132 cours de formation à 911 navires. Il a également joué un rôle dans la coordination de l'évacuation de Dunkerque en 1940, ainsi qu'en tant que commodore sur un certain nombre de convois très tôt dans la guerre.\n\nSous la direction de Stephenson, Tobermory a joué un rôle important dans la bataille de l'Atlantique, en permettant aux escortes de prendre la mer rapidement et avec un entraînement efficace. Les techniques novatrices mais difficiles de Stephenson ont influencé les procédures d'entraînement de la Royal Navy après la guerre, tout en lui valant le surnom de « Terreur de Tobermory »."
+r56_eng.10.a:0 "Que Stephenson s'occupe de Tobermory."
+r56_eng.10.b:0 "Donner à Stephenson un commandement en mer."
+
+ ENG_for_the_good_of_the_revolution_idea:1 "Pour le bien de la Révolution"
+ ENG_for_the_good_of_the_revolution_idea_desc:1 "Tous doivent être prêts à faire des sacrifices de confort pour le bien de l'État. Le peuple [ROOT.GetAdjMS] gardera la tête haute face au rationnement, confiant qu'il assurera notre victoire finale."
