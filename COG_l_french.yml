@@ -1,22 +1,14 @@
 ﻿l_french:
- #Congo content separated from Belgium and is moved here! -Fantom
-
  COG_neutrality_party:0 "GGC"
  COG_neutrality_party_long:0 "Gouvernorat général du Congo"
  COG_democratic_party:0 "ABAKO"
  COG_democratic_party_long:0 "Alliance des Bakongo"
-
- #decisions
  COG_embrace_new_identity:0 "Adopter une nouvelle identité"
  COG_embrace_new_identity_desc:0 "Maintenant que nous avons obtenu notre indépendance, nous devrions mettre de côté notre passé colonial et retrouver les noms propres de nos principales villes."
-
- COG_abandon_colonial_identity:0 "Abandonner l'identité coloniale"
+ COG_abandon_colonial_identity:0 "Abandon Colonial Identity"
  COG_abandon_colonial_identity_desc:0 "Le nouveau régime communiste du Congo ne peut pas montrer le triomphe de la révolution alors que les noms des villes sont encore des symboles vivants du passé impérialiste bourgeois. Pour régler la question, plusieurs villes doivent être renommées pour honorer les héros de la révolution et les inspirateurs du prolétariat."
-
  COG_return_of_colonial_administration:0 "Retour de l'administration coloniale"
  COG_return_of_colonial_administration_desc:0 "Maintenant que [COG.GetNameDef] est à nouveau sous notre contrôle, nous devons rétablir les noms des villes de la colonie."
-
- #Equipment
  COG_infantry_equipment_0:0 "Mauser Model 1889"
  COG_infantry_equipment_0_short:0 "Mauser m89"
  COG_infantry_equipment_1:0 "Mauser Model 1935"
@@ -27,12 +19,10 @@
  COG_infantry_equipment_3_short:0 "FN mle30 Type D"
  COG_infantry_equipment_4:0 "SAFN-49"
  COG_infantry_equipment_4_short:0 "SAFN-49"
-
  COG_support_weapons:0 "Mitrailleuses Hotchkiss 1914|Maxim '08/15'"
  COG_support_weapons_desc:0 "Les armes automatiques deviennent de plus en plus portables. Les mitraillettes ont déjà prouvé leur efficacité et le développement d'armes d'appui portatives doit se poursuivre."
  COG_support_weapons2:0 "Mortier Stokes-Brandt 81 mm Mle 27/31|Lance-Grenades 50mm DBT"
  COG_infantry_weapons2:0 "Mauser 1936"
-
  COG_gw_tank_equipment:0 "Renault FT"
  COG_gw_tank_equipment_short:0 "FT"
  COG_light_tank_equipment_1:0 "Carden-Loyd Mk.VI"
@@ -51,14 +41,14 @@
  COG_light_tank_destroyer_equipment_2_desc:0 "Les T-13 B1, B2 et B3 étaient équipés de canons AT de 47 mm de 1931 et constituaient le principal destructeur de chars de l'armée belge en 1940."
  COG_light_tank_aa_equipment_2:0 "T-15 AA"
  COG_light_tank_aa_equipment_2_short:0 "T-15 AA"
- COG_light_tank_artillery_equipment_2:0 "T-15 Artillery"
- COG_light_tank_artillery_equipment_2_short:0 "T-15 Art."
- COG_medium_tank_equipment_1:1 "Automitrailleuse de Combat ACG-1"
+ COG_light_tank_artillery_equipment_2:0 "Artillerie T-15"
+ COG_light_tank_artillery_equipment_2_short:0 "Art. T-15"
+ COG_medium_tank_equipment_1:1 "Automitrailleuse de combat ACG-1"
  COG_medium_tank_equipment_1_short:1 "ACG-1"
- COG_medium_tank_destroyer_equipment_1:1 "Automitrailleuse Anti-char ACG-2"
+ COG_medium_tank_destroyer_equipment_1:1 "Automitrailleuse antichar ACG-2"
  COG_medium_tank_destroyer_equipment_1_short:1 "ACG-2"
  COG_medium_tank_destroyer_equipment_1_desc:1 "L'ACG-2 est un prototype de destructeur de chars basé sur l'ACG-1. Il aurait été la suite logique de l'acquisition de l'ACG-1 par les Belges. Même sa silhouette est inconnue ; nous n'avons qu'une seule photo du prototype, et les plans originaux sont perdus. Le nom Automitrailleuse anti-char est un nom spéculatif basé sur le nom belge de l'ACG-1."
- COG_medium_tank_artillery_equipment_1:0 "Automitrailleuse de Support ACG-3"
+ COG_medium_tank_artillery_equipment_1:0 "Automitrailleuse de support ACG-3"
  COG_medium_tank_artillery_equipment_1_short:0 "ACG-3"
  COG_medium_tank_artillery_equipment_1_desc:0 "L'ACG-3 est une refonte imaginaire de l'ACG-2 qui aurait été réalisée en ouvrant le haut de la coque, en réduisant l'épaisseur du blindage et en remplaçant le canon antichar par une pièce d'artillerie standard."
  COG_medium_tank_artillery_equipment_2:0 "Tracteur d'artillerie de 155mm M40 "
@@ -69,7 +59,6 @@
  COG_medium_tank_destroyer_equipment_2_short:0 "M18"
  COG_modern_tank_equipment_1:0 "M46 Patton"
  COG_modern_tank_equipment_1_short:0 "Patton"
-#Added
  COG_light_tank_equipment_3:0 "Valentine"
  COG_light_tank_equipment_3_short:0 "Valentine"
  COG_light_tank_artillery_equipment_3_short:0 "Bishop"
@@ -88,11 +77,11 @@
  COG_heavy_tank_equipment_1_short:0 "B1"
  COG_heavy_tank_artillery_equipment_1:0 "Gun Carrier Mk. I"
  COG_heavy_tank_artillery_equipment_1_short:0 "Gun Carrier Mk. I"
- COG_heavy_tank_equipment_2:0 "M6A1 Heavy Tank"
+ COG_heavy_tank_equipment_2:0 "Char lourd M6A1"
  COG_heavy_tank_equipment_2_short:0 "M6A1"
  COG_heavy_tank_artillery_equipment_2:0 "Churchill AVRE"
  COG_heavy_tank_artillery_equipment_2_short:0 "Churchill AVRE"
- COG_heavy_tank_equipment_3:0 "M26 Pershing" #based on interest for Patton tanks later
+ COG_heavy_tank_equipment_3:0 "M26 Pershing"
  COG_heavy_tank_equipment_3_short:0 "Pershing"
  COG_heavy_tank_artillery_equipment_3:0 "T92 Howitzer Motor Carriage"
  COG_heavy_tank_artillery_equipment_3_short:0 "T92 HMC"
@@ -110,8 +99,6 @@
  COG_anti_air_equipment_1_short:0 "Bofors 40 mm"
  COG_anti_air_equipment_2:0 "75 mm Bourges/FRC Mle 1936"
  COG_anti_air_equipment_2_short:0 "75 mm FRC Mle 1936"
-
- #Focuses
  COG_colonial_autonomy:0 "Autonomie coloniale"
  COG_colonial_autonomy_desc:0 "Nous avons déjà demandé au ministère des colonies de nous accorder plus de libertés, mais cela nous a été systématiquement refusé."
  COG_empower_congolese:0 "Donner du pouvoir aux Congolais"
@@ -126,7 +113,6 @@
  COG_independence_desc:0 "Maintenant que nous avons rassemblé suffisamment de soutien dans les principales villes congolaises et au sein de la Force publique, nous devons réaliser un coup d'État. Cette frappe au cœur du système actuel nous libérera de l'influence belge."
  COG_doctrinal_marxism:0 "Marxisme doctrinal"
  COG_doctrinal_marxism_desc:0 "Le marxisme-léninisme est le seul moyen de libérer les travailleurs de la tyrannie des capitalistes qui augmentent leurs exigences concernant le nombre d'heures de travail dans les mines. Il est temps de s'unir et de forcer la création d'un syndicat fort."
- COG_masses_education:0 "Éducation des masses"
  COG_masses_education_desc:0 "L'alphabétisation est la première étape nécessaire pour libérer les travailleurs."
  COG_political_commissars:0 "Commissaires politiques"
  COG_political_commissars_desc:0 "« Ces ordres ne suivent pas les lignes du parti ! »"
@@ -142,8 +128,6 @@
  COG_influence_south_africa_desc:0 "Les indigènes d'Afrique du Sud ont été opprimés pendant bien trop longtemps. Nous devons leur montrer la voie du socialisme afin de les libérer de l'oppression coloniale et de les faire rejoindre notre camp."
  COG_technology_sharing_communism:0 "Fraternité scientifique"
  COG_technology_sharing_communism_desc:0 "La science conduira l'humanité sur la véritable voie du socialisme."
-
-
  COG_force_publique_conscription:0 "Limites de la Force publique"
  COG_force_publique_conscription2:0 "Recrutement de la Force publique"
  COG_masses_education:0 "Éducation des masses"
@@ -155,8 +139,6 @@
  COG_italian_scientific_advisors:0 "Conseillers italiens"
  COG_colonial_manpower:0 "Main-d'œuvre coloniale"
  COG_support_communism_africa:0 "Soutien communiste congolais"
-
-
  COG_Support_the_congo_railways:0 "Office des transports coloniaux"
  COG_Support_the_congo_railways_desc:0 "Fondé en 1935, l'Office des transports coloniaux ou OTRACO était chargé du système ferroviaire du Congo belge."
  COG_congo_rubber:0 "Étendre les plantations de caoutchouc"
@@ -175,7 +157,6 @@
  COG_support_tungsten_mining3_desc:0 "Découverts au fil des ans dans diverses régions du Congo, les riches minerais de la colonie n'attendent que la civilisation pour les cueillir afin d'aider notre économie."
  COG_support_tungsten_mining4:0 "Maximiser l'extraction de tungstène"
  COG_support_tungsten_mining4_desc:0 "Découverts au fil des ans dans diverses régions du Congo, les riches minerais de la colonie n'attendent que la civilisation pour les cueillir afin d'aider notre économie."
-
  COG_support_copper_mining:0 "Débuter l'extraction de cuivre"
  COG_support_copper_mining_desc:0 "Découverts au fil des ans dans diverses régions du Congo, les riches minerais de la colonie n'attendent que la civilisation pour les cueillir afin d'aider notre économie."
  COG_support_copper_mining2:0 "Développer les mines de cuivre"
@@ -208,8 +189,6 @@
  COG_gold_extraction_desc:0 "« L'argent est le nerf de la guerre » disait Cicéron. Deux mille ans plus tard, ce dicton est plus vrai que jamais. Le Congo possède un grand trésor gardé par la terre jalouse. En ce moment, plus que jamais, nous en avons un besoin urgent."
  COG_diamond_extraction:0 "Intensifier l'extraction de diamants"
  COG_diamond_extraction_desc:0 "Au-delà de son utilisation en bijouterie, le diamant a également de nombreuses utilisations dans le secteur industriel. L'industrie militaire ayant créé un boom de la demande de diamants, nous devons veiller à extraire suffisamment du minéral le plus dur qui existe pour approvisionner nos partenaires."
-
-
  COG_invest_in_nuclear_program:0 "Soutenir l'exploitation d'uranium de Katanga"
  COG_invest_in_nuclear_program_desc:0 "En nous appuyant sur les théories de la relativité d'Albert Einstein et sur la désintégration radioactive de l'uranium 238, nous avons découvert que la fission de l'atome génère d'énormes quantités d'énergie. Nous devons étudier la possibilité de la théorie de la réaction en chaîne, et pour ce faire, nous devons extraire d'énormes quantités de minerai d'uranium. Nous espérons que nos mines de Kolwezi et de Shinkolobwe pourront produire les quantités requises."
  COG_further_nuclear_research:0 "Exploitation et exportation d'uranium"
@@ -222,7 +201,6 @@
  COG_extra_tech_slot_desc:0 "L'Institut des sciences coloniales était le principal organisme de recherche lié au Congo belge. Installé à Anvers, en Belgique, il était spécialisé dans l'étude de la géologie et de la nature de la colonie. Il était complété par des stations de recherche locales sur le terrain. En outre, un immense institut agronomique, l'Institut national d'études agronomiques du Congo belge, permet à la colonie d'augmenter les rendements de façon spectaculaire."
  COG_extra_tech_slot_2:0 "Inviter des spécialistes techniques"
  COG_extra_tech_slot_2_desc:0 "Pour relever les défis de notre époque, nous devons accroître notre potentiel d'innovation. L'invitation d'experts étrangers nous permettra d'acquérir de nouvelles capacités techniques et de relever les défis de cette génération."
-
  COG_colonial_loyalty:0 "Loyauté coloniale"
  COG_colonial_loyalty_desc:0 "Notre gouvernement doit être réorganisé afin qu'il puisse faire face aux nouveaux défis. Actuellement, le gouverneur général détient trop de pouvoir et nous devrions lui permettre de déléguer une partie de son pouvoir à des personnes compétentes."
  COG_reinforce_colonial_government:0 "Renforcer le gouvernement colonial"
@@ -245,8 +223,6 @@
  COG_finance_planes_belgium_desc:0 "Nous devons montrer notre soutien à la Belgique qui se bat pour préserver son indépendance. Nous organiserons une grande campagne de financement à travers la colonie pour financer la construction d'avions pour l'armée belge."
  COG_expand_force_publique_recruitment:0 "Élargir le recrutement de la Force publique"
  COG_expand_force_publique_recruitment_desc:0 "Pour compenser les pertes de guerre, une augmentation du recrutement est nécessaire."
-
-
  COG_build_revolution:0 "Bâtir la Révolution"
  COG_build_revolution_desc:0 "Motivés par la perspective d'un avenir meilleur, les travailleurs travailleront davantage afin d'assurer le triomphe de la révolution."
  COG_manipulate_native_masses:0 "Manipuler les masses indigènes"
@@ -265,7 +241,6 @@
  COG_join_italy_desc:0 "L'Italie est notre modèle et nous devons soutenir l'ordre nouveau par tous les moyens possibles."
  COG_technology_sharing_fascism:0 "La force de la coopération"
  COG_technology_sharing_fascism_desc:0 "Nous ne combattrons pas cette guerre seuls, mais si nous unissons nos efforts, nous pouvons assurer la continuité de la domination européenne sur une Afrique libérée des influences bolchéviques."
-
  COG_reform_the_force_publique:0 "Réformer la Force publique"
  COG_reform_the_force_publique_desc:0 "La Force publique est en mauvais état. Les fusils sont vieux et les officiers ont un moral bas, nous devons changer cela."
  COG_engineers_corps:0 "Corps d'ingénieurs"
@@ -282,7 +257,6 @@
  COG_continue_the_armament_modernization_program_desc:0 "Même avec de nouveaux fusils, le reste de l'équipement est encore vieux et doit être amélioré."
  COG_finalize_the_equipment_modernization_program:0 "Finaliser le programme de modernisation de l'équipement"
  COG_finalize_the_equipment_modernization_program_desc:0 "Avec quelques efforts supplémentaires, nous serons en mesure de mettre ce qui était une force de police coloniale au niveau d'une armée nationale permanente."
-
  COG_modernize_police_formation:0 "Moderniser la formation de la police"
  COG_modernize_police_formation_desc:0 "La Force publique n'est (du moins en théorie) pas une armée mais une force de police coloniale. En tant que telle, les missions de police constituent une partie essentielle de ses tâches quotidiennes."
  COG_modernize_tactics:0 "Moderniser les tactiques"
@@ -299,7 +273,6 @@
  COG_fortify_congo_mouth_desc:0 "Nos principaux atouts se trouvent à l'embouchure du fleuve Congo, cette région vitale doit être protégée. Afin d'atteindre cet objectif, nous devons mettre en place un véritable corps fluvial. Cette nouvelle culture devrait être équipée de petits bateaux rapides afin de patrouiller sur toute la longueur du fleuve."
  COG_fortify_cities:0 "Protéger les autres villes"
  COG_fortify_cities_desc:0 "Même si Léopoldville est sécurisée, les autres villes, Elisabethville au Katanga et Stanleyville dans la Province « orientale », sont encore vulnérables et doivent être renforcées."
-
  COG_air_force_congo:0 "Aviation de la Force publique"
  COG_aviation_effort_tt:0 "Pas assez d'emplacements de construction pour une §Ybase aérienne§!"
  COG_air_force_congo_desc:0 "Les progrès technologiques ne sont nulle part aussi rapides que dans la guerre aérienne. L'aviation est un domaine que toute nation moderne doit maîtriser."

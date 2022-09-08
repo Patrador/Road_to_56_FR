@@ -7,7 +7,6 @@
  STAT_NAVY_LG_ARMOR_PIERCING_DESC:0 "Capacité de perforation des blindages par l'artillerie légère."
  STAT_NAVY_LG_ARMOR_PIERCING_VALUE:0 "$VALUE|H1$"
  STAT_NAVY_LG_ARMOR_PIERCING_DIFF:0 " $VALUE|=+1$"
- 
  STAT_NAVY_HG_ATTACK:1 "Attaque lourde : "
  STAT_NAVY_HG_ATTACK_DESC:0 "Dommages causés par l'artillerie lourde, plus efficace pour toucher les plus gros navires."
  STAT_NAVY_HG_ATTACK_VALUE:0 "$VALUE|H1$"

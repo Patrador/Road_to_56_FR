@@ -1,10 +1,8 @@
 ﻿l_french:
  r56_SIK_bring_kashgar_back_into_the_fold:0 "Ramener Kachgar parmi nous"
  r56_SIK_bring_kashgar_back_into_the_fold_desc:0 "Nous en avons assez de la charade de [TNG.getleader]. Nous lui avons permis d'avoir trop de contrôle sur le district militaire de Kachgar, et il est temps que nous abordions cette question une fois pour toutes.\n\n§REnvoyer un ultimatum à [TNG.getleader] avant que [SOV.GetNameDef] ne s'engage à soutenir [SIK.GetLeader] aura pour conséquence que [SOV.GetNameDef] ne nous aidera pas dans la guerre contre [TNG.GetNameDef].§!"
-
  SIK_caught_off_gruad:0 "Ennemi pris au dépourvu"
  SIK_caught_off_gruad_desc:0 "[TNG.GetNameDefCap] a été pris au dépourvu par nos récentes demandes et interventions et nous avons donc actuellement le dessus."
-
  sik.1.t:0 "[SIK.getleader] exige un contrôle direct sur l'armée du district de Kachgar."
  sik.1.desc:0 "Il semblerait que les récentes victoires politiques de [SIK.getleader] l'ont enhardi. Il estime qu'il a le droit et le devoir de gouverner toutes les régions du Xinjiang, y compris l'armée de Kachgar, qui est sous notre contrôle. Bien qu'une telle action ne soit qu'un coup d'éclat et une perte de pouvoir de [TNG.GetLeader]. Un homme que [SIK.GetLeader] considère comme un rival de son pouvoir dans la région. Comment devrions-nous répondre à une demande aussi déraisonnable ?"
  sik.1.a:0 "Rassembler le peuple et lutter contre le traître [SIK.GetLeader] !"

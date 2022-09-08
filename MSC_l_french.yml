@@ -1,9 +1,5 @@
 ﻿l_french:
-
- #Other
  WHILE_FOCUSING:0 "While focusing on this, there will be the following effects:\n$EFF$"
-
- #Africa Mod
  GEN_entre:0 "Organization"
  GEN_entre_desc:0 "This day our government has demanded the most important Resolution, that ever was taken in our country."
  GEN_etat:0 "Diplomatic Branch"
@@ -204,8 +200,6 @@
  GEN_onoa_claim2:0 "Claims Coming Soon"
  GEN_onoa_claim3:0 "Claims Coming Soon"
  GEN_onoa_claim4:0 "Claims Coming Soon"
-
- #Mongol Mod
  mon_political_effort:0 "Political View"
  mon_political_effort_desc:0 "How we view the world determines the options that our future may hold."
  mon_revive_the_empire:0 "Revive The Fallen Empire"
@@ -278,8 +272,6 @@
  Modernize_the_mongol_cavalry_desc:0 "In the past we were the undisputed masters of the horse. Let us bring back those ancient days of dominance by speed and mobility."
  found_mongol_army_research_institute:0 "The Central Institute"
  found_mongol_army_research_institute_desc:0 "The finest minds of our nation have banded together, and we shall reap the benefits."
-
- #Tibet Mod
  stay_isolated_by_the_mountains:0 "Stay Isolated"
  stay_isolated_by_the_mountains_desc:0 "We have no desire to venture forth from our traditional homeland. Let us stay here, and cherish the place of our ancestors."
  greater_tibet:0 "Greater Tibet"
@@ -328,8 +320,6 @@
  ideological_fanaticism_tib_desc:0 "What was enough in times past does not even break soft ground today. We must push for more, and without hesitation, in all things."
  bhutan_war_focus:0 "War Against Bhutan"
  bhutan_war_focus_desc:0 "We must enlighten our neighbors to the south, whether they wish it or not."
-
- #Africa Mod
  africa_e_events.1:0 "Application for Joining Pan-Africa Union"
  africa_e_events.1.t:0 "Application for Joining Pan-Africa Union"
  africa_e_events.1.desc:0 "Our government have received an application for Joining Pan-Africa Union"
@@ -370,7 +360,7 @@
  africa_e_events.10:0 "2nd Independence Referendum"
  africa_e_events.10.t:0 "The 2nd Independence Referendum"
  africa_e_events.10.desc:0 "Lets see if we managed to unite the people behind our cause, will they vote for independence or not?"
- africa_e_events.10.a:0 "Lets Vote!""
+ africa_e_events.10.a:0 "Lets Vote!\""
  africa_e_events.11:0 "[Root.GetAdjective] Civil War"
  africa_e_events.11.t:0 "[Root.GetAdjective] Civil War"
  africa_e_events.11.desc:0 "There was not enough interests in making [From.GetName] independent! \nSupporters for Independence declared War against those Colonial Lovers!"
@@ -444,18 +434,6 @@
  AE_PA10desc: "Do we rally behind this idea of an Union, that defense our common goals?"
  AE_PA10opta: "Decline"
  AE_PA10optb: "Join"
-
- #Expanded National Focus Mod
- #newsmod.1.t:0 "Franco-Soviet Treaty"
- #newsmod.1.d:0 "France and the Soviet Union have just announced an increase in warm relations between the two countries. After weeks of discussion, they have signed a joint Franco-Soviet Treaty that would increase the economic and military ties between the two countries, particularly in regard to technological research and innovation. Nearby countries fear this is to prepare to spread communism through war."
- #newsmod.1.a:0 "Welcome, comrades."
- #newsmod.1.b:0 "Cheers, comrades!"
- #newsmod.1.c:0 "Worrying."
- #newsmod.2.t:0 "Japan And France Enter Military Alliance"
- #newsmod.2.d:0 "Initiated by the French, Japan and France have just announced their intent to sign a military alliance between the two countries. France's recent switch to an ultra-nationalist government has the world worried. What could this alliance have been made for? Some speculate for an eventual war against the Soviets."
- #newsmod.2.a:0 "We welcome them!"
- #newsmod.2.b:0 "Excellent."
- #newsmod.2.c:0 "The plot thickens."
  newsmod.3.t:0 "Germany Accepts British Empire Into Axis"
  newsmod.3.d:0 "This past year, ultra-nationalist fascist movements exploded in Britain. The democratic way of life has become a minority as the nation embraces fascism. What's more - the British have decided to join in an alliance with Hitler and the German Reich, threatening the stability of Europe. The Dominions have also been forced to join the Axis, but they are reluctant and feel the time has come to distance themselves from Britain...."
  newsmod.3.a:0 "A true turning point in our history!"
@@ -463,7 +441,7 @@
  newsmod.3.c:0 "We do not agree to this!"
  newsmod.3.e:0 "Worrying."
  newsmod.4.t:0 "Rome-Berlin Axis"
- newsmod.4.d:0 "Initiated by the Italians, Germany and Italy have just announced their intent to sign a military alliance between the two countries, a "Rome-Berlin Axis." As the two main fascist regimes in Europe, it was to be expected, but what could this alliance have been made for? Some speculate they are preparing for war."
+ newsmod.4.d:0 "Initiated by the Italians, Germany and Italy have just announced their intent to sign a military alliance between the two countries, a \"Rome-Berlin Axis.\" As the two main fascist regimes in Europe, it was to be expected, but what could this alliance have been made for? Some speculate they are preparing for war."
  newsmod.4.a:0 "The Germans are our natural ally!"
  newsmod.4.b:0 "The Italians may prove useful."
  newsmod.4.c:0 "This is a threat to peace in Europe."
@@ -494,39 +472,15 @@
  newsmod.10.d:0 "With Mussolini dead and the fascists waning power, the leaders of [ITA.GetName] have decided the time has come to depose King Emmanuel III. Hundreds of thousands of Italians take to the streets across the country, chanting for the monarch's expulsion from government and the abolition of the monarchy."
  newsmod.10.a:0 "The era of royalty is over!"
  newsmod.10.b:0 "We will send a letter wishing the former king well."
-
- #Mongol Mod
- #mongol.1.t:0 "What tu do with Tuva?"
- #mongol.1.d:0 "Mongolia wishes to claim land that belongs to us. It seems that we must give in, or face the prospect of war with the Horse Lords."
- #mongol.1.a:0 "A bit of Land for Thee"
- #mongol.1.b:0 "The horses need exercise"
- #mongol.2.t:0 "Riding over the Plains"
- #mongol.2.d:0 "The Tuvans refused to see wisdom in our offer, and now we have no choice but to bring them to heel. Let our horses ride!"
- #mongol.2.a:0 "This is fate"
- #mongol.3.t:0 "A Friendly Exchange"
- #mongol.3.d:0 "The Tuvans have heard the sound of our swords, and have wisely given in to our demands. If only other nations were as sagacious in their dealings."
- #mongol.3.a:0 "As it should be"
- #mongol.4.t:0 "The Mischievous Mengkukuo Menace"
- #mongol.4.d:0 "The barbarians to the west seek to expand their empire yet again. It seems that war is inevitable unless we strike an agreement."
- #mongol.4.a:0 "Let them try"
- #mongol.4.b:0 "Maybe we can compromise"
- #mongol.5.t:0 "Sword always beats Pen"
- #mongol.5.d:0 "It's time for us to once again raid the Southern lands, and make dust of their foppish ways. Their fields will yield for us, as their soldiers wither away."
- #mongol.5.a:0 "Like the wind, we ride"
- #mongol.6.t:0 "An Invitation to Peace"
- #mongol.6.d:0 "Our enemies have seen fit to bow even before we raised our saddles. Their weakness, while pitiful, is most convenient."
- #mongol.6.a:0 "One step closer"
  AE_PA_treaty_prospective_member: "Pan-Africa Treaty Candidate"
  AE_PA_treaty_prospective_member_desc: "This country has been invited to join the Pan-Africa Treaty and is entitled to become a full pledged member as so long as the country remains at peace."
  AE_PA_treaty_member: "Pan-Africa Treaty Member"
  AE_PA_treaty_member_desc: "This country has formally ratified all Agreements of the Pan-Africa Treaty."
  GFX_idea_AE_PA_treaty_military_member: "Pan-Africa Union Member"
  GFX_idea_AE_PA_treaty_military_member_desc: "This country has joined the Pan-Africa Union."
-
  PER_diplomacy_focus:0 "Persian Diplomacy Focus"
  PER_claimed_the_gulf:0 "Claimed the Persian Gulf States"
  PER_nationalized_oil:0 "Nationalized Oil Reserves"
-
  PER_claimed_iraq:0 "Claimed Iraq"
  PER_claimed_afghanistan:0 "Claimed Afghanistan"
  PER_claimed_turkey:0 "Claimed Turkey"

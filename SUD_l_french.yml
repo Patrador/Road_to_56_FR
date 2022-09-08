@@ -1,6 +1,4 @@
 ﻿l_french:
-
-
  SUD_ansar_nationalism:0 "Nationalisme des Ansars"
  SUD_ansar_nationalism_desc:0 ""
  SUD_invite_the_mahdists:0 "Inviter les Mahdistes"
@@ -19,7 +17,6 @@
  SUD_secure_egypt_desc:0 ""
  SUD_liberate_the_holy_land:0 "Libérer la Terre Sainte"
  SUD_liberate_the_holy_land_desc:0 ""
-
  SUD_strengthen_constitutionalism:0 "Renforcer le constitutionnalisme"
  SUD_strengthen_constitutionalism_desc:0 ""
  SUD_form_the_congress:0 "Former le Congrès"
@@ -28,19 +25,16 @@
  SUD_hold_presidential_elections_desc:0 ""
  SUD_sudanese_socialism:0 "Le socialisme soudanais"
  SUD_sudanese_socialism_desc:0 ""
-
  SUD_unstable_nation:0 "Nation divisée"
  SUD_unstable_nation_desc:0 "La politique soudanaise est loin d'être stable, en raison de facteurs tels que les conditions de vie appauvries et les conflits ethniques, il est exceptionnellement difficile pour un gouvernement fort de s'établir."
  SUD_unstable_nation_2:0 "Nation divisée"
  SUD_unstable_nation_2_desc:0 "La politique soudanaise est loin d'être stable, en raison de facteurs tels que les conditions de vie appauvries et les conflits ethniques, il est exceptionnellement difficile pour un gouvernement fort de s'établir."
  SUD_religious_militarism:0 "Militarisme religieux"
  SUD_religious_militarism_2:0 "Militarisme religieux"
-
  SUD_sudanese_navy:0 "Former la marine soudanaise"
  SUD_sudanese_navy_desc:0 ""
  SUD_the_big_guns:0 "Les gros calibres"
  SUD_the_big_guns_desc:0 ""
-
  SUD_first_sudanese_airforce:0 "Première armée de l'air soudanaise"
  SUD_first_sudanese_airforce_desc:0 ""
  SUD_cas_effort:0 "Appui aérien rapproché"

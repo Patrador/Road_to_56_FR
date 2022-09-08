@@ -1,33 +1,20 @@
 ﻿l_french:
-
-
-#Parties
  VNZ_democratic_party:0 "LD"
  VNZ_democratic_party_long:0 "Lega Democratica"
-
  VNZ_neutrality_party:0 "LSM"
  VNZ_neutrality_party_long:0 "Leone di San Marco"
-
  VNZ_communism_party:0 "PCV"
  VNZ_communism_party_long:0 "Partito Communista del Veneto"
-
  VNZ_fascism_party:0 "PFR"
  VNZ_fascism_party_long:0 "Partito Fascista Repubblicano"
-
  VNZ_integrate_trieste:0 "Integrate Trieste"
  VNZ_integrate_zara:0 "Integrate Zara"
-
  VNZ_integrate_dalmatia:0 "Integrate Dalmatia"
-
  sade:0 "SADE"
  VNZ_generic_industrial_concern:0 "IENPV"
  VNZ_generic_industrial_concern_desc:0 "Imprese elettrometallurgiche e navali nel porto di Venezia"
  VNZ_IENPV_battlefleet:0 "IENPV"
  VNZ_porto_industriale_di_venezia:0 "Porto Industriale di Venezia"
-
- #Porto industriale di Venezia
-
-#Brittany semi generic
  VNZ_army_effort:0 "Organize the Armed Forces"
  VNZ_army_effort_desc:0 "Despite the increasing possibilities of aerial and naval warfare, ground combat is still crucial in tomorrow's wars. With preparation, we can avoid reliving the hell of the trenches."
  VNZ_equipment_effort:0 "Modernize the Equipment"
@@ -184,7 +171,6 @@
  VNZ_ideological_fanaticism:0 "Ideological Fanaticism"
  VNZ_ideological_fanaticism_desc:0 "Our politically established values and goals are worth dying for as much as any ancient faith. Any follower should be prepared to face death, and those who stray better be prepared to face death."
  VNZ_conservatism_focus:0 "Catholic Influence"
- VNZ_conservatism_focus_desc:0 "Catholic Influence."
  VNZ_welfare_focus:0 "Social Reforms"
  VNZ_conservatism_focus_desc:0 "Social Reforms."
  VNZ_political_coalition_focus:0 "Political Coalition"

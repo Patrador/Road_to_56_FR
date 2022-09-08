@@ -195,14 +195,12 @@
  LAT_events.8.d:0 "\nLa décision de lever l'interdiction d'appartenir au mouvement de la Croix de tonnerre a encore enhardi Gustavs Celmiņš et ses partisans, les incitant à se montrer plus actifs et à propager la violence dans tout le pays. Aujourd'hui même, ces débordements ont connu un véritable pic, les membres de la Pêrkonkrusts ayant décidé de prendre les armes pour marcher sur Riga afin d'exiger la démission immédiate du gouvernement.\n\nS'il paraît évident que [Root.GetLeLaLDir] [Root.GetLeader] cherchait à collaborer avec le mouvement, ses militants paraissent n'avoir quant à eux aucune intention de l'inclure dans le régime qu'ils entendent visiblement fonder."
  LAT_events.8.a:0 "Nous devons réprimer ces traîtres !"
  LAT_events.8.b:0 "Les [LAT.GetHabitants]\ndoivent apprendre à s'endurcir enfin !"
-
  nsb_coup.0.t:0 "Une conspiration chez les officiers ?"
  nsb_coup.0.desc:0 "Si ce n'est guère un secret que certains généraux sont mécontents de la situation [Root.GetAuEnANP] [Root.GetName], il semble que certains ont commencé à envisager des solutions plus radicales pour résoudre les problèmes dont ils s'inquiètent. Des officiers ont participé à plusieurs entrevues, en un lieu tenu secret, quelque part dans l'État de [?.Root.meeting_location.GetName].\n\nNous avons peu de détails, mais il y a toutes les raisons de croire que [coup_member_1.GetName] et [coup_member_2.GetName] sont du nombre. On suppose aussi que ce dernier est en contact avec [coup_member_3.GetName], mais la nature exacte de leur relation n'est pas claire."
  nsb_coup.0.a:0 "Nous devons découvrir\nle fin mot de tout cela"
  nsb_coup.1.t:0 "[Root.GetLeLaLDirCap] [Root.GetLeader]\nprend le pouvoir"
  nsb_coup.1.desc:0 "\nAprès des semaines de planifications méticuleuses, un groupe d'officiers dirigé par [Root.GetLeLaLDir] [Root.GetLeader] a lancé aujourd'hui l'opération [Root.GetOperationName], visant à prendre le pouvoir.\n\nCes longs préparatifs ont porté leurs fruits, puisque les unités qui lui étaient loyales ont pu s'assurer très vite du contrôle de l'ensemble des bâtiments gouvernementaux. Les gardes et les forces de police sur place, cernés, se sont rendus tirer un seul coup de feu. Quant aux ministres et hauts fonctionnaires qui tentaient de fuir [Root.Capital.GetCapitalVictoryPointName], ils ont tous été interceptés grâce à des barrages routiers.\n\nL'ancien gouvernement se trouvant désormais en prison, [Root.GetLeLaLDir] [Root.GetLeader] a mis les [Root.GetHabitants] devant le fait accompli, et les autorités locales vont certainement prêter allégeance très vite."
  nsb_coup.1.a:0 "Mieux vaut accepter\nla situation nouvelle..."
- #translation notes: these are names and shouldn't be translated - non-latin alphabets may however transcribe them
  GER_operation_1:0 "Walküre"
  GER_operation_2:0 "Schleifstein"
  GER_operation_3:0 "Stierkampf"
@@ -215,7 +213,6 @@
  ENG_operation_2:0 "Sweetfish"
  ENG_operation_3:0 "Jester"
  ENG_operation_4:0 "Prominence"
- #translation notes: these generic operation names can be translated
  generic_operation_1:0 "Contingence 1"
  generic_operation_2:0 "Contingence 2"
  generic_operation_3:0 "Contingence 3"
@@ -226,7 +223,6 @@
  nsb_coup.3.t:0 "Tentative de coup d'État"
  nsb_coup.3.desc:0 "Après des semaines de planifications, un groupe d'officiers a lancé la nuit dernière l'opération [Root.GetOperationName], visant à prendre le pouvoir.\n\nIl est toutefois apparu très vite qu'ils avaient mis en œuvre leur plan de manière prématurée, et la situation a rapidement viré à la plus grande confusion. La tentative faite pour arrêter ou tuer [Root.GetLeLaLDir] [Root.GetLeader] a échoué, et les barrages routiers établis autour de [Root.Capital.GetCapitalVictoryPointName] n'ont pu empêcher de nombreux ministres et hauts fonctionnaires de fuir.\n\nLe gouvernement [Root.GetAdjMS] est toujours en place, et [Root.GetLeLaLDir] [Root.GetLeader] a juré de tout faire pour emmener les traîtres en justice."
  nsb_coup.3.a:0 "Cette insurrection sera vite écrasée !"
-
  LAT_events.2.t:0 "[From.GetLeLaLNPCap] [From.GetName] exig[From.GetEEntNP]\nnotre annexion"
  LAT_events.2.d:0 "\nPrenant prétexte des tensions croissantes autour de la Baltique, [From.GetLeLaLDir] [From.GetLeader] a déclaré que l'unification des pays baltes était devenue une nécessité absolue pour assurer la survie de nos trois États. Toutefois, appliquer les exigences présentées par le ministre [From.GetAdjMS] des Affaires étrangères ne nous contraindrait pas seulement à démettre [Root.GetLeLaLDir] [Root.GetLeader] de ses fonctions, mais ferait [Root.GetDuDelaDelPartiPouv] [Root.GetRulingParty] un relais de l'administration [From.GetAdjFS] sur nos territoires."
  LAT_events.2.a:0 "Avons-nous vraiment le choix ?"
@@ -325,7 +321,6 @@
  EST_events.11.t:0 "Les vapsid et [Root.GetLeLaLPartiFasc] [Root.GetFascistParty]"
  EST_events.11.d:0 "Arrivés au pouvoir [EST.GetAuEnANP] [EST.GetName], les vapsid ont signé un accord de coopération avec [Root.GetLeLaLPartiFasc] [Root.GetFascistParty]. Déjà, le mouvement soutient les groupes fascistes [FIN.GetAdjMP] par sa propagande et des manifestations dans tout le pays. Seules des actions rapides et décisives du gouvernement, en interdisant ces ligues factieuses, pourraient permettre de mettre fin à la question de manière définitive."
  EST_events.11.a:0 "Qui se ressemble s'assemble..."
-
  NSB_poland_communist_events.1.a:0 "[POL.GetLeLaLNPCap] [POL.GetName]\nconserver[POL.GetAOntNP] [POL.GetSonLeurNP] indépendance"
  NSB_poland_communist_events.1.b:0 "[POL.GetIlElleNPCap] appartien[POL.GetTNentNP]\n[SOV.GetAuAlaAlNP] [SOV.GetName]"
  NSB_poland_communist_events.1.desc:0 "Le Parti communiste a longtemps été la proie de conflits entre ceux qui souhaitent voir [POL.GetLeLaLNP] [POL.GetName] s'aligner sur [SOV.GetLeLaLNP] [SOV.GetName] et ceux qui pensent que [SOV.GetCeluiCelleNP]-ci [SOV.GetEstSontNP] tout aussi impérialiste[SOV.GetXSNP] que le régime autocratique qu'[SOV.GetIlElleNP] [SOV.GetAOntNP] remplacé.\n\nL'une des figures de proue des anti-[SOV.GetAdjMP] est Maria Koszutska, une [Root.GetStalinistOrTrotskyite] qui n'hésite pas à accuser ses camarades pro-[SOV.GetAdjMP] de manquer de courage et d'agir en ennemis de la Révolution.\n\nWładysław Gomułka est quant à lui devenu le meneur des pro-[SOV.GetAdjMP] au sein du Parti. S'il en était déjà un membre important, il est devenu de plus en plus populaire chez les [POL.GetHabitants] pour sa posture diplomatique pro-russe.\n\nLe Parti dirige donc [POL.GetLeLaLNP] [POL.GetName], mais est très divisé sur la question de ses orientations et de ses dirigeants. Cela laisse donc les mains libres à Moscou pour faire pression afin non seulement de marginaliser Koszutska, mais aussi aller jusqu'à la faire juger comme [Root.GetStalinistOrTrotskyite] et antirévolutionnaire."
@@ -345,7 +340,7 @@
  NSB_poland_events.2.b:0 "Ces revendications sont évidemment\nnulles et non avenues"
  NSB_poland_events.2.d:1 "\nLa longue régence qu'a connue le pays semble avoir enhardi [From.GetLeLaLDir] [From.GetLeader], au point qu'[From.GetIlElleDir] vient de prétendre au titre de roi [Root.GetDuDeDNP] [Root.GetName]. [Root.GetIlElleDirCap] s'appuie pour cela sur l'histoire commune de nos pays au cours du Moyen Âge, alors que Pologne et Hongrie étaient unies sous un seul monarque. On a donc affaire à une volonté manifeste d'étendre ses territoires."
  NSB_poland_events.2.t:0 "[From.GetLeLaLDirCap] [From.GetLeader] revendique\nle trône [Root.GetDuDeDNP] [Root.GetName]"
- NSB_poland_events.201.a:0 "Magnifique !"
+ NSB_poland_events.201.a:0 "Excellent."
  NSB_poland_events.201.desc:1 "Tous les autres prétendants au trône [From.GetDuDeDNP] [From.GetName] ont été repoussés, et [Root.GetLeLaLDir] [Root.GetLeader] vient d'être reconnu[Root.GetXEDir] comme monarque du pays. [Root.GetIlElleDirCap] réunit donc en sa personne l'autorité à la fois sur [Root.GetLeLaLNP] [Root.GetName] et [From.GetLeLaLNP] [From.GetName], et la domination [Root.GetAdjFS] en Europe centrale semble donc désormais plus accessible que jamais."
  NSB_poland_events.201.t:0 "[From.GetLeLaLNPCap] [From.GetName] accept[From.GetEEntNP]"
  NSB_poland_events.202.a:0 "Ils ne nous laissent pas le choix"
@@ -520,7 +515,7 @@
  NSB_polish_fascist_events.202.a:0 "C'est pour le moins regrettable..."
  NSB_polish_fascist_events.202.desc:0 "Les [GER.GetHabitants] semblent avoir leurs propres projets concernant les territoires [LIT.GetAdjMP], et ils ont repoussé sans ambages notre proposition de partage."
  NSB_polish_fascist_events.202.t:0 "[From.GetLeLaLNPCap] [From.GetName] refus[From.GetEEntNP]"
- NSB_polish_fascist_events.203.a:0 "Superbe !"
+ NSB_polish_fascist_events.203.a:0 "Excellent."
  NSB_polish_fascist_events.203.desc:0 "\nLe gouvernement [From.GetAdjMS] a accepté de céder à nos exigences conjointes, et ses territoires vont être divisés entre [POL.GetLeLaLNP] [POL.GetName] et [GER.GetLeLaLNP] [GER.GetName]. [LIT.GetLeLaLNPCap] [LIT.GetName] [LIT.GetEstSontNP] donc tombé[LIT.GetXENP] sans qu'un seul coup de feu soit tiré."
  NSB_polish_fascist_events.203.t:0 "[From.GetLeLaLNPCap] [From.GetName] cèd[From.GetEEntNP]\nà notre ultimatum"
  NSB_polish_fascist_events.204.a:0 "Nous les laisserons s'amuser un peu"
@@ -588,6 +583,7 @@
  nsb_news.4.d:0 "Ces [POL.GetHabitants] ne tiendront pas\nla ville bien longtemps..."
  nsb_news.4.e:0 "Cela devient intéressant..."
  nsb_news.5.t:0 "Couronnement [POL.GetAuEnANP] [POL.GetName]"
+ nsb_news.5.desc.wojtek:0 "Après la découverte de l'imposture de Franziska Schanzkowska qui avait reçu la couronne sous le faux prétexte qu'elle était Anastasia Romanov. L'imposteur est contraint d'abdiquer et un nouveau roi doit être trouvé.\n\nLa découverte de [POL.GetLeader] a été considérée comme un signe de Dieu lui-même. Après tout, dans le livre des Rois, Dieu a envoyé deux ours pour tuer les moqueurs qui se sont moqués du prophète Elisée. À notre époque, un ours a été envoyé par Dieu pour porter la couronne afin de punir les ennemis de la Pologne."
  nsb_news.5.desc.saxon:0 "Le 5 novembre 1916, Guillaume II d'Allemagne et François Joseph d'Autriche avaient signé une déclaration conjointe établissant que les territoires polonais occupés par la Russie formeraient un nouveau royaume de Pologne. Mais le jeune État n'avait alors pu trouver de souverain, et le Président de l'époque avait déclaré la IInde République polonaise.\n    Mais les [POL.GetHabitants] semblent avoir trouvé un souverain à leur convenance en [POL.GetLeader], et le margrave de Meissen a été couronné roi sous le nom de Frédéric-Christian Ier de Pologne. C'est à lui, au regard des liens historiques du pays avec la Saxe, et en dépit des craintes d'une guerre avec [GER.GetLeLaLNP] [GER.GetName], que le Conseil de régence a au final choisi de remettre la couronne."
  nsb_news.5.desc.romania:0 "Le 5 novembre 1916, Guillaume II d'Allemagne et François Joseph d'Autriche avaient signé une déclaration conjointe établissant que les territoires polonais occupés par la Russie formeraient un nouveau royaume de Pologne. Mais le jeune État n'avait alors pu trouver de souverain, et le Président de l'époque avait déclaré la IInde République polonaise.\n    Mais les [POL.GetHabitants] semblent avoir trouvé un souverain à leur convenance en [POL.GetLeader]. Au regard de l'amitié et de l'alliance séculaires qui unit les deux pays, le Conseil de régence semble avoir fait le choix d'un rapprochement avec [ROM.GetLeLaLNP] [ROM.GetName]. En tant qu'héritier du trône [ROM.GetAdjMS], ce n'est donc qu'une étape transitoire avant que les deux nations soient irrémédiablement unies."
  nsb_news.5.desc.cossack:0 "Le 5 novembre 1916, Guillaume II d'Allemagne et François Joseph d'Autriche avaient signé une déclaration conjointe établissant que les territoires polonais occupés par la Russie formeraient un nouveau royaume de Pologne. Mais le jeune État n'avait alors pu trouver de souverain, et le Président de l'époque avait déclaré la IInde République polonaise.\n    Mais les [POL.GetHabitants] semblent avoir trouvé un souverain à leur convenance en [POL.GetLeader]. [POL.GetCeluiCelleDirCap]-ci, cosaque, noble et seigneur de guerre, était un prétendant au trône peu habituel, mais sans doute ses prétentions à se tailler un fief personnel sur la Baltique ont-elles convaincu le Conseil de régence, qui a toujours conservé l'espoir de pouvoir réunifier un jour les territoires de la République des Deux Nations."
@@ -643,7 +639,6 @@
  nsb_news.12.desc:0 "\n\nAgissant avec une rapidité impressionnante, l'opposition [SOV.GetAdjFS] a fait arrêter et déposer la troïka dirigée par Béria. L'Armée rouge entoure [SOV.Capital.GetCapitalVictoryPointName] depuis l'aube, et les forces spéciales ont arrêté secrètement Béria pour l'emmener en lieu sûr, avant que ses gardes sachent même de quoi il retournait. Il semblerait qu'il soit accusé du crime de « trahison envers [SOV.GetLeLaLNP] [SOV.GetName] ».\n    Un nouveau gouvernement a été composé pour prendre la tête du pays, apparemment sous la direction [SOV.GetDuDelaDelDir] [SOV.GetLeader]."
  nsb_news.12.a:0 "Nous vivons décidément\nune époque intéressante"
  nsb_news.12.b:0 "Les choses vont de mal en pis..."
-
  pavel_events.3.a:0 "Si cela permet d'éviter une guerre..."
  pavel_events.3.b:0 "C'est une plaisanterie, n'est-ce pas ?"
  pavel_events.3.desc:0 "\nUn télégramme vient de nous parvenir [From.GetDuDeDNP] [From.GetName], exigeant la sécession immédiate des « anciens territoires [From.GetAdjMP] sous occupation [Root.GetAdjFS] ». Les régions concernées sont la Poméranie, la Prusse et la Silésie.\n\nL'État [From.GetAdjMS] s'est avéré quelque peu imprévisible depuis que [From.GetLeLaLDir] [From.GetLeader] est monté[From.GetXEDir] sur le trône, mais bien peu auraient pu penser qu'[From.GetIlElleDir] oserait un jour exiger des territoires [Root.GetAdjMP]..."
@@ -681,7 +676,6 @@
  POL_habsburg_events.201.t:0 "[From.GetLeLaLDirCap] [From.GetLeader]\nrejette le Pacte"
  POL_habsburg_events.201.desc:0 "\nEn dépit des liens du sang qui l'unissent [Root.GetAuAlaAlDir] [Root.GetLeader], [From.GetLeLaLDir] [From.GetLeader] ne semble aucunement intéressé[Root.GetXEDir] par une alliance [From.GetDuDelaDelNP] [From.GetName] avec [Root.GetLeLaLNP] [Root.GetName]."
  POL_habsburg_events.201.a:0 "Peut-être les Alliés\nseront-ils plus fiables..."
-
  NSB_soviet_paranoia_system_events.01.t:0 "[Root.GetLeLaLDirCap] [Root.GetLeader] s'inquiète\ndu factionnalisme"
  NSB_soviet_paranoia_system_events.01.desc:0 "\nAu cours d'une récente session du Comité central, [Root.GetLeLaFDir] camarade [Root.GetLeader] a dénoncé le factionnalisme croissant au sein du Parti. Si tous les membres du Comité ont été prompts à l'assurer de leur soutien inconditionnel, cela n'a apparemment pas soulagé ses inquiétudes. Selon [Root.GetLuiElleDir], nous devons rester en permanence sur nos gardes face aux saboteurs et aux traîtres qui complotent contre l'État, quelles que soient les fonctions qu'ils occupent.\n\nCela a pris de court de nombreux membres du Parti, qui étaient persuadés que la menace d'une scission s'était éloignée depuis le départ de Trotski."
  NSB_soviet_paranoia_system_events.01.a:0 "Ses inquiétudes sont-elles fondées ?"
@@ -749,7 +743,6 @@
  NSB_soviet_paranoia_system_events.49.desc:0 "\nLa surveillance accrue au sein de l'Armée a porté ses fruits. Les enquêteurs du NKVD ont obtenu des confessions de plusieurs sous-officiers indiquant que des militaires de haut rang avaient ordonné à plusieurs reprises des sorties dans des conditions climatiques déplorables, menant à des accidents tout à fait prévisibles et ayant nécessité un entretien considérablement accru des appareils, empêchant du même coup leurs unités d'être opérationnelles. Rien n'indique ce qui a pu amener des décisions aussi étranges, mais le NKVD est persuadé de disposer de réponses d'ici à quelques jours."
  NSB_soviet_paranoia_system_events.49.a:0 "Ces traîtres doivent\nêtre tenus pour responsables"
  NSB_soviet_paranoia_system_events.49.b:0 "Ils n'ont fait que leur travail"
-
  NSB_soviet_paranoia_system_events.24_paranoia_accused_increase_tt:0 "La £SOV_paranoia_text_icon£paranoïa politique va s'§Raggraver§! en fonction du niveau du commandant visé par cette purge : §R[?SOV.SOV_accused_unit_leader_level]§!"
  NSB_soviet_paranoia_system_events.24_paranoia_accused_decrease_tt:0 "La £SOV_paranoia_text_icon£paranoïa politique va §Gdécroître§! en fonction du niveau du commandant visé par cette purge : §G[?SOV.SOV_accused_unit_leader_level]§!"
  NSB_soviet_paranoia_system_events.24_paranoia_both_increase_tt:0 "La £SOV_paranoia_text_icon£paranoïa politique va s'§Raggraver§! en fonction du niveau des commandants visés par cette purge : §R[?SOV.SOV_combined_unit_leader_level]§!"
@@ -759,14 +752,13 @@
  SOV_purge_event_unavoidable_purge_great_tt:0 "\nRien ni personne ne peut empêcher cette grande purge."
  SOV_moscow_trial_real_name:0 "[GetMoscowTrialIndex] procès de Moscou"
  SOV_moscow_trial_index_1:0 "Premier"
- SOV_moscow_trial_index_2:0 "Second"
+ SOV_moscow_trial_index_2:0 "Seconde"
  SOV_moscow_trial_index_3:0 "Troisième"
  SOV_moscow_trial_generic_name:0 "Grande purge dans l'administration"
  SOV_retire_purged_character_tt:0 "§Y[?ROOT.SOV_purged_character_for_loc.GetName]§! va disparaître [Root.GetDuDeDNP] [Root.GetFlag]§Y[Root.GetName]§!."
  SOV_retire_accused_character_tt:0 "§Y[?ROOT.SOV_accused_character_for_loc.GetName]§! va disparaître [Root.GetDuDeDNP] [Root.GetFlag]§Y[Root.GetName]§!."
  SOV_retire_accuser_character_tt:0 "§Y[?ROOT.SOV_accuser_character_for_loc.GetName]§! va disparaître [Root.GetDuDeDNP] [Root.GetFlag]§Y[Root.GetName]§!."
  SOV_characters_will_be_purged_tt:0 "§RCes personnages vont être victimes de la purge et disparaître :§!"
-
  NSB_soviet_five_year_plan.01.t:0 "Interruption du IIIe plan quinquennal"
  NSB_soviet_five_year_plan.01.desc:0 "Avec l'attaque qui vise la mère patrie, il est évident que le plan quinquennal visant à assurant la croissance économique n'est plus réalisable. Nous pourrons le relancer une fois la paix revenue, mais pour l'instant la priorité est d'assurer la production d'armement."
  NSB_soviet_five_year_plan.01.a:0 "Malédiction !"
@@ -774,7 +766,6 @@
  NSB_soviet_great_patriotic_war.01.t:0 "Nikolaï Kouznetsov propose ses services"
  NSB_soviet_great_patriotic_war.01.desc:0 "Après l'invasion [?ROOT.SOV_invader_of_ukraine.GetAdjective] de l'Ukraine, Nikolaï Ivanovitch Kouznetsov a demandé de manière officielle à intégrer le NKVD pour défendre sa patrie. Avec ses talents uniques, il serait assurément un agent de grande qualité pour appuyer les opérations des partisans dans la région."
  NSB_soviet_great_patriotic_war.01.a:0 "Bienvenue, camarade !"
-
  NSB_soviet_propaganda_capmaign_events.1.t:0 "$SOV_propaganda_builders_of_communism$"
  NSB_soviet_propaganda_capmaign_events.1.desc:0 "Nos amis et guides les [SOV.GetHabitants] ont mis en place un programme visant à s'assurer que la génération à venir comprenne pleinement ce qui sera attendu d'elle. Un bon communiste doit être fort physiquement, mener à bien les tâches nécessaires à l'avènement d'un monde meilleur, et éduqué de manière à avoir conscience de ce qui doit être fait.\n\nLa jeunesse [Root.GetAdjFS] est emplie d'enthousiasme, et fait tout pour répondre à ces idées nouvelles."
  NSB_soviet_propaganda_capmaign_events.1.a:0 "Ce sont eux qui bâtiront\nnotre glorieux avenir"
@@ -783,7 +774,6 @@
  NSB_soviet_propaganda_capmaign_events.2.a:0 "Le moment n'était peut-être pas\ndes mieux choisis..."
  NSB_soviet_propaganda_capmaign_events.3.desc:0 "La déclaration de guerre nous place dans une position difficile face à la population. Si la plupart s'accordent à penser que [Root.GetCestCesontNP] bien [Root.GetLeLaLNP] [Root.GetName] qui [Root.GetAOntNP] été attaqué[Root.GetXENP] et que leur colère est dirigée contre l'envahisseur, bon nombre se demandent aussi en privé pourquoi [Root.GetLeLaLDir] [Root.GetLeader] n'a pas anticipé l'attaque. La police secrète rapporte que, dans quelques rares cas, certains n'ont d'ailleurs pas hésité à aller plus loin en disant [Root.GetDeluiDelleDir] qu'[Root.GetIlElleDir] était « soit dangereusement crédule, soit totalement incompétent[Root.GetXEDir] »."
  NSB_soviet_propaganda_capmaign_events.3.a:0 "Mais [Root.GetLeLaLDir] [Root.GetLeader]\nn'a jamais voulu cette guerre !"
-
  NSB_soviet_foreign_politics_events.1.t:0 "Pressions [From.GetAdjFP]"
  NSB_soviet_foreign_politics_events.1.desc:0 "Le ministre [From.GetAdjMS] des Affaires étrangères est arrivé aujourd'hui à [Root.Capital.GetCapitalVictoryPointName] pour une réunion urgente avec [Root.GetLeLaLDir] [Root.GetLeader]. La délégation qui l'accompagne a présenté une longue liste de problèmes à régler de façon urgente, depuis la sécurité à la frontière jusqu'aux portraits peu flatteurs [From.GetDuDelaDelDir] [From.GetLeader] dressés dans les journaux [Root.GetAdjMP]. Au cours d'une conférence de presse, le Ministre n'a pas hésité à noter l'importance aux yeux [From.GetDuDelaDelNP] [From.GetName] d'une collaboration pacifique entre nos pays, mais aussi noté que [From.GetLeLaLDir] [From.GetLeader] « aurait beaucoup de mal à accepter cela si [Root.GetLeLaLNP] [Root.GetName] devai[Root.GetTEntNP] adopter une politique inamicale, si ce n'est ouvertement hostile »."
  NSB_soviet_foreign_politics_events.1.a:0 "Mieux vaut rejoindre [From.GetLeLaLFaction] [From.GetFactionName]\nà condition de conserver notre constitution"
@@ -793,7 +783,6 @@
  NSB_soviet_foreign_politics_events.2.desc:0 "Plusieurs groupes politiques ont organisé des manifestations dans les rues de la capitale cette semaine. Ils ne semblent porter aucune revendication particulière, en dehors du sentiment général que nous devrions tenter d'améliorer les relations avec [SOV.GetLeLaLNP] [SOV.GetName] et chasser du gouvernement tous les politiques qui [SOV.GetLuiLeurNP] sont hostiles.\n\nS'il est possible que ces manifestations soient la manifestation spontanée de l'opinion publique, il est pour le moins étonnant qu'un certain nombre de leurs dirigeants se soient rendus à Moscou récemment, et commencé à fomenter l'agitation aussitôt rentrés..."
  NSB_soviet_foreign_politics_events.2.a:0 "En même temps, n'est-ce pas\nleur droit le plus strict ?"
  NSB_soviet_foreign_politics_events.2.b:0 "Envoyons la police\nfracasser quelques crânes"
-
  NSB_soviet_foreign_politics_events.10.t:1 "[From.GetLeLaLNPCap] [From.GetName] souhait[From.GetEEntNP]\ninvestir [Root.GetAuEnANP] [Root.GetName]"
  NSB_soviet_foreign_politics_events.10.desc:0 "\nLe gouvernement [From.GetAdjMS] vient de lancer un important programme d'investissements économiques [Root.GetAuEnANP] [Root.GetName]. Une partie de son financement est réservée à la construction de routes, de ponts et de tunnels, à [Root.Capital.GetCapitalVictoryPointName] et aux alentours. Cette aide au développement de l'industrie est évidemment une contribution majeure pour l'avenir du pays.\n\nPourtant, certains membres du gouvernement s'inquiètent que l'arrivée de tant d'ingénieurs et de fonds ne fasse qu'aggraver notre dépendance à l'égard [From.GetDuDelaDelNP] [From.GetName] au cours des années à venir."
  NSB_soviet_foreign_politics_events.10.a:0 "Remercions nos camarades [From.GetAdjMP]"
@@ -823,7 +812,6 @@
  NSB_soviet_foreign_politics_events.32.desc:0 "\nLe secrétaire d'État [From.GetAdjMS] n'a même pas pris la peine de répondre en personne à nos exigences regardant l'Alaska. Une simple lettre a été remise à notre ambassade, signée par un sous-secrétaire au département de la Culture, disant que « si [From.GetLeLaLNP] [From.GetName] respect[From.GetEEntNP] la volonté du gouvernement [Root.GetAdjMS] de réécrire l'histoire de son pays, il devrait éviter malgré tout d'impliquer d'autres nations, qui plus est en passant par les canaux officiels de la diplomatie internationale »."
  NSB_soviet_foreign_politics_events.32.a:0 "Ces [From.GetHabitants] s'imagineraient-ils\nque nous plaisantons ?"
  NSB_soviet_foreign_politics_events.32.b:0 "Au moins aurons-nous essayé..."
-
  NSB_soviet_foreign_politics_events.150.t:0 "Soumission [From.GetDuDelaDelNP] [From.GetName]"
  NSB_soviet_foreign_politics_events.150.desc:0 "Au terme d'une réunion du gouvernement tenue tôt ce matin, [From.GetLeLaLDir] [From.GetLeader] a officiellement accédé à la demande qui lui avait été présentée. Notre ambassadeur [From.GetAuEnANP] [From.GetName] va s'assurer que le gouvernement [From.GetAdjMS] travaille désormais en étroite collaboration avec [Root.GetLeLaLNP] [Root.GetName] pour tout ce qui regarde les questions politiques – aussi bien intérieures qu'extérieures."
  NSB_soviet_foreign_politics_events.150.a:0 "[From.GetLeLaLDirCap] [From.GetLeader]\na bien fait"
@@ -862,7 +850,6 @@
  NSB_soviet_foreign_politics_events.211.t:0 "La proposition Khakimov"
  NSB_soviet_foreign_politics_events.211.desc:0 "Le consul général [From.GetAdjMS] Karim Khakimov redouble d'efforts pour développer les relations entre nos pays. Musulman lui-même, d'ascendance tatare, Khakimov s'est gagné le respect et l'amitié d'Abdelaziz ibn Saoud en février 1926, lorsqu'il a conduit sa voiture personnelle sous les tirs nourris, de Djedda jusqu'à la résidence du sultan en plein désert, pour l'informer que [SOV.GetLeLaLNP] [SOV.GetName] [Root.GetLeLaFDir] reconnaissai[SOV.GetTEntNP] désormais officiellement comme roi du Hedjaz et sultan du Nejd. Depuis lors, cet homme a été le principal artisan des relations entre les deux pays, véritable Laurence d'Arabie [SOV.GetAdjMS]."
  NSB_soviet_foreign_politics_events.211.a:0 "Il est certes sympathique, mais mieux vaut\nnous méfier des ambitions [SOV.GetAdjFP]..."
-
  NSB_soviet_foreign_politics_events.250.t:0 "[From.GetLeLaLNPCap] [From.GetName]\nnous envoi[From.GetEEntNP] des armes"
  NSB_soviet_foreign_politics_events.250.desc:0 "\nUne livraison de fusils et d'armements divers, venue [From.GetDuDeDNP] [From.GetName], est arrivée sur la ligne de front. Rien n'indique toutefois quand le prochain convoi pourra nous parvenir, aussi vaut-il mieux faire durer ce ravitaillement aussi longtemps que possible."
  NSB_soviet_foreign_politics_events.251.t:0 "[From.GetLeLaLNPCap] [From.GetName] prépar[From.GetEEntNP]\nla guerre contre [JAP.GetLeLaLNP] [JAP.GetName]"
@@ -901,13 +888,8 @@
  NSB_soviet_foreign_politics_events.269.t:0 "[From.GetLeLaLNPCap] [From.GetName] rejett[From.GetEEntNP]\ntoute idée de pacte anti-[USA.GetAdjMS]"
  NSB_soviet_foreign_politics_events.269.desc:0 "\nLe gouvernement [From.GetAdjMS] a rejeté notre suggestion. [From.GetLeLaLDirCap] [From.GetLeader] ne paraît pas intéressé[From.GetXEDir] le moins du monde par l'idée d'un traité destiné à mettre un terme à l'influence et à l'impérialisme [USA.GetDuDelaDelNP] [USA.GetName]."
  NSB_soviet_foreign_politics_events.269.a:0 "Voilà qui est regrettable..."
-
-
-
-
  SOV_decision_will_be_locked_tt:0 "\nCette décision ne sera plus disponible. Nous ne pouvons envoyer qu'un seul ultimatum à chaque pays."
  SOV_decision_will_remain_available_tt:0 "\nCette décision restera disponible."
-
  NSB_soviet_foreign_politics_events.270.t:1 "[From.GetLeLaLNPCap] [From.GetName] propos[From.GetEEntNP]\nun prolongement du Transcaspien"
  NSB_soviet_foreign_politics_events.270.desc:1 "\nLe chemin de fer transcaspien, construit par l'empire russe à la fin du XIXe s., traverse une partie de l'Asie centrale jusqu'à Tachkent. Or, le gouvernement [From.GetAdjMS] a désormais pour projet de le prolonger, et vient de nous proposer de le faire venir jusqu'à [Root.Capital.GetCapitalVictoryPointName] afin de contribuer ainsi au renforcement de nos relations. Les dignitaires [From.GetAdjMP] s'intéressent visiblement au marché économique [Root.GetDuDelaDelNP] [Root.GetName] et voient en ce prolongement du Transcaspien une première étape vers un développement croissant des échanges entre nos pays."
  NSB_soviet_foreign_politics_events.270.a:1 "L'initiative est tout à fait louable !"
@@ -974,11 +956,9 @@
  NSB_soviet_foreign_politics_events.287.desc:0 "\nHier, par un communiqué officiel, [From.GetLeLaLDir] [From.GetLeader] a annoncé que [From.GetLeLaLNP] [From.GetName] se retirai[From.GetTEntNP] toutes affaires cessantes [Root.GetDuDelaDelFaction] [Root.GetFactionName] et mettai[From.GetTEntNP] immédiatement fin à tous les accords conclus avec [Root.GetLeLaLNP] [Root.GetName].\n\nSon discours indique que cette décision a été motivée par le fait que « [Root.GetLeLaLNP] [Root.GetName] [Root.GetEstSontNP] visiblement sur le point de s'effondrer, et se trouv[Root.GetEEntNP] cerné[Root.GetXENP] par [Root.GetSesLeursNP] ennemis, à l'ouest comme à l'est ». Tout ce discours ne vise donc qu'à justifier le renforcement des relations entre [From.GetLeLaLNP] [From.GetName] est ses voisins chinois pour faire face à toute invasion étrangère."
  NSB_soviet_foreign_politics_events.287.a:0 "Pour l'heure, nous avons des questions\nbien plus urgentes à régler..."
  NSB_soviet_foreign_politics_events.287.b:0 "[From.GetLeLaLDirCap] [From.GetLeader] paiera\npour sa traîtrise !"
-
  SOV_sinikiang_influence_cg_tt_sik:0 "Cet accord va faire bénéficier [SOV.GetAuAlaAlNP] [SOV.GetFlag]§Y[SOV.GetName]§! d'un avantage de §Y-1%§! sur les biens de consommation."
  SOV_sinikiang_influence_cg_tt_sov:0 "$SOV_modify_fyp_ns_intro$ \n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-1%§!"
  SOV_sinkiang_when_project_finishes_tt:0 "\nUne fois le projet achevé :"
-
  NSB_soviet_soviet_german_trade_agreement.1.t:0 "[From.GetLeLaLNPCap] [From.GetName] propos[From.GetEEntNP]\nun accord commercial"
  NSB_soviet_soviet_german_trade_agreement.1.desc:0 "\nL'ambassadeur [From.GetAdjMS] vient de contacter nos diplomates pour proposer la signature d'un accord commercial entre nos pays. Selon la proposition qui nous a été fournie, les [From.GetHabitants] nous feraient parvenir des matières premières telles que du blé, du coton, de pétrole, du minerai et du caoutchouc, en échange de quoi nous leur fournirions un croiseur non terminé de la classe Hipper, des plans pour d'autres bâtiments militaires, des canons lourds de marine et quelques modèles d'avions fabriqués [Root.GetAuEnANP] [Root.GetName].\n\nIl est indéniable qu'un tel accord contribuerait grandement à l'effort de guerre contre les puissances ennemies en Europe en nous permettant de contourner le blocus [GetTradeAgreementBlockadeWarPeace]."
  NSB_soviet_soviet_german_trade_agreement.1.desc_war_eng:0 "imposé par [ENG.GetLeLaLNP] [ENG.GetName]"
@@ -992,7 +972,6 @@
  NSB_soviet_soviet_german_trade_agreement.3.t:0 "[From.GetLeLaLNPCap] [From.GetName] refus[From.GetEEntNP]\ntout accord commercial"
  NSB_soviet_soviet_german_trade_agreement.3.desc:0 "\nAprès plusieurs tentatives de notre ambassadeur pour convaincre les dignitaires [From.GetAdjMP] des avantages mutuels que garantirait un accord commercial entre nos pays, nous venons tout juste d'être informés qu'il ne serait « aucunement dans l'intérêt [From.GetDuDelaDelNP] [From.GetName] d'établir des relations économiques avec [Root.GetLeLaLNP] [Root.GetName] »."
  NSB_soviet_soviet_german_trade_agreement.3.a:0 "Bande de sales fanatiques !"
-
  NSB_soviet_policies_of_collective_security.1.t:0 "[From.GetLeLaLNPCap] [From.GetName] propos[From.GetEEntNP]\nun pacte d'assistance mutuelle"
  NSB_soviet_policies_of_collective_security.1.desc:0 "\nEn notant bien que nos pays se trouvent confrontés aux mêmes menaces, le gouvernement [From.GetAdjMS] vient de proposer [Root.GetAuAlaAlNP] [Root.GetName] un pacte d'assistance mutuelle. Les stipulations interdiraient évidemment entre nos pays la moindre action hostile.\n\nUn problème important reste toutefois à résoudre : [POL.GetLeLaLNP] [POL.GetName] se trouv[POL.GetEEntNP] entre nous. Toute tentative de l'une ou l'autre partie contractante de secourir l'autre impliquerait donc nécessairement de transiter par ce pays. C'est pourquoi certains membres du corps diplomatique sont persuadés qu'inclure [POL.GetLeLaLNP] [POL.GetName] dans le pacte est une condition sine qua non pour permettre un soutien direct."
  NSB_soviet_policies_of_collective_security.1.a:0 "Contentons-nous des stipulations initiales"
@@ -1036,11 +1015,9 @@
  NSB_soviet_policies_of_collective_security.12.a:0 "Cela contribuera encore\nà renforcer notre alliance"
  NSB_soviet_policies_of_collective_security.13.desc:0 "\nLa question [POL.GetDuDelaDelNP] [POL.GetName] étant maintenant réglée, le gouvernement [From.GetAdjMS] est prêt à signer le traité de manière officielle, en ratifiant toutes les stipulations originellement négociées."
  NSB_soviet_policies_of_collective_security.13.a:0 "Mettons tout cela\npar écrit tout de suite !"
-
  NSB_soviet_academy_of_sciences.1.t:0 "Fondation de l'Académie [This.GetAdjFS] des sciences"
  NSB_soviet_academy_of_sciences.1.desc:0 "Au cours d'une magnifique cérémonie organisée aujourd'hui à [This.Capital.GetCapitalVictoryPointName], [This.GetLeLaLDir] [This.GetLeader] et l'ambassadeur [SOV.GetDuDeDNP] [SOV.GetName] ont inauguré de façon officielle l'Académie [This.GetAdjFS] des sciences. Calquée sur le modèle de l'Académie des sciences de Moscou, cette nouvelle institution nous permettra de mener des recherches à la pointe de la technologie en bénéficiant du soutien d'experts [SOV.GetAdjMP]."
  NSB_soviet_academy_of_sciences.1.a:0 "C'est un véritable bond en avant !"
-
  NSB_soviet_atomic_bomb_project.1.t:0 "Un agent ramène\ndes secrets atomiques de l'étranger"
  NSB_soviet_atomic_bomb_project.1.desc:0 "\nUn agent chargé d'infiltrer un programme de recherche nucléaire étranger vient de regagner l'ambassade en possession d'un grand nombre de documents top secret relatifs à divers points sur lesquels travaillent les scientifiques, depuis la conception des centrifugeuses jusqu'aux calculs de la dimension des bombes. Ces données seront incontestablement d'une aide cruciale pour permettre de faire progresser notre propre programme de mise au point d'armes atomiques."
  NSB_soviet_atomic_bomb_project.1.a:0 "Rien de tel pour assurer\nla paix dans le monde"
@@ -1050,15 +1027,12 @@
  NSB_soviet_atomic_bomb_project.3.t:0 "Faille de la sécurité\nsur un site de recherche nucléaire"
  NSB_soviet_atomic_bomb_project.3.desc:0 "\nAujourd'hui même, un employé de l'un de nos sites de recherche a été arrêté lors d'une inspection de routine. Une fouille minutieuse de ses effets a révélé un compartiment caché dans sa sacoche. À l'intérieur se trouvait un certain nombre de documents classés top secret, liés à la technologie atomique.\n\nLe suspect a aussitôt été remis aux services de contre-espionnage, entre les mains desquels il a fait des aveux complets. Il est apparu qu'il était en contact avec l'ambassade [SOV.GetAdjFS], qui l'avait chargé d'infiltrer notre programme de recherche nucléaire afin de voler des esquisses et diverses données sur nos recherches."
  NSB_soviet_atomic_bomb_project.3.a:0 "Au moins, rien ne semble être sorti"
-
-
  NSB_soviet_policies_of_collective_security_agreed_effects_tt:0 "Si les négociations vont à leur terme, ces stipulations seront ratifiées :"
  NSB_soviet_policies_of_collective_security_condition_effects_tt:0 "Si les gouvernements [From.GetAdjMS] et [POL.GetAdjMS] acceptent tous deux l'entrée [POL.GetDuDelaDelNP] [POL.GetFlag]§Y[POL.GetName]§! dans le pacte, ces mêmes stipulations concerneront aussi [POL.GetCeluiCelleNP]-ci."
  NSB_soviet_policies_of_collective_security_refusing_poland_inclusion_tt:0 "La proposition [From.GetAdjFS] d'inclure [POL.GetLeLaLNP] [POL.GetFlag]§Y[POL.GetName]§! dans le traité va être rejetée. [From.GetLeLaLNPCap] [From.GetFlag]§Y[From.GetName]§! v[From.GetAOntNP] devoir choisir entre accepter notre proposition ou renoncer à toute idée d'un accord d'assistance mutuelle."
  NSB_soviet_policies_of_collective_security_tt:0 "Si le gouvernement [POL.GetAdjMS] l'accepte, [POL.GetLeLaLNP] [POL.GetFlag]§Y[POL.GetName]§! v[POL.GetAOntNP] ratifier l'accord d'assistance mutuelle en même temps que [From.GetLeLaLNP] [From.GetFlag]§Y[From.GetName]§! et [Root.GetLeLaLNP] [Root.GetFlag]§Y[Root.GetName]§!."
  NSB_soviet_policies_of_collective_security_poland_included_effects_from_tt:0 "[SOV.GetLeLaLNPCap] [SOV.GetFlag]§Y[SOV.GetName]§!, [From.GetLeLaLNP] [From.GetFlag]§Y[From.GetName]§! et [POL.GetLeLaLNP] [POL.GetFlag]§Y[POL.GetName]§! vont renoncer à toute revendication ou but de guerre visant les autres signataires du traité, contracter un pacte de non-agression et garantir réciproquement leurs indépendances."
  NSB_soviet_policies_of_collective_security_poland_included_effects_root_tt:0 "[SOV.GetLeLaLNPCap] [SOV.GetFlag]§Y[SOV.GetName]§!, [Root.GetLeLaLNP] [Root.GetFlag]§Y[Root.GetName]§! et [POL.GetLeLaLNP] [POL.GetFlag]§Y[POL.GetName]§! vont renoncer à toute revendication ou but de guerre visant les autres signataires du traité, contracter un pacte de non-agression et garantir réciproquement leurs indépendances."
-
  NSB_soviet_comecon.1.t:0 "Un projet industriel [From.GetAdjMS]\n[Root.GetAuEnANP] [Root.GetName]"
  NSB_soviet_comecon.1.desc:0 "\nDans le cadre de l'organisation de coopération économique du Comecom, le gouvernement [From.GetAdjMS] a commencé à procéder à des investissements [Root.GetAuEnANP] [Root.GetName]. Cela devrait permettre un net développement économique au cours des quelques prochains mois."
  NSB_soviet_comecon.1.a:0 "Voici à quoi ressemble\nune véritable coopération !"
@@ -1087,11 +1061,9 @@
  NSB_soviet_spanish_civil_war.6.a:0 "La Révolution triomphera ici aussi !"
  NSB_soviet_spanish_civil_war.6.b:0 "La Révolution ou la mort !"
  SOV_poum_aid_in_case_of_civil_War_tt:0 "Au cas où la guerre civile éclaterait pour abattre [Root.GetLeLaLDir] [Root.GetLeader] et ses doctrines, le POUM espagnol enverra plusieurs divisions de volontaires à nos côtés."
-
  NSB_soviet_planned_economy.1.t:0 "Programme [From.GetAdjMS]\nd'économie planifiée"
  NSB_soviet_planned_economy.1.desc:1 "[SOV.GetLeLaLDirCap] [SOV.GetLeader] nous a présenté un nouveau projet visant à mettre en place une sphère économique commune à nos pays, planifiée de manière conjointe.\n\nLe gouvernement [From.GetAdjMS] est convaincu que, si la NEP a rencontré quelques difficultés, elle a aussi connu de nombreux succès, aussi est-il déterminé à établir désormais un modèle d'économie planifiée permettant de créer une économie interdépendante englobant [From.GetLeLaLNP] [From.GetName] et [From.GetSesLeursNP] partenaires, qui accélérera d'autant le passage à une société de socialisme avancé."
  NSB_soviet_planned_economy.1.a:0 "Nous allons donc devoir nous y plier..."
-
  nsb_news.100.desc:1 "Trotski, ancien homme de confiance et héritier présomptif de Lénine, a été attaqué aujourd'hui dans sa villa par un groupe d'hommes armés. Les assaillants ont pénétré dans la pièce où il se trouvait et immédiatement ouvert le feu, avant de disparaître aussitôt, laissant derrière eux Trotski mortellement blessé. Celui-ci est décédé quelques heures plus tard dans un hôpital de Mexico.\n     Après une lutte de pouvoir contre Staline et ses alliés pour le contrôle du Parti communiste de l'Union soviétique, Trotski avait passé les années 1930 en exil en Turquie, en France et en Norvège avant de s'établir finalement au Mexique.\n    Durant toute cette période, il s'était montré très critique envers Staline et l'« état ouvrier dégénéré » qu'était devenue l'Union soviétique."
  nsb_news.101.desc:1 "Trotski, ancienne figure de proue du bolchévisme soviétique, a été attaqué aujourd'hui dans sa villa par un groupe d'hommes armés. Les assaillants ont pénétré dans la pièce où il se trouvait et immédiatement ouvert le feu, avant de disparaître aussitôt. Trotski est toutefois parvenu à se cacher derrière le lit avec son épouse et son petit-fils, et toute la famille est indemne.\n    Ancien premier lieutenant et héritier présomptif de Vladimir Ilitch Lénine, Trotski a été exilé d'URSS par Staline au terme d'une lutte de pouvoir.\n    Face à la presse, Trotski a qualifié cette tentative de meurtre comme « un autre de ces lâches complots orchestrés par Staline pour faire taire ses opposants. »"
  nsb_news.102.t:0 "[GetPolandIncludedOrNot]"
@@ -1110,19 +1082,15 @@
  nsb_news.104.a:0 "Ces mesures étaient évidemment indispensables"
  nsb_news.104.b:0 "[ENG.GetHabitants] et [SOV.GetHabitants]\nont trouvé de nouvelles victimes..."
  nsb_news.104.c:0 "C'est parfaitement injuste..."
-
  NSB_Soviet_fascist_civil_war.001.t:0 "La [GetSovietCivilWarName]"
  NSB_Soviet_fascist_civil_war.001.desc:0 "Le temps des manœuvres politiques est bel et bien révolu, et celui de la lutte armée contre les communistes commence. Un comité a été formé, qui nous guidera aussi longtemps que durera la guerre. Cette fois, nous combattrons unis jusqu'à la fin, et cette fois nous ne serons pas vaincus. Cette fois, nous reprendrons l'Empire !"
  NSB_Soviet_fascist_civil_war.001.a:0 "Aux armes !"
-
  NSB_Soviet_fascist_civil_war.002.t:0 "Les recrues sont prêtes"
  NSB_Soviet_fascist_civil_war.002.desc:0 "Les divisions des Roukis sont prêtes à se soulever pour combattre l'oppression communiste."
  NSB_Soviet_fascist_civil_war.002.a:0 "Parfait !"
-
  NSB_Soviet_fascist_civil_war.003.t:0 "Sémionov quitte [Root.GetLeLaLNP] [Root.GetName]"
  NSB_Soviet_fascist_civil_war.003.desc:0 "Une fois encore, la guerre civile a éclaté en Russie. $SOV_grigory_semyonov$, qui avait trouvé refuge [Root.GetAuEnANP] [Root.GetName] après avoir échappé aux rouges, a décidé de retourner dans sa patrie pour participer à la lutte contre les communistes [SOV.GetAdjMP]."
  NSB_Soviet_fascist_civil_war.003.a:0 "Cela se comprend"
-
  NSB_soviet_communist_civil_war.001.t:0 "La [GetSovietCivilWarName]"
  NSB_soviet_communist_civil_war.001.desc:0 "« Camarades, une fois encore le moment est venu de lever nos drapeaux et d'aller nous battre pour la Révolution. Avant de pouvoir libérer le prolétariat, nous devons reprendre le contrôle ici même, [Root.GetAuEnANP] [Root.GetName]. Tout comme nous avons autrefois vaincu les armées blanches, nous devons à présent vaincre quiconque se dresse sur la route de la véritable Révolution, au sein même de la patrie.\nEt nous devons aussi décider de qui sera celui qui nous dirigera dans la lutte."
  NSB_soviet_communist_civil_war.001.a:0 "Trotski a toujours été\nle premier adversaire de Staline"
@@ -1130,7 +1098,6 @@
  NSB_soviet_communist_civil_war.001.c:0 "Nous devons être commandés\npar un militaire d'expérience"
  NSB_soviet_communist_civil_war.001.d:0 "Zinoviev est un chef né"
  NSB_soviet_communist_civil_war.001.e:0 "Kamenev sera populaire"
-
  NSB_soviet_communist_civil_war.002.t:0 "Arrestation de Béria par l'armée"
  NSB_soviet_communist_civil_war.002.desc:0 "$SOV_lavrenty_beriya$ a été arrêté par des officiers de l'armée et est retenu prisonnier en attendant son procès. Plusieurs divisions sont stationnées dans et autour de [Root.Capital.GetCapitalVictoryPointName] afin d'empêcher toute insurrection de ses partisans. Ses hommes de confiance sont actuellement recherchés. L'heure est venue de trouver un nouveau dirigeant pour [Root.GetLeLaLNP] [Root.GetName]."
  NSB_soviet_communist_civil_war.002.a:0 "Boukharine serait parfait"
@@ -1138,7 +1105,6 @@
  NSB_soviet_communist_civil_war.002.c:0 "Mieux vaut s'assurer de la loyauté des troupes"
  NSB_soviet_communist_civil_war.002.d:0 "$NSB_soviet_communist_civil_war.001.d$"
  NSB_soviet_communist_civil_war.002.e:0 "$NSB_soviet_communist_civil_war.001.e$"
-
  NSB_soviet_communist_civil_war.003.t:0 "$NSB_soviet_communist_civil_war.001.t$"
  NSB_soviet_communist_civil_war.003.desc:0 "Une fois encore, la guerre est sur nous. Nous devons prendre les armes contre le tyran qui a détourné le pays du droit chemin. Staline a trop longtemps perverti l'Union. Il est malheureux que nous devions en venir à de telles extrémités, mais nous n'avons plus d'autre choix."
  NSB_soviet_communist_civil_war.003.a:0 "Boukharine nous dirigera désormais"
@@ -1146,41 +1112,33 @@
  NSB_soviet_communist_civil_war.003.c:0 "$NSB_soviet_communist_civil_war.001.c$"
  NSB_soviet_communist_civil_war.003.d:0 "$NSB_soviet_communist_civil_war.001.d$"
  NSB_soviet_communist_civil_war.003.e:0 "$NSB_soviet_communist_civil_war.001.e$"
-
  NSB_soviet_communist_civil_war.004.t:0 "Formation des brigades internationales révolutionnaires"
  NSB_soviet_communist_civil_war.004.desc:0 "[From.GetLeLaLDirCap] [From.GetLeader] vient de lancer un appel à tous les volontaires pour l'aider à vaincre [SOS.GetLeLaLDir] [SOS.GetLeader]. De nombreux groupes y ont d'ores et déjà répondu, et déjà des brigades internationales sont formées."
  NSB_soviet_communist_civil_war.004.a:0 "Des volontaires [Root.GetAdjMP] devraient\nsoutenir [From.GetLeLaLDir] [From.GetLeader]"
  NSB_soviet_communist_civil_war.004.b:0 "Nous ne pouvons trahir\nainsi [SOS.GetLeLaLDir] [SOS.GetLeader] !"
  NSB_soviet_communist_civil_war.004.c:0 "Et c'est reparti..."
-
  NSB_soviet_communist_civil_war.005.t:0 "Arrivée des brigades internationales"
  NSB_soviet_communist_civil_war.005.desc:0 "Des révolutionnaires venus du monde entier sont arrivés pour combattre les ennemis de la véritable Révolution. Ils ont été regroupés au sein des brigades internationales et très bientôt pourront affronter les ennemis [Root.GetDuDelaDelNP] [Root.GetName]."
  NSB_soviet_communist_civil_war.005.a:0 "Ils sont évidemment bienvenus"
-
  NSB_soviet_communist_civil_war.006.t:0 "Manifestations massives\ndans l'État de [?SOV_uprising_state.GetName]"
  NSB_soviet_communist_civil_war.006.desc:0 "\nLes travailleurs de l'État de [?SOV_uprising_state.GetName] sont descendus dans la rue et ont manifesté en masse. Parmi leurs revendications les plus importantes se trouve un appel au renforcement des syndicats, mais d'autres slogans ont aussi été entendus. Certains rapports indiquent même que des chants contre Staline ont été entonnés..."
  NSB_soviet_communist_civil_war.006.a:0 "Qu'ils protestent tant qu'ils veulent..."
  NSB_soviet_communist_civil_war.006.b:0 "Nous devons vite mettre fin à l'agitation"
-
  NSB_soviet_communist_civil_war.008.t:0 "Tentative d'assassinat\ncontre Staline"
  NSB_soviet_communist_civil_war.008.desc:0 "\n\nStaline vient tout juste d'échapper à une tentative d'assassinat. Un homme armé s'est introduit dans sa datcha, seul, mais a pu être découvert avant de pouvoir pénétrer dans la pièce où se trouvait le Secrétaire général, et abattu sur-le-champ par les gardes. [Root.Capital.GetCapitalVictoryPointName] bruisse de rumeurs sur ceux qui se trouvent derrière ce complot."
  NSB_soviet_communist_civil_war.008.a:0 "La suite ne va pas être belle à voir..."
-
  NSB_soviet_communist_civil_war.009.t:0 "Staline est mort"
  NSB_soviet_communist_civil_war.009.desc:0 "\nLe dirigeant incontesté [SOV.GetDuDelaDelNP] [SOV.GetName], Staline, a été tué par des assassins non identifiés ! Apparemment, il se trouvait seul dans sa datcha lorsque l'opération a été lancée.\n    Une troïka, dirigée par le premier des fidèles du disparu, Lavrenti Béria, a pris le contrôle du pays, mais la situation demeure très tendue et instable, et l'avenir de l'Union semble bien incertain..."
  NSB_soviet_communist_civil_war.009.a:0 "Nous vivons assurément\nune période intéressante"
-
  NSB_soviet_communist_civil_war.010.t:0 "[?SOS.SOV_general_to_desert.GetName] fait défection"
  NSB_soviet_communist_civil_war.010.desc:0 "Mécontent du traitement que lui réservait [SOS.GetLeLaLDir] [SOS.GetLeader], [?SOS.SOV_general_to_desert.GetName] a décidé d'abandonner le camp de la tyrannie pour rejoindre la cause légitime qui est la nôtre. Quelques unités ont décidé de suivre leur général plutôt que rester sous les ordres [SOS.GetDuDelaDelDir] [SOS.GetLeader]."
  NSB_soviet_communist_civil_war.010.a:0 "Ils sont tous bienvenus !"
-
  NSB_soviet_civil_war_common.001.t:0 "Victoire"
  NSB_soviet_civil_war_common.001.desc_left:0 "La guerre contre Staline est enfin terminée. Le dictateur a été renversé. [Root.GetLeLaLDirCap] [Root.GetLeader] nous a menés à la victoire.\n\nIl est temps désormais de réveiller la ferveur révolutionnaire qui est en chacun de nous pour permettre [Root.GetAuAlaAlNP] [Root.GetName] d'apporter la liberté aux prolétaires du monde entier."
  NSB_soviet_civil_war_common.001.desc_right_concessions:0 "Le pays est désormais nôtre, et [Root.GetLeLaLDir] [Root.GetLeader] nous a menés à la victoire. L'heure est venue maintenant de panser nos blessures et de refaçonner [Root.GetUnUneDesNP] [Root.GetName] nouv[Root.GetEauElleEauxNP]. Nous avons largement montré que nous étions prêts à tout pour nous assurer de la victoire ; mais il y a toujours un prix à payer pour cela : hormis le sacrifice de nos héroïques soldats, nous avons aussi des dettes à rembourser avant de pouvoir enfin clore définitivement ce sombre chapitre de notre histoire."
  NSB_soviet_civil_war_common.001.desc_right_no_concessions:0 "Nos armées victorieuses ont paradé sous les murs du Kremlin. La victoire est nôtre !\n\n[Root.GetLeLaLNPCap] [Root.GetName] entam[Root.GetEEntNP] aujourd'hui un nouveau chapitre de [Root.GetSonLeurNP] histoire. Grâce à la sagesse avisée [Root.GetDuDelaDelDir] [Root.GetLeader], le pays sera bientôt reconstruit, et plus fort qu'il ne l'a jamais été."
  NSB_soviet_civil_war_common.001.desc_exiles:0 "Le régime communiste est enfin tombé, et nos troupes victorieuses ont pris le contrôle de la capitale. Les [Root.GetHabitants], enfin, sont libérés de la tyrannie des rouges. C'est un pays nouveau qui s'élèvera sur les ruines et les décombres que laissent derrière elles les guerres civiles des années d'incurie gouvernementale."
  NSB_soviet_civil_war_common.001.a:0 "Nous sommes à l'aube d'une ère nouvelle"
-
  NSB_soviet_civil_war_common.002.t:0 "Quelle capitale\npour [Root.GetLeLaLNP] [Root.GetName] ?"
  NSB_soviet_civil_war_common.002.desc:1 "\nLa guerre est maintenant terminée. L'heure est venue de prendre une décision en ce qui concerne le choix de la capitale."
  NSB_soviet_civil_war_common.002.a:0 "Moscou est de loin\nla ville la plus importante"
@@ -1191,16 +1149,13 @@
  NSB_soviet_civil_war_common.002.f:0 "La capitale de l'empire,\nc'était Saint-Pétersbourg"
  SOV_petrograd:0 "Pétrograd"
  SOV_StPetersburg:0 "Saint-Pétersbourg"
-
  NSB_soviet_civil_war_common.003.t:0 "[Root.GetLeLaLDirCap] [Root.GetLeader] mobilise\nles forces armées"
  NSB_soviet_civil_war_common.003.desc:0 "\nToutes ces opérations que nous menons ne peuvent plus se faire en secret. [Root.GetLeLaLDirCap] [Root.GetLeader] a mobilisé l'armée et le NKVD, et déclenché une vague d'arrestations à l'encontre de quiconque est suspecté de « complot contre l'État ». Si nous n'agissons pas immédiatement, tout ce pour quoi nous avons fait cela sera voué à l'échec le plus absolu."
  NSB_soviet_civil_war_common.003.a:0 "C'est donc la guerre..."
-
  NSB_soviet_civil_war_common.006.t:0 "Des partisans rejoignent le soulèvement"
  NSB_soviet_civil_war_common.006.desc:0 "L'emprise [SOS.GetDuDelaDelDir] [SOS.GetLeader] sur le pays se relâche. La population [SOS.GetDuDelaDelNP] [SOS.GetName] se soulève à son tour contre le tyran. Des unités de partisans se sont formées, qui nous aideront dans les combats encore à venir."
  NSB_soviet_civil_war_common.006.a:0 "Excellent !"
  SOV_popular_uprising_units_tt:0 "Des unités de partisans vont rejoindre [Root.GetLeLaLNP] [Root.GetFlag]§Y[Root.GetName]§!."
-
  NSB_soviet_civil_war_common.010.t:0 "Déstalinisation"
  NSB_soviet_civil_war_common.010_right_opposition:0 "Le dictateur est tombé. L'heure est venue de mettre fin au culte de la personnalité, de priver les derniers partisans de Staline de ces icônes qu'ils chérissent tant, et de montrer aux [Root.GetHabitants] que les temps ont bel et bien changé.\n\nTous les monuments érigés en son honneur doivent être abattus, toutes les villes portant son nom être renommées – à l'image de sa favorite, Stalingrad."
  NSB_soviet_civil_war_common.010_left_opposition:0 "La Révolution est triomphante. Le dictateur est tombé, et le prolétariat peut gouverner à nouveau [Root.GetAuEnANP] [Root.GetName].\n\nLe culte de la personnalité entourant Staline doit cesser immédiatement, et tous ses symboles être abattus et détruits. Les cités portant son nom et celui de ses partisans doivent être renommées afin de mieux correspondre à nos valeurs – ce qui est particulièrement vrai pour la ville de Stalingrad."
@@ -1237,24 +1192,19 @@
  SOV_Novo-Mariinsk:0 "Novo-Mariïnsk"
  SOV_Belotsarsk:0 "Bélotsarsk"
  SOV_Yekaterinburg:0 "Iékatérinbourg"
-
-
  NSB_soviet_civil_war_common.100.t:0 "Vladivostok en échange\nd'un soutien [Root.GetAdjMS]"
  NSB_soviet_civil_war_common.100.desc:0 "\nDes groupes d'opposition [From.GetAdjMP] préparent un soulèvement contre [From.GetLeLaLDir] [From.GetLeader]. Leur négociateur a offert de céder Vladivostok [Root.GetAuAlaAlNP] [Root.GetName] une fois leur victoire acquise, en échange de notre appui au cas où une guerre civile éclaterait [From.GetAuEnANP] [From.GetName]."
  NSB_soviet_civil_war_common.100_exiles.desc:0 "\nDes groupes de l'opposition russe en Mandchourie préparent un soulèvement contre [From.GetLeLaLDir] [From.GetLeader]. Leur négociateur en chef, Konstantin Rodzaïevski, a offert de céder Vladivostok [Root.GetAuAlaAlNP] [Root.GetName] une fois leur victoire acquise, en échange de notre appui aux forces blanches dans le cadre de la guerre civile qui devrait éclater d'ici peu."
  NSB_soviet_civil_war_common.100.a:0 "C'est une très bonne idée"
  NSB_soviet_civil_war_common.100.b:0 "Nous avons besoin de ces troupes ailleurs"
  vladivostock_concession_tt:1 "Une force expéditionnaire [Root.GetAdjFS], commandée par §Y[?SOV.SOV_japanese_general.GetName]§!, va être envoyée appuyer les troupes de l'opposition.\nL'État de §Y[408.GetName]§! sera transféré [Root.GetAuAlaAlNP] [Root.GetFlag]§Y[Root.GetName]§! à l'issue de la guerre civile [SOV.GetAuEnANP] [SOV.GetFlag]§Y[SOV.GetName]§!."
-
  NSB_soviet_civil_war_common.101.t:0 "[From.GetLeLaLNPCap] [From.GetName] accept[From.GetEEntNP]\nde nous soutenir"
  NSB_soviet_civil_war_common.101.desc:0 "\nLe gouvernement [From.GetAdjMS] a accepté notre offre et nous soutiendra contre les stalinistes par une force expéditionnaire conséquente si le besoin s'en fait sentir. Aussitôt la victoire acquise, Vladivostok deviendra donc [From.GetAdjFS]."
  NSB_soviet_civil_war_common.101.desc_exiles:0 "\nNos amis [From.GetAdjMP] ont accepté notre offre et soutiendront la lutte contre les bolchéviques par une force expéditionnaire conséquente une fois le combat engagé. Leur céder Vladivostok est évidemment coûteux, mais parfois des sacrifices sont indispensables, au moins temporairement."
  NSB_soviet_civil_war_common.101.a:0 "Cela devrait assurer nos arrières"
-
  NSB_soviet_civil_war_common.102.t:0 "Les [From.GetHabitants]\nrefusent Vladivostok"
  NSB_soviet_civil_war_common.102.desc:0 "\nÀ notre grand étonnement, le gouvernement [From.GetAdjMS] a repoussé notre offre, refusant de recevoir le port et la région entourant Vladivostok en échange d'un soutien pour nous aider à abattre Staline."
  NSB_soviet_civil_war_common.102.a:0 "Ne serait-il pas en train\nde mijoter quelque chose ?"
-
  NSB_soviet_civil_war_common.103.t:0 "Sakhaline du Nord contre des armes"
  NSB_soviet_civil_war_common.103.desc:0 "En échange de livraisons d'armes à un soulèvement contre Staline, l'opposition [SOV.GetAdjFS] se dit prête à nous céder l'ensemble de l'île de Karafuto [Root.GetAuAlaAlNP] [Root.GetName]."
  NSB_soviet_civil_war_common.103.desc_exiles:0 "Un représentant de la communauté russe émigrée en Mandchourie nous a contactés pour nous demander de lui fournir des armes au cas où éclaterait une seconde guerre civile dans sa patrie. En échange, il dit que [Root.GetLeLaLNP] [Root.GetName] verrai[Root.GetTEntNP] [Root.GetSesLeursNP] revendications sur l'ensemble de l'île de Karafuto."
@@ -1263,15 +1213,12 @@
  NSB_soviet_civil_war_common.103.c:0 "Nous pouvons au moins\nleur vendre quelques armes"
  NSB_soviet_civil_war_common.103.d:0 "Mieux vaut éviter\nd'être impliqués dans un tel conflit"
  sakhalin_concession_tt:0 "L'État de [655.GetName] sera transféré [Root.GetAuAlaAlNP] [Root.GetFlag]§Y[Root.GetName]§! à l'issue de la guerre civile [SOV.GetAuEnANP] [SOV.GetFlag]§Y[SOV.GetName]§!."
-
  NSB_soviet_civil_war_common.104.t:0 "[From.GetLeLaLNPCap] [From.GetName] prêt[From.GetXENP]\nà nous fournir des armes"
  NSB_soviet_civil_war_common.104.desc:0 "\nLes négociations se sont bien déroulées. [From.GetLeLaLNPCap] [From.GetName] nous [From.GetAOntNP] promis des armes en échange de la reconnaissance de [From.GetSaLeurNP] souveraineté sur le Nord de l'île de Sakhaline."
  NSB_soviet_civil_war_common.104.a:0 "C'est cher payé,\nmais cela en valait la peine"
-
  NSB_soviet_civil_war_common.105.t:0 "[From.GetLeLaLNPCap] [From.GetName] refus[From.GetEEntNP]\nde nous fournir des armes"
  NSB_soviet_civil_war_common.105.desc:0 "\nNous avons eu beau proposer [From.GetAuAlaAlNP] [From.GetName] un accord qui serait dans [From.GetSonLeurNP] intérêt, notre délégation est rentrée les mains vides..."
  NSB_soviet_civil_war_common.105.a:0 "Ce n'est pas de bon augure..."
-
  NSB_soviet_civil_war_common.106.t:0 "Une aide secrète\ncontre le pétrole de Bakou"
  NSB_soviet_civil_war_common.106.desc_right_opp_before:0 "\nDes groupes d'opposition [From.GetAdjMP] préparent un soulèvement contre Staline. Ils nous ont donc contactés afin de demander une aide militaire pour constituer des troupes, en échange de quoi tous les droits sur les champs pétrolifères de Bakou seraient assurés [Root.GetAuAlaAlNP] [Root.GetName]."
  NSB_soviet_civil_war_common.106.desc_right_opp_civil_war:0 "\n[SOV.GetLeLaLNPCap] [SOV.GetName] [SOV.GetDuDelaDelDir] [SOV.GetLeader] [SOV.GetSestSesontNP] soulevé[SOV.GetXENP] contre [SOS.GetLeLaLDir] [SOS.GetLeader] et livr[SOV.GetEEntNP] une lutte désespérée contre [SOS.GetLuiElleDir]. Les rebelles nous ont donc contactés pour nous offrir les droits sur les champs pétrolifères de Bakou en échange d'une assistance [Root.GetAdjFS] pour les aider à renforcer leur capacité militaire."
@@ -1282,108 +1229,85 @@
  NSB_soviet_civil_war_common.106.c:0 "Mieux vaut éviter\nd'être mêlés à tout cela"
  SOV_baku_oil_fields_tt:1 "[Root.GetLeLaLNPCap] [Root.GetFlag]§Y[Root.GetName]§! v[Root.GetAOntNP] contribuer à construire des usines militaires en prévision d'une guerre civile [From.GetAuEnANP] [From.GetName] et bénéficier en retour des §Ydroits§! sur les champs pétrolifères de Bakou une fois la guerre civile terminée.\n"
  SOV_german_advisors_tt:0 "Deux commandants vont être envoyés combattre pour l'opposition lors de la guerre civile soviétique.\n"
-
  NSB_soviet_civil_war_common.107.t:0 "[From.GetLeLaLNPCap] [From.GetName]\naccept[From.GetEEntNP] de nous aider"
  NSB_soviet_civil_war_common.107.desc_normal:0 "\nLa demande d'aide pour renforcer notre capacité militaire a été bien reçue par [From.GetLeLaLNP] [From.GetName]. [From.GetIlElleNPCap] [From.GetAOntNP] accepté de construire des usines militaires en échange de droits sur le pétrole des champs pétrolifères du Caucase."
  NSB_soviet_civil_war_common.107.desc_advisors:1 "\nLe gouvernement [From.GetAdjMS] a accepté de nous aider en contribuant à développer notre secteur de l'industrie militaire en échange de la concession de droits sur le pétrole une fois la guerre civile terminée. Par ailleurs, [From.GetLeLaLDir] [From.GetLeader] a consenti à nous envoyer quelques « conseillers militaires », qui resteront avec nous tout le temps que durera le conflit."
  NSB_soviet_civil_war_common.107.a:0 "Excellentes nouvelles !"
-
  NSB_soviet_civil_war_common.108.t:0 "[From.GetLeLaLNPCap] [From.GetName] refus[From.GetEEntNP]\nde nous aider"
  NSB_soviet_civil_war_common.108.desc:1 "\nLes négociations avec [From.GetLeLaLNP] [From.GetName] auront été vaines. Bien que nous [From.GetLuiLeurNP] ayons offert les droits sur le pétrole du Caucase, [From.GetIlElleNP] refus[From.GetEEntNP] de contribuer au renforcement de notre secteur de l'industrie militaire."
  NSB_soviet_civil_war_common.108.a:0 "Nous nous débrouillerons sans [From.GetLuiElleEuxNP]"
-
  NSB_soviet_civil_war_common.109.t:0 "Envoi de « conseillers »\n[SOV.GetAuEnANP] [SOV.GetName]"
  NSB_soviet_civil_war_common.109.desc:0 "\nLa guerre civile fait de nouveau rage en Russie. [SOV.GetLeLaLDirCap] [SOV.GetLeader] a pris la tête des opérations contre [SOS.GetLeLaLDir] [SOS.GetLeader], et [Root.GetLeLaLNP] [Root.GetName] aur[Root.GetAOntNP] beaucoup à gagner si les rebelles l'emportent. Nous leur avions promis notre assistance, et [?ROOT.SOV_foreign_military_advisor_1.GetName] ainsi que [?ROOT.SOV_foreign_military_advisor_2.GetName] sont prêts à se rendre [SOV.GetAuEnANP] [SOV.GetName] pour aider à planifier les combats, ce qui leur permettra au passage d'en savoir davantage sur les capacités militaires [SOV.GetAdjFP]."
  NSB_soviet_civil_war_common.109.a:0 "Cela va être\nextrêmement intéressant..."
-
  NSB_soviet_civil_war_common.110.t:0 "Une aide pour la rébellion ukrainienne"
  NSB_soviet_civil_war_common.110.desc:0 "L'opposition [SOV.GetAdjFS] nous a adressé une proposition pour l'aider à s'emparer du pouvoir. Ses projets sont que nous entraînions en secret des milices ukrainiennes, en échange de quoi [Root.GetLeLaLNP] [Root.GetName] pourr[Root.GetAOntNP] bénéficier de droits exclusifs sur les ressources de l'Ukraine indépendante."
-
  NSB_soviet_civil_war_common.110.a:0 "Une telle offre ne se refuse pas"
  NSB_soviet_civil_war_common.110.b:0 "$NSB_soviet_civil_war_common.106.c$"
  SOV_ukraine_insurrection_tt:1 "[Root.GetLeLaLNPCap] [Root.GetFlag]§Y[Root.GetName]§! v[Root.GetAOntNP] former des milices ukrainiennes en échange des §Ydroits§! sur les ressources futures d'une Ukraine indépendante.\n"
-
  NSB_soviet_civil_war_common.111.t:2 "[From.GetLeLaLNPCap] [From.GetName] v[From.GetAOntNP] former\ndes milices en Ukraine"
  NSB_soviet_civil_war_common.111.desc:1 "\n[From.GetLeLaLNPCap] [From.GetName] [From.GetAOntNP] accepté de commencer à former des milices ukrainiennes. Aussitôt qu'elles seront prêtes, ces unités s'infiltreront discrètement dans la région pour y déclencher une insurrection contre le régime stalinien."
  NSB_soviet_civil_war_common.111.a:0 "Espérons que cela marchera..."
-
  NSB_soviet_civil_war_common.112.t:1 "[From.GetLeLaLNPCap] [From.GetName] rejett[From.GetEEntNP]\nnotre proposition sur l'Ukraine"
  NSB_soviet_civil_war_common.112.desc:0 "\nAu terme de plusieurs jours de discussions, [From.GetLeLaLDir] [From.GetLeader] a soudainement rompu les négociations et refusé de soutenir une insurrection en Ukraine. Nos représentants sur place n'ont aucune idée des raisons ayant motivé ce refus."
  NSB_soviet_civil_war_common.112.a:0 "C'est pour le moins regrettable..."
-
  NSB_soviet_civil_war_common.113.t:0 "Milices ukrainiennes prêtes"
  NSB_soviet_civil_war_common.113.desc_before:0 "Nos contacts [GER.GetAuEnANP] [GER.GetName] nous ont informés que les milices ukrainiennes sont prêtes à frapper. Leurs unités ont été équipées et entraînées, et vont pouvoir être déployées secrètement en Ukraine en attendant le déclenchement de la guerre."
  NSB_soviet_civil_war_common.113.desc_started:0 "Nos contacts [GER.GetAuEnANP] [GER.GetName] nous ont informés que les milices ukrainiennes sont prêtes à frapper. Leurs unités ont été équipées et déployées secrètement à proximité de sites stratégiques. L'ordre visant à déclencher l'insurrection va être donné d'ici peu de temps maintenant."
  NSB_soviet_civil_war_common.113.a:0 "Encore des ennemis\npour [SOS.GetLeLaLDir] [SOS.GetLeader]"
  NSB_soviet_civil_war_common.113.b:0 "C'est bon à savoir"
  NSB_soviet_civil_war_common.113.c:0 "Hein, quoi ?"
-
  NSB_soviet_civil_war_common.114.t:0 "Lancement de l'insurrection [UKR.GetAdjFS]"
  NSB_soviet_civil_war_common.114.desc:0 "Les unités ukrainiennes formées par les [GER.GetHabitants] se sont assurées du contrôle de cités importantes dans toute la région. Un gouvernement provisoire a déjà été formé autour [UKR.GetDuDelaDelDir] [UKR.GetLeader], qui a d'ores et déjà proclamé l'indépendance [UKR.GetDuDelaDelNP] [UKR.GetName]."
  NSB_soviet_civil_war_common.114.a:0 "C'est intolérable !"
  NSB_soviet_civil_war_common.114.b:0 "Après tout, c'est ce qui était convenu"
  NSB_soviet_civil_war_common.114.c:0 "Cela va être un rude coup\npour [SOS.GetLeLaLDir] [SOS.GetLeader] !"
-
  NSB_soviet_civil_war_common.115.t:0 "L'indépendance pour\n[BLR.GetLeLaLNP] [BLR.GetName] ?"
  NSB_soviet_civil_war_common.115.desc:0 "\nL'opposition [SOV.GetAdjFS] nous a contactés pour nous proposer de la soutenir en secret. En échange de ravitaillement et d'une aide pour son renforcement militaire, elle se dit prête à accepter le retour d'exil du gouvernement [BLR.GetAdjMS]."
  NSB_soviet_civil_war_common.115.a:0 "C'est une excellente idée"
  NSB_soviet_civil_war_common.115.b:0 "Pour l'heure, nous avons\ndes problèmes plus urgents à régler"
  SOV_belarus_tt:0 "[BLR.GetLeLaLNPCap] [BLR.GetFlag]§Y[BLR.GetName]§! v[BLR.GetAOntNP] se voir accorder l'indépendance au terme de la [GetSovietCivilWarName]."
-
  NSB_soviet_civil_war_common.116.t:0 "[From.GetLeLaLNPCap] [From.GetName] accept[From.GetEEntNP]\nde soutenir notre cause"
  NSB_soviet_civil_war_common.116.desc:0 "\nLes négociations avec [From.GetLeLaLNP] [From.GetName] ont été couronnées de succès. En échange du retour d'exil du gouvernement [BLR.GetAdjMS] après la guerre civile, les [From.GetHabitants] nous soutiendront en contribuant à renforcer notre potentiel militaire et en nous fournissant de l'armement."
  NSB_soviet_civil_war_common.116.a:0 "Parfait !"
-
  NSB_soviet_civil_war_common.117.t:0 "[From.GetLeLaLNPCap] [From.GetName] nous refus[From.GetEEntNP]\n[From.GetSonLeurNP] soutien"
  NSB_soviet_civil_war_common.117.desc:0 "\nLes négociations menées avec [From.GetLeLaLNP] [From.GetName] n'ont malheureusement débouché sur rien de concret. [From.GetLeLaLDirCap] [From.GetLeader] a repoussé notre offre, et aucune aide ne viendra de ce côté..."
  NSB_soviet_civil_war_common.117.a:0 "Nous devrons donc faire\nsans les [From.GetHabitants]..."
-
  NSB_soviet_civil_war_common.118.t:0 "L'opposition [SOV.GetAdjFS]\ndemande de l'aide"
  NSB_soviet_civil_war_common.118.desc:0 "Des membres de l'opposition [SOV.GetAdjFS] ont décidé d'agir contre le régime [SOV.GetDuDelaDelDir] [SOV.GetLeader]. Plusieurs meetings anti-staliniens ont déjà été organisés, et des campagnes de financement lancées, ici même [Root.GetAuEnANP] [Root.GetName].\n\nMais, en sus du soutien populaire à leur cause, l'opposition est aussi entrée discrètement en contact avec le gouvernement pour demander des armes [Root.GetAdjFP] afin de soutenir un soulèvement."
  NSB_soviet_civil_war_common.118.a:0 "Fournissons-leur donc des fusils"
  NSB_soviet_civil_war_common.118.b:0 "Nous pouvons au moins leur donner\nquelques armes légères"
  NSB_soviet_civil_war_common.118.c:0 "Nous n'en avons pas assez\nmais pouvons toujours leur en acheter"
  NSB_soviet_civil_war_common.118.d:0 "Mieux vaut ne pas nous mêler de tout ça..."
-
  NSB_soviet_civil_war_common.119.t:0 "Soutien [From.GetAdjMS]\nà notre cause"
  NSB_soviet_civil_war_common.119.desc:0 "\nLe gouvernement [From.GetDuDelaDelNP] [From.GetName] a accepté de nous fournir discrètement des armes."
  NSB_soviet_civil_war_common.119.a:0 "Magnifique !"
-
  NSB_soviet_civil_war_common.120.t:0 "Le gouvernement [From.GetAdjMS] refuse\nde nous soutenir"
  NSB_soviet_civil_war_common.120.desc:0 "\nLes levées de fond [From.GetAuEnANP] [From.GetName] ont été un véritable succès. Malheureusement, le gouvernement [From.GetDuDelaDelDir] [From.GetLeader] refuse de nous fournir le moindre armement..."
  NSB_soviet_civil_war_common.120.a:0 "C'est pour le moins regrettable..."
-
  NSB_soviet_civil_war_common.121.t:0 "[From.GetLeLaLNPCap] [From.GetName]\ndemand[From.GetEEntNP] notre protection"
  NSB_soviet_civil_war_common.121.desc:0 "\n[From.GetLeLaLDirCap] [From.GetLeader] nous a fait envoyer une délégation pour demander le soutien [Root.GetDuDelaDelNP] [Root.GetName] contre [SOS.GetLeLaLNP] [SOS.GetName].\nLe gouvernement [From.GetAdjMS] est prêt à renoncer à sa souveraineté en échange d'une entrée en guerre à ses côtés."
  NSB_soviet_civil_war_common.121.a:0 "C'est exactement ce dont nous avions besoin"
  NSB_soviet_civil_war_common.121.b:0 "Mieux vaut éviter\nsemblables compromissions"
-
  NSB_soviet_civil_war_common.122.t:0 "[From.GetLeLaLNPCap] [From.GetName] accept[From.GetEEntNP]\nnotre proposition"
  NSB_soviet_civil_war_common.122.desc:1 "\nIl est évidemment tout à fait regrettable de devoir recourir à de tels expédients, mais regagner le contrôle de tous les territoires perdus implique de faire des sacrifices, dans les situations d'urgence.\n\nUne fois les bolchéviques vaincus, le pays sera de nouveau suffisamment puissant pour retrouver son indépendance."
  NSB_soviet_civil_war_common.122.a:0 "La victoire est assurée"
-
  NSB_soviet_civil_war_common.123.t:0 "[From.GetLeLaLNPCap] [From.GetName]\nnous refus[From.GetEEntNP] [From.GetSonLeurNP] aide"
  NSB_soviet_civil_war_common.123.desc:0 "\nÀ l'heure où nous en avions le plus grand besoin, [From.GetLeLaLDir] [From.GetLeader] a décidé de ne pas nous accorder l'aide promise. Nous étions pourtant prêts aux plus grands sacrifices pour nous assurer son secours..."
  NSB_soviet_civil_war_common.123.a:0 "Cela ne sera pas oublié..."
-
  NSB_soviet_civil_war_common.124.t:0 "Usines [From.GetAdjFP] terminées"
  NSB_soviet_civil_war_common.124.desc:0 "Les usines construites dans l'État de [?SOV_civil_war_start_state.GetName] sont terminées et peuvent être mises en route. Elles vont assurément jouer un grand rôle dans l'effort de guerre, aussi bien à court qu'à bien plus long terme."
  NSB_soviet_civil_war_common.124.a:0 "Évidemment"
-
  NSB_soviet_civil_war_common.125.t:0 "Désertions chez l'ennemi"
  NSB_soviet_civil_war_common.125.desc:0 "Après la conquête de l'État de [?SOV.SOV_defections_army_state.GetName], l'armée [SOS.GetDuDelaDelDir] [SOS.GetLeader] a commencé à perdre confiance. Les hommes désertent en nombre, certains déposant les armes, tandis que d'autres demandent à rejoindre notre cause."
  NSB_soviet_civil_war_common.125.a:0 "Merveilleux !"
  SOS_army_desertions_tt:0 "L'armée [SOS.GetDuDelaDelNP] [SOS.GetFlag]§Y[SOS.GetName]§! perd du §Ymatériel§!, des §Yhommes§! et en §Yorganisation§!, et certaines unités passent dans le camp [Root.GetDuDelaDelNP] [Root.GetFlag]§Y[Root.GetName]§!."
-
  NSB_soviet_civil_war_common.126.t:0 "Capture d'un dépôt\ndans l'État de [?SOV.SOV_captured_stockpile_state.GetName]"
  NSB_soviet_civil_war_common.126.desc:0 "\nUn dépôt de ravitaillement des troupes [SOS.GetAdjFP] a été capturé dans l'État de [?SOV.SOV_captured_stockpile_state.GetName]. Les hommes [SOS.GetDuDelaDelDir] [SOS.GetLeader] ont bien essayé de le détruire avant de se retirer, mais nos braves soldats ont malgré tout pu préserver une partie de ce qui y était enfermé."
  NSB_soviet_civil_war_common.126.a:0 "Nous en ferons bon usage"
-
  NSB_soviet_civil_war_common.127.t:0 "Défections dans la flotte [SOS.GetAdjFS]"
  NSB_soviet_civil_war_common.127.desc:0 "Après notre victoire dans l'État de [?SOV.SOV_defections_navy_state.GetName], plusieurs officiers de la flotte [SOS.GetAdjFS] ont réalisé qu'ils se battaient pour une cause perdue. Plusieurs navires ont donc quitté la Flotte rouge et leurs équipages ont offert de combattre désormais dans notre camp."
  NSB_soviet_civil_war_common.127.a:0 "À cheval donné on ne regarde pas les dents"
  SOS_navy_desertions_tt:0 "Des navires de la flotte [SOS.GetFlag]§Y[SOS.GetAdjFS]§! passent dans le camp [Root.GetDuDelaDelNP] [Root.GetFlag]§Y[Root.GetName]§!."
-
  NSB_soviet_civil_war_common.128.t:0 "Agitation [SOS.GetAuEnANP] [SOS.GetName]"
  NSB_soviet_civil_war_common.128.desc:0 "Plusieurs rapports semblent indiquer que nos dernières victoires, telle la conquête de l'État de [?SOV.SOV_civilian_unrest_state.GetName], ont déclenché des troubles partout [SOS.GetAuEnANP] [SOS.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader] et ses fidèles, naturellement, ont tout fait pour réprimer ces protestations avec la plus grande violence – en vain semble-t-il. Cela va nécessairement avoir des conséquences sur l'effort de guerre [SOS.GetAdjMS]."
  NSB_soviet_civil_war_common.128.a:0 "Cela n'est pas pour déplaire..."
@@ -1391,7 +1315,6 @@
  NSB_soviet_civil_war_common.129.t:0 "Départ de [?SOV.SOV_japanese_general.GetName]"
  NSB_soviet_civil_war_common.129.desc:0 "La guerre civile a éclaté en Russie, aussi est-il temps pour [Root.GetLeLaLNP] [Root.GetName] de tenir [Root.GetSesLeursNP] promesses. [?SOV.SOV_japanese_general.GetName] s'apprête à partir à la tête de la force expéditionnaire pour assurer la victoire de nos alliés et la gloire [Root.GetDuDelaDelDir] [Root.GetLeader]."
  NSB_soviet_civil_war_common.129.a:0 "Tel est notre devoir"
-
  NSB_soviet_nationalist.001.t:0 "[NSB_soviet_nationalist_001_t]"
  NSB_soviet_nationalist.001.desc:0 "[NSB_soviet_nationalist_001_desc]"
  SOV_breakaway_country_flag:0 "A proclamé son indépendance de l'Union soviétique"
@@ -1409,14 +1332,12 @@
  NSB_soviet_nationalist.004.desc:0 "\nMalgré toutes nos pressions, nos signes de bonne volonté, et tout en ayant bien conscience de la situation périlleuse dans laquelle se trouv[From.GetEEntNP] [From.GetLeLaLNP] [From.GetName], [From.GetLeLaLDir] [From.GetLeader] a catégoriquement refusé de reconnaître notre autorité en échange de l'autonomie au sein d'un Empire russe réunifié."
  NSB_soviet_nationalist.004.a:0 "[From.GetIlElleDirCap] se soumettra,\nd'une manière ou d'une autre !"
  NSB_soviet_nationalist.004.b:0 "Il suffit d'attendre un peu..."
-
  NSB_soviet_permanent_revolution.1.t:0 "Agitation des révolutionnaires trotskistes"
  NSB_soviet_permanent_revolution.1.desc:0 "Avec leur propagande révolutionnaire, les trotskistes suscitent des troubles et de l'agitation [Root.GetAuEnANP] [Root.GetName]. Ils vont jusqu'à promettre à la population que [From.GetLeLaLNP] [From.GetName] viendr[From.GetAOntNP] en aide au prolétariat s'il venait à se soulever contre le gouvernement. La menace est claire : nous courrons le risque de perdre le contrôle de la situation."
  NSB_soviet_permanent_revolution.1.a:0 "C'est un acte manifeste d'hostilité !"
  NSB_soviet_for_the_common_good.1.t:0 "Le bien commun"
  NSB_soviet_for_the_common_good.1.desc:0 "La société doit toujours primer sur l'individu. C'est vrai aussi pour les économies nationales. [SOV.GetLeLaLNPCap] [SOV.GetName] [SOV.GetAOntNP] décidé de réorganiser l'économie de l'ensemble de [SOV.GetSesLeursNP] alliés, afin de mieux servir l'intérêt général plutôt qu'un seul pays. Cela implique donc des changements dans la façon dont nous faisons les choses [Root.GetAuEnANP] [Root.GetName], et débouchera inévitablement sur quelques difficultés au départ, mais sur le long terme tous en tireront profit."
  NSB_soviet_for_the_common_good.1.a:0 "L'intérêt général avant tout !"
-
  NSB_soviet_fascist_tsarist.1.t:0 "Entrée dans l'Union panslave"
  NSB_soviet_fascist_tsarist.1.desc:0 "Tandis que le monde autour de nous plonge dans les turpitudes, [From.GetLeLaLNP] [From.GetName] [From.GetAOntNP] fait le vœu de défendre tous les peuples slaves face à quiconque voudrait les agresser. [From.GetIlElleNPCap] nous [From.GetAOntNP] donc invités à entrer dans une nouvelle « Union panslave », où tous les Slaves seraient apparemment représentés de manière équitable et juste, sous la protection de l'armée [From.GetAdjFS]."
  NSB_soviet_fascist_tsarist.1.a:0 "Faisons notre part\npour l'union de tous les Slaves !"
@@ -1508,22 +1429,18 @@
  NSB_soviet_fascist_tsarist.32.b:0 "On ne peut pas se fier\naux [SOV.GetHabitants]"
  NSB_soviet_fascist_tsarist.33.desc:0 "La nouvelle vient de nous parvenir : le général $SOV_andrey_vlasov_desc$ a été capturé par les troupes [From.GetAdjFP]. Son sort ne fait malheureusement guère de doutes..."
  NSB_soviet_fascist_tsarist.33.a:0 "Nous avons d'autres soucis pour l'instant"
-
  nsb_news.301.t:0 "La République des Montagnards reconstituée"
  nsb_news.301.d:0 "\nSuivant en cela la volonté de Tapa Tchermoeff, la République des Montagnards a été réunifiée sous l'autorité [From.GetDuDelaDelDir] [From.GetLeader]. [From.GetCeluiCelleDirCap]-ci a fait serment de repousser toute invasion étrangère dans le Caucase du Nord afin de faire retrouver au pays sa place dans l'histoire. Ainsi est née à nouveau la République des Montagnards du Caucase du Nord !"
  nsb_news.301.a:0 "Plus jamais nous ne serons désunis !"
  nsb_news.301.b:0 "Intéressant..."
-
  nsb_news.302.t:0 "La Transcaucasie réunifiée"
  nsb_news.302.d:0 "\nLa première tentative avait été menée lors de la guerre civile russe, mais s'était rapidement soldée par un échec. Puis une république soviétique avait été définie par la Constitution soviétique de 1936.\n    Maintenant, pour la troisième fois, [From.GetLeLaLDir] [From.GetLeader] a réunifié les pays de Transcaucasie, et se dit prêt[From.GetXEDir] non seulement à défendre les territoires, mais aussi à les étendre. Le temps seul dira [From.GetSilSielleDir] y parviendra."
  nsb_news.302.a:0 "La troisième fois sera la bonne !"
  nsb_news.302.b:0 "Encore ?"
-
  nsb_news.303.t:0 "La Sibérie unifiée"
  nsb_news.303.d:0 "\nAprès des siècles, la Sibérie a été unifiée, non pas comme une région relevant d'une puissance extérieure, mais en tant qu'entité politique, unifiée et prête à combattre pour ses droits.\n    Les peuples sibériens se réjouissent de la fin de l'époque impérialiste, alors qu'ils s'apprêtent à vivre au sein d'un pays indépendant et débarrassé de toute intervention étrangère. La République a été proclamée, mais sa tâche n'est pas achevée car des peuples de Sibérie doivent encore être protégés et libérés, à tout prix."
  nsb_news.303.a:0 "Enfin la Sibérie est libérée de l'impérialisme"
  nsb_news.303.b:0 "L'emprise russe sur l'Orient s'affaiblit encore..."
-
  nsb_news.304.t:0 "L'Idel-Oural restauré"
  nsb_news.304.d:0 "\nPour la première fois depuis la guerre civile russe, les peuples de la région de la Volga se sont réunis au sein d'un État, l'Idel-Oural. Et, cette fois-ci, ils ont juré qu'ils ne seraient pas soumis une fois encore par les Russes, et qu'ils préserveraient leur indépendance à tout prix. Mais l'avenir seul dira si cet État renaissant pourra survivre ou non..."
  nsb_news.304.a:0 "Cette fois, nous resterons unis !"
@@ -1575,46 +1492,3 @@
  nsb_news.409.desc:0 "\n\nPar une déclaration commune de leurs gouvernements respectifs, [GER.GetLeLaLNP] [GER.GetName], [SOV.GetLeLaLNP] [SOV.GetName] et [JAP.GetLeLaLNP] [JAP.GetName] viennent d'annoncer que [JAP.GetCeluiCelleNP]-ci allai[JAP.GetTEntNP] devenir le troisième membre de l'Axe.\n    Si cela est assez inattendu étant donné les tensions récentes entre [SOV.GetHabitants] et [JAP.GetHabitants], il y a fort à parier que c'est là le fruit d'intenses négociations du corps diplomatique [GER.GetAdjMS].\n    Toutefois, les premiers ont ainsi l'assurance que leur flanc oriental est protégé, tandis que les seconds peuvent désormais consacrer toute leur attention au Pacifique."
  nsb_news.409.a:0 "C'est un véritable succès diplomatique"
  nsb_news.409.b:0 "Effectivement, c'est assez inattendu !"
-
-# === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
- may_lead_to_soviet_war_tt:0 "Cela pourrait conduire à la §Rguerre§! avec [SOV.GetLeLaLNP] §Y[SOV.GetFlag][SOV.GetName]§!..."
- LIT_events.14.d:0 "\nS'il n'y a eu aucun affrontement armé depuis des années avec [From.GetLeLaLNP] [From.GetName], nos deux pays sont toujours officiellement en guerre, et jamais aucun traité de paix n'a été signé. [From.GetLeLaLDirCap] [From.GetLeader] a donc proposé aujourd'hui la fin des hostilités et la signature d'une alliance contre les menaces communes qui pèsent à nos frontières. [From.GetSilSielleDirCap] continue de prétendre que Vilnius n'est en rien la capitale légitime [Root.GetDuDelaDelNP] [Root.GetName], [From.GetIlElleDir] pense qu'il est dans l'intérêt de nos peuples de poser les armes et de vivre désormais en paix."
- FRA_operation_1:0 "Bison"
- FRA_operation_2:0 "Annaconda"
- FRA_operation_3:0 "Harpie"
- FRA_operation_4:0 "Licorne"
- anti_soviet_path_tt:0 "[POL.GetLeLaLNPCap] §Y[POL.GetName]§! v[POL.GetAOntNP] désormais suivre la voie de l'opposition [SOV.GetAuAlaAlNP] [SOV.GetFlag]§Y[SOV.GetName]§!."
- pro_soviet_path_tt:0 "[POL.GetLeLaLNPCap] §Y[POL.GetName]§! v[POL.GetAOntNP] désormais suivre la voie du rapprochement avec [SOV.GetLeLaLNP] [SOV.GetFlag]§Y[SOV.GetName]§!."
- monarchist_civil_war_tt:0 "TODO"
- NSB_soviet_nationalist_001_t_UKR:0 "Soulèvement nationaliste\n[UKR.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_BLR:0 "Soulèvement nationaliste\n[BLR.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_CRI:0 "Soulèvement nationaliste\n[CRI.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_KAR:0 "Soulèvement nationaliste\n[KAR.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_GEO:0 "Soulèvement nationaliste\n[GEO.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_ARM:0 "Soulèvement nationaliste\n[ARM.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_AZR:0 "Soulèvement nationaliste\n[AZR.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_DAG:0 "Soulèvement nationaliste\n[DAG.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_CIN:0 "Soulèvement nationaliste\n[CIN.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_KHI:0 "Soulèvement nationaliste\n[KHI.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_BUK:0 "Soulèvement nationaliste\n[BUK.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_KAZ:0 "Soulèvement nationaliste\n[KAZ.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_UZB:0 "Soulèvement nationaliste\n[UZB.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_KKP:0 "Soulèvement nationaliste\n[KKP.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_TMS:0 "Soulèvement nationaliste\n[TMS.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_t_KYR:0 "Soulèvement nationaliste\n[KYR.GetAuEnANP] [?SOV.SOV_nationalist_country.GetName]"
- NSB_soviet_nationalist_001_desc_UKR:0 "\n[UKR.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [UKR.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [UKR.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_BLR:0 "\n[BLR.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [BLR.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [BLR.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_CRI:0 "\n[CRI.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [CRI.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [CRI.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_KAR:0 "\n[KAR.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [KAR.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [KAR.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_GEO:0 "\n[GEO.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [GEO.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [GEO.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_ARM:0 "\n[ARM.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [ARM.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [ARM.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_AZR:0 "\n[AZR.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [AZR.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [AZR.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_DAG:0 "\n[DAG.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [DAG.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [DAG.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_CIN:0 "\n[CIN.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [CIN.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [CIN.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_KHI:0 "\n[KHI.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [KHI.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [KHI.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_BUK:0 "\n[BUK.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [BUK.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [BUK.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_KAZ:0 "\n[KAZ.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [KAZ.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [KAZ.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_UZB:0 "\n[UZB.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [UZB.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [UZB.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_KKP:0 "\n[KKP.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [KKP.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [KKP.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_TMS:0 "\n[TMS.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [TMS.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [TMS.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."
- NSB_soviet_nationalist_001_desc_KYR:0 "\n[KYR.GetLeLaLDirCap] [?SOV.SOV_nationalist_country.GetLeader] vient de proclamer la création d'un nouveau pays indépendant, [KYR.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName]. [SOS.GetLeLaLDirCap] [SOS.GetLeader], quant à [SOS.GetLuiElleDir], a aussitôt qualifié cela de trahison, et ordonné que les rebelles soient capturés et exécutés sur-le-champ.\n\nLa conséquence de ces événements est donc que, dans les faits, [SOS.GetLeLaLNP] [SOS.GetName] et [KYR.GetLeLaLNP] [?SOV.SOV_nationalist_country.GetName] sont désormais en guerre."

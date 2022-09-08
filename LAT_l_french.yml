@@ -1,15 +1,8 @@
 ﻿l_french:
  latvian_focus:0 "Priorités nationales lettones"
-#I can't believe that I have to put this in a localization file
-#Latvian Central Council boost legitimacy for democrats
-#Pauls Kalniņš president of the parliament, legitimate successor to the presidency in 1936
  available_materiel_manufacturer:0 "Disponible en tant que fabricant de matériel :"
-
-##renovate coastal forts
-#ideas
  vef_electronics:0 "VEF Radiotehnika RRR"
  vef:0 "Avions VEF"
-
  LAT_ford_vairogs:0 "Ford-Vairogs"
  LAT_latvian_credit_bank:0 "Banque de crédit de Lettonie"
  LAT_sentab:0 "SENTAB"
@@ -30,8 +23,6 @@
  LAT_communist_influence:0 "Influence du PCL"
  LAT_fascist_influence:0 "Influence de Perkonkrusts"
  LAT_fascist_volunteers:0 "Corps de cadets"
-
- ##attachés
  LAT_JAP_army_attache_tamoku_takatsuki:0 "Tamoku Takatsuki"
  LAT_JAP_naval_attache:0 "Attaché naval japonais"
  LAT_USA_army_attache_george_huthsteiner:0 "George E. Huthsteiner"
@@ -42,38 +33,28 @@
  LAT_ENG_naval_attache:0 "British Naval Attaché"
  LAT_GER_army_attache_horst_rossing:0 "Horst Rössing"
  LAT_GER_naval_attache_reimar_von_bonin:0 "Reimar von Bonin"
- ##politics
  LAT_janis_balodis:0 "Jānis Balodis"
  LAT_leonids_breiks:0 "Leonīds Breikšs"
  LAT_generic_fascist_demagogue:0 "Adolfs Silde"
-
- ##air force
  LAT_rudolfs_basko:0 "Arvīds Skurbe"
  LAT_janis_indans:0 "Jānis Indāns"
  LAT_janis_indans2:0 "Jānis Indāns"
  LAT_arvids_skurbe:0 "Rūdolfs Baško"
- ##army
  LAT_krisjanis_berkis:0 "Krišjānis Berķis"
  LAT_martins_penikis:0 "Mārtiņš Peniķis"
  LAT_ludvigs_bolsteins:0 "Ludvigs Bolšteins"
  LAT_janis_kurelis:0 "Jānis Kurelis"
  LAT_andrejs_krustins:0 "Andrejs Krustiņš"
  LAT_martins_hartmanis:0 "Mārtiņš Hartmanis"
- ##navy
  LAT_theodor_spade:0 "Theodor Spade"
  LAT_ernests_barotajs:0 "Ernests Barotājs"
  LAT_a_kalns:0 "A. Kalns"
-
- #OOB
  LAT_destroyer_contract_tt:0 "Acheter 2 nouveaux destroyers"
  LAT_submarine_contract_tt:0 "Acheter 2 nouveaux sous-marins"
-
  LAT_destroyer_contract_legacy:0 "Contrat de destroyer"
  LAT_destroyer_contract_mtg:0 "Contrat de destroyer"
  LAT_submarine_contract_legacy:0 "Contrat de sous-marin"
  LAT_submarine_contract_mtg:0 "Contrat de sous-marin"
-
- #flags
  ask_attache_about_artillery:0 "Discuter avec un attaché étranger de la modernisation de l'artillerie"
  ask_attache_about_firearms:0 "Discuter des armes à feu étrangères avec un attaché étranger"
  LAT_kviesis_retired:0 "Le mandat d'Alberts Kviesis a pris fin"
@@ -82,7 +63,6 @@
  LAT_communist_influence_flag:0 "A soutenu les communistes"
  LAT_fascist_influence_flag:0 "A soutenu le mouvement Thundercross"
  LAT_political_path_decided:0 "Chemin politique choisi"
-
  LAT_contact_attaches_cost:0 "£command_power §H10§! £pol_power §H10§!"
  LAT_contact_attaches_cost_blocked:0 "£command_power §R10§! £pol_power §R10§!"
  LAT_contact_attaches_cost_tooltip:0 "Cela coûte £command_power §H10§! et £pol_power §H10§! de sélectionner cela"
@@ -101,7 +81,6 @@
  LAT_negociate_destroyer_contract:0 "Négocier un contrat de destroyer"
  LAT_attache_decision_in_progress:0 "déjà en train de discuter avec un autre attaché étranger"
  LAT_naval_contract_tt:0 "A discuté avec un §Yattaché étranger§! deux fois"
-
  LAT_mobilization_plans:0 "Plans de mobilisation lettons"
  LAT_mobilization_plans_desc:0 "Les différents plans de mobilisation élaborés par notre état-major général nous permettront de répondre efficacement à une agression étrangère. Trois grands plans ont été préparés.\n\nLe §Yplan A§! anticipe une attaque de l'URSS par l'est et éventuellement par le nord.\n\nLe §Yplan D§! anticipe une offensive allemande depuis le sud.\n\nLe §Yplan K§!, considéré comme extrêmement improbable, postule une frappe simultanée de l'Allemagne et de l'Union soviétique."
  LAT_plan_A:0 "Plan A"
@@ -127,9 +106,6 @@
  LAT_reallocate_investments:0 "Réaffecter les investissements"
  LAT_admiral_small_ships_training:0 "Entraînement des petits navires"
  LAT_admiral_submarine_training:0 "Entraînement des sous-marins"
- 
- #focuses#
- #air and  electronics#
  LAT_VEF_radio_production:0 "Production de radio VEF"
  LAT_VEF_radio_production_desc:0 "Valtsts elektrotehniska fabrika (VEF), également connue sous le nom d'Usine électrotechnique d'État, est l'une des plus grandes usines de Lettonie, qui date de 1919. Aujourd'hui, elle fabrique des ampoules électriques, des appareils photo, des radios, des téléphones et d'autres appareils électroniques."
  LAT_VEF_electronics_primacy:0 "Priorité à l'électronique"
@@ -162,7 +138,6 @@
  LAT_trained_air_mechanics_desc:0 "Les talents d'un pilote importent peu si un moteur s'arrête ou si le réservoir de carburant de l'avion fuit pendant le vol. La formation d'une équipe d'assistance au sol adéquate augmentera la durée de vie de l'avion et de son pilote."
  LAT_export_technical_experience:0 "Exporter l'expérience technique"
  LAT_export_technical_experience_desc:0 "Reconnaissant la valeur des mécaniciens qualifiés pour l'entretien des avions, nous pouvons appliquer les méthodes développées pour améliorer également la qualité de nos équipements au sol."
- #navy#
  LAT_foreign_submarine_contract:0 "Contrat de sous-marin étranger"
  LAT_foreign_submarine_contract_desc:0 "Nos capacités navales sont extrêmement limitées sur le front domestriel, mais nous pouvons toujours inviter des spécialistes étrangers à former notre personnel naval en termes de doctrines d'opérations sous-marines et de perturbation des convois."
  LAT_foreign_destroyer_contract:0 "Contrat de destroyer étranger"
@@ -181,8 +156,6 @@
  LAT_new_flagship_desc:0 "Si nous voulons imposer notre domination en mer Baltique, nous avons besoin d'un navire approprié pour représenter notre flottille. La construction d'un navire lourd peut être une opération longue et coûteuse, mais le fait d'acquérir le statut de puissance navale de la région en vaut la peine."
  LAT_reinforce_the_navy_air_branch:0 "Renforcer la force aérienne de la marine"
  LAT_reinforce_the_navy_air_branch_desc:0 "La marine et l'aviation sont généralement perçues comme deux adversaires se disputant la redistribution des fonds, pourtant leur coopération nous permettra de construire une nouvelle génération d'avions capables d'effectuer des opérations maritimes."
-
- #industry#
  LAT_revitalize_civilian_economy:0 "Relancer l'économie civile"
  LAT_revitalize_civilian_economy_desc:0 "La Banque de crédit de Lettonie, récemment créée, a été chargée par l'État de contrôler les activités de crédit dans le pays et d'investir dans des entreprises clés afin de renforcer le secteur industriel."
  LAT_contact_foreign_industrial_partners:0 "Contacter les industriels étrangers"
@@ -205,7 +178,6 @@
  LAT_national_tank_program_desc:0 "Les capacités d'un véhicule blindé ont été gravement sous-estimées dans le passé. Maintenant que nous voyons le véritable potentiel d'un blindé de guerre, nous allons investir massivement dans de nouveaux prototypes de chars !"
  LAT_increase_research_budget:0 "Augmenter le budget de recherche"
  LAT_increase_research_budget_desc:0 "Les demandes croissantes des branches militaires et industrielles mettent nos équipes scientifiques sous forte pression. Un financement supplémentaire visant à développer les instituts et les installations de recherche devrait soulager nos développeurs et nos inventeurs."
- #army#
  LAT_rely_on_foreign_attaches:0 "Compter sur les attachés étrangers"
  LAT_rely_on_foreign_attaches_desc:0 "En tant que petit pays isolé, notre pays a toujours eu de la difficulté à rattraper les innovations militaires. Nous devons donc compter sur des attachés militaires étrangers responsables de notre pays pour acquérir une partie des innovations récentes des grandes puissances militaires."
  LAT_study_foreign_firearm_prototypes:0 "Prototypes d'armes étrangères"
@@ -232,8 +204,6 @@
  LAT_incorporate_paramilitary_units_desc:0 "Incorporer des unités paramilitaires"
  LAT_mobilization_of_the_workforce:0 "Mobilisation de la main-d'œuvre"
  LAT_mobilization_of_the_workforce_desc:0 "Mobilisation de la main-d'œuvre"
- 
- #more Ulmanis, MORE! #
  LAT_enforce_the_succession_law:0 "Appliquer la loi de succession"
  LAT_enforce_the_succession_law_desc:0 "Pour devenir président à la fin du mandat d'Alberts Kviesis, la loi doit être modifiée. Il en résultera une plus grande concentration du pouvoir entre les mains d'Ulmanis. Par la suite, sa dictature sera vraiment absolue."
  LAT_ulmanis_in_control_of_the_government:0 "Le chef du peuple"
@@ -255,18 +225,14 @@
  LAT_top_of_the_line_agrarianism:0 "Produits agricoles haut de gamme"
  LAT_top_of_the_line_agrarianism_desc:0 "L'économie de notre pays dépend fortement des exportations agricoles. Les produits agricoles lettons tels que le grain, les céréales et la vigne sont connus pour être parmi les mieux cotés sur le marché européen."
  LAT_neutral_foreign_policy:0 "Politique étrangère neutre"
-
- #no ulmanis for you#
  LAT_a_rejection_of_ulmanis:0 "Un rejet d'Ulmanis"
  LAT_a_rejection_of_ulmanis_desc:0 "Le mandat d'Alberts Kviesis touche à sa fin, Carlis Ulmanis contrôlant le gouvernement de sa main de fer. Si nous voulons assurer le changement de gouvernement en Lettonie, nous devrons rejeter ouvertement les avancées d'Ulmanis en politique et limiter drastiquement son influence. Nous devons agir rapidement avant que la loi sur la succession ne soit modifiée !"
-
- #democratic#
  LAT_assemble_a_new_seima:0 "Assembler une nouvelle Saeima"
  LAT_assemble_a_new_seima_desc:0 "Si nous voulons empêcher la descente de notre pays vers un autre régime tyrannique et oppressif, nous devons consolider encore plus le pouvoir autour de la coalition démocratique actuelle. Le 5ème parlement (seima), composé de cent représentants, doit être habilité à diriger le gouvernement sur la nouvelle voie démocratique."
  LAT_liberal_economic_reforms:0 "Politiques économiques occidentales"
  LAT_liberal_economic_reforms_desc:0 "De nombreux investisseurs étrangers, observant le changement rapide de notre gouvernement et sa libéralisation rapide, expriment leur volonté d'investir dans notre nouvel État en développement. Nous leur montrerons notre bonne volonté en appliquant de multiples politiques économiques libérales avec quelques spécificités baltes."
  LAT_redraft_the_constitution:0 "Réviser la Constitution"
- LAT_redraft_the_constitution_desc:0 "Le Constitution de la République de Lettonie (Latvijas Republikas Satversme), a été adopté à l'origine en 1922. Il comprenait 115 articles et 8 chapitres et stipulait dans son premier article que « la Lettonie est une république démocratique indépendante ». En 1934, le Satversme a été suspendu par Ulmanis pendant son ascension au pouvoir. La 5ème Seima réintroduira la Constritution dans son intégralité et appliquera l'article premier tel qu'il est !" 
+ LAT_redraft_the_constitution_desc:0 "Le Constitution de la République de Lettonie (Latvijas Republikas Satversme), a été adopté à l'origine en 1922. Il comprenait 115 articles et 8 chapitres et stipulait dans son premier article que « la Lettonie est une république démocratique indépendante ». En 1934, le Satversme a été suspendu par Ulmanis pendant son ascension au pouvoir. La 5ème Seima réintroduira la Constritution dans son intégralité et appliquera l'article premier tel qu'il est !"
  LAT_state_intervention:0 "Intervention de l'État"
  LAT_state_intervention_desc:0 "La politique actuelle de l'État vise à donner un aperçu du développement industriel et économique du pays."
  LAT_a_western_ally:0 "Un allié à l'Ouest"
@@ -279,8 +245,6 @@
  LAT_discredit_totalitarianism_desc:0 "En tant que premier acteur démocratique majeur dans la région, nous renoncerons à toute forme d'oppression des peuples menée par les régimes totalitaires. Faites-leur savoir que nous défendrons nos valeurs et la sécurité du peuple !"
  LAT_democratic_gem_of_eastern_europe:0 "Le joyau caché de l'Europe de l'Est"
  LAT_democratic_gem_of_eastern_europe_desc:0 "Notre attachement aux institutions démocratiques et aux politiques libérales, ainsi que l'un des premiers gouvernements républicains d'Europe de l'Est, ont encouragé les gens à appeler la Lettonie « le joyau caché d'Europe de l'Est » !"
-
- #communist#
  LAT_coalition_with_the_communists:0 "Coalition avec les communistes"
  LAT_coalition_with_the_communists_desc:0 "En cette période de crise, seul un front populaire unissant les communistes et les partis démocratiques permettra de former une force politique crédible."
  LAT_proclaim_the_peoples_republic:0 "Créer la République populaire lettone"
@@ -303,8 +267,6 @@
  LAT_centralize_farming_production_desc:0 "Les vastes terres agricoles de notre pays ont été divisées en 26 rajons (districts) administratifs, qui dépendaient officiellement d'une infrastructure obsolète. Le nouveau décret du LKP suggère une adoption des politiques de collectivisation dans le but de centraliser la base agricole de notre économie."
  LAT_eliminate_capitalism:0 "Éliminer le capitalisme"
  LAT_eliminate_capitalism_desc:0 "De nombreux actifs industriels des résidents ruraux (« kulaks ») peuvent être nationalisés et leurs terres agricoles redistribuées plus efficacement parmi la population. Cela augmentera les capacités d'industrialisation de notre nation au prix d'une certaine perte de population et de quelques inconvénients économiques de notre fragile système industriel."
- 
- #fascist#
  LAT_radical_opposition:0 "Opposition radicale"
  LAT_radical_opposition_desc:0 "Le mouvement Thundercross s'est opposé à la dictature d'Ulmanis depuis le début, en cette période de crise, ils sont la seule force d'opposition crédible encore active."
  LAT_proclaim_the_new_state:0 "Proclamer la nouvelle Lettonie"
@@ -324,51 +286,41 @@
  LAT_baltics_under_one_flag_desc:0 "Nées dans la tempête de la révolution russe de 1917-1921 en tant que trois nations indépendantes, [LAT.GetNameDef], [LIT.GetNameDef] et [EST.GetNameDef] partagent un héritage culturel et historique considérable. Grâce à notre nouvelle compréhension du concept d'Entente balte, nous unirons tous les pays en une seule entité sous notre direction."
  LAT_mythological_diplomacy:0 "Diplomatie mythologique"
  LAT_mythological_diplomacy_desc:0 "La philologie prouve que Perkunas n'est pas seulement notre dieu suprème, il est l'héritier d'une tradition qui remonte à l'aube de l'humanité. De nombreux autres pays ont connu des variantes de ce héros caractérisé par la maîtrise du tonnerre ou la présence d'une arme de choc. Il est temps pour Perkunas, Indra, Herakles et Thor de retrouver leur unité et de frapper tous nos ennemis avec une force sacrée."
- #events#
  LAT_event.1.t:0 "Dîner cordial entre officiers"
  LAT_event.1.desc:0 "Lors d'un repas à la table des officiers, l'attaché était disposé à discuter des dernières innovations dans le domaine de l'armement."
  LAT_event.1.a:0 "Se renseigner sur les armes à feu."
  LAT_event.1.b:0 "Se renseigner sur les armes à feu et les obus."
  LAT_event.1.c:0 "Se renseigner sur les méthodes d'entraînement."
-
  LAT_event.2.t:0 "Se renseigner sur les doctrines"
  LAT_event.2.desc:0 "Comment puis-je vous aider ?"
  LAT_event.2.a:0 "Comment organiser notre armée ?"
  LAT_event.2.b:0 "Comment organiser notre marine ?"
  LAT_event.2.c:0 "Comment organiser notre aviation ?"
-
  LAT_event.3.t:0 "La centrale électrique de Kegums est terminée !"
  LAT_event.3.desc:0 "Après des années de travail et d'investissement, le barrage est enfin opérationnel. C'est une réalisation gigantesque et la preuve de l'ingéniosité lettone."
  LAT_event.3.a:0 "Hourra !"
-
  LAT_event.4.t:0 "Le mandat d'Alberts Kviesis touche à sa fin"
  LAT_event.4.desc:0 "Comme le prévoit la Constitution, la présidence de la Kviesis prend fin. Alors que la Constitution stipule que le président du Parlement doit lui succéder, le ministre-président Ulmanis a élaboré une loi afin de cumuler sa position actuelle avec la présidence. Il pourra ainsi concentrer encore plus de pouvoir et renforcer sa dictature."
  LAT_event.4.a:0 "Tout a été truqué dès le début..."
  LAT_event.4.b:0 "Invalidez cette action, maintenant !"
-
  LAT_event.5.t:0 "L'invalidation d'Ulmanis"
  LAT_event.5.desc:0 "Carlis Ulmanis est le dictateur de facto du pays depuis son coup d'État en 1934, son règne est incontesté depuis deux ans. Cependant, le président qui avait l'habitude d'approuver toutes ses lois antérieures a pris l'initiative d'invalider la loi de succession d'Ulmanis, l'empêchant d'obtenir la présidence. L'ancien président de la constitution lettone, Pauls Kalniņš est censé devenir le prochain président selon la constitution. Cependant, il est actuellement dans la prison d'Ulmanis et avec une rivalité politique grandissante entre Ulmanis et l'opposition qui soutient Kviesis, il pourrait mener à un effondrement politique car personne n'exercerait légalement le pouvoir."
  LAT_event.5.a:0 "Utiliser la légalité pour libérer Pauls Kalniņš."
  LAT_event.5.b:0 "Ulmanis va tout essayer pour gagner en puissance."
-
  LAT_event.6.t:0 "La nouvelle constitution"
  LAT_event.6.desc:0 "Maintenant qu'Ulmanis a été démis de ses fonctions, nous pouvons enfin commencer à rétablir un système démocratique fonctionnel. D'abord, nous devons réunir une nouvelle Saeima et voter pour notre prochain président."
  LAT_event.6.a:0 "Confirmer Pauls Kalniņš, il est le président légitime selon la constitution."
  LAT_event.6.b:0 "Élire Margers Skujenieks à la place."
-
  LAT_event.7.t:0 "Et maintenant ?"
  LAT_event.7.desc:0 "La résistance d'Ulmanis et de ses hommes de main à la restauration de la démocratie a été plus forte que prévu. Le président Kviesis n'a pas réussi à le faire démissionner légalement et un fossé s'est creusé entre ce qui reste des institutions."
  LAT_event.7.a:0 "Demandez l'appui des communistes, ils sont notre dernière chance."
  LAT_event.7.b:0 "Les Perkonkrusts sauveront l'État, ils se sont opposés à Ulmanis pendant des années."
-
  LAT_event.8.t:0 "Proclamer la République populaire"
  LAT_event.8.desc:0 "Nous sommes sortis des cendres des gouvernements autoritaires précédents avec le moins de chance au monde ! Mais maintenant, nous avons obtenu suffisamment de soutien pour proclamer l'établissement d'un État qui sera l'instrument du peuple letton pour la libération des travailleurs du monde. Toutefois, la question de son gouvernement n'est toujours pas réglée car les postes ministériels et présidentiels n'ont pas encore été attribués."
  LAT_event.8.a:0 "Fricis Menders assumera la présidence."
  LAT_event.8.b:0 "Lacis Villis sera le chef de l'État."
-
  LAT_infantry_equipment_0:0 "M-N 1891/30"
  LAT_infantry_equipment_0_short:0 "M-N 1891/30"
  LAT_infantry_equipment_1:0 "Fusil Pattern 14"
  LAT_infantry_equipment_1_short:0 "Pattern 14"
- 
- LAT_suspend_the_constitution:0 "Suspendre la Constitution" #inconsistent third person name of focus
+ LAT_suspend_the_constitution:0 "Suspendre la Constitution"

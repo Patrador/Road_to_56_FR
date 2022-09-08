@@ -1,13 +1,9 @@
 ﻿l_french:
  estonian_focus:0 "Priorités nationales estoniennes"
-
-#decisions
  EST_a_tale_of_leningrad:0 "Un récit de Leningrad"
  EST_a_tale_of_leningrad_desc:0 "Après la victoire éclatante des forces estoniennes que l'histoire n'a jamais vue, il est maintenant temps de détruire les derniers vestiges de l'héritage bolchévique en Europe. Le berceau nordique du communisme doit être éliminé !"
-
  EST_support_estonian_latvian_brotherhood:0 "Soutenir la fraternité [EST.GetAdjFS]-[LAT.GetAdjFS]"
  EST_support_estonian_latvian_brotherhood_desc:0 "Nous avons conquis tout l'ancien territoire de la Lettonie et nous nous trouvons face à une opportunité unique d'étendre encore plus notre empire ! En suivant le chemin de nos ancêtres, il sera peut-être possible d'unir toutes les anciennes terres de l'Ordre Livonien sous notre bannière !"
-
  est.11.t:0 "[From.GetLeLaLNPCap] [From.GetName] demande la participation [Root.GetAdjFS] dans l'Entente baltique"
  est.11.d:0 "Avec la signature d'un traité d'amitié entre nos nations, [From.GetLeLaLNP] [From.GetName] [From.GetAOntNP] demandé que [Root.GetLeLaLNP] [Root.GetName] les rejoint dans leur Entente baltique, pour s'unir contre les menaces croissantes qui entourent nos nations. Qu'ils soient communistes ou fascistes, [From.GetLeLaLNP] [From.GetName] promet[From.GetEEntNP] de défendre les intérêts [Root.GetAdjMP]."
  est.11.a:0 "[Root.GetLeLaLNPCap] [Root.GetName] est aux côtés de ses frères."
@@ -36,8 +32,6 @@
  est.18.a:0 "Un retour à la démocratie est notre meilleur espoir."
  est.18.b:0 "L'établissement de liens étroits avec l'Allemagne est la meilleure solution."
  est.18.c:0 "L'Union des travailleurs estoniens nous guidera."
-
- #focus
  EST_the_four_year_plan:0 "Le plan quadriennal"
  EST_the_four_year_plan_desc:0 "Notre industrie et notre agriculture sont en retard par rapport à la production que nous avions avant la Grande Dépression. Commençons à les améliorer en lançant le plan quadriennal."
  EST_tallinn_tartu_highways:0 "Autoroutes Tallinn-Tartu"
@@ -200,9 +194,6 @@
  EST_democratization_of_the_army_desc:0 "Toute nation modernisée dispose d'une véritable armée pour lui emboîter le pas. De nouvelles tactiques et une restructuration pourraient s'avérer efficaces sur le champ de bataille."
  EST_demmand_friendship:0 "Demander l'allégeance à l'Union soviétique"
  EST_demmand_friendship_desc:0 "L'Union soviétique est la seule nation qui peut nous aider à défendre nos idéaux. L'établissement de liens étroits ne devrait même pas être remis en question."
-
- #Ideas
-
  EST_johan_laidoner:0 "Johan Laidoner"
  EST_alfons_rebane:0 "Alfons Rebane"
  EST_richard_tomberg:0 "Richard Tomberg"
@@ -227,27 +218,19 @@
  EST_friedrich_akel:0 "Friedrich Akel"
  EST_social_security_2:0 "Prioriser la sécurité sociale"
  EST_social_security_3:0 "Prioriser la sécurité sociale"
-
  EST_outdated_military:0 "Processus de fabrication obsolète"
  industrial_councils:0 "Conseils industriels"
  EST_rapid_expansion:0 "Expansion rapide"
-
  EST_artillery_production:0 "Production d'artillerie"
  EST_fortification_studies:0 "Études sur la fortification"
  aero_idea:0 "Idée aérienne"
-
  EST_tallinn_radiotehas:0 "Tallinna Radiotehas"
  EST_eesti_kivioli:0 "AS Eesti Kiviõli"
  EST_as_kunda_nordic:0 "AS Kunda Nordic"
-
  NK:0 "Noored Kotkad"
  NK_desc:0 "Les organisations affiliées à la Ligue de défense regroupent au total plus de 21 000 volontaires et comprennent le corps féminin de la Ligue de défense estonienne Naiskodukaitse, le corps masculin de la Ligue de défense estonienne Noored Kotkad et le corps féminin de la Ligue de défense estonienne Kodutütred."
-
  riigihoidja:0 "Riigihoidja"
-
-
  EST_generic_light_aircraft_manufacturer:0 "Aviotehas"
-
  EST_election_tt:0 "Nous organiserons des élections libres"
  EST_sare_tt:0 "Cette priorité s'achèvera après la victoire de Karl Säre aux élections"
  EST_mae_tt:0 "Cette priorité s'achèvera après la victoire de Hajlmar Mae aux élections"

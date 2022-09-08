@@ -72,7 +72,7 @@
  ITA_neutrality_party:0 "Casa Savoia"
  JAP_communism_party:0 "Nihon Kyosan-to"
  JAP_democratic_party:0 "Rikken Minseito"
- JAP_fascism_party:0 "Kyokoku Itchi Naikaku" #national unity cabinet
+ JAP_fascism_party:0 "Kyokoku Itchi Naikaku"
  JAP_neutrality_party_kodoha_long:0 "Kodoha Faction"
  JAP_neutrality_party_kodoha:0 "Kodoha Faction"
  USA_communism_party:0 "Communist Party USA"
@@ -445,7 +445,7 @@
  PHI_democratic_party_long:0 "Partido Nacionalista"
  PHI_communism_party:0 "PKP"
  PHI_communism_party_long:0 "Partido Komunista ng Pilipinas"
- SAU_fascism_party:0 "FNDLOGP" #anacrhonistic
+ SAU_fascism_party:0 "FNDLOGP"
  SAU_fascism_party_long:0 "Front national démocratique pour la libération d'Oman et du golfe Persique"
  SAU_democratic_party:0 "PAN"
  SAU_democratic_party_long:0 "Parti de l'Assemblée nationale"
@@ -529,34 +529,34 @@
  ISR_democratic_party:0 "Mapai"
  ISR_fascism_party:0 "Lehi"
  ISR_neutrality_party:0 "Conseil central"
- VIN_fascism_party:0 "Ligue vietnamienne de restauration" #or Reformation Society
- VIN_democratic_party:0 "Parti Can Lao" #formed in early 50s
- VIN_communism_party:0 "Parti communiste du Viêt Nam" #Viet Minh was more important in early years
+ VIN_fascism_party:0 "Ligue vietnamienne de restauration"
+ VIN_democratic_party:0 "Parti Can Lao"
+ VIN_communism_party:0 "Parti communiste du Viêt Nam"
  VIN_neutrality_party:0 "Viêt Nam Quoc Dân Đang"
  CAM_fascism_party:0 "Parti Khmerite"
- CAM_democratic_party:0 "Parti démocratique" #formed in 1946
- CAM_communism_party:0 "Parti communiste du Kampuchéa" # aka Khmer Communist Party or a different party Krom Pracheachon aka Krom
- CAM_neutrality_party:0 "Sangkum Reastr Niyum" # or just Sangkum 1955, democratic but right leaning and anti communist
- INS_fascist_party:0 "PNI" #inspired by right wingers from 1960s
+ CAM_democratic_party:0 "Parti démocratique"
+ CAM_communism_party:0 "Parti communiste du Kampuchéa"
+ CAM_neutrality_party:0 "Sangkum Reastr Niyum"
+ INS_fascist_party:0 "PNI"
  INS_fascist_party_long:0 "Partai Nasional Indonesia"
  INS_democracy_party:0 "Masyumi"
  INS_democracy_party_long:0 "Majelis Syuro Muslimin Indonesia"
- INS_communist_party:0 "PKI" #Partai Komunis Indonesia
+ INS_communist_party:0 "PKI"
  INS_communist_party_long:0 "Partai Komunis Indonesia"
  INS_neutrality_party:0 "Colonial Government"
- INS_neutrality_party_long:0 "Colonial Government" #made up, in reality this guy was a member of PNI
+ INS_neutrality_party_long:0 "Colonial Government"
  MAL_fascism_party:0 "Panoceanic Unionists"
- MAL_democratic_party:0 "UMNO" #or UMNO or PEKEMBAR
- MAL_communism_party:0 "MCP" #or MCP
- MAL_neutrality_party:0 "Kesatuan Melayu Muda" #or KMM
+ MAL_democratic_party:0 "UMNO"
+ MAL_communism_party:0 "MCP"
+ MAL_neutrality_party:0 "Kesatuan Melayu Muda"
  LAO_fascism_party:0 "Parti de centralisation tribale"
  LAO_democratic_party:0 "Parti démocratique"
  LAO_communism_party:0 "Pathet Lao"
  LAO_neutrality_party:0 "Royalistes"
  MNT_fascism_party:0 "Verts"
  MNT_democratic_party:0 "Ligue démocratique"
- MNT_communism_party:0 "KPCG" #or KPCG
- MNT_neutrality_party:0 "Parti fédéraliste" # Montenegrin ultra nationalists, start democtratic right wing but went full fascist collaboration in 41'
+ MNT_communism_party:0 "KPCG"
+ MNT_neutrality_party:0 "Parti fédéraliste"
  UKR_fascism_party:0 "OUN"
  UKR_fascism_party_long:0 "Orhanizatsiya Ukrayins'kykh Natsionalistiv"
  UKR_democratic_party:0 "UNDO"
@@ -565,10 +565,10 @@
  UKR_communism_party_desc:0 "Komunistychna Partiya Ukrayiny"
  UKR_neutrality_party:0 "Hetmanska Dynastiya"
  UKR_neutrality_party_long:0 "Hetmanska Dynastiya"
- GEO_fascism_party:0 "Conseil de Tbilissi"
- GEO_democratic_party:0 "Parti social-démocrate de Géorgie"
- GEO_communism_party:0 "Parti communiste de Géorgie"
- GEO_neutrality_party:0 "Gori Convention"
+ GEO_fascism_party:0 "Tetri Giorgi"
+ GEO_democratic_party:0 "SSDP"
+ GEO_communism_party:0 "CPG"
+ GEO_neutrality_party:0 "KTK"
  KAZ_fascism_party:0 "Zhuze Ultşildiq"
  KAZ_democratic_party:0 "Parti Alash"
  KAZ_communism_party:0 "Parti communiste du Kazakhstan"
@@ -578,7 +578,7 @@
  AZR_communism_party:0 "Parti communiste d'Azerbaïdjan"
  AZR_neutrality_party:0 "Ittihad"
  ARM_fascism_party:0 "Légion arménienne"
- ARM_democratic_party:0 "Fédération révolutionnaire arménienne" #or ARF
+ ARM_democratic_party:0 "Fédération révolutionnaire arménienne"
  ARM_communism_party:0 "Parti communiste arménien"
  ARM_neutrality_party:0 "Autorité centrale"
  BLR_fascism_party:0 "Conseil Central de Biélorussie"
@@ -608,3 +608,7 @@
  NKR_neutrality_party_long:0 "Politiciens indépendants"
  NKR_fascism_party:0 "PNRC"
  NKR_fascism_party_long:0 "Parti national révolutionnaire coréen"
+ GEO_fascism_party_long:0 "Erovnuli Ertobis Darazmuloba 'Tetri Giorgi'"
+ GEO_democratic_party_long:0 "Social Democratic Party of Georgia"
+ GEO_communism_party_long:0 "Sakartvelos Sotsial-demok'rat'iuli P'art'ia"
+ GEO_neutrality_party_long:0 "Kartvel T’raditsionalist’ta K’avshiri"

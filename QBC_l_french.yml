@@ -3,28 +3,17 @@
  QBC_communism_party_long:0 "Parti ouvrier progressiste"
  QBC_fascism_party:0 "FR"
  QBC_fascism_party_long:0 "Faisceaux républicains"
- #switch to non aligned and put party liberal instead..
  QBC_democratic_party:0 "UN"
  QBC_democratic_party_long:0 "Union nationale"
-
  QBC_move_insitutions_to_quebec:0 "Déplacer les institutions au Québec"
-
-
- #Built Catalinas
  QBC_boeing_of_quebec:0 "Boeing du Québec"
- #light trainers
  QBC_generic_light_aircraft_manufacturer:0 "Noorduyn Aviation"
- #converted to make tank parts
  QBC_generic_tank_manufacturer:0 "Liquid Carbonic Canadian Corporation"
- #Snowplowers, better than nothing, Quebec made at least
  QBC_generic_motorized_equipment_manufacturer:0 "Bombardier"
- #located in Verdun outside of Montreal
  QBC_generic_industrial_concern:0 "Dominion Industries Limited"
  QBC_generic_infantry_equipment_manufacturer:0 "Arsenal de Québec"
  QBC_les_ateliers_angus:0 "Les ateliers Angus"
  QBC_liquid_carbonic_canadian_corporation:0 "Liquid Carbonic Canadian Corporation"
-
-
  QBC_leo_richer_lafleche:0 "Leo Richer Laflèche"
  QBC_thomas_vien:0 "Thomas Vien"
  QBC_adelard_godbout:0 "Adélard Godbout"
@@ -32,7 +21,7 @@
  QBC_georges_vanier:0 "Georges Vanier"
  QBC_jean_victor_allard:0 "Jean-Victor Allard"
  QBC_paul_emile_bernatchez:0 "Paul-Émile Bernatchez"
- QBC_paul_emile_bernatchez2:0 "Paul-Émile Bernatchez" #unused at the moment
+ QBC_paul_emile_bernatchez2:0 "Paul-Émile Bernatchez"
  QBC_guy_gauvreau:0 "Guy Gauvreau"
  QBC_henri_alexandre_panet:0 "Henri Alexandre Panet"
  QBC_thomas_louis_tremblay:0 "Thomas Louis Tremblay"
@@ -57,8 +46,6 @@
  QBC_george_roy:0 "George Roy"
  QBC_hilaire_roberge:0 "Hilaire Roberge"
  QBC_logan_savard:0 "Logan Savard"
-
-
  QBC_support_vautrin_plan:0 "Soutenir le plan Vautrin"
  QBC_support_vautrin_plan_desc:0 "Soutenir le plan Vautrin."
  QBC_abitibi_gold_rush:0 "La ruée vers l'or de l'Abitibi"
@@ -85,8 +72,6 @@
  QBC_small_arms_production_desc:0 "Passez les munitions !"
  QBC_modernized_support_equipment:0 "Équipement de soutien modernisé"
  QBC_modernized_support_equipment_desc:0 "Plus de soutien !"
- QBC_rearmement_agreement:0 "Accord de réarmement"
- QBC_rearmement_agreement_desc:0 "Peut-être qu'on devrait pouvoir se défendre ?"
  QBC_land_doctrine_reform:0 "Réforme de la doctrine terrestre"
  QBC_land_doctrine_reform_desc:0 "De meilleures tactiques pour de meilleures batailles."
  QBC_quebecois_officer_corps:0 "Corps d'officiers québécois"
@@ -123,7 +108,6 @@
  QBC_carrier_strikes:0 "Frappes des porte-avions"
  QBC_naval_air_groups:0 "Groupes aéronavals"
  QBC_lessons_for_the_air_force:0 "Leçons pour l'armée de l'air"
- #quebec semi generic
  QBC_army_effort:0 "Réorganiser les régiments du Québec"
  QBC_army_effort_desc:0 "Malgré les possibilités croissantes de la guerre aérienne et navale, le combat au sol reste essentiel dans les guerres de demain. Avec préparation, nous pouvons éviter de revivre l'enfer des tranchées."
  QBC_equipment_effort:0 "Moderniser l'équipement"
@@ -247,7 +231,6 @@
  QBC_ideological_fanaticism:0 "Fanatisme idéologique"
  QBC_ideological_fanaticism_desc:0 "Nos valeurs et objectifs politiquement établis valent la peine de mourir pour autant que toute foi ancienne. Tout adepte doit être prêt à faire face à la mort, et ceux qui s’égarent mieux doivent être prêts à faire face à la mort."
  QBC_conservatism_focus:0 "Influence catholique"
- QBC_conservatism_focus_desc:0 "Influence catholique."
  QBC_welfare_focus:0 "Réformes sociales"
  QBC_conservatism_focus_desc:0 "Réformes sociales."
  QBC_political_coalition_focus:0 "Coalition politique"
@@ -258,7 +241,6 @@
  QBC_rearmement_agreement_desc:0 "Avec la montée des tensions à travers le monde, il est impératif d'améliorer notre organisation militaire et notre défense civile."
  QBC_mobilize_the_rivers:0 "Utiliser les rivières"
  QBC_mobilize_the_rivers_desc:0 "Notre territoire a un potentiel énorme en termes d'énergie hydroélectrique et il convient de l'exploiter pour répondre aux besoins de notre industrie en pleine croissance."
- QBC_saguenay_aluminum_desc:0 "Grâce à l'énergie hydroélectrique, la ville de Saguenay est devenue un centre important de production d'aluminium."
  QBC_saguenay_aluminum:0 "Aluminium de Saguenay"
  QBC_saguenay_aluminum_desc:0 "Grâce à l'énergie hydroélectrique, la ville de Saguenay est devenue un centre important de production d'aluminium."
  QBC_military_industrial_cooperation:0 "Coopération militaro-industrielle"

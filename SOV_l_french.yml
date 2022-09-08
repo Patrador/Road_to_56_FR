@@ -9,24 +9,20 @@
  SOV_defeat_the_upa_in_89:0 "Défaite de l'UPA dans [89.getname]"
  SOV_defeat_the_upa_in_80:0 "Défaite de l'UPA dans [80.getname]"
  SOV_defeat_the_upa_in_73:0 "Défaite de l'UPA dans [73.getname]"
-
  soviet_focus:0 "Priorités nationales soviétiques"
  SOV_iron_curtain_faction:0 "Kominform"
  SOV_Lenin_Cult:0 "Culte de Lénine"
  SOV_Lenin_Cult_desc:0 "Nous devons remplacer la dévotion à la religion par la dévotion à l'État."
  SOV_New_Soviet_Woman:0 "La nouvelle femme soviétique"
  SOV_New_Soviet_Woman_desc:0 "Nous avons fait d'énormes progrès vers l'égalité des sexes dans notre société. Continuons sur cette voie et demandons aux femmes de servir également dans la bataille. Nous pouvons les utiliser pour des rôles de soutien en première ligne et pour certains postes de combat limités afin de libérer des hommes en bonne santé pour qu'ils puissent se battre. Ce n'est qu'avec une véritable égalité et un véritable dévouement à la cause que nous pourrons résister à l'agression des puissances étrangères."
- 
  SOV_Trotskyite_Coup:0 "Coup d'État trotskiste"
  SOV_Trotskyite_Coup_desc:0 ""
  SOV_Organize_Labor:0 "Organiser le travail"
  SOV_Organize_Labor_desc:0 ""
  trotsky_check:0 "Déjà révolté"
  SOV_khruschev_flag:0 "Khrushev a pris le pouvoir pendant la guerre civile"
-
  SOV_tank_improvements_idea:0 "Amélioration des chars"
  SOV_mass_tank_procution_idea:0 "Production de chars en masse"
-
  SOV_Integrate_Labor_Into_The_Military:0 "Intégrer le travail dans l'armée"
  SOV_Integrate_Labor_Into_The_Military_desc:0 "Tout le monde sert. Certains utilisent des fusils, d'autres des marteaux. Le travail doit apprendre à utiliser les deux."
  SOV_A_Gun_In_Every_Hand:0 "Une arme dans chaque main"
@@ -81,7 +77,6 @@
  SOV_3_Way_Parition_Of_Poland_desc:0 "Nous allons diviser la Pologne avec les Allemands pour réparer les torts de Versailles. Les Tchèques se verront également attribuer un territoire à des fins humanitaires, de sorte que les Juifs et les réfugiés pourront choisir de s'y rendre s'ils le souhaitent, nous ne faisons que ce qui est juste après tout."
  SOV_Stalin_Cult:0 "Culte de Staline"
  SOV_Stalin_Cult_desc:0 "Encourager le culte de la personnalité du camarade Staline contribuera à donner une légitimité à notre gouvernement et à accroître l'efficacité des travailleurs. Le peuple soviétique a besoin d'une période de stabilité après de nombreuses années tumultueuses et il ne faut pas le nier !"
- 
  SOV_sing_katyusha_sing:0 "Chante Katioucha, chante !"
  SOV_sing_katyusha_sing_focus:0 "Chante Katioucha, chante !"
  SOV_sing_katyusha_sing_focus_desc:0 "Les ennemis [ROOT.GetDuDelaDelNP] [ROOT.GetName] entendront bientôt une chanson qu'ils n'oublieront jamais."
@@ -90,9 +85,8 @@
  SOV_mass_firearms_production_desc:0 "La guerre exige un fusil dans la main de chaque soldat. Notre industrie doit être mobilisée pour atteindre cet objectif."
  SOV_shocktroops:0 "Troupes de choc"
  SOV_shocktroops_desc:0 "Des soldats courageux équipés de protections peuvent se rapprocher et mener le combat si près de l'ennemi qu'ils rendent le soutien de l'artillerie inutile."
-
  SOV_copy_yaroslav_rubber_factory:0 "Copier l'usine de caoutchouc de Iaroslavl"
- SOV_copy_yaroslav_rubber_factory_desc:0 "Construite sur la base de technologies importées des États-Unis au début des années 1930, l'usine de caoutchouc de Iaroslavl était l'une des meilleures du monde au moment de sa construction. Elle était également l'une de nos seules sources de caoutchouc. Afin de répondre aux exigences de l'effort de guerre, d'autres usines de caoutchouc plus grandes doivent être construites à travers l'URSS." 
+ SOV_copy_yaroslav_rubber_factory_desc:0 "Construite sur la base de technologies importées des États-Unis au début des années 1930, l'usine de caoutchouc de Iaroslavl était l'une des meilleures du monde au moment de sa construction. Elle était également l'une de nos seules sources de caoutchouc. Afin de répondre aux exigences de l'effort de guerre, d'autres usines de caoutchouc plus grandes doivent être construites à travers l'URSS."
  SOV_tank_programs:0 "Programmes de chars"
  SOV_tank_programs_desc:0 "Après avoir analysé les performances de nos chars légers lors d'incidents impliquant l'Empire du Japon, nos usines de fabrication de chars ont été chargées de développer un tout nouveau type de blindage."
  SOV_mass_tank_production:0 "Production de chars en masse"
@@ -103,7 +97,6 @@
  SOV_tank_improvements_desc:0 "Les blindages inclinés nous permettront d'augmenter l'efficacité du blindage de nos chars sans en augmenter le poids. Combiné à un canon puissant, nous serons en mesure de mettre en œuvre les chars les plus redoutables jamais vus."
  SOV_cat_killers:0 "Tueurs de chats"
  SOV_cat_killers_desc:0 "Avec des chasseurs de chars spécialisés, nous allons enfin nous débarrasser de ces satanés félins."
- 
  SOV_Go_With_Molotov:0 "Remplacer Litnov par Molotov"
  SOV_Go_With_Molotov_desc:0 "Nous devons montrer aux Allemands que nous sommes prêts à travailler avec eux. Pour ce faire, nous devons purger le ministère des Juifs comme un signal pour Hitler."
  SOV_French_Soviet_Reapproachment:0 "Rapprochement franco-soviétique"
@@ -148,13 +141,12 @@
  SOV_Manhattan_desc:0 "Le NKVD a découvert que les Alliés occidentaux travaillent sur de nouvelles super armes, secrètement au Nouveau Mexique. Nous devons obtenir leurs données afin de ne pas être laissés pour compte !"
  SOV_Our_Own_B29:0 "Notre propre B-29"
  SOV_Our_Own_B29_desc:0 "Le bombardier américain B-29 est une super-arme que nous ne pouvons pas espérer égaler ni intercepter. Nous avons pu obtenir des informations sur cet avion et nous devons commencer à construire les nôtres avant de les voir par milliers au-dessus de Moscou !"
-
  SOV_France_In_The_Comintern:0 "Inviter la France dans le Komintern"
- SOV_France_In_The_Comintern_desc:0 "Maintenant que nous avons trouvé un terrain d'entente avec nos frères communistes français, nous devrions les inviter à rejoindre nos rangs dans la persuasion de la liberté pour le prolétariat." 
+ SOV_France_In_The_Comintern_desc:0 "Maintenant que nous avons trouvé un terrain d'entente avec nos frères communistes français, nous devrions les inviter à rejoindre nos rangs dans la persuasion de la liberté pour le prolétariat."
  SOV_Czechoslovakia_In_The_Comintern:0 "Inviter la Tchécoslovaquie dans le Komintern"
  SOV_Czechoslovakia_In_The_Comintern_desc:0 "Nous devrions inviter nos amis tchèques dans le Komintern, ils bénéficieront de notre protection et nous pourrons empêcher l'expansion de l'influence allemande en Europe centrale."
  SOV_Red_Marines:0 "Les marines rouges"
- SOV_Red_Marines_desc:0 "Nous devrions former nos jeunes marines pour qu'ils soient les meilleurs du monde. Dans le passé, nous avons laissé nos programmes de forces spéciales prendre du retard par rapport à d'autres dans le monde. Nous ne pouvons plus tolérer cela." 
+ SOV_Red_Marines_desc:0 "Nous devrions former nos jeunes marines pour qu'ils soient les meilleurs du monde. Dans le passé, nous avons laissé nos programmes de forces spéciales prendre du retard par rapport à d'autres dans le monde. Nous ne pouvons plus tolérer cela."
  SOV_Red_Paratroopers:0 "Les parachutistes rouges"
  SOV_Red_Paratroopers_desc:0 "Nos parachutistes, avec un entraînement et des tactiques supérieures, pleuvront du ciel et apporteront une destruction incalculable à nos ennemis."
  SOV_Russian_Democracy:0 "La démocratie en URSS"
@@ -207,7 +199,6 @@
  SOV_Scientific_Cooperation_desc:0 ""
  SOV_Fascist_Counter_Coup:0 "Contre-coup d'État fasciste"
  SOV_Fascist_Counter_Coup_desc:0 ""
-
  SOV_iron_curtain:0 "Le rideau de fer"
  SOV_iron_curtain_desc:0 "Notre sphère d'influence s'étend profondément en Europe. Pour assurer la sécurité des régimes communistes nouvellement établis dans nos États clients, nous appliquerons un régime fort et direct depuis Moscou, tout en leur ouvrant les yeux sur l'horrible oppression ouvrière menée par les puissances occidentales."
  SOV_expand_western_spy_rings:0 "Développer les réseaux d'espionnage occidentaux"
@@ -236,7 +227,6 @@
  SOV_extend_the_curtain_outwards_desc:0 "Les sympathisants sont recrutés, les plans de bataille dessinés, les pilotes, les tankistes et les soldats sont sur les positions : la frappe finale est préparée. L'heure est venue ! Camarades, portez la Révolution à l'Ouest au nom de la Patrie !"
  SOV_cold_war_idea:0 "Guerre froide"
  SOV_cold_war_idea_desc:0 "Les fortes tensions géopolitiques entre les deux blocs de puissance actuels nous obligent à abolir toute forme de combat direct à grande échelle et à nous concentrer sur nos affaires intérieures, notre croissance industrielle et le développement de la recherche. Cependant, nous pouvons toujours apporter notre soutien dans des guerres par procuration..."
-
  SOV_motherland_defense:0 "La défense de la Mère Patrie"
  SOV_motherland_defense_desc:0 "Malgré la résistance héroïque que nous avons opposée jusqu'à présent, et bien que les meilleures divisions et les meilleures unités de l'armée de l'air de l'ennemi aient déjà été écrasées et aient trouvé la mort sur le champ de bataille, l'ennemi continue d'avancer, envoyant de nouvelles forces au front. Un grave danger guette notre Mère Patrie. Toutes les forces du peuple doivent détruire l'ennemi ! En avant vers la victoire !"
  SOV_defense_of_leningrad:0 "Ligne de défense de Luga"
@@ -247,17 +237,14 @@
  SOV_purchase_allied_weaponry_desc:0 "Malgré certains mécontentements historiques immatures et obsolètes entre nos nations, il ne fait aucun doute que [ENG.GetNameDef], [USA.GetNameDef] et [SOV.GetNameDef] partagent de nombreux objectifs communs de préservation de la paix et de la prospérité dans le monde ! Mettre de côté nos différences pour le moment et adoucir le climat politique tendu nous apportera sûrement quelques avantages à court terme dans cette guerre dévastatrice."
  SOV_lease_british_planes:0 "Location d'avions britanniques"
  SOV_lease_british_planes_desc:0 "La Royal Airforce a sans doute fait des progrès ambigus dans la conception des avions ces dernières années, peut-être que la location de certains de leurs équipements nous donnera un avantage supplémentaire sur le champ de bataille contre les ennemis menaçants."
-
  SOV_invite_romania:0 "Inviter la Roumanie"
  SOV_invite_romania_desc:0 "La Roumanie doit rejoindre le rang des nations qui luttent pour les travailleurs du monde !"
-
  socialism_in_one_country:0 "Le socialisme dans un seul pays"
  socialism_in_one_country_desc:0 "[SOV.GetLeader] estime que ce n'est que lorsque l'Union soviétique est forte qu'elle doit propager la révolution marxiste à l'étranger."
  world_trotskyite_revolution:0 "Révolution trotskiste mondiale"
  world_trotskyite_revolution_desc:0 "Il faut un grand homme pour admettre qu'il avait tort, Léon Trotski est un tel homme. Allumons les flammes de la révolution !"
  bolshevik_militarist:0 "Militariste bolchevique"
  bolshevik_militarist_desc:0 "Trotsky croit en la révolution communiste mondiale. C'est un homme de vision qui croit qu'assez c'est assez, les travailleurs du monde entier ne seront plus esclaves !"
- 
  NKVD_Agency:0 "Service de renseignements du NKVD"
  NKVD_Agency_desc:0 "Nous établirons des espions partout. Chaque fois qu'un mot sera prononcé dans une ambassade ou un centre de recherche, nous en entendrons parler."
  women_in_the_military_focus:0 "Femmes soldats"
@@ -268,10 +255,6 @@
  home_of_revolution3_desc:0 "Camarades, avec la défaite des vils contre-révolutionnaires trotskistes, nous avons pu nous concentrer sur la défense de la révolution. Notre objectif, notre espoir, notre slogan est  « Le socialisme dans un seul pays ». Nous allons construire une utopie socialiste généreuse, ici, en Union soviétique et le reste du monde l'adoptera inévitablement."
  Aleksanr_Vasilevsky:0 "Alexandre Vassilievski"
  Aleksanr_Vasilevsky_desc:0 ""
- #communist_world:0 "Monde communiste"
- #communist_world_desc:0 ""
- #Push_Them_Hard:0 "Poussés à bout"
- #Push_Them_Hard_desc:0 ""
  SOV_iron_curtain_idea:0 "Le rideau de fer"
  SOV_iron_curtain_idea_desc:0 "Nous sommes actuellement en train de consolider et d'ancrer notre souveraineté sur les États clients associés."
  SOV_defense_of_the_motherland:0 "La défense de la Mère Patrie"
@@ -284,22 +267,7 @@
  SOV_support_greece_desc:0 "Lutter pour la liberté et la libération du peuple grec dans sa lutte contre la menace idéologique."
  SOV_civil_war_ignited:0 "L'affaire [ROOT.GetAdjFS]"
  SOV_civil_war_ignited_desc:0 "Même si le conflit a été déclenché de l'extérieur, le gouvernement de [ROOT.GetLeader] estime qu'il ne s'agit que d'une affaire [ROOT.GetAdjFS] et que toute intervention étrangère entraînera la destruction du pays."
-
  SOV_transformation_of_nature_idea:0 "Transformation de la nature"
- #communist_menace:0 "Menace communiste"
- #communist_menace_desc:0 ""
- #communist_paradise:0 "Paradis communiste"
- #communist_paradise_desc:0 ""
- #Consumer_Goods:0 "Biens de consommation"
- #Consumer_Goods_desc: ""
- #Productivity_Increase: "Augmentation de la productivité"
- #Productivity_Increase_desc: ""
- #Military_Training: "Entraînements militaires"
- #Military_Training_desc: ""
- #worker_conscripts: "Conscrits travailleurs"
- #worker_conscripts_desc: ""
- #SOV_weapons: "Armes soviétiques"
- #SOV_weapons_desc: ""
  proliferation_of_disease: "Prolifération des maladies"
  proliferation_of_disease_desc: ""
  low_literacy_rate: "Faible taux d'alphabétisation"
@@ -309,15 +277,11 @@
  mobile_construction_brigades: "Brigades mobiles de construction"
  mobile_construction_brigades_desc: ""
  peace_before_war: "La paix avant la guerre"
- 
  SOV_Russian_Empire:0 "Empire russe"
  SOV_demo:0 "Fédération de Russie"
  SOV_monarchist_tag:0 "Empire russe"
-
-
  SOV_vladimir_kotelnikov:0 "Vladimir Kotelnikov"
  SOV_gribowski:0 "Gribowski"
- #Aircraft Design Bureau 301
  SOV_okb_301:0 "OKB-301"
  SOV_okb_19:0 "Bureau d'étude Soloviev"
  SOV_rubin_design_bureau:0 "Bureau d'étude Rubin"
@@ -326,14 +290,12 @@
  SOV_zalyv_shipyard:0 "Chantier naval Zalyv"
  SOV_factory_232:0 "Usine 232"
  SOV_uralmash:0 "Ouralmach"
- SOV_tankograd:0  "Usine de tracteurs de Tcheliabinsk"
+ SOV_tankograd:0 "Usine de tracteurs de Tcheliabinsk"
  SOV_plant_37:0 "Usine 37"
  SOV_voronezh_komintern_factory:0 "Usine de Voronezh Komintern"
-
  SOV_relocate_industry_from_kiev:0 "Délocaliser l'industrie de Kiev"
  SOV_relocate_industry_from_kharkov:0 "Délocaliser l'industrie de Kharkov"
  SOV_industry_relocation_desc:0 "La guerre est en cours et nos ennemis menacent nos bassins industriels à l'Ouest. Déplaçons-les loin, dans l'Oural, hors de portée de leurs plus gros bombardiers. De cette façon, nous pourrons protéger notre industrie, construire davantage d'équipements militaires et lancer des contre-attaques décisives au nom de [SOV.getleader] et sa vision du [SOV.GetRulingIdeologyNoun]."
-
  has_cosmetic_tag_smersh_tt:0 "Est la §YScandinavie§!, l'§YUnion nordique§! ou l'§YAutriche-Hongrie§!"
  SOV_comecon_tt:0 "§CCet effet de priorité s'étendra à mesure que vous aurez plus de fantoches§!"
  sov_balkan_fed_tt:0 "§YNous allons permettre à la Yougoslavie de Tito de former une fédération à partir de nos satellites balkaniques§!"
@@ -344,27 +306,19 @@
  SOV_defense_divisions:0 "Lève §Y8 divisions auxiliaires de défense§!"
  SOV_defense_divisions_12:0 "Lève §Y12 divisions auxiliaires de défense§!\n"
  SOV_defense_divisions_4:0 "Lève §Y4 divisions auxiliaires de défense§! pour défendre la nouvelle capitale !"
- SOV_defense_of_leningrad_forts:0 "Ajoute §Y28 fortifications terrestres§! dans et autour de Léningrad"
- SOV_defense_of_stalingrad_forts:0 "Ajoute §Y28 fortifications terrestres§! dans et autour de Léningrad"
-
+ SOV_defense_of_leningrad_forts:0 "Ajoute §Y28 forts terrestres§! dans et autour de Léningrad"
+ SOV_defense_of_stalingrad_forts:0 "Ajoute §Y28 forts terrestres§! dans et autour de Léningrad"
  SOV_claims_in_baltics_tt:0 "[SOV.GetNameDefCap] obtient des revendications sur tous les §YÉtats nationaux baltes§! de base"
-
-
  SOV_the_new_russian_army_tooltip:0 "Lève §Y5§! vétérans §YRespublikanskiy Spetsnaz§! à travers le pays."
-
  soviet.104.t:0 "Juan Modesto demande l'asile"
  soviet.104.d:0 "Après la défaite de nos alliés en Espagne, Juan Modesto, commandant espagnol et diplômé de l'Académie militaire de Frunze, a demandé l'asile et a proposé de servir dans notre armée."
  soviet.104.a:0 "Accordons-lui l'asile et reconnaissons son rang"
  soviet.104.b:0 "Accordons-lui l'asile mais refusons de reconnaître son grade"
  soviet.104.c:0 "Il vaut mieux ne pas s'impliquer avec les Espagnols."
-
-
  soviet.105.t:0 "Enrique Líster demande l'asile"
  soviet.105.d:0 "Après la défaite de nos alliés en Espagne, Enrique Líster, commandant espagnol et diplômé de l'Académie militaire de Frunze, a demandé l'asile et proposé de servir dans notre armée."
-
  stalin_dead:0 "Staline est décédé"
  purge_beria:0 "Beria a été purgé"
-
  SOV_grieve_stalin:0 "La mort de Staline"
  SOV_grieve_stalin_desc:0 "Le Politburo a annoncé la mort de Iosif Vissarionivitch Staline. Alors que le pays pleure la mort de notre dirigeant bien-aimé, sa honteuse noyade dans son vomi a été gardée secrète. Sans un gouvernement assuré, plusieurs membres du Politburo sont prêts à tout pour éliminer leurs concurrents."
  SOV_khruschev_takes_the_lead:0 "Khrouchtchev prend les commandes"
@@ -373,6 +327,13 @@
  SOV_consolidate_malenkovs_position_desc:0 "Le président du Conseil des ministres de l'Union soviétiquen Georgui Maksimilianovitch Malenkov, doit rassembler suffisamment de soutien autour de lui pour ne pas être mis sur la touche par des individus téméraires comme Beria."
  SOV_berias_goons_strike:0 "La bande de Beria frappe"
  SOV_berias_goons_strike_desc:0 "En tant qu'agent de Staline, Beria a fait de son mieux pour réaliser le pire. Il purge l'Union des « éléments peu fiables ». Comme lors de la Grande Purge, ce comportement est dirigé contre les membres du Politburo, assurant ainsi que le pouvoir de Beria reste incontesté."
- 
  SOV_comecon_give_puppet_idea:0 "Intégrer [FROM.GetNameDef] dans le [GetComeconName]"
  SOV_factionalism_removed_tt:0 "Retire §YFactionalisme§!"
+ SOV_reinstitute_okhrana:0 "Reinstate Okhrana"
+ SOV_reinstitute_okhrana_desc:0 "In our efforts to topple the Soviet regime, we must ensure that the territory we control be firmly under our grasp - and, indeed, consider sending agents into Soviet territory to undermine them in any way possible. It is time to bring back the Okhrana, only now modern, and more effective."
+ SOV_siberian_forest_soldiers_focus:0 "Through the Tundras and Forests.."
+ SOV_siberian_forest_soldiers_focus_desc:0 "Between us and the heart of the decrepit Soviet regime lies an immense swath of cold forests and tundra wasteland. Our brave heroes must be ready to meet the challenge that survival in these lands between demands."
+ SOV_siberian_forest_soldiers_idea:0 "Siberian Forest Soldiers"
+ SOV_okhrana_focus_tt:0 "Create the Intelligence Agency: §YOkhrana§!.\n\n"
+ SOV_russia_okhrana_idea:0 "Okhrana Reinstated"
+ SOV_consolidate_power_tt_2:0 "Remove ideas §Y$SOV_the_true_tsars_idea$§!, §Y$SOV_fascist_womens_movement_idea$§!, §Y$SOV_siberian_forest_soldiers_idea$§!"

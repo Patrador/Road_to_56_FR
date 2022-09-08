@@ -1,13 +1,9 @@
 ﻿l_french:
-#Maybe add Anina-Doman oil field shale oil in Romania but apparently was not exploited
-#sacel oil field
  generic_resource_extraction_effort:0 "Efforts d'extraction de ressources"
-
  SOV_replace_baku_with_volga_ural_basin:0 "Remplacer le pétrole de Bakou par le pétrole du bassin de la Volga-Oural"
  prospect_volga_ural_basin:0 "Remplacer le pétrole de Bakou par le pétrole du bassin de la Volga-Oural"
  budafapuszta_oil_exploited:0 "Exploitation du pétrole de Budafapuszta"
-
- open_kajaran_mine:0 "Ouvrir la mine de Kajaran" #change effect if copper is added
+ open_kajaran_mine:0 "Ouvrir la mine de Kajaran"
  extract_northern_armenia_deposits:0 "Exploiter l'aluminium du nord de l'Arménie"
  develop_south_bolivian_oil_field:0 "Développer le gisement de pétrole du sud de la Bolivie"
  develop_sherwood_forest_oil_field:0 "Développer le gisement de pétrole de la forêt de Sherwood"
@@ -21,7 +17,7 @@
  expand_lakes_entrance_oil_field:0 "Agrandire le gisement de pétrole de Lakes Entrance"
  open_cooks_creeks_mine:0 "Ouvrir la mine de Cooks Creeks"
  develop_tasmania_aluminium_deposits_with_british_help:0 "Développer des gisements d'aluminium en Tasmanie avec l'aide britannique"
- r56_develop_tasmania_aluminium_deposits:0 "Develop Tasmania Aluminium Deposits"
+ r56_develop_tasmania_aluminium_deposits:0 "Développer les gisements d'aluminium de Tasmanie"
  exploit_pyrenean_oil_field:0 "Exploiter le gisement de pétrole pyrénéen"
  develop_petitjean_oil_field:0 "Développer le gisement de pétrole de Petitjean"
  develop_tramutola_oil_field:0 "Développer le gisement pétrolier de Tramutola"
@@ -40,7 +36,7 @@
  expand_south_rhodesia_tungsten_mine:0 "Extension de la mine de tungstène de Rhodésie du Sud"
  expand_nigeria_tungsten_mine:0 "Agrandir la mine de tungstène du Nigéria"
  open_multimineral_azgour_mine:0 "Ouvrir la mine multiminérale d'Azgour"
- exploit_the_suez_gulf_field:0 "Exploiter le gisement de pétrole du Golf de Suez"
+ exploit_the_suez_gulf_oil_field:0 "Exploiter le gisement de pétrole du golfe de Suez"
  exploit_driza_oil_field:0 "Exploiter le gisement de pétrole de Driza"
  expand_trinidad_oil:0 "Expansion du pétrole de Trinidad"
  exploit_angolan_oil_fields:0 "Exploiter les gisements pétroliers angolais"
@@ -52,7 +48,6 @@
  exploit_turner_valley_oil:0 "Exploiter le pétrole de Turner Valley"
  exploit_leduc_woodbend_oil:0 "Exploiter le gisement pétrolier de Leduc-Woodbend"
  exploit_redwater_oil:0 "Exploiter le champ pétrolier de Redwater"
- exploit_pembina_oil_wtt:0 "Exploiter le gisement de pétrole de Pembina"
  exploit_rolla_oil:0 "Exploiter le pétrole de Rolla"
  exploit_norman_wells:0 "Exploiter Norman Wells"
  exploit_virden_oil:0 "Exploiter le pétrole de Virden"
@@ -125,7 +120,6 @@
  exploit_gumdag_oil_field:0 "Exploiter le champ pétrolier de Gumdag"
  exploit_cuban_oil_field:0 "Exploiter le champ pétrolier de Jatibonico"
  exploit_cuban_oil_field2:0 "Développer l'extraction du pétrole dans le bassin central de Cuba"
-
  expand_the_rudabanya_iron_mine:0 "Développer la mine de fer de Rudabánya"
  exploit_bauxite_near_ortanto:0 "Exploiter la bauxite près d'Otrante"
  exploit_bauxite_near_spinazzola:0 "Exploiter la bauxite près de Spinazzola"
@@ -144,20 +138,14 @@
  exploit_bauxite_in_western_hispaniola:0 "Exploiter la bauxite dans l'ouest de l'Hispaniola"
  exploit_krasnoyarsk_bauxite_deposits:0 "Exploiter les gisements de bauxite de Krasnoyarsk"
  exploit_kemi_chromium_deposits:0 "Exploiter les gisements de chrome de Kemi"
-
- exploit_krasnoyarsk_bauxite_deposits_wtt:0 "Exploiter les gisements de bauxite de Krasnoyarsk"
-
  exploit_norrland_chromium:0 "Exploiter le chrome du Jämtland"
  exploit_kvarntorp_shale_oil:0 "Exploiter le pétrole de schiste de Kvarntorp"
  develop_swabian_shale_oil:0 "Exploiter le pétrole de schiste souabe"
  develop_northern_siamese_shale_oil:0 "Développer le pétrole de schiste du nord du Siam"
  exploit_rmelan_oil_field:0 "Exploiter le champ pétrolier de Rmelan"
-
  exploit_presov_oil_field:0 "Exploiter le champ pétrolier de Prešov"
-
  expand_palembang_oil_fields:0 "Développer les champs pétroliers de Palembang"
-
- open_kajaran_mine_wtt:0 "Ouvrir la mine de Kajaran" #change effect if copper is added
+ open_kajaran_mine_wtt:0 "Ouvrir la mine de Kajaran"
  extract_northern_armenia_deposits_wtt:0 "Exploiter l'aluminium du nord de l'Arménie"
  develop_south_bolivian_oil_field_wtt:0 "Développer le gisement de pétrole du sud de la Bolivie"
  develop_sherwood_forest_oil_field_wtt:0 "Développer le gisement de pétrole de la forêt de Sherwood"
@@ -170,8 +158,7 @@
  open_kings_island_scheelite_mine_wtt:0 "Ouvrir la mine de Scheelite de Kings Island"
  expand_lakes_entrance_oil_field_wtt:0 "Agrandire le gisement de pétrole de Lakes Entrance"
  open_cooks_creeks_mine_wtt:0 "Ouvrir la mine de Cooks Creeks"
- develop_tasmania_aluminium_deposits_with_british_help_wtt:0  "Développer des gisements d'aluminium en Tasmanie avec l'aide britannique"
- r56_develop_tasmania_aluminium_deposits_wtt:0 "Develop Tasmania Aluminium Deposits"
+ develop_tasmania_aluminium_deposits_with_british_help_wtt:0 "Développer des gisements d'aluminium en Tasmanie avec l'aide britannique"
  exploit_pyrenean_oil_field_wtt:0 "Exploiter le gisement de pétrole pyrénéen"
  develop_petitjean_oil_field_wtt:0 "Développer le gisement de pétrole de Petitjean"
  develop_tramutola_oil_field_wtt:0 "Développer le gisement pétrolier de Tramutola"
@@ -190,7 +177,7 @@
  expand_south_rhodesia_tungsten_mine_wtt:0 "Extension de la mine de tungstène de Rhodésie du Sud"
  expand_nigeria_tungsten_mine_wtt:0 "Agrandir la mine de tungstène du Nigéria"
  open_multimineral_azgour_mine_wtt:0 "Ouvrir la mine multiminérale d'Azgour"
- exploit_the_suez_gulf_field_wtt:0 "Exploiter le gisement de pétrole du Golf de Suez"
+ exploit_the_suez_gulf_oil_field_wtt:0 "Exploiter le gisement de pétrole du golfe de Suez"
  exploit_driza_oil_field_wtt:0 "Exploiter le gisement de pétrole de Driza"
  expand_trinidad_oil_wtt:0 "Expansion du pétrole de Trinidad"
  exploit_angolan_oil_fields_wtt:0 "Exploiter les gisements pétroliers angolais"
@@ -267,7 +254,6 @@
  exploit_gumdag_oil_field_wtt:0 "Exploiter le champ pétrolier de Gumdag"
  exploit_cuban_oil_field_wtt:0 "Exploiter le champ pétrolier de Jatibonico"
  exploit_cuban_oil_field2_wtt:0 "Développer l'extraction du pétrole dans le bassin central de Cuba"
-
  expand_the_rudabanya_iron_mine_wtt:0 "Développer la mine de fer de Rudabánya"
  exploit_bauxite_near_ortanto_wtt:0 "Exploiter la bauxite près d'Otrante"
  exploit_bauxite_near_spinazzola_wtt:0 "Exploiter la bauxite près de Spinazzola"
@@ -275,7 +261,7 @@
  exploit_jamaican_aluminium2_wtt:0 "Développer l'extraction de bauxite en Jamaïque"
  exploit_jamaican_aluminium3_wtt:0 "Continuer de développer l'extraction de bauxite en Jamaïque"
  expand_suriname_bauxite_mining_wtt:0 "Exploiter la bauxite au Suriname"
- expand_suriname_bauxite_mining2_wtt_wtt:0 "Développer l'extraction de bauxite au Suriname"
+ expand_suriname_bauxite_mining2_wtt:0 "Continuer l'exploitation de la bauxite au Suriname"
  expand_suriname_bauxite_mining3_wtt:0 "Continuer de développer l'extraction de la bauxite au Suriname"
  expand_suriname_bauxite_mining4_wtt:0 "Maximiser l'exploitation de bauxite au Suriname"
  exploit_chalcidic_bauxite_wtt:0 "Exploiter la bauxite chalcidique"
@@ -286,7 +272,6 @@
  exploit_bauxite_in_western_hispaniola_wtt:0 "Exploiter la bauxite dans l'ouest de l'Hispaniola"
  exploit_krasnoyarsk_bauxite_deposits_wtt:0 "Exploiter les gisements de bauxite de Krasnoyarsk"
  exploit_kemi_chromium_deposits_wtt:0 "Exploiter les gisements de chrome de Kemi"
-
  expand_basque_steel_works_wtt:0 "Développer les aciéries basques"
  expand_western_aragon_steel_works_wtt:0 "Développer les aciéries de l'ouest de l'Aragon"
  expand_granada_steel_works_wtt:0 "Développer l'aciérie de Grenade"
@@ -304,17 +289,11 @@
  exploit_alaskan_tungsten_wtt:0 "Exploiter le tungstène de l'Alaska"
  exploit_marcona_iron_wtt:0 "Exploiter le fer de Marcona"
  exploit_kvarntorp_shale_oil_wtt:0 "Exploiter le pétrole de schiste de Kvarntorp"
-
  develop_swabian_shale_oil_wtt:0 "Exploiter le pétrole de schiste souabe"
-  develop_northern_siamese_shale_oil_wtt:0 "Développer le pétrole de schiste du nord du Siam"
+ develop_northern_siamese_shale_oil_wtt:0 "Développer le pétrole de schiste du nord du Siam"
  exploit_rmelan_oil_field_wtt:0 "Exploiter le champ pétrolier de Rmelan"
-
  exploit_presov_oil_field_wtt:0 "Exploiter le champ pétrolier de Prešov"
-
  expand_palembang_oil_fields_wtt:0 "Développer les champs pétroliers de Palembang"
-
-
- #ADAPTATION OF wtt
  r56_develop_north_sakhalin_oil_deposits:0 "Développer les gisements pétroliers de Sakhaline du Nord"
  develop_north_sakhalin_oil_deposits:0 "Développer les gisements pétroliers de Sakhaline du Nord"
  r56_develop_shandong_aluminium_deposits:0 "Développer les dépôts d'aluminium du Shandong"
@@ -338,8 +317,6 @@
  develop_cornwall_tungsten_deposits_2:0 "Agrandir la mine Hemerdon"
  r56_develop_cornwall_tungsten_deposits_1:0 "Réouvrir la mine Hemerdon"
  r56_develop_cornwall_tungsten_deposits_2:0 "Agrandir la mine Hemerdon"
-
- #Adaptation of LaR
  expand_basque_steel_works2:0 "Développer les aciéries basques"
  expand_western_aragon_steel_works2:0 "Développer les aciéries de l'ouest de l'Aragon"
  expand_granada_steel_works2:0 "Développer l'aciérie de Grenade"
@@ -348,10 +325,4 @@
  develop_galicia_tungsten_deposits2:0 "Développer les gisements de tungstène en Galice"
  expand_extremadura_tungsten_mines2:0 "Développer les mines de tungstène d'Estrémadure"
  expand_madrid_bauxite_mines2:0 "Développer les mines de bauxite de Madrid"
-
- #Flags
  kelham_hills_oil_field_developed:0 "Le gisement de pétrole des collines de Kelham est exploité"
-
-
- #North West  EnglandThe Formby Oilfield was discovered by D’Arcy Exploration in 1939.
- #Midland Valley of ScotlandIn 1937, Anglo American discovered the small Midlothian oilfield,

@@ -15,41 +15,33 @@
  sons_of_liberty_desc:0 "Nous avons combattu la tyrannie une fois, nous la combattrons à nouveau."
  deo_vindice:0 "Deo vidice"
  deo_vindice_desc:0 "« Sous Dieu, notre vengeur »"
- rt56_office_of_econimic_warfare_idea:0 "Office of Economic Warfare"
+ rt56_office_of_econimic_warfare_idea:0 "Bureau de la guerre économique"
  rt56_office_of_econimic_warfare_idea_desc:0 ""
- r56_USA_world_loco_motive_works:0 "Worlds Locomotive Works"
+ r56_USA_world_loco_motive_works:0 "Usine mondiale de locomotives"
  r56_USA_world_loco_motive_works_desc:0 "Pendant que le reste du monde s'inquiète de produire des biens de guerre, nous avons la puissance industrielle et l'expertise pour prendre le relais dans la production mondiale de locomotives."
-
  general_motor_electrco_motive_loco_works:0 "General Motor Electro Motive Diesel"
  USA_the_worlds_loco_works_effect_tt:0 "§WPermet la production de§! §YUSATC S100§!"
-
  rt56_arnold_unlock_tt:0 "L'armée de l'air s'est vue accorder l'autonomie par l'institution de la §YDivision des plans de guerre aérienne§!."
  USA_NATO_overwatch_tt:0 "§RVous ne conserverez que le dernier esprit national sélectionné parmi ceux que vous pouvez obtenir grâce à§! §YSurveiller le Pacifique§! §Ret§! §YRetour en Europe§!."
-
-
  rt56_USA_cash_and_carry_home:0 "Projet Cash and Carry"
  rt56_USA_cash_and_carry_home_desc:0 "Nous apportons une aide matérielle à nos alliés jusqu'à ce que le Congrès prenne connaissance du projet et que nos avocats ne puissent plus faire valoir d'objections à la pratique devant les tribunaux."
  r56_usa_three_dimensional_assault_force:0 "Force d'assaut tridimensionnelle"
- rt56_the_gaint_wakes_idea:0 "Le Géant se réveille"
-
+ rt56_the_gaint_wakes_idea:0 "The Giant Wakes"
  USA_curtiss_wright:0 "Curtiss-Wright"
  USA_claude_shannon:0 "Claude Shannon"
  USA_waco:0 "WACO"
  USA_standard_oil_new_jersey:0 "Standard Oil of New Jersey"
- USA_lima_locomotive_works:0 "Lima Locomotive Works"
-
+ USA_lima_locomotive_works:0 "Usine de locomotives de Lima"
  r56_USA_decision_the_jumping_general:0 "Promouvoir le Jumping General"
  r56_USA_decision_join_us_research_collaboration_program:0 "Rejoindre le programme [USA.GetAdjMS] de coopération sur la recherche"
  r56_USA_decision_initiate_us_research_collaboration_program:0 "Faire pression pour une coopération accrue dans la recherche avec [USA.GetNameDef]"
-
  r56_USA_decision_rural_electrification_act:0 "Loi sur l'électrification rurale"
  r56_USA_decision_flood_control_act:0 "Loi sur la protection contre les inondations"
  r56_USA_decision_anti_price_discrimination_act:0 "Loi sur la discrimination anti-prix"
  r56_USA_decision_foreign_agents_registration_act:0 "Loi sur l'enregistrement des agents étrangers"
  r56_USA_decision_second_vinson_act:0 "Deuxième loi Vinson"
  USA_WPA_program_decision:0 "Lancer un projet WPA"
- USA_WPA_program_decision_desc:0 "Mettre les gens au travail dans le cadre d'un projet WPA peut aider à construire des choses dans les États ainsi qu'à l'échelle nationale. Cela peut également jeter les bases d'autres constructions dans certains États."
-
+ USA_WPA_program_decision_desc:0 "Putting people to work with a WPA project can help build things in states aswell as nationwide. It may also lay the ground work for further construction in some states."
  USA_office_of_economic_warfare:0 "Bureau de la guerre économique"
  USA_office_of_economic_warfare_desc:0 "Les nécessités de la guerre exigent que les ressources naturelles ne soient pas envoyées à l'étranger mais alimentent plutôt notre économie de guerre. Le bureau de la guerre économique sera chargé de superviser cette transformation."
  USA_cash_and_carry:0 "Projet Cash and Carry"
@@ -57,26 +49,26 @@
  USA_double_victory:0 "Double victoire"
  USA_double_victory_desc:0 "Il est important d'obtenir le soutien de la communauté afro-américaine lorsque nous sommes en guerre. Le recours à des campagnes de propagande ciblées permettra d'y parvenir. Elles peuvent être trompeuses, mais nous ne pouvons pas laisser le pays être divisé à nos moments les plus critiques."
  USA_fight_jim_crow_now:0 "Combattre Jim Crow"
+ USA_fight_jim_crow_now_desc:0 "We can no longer let the practice of 'Jim Crow' be a stain on our nation. We need to crack down on it's practice now."
  USA_expand_unoffical_operations:0 "Développer les opérations non-officielles"
  USA_expand_unoffical_operations_desc:0 "L'expérience nous a appris que les renseignements peuvent faire la différence entre la victoire et la défaite. Ils peuvent nous aider à remporter la victoire mais aussi à prévenir la guerre. Une bombe bien placée peut remplacer une flotte de bombardiers et un agent bien placé peut remplacer une division."
  USA_defense_contractors:0 "Entrepreneurs de la défense"
  USA_defense_contractors_desc:0 "WIP"
  USA_us_war_economy:0 "L'économie de guerre américaine"
  USA_us_war_economy_desc:0 "WIP"
- USA_aquire_war_materiel:0 "Acquérir du matériel de guerre"
+ USA_aquire_war_materiel:0 "Acquire War Materiel"
  USA_aquire_war_materiel_desc:0 "WIP"
  USA_military_rnd:0 "R&D militaire"
  USA_military_rnd_desc:0 "WIP"
- USA_over_there:0 "Over There!"
+ USA_over_there:0 "Là-bas !"
  USA_over_there_desc:0 "WIP"
- USA_tuskegee_airmen:0 "The Tuskegee Airmen"
+ USA_tuskegee_airmen:0 "Les aviateurs de Tuskegee"
  USA_tuskegee_airmen_desc:0 "WIP"
  USA_tuskegee_airmen_tt:0 "Le §H332nd Fighter Group§! et le §H477th Bombardment Group (Medium)§! deviennent actifs en Alabama."
  USA_gi_bill:0 "G.I. Bill"
  USA_gi_bill_desc:0 "WIP"
  USA_american_christian_identity:0 "Identité chrétienne américaine"
  USA_american_christian_identity_desc:0 "WIP"
- USA_fight_jim_crow_now_desc:0 "Nous ne pouvons plus laisser la pratique de « Jim Crow » être une tache sur notre nation. Nous devons réprimer cette pratique dès maintenant."
  USA_three_dimensional_assault_force:0 "Force d'assaut tridimensionnelle"
  USA_three_dimensional_assault_force_desc:0 "En développant une doctrine d'assaut amphibie qui intègre non seulement un débarquement bien équipé mais aussi une attaque aérienne et un bombardement naval, nous pouvons nous assurer que nos débarquements ont plus de chances de réussir et de gagner une tête de pont."
  USA_continue_dieselisation:0 "Continuer la diésélisation"
@@ -89,7 +81,7 @@
  USA_the_worlds_loco_works_desc:0 "Alors que le reste du monde s'inquiète de produire des biens de guerre, nous devons tirer parti de nos nombreuses usines de locomotives nationales pour aider à approvisionner le monde en locomotives."
  USA_bangalore_torpedo:0 "Torpille Bangalore"
  USA_bangalore_torpedo_desc:0 "WIP"
- USA_bangalore_torpedo_tt:0 "Permet §HTorpille Bangalore§!\n§HIngénieurs\n    Attaque lourde : §G+15%§!\n    Percée : §G+15%§!§!\n"
+ USA_bangalore_torpedo_tt:0 "Enables §HBangalore Torpedo§!\n§HEngineers\n    Hard Attack: §G+15%§!\n    Breakthrough: §G+15%§!§!\n"
  USA_army_rangers:0 "Rangers militaires"
  USA_army_rangers_desc:0 "WIP"
  USA_army_rangers_tt:0 "Permet §HRangers militaires§!\n§HInfanterie\n    Attaque lourde : §G+25%§!\n    Percée : §G+25%§!§!\n§HMotorisé\n    Attaque lourde : §G+25%§!\n    Percée : §G+25%§!§!\n§HMécanisé\n    Attaque lourde : §G+25%§!\n    Percée : §G+25%§!§!"
@@ -99,11 +91,10 @@
  USA_walkie_talkies:0 "Talkies-walkies"
  USA_walkie_talkies_desc:0 "WIP"
  USA_walkie_talkies_tt:0 "Permet §HTalkies-walkies§!\nSoutien au sol : §G+5%§!\nTaux de renforcement : §G+5%§!\nCoordination : §G+5%§!"
- #USA_tank_experiments_tt:0 "If we also have §HImproved Medium Tank Chassis§! researched:\n"
  USA_armored_infantry_chaffee_tt:0 "Avoir recherché le §Hchâssis de char léger avancé§! nous accordera le modèle de char léger §HM24 Chaffee§!.\n"
- USA_90_division_gamble:0 "90-Division Gamble"
+ USA_90_division_gamble:0 "Jeu de la division 90"
  USA_90_division_gamble_desc:0 "WIP"
- r56_USA_90_division_gamble_tt:0 "Cet esprit national n'aura d'effet que si nous avons au maximum §H160 HOI4§! divisions.\n"
+ r56_USA_90_division_gamble_tt:0 "This National Spirit will only have effect if we have at maximum §H160 HOI4§! Divisions.\n"
  USA_victory_program:0 "Programme Victory"
  USA_victory_program_desc:0 "WIP"
  USA_victory_program_focus_tt:0 "Nous sommes encore en paix, ce programme sera très impopulaire parmi la population !\n"
@@ -117,20 +108,16 @@
  USA_naval_air_coordination_desc:0 "WIP"
  USA_expand_the_USMC_satan_tt:0 "Avoir recherché le §HChâssis de char léger amélioré§! et le §HLance-flammes§! nous accordera le modèle de char lance-flammes léger §HM3A1 Satan§!.\n"
  USA_expand_the_USMC_zippo_tt:0 "Avoir recherché le §HChâssis de char moyen amélioré§! et le §HLance-flammes§! nous accordera le modèle de char lance-flammes moyen §HM4 Zippo§!.\n"
-
  USA_heirs_of_lafayette:0 "Les héritiers de Lafayette"
  USA_heirs_of_lafayette_desc:0 "Washington et Lafayette ont combattu côte à côte pour nous libérer des Anglais. En ces temps troublés, une nouvelle alliance plus forte pourrait nous lier à Paris."
-
  r56_usa.1.t:0 "Les élections de 1948"
  r56_usa.1.desc:0 "Une fois de plus, Thomas Dewey est le titulaire contre le candidat actuel. Cette fois-ci, Harry Truman se présente à la présidence en tant que successeur de Franklin Roosevelt."
  r56_usa.1.a:0 "Truman remporte les élections"
  r56_usa.1.b:0 "Dewey remporte les élections"
-
  USA_mobilize_the_national_guard:0 "Mobiliser les réserves"
  USA_mobilize_the_national_guard_desc:0 "La mobilisation des réserves contribuera grandement à la croissance de notre armée."
  rt56_rushed_r_n_d:0 "Recherche et développement précipités"
  rt56_rushed_r_n_d_desc:0 "L'industrie américaine accorde beaucoup d'importance au développement et au déploiement rapides des avancées technologiques. Cependant, ces méthodes présentent de nombreux inconvénients lorsque la phase de test de ces développements est raccourcie et que les problèmes liés à la nouvelle technologie sont ignorés dans le but d'obtenir des résultats rapides."
-
  r56_usa.2.t:0 "L'armée de l'air demande une plus grande autonomie"
  r56_usa.2.desc:0 "Les officiers de l'armée de l'air et le haut commandement de l'armée de terre ont toujours eu des conflits entre eux depuis la création de l'armée de l'air sur l'autonomie de l'armée de l'air au sein de l'armée de terre. Il semble que cette question ait pris de l'ampleur avec la création récente de la Division des plans de guerre aérienne. Dans le passé, nous avons fait taire les officiers de l'armée de l'air qui s'exprimaient sur cette question, notamment Henry Arnold. Mais il semble que nous ne puissions plus ignorer la question et que nous devions prendre une décision finale sur l'autonomie de l'armée de l'air au sein de nos forces armées."
  r56_usa.2.c:0 "L'armée de l'air reste dans l'armée de terre !"
@@ -144,52 +131,38 @@
  r56_usa.4.desc:0 "Un document récent du gouvernement [USA.GetAdjMS] a annoncé qu'ils allaient partager les recherches avec leurs alliés. L'adhésion nécessitera une certaine restructuration qui suscitera probablement une certaine résistance, mais nous n'avons rien à craindre de cette adhésion."
  r56_usa.4.a:0 "Nous pouvons le faire, ensemble !"
  r56_usa.4.b:0 "Peut-être plus tard"
-
  r56_usa.7.t:0 "L'élection présidentielle de 1956"
  r56_usa.7.desc:0 "Une fois encore, le peuple [USA.GetAdjMS] est appelé à voter pour déterminer le sort de la nation."
- r56_usa.7.a:0 "I like Ike, you like Ike, everybody like Ike!"
+ r56_usa.7.a:0 "J'aime Ike, tu aimes Ike, tout le monde aime Ike !"
  r56_usa.7.b:0 "Les démocrates doivent l'emporter !"
-
  r56_usa.8.t:0 "L'élection présidentielle de 1956"
  r56_usa.8.desc:0 "Une fois encore, le peuple [USA.GetAdjMS] est appelé à voter pour déterminer le sort de la nation."
  r56_usa.8.a:0 "Quatre ans de plus"
  r56_usa.8.b:0 "Le bon ami de Morbo gagne. Haroooooo !"
-
  r56_usa.9.t:0 "Le congrès du parti de 1952"
  r56_usa.9.desc:0 "Après des années de travail inlassable pour le bonheur du peuple [USA.GetAdjMS], le Premier secrétaire du [USA.GetCommunistParty] a décidé de se retirer de la plupart de ses responsabilités. À la place, le congrès du parti a été invité à choisir entre James W. Ford, le vice-président de Browder et Francis X. Waldron, un chef de faction influent au sein du parti."
  r56_usa.9.a:0 "Ford sera à la tête du prolétariat [USA.GetAdjMS]"
  r56_usa.9.b:0 "Le Premier secrétaire Waldron guidera la révolution"
-
  r56_usa.13.t:0 "Hermann Göring offre ses services"
  r56_usa.13.desc:0 "Ayant échappé à l'effondrement du régime national-socialiste d'Adolf Hitler en Allemagne, l'ancien as de la Grande Guerre et plus récemment commandant en chef de la Luftwaffe allemande est arrivé au Texas et est prêt à contribuer à nos objectifs politiques. Il est probable qu'il souhaite conserver son rang et ses honneurs et qu'il reviendra peut-être un jour à la tête d'une Allemagne autosuffisante restaurée."
  r56_usa.13.a:0 "Nous avons toujours besoin de talents plus fiables sur le plan idéologique."
  r56_usa.13.b:0 "Refuser et régler l'affaire discrètement."
-
  r56_USA_the_alaskan_trap:0 "Le piège de l'Alaska"
  r56_USA_the_alaskan_trap_desc:0 "En faisant passer l'Alaska pour un point d'invasion attrayant pour nos ennemis de l'Est et avec quelques travaux mineurs de l'USACE, nous pouvons transformer l'Alaska en un piège mortel pour une force d'invasion."
-
  rt56_far_left_suppression:0 "Répression de l'extrême gauche"
  rt56_far_left_suppression_desc:0 "Les événements qui ont conduit à la Peur Rouge des années 1920 ont laissé une impression durable sur les responsables de l'application des lois et sur le public américain. Cette impression a conduit à la poursuite et au harcèlement des mouvements d'extrême gauche dans l'ensemble des États-Unis. Ces dernières années, les efforts de répression contre les groupes d'extrême gauche sont menés par le Federal Bureau of Investigation de J. Edgar Hoover."
-
  rt56_USA_mobilize_the_national_guard:0 "Mobilisation des réserves"
-
  USA_carrier_1:0 "Classe Langley"
  USA_carrier_1_desc:0 "Le porte-avions de la classe Langley est né de la conversion de la coque d'un navire de la classe Jupiter. Cela lui a permis de se conformer aux limites imposées par le traité naval de Washington. Cette classe a été la première classe de porte-avions opérationnels de la marine américaine et a passé plus d'une décennie à améliorer les opérations des porte-avions."
-
  r56_j_edgar_hoover_given_army_command:0 "Est actuellement un général"
  USA_three_dimensional_assault_force_tt:0 "§YHolland Smith§! est actuellement un général."
-
- r56_USA_join_the_mexican_revolutionaries:0 "Rejoindre les révolutionnaires mexicains"
  r56_USA_join_the_mexican_revolutionaries:0 "Les Mexicains nous montrent que la révolution peut réussir ailleurs en Amérique."
-
  USA_invite_cuba:0 "Inviter Cuba"
  USA_invite_cuba_desc:0 "Le gouvernement cubain semble être prêt à collaborer avec nous."
  USA_invite_synarchist_mexico:0 "Inviter le Mexique synarchiste"
  USA_invite_synarchist_mexico_desc:0 "La montée du mouvement synarchiste au Mexique offre des opportunités diplomatiques pour unir le continent derrière notre cause."
  USA_ally_the_new_canada:0 "S'allier au nouveau Canada"
  USA_ally_the_new_canada_desc:0 "Arcand a réorganisé le Canada et le conduit vers un grand avenir, un avenir à nos côtés, bien sûr."
-
-
  USA_cult_of_washington:0 "Le culte de Washington"
  USA_cult_of_washington_desc:0 "Le fondateur de notre pays doit être un exemple pour nous tous. En tant que militaire fort destiné à la grandeur, il a clairement été le premier fasciste, construisant une république pour tous les vrais Américains grâce à son habileté et à sa volonté de cisaillement."
  USA_celebrate_americas_founder:0 "Célébrer le fondateur des États-Unis d'Amérique"
@@ -197,7 +170,6 @@
  USA_constitutional_convention_washington:0 "Convention constitutionnelle de Washington"
  USA_proclaim_washington_to_be_the_first_fascist:0 "Proclamer Washington comme le premier fasciste"
  USA_raise_washington_to_general_of_the_armies:0 "Élever Washington au rang de général des armées"
-
  USA_combating_jim_crow:0 "Marginalisation des Afro-Américains du Sud"
  USA_combating_jim_crow_desc:0 "La défaite du Sud pendant la guerre civile américaine et l'humiliation perçue comme telle qui s'est accumulée à l'époque de la Reconstruction étaient trop pour les cultivateurs et la bourgeoisie du Sud. Ils ont canalisé leur frustration face à la récente déresponsabilisation politique, et l'ont utilisée pour conspirer contre la population afro-américaine nouvellement autonomisée. Les intrigues politiques du Sud ont culminé avec le Compromis de 1877. Le Compromis a vu la fin officielle de la Reconstruction dans le Sud et la levée des dernières protections pour les communautés afro-américaines et les politiciens du Sud. Le compromis était fonctionnellement une trahison et un abandon des Afro-Américains par leurs alliés politiques du Nord.\n \nDepuis lors, les législateurs des États du Sud, poussés par une population encore plus hostile, ont adopté des lois qui marginalisent les Afro-Américains. Des lois qui séparent les Afro-Américains du reste de la population du Sud sur la base de la « race » dans les lieux publics tout en supprimant leur droit de vote. Dans le même temps, la population de ces États mène ses propres campagnes extrajudiciaires pour terroriser et tourmenter les Afro-Américains. Ces pratiques ont été appelées lois « Jim Crow ».\n\nBien que nous ayons actuellement des problèmes plus urgents, nous ne pouvons pas ignorer le fait que la pratique des lois Jim Crow continue à mettre notre pays à rude épreuve. Un pays qui promet « la liberté et la justice pour tous »."
  USA_combating_jim_crow_map:0 "Ces États disposent actuellement de lois Jim Crow."
@@ -210,139 +182,97 @@
  USA_pass_a_new_civil_rights_bill_flag:0 "Nous avons §Gadopté§! une nouvelle loi sur les droits civils"
  USA_pass_a_new_civil_rights_bill_flag_desc:0 "Un nouveau projet de loi sur les droits civils est un bon premier pas dans la lutte contre les lois Jim Crow dans le Sud."
  USA_fight_jim_crow_in_from:0 "Lutter contre les lois Jim Crow dans [FROM.GetName]"
-
  USA_population_migration:0 "Migrations de population"
  USA_population_migration_desc:0 "Si les efforts actuels de relance économique ont aidé beaucoup de gens, il y a eu beaucoup de retour en arrière dans certains de nos efforts passés. Le principal inconvénient de notre politique est l'aggravation de la situation des petits agriculteurs ruraux du sud. Nombre d'entre eux, qui ne peuvent plus joindre les deux bouts, ont dû se déraciner et s'installer là où il y a du travail, qui sont actuellement les villes industrielles du nord."
  USA_population_migration_mission_0:0 "Migration interne de la population"
-
  r56_usa.5.t:0 "Le signe des temps"
  r56_usa.5.desc:0 "Un signe des temps qui changent peut être vu sur les routes du Sud américain. De nombreux ouvriers agricoles ont vendu leur maison et mis toutes leurs affaires dans leur voiture pour se diriger vers le Nord. Ces migrations soudaines ont été provoquées par la détérioration des conditions de vie dans le Sud rural, de nombreuses familles n'arrivant pas à joindre les deux bouts. L'objectif de beaucoup de ces migrants est de trouver un emploi dans les centres industriels du Nord."
  r56_usa.5.a:0 "Vous pouvez obtenir des choses à Detroit !"
-
  USA_shifting_sands_tt:0 "§YÉtat du sud aléatoire§! §WRéserves :§!§R-10000§!§W.§!"
  USA_shifting_sands_2_tt:0 "§YÉtat du nord aléatoire§! §WRéserves :§!§G+10000§!§W.§!"
-
  USA_malin_craig:0 "Malin Craig"
  USA_adna_romanza_chaffee_jr:0 "Adna Romanza Chaffee Jr."
  USA_john_lee:0 "John C. H. Lee"
  USA_edwin_harding:0 "Edwin F. Harding"
  USA_jacob_devers:0 "Jacob L. Devers"
-
- ##### NATO ##### by Fantom
  USA_nato_faction:0 "OTAN"
  USA_dissolve_allies_found_nato_tt:0 "Les §YAllies§! seront remplacés par l'§YOTAN§! après avoir terminé cette priorité !"
  r56_USA_invest_in_our_weaker_allies_tt:0 "Nous construirons 3 usines militaires et 3 chantiers navals dans chacun de nos alliés, à condition qu'ils aient moins d'usines que nous."
- #ideas#
  rt56_USA_founder_of_nato_idea:0 "Fondateur de l'OTAN"
  rt56_USA_watching_over_pacific_idea:0 "Veiller sur le Pacifique"
  rt56_USA_watching_over_europe_idea:0 "Veiller sur l'Europe"
  rt56_USA_member_of_nato_idea:0 "Membre de l'OTAN"
  r56_financing_marshall_plan:0 "Financement du plan Marshall"
-
- #tooltip
  r56_USA_Korea_controls_peninsula:0 "§Y[KOR.GetNameDefCap]§! contrôle tous les États de la péninsule coréenne."
  r56_USA_legislation_drafted_days_tt:0 "Les jours actuels sont : [?USA_new_legislation_drafed_flag:days|Y0]"
  USA_new_legislation_drafed_flag:0 "La dernière loi gouvernementale a été rédigée"
-
- #focuses#
  r56_USA_foundation_of_NATO:0 "Fondation de l'OTAN"
  r56_USA_foundation_of_NATO_desc:0 "Le monde change rapidement autour de nous : beaucoup des anciennes grandes puissances sont en ruines après qu'une guerre dévastatrice ait balayé les continents. [USA.getNameDefCap] ont réussi non seulement à conserver, mais aussi à renforcer leur statut de superpuissance mondiale. Le temps est venu de prendre le contrôle direct de la question."
-
  r56_USA_overwatch_the_pacific:0 "Surveiller le Pacifique"
  r56_USA_overwatch_the_pacific_desc:0 "De vastes territoires de l'océan Pacifique restent vaguement protégés car nos capacités industrielles et militaires étaient concentrées sur la guerre continentale. L'amélioration de notre emprise sur le Pacifique assurera la domination des [USA.GetHabitants] dans la région."
-
  r56_USA_liberty_for_the_pacific:0 "La liberté pour le Pacifique"
  r56_USA_liberty_for_the_pacific_desc:0 "Si nous voulons montrer au monde que nous sommes de véritables protecteurs de la liberté, une décolonisation rapide et effective du Pacifique est indispensable ! Ce n'est qu'ainsi que nous pourrons assurer la stabilité et la prospérité de cette région !"
-
  r56_USA_withdraw_from_philippines:0 "Se retirer des Philippines"
  r56_USA_withdraw_from_philippines_desc:0 "L'impérialisme a dépassé son objectif en tant que concept économique et politique. En accordant à l'une de nos colonies, [PHI.GetNameDef], l'indépendance souhaitée, nous pouvons obtenir un allié puissant dans la région de l'Asie de l'Est et limiter sévèrement la rhétorique nationaliste et séparatiste de la population locale."
-
  r56_USA_fate_of_hawaii:0 "Le destin d'Hawaï"
  r56_USA_fate_of_hawaii_desc:0 "Hawaï, avec sa position stratégique au milieu du Pacifique, est cruciale pour notre effort de guerre. Mais même si nous désirons ces terres pour nous-mêmes, nous n'oublierons jamais nos promesses au peuple hawaïen. Faisons-leur savoir quels sont nos plans pour leurs îles."
-
  r56_USA_korean_issue:0 "La question coréenne"
  r56_USA_korean_issue_desc:0 "Issu de la décolonisation [JAP.getAdjFS], [KOR.GetNameDef] s'est détourné des principes de liberté que nous suivons. Le nouveau régime du pays est extrêmement fragile, ce qui ouvre une fenêtre pour quelques opportunités..."
-
  r56_USA_assistance_in_chinese_struggle:0 "Assistance à la lutte chinoise"
  r56_USA_assistance_in_chinese_struggle_desc:0 "La guerre civile [CHI.GetAdjFS] règne à nouveau sur la Plaine centrale. Et même si [CHI.GetNameDef] ne suit pas les mêmes principes que nous, nous nous assurerons que le Paris de l'Orient ne sera pas dirigé par la Menace rouge."
-
  r56_USA_intervention_in_vietnam:0 "Intervention au Vietnam"
  r56_USA_intervention_in_vietnam_desc:0 "La liberté ne peut coexister avec l'oppression du peuple, peu importe qui la mène - l'ancienne administration coloniale [FRI.GetDuDelaDelNP] [FRI.GetName] ou les tyrans rouges [VIN.GetDuDelaDelNP] [VIN.getName]. Nous mettrons fin à toute sorte d'ambitions rouges en Indochine."
-
  r56_USA_strike_the_prc:0 "Attaquer la République populaire de Chine"
  r56_USA_strike_the_prc_desc:0 "Peu importe nos efforts, la peste rouge engloutit de plus en plus l'Asie de l'Est. Mais avant de pouvoir frapper à sa source, nous devons nous assurer que nos alliés remportent la lutte sur le continent chinois."
-
  r56_USA_guide_true_democracies:0 "Guider les vraies démocraties"
  r56_USA_guide_true_democracies_desc:0 "De nombreux pays ont allié [ENG.GetNameDef] et [FRA.GetNameDef] dans leur lutte pour la liberté, mais certains d'entre eux sont loin de correspondre à la définition d'un régime démocratique. En tant que gouvernement responsable et véritablement dévoué aux principes des pères fondateurs, nous ne tolérerons plus ceux qui nient les libertés de leur peuple."
-
  r56_USA_coordinate_research_effort:0 "Coordonner l'effort de recherche"
  r56_USA_coordinate_research_effort_desc:0 "Pour faire face à la menace rouge qui pèse sur le monde, nous devons consolider tous nos efforts de recherche. La recherche et la technologie sont les clés de la victoire finale. Ce n'est qu'ensemble que nous vaincrons dans cette lutte !"
-
  r56_USA_return_to_europe:0 "Retour en Europe"
  r56_USA_return_to_europe_desc:0 "Seule l'intervention [USA.GetAdjFS] a sauvé l'Europe de l'occupation [GER.GetAdjFS] pendant la Grande Guerre. [ENG.getNameDefCap] et [FRA.getNameDef] auront sûrement besoin de notre aide si nous voulons nous assurer que le rideau de fer créé par les [SOV.getHabitants] ne se déplace pas vers l'ouest."
-
  r56_USA_enact_marshall_plan:0 "Promulguer le plan Marshall"
  r56_USA_enact_marshall_plan_desc:0 "Dévastée et dépeuplée, l'Europe est maintenant en ruines après avoir été engloutie dans une nouvelle guerre. Les investissements [USA.GetAdjMP] aideront les démocraties nouvellement établies à regagner ce qui a été perdu et à renforcer ce qui a été acquis si nous devons faire face à une nouvelle crise."
-
  r56_USA_support_eastern_democrats:0 "Soutenir les démocraties de l'Est"
  r56_USA_support_eastern_democrats_desc:0 "La trahison occidentale a vu de nombreux pays d'Europe de l'Est devenir les victimes de la menace rouge. Cependant, il y a encore beaucoup de gens qui cherchent la liberté et la libération des chaînes du communisme. Nos agents sont prêts à soutenir quelques protestations et manifestations, peut-être cela peut-il ouvrir encore plus de gens à nos idées ?"
-
  r56_USA_secure_iberia:0 "Sécuriser l'Ibérie"
  r56_USA_secure_iberia_desc:0 "La guerre [SPR.GetAdjFS] a entraîné des changements rapides dans l'équilibre des puissances en Europe. Et tandis que nous encerclons la menace rouge, nous pourrions recevoir un coup dans le dos de n'importe quelle grande puissance de la péninsule ibérique. La loyauté [SPR.GetAdjFS] à la cause doit être imposée, d'une manière ou d'une autre."
-
  r56_USA_ensure_greek_freedom:0 "Garantir la liberté grecque"
  r56_USA_ensure_greek_freedom_desc:0 "La rhétorique des autorités [GRE.GetAdjFP] devient de plus en plus hostile. Nos diplomates, craignant pour leur vie, ont déjà été évacués du pays. La crise gouvernementale [GRE.GetAuEnANP] [GRE.GetName] pourrait être l'occasion idéale de s'assurer que le communisme n'a pas de partisans en Méditerranée."
-
  r56_USA_greek_membership:0 "L'adhésion de la Grèce"
  r56_USA_greek_membership_desc:0 "Le soutien démocratique et militaire à notre cause de la part de [GRE.getNameDef] sera certainement utile si nous voulons commencer une quelconque opération dans la région des Balkans. Invitons leurs représentants pour les négociations."
-
  r56_USA_turkish_membership:0 "L'adhésion de la Turquie"
  r56_USA_turkish_membership_desc:0 "Ce n'est qu'une question de temps avant que les [SOV.GetHabitants] ne soulèvent la question des détroits [TUR.GetAdjMP] du Bosphore et des Dardanelles sous le prétexte du « libre-échange et du commerce ». Nous agirons rapidement et veillerons à ce que le nouvel État [TUR.GetAdjMS] nous soit allié et reçoive notre soutien total. "
-
  r56_USA_secure_yugoslavia:0 "Sécuriser la Yougoslavie"
  r56_USA_secure_yugoslavia_desc:0 "Les ambitions menaçantes d'unification des mouvements communistes des Balkans en une seule entité [YUG.GetAdjFS] constituent une menace pour la paix mondiale et une violation manifeste des principes d'autodétermination. Nous ne tolérerons pas une telle rhétorique agressive : à partir de maintenant, les autorités [YUG.GetAdjFP] sont considérées comme des ennemis de la démocratie !"
-
  r56_USA_ally_yugoslavia:0 "S'allier à la Yougoslavie"
  r56_USA_ally_yugoslavia_desc:0 "Bien qu'ils ne soient pas vraiment démocratique, [YUG.GetNameDef] partage de vastes frontières avec d'autres pays des Balkans. S'allier à eux nous permettra de disposer d'une énorme base d'opérations en Europe. Les diplomates négocient déjà les conditions de l'alliance officielle."
-
  r56_USA_prepare_allies_for_the_inevitable:0 "Préparer nos alliés à l'inévitable"
  r56_USA_prepare_allies_for_the_inevitable_desc:0 "La finalisation de nos traités défensifs est meilleure avec un développement industriel commun. Nous avons suffisamment de fonds pour soutenir l'industrialisation rapide et les programmes de réarmement de nos alliés. Faites savoir aux [SOV.GetHabitants] que nous sommes plus que prêts à vaincre leur soi-disant « Révolution » par une frappe rapide."
-
  r56_USA_a_cold_war:0 "Une guerre froide"
  r56_USA_a_cold_war_desc:0 "Le monde étant actuellement divisé en deux blocs de puissance, il devient encore plus clair que toute guerre ouverte aurait un impact désastreux sur la planète et l'avenir de la civilisation humaine. Nous concentrerons nos efforts sur la reconstruction de notre nation, en surpassant les communistes en matière de science et de production, tout en soutenant secrètement les régimes démocratiques du monde entier."
-
  r56_USA_commence_the_unthinkable:0 "Commencer l'« impensable »"
  r56_USA_commence_the_unthinkable_desc:0 "Quels que soient nos efforts, la menace rouge continue de planer sur le monde. Si nous voulons empêcher l'Aube Rouge de se produire, nous devons frapper à la source du problème - [SOV.GetNameDef]. Tremblez, menace communiste, l'éclat de la liberté sera bientôt embrassé par le monde entier !"
-
-
- #events#
  r56_usa.6.t:0 "Le destin d'Hawaï"
  r56_usa.6.desc:0 "Les perspectives des fonctionnaires de l'État ont atteint la partie la plus peuplée de nos possessions dans la région du Pacifique : Hawaii. \n\nL'ancien royaume d'Hawaï est tombé sous l'influence [USA.GetDuDelaDelNP] [USA.GetName] dans les années 1850, lorsque nos diplomates et marchands ont conclu plusieurs traités d'amitié et de protection mutuelle avec le gouvernement local. Ces territoires ont été incorporés à notre nation dans le cadre d'un traité d'annexion, avec la promesse aux politiciens hawaïens qu'ils obtiendraient une représentation adéquate au Congrès. \n\nJusqu'à présent, nous n'avons pas été en mesure de tenir les promesses faites à leur peuple, ce qui signifie que notre credo politique « Liberté et justice pour tous » n'est rien d'autre qu'un mot vide de sens pour la population locale. \n\nLe temps est venu de changer cela une fois pour toutes, à partir de maintenant Hawaï..."
  r56_usa.6.a:0 "...profitera de la liberté qu'elle souhaite."
  r56_usa.6.b:0 "...recevera une autonomie locale."
  r56_usa.6.c:0 "...sera intégrée en tant que nouvel État."
-
  r56_usa.10.t:0 "[USA.GetNameDefCap] proposent une alliance"
  r56_usa.10.desc:0 "L'ambassadeur [USA.GetAdjMS] a transmis un message secret urgent à notre gouvernement afin de voir si nous serions intéressés par une alliance. Le message ajoute que notre gouvernement pourrait se battre à l'unisson, comme l'ont fait Washington et Lafayette en leur temps."
  r56_usa.10.a:0 "Splendide !"
  r56_usa.10.b:0 "Ce n'est pas dans notre intérêt."
-
  r56_usa.11.t:0 "Le gouvernement [FRA.GetAdjMS] a accepté notre proposition d'alliance !"
  r56_usa.11.desc:0 "En réponse à notre message précédent, l'ambassadeur [FRA.GetAdjMS] vient de transmettre la réponse du gouvernement [FRA.GetAdjMS]. Ils ont accepté notre proposition avec effet immédiat. L'attaché militaire français est déjà prêt à transmettre des informations militaires vitales et il attend de nous que nous fassions de même."
  r56_usa.11.a:0 "Splendide !"
  r56_usa.11.b:0 "Ce n'est pas dans notre intérêt."
-
  r56_usa.12.t:0 "[FRA.GetLeader] a refusé notre proposition d'alliance !"
  r56_usa.12.desc:0 "Les [FRA.GetHabitants] a transmis la réponse de son gouvernement. Malheureusement pour nous, ils ont refusé notre proposition d'alliance."
  r56_usa.12.a:0 "Quelle déception !"
-
  r56_usa_deaths.1.t:0 "Mort de Chaffee"
  r56_usa_deaths.1.desc:0 "WIP"
  r56_usa_deaths.1.a:0 "Le père des forces blindées ne sera jamais oublié."
  r56_usa_deaths.2.t:0 "Mort de Malin Craig"
  r56_usa_deaths.2.desc:0 "WIP"
  r56_usa_deaths.2.a:0 "Le père des forces blindées ne sera jamais oublié."
-
- #Vanilla Overrides
- USA_manifest_destiny_r56:0 "Le nouveau manifeste du destin" #revisit with better name. band-aide fix
+ USA_manifest_destiny_r56:0 "Le nouveau manifeste du destin"
  USA_manifest_destiny_r56_desc:0 "Notre pays est devenu grand grâce à la politique d'expansion agressive de notre nation. Il est temps que nous y revenions."

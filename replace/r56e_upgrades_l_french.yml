@@ -1,7 +1,7 @@
 ﻿l_french:
  INF_reliability_upgrade:0 "Fiabilité"
  INF_reliability_upgrade_desc:0 "Améliore la fiabilité"
- INF_SA_upgrade:0 "Petites Armes"
+ INF_SA_upgrade:0 "Armes légères"
  INF_SA_upgrade_desc:0 "Améliore l'attaque légère"
  INF_HA_upgrade:0 "Armes AT"
  INF_HA_upgrade_desc:0 "Améliore l'attaque lourde et la percée"

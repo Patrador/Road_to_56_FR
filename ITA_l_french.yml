@@ -1,9 +1,5 @@
 ﻿l_french:
-  # Ministers
  balbo_dead:0 "Italo Balbo est mort"
-
- #flags
-
  ITA_carlo_favagrossa:0 "Carlo Favagrossa"
  ITA_dino_alfieri:0 "Dino Alfieri"
  ITA_giuseppe_bottai:0 "Giuseppe Bottai"
@@ -11,221 +7,164 @@
  ITA_manlio_morgagni:0 "Manlio Morgagni"
  ITA_pietro_gazzera:0 "Pietro Gazzera"
  r56_ITA_vanquish_ethiopia_failed:0 "L'Italie se rend à l'Éthiopie et signe une paix blanche."
-
- # Traits
  soldier_king:0 "Roi soldat"
-
- #Tooltips
-
  ITA_royal_intervention_tt:0 "Les loyalistes monarchistes et les personnes au sein de l'armée loyales envers le roi vont commencer une §Yguerre civile§! contre les fascistes !"
-
-
- # Decisions
  ITA_foreign_policy_fascism:0 "Politique étrangère fasciste"
  ITA_foreign_policy_fascism_desc:0 "Une politique étrangère plus active nous permettra de mieux défendre nos intérêts et assurera que notre influence est maintenue et étendue."
-
  ITA_renew_the_italo_yemeni_treaty:0 "Renouveler le traité italo-yéménite"
  ITA_renew_the_italo_yemeni_treaty_desc:0 "Le traité italo-yéménite, aussi connu sous le nom de traité de Sanaa, a été conclu en 1926. Il reconnaissait l'imam Yahya Mohammed Hamid ed-Din comme roi du Yemen, scellait l'amitié entre nos deux nations, et reconnaissait les prétentions du Yémen sur Aden. Avec l'annexion de l'Éthiopie et l'extension de notre influence en Mer Rouge, nous devrions renouveler ce traité."
  ITA_renew_the_italo_yemeni_treaty_diplomacy:0 "Traité italo-yéménite renouvelé"
  ITA_renew_the_italo_yemeni_treaty_tt:0 "Débloquera des §Ydécisions§! pour faire venir le Yémen dans notre §Ysphère§!"
-
  ITA_seize_the_balearic_islands:0 "Saisir les Baléares"
  ITA_seize_the_balearic_islands_desc:0 "La guerre civile en Espagne représente une opportunité en or de saisir les Baléares, nous permettant un plus grand contrôle sur la Méditerranée occidentale. Cependant, une si brutale saisie de territoire ne passera pas inaperçue, et le gouvernement vainqueur en Espagne sera peu susceptible d'apprécier que nous ayons profité de sa faiblesse."
  ITA_seize_the_balearic_islands_tt:0 "§RVous ne serez plus en mesure de vous allier avec l'Espagne§!\n"
  seized_the_baleares_flag:0 "A saisi les Baléares"
-
  ITA_temporarly_occupy_the_baleares:0 "Occuper temporairement les Baléares"
  ITA_temporarly_occupy_the_baleares_desc:0 "Les Baléares sont trop importantes stratégiquement parlant pour les laisser entre les mains d'un régime potentiellement communiste. Nous enverrons des troupes pour occuper les îles tout en promettant aux nationalistes qu'elles leur seront rendues une fois que la guerre civile sera terminée. Bien entendu, s'ils ne sont plus là, nous n'aurons aucune raison de les leur rendre..."
  ITA_temporarly_occupy_the_baleares_tt:0 "Vous promettez de rendre les îles aux §Gnationalistes§! §Iune fois que la guerre civile sera terminée§!. §!Si les §Yrépublicains§! gagnent, vous pourrez garder les îles, mais si vous refusez de les rendre aux §Gnationalistes§!, vous subirez de §Rlourdes pénalités§!"
-
  ITA_cede_884_to_HUN:0 "Céder le Prekmurje à la Hongrie"
-
-
- # Events
-
  r56_italy.1.t:0 "Le Roi retire le pouvoir à Mussolini"
  r56_italy.1.d:0 "À la suite d'un conseil d'urgence convoqué par le Roi Victor Emmanuel III, ce dernier a rencontré Mussolini, lui demandant sa démission, soulignant en particulier l'énorme dette accumulée par l'Italie et que ce dernier n'a pas été capable de régler en presque quinze ans d'exercice du pouvoir, le gouffre financier qu'était la campagnie éthiopienne, ainsi que les problèmes suscités par les embargos ayant suivi l'invasion.\n\nSous la pression du Grand Conseil du fascisme, qui a commencé à se retourner contre lui, en particulier sous l'influence des royalistes qui tentent de se créer une meilleure position, Mussolini n'a pas eu d'autre choix que de se soumettre à cet ordre, ne souhaitant pas aller en prison. Pietro Badoglio a ensuite été nommé Premier Ministre. Ce dernier, malgré ses nombreux liens avec l'administration fasciste, est vu comme une figure bien plus modérée.\n\nIl est clair que le Roi essaie de sauver la face de l'Italie, dont la situation s'effondre continuellement."
  r56_italy.1.a:0 "Espérons que la situation puisse être résolue."
-
  r56_italy.2.t:0 "L'armistice d'Éthiopie"
  r56_italy.2.d:0 "Un des premiers objectifs de Badoglio était de mettre fin aux coûteux conflits en Éthiopie. Le nouveau Ministre des Affaires étrangères, Alfredo Covelli, a été envoyé pour négocier une fin aux hostilités entre nos deux pays, et a réussi à négocier la paix, mais nous a forcés à payer des réparations de guerre pour les nombreuses destructions civiles qui sont survenues durant le conflit."
  r56_italy.2.a:0 "Mieux valent quelques réparations maintenant qu'un gouffre financier permanent."
-
  r56_italy.3.t:0 "Le nouveau cabinet"
  r56_italy.3.d:0 "Quelques jours après sa nomination comme Premier Ministre, Pietro Badoglio a formé son nouveau gouvernement. Même si Badoglio prétend toujours agir au nom du Partito Nazional Fascista, l'influence fasciste a été réduite au sein des ministères, avec la participation de nombreux monarchistes dans le nouveau cabinet, probablement sous l'impulsion du roi, inquiet des nouveaux problèmes qui pourraient survenir en maintenant les politiques économiques et sociales des fascistes."
  r56_italy.3.a:0 "Adieu l'ancien, place au neuf !"
-
  r56_italy.4.t:0 "Proposition de Giovanni Messe"
  r56_italy.4.d:0 "Giovanni Messe, major général, ancien commandant de la Troisième Division de Cavalerie, et Ministre de l'Intérieur dans le gouvernement de Pietro Badoglio, a soumis à ce dernier une proposition assez spécifique aujourd'hui. Il était en effet assez clair pour Messe que le but ultime de Badoglio était le retrait du pouvoir aux fascistes.\n\nCe dernier a proposé d'utiliser de potentiels monarchistes au sein des chemises noires et d'autres organisations très proches des leaders du Partito Nazional Fascista afin d'éliminer de l'intérieur les figures principales du parti. Ainsi, une fois privé de ses meneurs, l'élimination de ses derniers éléments sera possible sans avoir à faire couler trop de sang."
  r56_italy.4.a:0 "En détruisant ses points vitaux, le mouvement s'effondrera de lui-même."
  r56_italy.4.b:0 "Et si cela se retourne contre nous ? N'utilisons pas de si dangereuses méthodes."
-
  r56_italy.5.t:0 "Mort d'Arturo Bocchini"
  r56_italy.5.d:0 "Arturo Bocchini, chef de la police mais surtout de l'Organizzazione per la Vigilanza e la Repressione dell' Antifascismo, la police secrète du Partito Nazional Fascista, a été retrouvé mort à son domicile, deux balles dans la tête.\n\nIl avait été choisi comme première cible par crainte que l'OVRA ne découvre le complot du gouvernement. Le poste est désormais vacant, réduisant fortement le risque d'être découverts par cette dernière."
  r56_italy.5.a:0 "Excellent"
-
  r56_italy.6.t:0 "Les fascistes attribuent l'assassinat aux communistes"
  r56_italy.6.d:0 "Le meurtre d'Arturo Bocchini a choqué de nombreux dirigeants du Partito Nazional Fascista. Dans « Il Popolo d'Italia », le journal officiel du parti, on pouvait voir « La menace communiste renaissante » écrit en grosses lettres, accusant effectivement des membres potentiels du Partito Communista Italiano de l'assassinat.\n\nLuigi Russo, chef des chemises noires, a appelé à une vigilence accrue de celles-ci contre tout élément supposé « anti-fasciste »."
  r56_italy.6.a:0 "Au moins, ils ne nous suspectent pas..."
-
  r56_italy.7.t:0 "Meurtre des frères Rosselli"
  r56_italy.7.d:0 "Carlo Rosselli et Sabatino Rosselli, deux activistes anti-fascistes exilés, qui ont notoirement participé à la guerre d'Espagne aux côtés des Républicains, ont été assassinés par l'organisation française « La Cagoule », alors qu'ils se trouvaient à Bagnoles-de-l'Orne, en Normandie, pour être soignés d'une phlébite qu'ils avaient attrapée durant leur combat en Espagne.\n\nIls étaient connus pour avoir fondé le mouvement « Giustizia e Libertà » avec d'autres exilés anti-Mussolini, en particulier des républicains aux idées allant du libéralisme au socialisme."
  r56_italy.7.a:0 "Deux problèmes de moins !"
-
  r56_italy.8.t:0 "Incident à la Société des Nations"
  r56_italy.8.d:0 "Lors d'un discours à la Société des Nations prononcé par Haïlé Sélassié Ier, empereur d'Éthiopie, qui s'indignait de l'invasion italienne et demandait une aide diplomatique pour mettre fin au conflit, les journalistes italiens présents ont commencé à se moquer de l'empereur.\n\nEn réaction à ce qu'il a considéré comme « de la stupidité », Nicolae Titulescu, un diplomate roumain présent à ce moment, a répondu en demandant le départ de ces mêmes journalistes, allant jusqu'à déclarer « Dehors les sauvages ! »"
  r56_italy.8.a:0 "Pour qui se prend-il ?"
  ITA_diplomatic_incident_at_the_league_of_nations:0 "Incident diplomatique à la Société des Nations"
-
  r56_italy.9.t:0 "Militarisation des Protocoles de Rome"
  r56_italy.9.d:0 "Signés pour la première fois en 1934 entre les gouvernements d'Autriche, de Hongrie et d'Italie, les Protocoles de Rome étaient des accords principalement destinés à la coopération économique entre ces trois nations et à s'opposer à l'intégrité territoriale de la Yougoslavie. Sous la direction de l'Italie, une deuxième version de ces protocoles a été signée, comprenant une alliance militaire entre les trois nations.\n\nBeaucoup y voient une tentative de l'Italie pour trouver une place en Europe après avoir quitté la Société des Nations, et pour empêcher l'Allemagne d'intégrer l'Autriche au Reich."
  r56_italy.9.a:0 "Peut-être que cela garantira la stabilité en Europe centrale..."
-
  r56_italy.10.t:0 "Le Deuxième Front de Stresa"
  r56_italy.10.d:0 "Faisant face à ce qu'ils considèrent comme une « menace allemande croissante », les gouvernements italien, français et britannique se sont à nouveau rencontrés dans la ville de Stresa pour annoncer la recréation du Front du même nom, qui avait été rompu suite à l'invasion italienne de l'Abyssinie. En échange, les gouvernements français et britannique acceptent de lever les embargos sur l'Italie.\n\nLeur but est de maintenir l'intégrité de l'Autriche face au Reich allemand, ainsi que de s'assurer que celui-ci respecte le Traité de Versailles."
  r56_italy.10.a:0 "Des gouvernements radicalement différents s'unissent pour préserver leur victoire passée."
-
  r56_italy.11.t:0 "Le Pacte d'Acier"
  r56_italy.11.d:0 "Les différents embargos dont souffre l'Italie depuis son invasion de l'Abyssinie ont conduit à son rapprochement avec des nations différentes de ses alliés habituels, en particulier l'Allemagne, avec qui les relations se sont réchauffées quand l'Italie a accepté de cesser de garantir l'Autriche, que l'Allemagne espérait annexer, malgré la violation du Traité de Versaille que cela représentait.\n\nS'en est suivie la signature d'un Pacte d'amitié et d'alliance entre l'Allemagne et l'Italie, qui ont décidé de se soutenir mutuellement sur le plan militaire dans les années à venir."
  r56_italy.11.a:0 "Qu'est-ce que cela signifiera pour l'Europe ?"
-
  r56_italy.12.t:0 "L'Italie veut reformer le Front de Stresa"
  r56_italy.12.d:0 "Craignant que le gouvernement nazi cherche à transgresser le Traité de Versailles, en particulier du fait de sa rhétorique revancharde, l'Italie nous a appelés pour reformer le Front de Stresa, en assurant notamment qu'aucune agression gratuite comme celle qui est survenue en Abyssinie ne se répéterait.\n\nNous déciderions alors de garantir l'intégrité territoriale de l'Autriche et les termes du Traité de Versailles, ce qui pourrait mener à une réponse militaire si nécessaire."
  r56_italy.12.a:0 "Le Traité de Versailles doit être défendu à tout prix."
  r56_italy.12.b:0 "Nous ne pouvons plus faire confiance à l'Italie."
-
  r56_italy.13.t:0 "L'Italie veut reformer le Front de Stresa"
  r56_italy.13.d:0 "Craignant que le gouvernement nazi cherche à transgresser le Traité de Versailles, en particulier du fait de sa rhétorique revancharde, l'Italie nous a appelés pour reformer le Front de Stresa, en assurant notamment qu'aucune agression gratuite comme celle qui est survenue en Abyssinie ne se répéterait.\n\nNous déciderions alors de garantir l'intégrité territoriale de l'Autriche et les termes du Traité de Versailles, ce qui pourrait mener à une réponse militaire si nécessaire."
  r56_italy.13.a:0 "Il serait prudent d'accepter"
  r56_italy.13.b:0 "L'Italie a déjà dépassé les limites une fois, qu'est-ce qui garantit qu'elle ne le refera pas ?"
-
  r56_italy.14.t:0 "Reformation du Front de Stresa"
  r56_italy.14.d:0 "La France et la Grande-Bretagne ont toutes deux accepté de reformer notre front commun contre l'Allemagne.\n\nEspérons que cela permettra de sauvegarder ce pourquoi nous nous sommes battus durant la Grande Guerre et de garantir la paix en Europe."
  r56_italy.14.a:0 "L'Entente renaît !"
-
  r56_italy.15.t:0 "L'Italie veut militariser les Protocoles de Rome"
  r56_italy.15.d:0 "Mentionnant notamment le revanchisme croissant en Allemagne, qui pourrait menacer les intérêts de nos trois pays, l'Autriche, la Hongrie, et l'Italie, cette dernière a sufféré d'étendre les Protocoles de Rome pour comprendre une alliance militaire défensive et offensive.\n\nSelon elle, la création d'un nouveau bloc en Europe centrale et méridionale permettrait d'éviter toute disparition d'une puissance belligérente."
  r56_italy.15.a:0 "Il serait prudent d'accepter"
  r56_italy.15.b:0 "Cela pourrait finir par causer une guerre encore plus grande, nous devrions refuser"
-
  r56_italy.16.t:0 "Ultimatum italien"
  r56_italy.16.d:0 "Ayant déclaré que la Roumanie est une région stratégique pour le Pacte de Rome, en particulier pour l'Italie et la Hongrie, l'ambassadeur d'Italie a lancé un ultimatum au gouvernement roumain.\n\nIl demande que la totalité de la Transylvanie soit rendue à la Hongrie, que les intérêts italiens dans les champs pétroliers soient garantis, et que le gouvernement italien ait un droit de regard sur les décisions gouvernementales, notamment en donnant un droit de veto à l'ambassadeur.\n\nCelui-ci a indiqué très clairement que tout refus conduirait à une action militaire."
  r56_italy.16.a:0 "Nous n'avons pas d'autre choix que d'accepter."
  r56_italy.16.b:0 "Nous n'abandonnerons pas notre indépendance si facilement !"
-
  r56_italy.17.t:0 "La Roumanie rejette l'ultimatum !"
  r56_italy.17.d:0 "Décrivant les demandes italiennes comme « absurdes », le gouvernement Roumain a refusé l'ultimatum envoyé il y a quelques jours et refuse de le renégocier. Nous avions menacé de représailles militaires en cas de refus.\n\nLa question est maintenant de savoir si nous allons mener à bien ces menaces ou les retarder."
  r56_italy.17.a:0 "Ils ont choisi leur destin !"
  r56_italy.17.b:0 "Nous ne pouvons nous permettre une guerre pour l'instant."
-
  r56_italy.18.t:0 "L'Italie propose une coopération militaire rapprochée"
  r56_italy.18.d:0 "Durant ces derniers mois, nos relations avec l'Italie se sont réchauffées, celle-ci ayant été abandonnée diplomatiquement et économiquement par ses anciens alliés, les anciennes puissances de l'Entente.\n\nNous avons été approchés par l'ambassadeur d'Italie avec une proposition pour signer une alliance militaire entre nos deux nations, destinée en particulier à s'assister dans une hypothétique guerre contre la Grande-Bretagne, la France ou l'Union soviétique.\n\nUn rapprochement avec l'Italie nous permettrait certainement de sécuriser les Alpes du sud, un terrain très difficile, et nous assurerait un certain contrôle sur la Méditerranée et l'Afrique, deux zones qui sont hors de notre portée.\n\nCependant, nous ne devrions pas oublier la première trahison dont nous avons souffert au début de la Grande Guerre, et les divers conflits autour de nos zones d'influence, qui se superposent en maints endroits."
  r56_italy.18.a:0 "L'Axe Rome-Berlin ne sera jamais battu !"
  r56_italy.18.b:0 "Cela nous apportera-t-il autre chose qu'un nouveau couteau dans le dos ?"
-
  r56_italy.19.t:0 "L'Allemagne accepte le Pacte"
  r56_italy.19.d:0 "Le gouvernement allemand a répondu positivement à notre proposition d'alliance militaire, scellant officiellement l'amitié et la coopération entre nos deux nations, prouvant qu'il n'y a pas besoin de se soumettre aux demandes des démocraties de l'Entente."
  r56_italy.19.a:0 "Un nouvel Axe est né !"
-
  r56_italy.20.t:0 "L'Allemagne refuse le Pacte !"
  r56_italy.20.d:0 "Déclarant que la coopération entre nos deux pays ne bénéficierait pas à l'Allemagne, celle-ci a décliné notre proposition d'alliance militaire entre nos deux nations."
  r56_italy.20.a:0 "Une fois encore, on nous abandonne..."
-
  r56_italy.21.t:0 "L'Italie demande à contrôler notre politique intérieure"
  r56_italy.21.d:0 "L'ambassadeur d'Italie nous a soumis une requête venant directement de Rome. Le Gouvernement italien demande un droit de regard et de veto sur les politiques intérieure et extérieure de l'Albanie, déclarant qu'il entend défendre « les intérêts de la nation italienne en Albanie ».\n\nIl a été précisé qu'un refus de cette requête s'accompagnerait de sévères sanctions économiques ou même d'une action militaire s'il survenait ce qu'ils considèrent comme « une attaque sérieuse contre les nombreux efforts que les Italiens ont accomplis en Albanie ».\n\nIl est clair qu'accepter ces demandes signifirait une perte significative de l'indépendance albanaise."
  r56_italy.21.a:0 "Nous ne craignons aucune armée, qu'ils viennent !"
  r56_italy.21.b:0 "Nous sommes obligés d'accepter."
-
  r56_italy.22.t:0 "L'Albanie refuse l'ultimatum"
  r56_italy.22.d:0 "Décrivant nos demandes comme « une véritable insulte à la nation albanaise et à son peuple », le gouvernement albanais a refusé nos demandes d'un plus strict contrôle de leurs politiques. Que devons-nous faire en représailles ?"
  r56_italy.22.a:0 "Ils savaient à quoi s'en tenir, envahissons-les."
  r56_italy.22.b:0 "Nous n'avons pas le temps pour une guerre en Albanie."
-
  r56_italy.23.t:0 "L'Italie exige la Dalmatie"
  r56_italy.23.d:0 "Citant les populations italiennes historiques dans la région dalmate, le gouvernement italien nous a envoyé une requête pour le retour de la province de Dalmatie à l'Italie, avec l'évacuation des troupes [ROOT.GetAdjFP] dans les 72 heures suivant le transfert du territoire. Des menaces de représailles militaires ont été lancées en cas de refus."
  r56_italy.23.a:0 "Si cela évite une guerre, qu'il en soit ainsi."
  r56_italy.23.b:0 "La Dalmatie nous appartient de plein droit !"
-
  r56_italy.24.t:0 "[103.Owner.GetLeLaLNPCap] [103.Owner.GetName] refus[103.Owner.GetEEntNP] d'abandonner la Dalmatie !"
  r56_italy.24.d:0 "Le gouvernement [103.Owner.GetAdjMS] nous a annoncé qu'il n'allait pas « se mettre à genoux devant un gouvernement qui ne souhaite pas respecter les populations vivant en Dalmatie », et il y a une augmentation significative de la présence militaire dans la région et le long de notre frontière commune. Que devrions-nous faire ?"
  r56_italy.24.a:0 "Ils auraient dû la donner pacifiquement. Nous serons réunis par la force !"
  r56_italy.24.b:0 "Nous reviendrons plus tard."
-
  r56_italy.25.t:0 "Le Front de Stresa garantit l'Autriche"
  r56_italy.25.d:0 "Déclarant qu'il s'agit d'une « priorité du Front de Stresa », le gouvernement italien a suggéré de signer une déclaration officielle de protection de l'Autriche, lui permettant de compter sur nous en cas de conflit, en particulier avec l'Allemagne."
  r56_italy.25.a:0 "L'Autriche peut compter sur notre protection."
  r56_italy.25.b:0 "Nous n'avons aucun intérêt à défendre l'Autriche."
-
  r56_italy.26.t:0 "L'Italie saisit les Baléares"
  r56_italy.26.d:0 "Déclarant qu'il souhaitait « sauvegarder les intérêts italiens en Méditerranée et plus que tout protéger ces îles », le gouvernement italien a décidé de saisir les Baléares, envoyant plusieurs garnisons établir sa présence là-bas."
  r56_italy.26.a:0 "Nous n'avons jamais permis cela !"
-
  r56_italy.27.t:0 "L'Italie offupe les Baléares pour nous"
  r56_italy.27.d:0 "Le gouvernement a décidé d'envoyer une garnison dans nos îles aux baleines pour éviter que le gouvernement républicain y ait accès. Il nous a assuré ne faire que protéger nos intérêts en évitant que les Républicains n'aient la supériorité en Méditerranée."
  r56_italy.27.a:0 "Espérons qu'ils nous les rendront..."
-
-
  r56_italy.28.t:0 "Le Front de Stresa refusé"
  r56_italy.28.d:0 "Le gouvernement [From.GetAdjMS] a décidé de rejeter notre proposition de Front de Stresa. Aussi devrons nous continuer sans leur aide."
  r56_italy.28.a:0 "Nous poursuivrons notre chemin sans eux..."
-
  r56_italy.29.t:0 "Le Budget de la Regia Marina en question"
  r56_italy.29.d:0 "Depuis la fin de la Grande Guerre, le gouvernement italien s'est donné pour objectif de dominer la Méditerranée et, pour y parvenir, a lancé des projets majeurs pour moderniser la marine. Cependant, ces projets ont un coût, et une part du budget normalement attribuée à l'armée a été redirigée vers la Regia Marina, créant un déséquilibre dans la production de matériel.\n\nNous pourrions essayer d'ajuster le budget pour revenir à quelque chose d'équitable entre les trois branches, mais la clé de la victoire réside peut-être dans la domination des mers ?"
  r56_italy.29.a:0 "Il nous faut rééquilibrer le budget."
  r56_italy.29.b:0 "Le budget est très bien comme il est."
  r56_italy.29.c:0 "Concentrons-nous encore plus sur la Regia Marina !"
-
  r56_italy.30.t:0 "Événement pour décider si Italo Balbo meurt"
  r56_italy.30.d:0 "Vous n'êtes pas censés voir ça."
  r56_italy.30.a:0 "D'accord."
-
  r56_italy.31.t:0 "Italo Balbo tué dans un accident"
  r56_italy.31.d:0 "Alors qu'il était passager d'un Savoia-Marchetti SM.79 devant atterrir à Tobrouk en Libye, son avion a été confondu avec un chasseur ennemi, et abattu par des batteries antiaériennes censées défendre le terrain d'aviation.\n\nUn héros de l'aviation italienne et l'un des principaux organisateurs du Partito Nazional Fascista et de la Marche sur Rome, il était pour beaucoup dans la popularisation de l'aviation en Italie."
  r56_italy.31.a:0 "Nous perdons plus qu'un aviateur, nous perdons une légende !"
-
  r56_italy.32.t:0 "La Grèce protège l'Albanie"
  r56_italy.32.d:0 "La Grèce a occupé l'Albanie, notre futur tête de pont dans les Balkans. Comment devons nous répondre ?"
  r56_italy.32.a:0 "La guerre, maintenant !"
  r56_italy.32.b:0 "Ne frappons pas tout de suite."
-
  r56_italy.100.t:0 "La formalisation du Front de Stresa"
  r56_italy.100.d:0 "Des diplomates d'Italie, de France et du Royaume-Uni se sont réunis à Stresa, en Suisse, pour le dernier cycle de négociations sur le Front de Stresa contre l'Allemagne. La proposition sur la table est de formaliser le front comme une alliance militaire contre l'agression allemande et l'influence en Europe. Si les relations entre les pouvoirs démocratiques et le gouvernement fasciste italien ont été difficiles ces dernières années, les récents pourparlers ont été positifs. Alors que la France semble prête à adhérer, on craint que ce bloc de pouvoir n'affaiblisse l'indépendance diplomatique de la Grande-Bretagne."
  r56_italy.100.a:0 "Ensemble, nous nous opposerons à l'Allemagne."
  r56_italy.100.b:0 "L'accord actuel nous convient."
-
  r56_italy.101.t:0 "Les Alliés rejoignent le Front de Stresa"
  r56_italy.101.d:0 "Les représentants du Royaume-Uni et du Commonwealth britannique ont convenu d'officialiser le Front de Stresa."
  r56_italy.101.a:0 "Excellent."
-
  r56_italy.102.t:0 "Les alliés refusent de rejoindre le Front de Stresa"
  r56_italy.102.d:0 "Les représentants du Royaume-Uni et du Commonwealth britannique ont décliné notre offre d'officialiser le Front de Stresa."
  r56_italy.102.a:0 "C'est regrettable."
-
  r56_italy.103.t:0 "La formalisation du Front de Stresa"
  r56_italy.103.d:0 "Des diplomates d'Italie, de France et du Royaume-Uni se sont réunis à Stresa, en Suisse, pour le dernier cycle de négociations sur le Front de Stresa, visant à contrer l'agression et l'influence croissante de l'Allemagne en Europe. Alors que les relations entre les pouvoirs démocratiques et le gouvernement fasciste italien ont été difficiles ces dernières années, la récente déclaration commune officialisant une alliance militaire entre tous les signataires du Front de Stresa s'est avérée positive."
  r56_italy.103.a:0 "Ensemble pour la victoire !"
  r56_italy.103.b:0 "Ils se réunissent comme des moutons effrayés par un loup."
  r56_italy.103.c:0 "Espérons qu'ils puissent travailler ensemble pour de bon."
-
  r56_italy.107.t:0 "Victor Emmanuel III prend le pouvoir"
  r56_italy.107.d:0 "Avec la restauration complète en Italie, le roi Victor Emmanuel a pris le pouvoir pour le moment. Le roi a promis que le gouvernement organiserait un référendum sur la monarchie dans un an."
  r56_italy.107.a:0 "Un développement intéressant."
  ITA_referendum_year_tt:0 "Un §Yréférendum sur la monarchie§! sera organisé dans un an ; si une majorité vote contre la monarchie, de nouvelles élections auront lieu."
  r56_italy.107.b:0 "Longue vie à Victor Emmanuel III !"
-
  r56_italy.108.t:0 "Référendum sur la monarchie"
- r56_italy.108.d:0 "Ces derniers temps, [ITA.GetNameDef] a connu des moments difficiles, mais maintenant que le pouvoir est à nouveau consolidé et que la stabilité est rétablie, nous pouvons enfin nous tourner vers le sujet principal, la monarchie italienne.\n\nLa monarchie italienne a dirigé la nation et a agi comme une force unificatrice pour la péninsule, mais ces dernières années, elle a reçu de lourdes critiques pour avoir ouvertement soutenu le parti national fasciste de Mussolini. Certains appellent à l'éviction de la monarchie en faveur d'une nouvelle république italienne totalement indépendante et d'autres appellent à ce que Victor Emmanuel conserve sa position et continue à agir comme une force unificatrice dans la nouvelle Italie. Certains ont même suggéré qu'Emmanuel abdique le trône en faveur de son fils Umberto II afin d'agir comme un compromis.\n\nLe résultat final repose sur un référendum libre organisé par le peuple pour déterminer le sort de la monarchie, tandis que le sort de la monarchie italienne, qui dure depuis des décennies, est dans la balance." #pro-monarchy
- r56_italy.108.d2:0 "Aujourd'hui marque un jour historique dans l'histoire de l'Italie. L'abolition de la monarchie a été votée, le sort du roi Umberto et de sa famille reste inconnu." #anti-monarchy
+ r56_italy.108.desc:0 "Ces derniers temps, [ITA.GetNameDef] a vécu des moments difficiles, mais maintenant que le pouvoir est à nouveau consolidé et que la stabilité est restaurée, nous pouvons enfin nous tourner vers le sujet principal, la monarchie d'Italie.\n\nLa monarchie d'Italie a dirigé la nation et agi comme une force unificatrice pour la péninsule, mais ces dernières années, elle a reçu de lourdes critiques pour avoir ouvertement soutenu le parti national fasciste de Mussolini. Certains appellent à l'éviction de la monarchie en faveur d'une nouvelle république italienne totalement indépendante et d'autres appellent à ce que Victor Emmanuel conserve sa position et continue à agir comme une force unificatrice dans la nouvelle Italie, certains ont même suggéré qu'Emmanuel abdique le trône à son fils Umberto II pour agir comme un compromis.\n\nLe résultat final repose sur un référendum libre organisé par le peuple pour déterminer le sort de la monarchie, tandis que le sort de la monarchie italienne, qui dure depuis des décennies, est dans la balance."
+ r56_italy.108.d2:0 "Aujourd'hui marque un jour historique dans l'histoire de l'Italie. L'abolition de la monarchie a été votée, le sort du roi Umberto et de sa famille reste inconnu."
  r56_italy.108.a:0 "Bien que malmené, Victor Emmanuel III est le seul roi pour l'Italie."
  r56_italy.108.b:0 "Forcer Victor Emmanuel à abdiquer en faveur de son fils, Umberto II."
  r56_italy.108.c:0 "La monarchie a mis l'Italie à genoux, elle doit disparaître."
  r56_italy.108.d:0 "Umberto II agira comme un roi plus fidèle."
-
  r56_italy.109.t:0 "Victor Emmanuel abdique"
  r56_italy.109.d:0 "Ayant vu ses pouvoirs réduits sous la pression des Alliés et étant controversé pour sa collaboration avec Mussolini, le roi Emmanuel a décidé d'abdiquer. La monarchie, désormais représentée par le fils d'Emmanuel, Umberto II, plus populaire, a de meilleures chances de l'emporter lors du prochain référendum."
  r56_italy.109.a:0 "Bien."
-
- # Ideas
  ITA_lack_of_powered_planes:0 "Manque de moteurs puissants"
  ITA_lack_of_powered_planes_desc:0 "Une des faiblesses de l'aviation italienne est le manque de puissance des appareils produits, qui a des répercussions sur le reste de l'équipement des avions.\nUne modernisation majeure de nos chaînes de production de moteurs est nécessaire pour résoudre ce problème, qui rend nos appareils moins efficaces en termes de vitesse, quelque chose de très dommageable à une époque où les avions vont de plus en plus vite chaque année."
  ITA_bloated_military_bureaucracy:0 "Buraucratie militaire boursouflée"
@@ -242,42 +181,39 @@
  ITA_invite_andorra:0 "Inviter [ADR.GetNameDef]"
  ITA_invite_andorra_desc:0 "Nous allons élargir notre alliance ibérique en invitant [ADR.GetNameDef] dans notre faction."
  ITA_giannini_sarnow_protocols_ger:0 "Protocoles Giannini-Sarnow"
-
  soldier_king_2:0 "Roi-Soldat"
  umberto:0 "Umberto II"
-
-
  ITA_our_own_sphere:0 "Notre propre sphère"
- ITA_our_own_sphere_desc:0 "" #//WIP
+ ITA_our_own_sphere_desc:0 ""
  ITA_territorial_deal_with_yugoslavia:0 "Accord territorial avec la Yougoslavie"
- ITA_territorial_deal_with_yugoslavia_desc:0 "" #//WIP
+ ITA_territorial_deal_with_yugoslavia_desc:0 ""
  ITA_approach_hungary:0 "Se rapprocher de la Hongrie"
  ITA_approach_hungary_desc:0 "La Hongrie a des intérêts communs avec nous, à savoir la partition de la Yougoslavie. Les intégrer dans notre alliance nous permettrait aussi à terme d'espérer un conflit avec la Roumanie, permettant de l'intégrer à notre sphère d'influence."
  ITA_our_latin_brothers:0 "Nos frères latins"
  ITA_our_latin_brothers_desc:0 "Nous partageons d'importantes racines culturelles avec la Roumanie, et n'oublions pas son grand potentiel comme allié du fait de ses nombreuses réserves de pétrole. Rechercher une alliance avec eux ne pourrait que nous être bénéfique."
  ITA_garantee_austria:0 "ITA_garantee_austria"
  ITA_guarantee_austria:0 "Garantir l'Autriche"
- ITA_guarantee_austria_desc:0 "" #//WIP
+ ITA_guarantee_austria_desc:0 ""
  ITA_align_bulgaria:0 "Aligner la Bulgarie"
- ITA_align_bulgaria_desc:0 "" #//WIP
+ ITA_align_bulgaria_desc:0 ""
  ITA_claims_on_france2:0 "Revendications sur la France"
  ITA_claims_on_france2_desc:0 "Notre domination à l'est étant assurée, il est temps pour nous de reprendre toutes les terres italiennes légitimes que les Français nous ont toujours refusées, à savoir la Corse, la Savoie et la Tunisie."
  ITA_expand_aviation_research_facilities:0 "Étendre les installations de recherche de l'aviation"
- ITA_expand_aviation_research_facilities_desc:0 "" #//WIP
+ ITA_expand_aviation_research_facilities_desc:0 ""
  ITA_expand_aviation_research:0 "Étendre la recherche aérienne"
- ITA_expand_aviation_research_desc:0 "" #//WIP
+ ITA_expand_aviation_research_desc:0 ""
  ITA_reclaim_antalya:0 "Réclamer Antalya"
- ITA_reclaim_antalya_desc:0 "" #//WIP
+ ITA_reclaim_antalya_desc:0 ""
  ITA_ally_spain:0 "S'allier à l'Espagne"
- ITA_ally_spain_desc:0 "" #//WIP
+ ITA_ally_spain_desc:0 ""
  ITA_intervene_in_spain:0 "Intervenir en Espagne"
  ITA_intervene_in_spain_desc:0 "L'échec des nationalistes en Espagne et l'avènement d'un régime d'orientation communiste représente un danger pour la sécurité de toute l'Europe. S'il ne s'effondre pas de l'intérieur, nous le ferons tomber de l'extérieur."
  ITA_approach_portugal:0 "Se rapprocher du Portugal"
- ITA_approach_portugal_desc:0 "" #//WIP
+ ITA_approach_portugal_desc:0 ""
  ITA_victory_in_ethiopia:0 "Victoire en Éthiopie"
  ITA_victory_in_ethiopia_desc:0 "Après des décennies d'humiliation, nous avons finalement réussi à nous débarrasser des souillures de notre défaite contre l'Éthiopie. Une telle victoire ne peut que renforcer la confiance du peuple dans le gouvernement de Mussolini."
  ITA_the_desillusion_of_fascism:0 "La désillusion du fascisme"
- ITA_the_desillusion_of_fascism_desc:0 "" #//WIP
+ ITA_the_desillusion_of_fascism_desc:0 ""
  ITA_revive_the_stresa_front:0 "Raviver le Front de Stresa"
  ITA_revive_the_stresa_front_desc:0 "Le Front de Stresa était un accord entre l'Italie, la France et le Royaume-Uni pour préserver l'indépendance de l'Autriche, ainsi que pour réaffirmer le Traité de Versailles. Il est clair que les ambitions de l'Allemagne vont finir par se confronter aux nôtres, aussi devrions-nous nous unir contre elles."
  ITA_revive_the_stresa_front_tt:0 "Nous demanderons au §YRoyaume-Uni§! et à la §YFrance§! de reformer le §YFront de Stresa§! contre l'§YAllemagne§!. Tous deux doivent accepter l'offre, sans quoi la priorité sera §Rabandonnée§!.\n"
@@ -293,7 +229,7 @@
  ITA_cooperation_with_germany:0 "Coopération avec l'Allemagne"
  ITA_cooperation_with_germany_desc:0 "Comme nous, les Allemands cherchent à se venger des puissances de l'Entente. Il serait dans notre intérêt de nous associer avec eux afin de créer un front commun."
  ITA_joint_austrian_gaurantee:0 "Garantie conjointe de l'Autriche"
- ITA_joint_austrian_gaurantee_desc:0 "Depuis des années maintenant, l'Allemagne a eu des vues sur l'Autriche dans son projet d'"Anschluss", malgré la claire violation que ce serait, tant du Traité de Versailles que du Traité de Saint-Germain-en-Laye. Une garantie commune venant de nos alliés et nous l'empêchera."
+ ITA_joint_austrian_gaurantee_desc:0 "Depuis des années maintenant, l'Allemagne a eu des vues sur l'Autriche dans son projet d'\"Anschluss\", malgré la claire violation que ce serait, tant du Traité de Versailles que du Traité de Saint-Germain-en-Laye. Une garantie commune venant de nos alliés et nous l'empêchera."
  protected_by_the_stresa_front_flag:0 "Protégée par le Front de Stresa"
  ITA_joint_austrian_gaurantee_tt:0 "L'Autriche refusera désormais §Gtoujours§! l'§YAnschluss§!\n"
  ITA_scientific_cooperation:0 "Coopération scientifique"
@@ -316,9 +252,9 @@
  ITA_the_spanish_question_republican:0 "§YSi les Républicains ont gagné :§!\n"
  ITA_the_spanish_question_nationalists:0 "§gSi les Nationalistes ont gagné :§!\n"
  ITA_claims_in_africa:0 "Revendications en Afrique"
- ITA_claims_in_africa_desc:0 "" #//WIP
+ ITA_claims_in_africa_desc:0 ""
  ITA_influence_iberia:0 "Influencer l'Ibérie"
- ITA_influence_iberia_desc:0 "" #//WIP
+ ITA_influence_iberia_desc:0 ""
  ITA_officialize_the_albanian_protectorate:0 "Légitimer le protectorat albanais"
  ITA_formalize_the_albanian_protectorate:0 "Formaliser le protectorat albanais"
  ITA_formalize_the_albanian_protectorate_desc:0 "Sans aller jusqu'à une annexion directe, l'établissement d'une plus grande supervision italienne des prises de décisions politiques en Albanie serait suffisant pour en faire un protectorat officiel, sans attirer la colère des Alliés."
@@ -337,7 +273,7 @@
  ITA_mobilize_womens:0 "Nuova Italiana"
  ITA_mobilize_womens_desc:0 "Notre conquête de l'Éthiopie représente l'occasion parfaite pour mobiliser les femmes dans la construction de l'empire italien. Les groupes de femmes fascistes étendront leur rôle pour recouvrir des fonctions telles que donner des cours sur comment lutter contre le gaspillage domestique."
  ITA_expand_the_OVRA:0 "Renforcer l'OVRA"
- ITA_expand_the_OVRA_desc:0 "L'Organizzazione per la Vigilanza e la Repressione dell'Antifascismo est un réseau de police secrète conçu pour éliminer les antifascistes, écraser les partisans et protéger le régime de Musolini. Avec les temps difficiles qui s'annoncent, il est important d'étendre leurs opérations et de renforcer encore le régime."
+ ITA_expand_the_OVRA_desc:0 "The Organizzazione per la Vigilanza e la Repressione dell'Antifascismo is a secret police network designed to root out anti-fascists, crush partisans and protect Mussolini's regime, with potential dire times ahead of us it is important we expand their operations and strengthen the regime further."
  ITA_reorganize_the_unpa:0 "Réorganiser l'UNPA"
  ITA_reorganize_the_unpa_desc:0 "L'Union Nationale pour la Défense Aérienne a été créée pour la défense civile en 1934, mais elle doit maintenant être réorganisée pour définir son rôle en temps de paix."
  ITA_resume_food_importation:0 "Réimporter de la nourriture"
@@ -457,9 +393,9 @@
  ITA_victory_in_the_civil_war:0 "Victoire dans la Guerre civile"
  ITA_victory_in_the_civil_war_desc:0 "Nous avons finalement éliminé les traitres fascistes de notre belle nation italienne. La reconstruction prendra du temps, mais nous avançons en sachant que nous avons évite le pire."
  ITA_restore_elections:0 "Rétablir les élections"
- ITA_restore_elections_desc:0 "" #//WIP
+ ITA_restore_elections_desc:0 ""
  ITA_a_guiding_hand:0 "Une main pour se guider"
- ITA_a_guiding_hand_desc:0 "" #//WIP
+ ITA_a_guiding_hand_desc:0 ""
  ITA_expand_the_iri_role_desc:0 "Fondé dans le but de sauver, restructurer et financer les banques et compagnies qui ont fait faillite durant la Grande dépression, cette institution s'est retrouvée en possession de nombreuses banques italiennes. Étendre le contrôle de celle-ci à une plus grande part de l'économie en ferait un élément central de notre restructuration économique après la crise."
  ITA_po_valley_mettalurgy:0 "Métallurgie de la vallée du Po"
  ITA_po_valley_mettalurgy_desc:0 "La plaine du Po abrite une grande part de l'industrie italienne, en particulier métallurgique, notamment à Turin et Gênes. Cette industrie est vitale et devrait être soutenue en priorité."
@@ -549,19 +485,11 @@
  ITA_redirect_military_fundings_desc:0 "Bien que le budget militaire soit élevé, il est surtout utilisé pour maintenir l'armée et les troupes plutôt que pour la production. Nous devrions allouer une plus grosse part de notre budget déjà très élevé à l'extension de notre capacité de production d'armes."
  ITA_war_with_britain:0 "Guerre au Royaume-Uni"
  ITA_war_with_britain_desc:0 "Il est maintenant temps de défaire le Royaume-Uni et de gagner ainsi la supériorité sur la Méditerranée pour en faire un lac italien !"
- ITA_german_military_assistance:0 "Assistance militaire allemande"
- ITA_german_military_assistance_desc:0 "Nous pouvons apprendre beaucoup de la Wehrmacht. En invitant des officiers allemands à inspecter les troupes italiennes, elles auront le même niveau de préparation que celles de l'Allemagne."
- ITA_giannini_sarnow_protocols:0 "Protocoles Giannini-Sarnow"
- ITA_giannini_sarnow_protocols_desc:0 "Pour lutter contre le chômage, nous avons signé un accord avec l'Allemagne pour permettre à des milliers de travailleurs italiens de travailler en Allemagne, notamment dans les usines Volkswagen."
- ITA_redirect_military_fundings:0 "Rediriger les financements militaires"
- ITA_redirect_military_fundings_desc:0 "Bien que le budget militaire soit élevé, il est surtout utilisé pour maintenir l'armée et les troupes plutôt que pour la production. Nous devrions allouer une plus grosse part de notre budget déjà très élevé à l'extension de notre capacité de production d'armes."
- ITA_war_with_britain:0 "Guerre au Royaume-Uni"
- ITA_war_with_britain_desc:0 "Il est maintenant temps de défaire le Royaume-Uni et de gagner ainsi la supériorité sur la Méditerranée pour en faire un lac italien !"
  ITA_regia_marina_2:0 "Regia Marina"
  ITA_regia_marina_2_desc:0 "Pendant longtemps, le gouvernement italien a mis l'accent sur la modernisation de la Regia Marina, plus que sur l'armée ou l'aviation, dans le but de contrôler totalement la Méditerranée."
  ITA_cavagnari_plan:0 "Plan de Cavagnari"
  ITA_cavagnari_plan_desc:0 "Domenico Cavagnari a été promu chef de la marine en 1933, puis secrétaire de la marine. Il a une approche conservatrice du combat maritime, consistant à produire des croiseurs, destroyeurs et sous-marins."
- ITA_new_navy_leadership:0 "Nouvelle direction maritime" #//WIP
+ ITA_new_navy_leadership:0 "Nouvelle direction maritime"
  ITA_submarines_suppremacy:0 "Suprématie des sous-marins"
  ITA_appoint_campioni:0 "Nommer Campioni"
  ITA_appoint_campioni_desc:0 "Inigo Campioni serait un bien meilleur chef de la marine. Plutôt que de multiplier les petits navires et sous-marins, le développement des cuirassés devrait être notre priorité."
@@ -591,7 +519,7 @@
  ITA_secure_control_over_parliament:0 "Contrôle du Parlement"
  ITA_secure_control_over_parliament_desc:0 "Le parlement a été à l'origine de nombreuses crises politiques internes au pays et a souvent mis notre nation à genoux. Pour arrêter la progression de tout incident futur, nous ne dissoudrons pas directement le parlement, mais nous nous assurerons que chacun sait à qui il est loyal."
  ITA_restore_the_statuto_albertino:0 "Restaurer le Statuto Albertino"
- ITA_restore_the_statuto_albertino_desc:0 "Le Statuto Albertino est la constitution de notre nation depuis 1848, mais sous le régime fasciste, il a été lourdement modifié et massacré au point d'être à peine reconnaissable de ses principes fondateurs, nous devons le restaurer dans son état original et libérer le parlement une fois de plus."
+ ITA_restore_the_statuto_albertino_desc:0 "The Statuto Albertino has been the constitution of our nation since 1848 but under the fascist regime it has been heavily modified and butchered to the point where it is barely recognisable of it's founding principles, we must restore it to it's orginal self and free the parliament once again."
  ITA_royal_militarism:0 "Militarisme royal"
  ITA_royal_militarism_desc:0 "L'armée royale se souviendra des victoires de la Grande Guerre et suivra l'inspiration de notre glorieux roi soldat."
  ITA_control_the_industrial_elites:0 "Contrôler les élites industrielles"
@@ -609,9 +537,9 @@
  ITA_disband_the_partisans:0 "Dissoudre les partisans"
  ITA_disband_the_partisans_desc:0 "Les partisans communistes nous ont bien servi, mais maintenant que la guerre civile est terminée, ils sont devenus une menace bien trop grande, nous devons les dissoudre tant que nous le pouvons avant qu'ils ne commencent à avoir des idées."
  ITA_liberalize_our_industries:0 "Libéraliser nos industries"
- ITA_liberalize_our_industries_desc:0 "La nationalisation et le contrôle étroit des industries, bien que réussis au départ, se sont avérés inefficaces à long terme. Pour assurer notre stabilité économique, nous allons permettre aux industries de fonctionner librement à nouveau."
+ ITA_liberalize_our_industries_desc:0 "Nationalization and tight control of industries while at first successful has proven to be ineffective in the long term, to ensure our economic stability we will allow industries to freely operate once again."
  ITA_defenders_of_southern_europe:0 "Les défenseurs de l'Europe du Sud"
- ITA_defenders_of_southern_europe_desc:0 "" #//WIP
+ ITA_defenders_of_southern_europe_desc:0 ""
  ITA_formalise_the_front:0 "Officialiser le front"
  ITA_formalise_the_front_desc:0 "Il est temps de faire du Front de Stresa plus qu'une simple promesse, il est temps d'unir nos nations dans une alliance militaire commune pour tenir la bête allemande à distance."
  ITA_formalise_the_front_tt:0 "§YTous les pays§! qui sont dans la faction [ENG.GetDuDelaDelNP] §Y[ENG.GetName]§! rejoindront le §YFront de Stresa§! dirigé par §Y[ITA.GetNameDef]§!."
@@ -622,13 +550,8 @@
  ITA_a_way_out:0 "Une issue"
  ITA_second_risorgimento:0 "Deuxième Risorgimento"
  ITA_second_risorgimento_desc:0 "Le rêve d'une Italie unifiée est une fois de plus à notre portée. Fratelli d'Italia, l'Italia s'è desta !"
-
-
-#Leaders
-POLITICS_ITALO_BALBO:0 "Italo Balbo"
-POLITICS_ITALO_BALBO_DESC: "Italo Balbo"
-
-#Ideas
+ POLITICS_ITALO_BALBO:0 "Italo Balbo"
+ POLITICS_ITALO_BALBO_DESC: "Italo Balbo"
  vittoria_mutilata:0 "Vittoria Mutilata"
  vittoria_mutilata_desc:0 "§LEn rompant le traité de Londres, nos alliés ont trahi l'Italie. Après leur avoir permis de remporter la victoire en donnant notre sang lors des batailles de l'Isonzo, ils nous ont refusé ce qui nous revenait de droit. Aujourd'hui, l'Italie est seul maître de son destin et elle veillera à ce que justice soit faite.§!"
  giovanni_messe:0 "Giovanni Messe"
@@ -642,62 +565,46 @@ POLITICS_ITALO_BALBO_DESC: "Italo Balbo"
  ITA_junio_valerio_borghese:0 "Junio Valerio Borghese"
  ITA_paolo_thaon_di_revel:0 "Paolo Thaon di Revel"
  ITA_liberalize_our_industries_idea:0 "Libéralisation de l'industrie"
- ITA_liberalize_our_industries_idea_desc:0 "La nationalisation et le contrôle étroit des industries, bien que réussis au départ, se sont avérés inefficaces à long terme. Pour assurer notre stabilité économique, nous allons permettre aux industries de fonctionner librement à nouveau."
+ ITA_liberalize_our_industries_idea_desc:0 "Nationalization and tight control of industries while at first successful has proven to be ineffective in the long term, to ensure our economic stability we will allow industries to freely operate once again."
  italo_balbo_pol:0 "Italo Balbo"
  victor_emmanuel:0 "Vittorio Emanuele III"
-
-## Companies
-ansaldo_navy:0 "Ansaldo"
-ansaldo_navy_research:0 "Ansaldo"
-scrm:0 "Società Romana Costruzioni Meccaniche"
-fnab:0 "FNAB"
-scotti:0 "Scotti"
-ansaldo:0 "Gio. Ansaldo & C."
-ansaldo_tank:0 "Ansaldo"
-agip:0 "AGIP"
-glisenti:0 "Glisenti"
-metallurgica_bresciana:0 "Metallurgica Bresciana"
-franco_tosi:0 "Franco Tosi"
-isotta_fraschini:0 "Isotta Fraschini"
-bianchi:0 "Bianchi"
-officine_meccaniche:0 "Officine Meccaniche"
-fratelli_nardi:0 "Fratelli Nardi"
-astaldi:0 "Astaldi"
-pirelli:0 "Pirelli"
-maserati:0 "Maserati"
-giannini:0 "Giannini"
-ducati:0 "Ducati"
-bombrini_parodi_delfino:0 "Bombrini Parodi Delfino"
-acraf_roma:0 "A.C.R.A.F"
-ferrari:0 "Auto Costruzioni Ferrari"
-societa_meridionale_elettricita:0 "Società Meridionale di Elettricità"
-societa_montecatini:0 "Società Montecatini"
-ferrovie_meridionali_sarde:0 "Ferrovie Meridionali Sarde"
-scotti:0 "Scotti"
-astaldi:0 "Astaldi"
-pirelli:0 "Pirelli"
-ITA_finsider:0 "Finsider"
-ITA_aeronautica_lombarda:0 "Aeronautica Lombarda"
-
-#Traits
-ansaldo_tank_manufacturer:0 "Concepteur de chars"
-ansaldo_navy_manufacturer:0 "Architecte naval"
-fondatore_dell_impero:0 "Fondatore dell'impero"
-
-
-ITA_RSI_fascism:0 "République socialiste d'Italie"
-
-#Faction
-stresa_front_faction:0 "Front de Stresa"
-
-#Avanti!
-ABILITY_avanti:0 "Avanti !"
-ABILITY_avanti_desc:0 "Avanti ! Avanti !"
-
-ITA_ethiopian_war:0 "La guerre d'Éthiopie"
-ITA_ethiopian_war_desc:0 "L'Italie doit terminer la conquête de l'Éthiopie pour avoir enfin son empire."
-r56_ITA_vanquish_ethiopia:0 "Vaincre l'Éthiopie"
-
-
-SAD_move_capital_to_turin:0 "Déplacer la capitale à Turin"
-ITA_REBORN_move_capital_to_rome:0 "Déplacer la capitale à Rome"
+ ansaldo_navy:0 "Ansaldo"
+ ansaldo_navy_research:0 "Ansaldo"
+ scrm:0 "Società Romana Costruzioni Meccaniche"
+ fnab:0 "FNAB"
+ ansaldo:0 "Gio. Ansaldo & C."
+ ansaldo_tank:0 "Ansaldo"
+ agip:0 "AGIP"
+ glisenti:0 "Glisenti"
+ metallurgica_bresciana:0 "Metallurgica Bresciana"
+ franco_tosi:0 "Franco Tosi"
+ isotta_fraschini:0 "Isotta Fraschini"
+ bianchi:0 "Bianchi"
+ officine_meccaniche:0 "Officine Meccaniche"
+ fratelli_nardi:0 "Fratelli Nardi"
+ maserati:0 "Maserati"
+ giannini:0 "Giannini"
+ ducati:0 "Ducati"
+ bombrini_parodi_delfino:0 "Bombrini Parodi Delfino"
+ acraf_roma:0 "A.C.R.A.F"
+ ferrari:0 "Auto Costruzioni Ferrari"
+ societa_meridionale_elettricita:0 "Società Meridionale di Elettricità"
+ societa_montecatini:0 "Società Montecatini"
+ ferrovie_meridionali_sarde:0 "Ferrovie Meridionali Sarde"
+ scotti:0 "Scotti"
+ astaldi:0 "Astaldi"
+ pirelli:0 "Pirelli"
+ ITA_finsider:0 "Finsider"
+ ITA_aeronautica_lombarda:0 "Aeronautica Lombarda"
+ ansaldo_tank_manufacturer:0 "Concepteur de chars"
+ ansaldo_navy_manufacturer:0 "Architecte naval"
+ fondatore_dell_impero:0 "Fondatore dell'impero"
+ ITA_RSI_fascism:0 "République socialiste d'Italie"
+ stresa_front_faction:0 "Front de Stresa"
+ ABILITY_avanti:0 "Avanti !"
+ ABILITY_avanti_desc:0 "Avanti ! Avanti !"
+ ITA_ethiopian_war:0 "La guerre d'Éthiopie"
+ ITA_ethiopian_war_desc:0 "L'Italie doit terminer la conquête de l'Éthiopie pour avoir enfin son empire."
+ r56_ITA_vanquish_ethiopia:0 "Vaincre l'Éthiopie"
+ SAD_move_capital_to_turin:0 "Déplacer la capitale à Turin"
+ ITA_REBORN_move_capital_to_rome:0 "Déplacer la capitale à Rome"

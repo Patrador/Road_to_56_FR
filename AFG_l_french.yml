@@ -1,23 +1,17 @@
 ﻿l_french:
-
-#parties
-
  AFG_communism_party:0 "AKDG"
  AFG_commnism_party_long:0 "Afghanistān da khalq dimukrātīk gund"
  AFG_democratic_party:0 "HEM"
  AFG_democratic_party_long:0 "Hezb Enqilab Mile"
  AFG_neutrality_party:0 "Barakzai"
  AFG_neutrality_party_long:0 "Maison Barakzai"
-
- #ideas
-
- defend:0 "Le cimetière des empires" 
+ defend:0 "Le cimetière des empires"
  defend_desc:0 "L'invasion de l'Afghanistan au cours de l'histoire a été problématique, même pour les empires les plus puissants. La soumission totale du peuple [AFG.GetAdjMS] n'est pas chose facile."
  AFG_shah_mahmud_khan:0 "Shah Mahmud Khan"
  AFG_shah_wali_khan:0 "Shah Wali Khan"
  AFG_turabaz_khan:0 "Turabaz Khan"
- AFG_a_s_lancaster:0 "A. S. Lancaster" #attaché in Kabul then visited them for talks.
- AFG_gerd_kessler:0 "Gerd Kessler" #Brandenburger spy/commando sent to Afghanistan to lead small raids in India through Waziristan.
+ AFG_a_s_lancaster:0 "A. S. Lancaster"
+ AFG_gerd_kessler:0 "Gerd Kessler"
  AFG_tribal_based_military:0 "Armée basée sur les tribus"
  AFG_tribal_based_military_desc:0 "L'armée nationale [AFG.GetAdjFS] est très dépendante des mercenaires tribaux pour remplir ses rangs, tandis qu'une infime partie est constituée de soldats professionnels."
  AFG_tribal_based_military_adopt_guerilla_tactics:0 "Armée basée sur les tribus"
@@ -36,9 +30,6 @@
  AFG_tribal_based_military_kabul_military_institute_desc:0 "L'Institut militaire de Kaboul, récemment créé, permet à nos jeunes officiers et chefs tribaux de recevoir une formation complète en tactique militaire afin de préparer le terrain pour une armée nationale [AFG.GetAdjFS] professionnelle. Cependant, l'armée de l'air [AFG.GetAdjFS] est toujours fortement négligée et connaît un développement lent."
  AFG_tribal_based_military_airforce_is_cool:0 "Institut militaire de Kaboul"
  AFG_tribal_based_military_airforce_is_cool_desc:0 "L'Institut militaire de Kaboul, récemment créé, permet à nos jeunes officiers et chefs tribaux de recevoir une formation complète en tactique militaire afin de préparer la voie à une armée nationale et une armée de l'air professionnelles [AFG.GetAdjFP]."
-
- #army tree
-
  AFG_national_army:0 "Armée nationale [AFG.GetAdjFS]"
  AFG_national_army_desc:0 ""
  AFG_expand_tribal_army:0 "Développer l'armée tribale"

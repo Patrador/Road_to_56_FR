@@ -1,24 +1,18 @@
 ﻿l_french:
-
  r56_israel.1.t:0 "Commandants prometteurs de la Haganah"
- r56_israel.1.desc:0 "L'expérience accumulée dans la Haganah a permis l'ascension de jeunes officiers talentueux. L'un d'eux est Moshe Dayan, il connaît le terrain et a une approche très rusée et agressive de la guerre." 
+ r56_israel.1.desc:0 "L'expérience accumulée dans la Haganah a permis l'ascension de jeunes officiers talentueux. L'un d'eux est Moshe Dayan, il connaît le terrain et a une approche très rusée et agressive de la guerre."
  r56_israel.1.a:0 "Excellent."
-
  ISR_special_night_squads_idea:0 "Brigades spéciales de nuit"
  ISR_jewish_emigration:0 "Émigration juive"
  ISR_zionist_consensus:0 "Consensus sioniste"
  ISR_defense_of_zion:0 "Défense de Sion"
-
  ISR_1936:0 "Milice de la Haganah"
-
  ISR_encourage_hebraic_settlement:0 "Encourager la colonisation hébraïque"
  ISR_encourage_hebraic_settlement_desc:0 "Encourager la colonisation hébraïque"
  ISR_national_higher_education:0 "Éducation nationale supérieure"
-
  ISR_raise_jewish_militias:0 "Créer des milices juives"
  ISR_formalize_military:0 "Formaliser la structure militaire"
  ISR_desert_specialization:0 "Spécialisation du désert"
- 
  ISR_provisional_government:0 "Faire de Tel-Aviv la capitale"
  ISR_provisional_government_desc:0 "Faire de Tel-Aviv la capitale"
  ISR_link_communities:0 "Relier les communautés"
@@ -44,6 +38,4 @@
  ISR_form_the_mossad:0 "Former le Mossad"
  ISR_world_wide_spy_web:0 "Réseau mondial d'espionnage"
  ISR_no_other_place_than_zion:0 "Pas d'autre endroit que Sion"
-
- 
  ISR_israeli_military_industies:0 "Industries militaires israéliennes"

@@ -1,6 +1,4 @@
 ﻿l_french:
-#Carpatho-Russian Labour Party of Small Peasants and Landless democratic/neutral
-#Fencik party fusionned with agrarian union lead by andrej brody
  RUT_fascism_party:0 "Fencik"
  RUT_fascism_party_long:0 "Parti Fencik"
  RUT_oun_radicals_party:0 "OUN-B"
@@ -11,8 +9,6 @@
  RUT_neutrality_party_long:0 "Orhanizatsiya Ukrayins'kykh Natsionalistiv-M"
  RUT_communism_party:0 "NRZU"
  RUT_communism_party_long:0 "Narodnoyi Rady Zakarpatskoyi Ukrayiny"
-
-
  RUT_stepan_rosokha:0 "Stepan Rosokha"
  RUT_andrej_brodij:0 "Andrej Brodij"
  RUT_stepan_klochurak:0 "Stepan Klochurak"
@@ -26,7 +22,6 @@
  RUT_oleksa_borkaniuk:0 "Oleksa Borkaniuk"
  RUT_joszef_gati:0 "József Gati"
  RUT_ivan_lokota:0 "Ivan Lokota"
-
  RUT_ivan_turianytsia_army:0 "Ivan Turianytsia"
  RUT_ivan_roman:0 "Ivan Roman"
  RUT_andriy_melnyk:0 "Andriy Melnyk"
@@ -35,7 +30,6 @@
  RUT_stefan_rosocha:0 "Stefan Rosocha"
  RUT_yuriy_lopatynsky:0 "Yuriy Lopatynsky"
  RUT_roman_chukhevytch:0 "Roman Chukhevytch"
-
  RUT_idea_oun_militias:0 "Milices de l'OUN"
  RUT_idea_conscript_management:0 "Gestion des conscrits"
  RUT_idea_hungarian_advisors:0 "Conseillers hongrois"
@@ -44,12 +38,9 @@
  RUT_military_government:0 "Gouvernement militaire de l'OUN"
  RUT_ukrainian_revanchism_focus:0 "Revanchisme ukrainien"
  RUT_underground_gun_shops:0 "Ateliers d'armes clandestins"
-
  RUT_trade_treaty_with_hungary:0 "Commerce ruthéno-hongrois"
  RUT_ROM_diplomacy_focus:0 "Relations ruthéno-roumaines"
  RUT_POL_diplomacy_focus:0 "Relations ruthéno-polonaises"
-
- #military
  RUT_carpathian_sich:0 "Former le Sich des Carpates"
  RUT_carpathian_sich_desc:0 "Il est temps pour nous d'organiser une force de combat nationale. Cet embryon d'armée s'appellera le « sich », comme les volontaires de la République d'Ukraine occidentale."
  RUT_equipment_effort:0 "Améliorer l'équipement de l'infanterie"
@@ -84,8 +75,6 @@
  RUT_special_forces_desc:0 "Parfois, la situation devient trop spécifique pour le fantassin régulier. Dans ces situations, des hommes spécialement entraînés doivent être appelés à faire le travail. Dans les montagnes, dans l'eau ou dans les airs, ces troupes spéciales peuvent faire la différence et accomplir des actes héroïques bien au-delà de ceux du soldat régulier."
  RUT_military_modernization:0 "Modernisation militaire"
  RUT_military_modernization_desc:0 "Maintenant que nous maîtrisons toutes les techniques de la guerre moderne, nous ne devons pas nous arrêter là mais poursuivre notre effort. Ce n'est que par une remise en question constante de la validité et de l'efficacité de nos pratiques et de nos équipements que nous pourrons les améliorer à long terme."
-
- #aviation - naval
  RUT_short_range_fighter_focus:0 "Chasseurs à courte portée"
  RUT_short_range_fighter_focus_desc:0 "Comme notre territoire est petit, nous n'aurons pas besoin de voler très loin pour lutter pour la sécurité de nos cieux. C'est pourquoi nous pouvons nous concentrer sur des chasseurs petits et agiles."
  RUT_long_range_fighter_focus:0 "Chasseurs à longue portée"
@@ -98,7 +87,6 @@
  RUT_compromised_approach_desc:0 "Si nous pouvons larguer suffisamment de bombes sur les divisions ennemies, nous les ferons voler en éclats. En même temps, si nous larguons ces mêmes bombes sur les usines ennemies, nous serons en mesure de paralyser leur capacité de combat."
  RUT_form_mechanics:0 "Former des mécaniciens"
  RUT_form_mechanics_desc:0 "Au bout du compte, quelle est la différence entre un avion abattu par des balles ennemies, par un incendie soudain du moteur ou un avion incapable de voler en raison de défaillances mécaniques si nous ne pouvons pas les réparer ?  Afin de réduire les risques de défaillances mécaniques, la seule solution est de disposer de mécaniciens dévoués et bien formés qui connaissent l'intérieur de ces avions mieux qu'un chirurgien ne connaît l'anatomie."
-
  RUT_aviation_effort:0 "Fonder l'école de l'air"
  RUT_aviation_effort_tt:0 "Emplacements de construction insuffisants pour des §Ybases aériennes§!."
  RUT_aviation_effort_desc:0 "Il n'est aucun domaine militaire qui connaît une évolution technologique aussi rapide que celui de l'aviation. Tout pays moderne se doit de maîtriser les airs."
@@ -130,8 +118,6 @@
  RUT_destroyer_effort_desc:0 "En étudiant la conception et l'utilisation stratégique possible du sous-marin, nous avons également appris comment le contrer. Pour cela, le destroyer a un rôle crucial à jouer."
  RUT_capital_ships_effort:0 "Intérêt dans les navires capitaux"
  RUT_capital_ships_effort_desc:0 "Toute nation voulant régner sur les mers doit aligner plus de grands vaisseaux que les autres, aussi bien des croiseurs de bataille que les tout nouveaux porte-avions."
-
- #industry
  RUT_food_processing_plant:0 "Usine de transformation des aliments"
  RUT_food_processing_plant_desc:0 "L'agriculture étant actuellement le fondement de notre économie, la meilleure façon de lancer l'industrialisation serait de s'assurer que le produit de notre terre est prêt à être stocké et vendu sur les marchés locaux et étrangers."
  RUT_construction_focus:0 "Technologies de construction"
@@ -151,8 +137,6 @@
  RUT_military_production_desc:0 "Pour faire face aux dangers de la guerre, les fusils ne suffisent pas et nous devons envisager des plans plus ambitieux pour équiper nos forces militaires."
  RUT_research_grants:0 "Subventions de recherche"
  RUT_research_grants_desc:0 "Nous devrons peut-être faire appel à quelques spécialistes, mais au moins nous pourrons les financer suffisamment pour concevoir un armement moderne pour nos soldats."
-
- #Politics
  RUT_a_free_rusyn_state:0 "Un État ruthénien libre"
  RUT_a_free_rusyn_state_desc:0 "Certains nous appelaient Tchécoslovaques, d'autres nous appelaient Ukrainiens. S'il est vrai que nous sommes les frères des Ukrainiens, nous ne sommes pas tout à fait comme eux. Nous sommes les derniers des Ruthéniens. Les derniers à rester debout, libres, pour l'instant."
  RUT_claim_no_territories:0 "Ne pas revendiquer de territoires étrangers"
@@ -231,7 +215,6 @@
  RUT_restore_civilian_government_desc:0 "Maintenant que les objectifs les plus essentiels ont été atteints, nous devons rétablir un organe démocratique afin de garantir que les institutions ne seront pas détournées à la fin de la guerre."
  RUT_ukraine_has_not_yet_perished2:0 "« L'Ukraine n'a pas encore péri »"
  RUT_ukraine_has_not_yet_perished2_desc:0 "Cette devise populaire utilisée par le nationalisme doit servir à la fois d'avertissement contre la possibilité de la destruction de notre État et de lumière d'espoir en ces temps sombres pour signifier que nous sommes toujours vivants, fiers et libres."
-
  RUT_approach_poland:0 "Se rapprocher de la Pologne"
  RUT_approach_poland_desc:0 "Nous avons des liens étroits avec la minorité ukrainienne du sud de la Pologne et nous devons utiliser tous les atouts disponibles pour convaincre le gouvernement polonais qu'il est dans son intérêt de s'allier avec nous."
  RUT_approach_romania:0 "Se rapprocher de la Roumanie"
@@ -242,8 +225,6 @@
  RUT_join_cordon_sanitaire_desc:0 "Afin de trouver la sécurité dans ce monde de plus en plus dangereux, nous devons chercher de l'aide de l'autre côté des montagnes et entrer dans l'alliance roumaine."
  RUT_join_little_entente:0 "Rejoindre la Petite Entente"
  RUT_join_little_entente_desc:0 "Avec la promesse de la France d'aider la Tchécoslovaquie, ce serait un bon moyen de rétablir les anciens liens pour les aider dans leur lutte contre l'agression étrangère."
-
-
  RUT_communist_influence:0 "Influence communiste"
  RUT_communist_influence_desc:0 "Cela a commencé par des tracts distribués dans les rues. Puis sont venus les orateurs de rue et les affiches de propagande appelant à l'autonomisation du prolétariat contre les capitalistes corrompus. La diffusion des idées communistes se fait sentir dans tous les aspects de la société et elle apportera des changements colossaux."
  RUT_request_to_join_big_brother:0 "Rejoindre le grand frère soviétique"
@@ -264,9 +245,7 @@
  RUT_technology_sharing_oun_desc:0 "Afin de coordonner les efforts des multiples ateliers qui expérimentent divers prototypes, nous devons organiser leur coopération dans le cadre d'un projet plus vaste qui permettra aux esprits les plus brillants de la nation de partager leurs idées plus efficacement pour le bien commun de chaque Ukrainien."
  RUT_technology_sharing_no_claims:0 "Partage technologique"
  RUT_technology_sharing_no_claims_desc:0 "Afin de ne pas prendre de retard dans un monde qui évolue rapidement, nous devons renforcer notre coopération avec nos alliés et leur garantir l'accès à des documents techniques précieux."
-
  RUT_carpathian_sich_tooltip:0 "Créer 2 petites divisions d'infanterie"
-
  RUT_national_unification:0 "Unification nationale"
  RUT_union_with_SOV:0 "Pétition pour l'unification avec [SOV.GetNamedef]"
  RUT_union_with_UKR:0 "Pétition pour l'unification avec [UKR.GetNamedef]"

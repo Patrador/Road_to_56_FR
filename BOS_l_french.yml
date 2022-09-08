@@ -1,12 +1,4 @@
 ﻿l_french:
- #BOS_fascism_party:0 ""
- #BOS_fascism_party_long:0 ""
- #BOS_communism_party:0 ""
- #BOS_communism_party_long:0 ""
- #BOS_democratic_party:0 ""
- #BOS_democratic_party_long:0 ""
- #BOS_neutrality_party:0 ""
- #BOS_neutrality_party_long:0 ""
  BOS_generic_fascist_demagogue:0 "Mile Budak"
  BOS_generic_democratic_reformer:0 "Ante Trumbić"
  BOS_generic_communist_revolutionary:0 "Vladimir Ćopić"
@@ -48,19 +40,14 @@
  BOS_muhamed_hadziefendic:0 "Muhamed Hadziefendic"
  CRO_sismundo_pejacevic:0 "Sismundo Pejacevic"
  CRO_mihajlo_tomasic:0 "Mihajlo Tomasic"
- 
- ### by Darkneon312
- 
  BOS_mehmed_spaho:0 "Mehmed Spaho"
  BOS_milutin_moraca:0 "Milutin Morača"
  BOS_rodoljub_colakovic:0 "Rodoljub Čolaković"
  BOS_slavko_rodic:0 "Slavko Rodić"
  BOS_ljubisa_curgus:0 "Ljubiša Ćurgus"
  BOS_nenad_drakulic:0 "Nenad Drakulić"
-
  BOS_generic_infantry_equipment_manufacturer:0 "Igman"
  BOS_generic_artillery_manufacturer:0 "Pretis d.d."
  BOS_generic_industrial_concern:0 "Zeljezara Zenica"
  BOS_destilacija_teslic:0 "Destilacija Teslić "
- 
  BOS_this_war_of_mine:0 "Cette guerre qui est la mienne"

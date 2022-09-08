@@ -1,22 +1,17 @@
 ﻿l_french:
  danzig_focus:0 "Priorités nationales de Dantzig"
-
  form_prussia_category:0 "Former la Prusse"
  form_prussia_category_desc:0 "L'histoire de Dantzig est largement mêlée à celle de la Prusse. Maintenant que nous contrôlons les territoires qui lui sont historiquement associés, il est peut-être temps pour nous d'assumer notre héritage prussien."
  form_prussia:0 "Former la Prusse"
-
  DNZ_join_germany:0 "Rejoindre l'Allemagne"
- r56_unite_DNZ_with_ger:0 "Dissoudre la cité-État"
-
+ r56_unite_DNZ_with_ger:0 "Dissolve the City-state"
  r56_DNZ_prussia_legacy:0 "Dantzig a déclaré son indépendance"
-
  DNZ_democratic_party:0 "Zentrum"
  DNZ_democratic_party_long:0 "Zentrum"
  DNZ_neutrality_party:0 "DNVP"
  DNZ_neutrality_party_long:0 "Deutschnationale Volkspartei"
  DNZ_fascism_party:0 "NSDAP - Dantzig"
  DNZ_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
-
  danzigerwerft:0 "Danzigerwerft"
  ernst_stieberitz:0 "Ernst Stieberitz"
  Danzig_ist_Deutsch:0 "Dantzig est allemand"
@@ -28,18 +23,15 @@
  DNZ_maintain_infrastructure_idea:0 "Entretien de l'infrastructure"
  DNZ_carl_jacob_burckhardt:0 "Carl Burckhardt - haut-commissaire"
  DNZ_carl_jacob_burckhardt_desc:0 "Burkchardt répondra beaucoup mieux aux besoins de Dantzig."
- DNZ_invite_foreign_investors:0 "Inviter des investisseurs étrangers"
  DNZ_invite_foreign_investors:0 "Le mandat de la Société des Nations nous donne des droits spéciaux en matière de fiscalité et de contrôle du commerce, qui peuvent être utilisés pour encourager les investissements étrangers dans notre État."
-
  DNZ_generic_democratic_reformer:0 "Hermann Rauschning"
  DNZ_generic_fascist_demagogue:0 "Wilhelm von Wnuck"
  DNZ_albert_forster:0 "Albert Forster"
  DNZ_edmund_beyl:0 "Edmund Beyl"
  DNZ_helmut_froboss:0 "Helmut Froböss"
  DNZ_helmut_froboss2:0 "Helmut Froböss"
-
  danzig.1.t:0 "La ville libre de Dantzig"
- danzig.1.desc:0 "Après la Grande Guerre, la ville libre de Dantzig a été créée afin d'assurer l'utilisation d'un port pour le nouvel État polonais renaissant. Ce compromis était nécessaire au lieu d'une annexion complète car la grande majorité de la population de Dantzig est d'origine allemande.\n\nLa montée de l'ultra-nationalisme en Allemagne a amené dans son sillage le contrôle total des institutions locales au NSDAP. Actuellement, les politiciens nazis qui ne souhaitent qu'une réunification avec l'Allemagne gardent un silence relatif, mais cela pourrait changer bientôt et dans le cas d'une crise, la ville-État disparaîtrait très probablement et serait annexée par la Pologne ou l'Allemagne."
+ danzig.1.desc:0 "After the Great War, the Free City of Danzig was established to ensure the use of a port for the newly reborn Polish state. This compromise was necessary instead of a complete annexation because the vast majority of the population of Danzig is ethnically German.\n\nThe rise of ultranationalism in Germany has brought total control of the local institutions to the NSDAP. Currently, those Nazi politicians' desire for reunification with Germany is kept relatively quiet, but this could change soon. The City-state would most likely disappear and be annexed by either Poland or Germany in a crisis."
  danzig.1.a:0 "Notre désir sera bientôt à notre portée"
  danzig.2.t:0 "Dantzig gagne en autonomie"
  danzig.2.desc:0 "Les récents changements intervenus dans les affaires internationales, en particulier ceux qui sont liés à la « ville libre » de Dantzig, ont conduit à l'abolition de cette « construction artificielle du traité de Versailles », rendant de fait l'existence possible de la nation « dantzigoise » telle qu'elle est. "
@@ -141,18 +133,12 @@
  DNZ_destroyer_effort_desc:0 "En étudiant la conception et l'utilisation stratégique des sous-marins, nous avons aussi appris comment contrer ces stratégies. Les destroyers joueront un rôle crucial à cet égard."
  DNZ_capital_ships_effort:0 "Priorité aux navires capitaux"
  DNZ_capital_ships_effort_desc:0 "La nation avec le plus grand nombre de cuirassés régnera sur les océans. Les cuirassés et les porte-avions représentent l'ancienne et la nouvelle supériorité navale."
-
  autonomy_mandate_city:0 "Ville mandataire"
  autonomy_free_city:0 "Ville libre"
  autonomy_protectorate:0 "Protectorat"
-
  DNZ_commissioner_removed:0 "Commissaire de Dantzig remplacé"
-
  POL_unlock_pressure_tt:0 "§Y Une condition préalable à la priorité « Faire pression sur Dantzig » a été remplie"
-
  DNZ_GER_betrayal:0 "Trahison allemande"
-
- #new
  Military_Police_Paramilitarization:0 "Paramilitarisation de la police militaire"
  DNZ_Schutzpolizei_Paramilitarization_tt:0 "Active la §Hparamilitarisation de la police militaire§!\n§HPolice militaire§!:\n  Percée : §G+25%§!\n   Organisation max. : §G+3§!\n\n"
  DNZ_Special_Forces_Focus_tt:0 "Active la §Hpriotité aux force spéciales§!\n   Multiplicateur de capacité des forces spéciales : §G+10%§!\n\n"
@@ -161,7 +147,6 @@
  danzig.5.d:0 "[DNZ.Getleader] a fait une annonce choquante aujourd'hui en déclarant que le gouvernement de la ville était indépendant de la [POL.GetDuDelaDelNP] [POL.GetName]. Prétendant désormais être la continuation de la Prusse, le pays longtemps défunt. Il reste à voir si cette folle expérience va durer, ou si des pays voisins vont intervenir.\n\nPour l'instant, la petite ville est isolée. Le sort futur de Dantzig est incertain."
  danzig.5.a:0 "Ont-ils perdu la raison ?"
  danzig.5.b:0 "Nous allons de l'avant."
-
  danzig.6.t:0 "Le gouvernement de Dantzig rejoint [GER.GetNameDef]"
  danzig.6.desc:0 "[DNZ.GetLeader] a annoncé aujourd'hui que la ville de Dantzig est indépendante [POL.GetDuDelaDelNP] [POL.Getname]. Au lieu de cela, ils ont déclaré que la ville libre avait l'intention de rejoindre [GER.GetNameDef]. Il a clairement invité [GER.GetLeader] à envoyer des troupes pour sécuriser le territoire."
  danzig.6.a:0 "Quelle surprise..."

@@ -1,13 +1,6 @@
 ﻿l_french:
-
-# AZVANOV, Zarmair (1915-) Rear-admiral (1960)
-# GALUSTOV, Ivan (1926) Rear-admiral (1976)
-# PETROSIAN, Migran (1909-1960) Rear-admiral (1959)
-# PIRUMOV, Vladimir (1926-) Rear-admiral (1975)
-# SADOYAN, Artavazd (1904-1971)  Rear-admiral (1951)
  armenian_focus:0 "Priorités nationales arméniennes"
  ARM_liberators:0 "Libérateur de l'Arménie"
-
  Armenian_question_category:0 "La question arménienne"
  Armenian_question_category_desc:0 "Le sort du peuple arménien était déjà au cœur des discussions entourant le traité de Versailles. Pourtant, les aspirations des nationalistes arméniens ont été balayées par le traité de Kars et l'oppression soviétique. De nombreux Arméniens vivent en exil et espèrent qu'une Arménie libre apparaîtra à nouveau sur les cartes un jour."
  ARM_form_armenian_national_council:0 "Former un conseil national arménien"
@@ -39,19 +32,14 @@
  ARM_expulsion_from_van:0 "Expulser les Kurdes et les Turcs de Van"
  ARM_return_to_van:0 "Rendre le territoire aux Van-Armenians"
  TUR_undo_armenian_policies:0 "Annuler les politiques [ARM.GetAdjFP]"
-
-
- open_kajaran_mine:0 "Ouvrir la mine de Kajaran" #change effect if copper is added
+ open_kajaran_mine:0 "Ouvrir la mine de Kajaran"
  extract_northern_armenia_deposits:0 "Exploiter l'aluminium du nord de l'Arménie"
-
  ARM_ararat_cement:0 "Ciment Ararat"
  ARM_yerevan_oil_and_gas_factory:0 "Usine de pétrole et de gaz d'Erevan"
  ARM_yerevan_automobile_plant:0 "Usine d'automobile d'Erevan"
  ARM_mikoyan_aircrafts:0 "Avions Mikoyan"
-
  ARM_catholicos_khoren_has_died:0 "§RCatholicos Khoren est mort.§!"
  open_kajaran_mine_developed:0 "La mine Kajaran a été ouverte"
-
  ARM_gold_extraction_idea:0 "Extraction d'or"
  ARM_mass_tank_production_idea:0 "Production de chars"
  ARM_rifle_production_idea:0 "Production de fusils"
@@ -63,19 +51,16 @@
  ARM_royalism:0 "Royalisme"
  ARM_rebirth_of_the_republic:0 "Renaissance de la république"
  ARM_repression_apparatus_idea:0 "Appareil de répression"
- ARM_armenian_youth_federation_idea:0 "Fédération de la jeunesse [ARM.GetAdjFS]"
+ ARM_armenian_youth_federation_idea:0 "Fédération de la jeunesse [ROOT.GetAdjFS]"
  ARM_cherish_what_we_have_idea:0 "Chérir ce que nous avons"
-
  ARM_party_involvement_idea:0 "Participation à la fête"
  ARM_state_atheism_idea:0 "État athé"
  ARM_beat_production_quotas_idea:0 "Battre les quotas de production"
  ARM_workers_propaganda_idea:0 "Propagande du travailleur"
  ARM_protect_the_revolution_idea:0 "Protéger la révolution"
-
  ARM_generic_democratic_reformer:0 "Hamo Ohanjanyan"
  ARM_generic_fascist_demagogue:0 "Misak Torlakian"
  ARM_generic_communist_revolutionary:0 "Aghasi Sargsyan"
-
  ARM_drastamat_kanayan:0 "Drastamat Kanayan"
  ARM_nubar_gulbenkian:0 "Nubar Gulbenkian"
  ARM_alexander_khastisian:0 "Alexander Khastisian"
@@ -91,8 +76,7 @@
  ARM_misak_torlakian:0 "Misak Torlakian"
  ARM_anastas_mikoyan:0 "Anastas Mikoyan"
  ARM_george_mardikian:0 "George Mardikian"
- ARM_suren_tovmasyan:0 "Suren Tovmasyan" #reserve communist
-
+ ARM_suren_tovmasyan:0 "Suren Tovmasyan"
  ARM_abraham_alikhanov:0 "Abraham Alikhanov"
  ARM_hovhannes_ter_isahakyan:0 "Hovhannes Ter-Isahakyan"
  ARM_armenak_artem_hanperiants:0 "Armenak Artem Khanperiants"
@@ -113,12 +97,10 @@
  ARM_garegin_nzhdeh:0 "Garegin Nzhdeh"
  ARM_garegin_nzhdeh2:0 "Garegin Nzhdeh"
  ARM_garegin_nzhdeh3:0 "Garegin Nzhdeh"
- ARM_sarkis_galajyan:0 "Sarkis Galajyan" #rus. name Sergei Galadzhev
- ARM_karo_halabyan:0 "Karo Halabyan" #architect, maybe replace in future
+ ARM_sarkis_galajyan:0 "Sarkis Galajyan"
+ ARM_karo_halabyan:0 "Karo Halabyan"
  ARM_aram_piruzyan:0 "Aram Piruzyan"
  ARM_hovhannes_bagramyan:0 "Hovhannes Bagramyan"
-
-
  ARM_return_from_exile:0 "Retour de l'exil"
  ARM_return_from_exile_desc:0 "L'Arménie était autrefois libre, et, avec le retour de nos parents de leur lieu de refuge, le sera à nouveau."
  ARM_the_last_claimant:0 "Le dernier réclamant"
@@ -251,8 +233,8 @@
  ARM_a_railway_to_kajaran_desc:0 "Le minerai ne sert à rien tant qu'il n'est pas raffiné et distribué aux usines. De nouveaux chemins de fer relieront l'industrie [ARM.GetAdjFS] comme jamais auparavant."
  ARM_gold_mines:0 "Extraire l'or"
  ARM_gold_mines_desc:0 "L'or a construit nos églises et a protégé le troupeau apostolique de la tyrannie. Avec les bons outils, il peut nous protéger à nouveau."
- ARM_expand_zangezur_copper_mine:0 "Développer la mine de Zangezur"
- ARM_expand_zangezur_copper_mine_desc:0 "Les montagnes du Caucase sont nombreuses et nous fourniront les ressources dont nous avons besoin pour garantir la liberté [ARM.GetAdjFS]."
+ ARM_expand_zangezur_copper_mine:0 "Exploiter la vallée Mashavera"
+ ARM_expand_zangezur_copper_mine_desc:0 "Les montagnes du Caucase sont nombreuses et nous fourniront les ressources dont nous avons besoin pour garantir la liberté [ROOT.GetAdjFS]."
  ARM_socialist_governmental_autonomy:0 "Autonomie gouvernementale socialiste"
  ARM_socialist_governmental_autonomy_desc:0 "La dissolution de la République Soviétique Fédérative Socialiste Transcaucasienne nous offre une occasion de renforcer le pouvoir de notre peuple."
  ARM_party_involvement:0 "Participation du parti communiste"
@@ -271,10 +253,8 @@
  ARM_reopen_etchmiadzin_seminary_desc:0 "Dieu et Saint Grégoire se tiennent aux côtés du peuple [ARM.GetAdjMS], et le Catholicos peut aider le peuple à guider son cheminement vers l'égalité."
  ARM_socialist_armenian_university:0 "Université de l'État soviétique d'Erevan"
  ARM_socialist_armenian_university_desc:0 "L'avenir réside dans l'esprit des gens. Ensemble, à l'université mère, ils peuvent apprendre les uns des autres et faire avancer la révolution."
-
  ARM_volunteers:0 "§YFormulaires de la division de volontaires§!"
  ARM_royal_guards_tt:0 "§YFormulaires de la division de garde royale\n§!"
-
  ARM_event.1.t:0 "La mort du Catholicos Khoren I"
  ARM_event.1.desc:0 "Tandis que les Arméniens craignant Dieu pleurent leur chef religieux, le Catholicos, les communistes respectant la ligne du parti refusent de rejoindre les réactionnaires qui ont refusé de voir la lumière du progrès."
  ARM_event.1.desc.2:0 "Le peuple arménien tout entier pleure le décès du Catholicos Khoren, qui a inlassablement défendu Dieu et tous les Arméniens contre la tyrannie bolchévique. Un grand nombre de fidèles se sont rassemblés pour une messe dans la cathédrale d'Erevan avant le transport de son corps vers la cathédrale d'Etchmiadzin."

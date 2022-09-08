@@ -136,7 +136,7 @@
  constitutionalism_idea:0 "Constitutionnalisme"
  freedom_isnt_free_idea:0 "La liberté n'est pas gratuite"
  ARCTIC_winter_readiness:0 "Préparation hivernale"
- ARCTIC_recruit_penguins:0 "Recruter des pingouins" #this is a super secret hidden joke spirit
+ ARCTIC_recruit_penguins:0 "Recruter des pingouins"
  ARCTIC_recruit_penguins_desc:0 "Comme les hommes sont rares dans l'Arctique, nous devons recruter nos compatriotes les mieux préparés : les pingouins."
  ARCTIC_organize_army_structure:0 "Organiser la structure de l'armée"
  ARCTIC_organize_army_structure_desc:0 "Nous réorganiserons la nouvelle armée pour rationaliser la communication et centraliser le pouvoir de l'état-major."
@@ -148,30 +148,22 @@
  ARCTIC_start_them_young_desc:0 "Apprendre à tirer est une compétence vitale compte tenu de notre population limitée et de notre environnement difficile."
  ARCTIC_komi_can_communicate:0 "Les Komis peuvent communiquer"
  ARCTIC_komi_can_communicate_desc:0 "La grande distance du territoire du peuple Komi rend difficile la coordination des unités ; c'est pourquoi il est essentiel d'investir dans des équipements de communication pour améliorer notre armée."
-
-#Tooltips for generic stuff
-state_is_on_arabian_peninsula_tt:0 "Est sur la péninsule arabique"
-state_balkan_north_of_drina_and_brava_river_tt:0 "État des Balkans situé au nord des fleuves Drina et Brava"
-state_is_in_manchuria_tt:0 "Est en Mandchourie, à l'exclusion du Hebei oriental, Dailan et des territoires du Mengkukuo."
-state_is_manchuria_plus_mengukou_tt:0 "Est en Mandchourie, y compris le Hebei oriental, Dailan et les territoires du Mengkukuo."
-state_is_western_china_tt:0 "Est au Xinjiang ou les parties occidentales de la Clique Ma"
-state_in_central_plain_no_mengukou_tt:0 "Se trouve dans la plaine centrale, au sud et à l'est de Pékin."
-state_in_soviet_far_east_tt:0 "Est dans l'extrême orient [SOV.GetAdjMS]"
-state_in_soviet_far_east_mongolia_sinkiang_tibet_tt:0 "Est dans l'extrême orient [SOV.GetAdjMS], en Mongolie, au Xinjiang ou au Tibet"
-state_in_indochina_malaysia_indonesia_raj_tt:0 "Est en §HIndochine§!, §HMalaisie§!, §HIndonésie§!, §HPhilippines§! ou dans l'§Hancien Raj britannique§!"
-state_in_indochina_except_siam_tt:0 "Est dans la région stratégique d'§HIndochine§! à l'exception du Siam proprement dit"
-state_is_in_central_asia_greater_steppe_siberia_tt:0 "Est en §HAsie centrale§!, dans la §HGrande steppe§!, en §HChine centrale§! ou dans le §HTrans-Oural§!"
-
-state_not_in_indochina_malaysia_indonesia_raj_tt:0 "§HN'EST PAS§! en §HIndochine§!, §HMalaisie§!, §HIndonésie§!, §HPhilippines§! ou dans l'§Hancien Raj britannique§!"
-
-state_in_central_steppe_or_central_asia_tt:0 "Est dans la §HSteppe centrale§! ou dans la région stratégique d'§HAsie centrale§!"
-is_subject_extra_tt:0 "Est un §HÉtat fantoche§!"
-
-has_reformed_ottoman_empire_tt:0 "A réformé l'§HEmpire ottoman§!"
-
-GEN_control_of_these_states_is_required_to_form_the_nation:0 "Contrôler ces États est nécessaire pour former une nouvelle nation"
-
-is_core_or_compliance_30_tt:0 "est un État national de son §Ycontrôleur§! ou a §Y30 d'accomodement§!\n"
-is_core_or_compliance_30_tt_NOT:0 "n'est PAS un État national de son §Ycontrôleur§! ou a §Y30 d'accomodement§!\n"
-
-state_has_compliance_30_tt:0 "a §Y30 d'accomodement§!\n"
+ state_is_on_arabian_peninsula_tt:0 "Est sur la péninsule arabique"
+ state_balkan_north_of_drina_and_brava_river_tt:0 "État des Balkans situé au nord des fleuves Drina et Brava"
+ state_is_in_manchuria_tt:0 "Est en Mandchourie, à l'exclusion du Hebei oriental, Dailan et des territoires du Mengkukuo."
+ state_is_manchuria_plus_mengukou_tt:0 "Est en Mandchourie, y compris le Hebei oriental, Dailan et les territoires du Mengkukuo."
+ state_is_western_china_tt:0 "Est au Xinjiang ou les parties occidentales de la Clique Ma"
+ state_in_central_plain_no_mengukou_tt:0 "Se trouve dans la plaine centrale, au sud et à l'est de Pékin."
+ state_in_soviet_far_east_tt:0 "Est dans l'extrême orient [SOV.GetAdjMS]"
+ state_in_soviet_far_east_mongolia_sinkiang_tibet_tt:0 "Est dans l'extrême orient [SOV.GetAdjMS], en Mongolie, au Xinjiang ou au Tibet"
+ state_in_indochina_malaysia_indonesia_raj_tt:0 "Est en §HIndochine§!, §HMalaisie§!, §HIndonésie§!, §HPhilippines§! ou dans l'§Hancien Raj britannique§!"
+ state_in_indochina_except_siam_tt:0 "Est dans la région stratégique d'§HIndochine§! à l'exception du Siam proprement dit"
+ state_is_in_central_asia_greater_steppe_siberia_tt:0 "Est en §HAsie centrale§!, dans la §HGrande steppe§!, en §HChine centrale§! ou dans le §HTrans-Oural§!"
+ state_not_in_indochina_malaysia_indonesia_raj_tt:0 "§HN'EST PAS§! en §HIndochine§!, §HMalaisie§!, §HIndonésie§!, §HPhilippines§! ou dans l'§Hancien Raj britannique§!"
+ state_in_central_steppe_or_central_asia_tt:0 "Est dans la §HSteppe centrale§! ou dans la région stratégique d'§HAsie centrale§!"
+ is_subject_extra_tt:0 "Est un §HÉtat fantoche§!"
+ has_reformed_ottoman_empire_tt:0 "A réformé l'§HEmpire ottoman§!"
+ GEN_control_of_these_states_is_required_to_form_the_nation:0 "Contrôler ces États est nécessaire pour former une nouvelle nation"
+ is_core_or_compliance_30_tt:0 "est un État national de son §Ycontrôleur§! ou a §Y30 d'accomodement§!\n"
+ is_core_or_compliance_30_tt_NOT:0 "n'est PAS un État national de son §Ycontrôleur§! ou a §Y30 d'accomodement§!\n"
+ state_has_compliance_30_tt:0 "a §Y30 d'accomodement§!\n"

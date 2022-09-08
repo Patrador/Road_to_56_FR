@@ -17,7 +17,6 @@
  HUN_equipment_effort_3_desc:0 "Plutôt que de copier ou d'acheter le matériel étranger, nous devrions nous efforcer de devenir le leader mondial des armes d'infanterie."
  HUN_armor_effort:0 "Développement des blindés"
  HUN_armor_effort_desc:0 "Forts de l'expérience acquise en mécanisant l'infanterie, nous pouvons améliorer aussi les blindés."
-
  HUN_aviation_effort:0 "Développement de l'aviation"
  HUN_aviation_effort_tt:0 "Emplacements de construction insuffisants pour des §Ybases aériennes§!."
  HUN_aviation_effort_desc:0 "Il n'est aucun domaine militaire qui connaît une évolution technologique aussi rapide que celui de l'aviation. Tout pays moderne se doit de maîtriser les airs."
@@ -45,7 +44,6 @@
  HUN_strategic_destruction_desc:0 "Les moteurs à réaction peuvent augmenter la portée de nos plus gros avions, les rendre plus sûrs et leur permettre de transporter plus de bombes."
  HUN_jet_effort:0 "Développement du moteur à réaction"
  HUN_jet_effort_desc:0 "Les moteurs à réaction sont l'avenir. Ils peuvent offrir plus de sécurité en termes de vitesse, d'altitude et d'agilité."
- 
  HUN_construction_effort:0 "Développement de la construction"
  HUN_construction_effort_tt:0 "Emplacements de construction insuffisants pour des §Yusines civiles§!."
  HUN_construction_effort_desc:0 "Même si la guerre menace le monde entier, il convient de ne pas sous-estimer l'importance de l'industrie civile."
@@ -80,7 +78,6 @@
  HUN_mines_of_tatra_desc:0 "L'industrie minière a toujours bien fonctionné dans les Carpates du Nord, mais les mines ont décliné après la Grande Guerre. Nous devons rouvrir ces mines et étendre leur production afin d'utiliser ces matériaux."
  HUN_mines_of_erdely:0 "Mines d'Erdély"
  HUN_mines_of_erdely_desc:0 "L'industrie minière a toujours bien fonctionné dans les Carpates orientales, mais les mines ont décliné après la Grande Guerre. Nous devons rouvrir ces mines et étendre leur production afin d'utiliser ces matériaux."
- 
  HUN_revanchism:0 "Irrédentisme"
  HUN_revanchism_desc:0 "La Hongrie a dû prendre l'une des pilules les plus amères après la Grande Guerre. Le traité de paix de Trianon a laissé la Hongrie avec seulement le tiers de son territoire et moins de la moitié de sa population. Pire encore, aucune des nouvelles frontières n'a été tracée en fonction de la répartition ethnique, mais en fonction des besoins des pays nouvellement formés, afin de paralyser à jamais la Hongrie et l'Autriche."
  HUN_claim_slovakia:0 "Revendiquer la Slovaquie"
@@ -97,7 +94,6 @@
  HUN_demand_vajdasag_desc:0 "Il est temps de réclamer ce qui appartient de droit à la Hongrie."
  HUN_kingdom_restored:0 "Restauration du Royaume hongrois"
  HUN_kingdom_restored_desc:0 "La Hongrie a été finalement restaurée, et il est temps de déclarer que le Royaume de Hongrie renaît."
-  
  HUN_italian_friendship:0 "Amitié italienne"
  HUN_italian_friendship_desc:0 "L'Italie de Benito Mussolini est ce que la Hongrie essaie d'atteindre. Forte, en développement et ayant une vision de l'avenir. De plus, le gouverneur Miklós Horthy ressemble beaucoup au Duce. Le peuple hongrois pourrait avoir un ami solide en Italie."
  HUN_italian_air_support:0 "Coopération aérienne avec l'Italie"
@@ -126,7 +122,6 @@
  HUN_nationalism_focus_desc:0 "Notre nation n'est comparable à aucune autre, et ce que nous avons accompli aurait été totalement impossible ailleurs. Nous devons défendre tout cela, s'il le faut en nous battant."
  HUN_paramilitarism:0 "Organisations paramilitaires"
  HUN_paramilitarism_desc:0 "Les principes militaires peuvent aussi s'appliquer en dehors du cadre de l'armée. L'instauration d'unités paramilitaires destinées à compléter les troupes permettrait à plus de gens de bénéficier d'un entraînement militaire."
- 
  HUN_educational_reforms:0 "Réforme de l'éducation"
  HUN_educational_reforms_desc:0 "Le système éducatif hongrois était réputé depuis des décennies. Il a toujours été fort dans le domaine des mathématiques et de la physique. Si nous parvenons à étendre la méthodologie éducative, les ingénieurs chercheurs hongrois pourraient réaliser des choses bien plus importantes que celles qu'ils peuvent imaginer aujourd'hui."
  HUN_extra_tech_slot:0 "Sciences hongroises"
@@ -135,7 +130,6 @@
  HUN_extra_tech_slot_2_desc:0 "L'industrialisation rapide de la Hongrie offre la possibilité de mener de nouvelles recherches."
  HUN_nuclear_effort:0 "Développement du nucléaire"
  HUN_nuclear_effort_desc:0 "La Hongrie pourrait atteindre ses objectifs nucléaires avec les scientifiques compétents dont nous disposons. Toutefois, la construction de réacteurs pourrait s'avérer difficile sans aide extérieure."
- 
  idea_HUN_education_reform:0 "Réformes de l'éducation"
  idea_HUN_education_reform_desc:0 "L'éducation hongroise était traditionnellement forte dans les domaines des mathématiques et de la physique."
  idea_HUN_revanchism:0 "Irrédentisme"
@@ -150,7 +144,6 @@
  idea_HUN_carpathian_forts_desc:0 "Il est essentiel de construire un réseau de forts autour du bassin des Carpates."
  idea_HUN_air_support_focus:0 "Développement de l'appui aérien"
  idea_HUN_air_support_focus_desc:0 "Nos progrès dans le domaine de l'aviation nous permettent de produire des bombardiers plus efficacement."
- 
  hf.1.t:0 "La Hongrie exige la Slovaquie"
  hf.1.d:0 "La Slovaquie est un nouveau pays formé entièrement à partir des parties nord de la Hongrie. La possession tchèque est un concept qui a échoué depuis le début. Les dirigeants hongrois considèrent maintenant qu'il est temps de demander plus. La question est de savoir si nous pouvons vivre sans certains territoires slaves en échange de l'amitié du peuple hongrois."
  hf.1.a:0 "Donner la Slovaquie à la Hongrie"
@@ -161,7 +154,6 @@
  hf.3.t:0 "L'Allemagne refuse"
  hf.3.d:0 "Le Reich allemand rejette les revendications hongroises sur la Slovaquie. Sera-t-elle une source d'hostilité accrue envers l'Allemagne ? Seul l'avenir nous le dira."
  hf.3.a:0 "Damnation !"
- 
  hf.4.t:0 "La Hongrie exige la Transylvanie"
  hf.4.d:0 "La Transylvanie, ou comme les Hongrois l'appellent, Erdély, est et était une partie essentielle de la Hongrie. Les Hongrois la considèrent comme le foyer ancestral du peuple hongrois et comme sa partie la plus résistante. La Hongrie doit la récupérer. Nous avons peut-être mal évalué nos meilleures options lors de la conférence du deuxième Prix de Vienne."
  hf.4.a:0 "Donner toute la Transylvanie à la Hongrie"
@@ -172,7 +164,6 @@
  hf.6.t:0 "L'Allemagne refuse"
  hf.6.d:0 "Le Reich allemand rejette les revendications hongroises sur la Transylvanie. Sera-t-elle une source d'hostilité accrue envers l'Allemagne ? Seul l'avenir nous le dira."
  hf.6.a:0 "Damnation !"
- 
  hf.7.t:0 "La Hongrie exige la Voïvodine"
  hf.7.d:0 "La frontière entre la Hongrie et les pays slaves du Sud était généralement définie par les rivières Drava et Danube. Après les traités de paix de Versailles, la Hongrie a dû céder la Voïvodine à la Serbie et a été intégrée à la Yougoslavie. La Hongrie demande maintenant à récupérer ces territoires. Devons-nous approuver ses revendications ?"
  hf.7.a:0 "Approuver les revendications hongroises"

@@ -71,7 +71,6 @@
  officers_clique_spirit_desc:0 "Tout pilotes qu'ils sont, ils restent des hommes du rang."
  not_worth_the_risk_spirit:0 "Bouts de chandelles"
  not_worth_the_risk_spirit_desc:0 "Vous savez, les avions ça coûte horriblement cher..."
-
  merchant_mariners_spirit:0 "Marine marchande"
  merchant_mariners_spirit_desc:0 "L'art de naviguer est une seconde nature pour nous."
  naval_wargames_spirit:0 "Simulations navales"
@@ -541,7 +540,6 @@
  hardline_latvian_nationalist:0 "Nationaliste letton radical"
  POL_sold_colony_cheap:0 "Achat d'une colonie"
  POL_sold_colony_expensive:0 "$POL_sold_colony_cheap$"
-
  SOV_understaffed_bureaucracy:0 "Bureaucratie en sous-effectifs"
  SOV_understaffed_bureaucracy_desc:1 "Le NKVD a découvert de nombreuses preuves d'une conspiration tentaculaire au sein de l'administration civile, et un grand nombre de bureaucrates ont donc dû quitter leurs postes."
  SOV_anti_soviet_military_thinking_banned_army:0 "Interdiction des doctrines anti-[SOV.GetAdjFP] dans l'armée"
@@ -560,7 +558,6 @@
  SOV_anti_soviet_military_thinking_banned_airforce_desc:1 "L'étude et les discussions de documents et d'idées de théoriciens dissidents ou réactionnaires est désormais interdite dans les écoles militaires, aussi les cadets sont-ils scrupuleusement surveillés afin de s'assurer qu'aucun ennemi du peuple ne puisse infiltrer l'Armée de l'air."
  SOV_ground_based_training:0 "Entraînements au sol"
  SOV_ground_based_training_desc:1 "À la suite d'une série d'accidents aériens au cours des entraînements, le NKVD a lancé une enquête au sein de l'Armée de l'air. Les agents responsables ont alors interdit pour un temps tout vol d'entraînement."
-
  SOV_purged_junior_army_officers_1_tt:0 "Pour §Ytous les véhicules terrestres§! : $STAT_COMMON_RELIABILITY_FACTOR$: §R-10%§!"
  SOV_purged_junior_army_officers_2_tt:0 "Pour §Ytous les véhicules terrestres§! : $STAT_COMMON_RELIABILITY_FACTOR$: §R-20%§!"
  SOV_purged_junior_army_officers_3_tt:0 "Pour §Ytous les véhicules terrestres§! : $STAT_COMMON_RELIABILITY_FACTOR$: §R-30%§!\nLe seul trait disponible pour les nouveaux généraux sera désormais §Y$politically_connected$§!."
@@ -569,7 +566,6 @@
  SOV_ilyushin_design_bureau_dissolved_flag:0 "$SOV_mig_design_bureau_dissolved_flag$"
  SOV_tupolev_design_bureau_dissolved_flag:0 "$SOV_mig_design_bureau_dissolved_flag$"
  SOV_yakovlev_design_bureau_dissolved_flag:0 "$SOV_mig_design_bureau_dissolved_flag$"
-
  SOV_anti_capitalist_campaign_generic:0 "Campagne anti-capitaliste"
  SOV_anti_capitalist_campaign_generic_desc:1 "On ne peut faire aucune confiance aux capitalistes. Aussitôt qu'elle en a l'occasion, la bourgeoisie finit toujours par opprimer le prolétariat. Mieux vaut nous préparer à la lutte qui s'engagera d'ici peu."
  SOV_anti_fascist_campaign_generic:0 "Campagne anti-fasciste"
@@ -584,7 +580,6 @@
  SOV_restoration_and_development_idea_desc:0 "$SOV_restoration_and_development_desc$"
  SOV_no_time_for_peace_idea:0 "$SOV_no_time_for_peace$"
  SOV_no_time_for_peace_idea_desc:1 "$SOV_no_time_for_peace_desc$"
-
  SOV_support_in_china_generic:1 "Soutien [SOU.GetAdjMS] [Root.GetAuAlaAlNP] [Root.GetName]"
  SOV_support_in_china_generic_desc:1 "[SOU.GetLeLaLNPCap] [SOU.GetName] soutien[SOU.GetTNentNP] [Root.GetLeLaLNP] [Root.GetName] dans [Root.GetSaLeurNP] guerre contre [JAP.GetLeLaLNP] [JAP.GetName], espérant sans doute développer des relations plus étroites avec [Root.GetLuiElleEuxNP] tout en influençant [Root.GetSonLeurNP] orientation politique."
  SOV_preparations_for_soviet_japanese_war:0 "Préparatifs de guerre contre [JAP.GetLeLaLNP] [JAP.GetName]"
@@ -628,7 +623,6 @@
  SOV_popular_speeches_poum_desc:0 "Grâce aux organisations locales et à des membres influents de l'opposition anti-stalinienne à l'étranger, une vaste campagne d'information et d'agitation a été lancée dans les territoires sous contrôle [Root.GetDuDelaDelNP] [Root.GetName] afin de rallumer la ferveur révolutionnaire au sein de la population."
  SOV_agents_in_the_stalinist_command_poum:0 "Agents infiltrés dans les troupes stalinistes"
  SOV_agents_in_the_stalinist_command_poum_desc:0 "L'opposition de droite [SOU.GetAuAlaAlDir] [SOU.GetLeader] est parvenue à infiltrer des agents parmi les derniers conseillers militaires qu'[SOU.GetIlElleDir] a envoyé soutenir la République espagnole. Ces agents ont mis en place un réseau d'informateurs, qui permettra de tout savoir des plans ennemis, avant même qu'ils soient lancés."
-
  SOV_organized_wreckers_idea:0 "Saboteurs"
  SOV_organized_wreckers_idea_desc:1 "Les ennemis de l'État ont recruté des saboteurs dans les classes populaires, qui créent des tensions dans le secteur critique de l'industrie et empêchent d'atteindre les objectifs de production."
  SOV_organized_wreckers_idea_tt:0 "Les ennemis peuvent lancer des missions de sabotage."
@@ -640,7 +634,6 @@
  SOV_covert_ukrainian_military_buildup_idea_desc:2 "Dans le plus grand secret, [Root.GetLeLaLNP] [Root.GetName] form[Root.GetEEntNP] dans des camps d'entraînement des milices [UKR.GetAdjFP] afin qu'elles lancent d'ici quelque temps une insurrection contre [SOV.GetLeLaLDir] [SOV.GetLeader]."
  SOV_the_fourth_international_idea:0 "IVe Internationale"
  SOV_the_fourth_international_idea_desc:1 "En tant que dirigeants de fait de l'Internationale, nous pouvons désormais contribuer à faire avancer la cause communiste dans le monde."
-
  SOV_foreign_funds_idea:0 "Financements étrangers"
  SOV_foreign_funds_idea_desc:1 "De généreuses donations faites par des sympathisants et des organisations de l'étranger contribuent grandement à financer la cause."
  SOV_support_from_farmers:0 "Soutien des propriétaires paysans"
@@ -655,7 +648,6 @@
  SOV_the_peoples_revolution_idea_desc:0 "Pour que son succès final soit assuré, la Révolution doit être portée par tous les [Root.GetHabitants]."
  SOV_puppet_international_of_soviet_republics_idea:0 "$SOV_international_union_of_soviet_republics$"
  SOV_puppet_international_of_soviet_republics_idea_desc:1 "[Root.GetLeLaLNPCap] [Root.GetName] tir[Root.GetEEntNP] de nombreux avantages du fait qu'[Root.GetIlElleNP] appartien[Root.GetTNentNP] à un ensemble bien plus vaste [Root.GetQueluiQuelleQueuxNP]."
-
  SOV_support_of_the_peasants_idea:0 "Soutien de la paysannerie"
  SOV_support_of_the_peasants_idea_desc:0 "Le soutien des paysans de tout le pays permet de recruter et de garder en état de combattre des armées plus importantes."
  SOV_curtailment_collective_farms_idea:0 "Limitation des fermes collectives"
@@ -668,13 +660,10 @@
  SOV_enemies_of_the_people_idea_desc:0 "Certains aspirent toujours à renverser le gouvernement du peuple. [Root.GetLeLaLNPCap] [Root.GetName] doi[Root.GetTVentNP] demeurer vigilant[Root.GetXENP] face à la menace, qu'elle soit intérieure ou extérieure."
  SOV_soviet_hegemony_idea:0 "Supériorité [Root.GetAdjFS]"
  SOV_soviet_hegemony_idea_desc:0 "Le régime [Root.GetAdjMS] s'est avéré bien supérieur à tous les autres. Nous devons donc propager nos idées, éclairer ceux qui sont opprimés de par le monde, et jusqu'à ceux qui ont eu la chance d'être membres de notre Union."
-
  SOV_fascist_womens_movement_idea:0 "Mouvement fasciste des femmes russes"
  SOV_fascist_womens_movement_idea_desc:1 "Tout le mouvement nationaliste repose sur la femme [Root.GetAdjFS]. Leurs mères, leurs épouses et leurs filles ont su rapidement s'organiser et faire leur part pour permettre à nos braves soldats de combattre jusqu'à la glorieuse victoire finale."
  SOV_the_true_tsars_idea:0 "$SOV_the_true_tsars$"
  SOV_the_true_tsars_idea_desc:1 "Le tsar est le dirigeant légitime de la nation [Root.GetAdjFS]. C'est le ralliement au tsar, bien davantage qu'à un quelconque autre individu ou à n'importe quelle idéologie, qui permet d'attirer sans fin de nouveaux partisans."
-
- #Dynamic Modifiers
  SOV_defend_moscow:0 "Défense de Moscou"
  SOV_increased_metals_production:0 "Accroissement de la production de métaux"
  SOV_invaders_must_die:0 "Mort aux envahisseurs"
@@ -683,7 +672,6 @@
  SOV_armored_battery_35:0 "Batterie blindée de 35"
  SOV_factory_worker_militias_raised:0 "Milices ouvrières levées"
  SOV_soviet_military_offensive:0 "Offensive militaire soviétique"
-
  SOV_second_five_year_plan_dynamic_modifier:0 "Plan quinquennal"
  SOV_third_five_year_plan_dynamic_modifier:0 "$SOV_second_five_year_plan_dynamic_modifier$"
  SOV_third_five_year_plan_civilian_dynamic_modifier:0 "$SOV_second_five_year_plan_dynamic_modifier$"
@@ -695,17 +683,14 @@
  SOV_fourth_five_year_plan_dynamic_modifier_alt:0 "$SOV_third_five_year_plan_alt$"
  SOV_second_five_year_plan_fake_1936_ns_desc:0 "$SOV_finish_the_five_year_plan_desc_default$"
  SOV_second_five_year_plan_fake_1939_ns_desc:0 "$SOV_third_five_year_plan_desc_default$"
-
  SOV_ussr_academy_of_sciences_dynamic_modifier:0 "Académie soviétique des sciences"
  SOV_ussr_academy_of_sciences_dynamic_modifier_alt:0 "Académie impériale des sciences"
-
  SOV_soviet_airforce_dynamic_modifier:0 "Armée de l'air soviétique"
  SOV_soviet_airforce_aircraft_production_focus_dynamic_modifier:0 "$SOV_soviet_airforce_dynamic_modifier$"
  SOV_increased_aircraft_production_ns_bonus:0 "Accroissement de la production aéronautique"
  SOV_soviet_airforce_aircraft_production_focus_tt:0 "£production_cost£Coût de production de tous les types d'§Yavions§! : §G-5%§!"
  SOV_soviet_airforce_dynamic_modifier_alt:0 "Armée de l'air russe"
  SOV_soviet_airforce_aircraft_production_focus_dynamic_modifier_alt:0 "$SOV_soviet_airforce_dynamic_modifier_alt$"
-
  SOV_the_red_fleet_dynamic_modifier:0 "Flotte rouge"
  SOV_the_red_fleet_surface_1_dynamic_modifier:0 "$SOV_the_red_fleet_dynamic_modifier$"
  SOV_the_red_fleet_surface_2_dynamic_modifier:0 "$SOV_the_red_fleet_dynamic_modifier$"
@@ -716,7 +701,6 @@
  SOV_the_red_fleet_surface_2_dynamic_modifier_alt:0 "$SOV_the_red_fleet_dynamic_modifier_alt$"
  SOV_the_red_fleet_submarine_1_dynamic_modifier_alt:0 "$SOV_the_red_fleet_dynamic_modifier_alt$"
  SOV_the_red_fleet_submarine_2_dynamic_modifier_alt:0 "$SOV_the_red_fleet_dynamic_modifier_alt$"
-
  SOV_the_red_fleet_surface_1_bonus_tt:0 "£GFX_production_cost£Coût de production des §Ynavires d'escorte§! : §G-10%§!"
  SOV_the_red_fleet_surface_2_bonus_tt:0 "£GFX_production_cost£Coût de production des §Ynavires capitaux§! : §G-10%§!"
  SOV_the_red_fleet_surface_1_tt:0 "$SOV_the_red_fleet_surface_1_bonus_tt$"
@@ -733,19 +717,14 @@
  SOV_comecon_sov_default_desc:0 "Des mesures ont été prises par [GetComeconName]."
  SOV_common_economic_space_sov_default:0 "Espace économique commun"
  SOV_common_economic_space_sov_default_desc:0 "$SOV_comecon_sov_default_desc$"
-
  SOV_soviet_german_trade_agreement:0 "Accord commercial germano-soviétique"
  SOV_soviet_german_trade_agreement_desc:1 "Conformément au pacte commercial contracté avec [SOU.GetLeLaLNP] [SOU.GetName], nous allons recevoir des matières premières telles que du blé, du coton du pétrole, du minerai et du caoutchouc."
  SOV_soviet_imports:0 "Importations soviétiques"
-
  SOV_development_of_eastern_allies_tt:0 "Cet esprit national sera retiré lorsque la priorité §Y$SOV_development_aid_for_eastern_allies$§! aura été adoptée."
  SOV_face_western_fascism_ns_tt:0 "Contre les §Ygrandes puissances fascistes européennes§! : avantage en attaque §G+10%§! ; avantage en défense : §G+10%§!"
  SOV_liberation_of_the_european_proletariat_ns_tt:0 "Contre les §Ygrandes puissances démocratiques européennes§! : avantage en attaque §G+10%§! ; avantage en défense : §G+10%§!"
  SOV_military_reorganization_ns_removal_tt:0 "Cet esprit national sera retiré lorsque la priorité §Y$SOV_military_reorganization$§! aura été adoptée."
-
-
  SOV_the_politburo_ns_good_tt:0 "Il est possible de renvoyer ou remplacer manuellement le directeur du NKVD §O(à venir)§!."
-
  SOV_industrial_concern_upgrade_tt:0 "\nAdopter la priorité §Y$SOV_national_specialists$§! permet d'améliorer ce concepteur."
  SOV_gosproyektstroy_1:0 "Gosproïektstroï"
  SOV_gosproyektstroy_1_tt:0 "Ce groupe industriel peut être développé afin de fournir d'autres avantages et de renforcer ceux qu'il offre déjà."
@@ -754,18 +733,14 @@
  SOV_sevastopol_marine_plant:0 "Sébastopol"
  SOV_black_sea_shipyard:0 "Tchernomorski"
  SOV_rubin_design_bureau:0 "Roubine"
-
  SOV_factionalism_modifier:0 "Factionnalisme"
  SOV_factionalism_modifier_tt:0 "§LLe factionnalisme au sein du Parti a toujours été un problème, et avec l'opposition qui s'agite de plus en plus les différences d'opinions rendent nos politiques moins efficaces. Mais ces divergences de vues, traitées convenablement, peuvent sur le long terme devenir une force plutôt qu'un ferment de division.§!\n\n"
-
  SOV_opposition_popular_support:0 "Soutien populaire à l'opposition"
  SOV_opposition_popular_support_tt:0 "§LUne large partie de la population et des membres du Parti soutient l'opposition, aussi continuer une guerre perdue d'avance est-il beaucoup plus compliqué.§!\n\n"
-
  SOV_workers_government_idea:0 "$SOV_long_live_the_workers_government$"
  SOV_workers_government_idea_desc:0 "Vive le gouvernement du prolétariat ! Les anciennes élites ont été chassées du pouvoir, et ce sont de nouveau les travailleurs qui gouvernent [Root.GetAuEnANP] [Root.GetName]."
  SOV_revolutionary_spirit_idea:0 "Esprit révolutionnaire"
  SOV_revolutionary_spirit_idea_desc:0 "La ferveur révolutionnaire a été revigorée par la victoire sur Staline. L'heure est donc venue de porter la Révolution aux prolétaires du monde entier."
-
  SOV_trotskyist_revolutionary_agitation:0 "Agitation révolutionnaire trotskiste"
  SOV_trotskyist_revolutionary_agitation_desc:1 "Des militants trotskistes et d'autres communistes partisans du parti bolchévique [SOV.GetAdjMS] créent de l'agitation chez les travailleurs [Root.GetAdjMP] en promouvant le marxisme parmi eux et en appelant à la lutte armée contre le gouvernement."
  SOV_trotskyist_revolutionary_agitation_tt:0 "Prendre la décision £decision_icon_small£§Y$ban_communist_party$§! amoindrira les conséquences de cet esprit national."
@@ -779,14 +754,10 @@
  SOV_for_the_common_good_allies_desc:1 "Toute décision que nous prenons, nous ou nos alliés, ne vise qu'à assurer le bien commun."
  SOV_for_the_common_good_subjects:0 "$SOV_for_the_common_good$"
  SOV_for_the_common_good_subjects_desc:1 "Toute décision prise par nos alliés ne vise qu'à assurer le bien commun. Il est donc de notre devoir de soutenir ces décisions et de veiller à ce que les requêtes qui nous sont présentées trouvent une réponse appropriée, même si cela implique de faire des sacrifices qui ne contribuent pas immédiatement à l'amélioration de la situation."
-
  SOV_planned_economy_dynamic_modifier:0 "$SOV_planned_economy$"
-
  SOV_grigory_semyonov_man_tt:1 "[SOV.GetLeLaLNPCap] [SOV.GetFlag]§Y[SOV.GetName]§! n'[SOV.GetAOntNP] pas encore adopté la priorité §Y$SOV_approach_semyonov$§!.\nLa §Y[GetSovietCivilWarName]§! n'a pas encore éclaté.\nSi §Y$SOV_grigory_semyonov$§! est recruté comme conseiller, il pourra aussi devenir §Ygénéral§!."
-
  SOV_exiled_flag:0 "En exil (§GCe personnage est donc à l'abri des purges.§!)"
  SOV_imprisoned_flag:0 "En prison (§RCe personnage peut donc être victime des purges.§!)"
-
  SOV_church_power_1:0 "Opium du peuple"
  SOV_church_power_2:0 "Église des catacombes"
  SOV_church_power_3:0 "Nouvelle Vieille Église"
@@ -807,31 +778,3 @@
  trait_SOV_foreign_military_advisor_desc:0 "Le temps passé à l'étranger est une occasion magnifique d'étudier des tactiques auxquelles nous pourrions un jour être nous-mêmes confrontés."
  trait_SOV_monarchist_sympathizer_desc:0 "Les racines de l'affection pour les usages anciens se trouvent parfois enfouies très profondément. Comme l'amertume."
  trait_SOV_determined_desc:0 "Chez certaines personnes, la ténacité est souvent au-delà de ce que la plupart considèrent comme les limites du raisonnable."
-
-# === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
- LAT_farmers_party_idea_desc:0 "Latvijas Zemnieku savienîba – Union des paysans [LAT.GetDuDeDNP] [LAT.GetName]"
- LAT_perkonkrust_idea_neu_1_desc:0 "Pêrkonkrusts - la Croix de tonnerre"
- LAT_perkonkrust_idea_desc:0 "$LAT_perkonkrust_idea_neu_1_desc$"
- perkonkrust_fas_idea_1_desc:0 "$LAT_perkonkrust_idea_neu_1_desc$"
- EST_ismaaliit_idea_desc:0 "Isamaaliit – L'union de la patrie"
- EST_johan_pitka_desc:0 "§LJuhhan, dit Johan Pitka§!"
- EST_hjalmar_mae_desc:0 "§LHjalmar Johannes Mäe§!"
- EST_august_jakobson_desc:0 "§LAugustin, dit August Jakobson§!"
- LIT_aleksandras_stulginskis_desc:0 "§LAleksandras Stulginskis§!"
- LIT_ernestas_galvanauskas_desc:0 "§LErnestas Galvanauskas§!"
- LIT_vincas_mickevicius_kapsukas_desc:0 "§LVincas Mickevičius, dit « Kapsukas »§!"
- LIT_karl_gero_idea_desc:0 "§LCharles Géro Albert Joseph Guillaume Antoine Marie d'Urach, couronné sous le nom de Mindaugas III§!"
- LAT_janis_sudrabkalns_desc:0 "§LArvîds Peine, dit Jânis Sudrabkalns§!"
- POL_walery_slawek_desc:0 "§LWalery Jan Sławek§!"
- POL_stanislaw_wojciechowski_desc:0 "§LStanisław Wojciechowski§!"
- POL_joachim_stefan_bartoszewicz_desc:0 "§LJoachim Stefan Bartoszewicz§!"
- POL_henryk_floyar_rajchman_desc:0 "§LHenryk Janusz Floyar-Rajchman§!"
- POL_marian_rejewski_desc:0 "§LMarian Adam Rejewski§!"
- POL_jan_mosdorf_desc:0 "§LJan Mosdorf, alias « Andrzej Witowski »§!"
- POL_irena_anders_desc:0 "§LIrena Renata Anders§!"
- POL_kazimierz_switalski_desc:0 "§LKazimierz Stanisław Świtalski§!"
- SOV_gosproyektstroy_1_desc:0 "Gosproïektstroï – Comité d'État de la construction\n"
- SOV_sevastopol_marine_plant_desc:0 "Chantier naval de Sébastopol\n"
- SOV_black_sea_shipyard_desc:0 "Tchernomorski Soudostroïtelni Zavod – Chantier naval de la mer Noire\n"
- SOV_rubin_design_bureau_desc:0 "Bureau d'étude Roubine\n"
- SOV_tsar_vladimir_i_desc:0 "§LVladimir Kirillovitch Romanov, couronné sous le nom de Vladimir Ier§!"

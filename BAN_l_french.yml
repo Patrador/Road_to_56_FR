@@ -1,9 +1,5 @@
-﻿
-
-l_french:
+﻿l_french:
  BAN_democratic_party:0 "PKS"
- BAN_democratic_party_long:0 "Parti Krishak Sramik" 
+ BAN_democratic_party_long:0 "Parti Krishak Sramik"
  BAN_communism_party:0 "PCB"
- BAN_communism_party_long:0 "Parti communiste bangladais" 
- #PUE_fascism_party:0 "PNPR"
- #PUE_fascism_party_long:0 "Partido Nacionalista de Puerto Rico" 
+ BAN_communism_party_long:0 "Parti communiste bangladais"

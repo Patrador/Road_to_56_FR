@@ -1,39 +1,19 @@
-﻿#1964:
-#commander in 64 Namgyal Bahadur
-# former Quartermaster General of the Royal Bhutan Army Bachu Phugya
-#Jigme Palden Dorji prime minister in 52
-#Sonam Tobgay Dorji important advisor in 1936, reformer
-#Sonam Tobgye Dorji = tobgay
-#Jigmi Y Thinley foreign relations
-
-#I will try Jstor to make it complete
-#In 1935, during His Majesty Jigme Wangchuck's trip to India, it was believed that Sonam Tobgye began a "systematic review of  social  conditions,  administrative  practices  and judicial proceedings,"   which   brought   about   new   reform   in   the Kingdom  (Aris  1994:  135).  Taxes  were  paid  in  various  forms such  as  firewood,  hay,  rice,  and  woven  cloth,  depen
-#ding  on the  district  of  which  the  Bhutan  House  collected  for  the Second King of Bhutan. This form of taxation soon ceased.
-#So a guy named Sonam Tobgye.
-#maybe Rani Chuni Wangmo. (a woman)
-#Bhutan's  foreign  minister  (1949) Jigmi  Y  Thinley
-#Jigme Palden Dorji late PM
-# Tslzogdu national assembly
-l_french:
-
+﻿l_french:
  bhutan_focus:0 "Priorités nationales bhoutanaises"
  BHU_democratic_party:0 "Jai Gorkha"
  BHU_democratic_party_long:0 "Jai Gorkha"
- 
  BHU_sonam_tobgay_dorji:0 "Sonam Tobgay Dorji"
  BHU_sonam_tobgay_dorji2:0 "Sonam Tobgay Dorji"
- BHU_jigmi_y_thinley:0 "Jigmi Y Thinley" 
- BHU_namgyal_bahadur2:0 "Namgyal Bahadur" 
+ BHU_jigmi_y_thinley:0 "Jigmi Y Thinley"
+ BHU_namgyal_bahadur2:0 "Namgyal Bahadur"
  BHU_namgyal_bahadur3:0 "Namgyal Bahadur"
  BHU_bachu_phugyal:0 "Bachu Phugyal"
  BHU_ugyen_tanghi:0 "Ugyen Tanghi"
  BHU_mayeum_choying_wangmo_dorji:0 "Mayeum Choying Wangmo Dorji"
  BHU_rin_singh_dorji:0 "Rin Singh Dorji"
- 
  BHU_no_army:0 "Pays sans défense"
  BHU_no_army_desc:0 "Depuis le Traité de Punakha de 1910, nous avons bénéficié des avantages d'une indépendance limitée sous le règne britannique. Notre dépendance à l'égard des spécialistes militaires [RAJ.GetAdjMP] et [ENG.GetAdjMP] nous permet de redistribuer le budget du pays à d'autres fins. Cependant, cela laisse notre pays complètement sans défense face à la menace qui pèse sur le monde."
  BHU_fledgling_army:0 "Jeune armée"
- #spicyalfredo edit
  BHU_treaty_with_britain:0 "Traités avec la Grande-Bretagne"
  BHU_treaty_with_britain_desc:0 "Les traités avec la Grande-Bretagne nous ont placés sous leur protection et leur sphère d'influence. Bien que nous perdions une certaine indépendance dans nos affaires, nous bénéficierons grandement de la « protection » de l'Empire britannique.\n§W--------------\n§!§WPour gagner§! §Gl'indépendance§! §Wdu Royaume-Uni, nous devons avoir un soutien important pour un parti politique qui ne soutient pas la dynastie Wangchuck.§! §WCela déverrouillera une§! §Ydécision§! §Wpour mettre fin à notre £autonomy_texticon §Rsoumission§!."
  BHU_first_inspection_idea:0 "Inspection de l'armée"
@@ -41,7 +21,6 @@ l_french:
  BHU_1921_modernization_roadmap_idea:0 "Modernisation de 1921"
  BHU_1921_modernization_roadmap_idea_desc:0 "Nous avons maintenant l'occasion de mettre en œuvre ce plan."
  BHU_can_decline_effect:0 "§WDéfinit la règle : £trigger_yes Peut refuser l'appel à la guerre"
-
  idea_BHU_dragons_storm:0 "Tempête de dragons"
  idea_BHU_new_ideas:0 "Critique de la monarchie"
  idea_BHU_new_ideas_desc:0 "Si nous voulons entrer dans l'ère moderne en tant que nation souveraine et unie, nous devons ouvrir les yeux sur les avantages des nouvelles idéologies alors que notre peuple se débat dans les chaînes de l'ancien régime monarchique."
@@ -53,10 +32,8 @@ l_french:
  idea_BHU_aristocratic_regime:0 "Régime aristocratique"
  idea_BHU_the_quiet_strength:0 "La force tranquille"
  BHU_agriculatural_reform:0 "Réforme agricole"
- 
- #decisions
  BHU_army_establishment:0 "La création d'une armée"
- BHU_army_establishment_desc:0 "Pendant des années, nous avons compté sur la protection étrangère. Les gardes du corps royaux armés d'épées et d'armures étaient nos seules forces militaires, même si elles étaient surtout cérémonielles. Il faut que cela change ! Le moment est venu de constituer une armée nationale bhoutanaise." 
+ BHU_army_establishment_desc:0 "Pendant des années, nous avons compté sur la protection étrangère. Les gardes du corps royaux armés d'épées et d'armures étaient nos seules forces militaires, même si elles étaient surtout cérémonielles. Il faut que cela change ! Le moment est venu de constituer une armée nationale bhoutanaise."
  BHU_denounce_the_treaty_of_punakha:0 "Dénoncer le traité de Punakha"
  BHU_improve_military_standards:0 "Améliorer les normes militaires"
  BHU_mountain_warfare_courses:0 "Entraînement en montagne"
@@ -67,16 +44,13 @@ l_french:
  BHU_bhutan_diplomacy_desc:0 "Dans un monde en pleine mutation, nous ne pouvons pas compter sur un traité obsolète vieux de 30 ans avec [ENG.GetNameDef]. Leur soutien n'est plus nécessaire, à partir de maintenant [BHU.GetNameDef] cherchera l'aide de nouveaux alliés qui sont plus disposés à fournir une aide dans l'établissement de notre propre force de combat."
  BHU_improve_relations:0 "Améliorer les relations avec [From.GetNameDef]"
  BHU_establish_an_army_under_foreign_supervision:0 "Établir une armée sous la supervision [From.GetAdjFS]"
- #flags 
  denounced_punakha_treaty:0 "Traité de Punakha dénoncé"
  bhutan_improved_military_standards:0 "Normes militaires améliorées"
  army_establishment_decision:0 "Établissement de l'armée en cours"
- 
- 
  BHU_aftermath_of_the_visit_to_india:0 "Conséquences de la visite en Inde"
  BHU_aftermath_of_the_visit_to_india_desc:0 "Pour la première fois depuis des années, le roi s'est rendu en Inde. Cet événement a consolidé le mouvement de modernisation du pays tout en confirmant la situation politique du royaume."
  BHU_peace_will_reign:0 "La paix régnera"
- BHU_peace_will_reign_desc:0 "Nous n'avons pas d'armée, personne ne nous menace, tout va bien." 
+ BHU_peace_will_reign_desc:0 "Nous n'avons pas d'armée, personne ne nous menace, tout va bien."
  BHU_blissful_isolation:0 "Isolement bienheureux"
  BHU_blissful_isolation_desc:0 "Qui doit s'inquiéter du monde quand on médite dans un monastère d'un des pays les plus inaccessibles de la planète ?"
  BHU_create_an_army:0 "Créer une armée"
@@ -106,7 +80,7 @@ l_french:
  BHU_follow_the_1921_modernization_roadmap:0 "Modernisation de 1921"
  BHU_follow_the_1921_modernization_roadmap_desc:0 "En 1921, un plan est élaboré pour moderniser le pays. Le pays n'avait pas les compétences nécessaires pour l'établir, mais après l'envoi de quelques personnes sélectionnées dans des écoles britanniques au cours de la dernière décennie, nous serons peut-être enfin en mesure de le mettre en œuvre."
  BHU_education_reform:0 "Réforme de l'éducation"
- BHU_education_reform_desc:0 "La connaissance est vitale pour assurer l'avenir de notre nation. Les normes pédagogiques de notre pays reposaient auparavant sur les principes du bouddhisme et étaient principalement établies et maintenues par les moines dans les monastères. Ceci est inacceptable pour un pays moderne et nous devons donc suivre les systèmes éducatifs occidentaux et leurs enseignements." 
+ BHU_education_reform_desc:0 "La connaissance est vitale pour assurer l'avenir de notre nation. Les normes pédagogiques de notre pays reposaient auparavant sur les principes du bouddhisme et étaient principalement établies et maintenues par les moines dans les monastères. Ceci est inacceptable pour un pays moderne et nous devons donc suivre les systèmes éducatifs occidentaux et leurs enseignements."
  BHU_train_more_doctors:0 "Former plus de médecins"
  BHU_train_more_doctors_desc:0 "Ces dernières années, de nombreuses maladies potentiellement mortelles se sont abattues sur la population. En nous consacrant à la formation de nouveaux spécialistes, nous pouvons également jeter les bases d'un département de la santé publique qui organisera la recherche et mènera des expertises médicales dans tout le pays. Une telle création peut sembler coûteuse, mais elle permettra de sauver des milliers de vies !"
  BHU_improve_agriculture:0 "Améliorer les techniques agricoles"
@@ -136,10 +110,9 @@ l_french:
  BHU_industrial_modernization:0 "Modernisation industrielle"
  BHU_industrial_modernization_desc:0 "Le monde est en course pour les dernières avancées technologiques et chaque pays tente de s'approprier les équipements les plus modernes. Nous ne faisons pas exception à la règle, mais contrairement aux autres, nous respectons tous les outils et toutes les machines à notre disposition. Avec de petits fonds vient une grande responsabilité."
  BHU_technological_progress:0 "Progrès technologiques"
- BHU_technological_progress_desc:0 "La réforme de l'enseignement n'est qu'une première étape sur la voie de l'enseignement secondaire gratuit pour tous, sans distinction de sexe, de couleur de peau, d'orientation ou de toute autre division obsolète des sociétés conservatrices. L'éducation et les technologies dans les masses, peu importe les coûts !" 
+ BHU_technological_progress_desc:0 "La réforme de l'enseignement n'est qu'une première étape sur la voie de l'enseignement secondaire gratuit pour tous, sans distinction de sexe, de couleur de peau, d'orientation ou de toute autre division obsolète des sociétés conservatrices. L'éducation et les technologies dans les masses, peu importe les coûts !"
  BHU_industry_enlightened_by_science:0 "Industrie éclairée par la science"
- BHU_industry_enlightened_by_science_desc:0 "Il est prouvé que le développement scientifique est plus efficace en termes de temps et de ressources s'il s'appuie sur des instruments et des outils scientifiques modernes. En ayant les deux à notre disposition et en nous appuyant sur une base industrielle solide, nous pouvons profiter des doux fruits du progrès !" 
- 
+ BHU_industry_enlightened_by_science_desc:0 "Il est prouvé que le développement scientifique est plus efficace en termes de temps et de ressources s'il s'appuie sur des instruments et des outils scientifiques modernes. En ayant les deux à notre disposition et en nous appuyant sur une base industrielle solide, nous pouvons profiter des doux fruits du progrès !"
  BHU_build_air_strip:0 "Construire une base aérienne"
  BHU_build_air_strip_desc:0 "Bien que tous les avions ne puissent pas se rendre au Tibet, la construction d'une piste d'atterrissage fiable est une étape importante pour unir les vols à haute altitude et le soutien aérien rapproché en une seule discipline : le pilotage au-dessus du Tibet. De plus, des avions spécifiques doivent être conçus car le décollage est déjà une réussite à cette altitude."
  BHU_small_airframes:0 "Avions légers"
@@ -148,7 +121,6 @@ l_french:
  BHU_large_airframes_desc:0 "Compte tenu de la taille du pays et de la difficulté de voler en haute montagne, il est préférable d'avoir des avions capables de voler plus loin, au-dessus des montagnes plutôt que de zigzaguer autour des sommets vierges du monde."
  BHU_the_dragon_flies:0 "Le dragon vole"
  BHU_the_dragon_flies_desc:0 "Nous régnerons sur le ciel comme des dragons et nous soufflerons du feu sur nos ennemis."
-
  BHU_naval_effort:0 "Financer la construction navale"
  BHU_naval_effort_tt:0 "Pas assez d'emplacements de construction pour des §Ychantiers navals§!"
  BHU_naval_effort_desc:0 "L’expansion de notre marine devrait être notre priorité. Attribuez toutes les ressources disponibles aux nouveaux chantiers navals et aux recherches sur les navires légers à surface."
@@ -166,7 +138,6 @@ l_french:
  BHU_capital_ships_effort_desc:0 "La nation avec le plus grand nombre de cuirassés régnera sur les océans. Les cuirassés et les porte-avions représentent l'ancienne et la nouvelle supériorité navale."
  BHU_unthinkable_offensive:0 "L'offensive impensable"
  BHU_unthinkable_offensive_desc:0 "Au-delà des vastes montagnes des mers se trouve notre destin. Au-delà de ces sommets en mouvement se trouve notre gloire. Partout dans le monde, les dragons seront craints !"
- 
  BHU_new_ideas:0 "Nouvelles idées"
  BHU_new_ideas_desc:0 "Le monde extérieur nous offre de nouvelles façons d'envisager notre gouvernement. Démocratie, communisme, fascisme, ces idéologies représentent des alternatives."
  BHU_our_own_way:0 "Notre propre voie"
@@ -201,8 +172,6 @@ l_french:
  BHU_spread_aggressive_attitude_desc:0 "La paix est une illusion destinée à éloigner le peuple de son véritable état naturel qui est de montrer sa supériorité par le combat."
  BHU_mass_conscription:0 "Conscription en masse"
  BHU_mass_conscription_desc:0 "Le peuple doit être mobilisé et faire son devoir pour accomplir sa grande destinée !"
- BHU_armement_program:0 "Spread Aggressive Attitude"
- BHU_armement_program_desc:0 "Our country had been sleepwalking through history due to the influence of inherently weak concepts such as peace and compassion. Good soldiers won't be created without the valorization of aggressiveness and struggle as a way of life and of triumph over death."
  BHU_armement_program:0 "Programme d'armement"
  BHU_armement_program_desc:0 "Notre vision ne sera pas réalisable si nous n'avons pas une armée bien équipée."
  BHU_dragons_storm:0 "Tempête de dragons"
@@ -215,7 +184,6 @@ l_french:
  BHU_swallow_the_white_sun_desc:0 "Des siècles de domination [CHI.GetAdjFS] ont laissé de graves cicatrices sur le visage et le corps de notre société. Le peuple [BHU.getAdjMS] va se soulever contre l'occupation étrangère, l'impérialisme et les gouvernements corrompus disséminés dans la plaine centrale. Que l'Est tremble de peur en regardant l'ascension [BHU.GetDuDelaDelNP] [BHU.GetName] !"
  BHU_extinguish_the_red_sun:0 "Éteindre le soleil rouge"
  BHU_extinguish_the_red_sun_desc:0 "Les [JAP.GetHabitants] prétendent que leur destin est d'apporter la paix et la prospérité en Asie. Pourtant, nous savons tous que ce n'est rien de plus qu'un déguisement pour leurs ambitions impérialistes et bellicistes. Montrons-leur qu'ils ont tort en imposant le gouvernement légitime sous notre juridiction directe !"
-
  BHU_maintain_monarchic_regime:0 "Maintenir le régime monarchique"
  BHU_maintain_monarchic_regime_desc:0 "Le roi dragon est la tête et la fondation de notre pays."
  BHU_reinforce_the_throne:0 "Renforcer le trône"
@@ -228,9 +196,6 @@ l_french:
  BHU_aristocratic_regime_desc:0 "Les grandes familles sont importantes pour assurer la stabilité de nos institutions"
  BHU_forced_industrial_progress:0 "Progrès industriel forcé"
  BHU_forced_industrial_progress_desc:0 "Monarchistes, démocrates et fascistes - tous ont échoué à atteindre la prospérité industrielle et l'indépendance économique souhaitées de notre pays. Seul le communisme, avec ses programmes d'industrialisation, conduira la nation [BHU.GetAdjFS] à l'émancipation du prolétariat."
-
- #events 
- #spicyedits
  himalaya_bhutan.2:0 "Conséquences de la visite en Inde"
  himalaya_bhutan.2.t:0 "Conséquences de la visite en Inde"
  himalaya_bhutan.2.desc:0 "Pour la première fois depuis des années, le roi se rend en Inde. Ces voyages ont confirmé le plan de modernisation du pays précédemment approuvé tout en confirmant la situation politique du royaume. Cela pourrait être le signe que le royaume pourrait subir des changements massifs dans les années à venir..."

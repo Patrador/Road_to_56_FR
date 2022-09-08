@@ -95,11 +95,11 @@
  wtt_germany.13.d:0 "Grâce à notre soutien, les [From.GetHabitants] sont en bonne posture pour mener à bien la réunification de l'Empire d'Autriche-Hongrie. Des traités ont été signés ce matin entre toutes les parties impliquées, mettant fin à deux décennies de sentiments séparatistes.\n\nLe nouveau gouvernement unifié a immédiatement promis son soutien militaire à notre cause, devenant dans les faits membre [GER.GetDuDelaDelFaction] [GER.GetFactionName]."
  wtt_germany.13.a:0 "Notre vieil allié est revenu à nos côtés"
  wtt_germany.14.t:0 "[GER.GetLeLaLNPCap] [GER.GetName] propos[GER.GetEEntNP]\n[GER.GetSaLeurNP] garantie contre Gdansk"
- wtt_germany.14.d:1 "\n[GER.GetLeLaLNPCap] [GER.GetName] nous [GER.GetAOntNP] approchés pour faire une offre dont [GER.GetIlElleNP] prétend[GER.GetXEntNP] qu'elle pourrait être intéressante aux deux parties : au regard de la situation politique actuelle et de la menace à notre frontière orientale, les [GER.GetHabitants] sont prêts à nous assurer d'une intervention militaire au cas où nous entrerions en guerre contre [SOV.GetLeLaLNP] [SOV.GetName]. En retour, ils ne demandent que la rétrocession des territoires de Gdansk et Poznań qu'ils ont perdus."
+ wtt_germany.14.d:0 "\n[GER.GetLeLaLNPCap] [GER.GetName] nous [GER.GetAOntNP] approchés pour faire une offre dont [GER.GetIlElleNP] prétend[GER.GetXEntNP] qu'elle pourrait être intéressante aux deux parties : au regard de la situation politique actuelle et de la menace à notre frontière orientale, les [GER.GetHabitants] sont prêts à nous assurer d'une intervention militaire au cas où nous entrerions en guerre contre [SOV.GetLeLaLNP] [SOV.GetName]. En retour, ils ne demandent que la rétrocession des territoires de Gdansk et Poznań qu'ils ont perdus."
  wtt_germany.14.a:0 "La puissance militaire [GER.GetAdjFS]\nnous serait plus utile que quelques villes"
  wtt_germany.14.b:0 "Jamais nous ne céderons nos territoires !"
  wtt_germany.15.t:0 "Les [POL.GetHabitants] acceptent notre offre"
- wtt_germany.15.d:1 "[POL.GetLeLaLNPCap] [POL.GetName] [POL.GetAOntNP] décidé d'accepter notre offre et procédé aux arrangements pour le transfert de [POL.GetSesLeursNP] provinces frontalières sous autorité [GER.GetAdjFS]. [POL.GetIlElleNPCap] nous [POL.GetFaitFontNP] donc confiance, mais nous demand[POL.GetEEntNP] de nous tenir prêts en cas d'agression [SOV.GetAdjFS]..."
+ wtt_germany.15.d:0 "[POL.GetLeLaLNPCap] [POL.GetName] [POL.GetAOntNP] décidé d'accepter notre offre et procédé aux arrangements pour le transfert de [POL.GetSesLeursNP] provinces frontalières sous autorité [GER.GetAdjFS]. [POL.GetIlElleNPCap] nous [POL.GetFaitFontNP] donc confiance, mais nous demand[POL.GetEEntNP] de nous tenir prêts en cas d'agression [SOV.GetAdjFS]..."
  wtt_germany.15.a:0 "Enfin, le désastre de Versailles a été réparé !"
  wtt_germany.16.t:0 "Les [POL.GetHabitants] rejettent notre offre"
  wtt_germany.16.d:0 "[POL.GetLeLaLNPCap] [POL.GetName] [POL.GetAOntNP] décidé de rejeter notre proposition. Dans une langue colorée, [POL.GetIlElleNP] nous [POL.GetAOntNP] fait savoir clairement qu'[POL.GetIlElleNP] ne céder[POL.GetAOntNP] jamais la souveraineté sur [POL.GetSesLeursNP] territoires de façon volontaire, et préférerai[POL.GetTEntNP] encore faire face seul[POL.GetXENP] à l'ennemi si c'était là le prix à payer pour avoir l'aide des [GER.GetHabitants]."
@@ -112,7 +112,7 @@
  wtt_germany.18.d:1 "Nous sommes enfin parvenus à débarrasser le pays de ses ennemis, et les loyaux citoyens qui se sont soulevés pour soutenir la cause ont pu regagner leurs maisons. Maintenant commence la longue et difficile reconstruction du pays. Les élites peuvent maintenant regarder vers l'avenir, et trancher la question de l'instauration de la démocratie ou du retour à l'ancienne monarchie.\n\nUne dernière chose reste aussi à voir : maintenant que la guerre civile est terminée, nos troupes sont parvenues à capturer un groupe important de dignitaires nazis. Nous devons donc maintenant décider ce qu'il convient de faire de ces vestiges de notre histoire récente si peu glorieuse..."
  wtt_germany.18.a:0 "Faisons-les pendre !"
  wtt_germany.18.b:0 "Faisons-les emprisonner à perpétuité,\nils pourraient être utiles à l'avenir"
- wtt_germany.19.t:1 "[GER.GetLeLaLNPCap] [GER.GetName] se dress[GER.GetEEntNP]\ncontre [SOV.GetLeLaLNP] [SOV.GetName]"
+ wtt_germany.19.t:0 "[GER.GetLeLaLNPCap] [GER.GetName] se dress[GER.GetEEntNP]\ncontre [SOV.GetLeLaLNP] [SOV.GetName]"
  wtt_germany.19.d:0 "\nLes discours récents [GER.GetDuDelaDelNP] [GER.GetName], dirigés contre nous, ont progressivement commencé à dégrader notre réputation en Europe. [GER.GetSesLeursNPCap] accusations calomnieuses sur les prétendues « agressions [SOV.GetAdjFP] » commencent à causer peur et incompréhension à notre égard."
  wtt_germany.19.a:0 "Lançons de grandes manœuvres\npour tous les intimider"
  GER_soviet_military_exercises:0 "Manœuvres militaires"
@@ -131,12 +131,8 @@
  wtt_germany.21.a:0 "Nous devrions agir tout de suite\npour nous assurer les autres pays !"
  GER_soviet_securing_sphere:0 "Protection de la sphère d'influence soviétique"
  wtt_germany.21.b:0 "Mieux vaudrait éviter\nde trop provoquer les Occidentaux"
- wtt_germany.24.t:1 "Le péril [GER.GetGreatRedMenaceName]"
- wtt_germany.24.d:1 "En recourant aussi bien à des canaux officiels que cachés, [GER.GetLeLaLNP] [GER.GetName] [GER.GetAOntNP] clairement fait savoir que selon [GER.GetLuiElleEuxNP] [GER.GetGreatRedMenaceEventDesc1].\n\n[GER.GetIlElleNPCap] nous pouss[GER.GetEEntNP] donc à nous rappeler que [Root.GetLeLaLNP] [Root.GetName] [Root.GetNestNesontNP] pas seul[Root.GetXENP] dans [Root.GetSonLeurNP] combat [GER.GetGreatRedMenaceEventDesc2], et que si l'Europe parvenait à s'unir il lui serait tout à fait possible d'abattre l'ours rouge."
- SOV_GREAT_RED_MENACE_EVENT_DESC_1_COMMUNIST:0 "[SOV.GetLeLaLNP] [SOV.GetName] [SOV.GetEstSontNP] et [SOV.GetAOntNP] toujours été, depuis [SOV.GetSaLeurNP] formation il y a deux décennies, la plus grave menace pesant sur la stabilité de l'Europe"
- SOV_GREAT_RED_MENACE_EVENT_DESC_1_EXILES:0 "l'impérialisme [SOV.GetAdjMS] est et a toujours été, au cours de l'histoire récente, la plus grave menace pesant sur la stabilité de l'Europe"
- SOV_GREAT_RED_MENACE_EVENT_DESC_2_COMMUNIST:0 "contre le communisme"
- SOV_GREAT_RED_MENACE_EVENT_DESC_2_EXILES:0 "contre le danger à l'est"
+ wtt_germany.24.t:0 "Le péril [GER.GetGreatRedMenaceName]"
+ wtt_germany.24.d:0 "En recourant aussi bien à des canaux officiels que cachés, [GER.GetLeLaLNP] [GER.GetName] [GER.GetAOntNP] clairement fait savoir que selon [GER.GetLuiElleEuxNP] [GER.GetGreatRedMenaceEventDesc1].\n\n[GER.GetIlElleNPCap] nous pouss[GER.GetEEntNP] donc à nous rappeler que [Root.GetLeLaLNP] [Root.GetName] [Root.GetNestNesontNP] pas seul[Root.GetXENP] dans [Root.GetSonLeurNP] combat [GER.GetGreatRedMenaceEventDesc2], et que si l'Europe parvenait à s'unir il lui serait tout à fait possible d'abattre l'ours rouge."
  wtt_germany.24.a:0 "Espérons que les [GER.GetHabitants] ont raison"
  wtt_germany.25.t:0 "[SOV.GetLeLaLNPCap] [SOV.GetName] cherch[SOV.GetEEntNP]\nà apaiser les tensions"
  wtt_germany.25.d:0 "\n[SOV.GetLeLaLNPCap] [SOV.GetName] [SOV.GetFaitFontNP] tout pour soulager les inquiétudes des pays européens. Au cours d'une annonce publique, le gouvernement [SOV.GetAdjMS] a ainsi affirmé n'avoir aucune intention hostile et espérer que sa réaction mesurée face aux discours hostiles [GER.GetDuDelaDelNP] [GER.GetName] en serait la plus parfaite illustration."
@@ -386,7 +382,7 @@
  wtt_news.19.c:0 "Quelle bande de sournois perfides !"
  wtt_news.19.d:0 "C'est indéniablement un arrangement\ndiplomatique remarquable"
  wtt_news.20.t:0 "[GER.GetLeLaLNPCap] [GER.GetName] annonc[GER.GetEEntNP]\nla signature du pacte antisoviétique"
- wtt_news.20.desc:1 "\n\nFaisant face à ce qu'[GER.GetIlElleNP] perçoi[GER.GetTVentNP] comme une hostilité croissante de la part des [SOU.GetHabitants], [GER.GetLeLaLNP] [GER.GetName] [GER.GetAOntNP] offert la possibilité « aux États sous la menace immédiate du communisme » de ratifier un pacte contre [SOU.GetLeLaLNP] [SOU.GetName] : si [SOU.GetCeluiCelleNP]-ci devai[SOU.GetTEntNP] entrer en guerre contre n'importe lequel des pays signataires, tous les autres seraient aussitôt appelés à participer au conflit."
+ wtt_news.20.desc:0 "\n\nFaisant face à ce qu'[GER.GetIlElleNP] perçoi[GER.GetTVentNP] comme une hostilité croissante de la part des [SOU.GetHabitants], [GER.GetLeLaLNP] [GER.GetName] [GER.GetAOntNP] offert la possibilité « aux États sous la menace immédiate du communisme » de ratifier un pacte contre [SOU.GetLeLaLNP] [SOU.GetName] : si [SOU.GetCeluiCelleNP]-ci devai[SOU.GetTEntNP] entrer en guerre contre n'importe lequel des pays signataires, tous les autres seraient aussitôt appelés à participer au conflit."
  wtt_news.21.t:0 "[GER.GetLeLaLNPCap] [GER.GetName] se dress[GER.GetEEntNP]\ncontre [SOV.GetLeLaLNP] [SOV.GetName]"
  wtt_news.21.desc:0 "\n\nLe gouvernement [GER.GetAdjMS] pratique une rhétorique de plus en plus agressive envers [SOV.GetLeLaLNP] [SOV.GetName], prévenant que [SOV.GetLeLaFNP] voisin[SOV.GetXENP] des pays d'Europe orientale [SOV.GetNestNesontNP] rien d'autre que l'incarnation de cette « menace rouge » qui pèse sur tout le continent.\n    Que ces discours n'aient d'autre objectif que de prêcher la peur ou qu'ils aient de réels fondements reste sujet à débats, mais une chose au moins est certaine : les [GER.GetHabitants] ont bien l'intention d'unir l'Europe face aux [SOV.GetHabitants]."
  wtt_news.21.a:0 "Le monde doit prendre conscience\nde la menace [SOV.GetAdjFS] !"
@@ -703,11 +699,11 @@
  wtt_japan.125.t:0 "[From.GetLeLaLNPCap] [From.GetName]\nnous rétrocèd[From.GetEEntNP] la Mandchourie"
  wtt_japan.125.desc:0 "\nAprès avoir libéré la Mandchourie des [JAP.GetHabitants] et l'avoir débarrassée de l'empereur Qing déchu, [From.GetLeLaLNP] [From.GetName] se propos[From.GetEEntNP] de nous la rétrocéder afin qu'elle revienne sous une autorité [Root.GetAdjFS] légitime."
  wtt_japan.126.t:0 "[From.GetLeLaLNPCap] [From.GetName]\nnous propos[From.GetEEntNP] la paix"
- wtt_japan.126.desc:2 "\nDes diplomates [From.GetAdjMP] nous ont contactés avec une proposition de paix. [From.GetLeLaLNPCap] [From.GetName] [From.GetEstSontNP] prêt[From.GetXENP] à se retirer entièrement du continent en échange d'une cessation immédiate des hostilités."
+ wtt_japan.126.desc:1 "\nDes diplomates [From.GetAdjMP] nous ont contactés avec une proposition de paix. [From.GetLeLaLNPCap] [From.GetName] [From.GetEstSontNP] prêt[From.GetXENP] à se retirer entièrement du continent en échange d'une cessation immédiate des hostilités."
  wtt_japan.126.a:0 "Nous avons gagné la guerre"
  wtt_japan.126.b:0 "Nous ne pouvons accepter autre chose\nqu'une reddition sans condition"
  wtt_japan.127.t:0 "[From.GetLeLaLNPCap] [From.GetName] accept[From.GetEEntNP]\nnotre proposition de paix"
- wtt_japan.127.desc:1 "\n[From.GetLeLaLNPCap] [From.GetName] [From.GetAOntNP] accepté notre offre de paix et de mettre un terme aux hostilités en échange de toutes les possessions [Root.GetAdjFP] sur le continent."
+ wtt_japan.127.desc:0 "\n[From.GetLeLaLNPCap] [From.GetName] [From.GetAOntNP] accepté notre offre de paix et de mettre un terme aux hostilités en échange de toutes les possessions [Root.GetAdjFP] sur le continent."
  wtt_japan.127.a:0 "Les [From.GetHabitants] nous ont vaincus...\nTemporairement"
  wtt_japan.128.t:0 "[From.GetLeLaLNPCap] [From.GetName]\nrefus[From.GetEEntNP] la paix"
  wtt_japan.128.desc:0 "\n[From.GetLeLaLNPCap] [From.GetName] [From.GetAOntNP] refusé toute offre de paix, jurant de poursuivre le combat jusqu'à ce que nous acceptions une reddition sans condition."
@@ -903,13 +899,6 @@
  wtt_news.51.desc:0 "La radio [GER.GetAdjFS] a annoncé aujourd'hui que des traîtres au sein de l'armée avaient tenté de mener un coup d'État militaire [GER.GetAuEnANP] [GER.GetName]. Après qu'une explosion eut été entendue dans les quartiers généraux du Führer, dont [GER.GetLeLaLDir] [GER.GetLeader] a réchappé miraculeusement indemne malgré plusieurs autres blessés, des unités de l'armée ont tenté de prendre le contrôle de plusieurs bâtiments gouvernementaux à Berlin.\n    La nouvelle de sa survie a été rapidement connue, et la plupart des unités putschistes sont dès lors rentrées dans les casernes.\n    Un certain nombre d'officiers [GER.GetAdjMP] de haut rang ont préféré se suicider plutôt que faire face à l'indignité d'un procès face au tristement célèbre Tribunal du peuple."
  wtt_news.51.c:0 "Serait-ce le début de la fin ?"
  wtt_news.52.desc:0 "\nLa radio [GER.GetAdjFS] a annoncé aujourd'hui que [GER.GetLeLaLDir] [GER.GetLeader] avait pris la tête du gouvernement. Après un échange de tirs au sein du bunker du Führer, au cours duquel celui-ci a été mortellement blessé, les unités de la SS ont rapidement pris le contrôle de tous les carrefours routiers et ferrés en périphérie de Berlin.\n    Pendant ce temps, les unités de la Luftwaffe et de la Heer auraient reçu l'ordre de faire mouvement vers la capitale afin d'y restaurer l'ordre."
-
-###  ##  ###  #   #  ##  ###  #   ###     #  #  ##  ### ###  ##  #  #  ##
-#   #  # #  # ## ## #  # #  # #   #       ## # #  #  #   #  #  # ## # #
-##  #  # ###  # # # #### ###  #   ##      # ## ####  #   #  #  # # ##  #
-#   #  # #  # #   # #  # #  # #   #       #  # #  #  #   #  #  # #  #   #
-#    ##  #  # #   # #  # ###  ### ###     #  # #  #  #  ###  ##  #  # ##
-
  wtt_news.53.t:0 "Unification de la Scandinavie"
  wtt_news.53.desc:0 "Par la force des armes, les [From.GetHabitants] sont parvenus à unir l'ensemble des peuples scandinaves sous leur autorité, et leur gouvernement s'est donné pour priorité l'intégration des territoires récemment conquis. Afin de rallier tous ces peuples derrière l'État, une intense campagne de propagande pan-nationaliste a été lancée.\n    Par contrecoup, les partisans de l'unification scandinave ont déjà commencé à en référer à des précédents historiques, et indiquent que la situation actuelle n'est au final que l'héritage de tentatives plus anciennes pour unir la région. Le gouvernement [From.GetAdjMS] a évidemment saisi l'occasion et vient de proclamer « la restauration de l'Union de Kalmar » et renommé le pays « [From.GetName] »."
  wtt_news.53.a:0 "Jour de gloire pour tous les Scandinaves !"
@@ -927,7 +916,7 @@
  wtt_news.56.desc:0 "\nAyant pris le contrôle de tous les anciens territoires austro-hongrois, le gouvernement [From.GetAdjMS], dernier de ceux des États issus du démembrement de l'ancienne monarchie Habsbourg, a lancé l'intégration des régions conquises. Une vaste opération de propagande a été lancée, vantant les « jours de gloire de l'Empire », avec pour objectif évident de rallier les populations derrière les réformes nationales et le retour aux normes impériales.\n    En ce sens et afin de refléter cette nouvelle étape de son histoire, le gouvernement a annoncé la restauration des idéaux de l'Empire et rebaptisé le pays « [From.GetName] »."
  wtt_news.56.a:0 "Indivisibiliter ac inseparabiliter !"
  wtt_news.56.b:0 "C'est donc le retour de la double monarchie ?"
- wtt_news.57.t:1 "Résurgence de la République des Deux Nations"
+ wtt_news.57.t:0 "Résurgence de la République des Deux Nations"
  wtt_news.57.desc:0 "\n[POL.GetHabitants] et [LIT.GetHabitants] sont de nouveau réunis au sein d'un même État, aussi le gouvernement [From.GetAdjMS] a-t-il commencé à faire appel à l'histoire dans ses opérations de propagande visant à unir les deux peuples. Des « historiens », reprenant les récits des batailles glorieuses du passé, n'ont de cesse d'affirmer que les deux pays réunifiés pourront mieux résister aux menaces à leurs frontières, comme la République des Deux Nations de jadis.\n    Aujourd'hui, le gouvernement a franchi une nouvelle étape en proclamant la restauration de l'union polono-lituanienne de jadis et en rebaptisant le pays « [From.GetName] »."
  wtt_news.57.a:0 "Mais si Dieu est avec nous,\nqui sera contre nous ?"
  wtt_news.57.b:0 "Et ils vont survivre à la partition, cette fois ?"
@@ -983,38 +972,25 @@
  wtt_news.70.desc:0 "Sous la houlette de la Kaiserin Victoria, les [From.GetHabitants] ont grandement étendu leurs possessions territoriales, surpassant même celles du Saint-Empire romain germanique de jadis. Tous les ennemis sur le continent européen qui étaient en mesure de contester leur puissance ont été mis à genoux par la machine de guerre [From.GetAdjFS], les laissant sans réels rivaux.\n    La Kaiserin vient donc de décréter que les circonstances actuelles devaient être mises à profit, et que le pays devait redevenir le successeur spirituel du Saint-Empire. Afin de rendre ce fait plus visible, il a donc été rebaptisé « [From.GetName] ». Ce faisant, Victoria III vient ainsi de parachever une unification politique qui avait échappé durant des siècles aux empereurs."
  wtt_news.70.a:0 "Aquila Elegit Iovis Omnia Vincit !"
  wtt_news.70.b:0 "Le fait est qu'on ne peut nier\nni sa splendeur, ni sa gloire"
-
-
-#   #  ##  ###  #    ##  ###  ###      #   #  ##     ###  ###   ##
-#   # #  # #  # #   #  # #  # #  #     #   # #       #  # #  # #  #
-# # # #### ###  #   #  # ###  #  #      # #   #      ###  ###  #
-# # # #  # #  # #   #  # #  # #  #      # #    #     #    #  # #  #
- # #  #  # #  # ###  ##  #  # ###        #   ##      #    #  #  ##
- #Ask soviet for support
  wtt_warlord_vs_prc.1.t:0 "[warlord.GetLeLaLDirCap] [warlord.GetLeader] demande notre soutien"
- wtt_warlord_vs_prc.1.desc:1 "Une délégation envoyée par [warlord.GetLeLaLDir] [warlord.GetLeader] est arrivée à Moscou pour nous sonder sur un hypothétique soutien dans les conflits internes au Parti chinois. Elle prétend que [communist_china.GetLeLaLDir] [communist_china.GetLeader] n'est pas suffisamment impliqué[communist_china.GetXEDir] dans la cause communiste et pourrait, en fait, dissimuler quelques tendances réactionnaires et songer à trahir la révolution au moment qui serait le plus dommageable.\n\n[warlord.GetLeLaLDirCap] [warlord.GetLeader] suggère donc que [SOU.GetLeLaLNP] [SOU.GetName] [warlord.GetLeLaFDir] soutienn[SOU.GetEEntNP] à sa place, promettant évidemment au passage une loyauté éternelle à la cause communiste en général, et [SOU.GetAuAlaAlDir] [SOU.GetLeader] en particulier."
+ wtt_warlord_vs_prc.1.desc:0 "Une délégation envoyée par [warlord.GetLeLaLDir] [warlord.GetLeader] est arrivée à Moscou pour nous sonder sur un hypothétique soutien dans les conflits internes au Parti chinois. Elle prétend que [communist_china.GetLeLaLDir] [communist_china.GetLeader] n'est pas suffisamment impliqué[communist_china.GetXEDir] dans la cause communiste et pourrait, en fait, dissimuler quelques tendances réactionnaires et songer à trahir la révolution au moment qui serait le plus dommageable.\n\n[warlord.GetLeLaLDirCap] [warlord.GetLeader] suggère donc que [SOU.GetLeLaLNP] [SOU.GetName] [warlord.GetLeLaFDir] soutienn[SOU.GetEEntNP] à sa place, promettant évidemment au passage une loyauté éternelle à la cause communiste en général, et [SOU.GetAuAlaAlDir] [SOU.GetLeader] en particulier."
  wtt_warlord_vs_prc.1.a:0 "Avoir une marionnette pourrait s'avérer utile"
  wtt_warlord_vs_prc.1.a_tooltip:0 "Cela risque de déclencher une guerre contre [communist_china.GetLeLaLNP] §H[communist_china.GetName]§! si [communist_china.GetCeluiCelleNP]-ci refus[communist_china.GetEEntNP] la situation.\n"
  wtt_warlord_vs_prc.1.b:0 "Nous n'avons que faire de tels opportunistes"
- #soviet support new warlord and tells communist_china that they are done.
  wtt_warlord_vs_prc.2.t:0 "Un message [soviet.GetDuDelaDelDir] [soviet.GetLeader]"
  wtt_warlord_vs_prc.2.desc:0 "Un représentant du gouvernement [soviet.GetAdjMS] nous a informés que [soviet.GetLeLaLDir] [soviet.GetLeader] se montre très inquiet face à la justesse d'interprétation de la théorie marxiste par [communist_china.GetLeLaLDir] [communist_china.GetLeader]. Dans cette phase critique pour la lutte des classes en Chine, nous ne devons en aucun cas dévier de l'application correcte des enseignements du marxisme-léninisme.\n\nOr, Moscou semble croire que [warlord.GetLeLaLDir] [warlord.GetLeader] a une bien meilleure compréhension de ce qui est nécessaire aux progrès de la cause communiste en Chine. Pour ce qu'en pense [soviet.GetLeLaLDir] [soviet.GetLeader], le Parti ferait donc bien de reconnaître [warlord.GetLeLaLDir] [warlord.GetLeader] comme nouveau président, ou risquerait de connaître quelques désagréments."
  wtt_warlord_vs_prc.2.a:0 "[communist_china.GetLeLaLDirCap] [communist_china.GetLeader] devrait\naller à Moscou régler la question"
  wtt_warlord_vs_prc.2.b:0 "Nous ne nous inclinerons\njamais face à des traîtres !"
- #soviet tells Warlord no support
  wtt_warlord_vs_prc.3.t:0 "Refus [SOV.GetDuDelaDelDir] [SOV.GetLeader]"
  wtt_warlord_vs_prc.3.desc:0 "[SOV.GetLeLaLDirCap] [SOV.GetLeader] se serait montré[SOV.GetXEDir] peu convaincu[SOV.GetXEDir] de notre loyauté ou de notre capacité à prendre la tête des communistes. [SOV.GetLeLaLNPCap] [SOV.GetName] [SOV.GetAOntNP] donc décidé de continuer à apporter [SOV.GetSonLeurNP] soutien [communist_china.GetAuAlaAlDir] [communist_china.GetLeader] en tant que président[communist_china.GetXEDir] du Parti communiste chinois."
  wtt_warlord_vs_prc.3.a:0 "Évitons que cette affaire s'ébruite..."
- #Warlord is told they are now the new communist_china.
  wtt_warlord_vs_prc.4.t:0 "[communist_china.GetLeLaLNPCap] [communist_china.GetName] se soume[communist_china.GetTTtentNP]"
  wtt_warlord_vs_prc.4.desc:0 "Les appels désespérés [communist_china.GetDuDelaDelDir] [communist_china.GetLeader] [SOV.GetAuAlaAlDir] [SOV.GetLeader] n'ont pas fait transiger les [SOV.GetHabitants]. Aussi, reconnaissant que le combat était pour [communist_china.GetLuiElleDir] perdu d'avance, [communist_china.GetLeLaLDir] [communist_china.GetLeader] a publiquement reconnu ses erreurs et promis de travailler désormais avec nous à assurer la victoire de la révolution."
  wtt_warlord_vs_prc.4.a:0 "Parfait"
- ##Neighboring warlord told to join or die
  wtt_warlord_vs_prc.10.t:0 "L'unité ou la mort"
  wtt_warlord_vs_prc.10.desc:0 "Devant choisir entre céder le pouvoir et prendre au mot les [SOV.GetHabitants], [communist_china.GetLeLaLDir] [communist_china.GetLeader] a choisi cette dernière possibilité. Malheureusement, il semble [SOV.GetQueleQuelaQuelDir] [SOV.GetLeader] ne bluffait pas, et les hostilités ont déjà éclaté. Étant donnée notre situation pour le moins précaire, des pressions ont été exercées sur nous par les deux partis, [SOV.GetLeLaLNP] [SOV.GetName] notamment exigeant que nous [SOV.GetLLesFNP] aidions à chasser [communist_china.GetCeluiCelleDir] qui est désormais devenu[communist_china.GetXEDir] [SOV.GetSonLeurNP] ennemi[communist_china.GetXEDir].\n\nPour ce que l'on en sait, tout refus reviendrait à choisir le parti [communist_china.GetDuDelaDelDir] [communist_china.GetLeader]."
  wtt_warlord_vs_prc.10.a:0 "Mourir pour [communist_china.GetLuiElleDir] n'en vaut pas la peine"
  wtt_warlord_vs_prc.10.b:0 "Nous ne pouvons nous rendre complices de ça !"
- #Soviet asks WTT_communist_china for more stuff after having supported them
  wtt_warlord_vs_prc.21.t:0 "[From.GetLeLaLDirCap] [From.GetLeader] exige un plus grand soutien"
  wtt_warlord_vs_prc.21.desc:0 "Un message [From.GetDuDelaDelDir] [From.GetLeader] nous est parvenu, exigeant que nous augmentions les quantités sur lesquelles nous nous étions accordés pour l'aide économique envers [From.GetLeLaLNP] [From.GetName]."
  wtt_warlord_vs_prc.21.a:0 "C'est le prix à payer..."
@@ -1026,7 +1002,6 @@
  wtt_warlord_vs_prc.23.desc:0 "\n[From.GetLeLaLDirCap] [From.GetLeader] a répondu à nos demandes d'accroissement de son soutien par un refus simple et clair, au prétexte que son pays était incapable d'effectuer les paiements « absurdes » que nous attendons de lui."
  wtt_warlord_vs_prc.23.a:0 "[From.GetIlElleDirCap] nous l'a promis,\net on aura ce qu'[From.GetIlElleDir] nous doit"
  wtt_warlord_vs_prc.23.b:0 "Laissons faire pour cette fois"
- #Soviet asks WTT_communist_china to become puppet
  wtt_warlord_vs_prc.31.t:0 "[From.GetLeLaLDirCap] [From.GetLeader] demande\nune coopération plus étroite"
  wtt_warlord_vs_prc.31.desc:0 "\nUn message [From.GetDuDelaDelDir] [From.GetLeader] nous est parvenu, disant qu'en l'état actuel des choses la lutte révolutionnaire est particulièrement vulnérable et pourrait être victime d'une contre-révolution. Son représentant spécial a reçu pour ordre de surveiller de près la façon dont le pays procède et de nous fournir ses conseils pour mener à son terme la lutte des classes.\n\nLa note [From.GetDuDelaDelDir] [From.GetLeader] indique par ailleurs que toute déviance par rapport à ses « suggestions » devrait être considérée comme une indication que des éléments réactionnaires ont pris le contrôle de notre gouvernement, et que des mesures immédiates devraient alors être envisagées."
  wtt_warlord_vs_prc.31.a:0 "Nous accueillons avec humilité\ncette occasion d'en apprendre davantage"
@@ -1040,12 +1015,10 @@
  wtt_warlord_vs_prc.34.t:0 "[From.GetLeLaLNPCap] [From.GetName]\nrefus[From.GetEEntNP] de payer"
  wtt_warlord_vs_prc.34.desc:0 "\n[From.GetLeLaLDirCap] [From.GetLeader] a ignoré nos demandes de plus en plus pressantes de verser les paiements qui étaient convenus entre nous. Même la demande qu'[From.GetIlElleDir] vienne s'expliquer à Moscou est restée lettre morte..."
  wtt_warlord_vs_prc.34.a:0 "Chercherait-[From.GetIlElleDir] à voir\njusqu'où nous pouvons aller ?"
- # PRC informed a warlord wants to create a faction
  wtt_warlord_vs_prc.35.t:0 "Alliance avec [From.GetLeLaLNP] [From.GetName]"
  wtt_warlord_vs_prc.35.desc:0 "[From.GetLeLaLNPCap] [From.GetName] [From.GetAOntNP] proposé que tous les communistes chinois se rassemblent au sein d'une seule faction. Selon [From.GetLuiElleEuxNP], seule l'union sous un seul drapeau, celui d'un Front populaire, peut garantir la défaite ultime à la fois des nationalistes, des réactionnaires et des envahisseurs étrangers."
  wtt_warlord_vs_prc.35.a:0 "Désormais, le héros ce sera le peuple !"
  wtt_warlord_vs_prc.35.b:0 "Cela ne favorise en rien\nles intérêts [Root.GetDuDelaDelNP] [Root.GetName]"
- # If a human PRC rejects the faction, the warlord can dismantle it altogether
  wtt_warlord_vs_prc.36.t:0 "[From.GetLeLaLDirCap] [From.GetLeader] refuse toute alliance"
  wtt_warlord_vs_prc.36.desc:0 "[From.GetLeLaLDirCap] [From.GetLeader] a refusé de prendre le chemin qui aurait été de loin le plus aisé, celui d'un Front populaire capable de rassembler tous les communistes à la fois contre les nationalistes, les réactionnaires et les envahisseurs étrangers. Selon [From.GetLuiElleDir], la formation d'une telle alliance serait « contraire aux intérêts [From.GetDuDelaDelNP] [From.GetName] »."
  wtt_warlord_vs_prc.36.a:0 "Nous devrons donc nous débrouiller seuls"
@@ -1113,11 +1086,8 @@
  japan_border_conflict.4.desc:0 "Les combats entre les forces [JAP.GetAdjFP] et [SOV.GetAdjFP] autour du lac Khassan se sont terminés après que les deux armées ont préféré se retirer de la région disputée pour se regrouper et recevoir du ravitaillement. Bien consciente de la futilité qu'il y aurait à lancer de nouvelles offensives, l'armée [JAP.GetAdjFS] a demandé un cessez-le-feu et des négociations pour fixer la frontière."
  japan_border_conflict.4.a:0 "Nous y avons au moins gagné\nune expérience non négligeable"
  japan_border_conflict.5.t:0 "Aggravation de la situation au lac Khassan"
- japan_border_conflict.5.desc:1 "Les combats entre les forces [JAP.GetAdjFP] et [SOV.GetAdjFP] continuent. Cherchant à déverrouiller la situation, l'armée [JAP.GetAdjFS] a fait intervenir des troupes d'autres régions pour attaquer les [SOV.GetHabitants] du secteur. Les services de renseignements suggèrent que [JAP.GetLeLaLNP] [JAP.GetName] pourrai[JAP.GetTEntNP] même bientôt lancer une attaque d'envergure avec des troupes fraîches venues d'autres régions de l'Empire."
+ japan_border_conflict.5.desc:0 "Les combats entre les forces [JAP.GetAdjFP] et [SOV.GetAdjFP] continuent. Cherchant à déverrouiller la situation, l'armée [JAP.GetAdjFS] a fait intervenir des troupes d'autres régions pour attaquer les [SOV.GetHabitants] du secteur. Les services de renseignements suggèrent que [JAP.GetLeLaLNP] [JAP.GetName] pourrai[JAP.GetTEntNP] même bientôt lancer une attaque d'envergure avec des troupes fraîches venues d'autres régions de l'Empire."
  japan_border_conflict.5.a:0 "Nous devons tenir le front"
- japan_border_conflict.6.t:0 "$japan_border_conflict.5.t$"
- japan_border_conflict.6.desc:0 "Les combats entre les forces [From.GetAdjFP] et [JAP.GetAdjFP] continuent. Cherchant à déverrouiller la situation, l'armée [From.GetAdjFS] a fait intervenir des troupes d'autres régions pour attaquer les [JAP.GetHabitants] du secteur. Les services de renseignement suggèrent que [From.GetLeLaLNP] [From.GetName] pourrai[From.GetTEntNP] même bientôt lancer une attaque d'envergure avec des troupes fraîches venues d'autres régions du pays."
- japan_border_conflict.6.a:0 "Nous devons nous préparer !"
  JAP_kalkin_gol:0 "Soviétiques testés"
  wtt_prc.30.t:0 "Succès des provocations"
  wtt_prc.30.desc:0 "Sous le couvert de la nuit, nos camarades en [JAP.GetManchuriaPuppet] ont saboté une usine [JAP.GetAdjFS]. Les détails sur les dommages infligés sont peu nombreux, les impérialistes ayant fermé l'ensemble de la zone.\n\nMais ce seul fait indique que nous avons bien visé. Reste à voir, toutefois, si cela va obliger les [JAP.GetHabitants] à agir."
@@ -1125,6 +1095,3 @@
  wtt_prc.31.desc:0 "Sous le couvert de la nuit, nos camarades en [JAP.GetManchuriaPuppet] ont réussi à saboter un pont vital. Le commando réduit a rapporté qu'il avait été totalement détruit, de même qu'un train de munitions qui passait dessus à ce moment-là.\n\nIls se sont assurés d'être aperçus des habitants de la région, pour bien montrer qu'il s'agissait d'un acte de sabotage. Nous verrons bien comment les [JAP.GetHabitants] ont l'intention de réagir."
  wtt_prc.32.desc:0 "Une patrouille [JAP.GetAdjFS] a été attaquée et tuée en [JAP.GetManchuriaPuppet]. Les corps ont été laissés sur place, de manière à être certains que les impérialistes reçoivent bien le message.\n\nNous verrons s'ils estiment cette opération suffisante pour déclencher la guerre."
  wtt_prc.20.c:0 "Nous devrions nous retirer\ntotalement du continent"
-
-# === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
- japan_border_conflict.4.b:0 "Nous y avons au moins gagné\nune expérience non négligeable"

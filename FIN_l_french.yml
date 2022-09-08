@@ -2,7 +2,6 @@
  FIN_carl_mannerheim_leader_desc:0 "There might be another person in the formal role of leader of our nation. But with the many threats facing Finland, Mannerheim is now making all the decisions and guiding us though these dark days for our country."
  FIN_carl_mannerheim_leader_clear_desc:0 ""
  finnish_focus:0 "Finnish National Focus"
-#Focus
  fin_political_focus:0 "Address the Parliament"
  fin_political_focus_desc:0 "The world is changing rapidly, with new ideologies turning up, we need to start focusing on politics and what is the best for our people."
  fin_individual_freedom:0 "Continue Individual Freedom"
@@ -228,7 +227,7 @@
  fin_airforce:0 "Finnish Air Force"
  fin_airforce_desc:0 "The future of warfare is not in the land, nor in the sea, but in the skies. We feel it is important to build a better airforce."
  fin_fighterfocus:0 "Import Fokkers"
- fin_fighterfocus_desc:0 "The Dutch fokker series of airplanes are impressive and a musthave for our airforce."
+ fin_fighterfocus_desc:0 "The Dutch fokker series of airplanes are impressive and a must-have for our airforce."
  fin_bombers:0 "Foreign Bomber Designs"
  fin_bombers_desc:0 "Bombers are an important part of any airforce, buying foreign bomber production licenses will allow us to field more bombers."
  fin_airbase:0 "Improved Air Bases"
@@ -292,10 +291,8 @@
  fin_balticsafety_desc:0 "The Soviets have claimed our and our allies territories, we should do something about this. "
  fin_independent_diplomacy:0 "Independent Diplomacy"
  fin_independent_diplomacy_desc:0 "We don't need anybody to achieve greatness!"
-
- ##############################DECISIONS ###########################################
  FIN_the_winter_war_category:0 "The Winter War"
- FIN_the_winter_war_category_desc:0 "The culmination of [SOV.getAdjective] expansionist policies is the colossal invasion of our country across the whole length of [SOV.getAdjective]-[FIN.getAdjective] border under the premise of "liberation of [FIN.getAdjective] people from oppressive regime". Yet we all know that this is nothing but a ploy to incorporate our freedom-loving nation back as a Grand Duchy of Finland under the direct Moscow rule. \n\nThey will experience Sisu on themselves and see what our soldiers have to offer."
+ FIN_the_winter_war_category_desc:0 "The culmination of [SOV.getAdjective] expansionist policies is the colossal invasion of our country across the whole length of [SOV.getAdjective]-[FIN.getAdjective] border under the premise of \"liberation of [FIN.getAdjective] people from oppressive regime\". Yet we all know that this is nothing but a ploy to incorporate our freedom-loving nation back as a Grand Duchy of Finland under the direct Moscow rule. \n\nThey will experience Sisu on themselves and see what our soldiers have to offer."
  FIN_offer_concessions_to_soviets:0 "Offer Concessions to the [SOV.getAdjective]s"
  FIN_offer_concessions_to_soviets_desc:0 "[Root.GetAdjective] communist Hella Wuolijoki has contacted our government and offered her help in establishing contact with the [SOV.GetAdjective] regime. A meeting has been set up in a secret location in Sweden, where we will be offered the opportunity to cede territory in return for continued [Root.GetAdjective] sovereignty. \n\nThe [Root.GetAdjective] forces are rapidly depleting, and previous attempts to open a line of communication has been unsuccessful. This may be our only hope for a peaceful resolution to the conflict."
  FIN_propose_soviets_to_restore_status_quo:0 "Propose [SOV.getAdjective]s to Restore the Status Quo"
@@ -304,19 +301,15 @@
  FIN_demand_reconciliation_desc:0 "With [SOV.getAdjective] military shattered and utterly defeated by the brave [FIN.getAdjective] forces, we can demand peace which shall suit us!"
  FIN_request_swedish_assistance:0 "Request [SWE.getAdjective] Assistance in War"
  FIN_request_swedish_assistance_desc:0 "[FIN.getNameDefCap] and [SOV.getNameDef] are at war. After only a few decades of sovereignty, we now risk once again becoming the subject of one of our neighbors.\n\nThe threat of our enemy extends beyond our borders, however. Our neighbors in [SWE.getNameDef] are still retaining a neutral stance towards the [SOV.getNameDef], but could perhaps be convinced to join us in defending our mutual legacy and secure their own strategic buffer."
-
-#Diplomacy
  FIN_ger_diplomacy:0 "Finnish-German Agreement"
  FIN_rejectalliance:0 "Rejected Alliance."
  FIN_diplomats:0 "Finnish Diplomats."
  FIN_sov_diplomacy:0 "Finnish-Soviet Diplomatic Focus"
  FIN_fascist_diplomatic_effort:0 "Fascist Diplomatic Effort"
-
- #Misc
  FIN_GER_Units:0 "You will receive §Y5 Jaeger Divisions§! from Germany in Turku"
  FIN_GER_Units_return_1_tt:0 "You will receive §Y5 German Jaeger Divisions§! that were under Finnish Command in Nord-Norge"
  FIN_GER_Units_return_2_tt:0 "You will receive §Y5 German Jaeger Divisions§! that were under Finnish Command in Rostock"
- FIN_GER_agreement:0"§WBy completing this§! §YFocus§! §Wyou agree to go to §RWar§! with §Y[SOV.GetNameWithFlag]§! when §Y[GER.GetNameWithFlag]§! declare §RWar§! §Won them and pushes past Belarusia.§!"
+ FIN_GER_agreement:0 "§WBy completing this§! §YFocus§! §Wyou agree to go to §RWar§! with §Y[SOV.GetNameWithFlag]§! when §Y[GER.GetNameWithFlag]§! declare §RWar§! §Won them and pushes past Belarusia.§!"
  FIN_GER_agreement_GER_side_tt:0 "§WIf we§! §YFully Control§! §Wall Belarusian§! §YStates§! §Win a§! §RWar§! §Wwith the (§!§Y[SOV.GetNameWithFlag]§!§W):\nThe §!(§Y[FIN.GetNameWithFlag]§!§W) might§! §GDeclare War§! §Won the (§!§Y[SOV.GetNameWithFlag]§!§W).§!"
  FIN_stabinthebackev_tt:0 "\n§YIf Accepted by the [SOV.GetAdjective]s:§!"
  FIN_stabinthebackev_tt_2:0 "\n§YIf Rejected by the [SOV.GetAdjective]s:§!"
@@ -345,8 +338,6 @@
  finland.75.b_tt:0 "If accepted, you will cede §YKarjala§! to Soviet Union in exchange for their removal of claims in the §YBaltic States!§."
  fin_militaryger_tt:0 "Give §Y[GER.GetName]§! military access"
  fin_at:0 "Infantry Anti-Tank"
-
- #Events
  fin_news.1.t:0 "German diplomats spotted in Helsinki"
  fin_news.1.d:0 "Following their defeat in their recent war with [SOV.getnamedef] it seems Finland is trying to make diplomatic overtones to the [GER.getnamedef]. As such German ambassadors have been spotted in Helsinki. Rumours say the Finns are looking for a military alliance with Germany against the Soviet threat. \n\nWhat this means for the future of the [SOV.getnamedef], one can only assume the worse."
  fin_news.1.a:0 "The only right course of action."
@@ -361,7 +352,6 @@
  finland.7.a_tt:0 "§YIf [SOV.GetName] accepts:\n§!"
  finland.7.a:0 "There is no winning this war"
  finland.7.b:0 "We must keep fighting!"
- #was Finland.10, changed to finland.84 because it was conflicing with the winter war bonus.
  finland.84.t:0 "The [FIN.GetAdjective] Proposal"
  finland.84.d:0 "Having heard rumors of our desire to invade [SOV.getnamedef]. [FIN.GetAdjective] diplomats have approached us with a proposal. They'll allow our troops to be stationed on [FIN.GetAdjective] soil and use their ports. Our diplomats were naturally curious to see how serious this proposal was and made contact with members of the [FIN.GetAdjective] military. This has led to a detailed plan where if our invasion of [SOV.getnamedef] is seeming to be going well, the [FIN.GetAdjective] will declare war on [SOV.getnamedef] as well. The details of this agreement are being written out and further collaboration looks possible if we do go forward with Operation Barbarossa."
  finland.84.a:0 "A most needed help."
@@ -380,7 +370,6 @@
  finland.14.d:0 "The Soviets have accepted our suggestion for peace. In exchange for our freedom and peace, we have given up the state of Petsamo."
  finland.14.a:0 "It is for the best."
  finland.15.t:0 "Finland wants to join the Axis."
- finland.15.d:0 "Following our military alliance with Finland, they have come to the conclusion to sign the Tripartite Pact and join the Axis."
  finland.15.a:0 "We accept."
  finland.15.b:0 "It is not in our interests"
  finland.15.d:0 "No, we are just brothers-in-arms."
@@ -402,21 +391,17 @@
  finland.19.t:0 "[From.GetName] Declines!"
  finland.19.d:0 "[From.GetName] has declined our invitation to join the Nordic Defensive Alliance."
  finland.19.a:0 "Their loss!"
-
  finland.150.t:0 "[From.GetNameDefCap] Offers to Restore Status Quo"
  finland.150.d:0 "Our recent war against [From.GetNameDef] has turned out to be a military and political disaster considering high manpower and equipment losses as well as our inability to gain a foothold in Finland proper. [FIN.getAdjective] ability to repel most of our attacks implies that the continuation of war would definitely draw more and more of our resources into this military endeavour which is currently being widely opposed among the common man. \n\n[FIN.getAdjective] delegation has met with our diplomats last week in Moscow to discuss conditions for the ceasefire and potential peace treaty. Shall we appeal to their request for the restoration of the status quo and renunciation of our claims onto [FIN.getNameDef]?"
  finland.150.a:0 "We shall agree to these terms. It is still better than defeat."
  finland.150.b:0 "We will not give up! Prepare for another attack!"
-
  finland.151.t:0 "[From.GetNameDefCap] Refuses to Negotiate"
  finland.151.d:0 "[FROM.getAdjective] officials have announced to our delegation this morning that they will never bow to such humiliating concessions. \nOur intelligence reports an increased activity among the demarcation line with an excessive amount of troops movements on the [FROM.getAdjective] side of the border. Our brave yet tired soldiers were already informed of the situation and they are ready to step in to defend our rightful land."
  finland.151.a:0 "We will teach them another lesson they won't forget."
-
  finland.152.t:0 "[From.GetNameDefCap] Demands Territorial Concessions"
  finland.152.d:0 "[FIN.getAdjective] telegram sent today to the military headquarters stated that peace negotiations can be resumed only in case of complete demilitarization of the common border in addition to some, as they stated, minor concessions. \n\nThey agree to close eyes on our ideological differences and expansionist ambitions of the past should integral territories of Karelia including Murmansk, Onega and Olonets be reunited with [FIN.getNameDef]. Our side of the border region in Karelia shall remain demilitarized to ensure the security of [FIN.getAdjective]-speaking majority of Karjalankannas. \n\nConsidering our severe losses in this war and light character of the demands, we shall consider accepting these terms before the situation will worsen. "
  finland.152.a:0 "We shall agree to these terms. It is still better than utter defeat."
  finland.152.b:0 "How about NO?!"
-
  finland.9.t:0 "[From.GetNameDefCap] Refuses"
  finland.9.d:0 "The negotiations initiated with [From.GetNameDef] has broken down. It was obviously a ruse to waste our time while the [From.GetAdjective] army positioned for yet another assault on [Root.GetAdjective] territory.\n\n[Root.GetNameDef] will stand tall and fight till the bitter end."
  finland.9.a:0 "They shall bleed for every step!"
@@ -434,7 +419,6 @@
  finland.103.d:0 "The [From.GetName] has declined our proposal, stating the they will be better as an independent nation."
  finland.103.a:0 "So be it."
  finland.103.b:0 "We have different methods to incorporate them though."
-
  finland.20.t:0 "The Karjala issue."
  finland.20.d:0 "The [FIN.GetAdjective] government wants to solve the Karjala demands, they are asking in relation to the recent events in Germany to lay off of Karjala."
  finland.20.a:0 "We will lay off. For now."
@@ -626,7 +610,7 @@
  finland.69.desc:0 "Now that the tensions are arising in Europe, the question has come up, what should we do with the islands of Åland?"
  finland.69.a:0 "Nothing, they shall remain ours and demilitarized."
  finland.69.b:0 "We should transfer Åland to [SWE.GetName] for Ålands safety."
- finland.69.c:0 "Demilitarize Åland and force conscription on them."
+ finland.69.c:0 "Remilitarize Åland and force conscription on them."
  finland.69.d:0 "Give them more autonomy, but keep them under our guard."
  finland.70.t:0 "[FIN.GetName] gives us the Åland islands!"
  finland.70.d:0 "[FIN.GetName] has decided to give us the islands of Åland, to keep them safe."
@@ -665,10 +649,8 @@
  finland.80.a:0 "Great news!"
  finland.81.t:0 "Restore the Monarchy?"
  finland.81.d:0 "Now that we have good relations with Germany, they have asked us if we want to declare our country a kingdom, as was supposed to, if the Germans had won the Great War. They are offering Friedrich Karl as our king."
- finland.81.a:0 "Yes! We shall become a kingdom!"
  finland.81.b:0 "No, we have no need for that."
  finland.82.t:0 "Choosing the location of our capital."
- finland.82.d:0 "Now that the nordic countries have been united, the question has arisen, we should our capital be?"
  finland.82.a:0 "Keep it in Helsinki."
  finland.82.b:0 "Move it to Stockholm, Sweden's capital."
  finland.82.c:0 "Move it to Oslo, Norways capital."
@@ -685,8 +667,6 @@
  finland.87.t:0 "Finland has made peace with the [SOV.GetAdjective]s"
  finland.87.d:0 "Finnish diplomats have now signed a peace deal with the [SOV.GetAdjective]s that would end the war between the two nations. Within the next few hours, they will begin to expel our troops from their land."
  finland.87.a:0 "This betrayal will not go unpunished!"
-
- #Ideas
  fin_freedom_focus:0 "Individual Freedom"
  fin_freedom_focus_desc:0 "The population has begun to appreciate the luxury of individual freedom, despising authoritarian regimes."
  fin_freedom_focus2:0 "Fascist sympathizers"
@@ -734,6 +714,5 @@
  fin_jarl_lundqvist_theorist:0 "Jarl Lundqvist"
  FIN_generic_fascist_demagogue:0 "Arvi Kalsta"
  FIN_generic_communist_revolutionary:0 "Jukka Lehtosaari"
-
  FIN_generic_head_of_intelligence:0 "Reino Hallamaa"
  FIN_Jukka_lehtosaari:0 "Jukka Lehtosaari"

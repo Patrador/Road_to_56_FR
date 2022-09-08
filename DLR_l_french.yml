@@ -1,5 +1,4 @@
 ﻿l_french:
-
  tdlra_depillarize_the_dutch:0 "Dépillariser la société néerlandaise"
  tdlra_depillarize_the_dutch_desc:0 "En ces temps tumultueux, nous n'avons nullement besoin d'une société articulée en piliers. Si nous voulons renforcer l'État néerlandais, nous devons étendre l'égalité et supprimer les barrières sociales."
  tdlra_go_left:0 "Aller à gauche"
@@ -31,7 +30,7 @@
  tdlra_militarize_the_east:0 "Militarisation de l'Est"
  tdlra_militarize_the_east_desc:0 "Le monde glisse de plus en plus vers la guerre et nous avons besoin de plus d'armements et d'usines pour les produire."
  tdlra_experimental_weaponry:0 "Armes expérimentales"
- tdlra_experimental_weaponry_desc:0 "Des inventions ingénieuses et des percées technologiques radicales nous ont permis de mettre au point des technologies militaires plus exotiques et plus efficaces. Nous devrions en tirer parti dans la mesure du possible." 
+ tdlra_experimental_weaponry_desc:0 "Des inventions ingénieuses et des percées technologiques radicales nous ont permis de mettre au point des technologies militaires plus exotiques et plus efficaces. Nous devrions en tirer parti dans la mesure du possible."
  tdlra_establish_radio_stations:0 "Améliorer les stations de radio"
  tdlra_establish_radio_stations_desc:0 "Comme l'ont montré les Britanniques, les stations de détection et de télémétrie radio sont très utiles pour la défense d'une nation. Créons notre propre réseau, afin de pouvoir défendre les Pays-Bas plus efficacement."
  tdlra_establish_state_university:0 "Établir l'Université d'État"
@@ -79,7 +78,7 @@
  tdlra_memories_of_the_past:0 "Souvenirs du passé"
  tdlra_memories_of_the_past_desc:0 "Les récents investissements dans notre effort de guerre ont amené les gens à regarder notre histoire militaire avec fierté, et les jeunes hommes valides affluent dans les centres de recrutement."
  tdlra_prototype_weapons:0 "Prototypes d'armes"
- tdlra_prototype_weapons_desc:0 "Les récents prototypes d'armes se sont avérés très efficaces. Nous devrions les mettre en production pour défendre notre patrie." 
+ tdlra_prototype_weapons_desc:0 "Les récents prototypes d'armes se sont avérés très efficaces. Nous devrions les mettre en production pour défendre notre patrie."
  tdlra_modernize_tanks:0 "Moderniser les chars"
  tdlra_modernize_tanks_desc:0 "Nos chars sont obsolètes ou inexistants, nous devrions rechercher de nouveaux types de chars modernes."
  tdlra_daring_paratroopers:0 "L'audace des parachutistes"
@@ -120,7 +119,7 @@
  tdlra_invite_bel_lux_desc:0 "Nous devons ajouter la Belgique et le Luxembourg au Be-Ne-Lux."
  tdlra_establish_dutch_komosomol:0 "Créer le Komosomol néerlandais"
  tdlra_establish_dutch_komosomol_desc:0 "Le Komosomol russe s'est avéré efficace dans la militarisation et l'endoctrinement de leurs enfants. Nous devrions en prendre note, et former notre propre organisation de la jeunesse communiste."
- tdlra_armed_neutrality:0 "La neutralité armée" 
+ tdlra_armed_neutrality:0 "La neutralité armée"
  tdlra_armed_neutrality_desc:0 "Pour préserver notre neutralité en ces temps hostiles, nous devons montrer que nous ne nous rendrons pas sans combattre."
  tdlra_british_ship_designs:0 "Conception de navires britanniques"
  tdlra_british_ship_designs_desc:0 "Les Britanniques nous ont donné de vieux plans de leurs navires, cela afin que nous puissions fabriquer nos propres portes-avions."
@@ -142,7 +141,6 @@
  tdlra_armed_neutrality_idea_desc:0 "Bien que notre pays se soit déclaré neutre, une armée permanente est indispensable pour protéger cette neutralité."
  tdlra_british_ship_designs_idea:0 "Conception de navires britanniques"
  tdlra_british_ship_designs_idea_desc:0 "Les Britanniques nous ont donné de vieux plans de leurs navires, cela afin que nous puissions fabriquer nos propres portes-avions."
-
  tdlra.1.t:0 "[From.GetName] veut que nous rejoignions le Benelux."
  tdlra.1.d:0 "[From.GetName] cherche à renforcer leur alliance en nous faisant adhérer."
  tdlra.1.a:0 "Accepter."
@@ -176,8 +174,6 @@
  tdlra.11.t:0 "Démarrer le processus de dépilarisation"
  tdlra.11.d:0 "En ces temps tumultueux, nous n'avons pas besoin d'une société organisée en piliers. Commencer à briser les piliers est une étape importante pour renforcer notre État."
  tdlra.11.a:0 "Lancez le processus."
-
  HOL_trick_germans_good:0 "Neutralité avérée"
  HOL_trick_germans_bad:0 "Défenses contre la Grande-Bretagne"
-
  benelux_faction:0 "Benelux"

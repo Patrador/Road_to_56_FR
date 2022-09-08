@@ -1,6 +1,5 @@
 ﻿l_french:
  Vietnam_focus:0 "Priorités nationales vietnamiennes"
-
  VIN_fascism_party:0 "Faction de Cuong De"
  VIN_fascism_party_long:0 "Faction de Cuong De"
  VIN_democratic_party:0 "VNQDD"
@@ -10,81 +9,58 @@
  VIN_communism_party_long:0 "Parti communiste vietnamien"
  VIN_neutrality_party:0 "Dynastie Nguyen"
  VIN_nguyen_dynasty_neutrality_party_long:0 "Dynastie Nguyen"
-
  VIN_comittee_independent_vietnam_party_long:0 "Comité de restauration du Vietnam indépendant"
  VIN_la_lutte_party_long:0 "La Lutte"
-
-
- # EVENTS #######################################################################################
-
  vietnam.1.t:0 "Entrée du Vietnam dans le Komintern"
  vietnam.1.d:0 "L'ambassadeur du Vietnam en Union soviétique a déposé une requête directe de la part du gouvernement vietnamien.\nCe dernier souhaiterait rejoindre l'alliance militaire gravitant autour de l'Union soviétique, espérant bénéficier, en plus d'une protection territoriale, de la révolution en elle-même."
  vietnam.1.a:0 "Dîtes à l'Oncle Hô qu'il a notre protection"
  vietnam.1.b:0 "Nous devons refuser"
-
  vietnam.2.t:0 "L'Union soviétique accepte"
  vietnam.2.d:0 "L'Union soviétique a répondu positivement à l'adhésion vietnamienne à leur alliance militaire.\nAinsi, la libre circulation des troupes entre nos deux pays sera mis en place, et ce dernier nous aidera en cas de conflit"
  vietnam.2.a:0 "Excellent !"
-
  vietnam.3.t:0 "L'Union soviétique refuse"
  vietnam.3.d:0 "L'Union soviétique a répondu négativement à une alliance entre nos deux pays. Citant particulièrement que la situation n'était pas favorable et que l'Union soviétique ne peut ainsi garantir la défense du Vietnam. Cependant, ils n'ont pas nié le fait qu'une alliance pourrait être conclu dans les temps à venir, quand la situation internationale aura changé."
  vietnam.3.a:0 "Nous ne pouvons que compter sur nous-mêmes"
-
  vietnam.4.t:0 "Les communistes tentent un coup d'État"
  vietnam.4.d:0 "De nombreuses milices loyales à l'Armée de libération malaisienne, elle-même liée au Parti communiste malaisien, ont été déployées à Singapour, et espèrent prendre le contrôle du gouvernement colonial dans l'objectif de à la fois détruire l'administration britannique et instaurer un régime communiste.\nLes forces loyales au gouvernement, stationnées aux abords de la ville, se préparent à la reprendre, mais la victoire n'est pas certaine."
  vietnam.4.a:0 "Le coup d'État a réussi"
  vietnam.4.b:0 "Le coup d'État a échoué"
-
  vietnam.5.t:0 "Le coup d'État malaisien échou"
  vietnam.5.d:0 "Les forces communistes ne purent tenir Singapour, et furent éventuellement défaites après un long combat. De nombreux cadres du Parti communiste malaisien furent capturés ou tués, réduisant à néant nos chances d'établir le communisme en Malaisie de l'intérieur"
  vietnam.5.a:0 "Nous vengerons nos frères !"
-
  vietnam.6.t:0 "Une aide venant du sud"
  vietnam.6.d:0 "Le Kuomintang et le VNQDD sont des alliés de longue date, chacun d'eux souhaitant suivre les préceptes de Sun-Yat-Sen. Depuis des années, les cadres du VNQDD furent protégés en Chine, caché de la police française.\nLa Chine se retrouvant à nouveau dans un état de guerre, le gouvernement vietnamien a envoyé une requête afin que ceux-ci nous aide."
  vietnam.6.a:0 "Ensemble, nous vaincrons !"
  vietnam.6.b:0 "Nous n'avons pas besoin de leur aide"
  ASIAN_LEAGUE_NAME:0 "Ligue asiatique"
-
  vietnam.7.t:0 "La Chine refuse notre aide"
  vietnam.7.d:0 "Le gouvernement chinois rejete notre demande pour les aider. Il est clair que nous ne pouvons compter sur leur protection, tout comme ils ne peuvent compter sur la nôtre."
  vietnam.7.a:0 "Nous respectons leur décision"
-
-
  vietnam.8.t:0 "Victoire !"
  vietnam.8.d:0 "Pendant que les dernières troupes francaises sont forcées de quitter notre péninsule d'Indochine, nous pouvons aisémment crier victoire. Le temps de l'oppression française est derrière nous !"
  vietnam.8.a:0 "Hourra !"
-
  vietnam.9.t:0 "Le pouvoir à Hô Chi Minh"
  vietnam.9.d:0 "Nguyen Ai Quoc, connu sous le nom de Hô Chi Minh, chef du Viet-Minh et figure de la résistance vietnamienne face au colonialisme, entrainé dans l'idéologie marxiste et léniniste durant son séjour en Union soviétique avant de guider la résistance contre l'administration coloniale. Il est devenu plus qu'un leader. Il est devenu le père de la nation vietnamienne. Qu'il guide le Vietnam dans un âge d'or et de prospérité !"
  vietnam.9.a:0 "Hourra !"
-
  vietnam.10.t:0 "Le pouvoir à la Lutte"
  vietnam.10.d:0 "Ta Thu Thau, chef de la « Lutte », qui travailla des mois à l'organisation d'une vraie opposition socialiste à la colonisation française, se retrouva, lui et ses compaires, à diriger la rébellion qui libéra le Vietnam. Vu comme une figure d'espoir et de liberté, ce dernier reçu à la fois le support des fermiers et des ouvriers, devenant le choix de prédiletion pour prendre la tête du pays."
  vietnam.10.a:0 "Hourra !"
-
  vietnam.11.t:0 "Le pouvoir au VNQDD"
  vietnam.11.d:0 "Nguyen Tuong Tam, chef du VNQDD, un des plus anciens partis actifs prônant l'indépendance du Vietnam, réussit à restaurer le pouvoir que le parti possédait dans le passé, en le reconstruisant après que celui-ci fût réduit à néant par l'administration française. Chef de file durant la rébellion, il réuissit à en prendre la tête, et avec le support du peuple, qui le voit en héros national, peut mettre en place les politiques que son parti réclamait depuis bien longtemps"
  vietnam.11.a:0 "Hourra !"
-
  vietnam.12.t:0 "Le pouvoir à Cuong De"
  vietnam.12.d:0 "Pendant que toutes les raisons portaient à croire que la rébellion Vietnamienne serait accompagnée par une forme de révolution interne, en particulier la naissance d'une république, Cuong De, membre de la dynastie impériale et partisan de longue date d'un Vietnam indépendant, réunit le soutien nécessaire pour prendre la tête de la révolte. Principalement aidé par les élites qui firent demi-tour suite à la victoire des indépendantistes, ce dernier avait une vision bien spécifique du Vietnam dans le style des régimes similaires à celui nippon, où ce dernier a reçu assez de soutien pour l'aider dans sa guerre d'indépendance."
  vietnam.12.a:0 "Hourra !"
-
  vietnam.13.t:0 "Un pouvoir divisé"
  vietnam.13.d:0 "Les forces combattant pour l'indépendance du Vietnam sont nombreuses, chacune guidée par des idées diamétralement opposées, rendant une coopération à long terme impossible. Maintenant que la guerre est finie, il ne peut en rester qu'un."
  vietnam.13.a:0 "Hô Chi Minh nous guidera !"
  vietnam.13.b:0 "La Lutte et les trotskistes"
  vietnam.13.c:0 "Le VNQDD !"
  vietnam.13.e:0 "Cuong De !"
-
  vietnam.14.t:0 "Guerre d'indépendance"
  vietnam.14.d:0 "Il est le temps d'expulser l'envahisseur français hors de chez nous. Le Vietnam sera à nouveau indépendant !"
  vietnam.14.a:0 "Jusqu'à la victoire !"
  VIN_rebellion_focus:0 "Armée d'insurrection vietnamienne"
- #######################################################################################
-
-
- # IDEAS ####################################################
  VIN_militias_based_army:0 "Armée de milice"
  VIN_the_independence_war:0 "Guerre d'indépendance"
  VIN_illiteracy:0 "Illétrisme"
@@ -93,14 +69,8 @@
  VIN_trade_deal_with_vietnam:0 "Traité commmercial avec le Vietnam"
  petrolimex:0 "Petrolimex"
  vietnam_electricity:0 "Électricité vietnamienne"
-
-
  VIN_vnqdd_youth_league:0 "Ligue des jeunesses du VNQDD"
  Ngo_dinh_diem_tooltip:0 "§YNiveau§! : 3\n§RAttaque§! : 2\n§YDéfense§! : 3\n§GPlanification§! : 3\n§BLogistique§! : 3\n§gTrait§! : §HCombattant des collines§!\n"
-
- #####################################
-
- # MINISTERS ###
  revolutionary_writer:0 "Écrivain révolutionnaire"
  VIN_phan_boi_chau:0 "Phan Boi Chau"
  VIN_truong_chinh:0 "Truong Chinh"
@@ -113,29 +83,13 @@
  VIN_truong_tu_anh:0 "Truong Tu Anh"
  VIN_tran_trong_kim:0 "Tran Trong Kim"
  VIN_kha_vang_can:0 "Kha Vang Can"
-
-
- #####
-
  asked_to_join:0 "A demandé à rejoindre la lutte"
-
-
-
-
- # FLAGS
  ho_chi_minh_victorious_flag:0 "§YHô Chi Minh§! gagne la lutte pour le pouvoir"
  la_lutte_victorious_flag:0 "§YLa Lutte§! gagne la lutte pour le pouvoir"
  vnqdd_victorious_flag:0 "The §YVNQDD§! gagne la lutte pour le pouvoir"
  cuong_de_victorious_flag:0 "§YCuong De§! gagne la lutte pour le pouvoir"
-
  invited_phan_boi_chau_flag:0 "A invité Phan Boi Chau au gouvernement"
  VIN_war_of_independence_flag:0 "Guerre d'indépendance en cours"
-
-
-
- #######################################################################################
-
-
  VIN_ho_chi_minh_victorious:0 "Hô Chi Minh est victorieux !"
  VIN_ho_chi_minh_victorious_desc:0 "Malgré les machinations des forces contrerévolutionnaires et des traitres trotskystes, Ho Chi Minh a su imposer son autorité au Vietnam. La libération totale du Vietnam ne peut se faire qu'en brisant les chaînes du capitalisme, et nous userons de tous les moyens nécessaires pour bâtir un Vietnam socialiste."
  VIN_land_rent_reduction_campaign:0 "Campagne de rééducation de la rente foncière"
@@ -219,7 +173,6 @@
  VIN_help_the_kuomintang_desc:0 "Nos alliés du Kuomintang sont pris entre des ennemis intérieurs comme les communistes, et des menaces extérieures comme l'Empire japonais. Il est de notre devoir de les aider après tout le soutien que nous avons reçu d'eux pendant nos longues années de lutte contre le gouvernement colonial."
  VIN_dan_toc:0 "Dan Toc"
  VIN_dan_toc_desc:0 "Notre premier et plus important combat était évidemment de restaurer la nation vietnamienne, indépendante de toute influence étrangère. Tous les Vietnamiens doivent comprendre que l'existence même de notre nation dépend de leur courage et de leur détermination à défendre leur patrie."
- VIN_dan_toc2:0 "Dan Toc"
  VIN_dan_toc2:0 "Notre premier et plus important combat était évidemment de restaurer la nation vietnamienne, indépendante de toute influence étrangère. Tous les Vietnamiens doivent comprendre que l'existence même de notre nation dépend de leur courage et de leur détermination à défendre leur patrie."
  VIN_dan_chu:0 "Dan Chu"
  VIN_dan_chu_desc:0 "Exploités pendant des décennies par un gouvernement colonial tyrannique agissant au nom d'un pays qui se prétend démocratique mais n'a jamais permis aux voix des populations autochtones de se faire entendre, nous devons montrer notre attachement aux principes démocratiques en veillant à ce qu'ils puissent fonctionner sans heurts et être aussi représentatifs que possible."

@@ -1,5 +1,4 @@
 ﻿l_french:
- ### events ###
  nippon_events.3.t:0 "Set Up Chinese Puppet In Peking?"
  nippon_events.3.d:0 "Our North China Area Army has successfully conquered Peking, maybe setting up a puppet government there will lower our cost in occupying the area."
  nippon_events.3.a:0 "Fight Chinese with Chinese."
@@ -46,9 +45,6 @@
  nippon_events.17.d:0 "[From.GetLeader] has sent us an ultimatum ordering us to grant independence to [MAN.GetName]. If we do not comply, we might have to go to war with them."
  nippon_events.17.a:0 "We can't afford to go to war with them."
  nippon_events.17.b:0 "If they want war, we will give it to them!"
- #nippon_events.18.t:0 "[From.GetName] Refuses To Act Now"
- #nippon_events.18.d:0 "The reply from [From.GetName] is that we must stand down for now. For they already have a plan in mind."
- #nippon_events.18.a:0 "We wait then..."
  nippon_events.19.t:0 "[JAP.GetName] Grants [MAN.GetName] Independence"
  nippon_events.19.d:0 "[JAP.GetName] has granted [MAN.GetName] independence."
  nippon_events.19.a:0 "A rational choice."
@@ -135,7 +131,6 @@
  MAN_independence_yes_tt:0 "Take over states owned by Japan and her puppets."
  MAN_10_t_prepare_tt:0 "This event will fire again after ten months but without this option."
  MAN_rfp_rise_tt:0 "The RFP will start a civil war in the future."
- ## 19/1/2017 ##
  nippon_events.57.t:0 "Government Restructuring In [From.GetName]"
  nippon_events.57.d:0 "[From.GetLeader] has restructured their government on his own and their policies have become less beneficial to our interests."
  nippon_events.57.a:0 "We must seized their autonomy to prevent further harm to our interests."
@@ -150,7 +145,6 @@
  nippon_events.60.t:0 "[From.GetName] Annexed"
  nippon_events.60.d:0 "Knowing this is for the greater good of the [From.GetNameADJ] and the [Root.GetNameADJ] people, [From.GetLeader] has agreed to [From.GetName] becoming part of [Root.GetNameDEF]."
  nippon_events.60.a:0 "A glorious day."
- ## 11/5/2017 ##
  nippon_events.64.t:0 "Japanese Support"
  nippon_events.64.d:0 "The Japanese have noticed our discontent towards [CHI.GetRulingParty] after the Mongol Political Committee was divided. They have sent words that they could help us establish our own government in the Cahar region and incorporate the ECR that is under leader's control."
  nippon_events.64.a:0 "The Japanese show promise."
@@ -183,10 +177,9 @@
  nippon_events.73.t:0 "[From.GetLeader] Refused"
  nippon_events.73.d:0 "Despite our generosity, [From.GetLeader] has decided not to join us and establish his own government in the Cahar region. Stating that our intention was far worse than what the [CHI.GetRulingParty] has to offer."
  nippon_events.73.a:0 "What a shame."
- ## 16/5/2017 ##
  increase_jap_awareness_tt:0 "§RSlightly increase the awareness of the Japanese government\n§!"
  nippon_events.78.t:0 "Radical Propagation"
- nippon_events.78.d:0 "Recently a group of restorationists have adopted a more radical method of spreading their propaganda. They have force others to support their movements and those who do not would be beaten up. Some even reported that they have broke into pro-Japanese citizens' house and give them some "lessons". Their actions have caused disturbance among our people. If they do not practice a more moderate method of spreading their propaganda, we will soon catch the Japanese's attention and the entire plan will be at risk."
+ nippon_events.78.d:0 "Recently a group of restorationists have adopted a more radical method of spreading their propaganda. They have force others to support their movements and those who do not would be beaten up. Some even reported that they have broke into pro-Japanese citizens' house and give them some \"lessons\". Their actions have caused disturbance among our people. If they do not practice a more moderate method of spreading their propaganda, we will soon catch the Japanese's attention and the entire plan will be at risk."
  nippon_events.78.a:0 "Let them continue their practice."
  nippon_events.78.b:0 "Tell them to calm down."
  nippon_events.79.t:0 "[MAN.GetLeader]'s Petty Scheme"
@@ -227,7 +220,6 @@
  nippon_events.89.d:0 "In a recent meeting of the restorationists, one of them has proposed a bold plan to spread the restorationist idea even further and faster. However, some other have objected to his plan saying that it will increase the risk of our secret plan being exposed to the outside. The decision has fallen on [Root.GetLeader] after much debate, should the proposed method be adopted?"
  nippon_events.89.a:0 "Nothing ventured, nothing gained."
  nippon_events.89.b:0 "Confidentiality comes first."
- ## 17/5/2017 ##
  MAN_nothing_tt:0 "Nothing will happen\n"
  MAN_jap_will_demand_submission_tt:0 "§R[JAP.GetName] will demand your immediate submission, if you do no comply, there will be war§!\n\n"
  nippon_events.90.t:0 "Leaflet Guy Arrested"
@@ -247,8 +239,8 @@
  nippon_events.93.b:0 "Law is law..."
  nippon_events.94.t:0 "A Visit From A Japanese Investigator"
  nippon_events.94.d:0 "An Investigator from Japan has came to visit [Root.GetLeader]. The investigator requests [Root.GetLeader] to tell her about all he knows about the restorationist movement going on. The investigator seems to be very confident that [Root.GetLeader] is somehow connected to the movement. Lying might not be the best option here but turning over fellow restorationists isn't either."
- nippon_events.94.a:0 ""I have no idea what you are talking about...""
- nippon_events.94.b:0 ""These conspirators have contacted me before but I have refused their offers...""
+ nippon_events.94.a:0 "\"I have no idea what you are talking about...\""
+ nippon_events.94.b:0 "\"These conspirators have contacted me before but I have refused their offers...\""
  nippon_events.95.t:0 "Stalkers?"
  nippon_events.95.d:0 "[Root.GetLeader] is now starting to suspect that there are stalkers from Tokyo monitoring his daily life even tighter. Even some members of the movement have reported that they are being followed and numerous meetings have to be canceled due to key figures cannot arrive at the meeting location. The stalkers sure are a threat to our plan, however we can deploy decoys to distract the stalkers to reduce to risk of being discovered."
  nippon_events.95.a:0 "We just need to be more careful, decoys are unnecessary and costly."
@@ -265,7 +257,7 @@
  nippon_events.97.a:0 "We must not slow down!"
  nippon_events.97.b:0 "WE must not risk being caught!"
  nippon_events.98.t:0 "[MAN.GetName]'s Ban on Japanese"
- nippon_events.98.d:0 "[MAN.GetName] has banned Japanese from entering the government for some time. Such policy damages our interest in the area greatly. We must request the ban to be withdrawn and protect our interest. If they do not comply, we might as well "incorporate" them into our empire and put the area under our direct control..."
+ nippon_events.98.d:0 "[MAN.GetName] has banned Japanese from entering the government for some time. Such policy damages our interest in the area greatly. We must request the ban to be withdrawn and protect our interest. If they do not comply, we might as well \"incorporate\" them into our empire and put the area under our direct control..."
  nippon_events.98.a:0 "Send the ultimatum"
  nippon_events.98.b:0 "This can be done later, we need to focus on our current issue."
  nippon_events.99.t:0 "Ultimatum From [From.GetName]"
@@ -281,24 +273,22 @@
  nippon_events.101.b:0 "We will deal with them later..."
  nippon_events.102.t:0 "House Arrest [MAN.GetLeader]?"
  nippon_events.102.d:0 "[MAN.GetLeader]'s relation with the restorationists is very obvious. Although the officials really want to get rid of him, it might provoke the locals and provide more strength to the Chinese. At the current situation, it would be better to put him under house arrest than to liquidate him."
- nippon_events.102.a:0 "Send some men to "guard" him."
+ nippon_events.102.a:0 "Send some men to \"guard\" him."
  nippon_events.102.b:0 "No such need."
  nippon_events.103.t:0 "[Root.GetLeader] Under House Arrest"
- nippon_events.103.d:0 "Some Japanese soldiers have come to the complex of [Root.GetLeader] and said their duty is to "protect" and "guard" him. However, the truth is that [Root.GetLeader] is under house arrest by the order from Tokyo. The restorationists are outrageous by the action and is now plotting to push forth their plan earlier to secure [Root.GetLeader]'s authority."
+ nippon_events.103.d:0 "Some Japanese soldiers have come to the complex of [Root.GetLeader] and said their duty is to \"protect\" and \"guard\" him. However, the truth is that [Root.GetLeader] is under house arrest by the order from Tokyo. The restorationists are outrageous by the action and is now plotting to push forth their plan earlier to secure [Root.GetLeader]'s authority."
  nippon_events.103.a:0 "We fight back, hard!"
  nippon_events.103.b:0 "It's not time yet!"
  nippon_events.104.t:0 "[From.GetName] Fights Back"
  nippon_events.104.d:0 "[From.GetLeader] has decided to fight back and declared their independence! Their troops have launched the offensive!"
  nippon_events.104.a:0 "Mudamudamudamudamudamuda!"
  nippon_events.105.a:0 "Let them come!"
- ## 8/6/2017 ##
  nippon_events.106.t:0 "Our Old Capital"
  nippon_events.106.d:0 "Beijing, once where the emperor resides, is now under our control again. We should relocate the emperor's quarter back to the Forbidden City and show those rebels we have regain control over the central plain!"
  nippon_events.106.a:0 "Long live [Root.GetLeader]!"
  nippon_events.107.t:0 "Death of [Root.GetLeader]"
  nippon_events.107.d:0 "[Root.GetLeader] has been sick for a very long time, he has finally passed away due to diseases. Now a new leader will be appointed to oversee [Root.GetNameDEF]."
  nippon_events.107.a:0 "Whatever."
- ## 16/6/2017 ##
  nippon_events.74.t:0 "Join [JAP.GetName]?"
  nippon_events.74.d:0 "With the current situation, we have a precious opportunity to break free from the [CHI.GetAdjective] and align ourselves with the [JAP.GetAdjective]. Should we act now?"
  nippon_events.74.a:0 "There won't be another chance like this."
@@ -314,13 +304,6 @@
  nippon_events.77.t:0 "[From.GetName] Refused"
  nippon_events.77.d:0 "[From.GetName] has rejected our request for some unstated reasons."
  nippon_events.77.a:0 "Dammit."
-
-
-
- ## news ##
-
-
- ### focus ###
  MAN_more_opium_tt:0 "Giving out opiums in occupied zones slightly decreases the locals' will to fight.\n§YModify mean time to happen for the effects of Dongbei Partisans by x1.25§!\n\n"
  MAN_some_keibigun_tt:0 "5 Kenpeitai will assemble at Hsinking.\n"
  MAN_contact_white_tt:0 "§RThe RFP might request our support in destroying the Bolsheviks when we successfully declared our independence.§!"
@@ -337,7 +320,7 @@
  MAN_acquire_the_north_manchu_railway:0 "Acquire The North Manchu Railway"
  MAN_acquire_the_north_manchu_railway_desc:0 "Although within our border, the North Manchu Railway is in fact controlled by the Russian. Luckily, some money can solve this problem."
  MAN_five_race_under_one_union:0 "Five Races Under One Union"
- MAN_five_race_under_one_union_desc:0 "With the diverse ethnicity in our realm, we can say that our principle of "Five Races Under One Union" is properly represented."
+ MAN_five_race_under_one_union_desc:0 "With the diverse ethnicity in our realm, we can say that our principle of \"Five Races Under One Union\" is properly represented."
  MAN_showa_steel_mill:0 "Showa Steel Work"
  MAN_showa_steel_mill_desc:0 "Showa Steel Work is an important part of our industry. By further improving it, we can exploit more profits from the local iron deposit."
  MAN_support_aikawa_yoshisuke:0 "Support Aikawa Yoshisuke"
@@ -409,7 +392,7 @@
  MAN_head_towards_democracy:0 "Head Towards Democracy"
  MAN_head_towards_democracy_desc:0 "From the experience during the late Qing period, the lacking of democracy will ultimately lead to the downfall of nation. This mistake shall not be repeated."
  MAN_turn_over_the_rfr:0 "Turn Over The RFP"
- MAN_turn_over_the_rfr_desc:0 "Soviet request that the White émigré in our nation to be turned over to them for "rehabilitation". If we do not cooperate, we may never gain our independence."
+ MAN_turn_over_the_rfr_desc:0 "Soviet request that the White émigré in our nation to be turned over to them for \"rehabilitation\". If we do not cooperate, we may never gain our independence."
  MAN_manzhouli_secret_meeting:0 "Manzhouli Secret Meeting"
  MAN_manzhouli_secret_meeting_desc:0 "A secret meeting with Soviet representatives will be held in Manzhouli, we can use this opportunity to request the communist guerrillas to stand down."
  MAN_soviet_intervention:0 "Soviet Intervention"
@@ -458,7 +441,7 @@
  MAN_revive_zongli_yamen:0 "Revive Zongli Yamen"
  MAN_revive_zongli_yamen_desc:0 "The Zongli Yamen was an organization mostly in charge of foreign affairs and technological advancement of the Qing Empire. If the Empire is to compete with the Western powers, the Zongli Yamen shall be an indispensable part of it."
  MAN_revive_the_grand_council:0 "Revive The Grand Council"
- MAN_revive_the_grand_council_desc:0 "The Grand Council was abandoned when the unsuccessful "Royal Cabinet" was created. Such important body of the Empire shall be revived and contribute to the glory of the Great Qing Empire again."
+ MAN_revive_the_grand_council_desc:0 "The Grand Council was abandoned when the unsuccessful \"Royal Cabinet\" was created. Such important body of the Empire shall be revived and contribute to the glory of the Great Qing Empire again."
  MAN_xuantong_restoration:0 "Xuantong Restoration"
  MAN_xuantong_restoration_desc:0 "The Empire's strength is not as powerful as it used to before. A restoration movement is in need to show the world that the Empire is a force to be reckoned with."
  MAN_subjugate_japan:0 "Subjugate Japan"
@@ -475,8 +458,6 @@
  MAN_armament_effort_2_desc:0 "Trying to adapt civilian factories to produce military equipment is inefficient. We should focus on preparing military production now."
  MAN_prospect_for_resources:0 "Prospect For Resources"
  MAN_prospect_for_resources_desc:0 "If we are to be self-sufficient, we must utilize the resources under our feet to maintain a strong economy."
- MAN_national_defence_forces:0 "National Defense Force"
- MAN_national_defence_forces_desc:0 "Despite us taking a neutral stance in the current world, others might not. In order to protect our precious nation and the people, a strong military is needed."
  MAN_national_defence_forces:0 "National Defense Force"
  MAN_national_defence_forces_desc:0 "Despite us taking a neutral stance in the current world, others might not. In order to protect our precious nation and the people, a strong military is needed."
  MAN_extra_research_slot:0 "Extra Research Slot"
@@ -513,9 +494,6 @@
  MAN_no_partisan_tt:0 "Does not have national spirit §YDongbei Partisans§！"
  MAN_secret_recuitment:0 "Secret Recruitment"
  MAN_secret_recuitment_desc:0 "If we openly recruit additional people for the military, it might arouse the Japanese's suspicion. Thus it must be kept secret."
-
-
- ### ideas ###
  MAN_zheng_xiaoxu:0 "Zheng Xiaoxu"
  MAN_yoshisuke_aikawa:0 "Aikawa Yoshisuke"
  MAN_zang_shiyi:0 "Zang Shiyi"
@@ -574,8 +552,6 @@
  MAN_dongbei_partisan_pacified_desc:0 "Since the Japanese occupation, communist partisans have established holding ground in the northern part of our territories.\n\n§RPeriodic damage to building and infrastructures in core Chinese states.§!\n\n§YMean time to happen further multiplied by x2.0§!"
  MAN_secret_recruitment_idea:0 "Secret Recruitment"
  MAN_tapped_phone_idea:0 "Compromised Phone Lines"
-
- ## 5/1/2017 ##
  MAN_yoshisuke_aikawa_tfv:0 "Aikawa Yoshisuke"
  MAN_muto_nobuyoshi_tfv:0 "Muto Nobuyoshi"
  MAN_itagaki_seishiro_tfv:0 "Itagaki Seishiro"
@@ -590,9 +566,7 @@
  MAN_communist_influence:0 "Communist Influence"
  MAN_democratic_influence:0 "Democratic Influence"
  MAN_yukio_kasahara_tfv:0 "Yukio Kasahara"
- ## 29/1/2017 ##
  Mukden_armory:0 "Mukden Arsenal"
- ## 17/5/2017 ##
  MAN_neutrality_school:0 "Restorationist Teaching in Schools"
  MAN_nationalism_military:0 "Strong Nationalism in Military"
  MAN_court_martialed_patriotic_men:0 "Soldiers Court Martialed"
@@ -606,33 +580,20 @@
  jap_aware_3: "Interfering Internal Affairs"
  MAN_decoys:0 "Distracted Stalkers"
  MAN_halt_propagation:0 "Movement Halted"
- ## 20/5/2017 ##
  ECR_li_shouxin:0 "Li Shouxin"
  MEN_li_shouxin:0 "Li Shouxin"
  PGR_song_zheyuan:0 "Song Zheyuan"
  MEN_wang_ying:0 "Wang Ying"
-
-
- ### research ###
-
- ### diplomacy ###
  hand_over_rfr:0 "Help arrested Konstantin"
  tungchow_mutiny:0 "Tungchow Mutiny"
-
- ### flag ###
  MAN_assassinated:0 "Assassinated"
  MAN_reliant_flag:0 "Has national spirit §YReliance On Kwantung Army§!"
  anti_comintern_member:0 "Signed Anti-Comintern Pact"
- ## 2/1/2017 ##
  MAN_navy_allowed:0 "Permission granted by Japan"
  MAN_qing_restored:0 "Qing Dynasty"
- ## 16/5/2017 ##
  no_jap_officials:0 "Banned"
  no_jap_mili_officials:0 "Banned"
- ## 20/5/2017 ##
  annexed_ECR:0 "Agreed to establish the Mongol Military Government"
-
- ### trait ###
  puppet_emperor:0 "Puppet Emperor"
  puppet_emperor_tfv:0 "Puppet Emperor"
  low_legitimacy:0 "Low Legitimacy"
@@ -642,7 +603,6 @@
  lawrence_of_manchuria:0 "Lawrence of Manchuria"
  joan_of_arc_of_manchukuo:0 "Joan of Arc of Manchukuo"
  emperors_ambition:0 "Emperor's Ambition"
- ## 4/1/2017 ##
  army_chief_organizational_2_mck:0 "Army Organization\n(Japanese)"
  military_theorist_mck:0 "Kantogun Advisor"
  army_chief_reform_3_mck:0 "Army Reformer\n(Japanese)"
@@ -650,10 +610,8 @@
  air_chief_ground_support_2_mck:0 "Ground Support\n(Japanese)"
  army_regrouping_2_mck:0 "Army Regrouping\n(Japanese)"
  army_infantry_2_mck:0 "Infantry\n(Japanese)"
- war_industrialist_mck:0 "War Industrialist"
  captain_of_industry_mck:0 "Founder Of Nissan"
  war_industrialist_mck:0 "Military Monopolies"
- ## 5/1/2017 ##
  army_chief_organizational_2_mck_tfv:0 "Army Organization\n(Japanese)"
  military_theorist_mck_tfv:0 "Kantogun Advisor"
  army_chief_reform_3_mck_tfv:0 "Army Reformer\n(Japanese)"
@@ -661,12 +619,10 @@
  air_chief_ground_support_2_mck_tfv:0 "Ground Support\n(Japanese)"
  army_regrouping_2_mck_tfv:0 "Army Regrouping\n(Japanese)"
  army_infantry_2_mck_tfv:0 "Infantry\n(Japanese)"
- war_industrialist_mck_tfv:0 "War Industrialist"
  captain_of_industry_mck_tfv:0 "Founder Of Nissan"
  war_industrialist_mck_tfv:0 "Military Monopolies"
  lawrence_of_manchuria_tfv:0 "Lawrence of Manchuria"
  armaments_organizer_mck_tfv:0 "Armaments Organizer"
  armaments_organizer_mck:0 "Armaments Organizer"
- ## 17/5/2017 ##
  MAN_under_house_arrest:0 "Under House Arrest"
  mengjian_joint:0 "Mengjiang Joint Committee"

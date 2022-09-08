@@ -1,7 +1,5 @@
 ﻿l_french:
-
  FRA_liberalism_desc:0 "Le §Yradicalisme§! §West, en France, une position politique qui revendique l'héritage de 1789, marqué en particulier par l'§!§Banticléricalisme§! §Wet la défense du§! §Hsuffrage universel§!§W.§!"
-
  FRA_communism_party:0 "PCF"
  FRA_communism_party_long:0 "Parti communiste français"
  FRA_fascism_party2:0 "PPF"
@@ -12,46 +10,34 @@
  FRA_rnp:0 "RNP"
  FRA_neutrality_parti_social_francais_long:0 "Parti social français"
  FRA_neutrality_parti_social_francais:0 "PSF"
-
-
  FRA_payment_for_bombers:0 "Paiement pour les bombardiers"
-
  continental_system:0 "Blocus continental"
  FRA_the_american_napoleon:0 "Le Napoléon américain"
  FRA_repatriate_the_remains_of_napoleon_ii:0 "Rapatrier les restes de l'Aiglon"
  FRA_repatriate_the_remains_of_napoleon_ii_desc:0 "Napoléon II, prince de Rome, communément appelé « l'Aiglon », était le fils unique de Napoléon Ier et de Marie-Louise d'Autriche. Il est mort en 1832 et a été enterré à Vienne. Il est maintenant temps de réunir père et fils et de lui donner la sépulture impériale qu'il mérite au dôme des Invalides."
-
- #flags#
  catalonia_ceded_to_france:0 "La Catalogne est cédée à la France"
  FRA_GER_sphere_of_influence_agreement:0 "L'Allemagne a accepté la division des sphères d'influence"
  lar_germany_refused_spheres:0 "Aucun accord n'a été conclu sur la division des sphères d'influence."
-
- #tooltips#
  FRA_is_on_iberian_peninsula_tt:0 "Est sur la péninsule ibérique"
  FRA_is_on_british_isles_peninsula_tt:0 "Est sur les îles britanniques"
  ROOT_is_not_controlled_by_root_or_ally_tt:0 "N'est pas contrôlé par §Y[ROOT.GetNameDef]§! ou un de ses alliés."
  FRA_is_a_part_of_french_north_america_or_haiti_tt:0 "Fait partie de l'ancienne Amérique ou Haïti [FRA.GetAdjFS]."
-
  france.150.d:0 "Suite à un appel à la grève de grande envergure lancé par la CGT, dont l'influence au cours des derniers mois avait atteint un point tel que le gouvernement a dû faire des compromis de plus en plus drastiques, des centaines de milliers de travailleurs se sont mobilisés à Paris vers le palais Bourbon, qui a rappelé pour beaucoup les émeutes du 6 février 1934. Cette dernière a ensuite forcé l'entrée au parlement alors que dans le reste de la ville, les débordements de l'armée et une forte violence ne pouvaient être contenus par la police. Sous la direction de Léon Jouhaux, cette dernière a déclaré la fin de la troisième République et la transition vers un régime anti-capitaliste et syndicaliste."
  france.150.a:0 "Les travailleurs contrôle maintenant la situation"
-
  france.151.t:0 "Mort de Franchet d'Espèrey"
  france.151.d:0 "Louis Félix Marie François Franchet d'Espèrey, maréchal et chef de l'État français, est décédé dans la nuit. Il a été enterré et a reçu les honneurs militaires avant d'être transféré aux Invalides.\n\nLa mort du maréchal a été soudaine pour beaucoup de Français, mais aussi pour le gouvernement, car aucune procédure de succession n'avait été mise en place pour le moment. Ainsi, les différents ministres ont été convoqués d'urgence pour décider qui nommer comme successeur.\n\nPour beaucoup, le choix favori est celui d'Henri Giraud, ministre de la Guerre et très proche de Franchet d'Espèrey tout au long de sa carrière militaire.\n\nCependant, un autre candidat est capable de tenir tête à Giraud. C'est François Mitterrand, ministre de l'Intérieur, qui, bien qu'encore simple journaliste il y a quelques années, a pu gravir les échelons du gouvernement à toute vitesse, ce qui lui a permis d'acquérir une grande notoriété qui pourrait bien jouer en sa faveur."
  france.151.a:0 "Giraud est le choix évident."
  france.151.b:0 "Mitterrand semble prometteur."
-
  france.152.t:0 "Victoire du Front populaire en France"
  france.152.d:0 "Le Front Populaire, une alliance politique composée d'une grande partie des mouvements de gauche français, dont la SFIO, le Parti radical et le Parti communiste, a remporté les élections législatives françaises avec 57% des voix. De nombreuses grèves ont été organisées pour soutenir le front. Léon Blum, le chef de la SFIO, a été nommé Premier ministre.\n\nLeur programme s'articule autour de la défense de la démocratie, notamment par leur opposition aux ligues d'extrême droite, leur pacifisme, la mise en œuvre de nombreuses réformes sociales telles que les congés payés ainsi que la volonté de relancer l'économie en développant la consommation."
  france.152.a:0 "Tout est possible !"
  france.152.b:0 "Bonne chance à eux."
  france.152.c:0 "Ils ne sont rien de plus que des bolchéviques dégoûtants."
-
  france.153.t:0 "Victoire de la droite en France"
  france.153.d:0 "Les élections législatives françaises ont vu les différents partis de droite, nominalement la Fédération républicaine et l'Alliance démocratique, obtenir la majorité des voix et ainsi vaincre la tentative du Front populaire. Principalement unis dans leur anti-socialisme et leur anticommunisme, leur victoire pourrait aussi être liée à la montée d'un mouvement encore plus extrémiste en France.\n\nPierre-Étienne Flandin, chef de l'Alliance démocratique et considéré comme une figure unificatrice de la droite, a été nommé Premier ministre et a formé un gouvernement comprenant des membres des principaux partis de la coalition."
  france.153.a:0 "Nous renforcerons la France."
  france.153.b:0 "Peut-être qu'ils peuvent ramener la stabilité en France."
  france.153.c:0 "Les élections ne peuvent amener que des capitalistes au pouvoir0"
-
  FRA_economic_reforms:0 "Réformes économiques"
  FRA_economic_reforms_desc:0 "L'économie française est dans une situation précaire. Nous devons engager des réformes économiques pour éliminer l'inflation, stabiliser le franc et réduire le déficit national."
  FRA_devaluation:0 "Dévaluation du franc"
@@ -68,8 +54,6 @@
  FRA_bank_france_desc:0 "Nous avons déjà réformé le statut de la Banque de France en 1936, mais pour reprendre le contrôle de la situation économique, nous devons la nationaliser."
  FRA_national_department_state_market:0 "Département national des marchés d'État"
  FRA_national_department_state_market_desc:0 "Ce nouveau bureau permettra de centraliser les commandes publiques et d'assouplir les crédits aux entreprises."
-
-	#### NATIONALISATION ####
  FRA_nationalisation:0 "Mesures de nationalisation"
  FRA_nationalisation_desc:0 "Avec le budget du Fonds national de défense, nous pouvons forcer la nationalisation des fabricants pour gagner en efficacité de production. Cependant, cela va dégrader nos relations avec les industriels et §Rnous ne serons pas en mesure de le faire en temps de guerre.§!"
  FRA_nationalize_industy:0 "Intégration des entreprises industrielles"
@@ -88,13 +72,9 @@
  FRA_nationalize_aircraft_2:0 ""
  FRA_nationalize_aircraft_3:0 ""
  FRA_nationalisation_cd:0 "Nationalisation récente"
-
- 	#### ORGANISE INTERNATIONAL ####
  FRA_4th_international:0 "La 4ème Internationale"
  FRA_support_ENG:0 "Soutenir le communisme [ENG.GetAuEnANP] [ENG.GetName]"
  FRA_support_communism_FROM:0 "Soutenir le communisme [FROM.GetAuEnANP] [FROM.GetName]"
-
- fcm_nat:0 "FCM nationalisé"
  caer_nat:0 "CAER nationalisé"
  brest_nat:0 "CNF nationalisé"
  penhoet_nat:0 "Penhoët nationalisé"
@@ -114,7 +94,6 @@
  vetra_nat:0 "Vétra nationalisé"
  bull_nat:0 "Bull nationalisé"
  poulenc_nat:0 "Rhône-Poulenc nationalisé"
- darne_nat:0 "Darne nationalisé"
  oran_nat:0 "Oran nationalisé"
  dietrich_nat:0 "Lorraine-Dietrich nationalisé"
  panhard_nat:0 "Panhard & Levassor nationalisé"
@@ -137,11 +116,6 @@
  fcm_nat:0 "FCM nationalisé"
  famh_nat:0 "FAMH nationalisé"
  bouton_nat:0 "De Dion-Bouton nationalisé"
-
-	############################
-					#### IDEAS ####
-	############################
-
  FRA_volunteers_in_the_war:0 "Volontaires dans la guerre civile espagnole"
  FRA_public_works_idea:0 "Travaux publics"
  FRA_decentralised_state:0 "État décentralisé"
@@ -152,24 +126,18 @@
  FRA_potez_630:0 "Potez 630"
  FRA_plan_v_idea:0 "Plan V"
  FRA_castex_strategies_idea:0 "Stratégies de Castex"
- FRA_revising_naval_strategy:0 "Revising Naval Strategies"
- FRA_consolidating_power:0 "Consolidating Power"
-
-
-  	############################
-					#### TRAITS ####
-	############################
-
+ FRA_revising_naval_strategy:0 "Révision des stratégies navales"
+ FRA_consolidating_power:0 "Consolider le pouvoir"
  infantry_equipment_producer_mass:0 "Producteur de matériel d'infanterie en masse"
  medium_tank_manufacturer:0 "Concepteur de chars moyens"
- motorised_equipment_producer_quality: "Concepteur de véhicules motorisés qualitatifs"
+ motorised_equipment_producer_quality:0 "Concepteur de véhicules motorisés qualitatifs"
  artillery_producer_defense:0 "Concepteur d'artillerie défensive"
  support_equipment_producer_mass:0 "Producteur d'équipement en masse"
  construction_concern:0 "Entreprise de construction"
  ship_producer_mass:0 "Producteur de navires en masse"
  tank_producer_mass:0 "Producteur de chars en masse"
  tank_producer_quality:0 "Concepteur de chars qualitatifs"
- tank_producer_offense: "Concepteur de chars offensifs"
+ tank_producer_offense:0 "Concepteur de chars offensifs"
  tank_producer_defense:0 "Concepteur de chars défensifs"
  fighter_producer_mass:0 "Producteur de chasseurs en masse"
  medium_aircraft_manufacturer_2:0 "Concepteur d'avions moyens"
@@ -177,17 +145,7 @@
  jet_concern:0 "Concepteur d'avions à réaction"
  refinery_concern:0 "Entreprise de raffinerie"
  connetable_of_france:0 "Connétable de France"
-
- ############################
-
-	############################
-			#### NATIONAL FOCUSES ####
-	############################
-
-	# TEST
-
  new_advisors_tt:0 "§YDébloque§! un nouveau §Yconseiller politique§!\n"
-
  FRA_deflation1:0 "Déflation"
  FRA_deflation2:0 "Déflation"
  FRA_deflation3:0 "Déflation"
@@ -206,7 +164,6 @@
  FRA_industrial_support9:0 "Soutien industriel"
  FRA_wartime_focus:0 "Loi sur l'organisation en temps de guerre"
  FRA_colonial_focus:0 "Investissements coloniaux"
- FRA_colonial_investments:0 "Investissements coloniaux"
  FRA_armament_program:0 "Programme d'armement"
  FRA_commando_marine:0 "Commandos marines"
  FRA_desert_equipment:0 "Équipement de désert"
@@ -217,7 +174,6 @@
  FRA_camelot:0 "Camelots du roi"
  FRA_roi:0 "Roi Jean III"
  FRA_ideological_fanaticism:0 "Fanatisme idéologique"
- FRA_collectivisation:0 "Collectivisation"
  FRA_travaux:0 "Grands travaux"
  FRA_war_opposition:0 "Opposition de guerre"
  FRA_intervention_idea:0 "Intervention française"
@@ -225,55 +181,49 @@
  FRA_protected_by_the_maginot_line_attack_desc:0 "Le fait d'avoir fortifié la frontière donne à la France l'occasion de planifier et de se préparer soigneusement, mais elle sacrifie une certaine flexibilité en cas d'imprévu."
  FRA_protected_by_the_maginot_line_defense:0 "Protégé par la Ligne Maginot"
  FRA_protected_by_the_maginot_line_defense_desc:0 "Le fait d'avoir fortifié la frontière donne à la France l'occasion de planifier et de se préparer soigneusement, mais elle sacrifie une certaine flexibilité en cas d'imprévu."
-
- #### FACTIONS ####
  latin_union:0 "Union latine"
  humanite_unie:0 "Humanité unie"
  montreux_convention:0 "Convention de Montreux"
  french_union:0 "Union française"
-
-	#### TECHNOLOGY SHARING #### #getadjective didnt work here
  french_research_name:0 "Recherche française"
  french_research_desc:0 "Réduction du temps de recherche pour les technologies recherchées par ceux qui sont sous la domination française."
-
-	#### COMPAGNIES ####
  fcm:0 "FCM"
- fcm_desc:0 "Forges et Chantiers de la Méditerranée"
+ fcm_desc:0 "Forges et chantiers de la Méditerranée"
  caer:0 "CAER"
- caer_desc:0 "Chantiers Aéronavals Étienne Romano"
+ caer_desc:0 "Chantiers aéronavals Étienne Romano"
  brest:0 "CNF"
- brest_desc:0 "Chantiers Navals Français"
+ brest_desc:0 "Chantiers navals français"
  penhoet:0 "Penhoët"
  penhoet_desc:0 "Chantiers Penhoët de Saint-Nazaire"
  cfp:0 "CFP"
- cfp_desc:0 "Compagnie Française des Pétroles"
+ cfp_desc:0 "Compagnie française des pétroles"
  csf:0 "CFS"
- csf_desc:0 "Compagnie Générale de Télégraphie sans fil"
+ csf_desc:0 "Compagnie générale de télégraphie sans fil"
  radiola:0 "Radiola"
  peugeot:0 "Peugeot"
  citroen:0 "Citroën"
  hotchkiss:0 "Hotchkiss"
  latecoere:0 "Latécoère"
  dakar:0 "CND"
- dakar_desc:0 "Chantiers Navals de Dakar"
- somua_desc:0 "Société d'Outillage Mécanique et d'Usinage d'Artillerie"
- mas_desc:0 "Manufacture d'Armes de Saint-Étienne"
- famh_desc:0 "Compagnie des forges et Aciéries de la Marine et d'Homécourt"
+ dakar_desc:0 "Chantiers navals de Dakar"
+ somua_desc:0 "Société d'outillage mécanique et d'usinage d'artillerie"
+ mas_desc:0 "Manufacture d'armes de Saint-Étienne"
+ famh_desc:0 "Compagnie des forges et aciéries de la Marine et d'Homécourt"
  loire:0 "ACL"
- loire_desc:0 "Ateliers et Chantiers de la Loire"
+ loire_desc:0 "Ateliers et chantiers de la Loire"
  tunis:0 "MAT"
- tunis_desc:0 "Manufacture d'Armes de Tunis"
+ tunis_desc:0 "Manufacture d'armes de Tunis"
  normandie:0 "SMN"
- normandie_desc:0 "Société Métallurgique de Normandie"
+ normandie_desc:0 "Société métallurgique de Normandie"
  bouton:0 "De Dion-Bouton"
  puteaux:0 "APX"
  puteaux_desc:0 "Ateliers de Puteaux"
  bayonne:0 "MAB"
- bayonne_desc:0 "Manufacture d'Armes de Bayonne"
+ bayonne_desc:0 "Manufacture d'armes de Bayonne"
  vetra:0 "Vétra"
- vetra_desc:0 "Société des Véhicules et Tracteurs Électriques"
+ vetra_desc:0 "Société des véhicules et tracteurs électriques"
  bull:0 "Bull"
- bull_desc:0 "Compagnie des Machines Bull"
+ bull_desc:0 "Compagnie des machines Bull"
  poulenc:0 "Rhône-Poulenc"
  poulenc_desc:0 "Société des usines chimiques Rhône-Poulenc"
  darne:0 "Darne"
@@ -294,37 +244,28 @@
  potez_desc:0 "Aéroplanes Henry Potez"
  FRA_fonderie_de_ruelle:0 "Fonderie de Ruelle"
  FRA_tulle_arsenal:0 "Manufacture d'armes de Tulle"
-
-	#### MINISTERS ####
  FRA_charles_tillon:0 "Charles Tillon"
  FRA_jacques_duclos:0 "Jacques Duclos"
  FRA_lucien_midol:0 "Lucien Midol"
-
-
  edouard_herriot:0 "Édouard Herriot"
  henri_queuille:0 "Henri Queuille"
  paul_faure:0 "Paul Faure"
  jean_moulin:0 "Jean Moulin"
  vincent_auriol:0 "Vincent Auriol"
  paul_reynaud:0 "Paul Reynaud"
-
  FRA_marceau_pivert:0 "Marceau Pivert"
  FRA_rene_lefeuvre:0 "René Lefeuvre"
  FRA_daniel_mayer:0 "Daniel Mayer"
  FRA_pierre_brossolette:0 "Pierre Brossolette"
-
  revolutionary_figure:0 "Figure révolutionnaire"
  self_thaught_intellectual:0 "Intellectuel autodidacte"
-
  FRA_georges_mandel:0 "Georges Mandel"
  FRA_georges_bonnet:0 "Georges Bonnet"
  FRA_guy_la_chambre:0 "Guy La Chambre"
-
  FRA_pierre_mendes_france:0 "Pierre Mendès France"
  FRA_georges_monnet:0 "Georges Monnet"
  FRA_marx_dormoy:0 "Marx Dormoy"
  FRA_paul_ramadier:0 "Paul Ramadier"
-
  ambitious_agrarian:0 "Ambitieux agraire"
  peace_proponent:0 "Défenseur de la paix"
  hard_working_politician:0 "Boureau de travail"
@@ -332,31 +273,23 @@
  devouted_anti_fascist:0 "Zélé"
  implacable_republican:0 "Fervent républicain"
  war_industry_specialist:0 "Spécialiste d'industries de guerre"
-
-
  FRA_henri_barbe:0 "Henri Barbé"
  FRA_pierre_pucheu:0 "Pierre Pucheu"
  FRA_abel_bonnard:0 "Abel Bonnard"
  FRA_paul_marion:0 "Paul Marion"
-
  FRA_xavier_vallat:0 "Xavier Vallat"
  FRA_philippe_henriot:0 "Philippe Henriot"
  FRA_joseph_darnaud:0 "Joseph Darnand"
  FRA_georges_loustaunau_lacau:0 "Georges Loustaunau-Lacau"
-
  FRA_eugene_deloncle:0 "Eugène Deloncle"
  FRA_henri_martin:0 "Henri Martin"
  FRA_jean_filiol:0 "Jean Filiol"
-
  connected_politician:0 "Politicien engagé"
-
  FRA_maurice_pujo:0 "Maurice Pujo"
  FRA_charles_maurras:0 "Charles Maurras"
  FRA_leon_daudet:0 "Léon Daudet"
  FRA_robert_brasillach:0 "Robert Brasillach"
  FRA_paul_granier_de_cassagnac:0 "Paul Granier de Cassagnac"
-
-
  monarchist_figure:0 "Figure monarchiste"
  eye_above_the_population:0 "Les yeux sur la population"
  skillful_polemicist:0 "Polémiste adroit"
@@ -367,24 +300,11 @@
  third_position_economist:0 "Économiste de troisième position"
  fascist_writer:0 "Écrivain fasciste"
  competent_orator:0 "Orateur compétent"
-
-
-  ####MISSIONS ####
  FRA_the_popular_front:0 "Le Front populaire"
  FRA_the_popular_front_desc:0 "Une coalition chancelante de mouvements de gauche, comprenant la Section française de l'Internationale communiste, la Section française de l'Internationale ouvrière (SFIO) et le Parti républicain radical-socialiste, qui vise à mettre en œuvre des réformes de gauche. Cependant, des luttes internes entravent cette « alliance de circonstance »."
-
-  ####TOOLTIPS ####
  FRA_has_no_deflation_tt:0 "N'a pas l'esprit national §Ydéflation§!"
-
-
-
-
-
-	#### INDUSTRIAL SECTION ####
  free_france:0 "France libre"
-
  french_focus:0 "Priorités nationales [ROOT.GetAdjFP]"
-
  FRA_tools_modernisation:0 "Modernisation des outils"
  FRA_tools_modernisation_desc:0 "Le parc industriel français est désuet et surtout vieillissant. Nous devons moderniser nos outils en acquérant des machines plus récentes et modernes."
  FRA_monetary_tripartite_agreement:0 "Accord monétaire tripartite de [GetYear]"
@@ -400,9 +320,6 @@
  FRA_sncf:0 "Société Nationale des Chemins de Fer Français"
  FRA_sncf_desc:0 "La nationalisation des principales compagnies ferroviaires françaises assurera notre contrôle sur les moyens de transport dans toute la France. La nouvelle Société Nationale des Chemins de fer Français aura pour mission de développer les infrastructures de transport actuelles."
  FRA_sncf_tooltip:0 "Ajoute le maximum d'§YInfrastructures§! en §YÎle de France§!, au §YPas-de-Calais§!, en §YChampagne§! et en §YAlsace§!"
-
-	#### COLONIAL FOCUS ####
-
  FRA_colonial_investments:0 "Investissements coloniaux"
  FRA_colonial_investments_desc:0 "L'Europe traverse une période dangereuse. Nous devrions nous concentrer sur l'amélioration de nos territoires au sud et dans les colonies pour nous assurer que nous pouvons toujours soutenir la métropole."
  FRA_colonial_investments_tooltip:0 "Toutes les colonies [FRA.GetAdjFP] hors d'Europe obtiennent :"
@@ -441,10 +358,6 @@
  FRA_create_french_union_desc:0 "Avec toutes ces réformes, l'empire colonial français tel qu'il était auparavant est aujourd'hui dépassé. Un nouveau système reliera la France et tous les citoyens des collectivités."
  FRA_overseas_departements:0 "Départements d'outre-mer"
  FRA_overseas_departements_desc:0 "Nous devrions envisager de mieux administrer les territoires d'outre-mer, même si cela signifie dépenser beaucoup de ressources pour consolider l'administration de l'État."
-
-
-	#### REARMEMENT FOCUS ####
-
  FRA_rearmament:0 "Réarmement"
  FRA_rearmament_desc:0 "Une Allemagne renaissante devient plus forte chaque jour. Plus tard vaut mieux que jamais, nous devons réarmer notre pays."
  FRA_military_complex_nationalisation:0 "Nationalisation des complexes militaires"
@@ -464,21 +377,12 @@
  FRA_wartime_organisation_act_desc:0 "Avant que la guerre n'éclate, nous devons définir l'organisation de la nation en temps de guerre."
  FRA_war_effort_law:0 "Loi sur l'effort de guerre"
  FRA_war_effort_law_desc:0 "Pour contribuer à l'effort de guerre, chaque Français doit payer des impots supplémentaires et peut aussi acheter des bons du Trésor."
-
-	#### POLITICAL FOCUS ####
-
  FRA_legislative_election:0 "Élections législatives"
  FRA_legislative_election_desc:0 "C'est bientôt l'heure des élections législatives françaises pour élire la 16ème législature de la Troisième République française. Le contexte social est tendu, et les Français espèrent que les élections apporteront des changements."
- FRA_social_reforms:0 "Réformes sociales"
- FRA_social_reforms_desc:0 "Les Accords de Matignon sont un succès partiel mais dans le contexte économique, ils peuvent être effacés à tout moment. Nous devons aller plus loin dans vos réformes sociales et assurer notre bénéfice."
  FRA_matignon_agreements_amendement:0 "Modification des accords de Matignon"
  FRA_matignon_agreements_amendement_desc:0 "Dans cette situation économique difficile, les Accords de Matignon sont suicidaires. Nous sommes forcés de supprimer partiellement certains avantages, comme les 40 heures par semaine pour redresser l'économie."
-
  FRA_claim_the_andorran_throne:0 "Revendiquer le trône d'Andorre"
  FRA_claim_the_andorran_throne_desc:0 "La petite nation d'Andorre se trouve à notre frontière. Compte tenu de notre unité avec l'Espagne, il est tout à fait naturel que nous cherchions à nous unir avec elle également."
-
-	#### DEMOCRATIC FOCUS ####
-
  FRA_social_reforms:0 "Accords de Matignon"
  FRA_social_reforms_desc:0 "Les Accords de Matignon sont un succès partiel mais dans le contexte économique, ils peuvent être effacés à tout moment. Nous devons aller plus loin dans les réformes sociales et en assurer les bénéfices."
  FRA_support_blum:0 "Soutenir Blum"
@@ -521,9 +425,6 @@
  FRA_law_against_combat_groups:0 "Loi contre les groupes paramilitaires"
  FRA_law_against_combat_groups_desc:0 "Les émeutes du 6 février 1934 prouvent qu'il faut agir contre les groupes paramilitaires, en particulier ceux d'extrême droite. Une loi donnant au président la possibilité de dissoudre certains groupes présents sur le territoire français permettra d'atténuer leur présence."
  FRA_invest_in_our_weaker_allies_tt:0 "Nous allons construire deux usines militaires dans chacun de nos alliés, à condition qu'ils aient moins d'usines que nous."
-
-	#### COMMUNIST FOCUS ####
-
  FRA_radicalize_front:0 "Radicaliser la gauche"
  FRA_radicalize_front_desc:0 "Les réformes du Front Populaire ne sont pas trop drastiques pour redresser la situation actuelle. Nous devons radicaliser notre politique et permettre plus de communistes au gouvernement."
  FRA_grands_travaux:0 "Grands travaux"
@@ -536,8 +437,8 @@
  FRA_organise_international_desc:0 "Nous devrions aider les trotskystes à établir leur organisation internationale socialiste révolutionnaire, dans le but déclaré d'aider la classe ouvrière à renverser le capitalisme et à travailler pour le communisme international."
  FRA_commune_proclamation:0 "Proclamation de la Commune"
  FRA_commune_proclamation_desc:0 "Nous avons obtenu assez de soutien pour lancer un coup d'état communiste. Il est temps de prendre le pouvoir et de perpétuer l'héritage de la Commune !"
- FRA_scientific_convention:0  "Convention de Paris"
- FRA_scientific_convention_desc:0  "Les Soviétiques ont proposé d'étendre la coopération scientifique. Nous devrions signer une convention entre nos deux pays pour stimuler la recherche et l'innovation technologique."
+ FRA_scientific_convention:0 "Convention de Paris"
+ FRA_scientific_convention_desc:0 "Les Soviétiques ont proposé d'étendre la coopération scientifique. Nous devrions signer une convention entre nos deux pays pour stimuler la recherche et l'innovation technologique."
  FRA_research_cooperation:0 "Coopération scientifique"
  FRA_research_cooperation_desc:0 "Les Soviétiques sont un peuple intelligent et plein de ressources, mais ils ne possèdent pas l'infrastructure nécessaire à un programme scientifique sérieux. Nous travaillerons avec nos alliés, partageant les connaissances et les percées pour un bénéfice mutuel."
  FRA_assistance_treaty:0 "Traité franco-soviétique d'assistance mutuelle"
@@ -560,8 +461,6 @@
  FRA_help_the_spanish_republicans_desc:0 "Il est maintenant temps pour nous de soutenir pleinement la cause républicaine en Espagne. Ensemble, nous vaincrons les forces fascistes et bloquerons l'expansion de cette idéologie."
  FRA_industrial_decentralization:0 "Décentralisation industrielle"
  FRA_industrial_decentralization_desc:0 "La décentralisation de l'industrie permettra une meilleure démocratisation du travail, ce qui nous rapprochera du contrôle des travailleurs sur l'économie."
-	#### FASCIST FOCUS ####
-
  FRA_far_right_leagues:0 "Ligues d'extrême droite"
  FRA_far_right_leagues_desc:0 "Les ligues d'extrême droite sont plusieurs mouvements d'extrême droite français opposés au parlementarisme, qui se sont principalement consacrés aux défilés militaires, aux bagarres de rue, aux manifestations et aux émeutes. Pour unir la France, nous pourrions les utiliser pour affirmer notre supériorité et notre force, pour éviter de succomber à la pourriture."
  FRA_front_liberte:0 "Front de la Liberté"
@@ -610,9 +509,6 @@
  FRA_the_three_levers_desc:0 "L'État moderne doit être construit sur trois leviers, qui sont le conseil des provinces, le conseil des corporations et le conseil de l'empire. Ainsi, nous remplacerons le vieux système parlementaire qui a constamment bloqué la politique française."
  FRA_service_ordre_legionnaire:0 "Service d'ordre légionnaire"
  FRA_service_ordre_legionnaire_desc:0 "La création d'une organisation paramilitaire officielle, obéissant aux ordres du parti et indépendante de l'armée, garantira le contrôle de la société par l'armée."
-
- #### MONARCHY FOCUS ####
-
  FRA_action_francaise:0 "Action française"
  FRA_action_francaise_desc:0 "L'Action française soutient la restauration de la monarchie et, après la loi de 1905 sur la séparation de l'Église et de l'État, la restauration du catholicisme romain comme religion d'État. C'est aussi un point de ralliement à la troisième République de France qui était considérée comme corrompue et impraticable par beaucoup de ses opposants, qu'ils espéraient rejoindre à leur bannière."
  FRA_camelots_roi:0 "Camelots du roi"
@@ -649,12 +545,10 @@
  FRA_compromise_with_germany_desc:0 "Nous pourrions peut-être conclure un accord avec [GER.GetLeader] afin de sécuriser nos zones d'influence et nous concentrer sur nos propres problèmes."
  FRA_approach_poland_and_romania:0 "Approcher la Pologne et la Roumanie"
  FRA_approach_poland_and_romania_desc:0 "La Pologne et la Roumanie sont essentielles pour la sécurité de l'Europe orientale, elles sont donc essentielles pour l'équilibre du système continental."
-
  FRA_approach_the_empire_of_brazil:0 "Approche de l'Empire du Brésil"
  FRA_approach_the_empire_of_brazil_desc:0 "Les empereurs du monde entier doivent assurer leurs arrières contre le radicalisme perfide."
  FRA_a_more_durable_tilsit_treaty:0 "Un traité de Tilsit plus durable"
  FRA_a_more_durable_tilsit_treaty_desc:0 "Désormais libérée de la tyrannie bolchevique, la Russie peut réintégrer le concert des nations et nouer un lien durable avec la France afin d'assurer la sécurité en Europe."
-
  FRA_destroy_albion:0 "Détruire Albion"
  FRA_destroy_albion_desc:0 "Plus d'un siècle après notre humiliation à Waterloo, l'Albion perfide continue de nous dépasser sur absolument toutes les questions possibles, surtout au niveau colonial. Il est temps que cela cesse, quand le drapeau tricolore flottera sur Londres, nous prouverons au monde que la France est la vraie puissance de ce monde."
  FRA_side_with_the_legitimists:0 "Du côté des légitimistes"
@@ -679,8 +573,6 @@
  FRA_anti_german_front:0 "Front anti-allemand"
  FRA_anti_german_front_desc:0 "L'Allemagne a toujours été l'ennemi naturel de la France et il ne faudra pas longtemps pour qu'elle entraîne l'Europe dans une nouvelle guerre brutale. Nous devrions créer un front uni contre l'agression allemande avec d'autres nations européennes partageant les mêmes idées."
  FRA_chantilly_accord:0 "Accords de Chantilly"
-
-
  FRA_support_the_legitimatises:0 "Soutenir les Légitimistes"
  FRA_support_the_legitimatises_desc:0 "Depuis la révolution de juillet 1830, les Légitimistes cherchent à obtenir du roi Charles X le retour de la branche masculine directe de la dynastie des Bourbons. Actuellement, cette branche appartient à l'ancien roi espagnol Alfonso XIII et à son fils l'Infante Jaime."
  FRA_social_nationalism:0 "Nationalisme social"
@@ -724,8 +616,6 @@
  FRA_restore_the_mexican_monarchy_desc:0 "C'est Napoléon III qui a créé le second empire mexicain. C'est Napoléon VI qui créera le troisième empire mexicain."
  FRA_take_back_north_america_desc:0 "Haïti, la Louisiane, l'Acadie, le Québec... Toutes ces terres qui étaient autrefois les nôtres mais qui sont aujourd'hui perdues. Nous devrions corriger cette erreur."
  FRA_proclaim_the_dual_monarchy_tt:0 "Nous allons annexer et gagner des États nationaux sur l'Espagne s'ils sont notre fantoche ou si [SPB.GetLeLaLNP] [SPB.GetName] existe et a gagné la guerre civile espagnole. Sinon, nous obtiendrons des États nationaux sur tous les États nationaux espagnols si nous possédons un États national de l'Espagne."
-
-	#### MILITARY FOCUS ####
  FRA_giraud_plan:0 "Plan de Giraud"
  FRA_giraud_plan_desc:0 "Dans ces moments-là, il vaut mieux renforcer nos défenses. S'il y a des menaces, qu'elles viennent nous voir pour que nous puissions y faire face sur nos propres terres. Nous avons un candidat parfait pour diriger notre armée, tout ce dont nous avons besoin c'est de votre accord."
  FRA_fortification_focus:0 "Priorité aux fortifications"
@@ -766,19 +656,15 @@
  FRA_blum_viollette_project_desc:0 "Le projet Blum-Viollette suggérait qu'une minorité d'Algériens obtiennent la pleine citoyenneté française, avec l'intention d'étendre les avantages à d'autres groupes à une date ultérieure. On peut utiliser cet argument pour recruter dans les colonies, mais les colons français vont protester massivement."
  FRA_abolish_indigenat_statut:0 "Abolir le statut indigène"
  FRA_abolish_indigenat_statut_desc:0 "Tous les individus sur le sol français doivent être égaux en droits, quelle que soit leur origine. Nous devons donner la pleine citoyenneté à tous les Algériens, même si cela signifie entrer en conflit avec les colons français."
-
  FRA_the_somua_s35:0 "Le SOMUA S35"
  FRA_the_somua_s35_desc:0 "Nos ennemis peuvent disposer d'un nombre décent de chars. Nous concevrons et déploierons un bien meilleur char français, bien blindé et suffisamment rapide pour contrecarrer toute force mécanisée désireuse de s'attaquer à la puissance de l'armée française."
  FRA_the_mas38:0 "Le MAS 38"
  FRA_the_mas38_desc:0 "L'armée française a toujours utilisé les armes légères et les armements les plus modernes. Nous allons poursuivre cette tradition."
-
-	#### NAVAL SECTION ####
-
  FRA_naval_construction_program:0 "Programme de construction navale"
  FRA_naval_construction_program_tt:0 "Il n'y a pas assez d'espace pour une §YBase navale§!"
  FRA_naval_construction_program_desc:0 "Si nous prévoyons d'agrandir notre marine, la première étape consiste à améliorer et à développer nos bases navales. Nos navires uniques exigent une attention constante pour rester prêts au combat en tout temps."
- FRA_altlantic_domination:0 "Domination atlantique"
- FRA_altlantic_domination_desc:0 "L'amélioration de la conception de nos cuirassés entraînerait de grands avantages tactiques dans l'Atlantique. Avec leur portée et leur puissance incontestées, personne ne pourra dépasser leurs canons."
+ FRA_atlantic_domination:0 "Domination de l'Atlantique"
+ FRA_atlantic_domination_desc:0 "L'amélioration de la conception de nos cuirassés entraînerait des avantages tactiques importants dans l'Atlantique. Avec leur portée et leur puissance incontestées, personne ne sera en mesure de distancer leurs canons."
  FRA_pacific_protection:0 "Protection du Pacifique"
  FRA_pacific_protection_desc:0 "Les théoriciens de la marine ont attiré notre attention sur nos porte-avions obsolètes. Ils ont des suggestions sur la façon d'utiliser davantage les télécommunicateurs si le développement est poussé dans la bonne direction. De réels progrès ne peuvent être réalisés sans notre plein appui. Elle assurera le contrôle du Pacifique et aidera à protéger nos colonies contre le Japon."
  FRA_darlan_doctrine:0 "Doctrine de Darlan"
@@ -789,7 +675,6 @@
  FRA_mediterranean_special_measures_desc:0 "Les Italiens renforcent leur marine et rêvent de dominer la Méditerranée. Si nous perdons notre ligne de défense en mer, nous risquons une invasion directe de notre pays. Nous devons nous assurer que nos navires sont construits avec les dernières technologies pour éviter cela."
  FRA_standardisation_engine:0 "Standardisation des moteurs"
  FRA_standardisation_engine_desc:0 "Notre flotte actuelle de sous-marins et de bombardiers navals est ancienne et certains changements sont nécessaires. Cependant, il y a trop de variantes des principales pièces d'équipement pour les construire en chaînes de montage. La standardisation des équipements sera notre première priorité."
-
  FRA_CHEDN:0 "Fonder le CHEDN"
  FRA_CHEDN_desc:0 "Le Collège des Hautes Études de la Défense Nationale sera le principal institut théorique moteur qui formera nos futurs dirigeants en matière de défense nationale. L'amiral Raoul Castex a proposé de jeter les bases de cette grande entreprise."
  FRA_experiment_castex_strategies:0 "Stratégies de Castex"
@@ -806,9 +691,6 @@
  FRA_successor_to_the_surcouf_desc:0 "WIP"
  FRA_increase_repair_capabilities:0 "Augmenter les capacités de réparation"
  FRA_increase_repair_capabilities_desc:0 "Notre flotte navale sera rapidement usée, bataille après bataille, sans les installations portuaires correspondantes pour la remettre en état après les escarmouches en mer. Nous allouerons les ressources et l'expertise nécessaires à cette fin."
-
-	#### AIR SECTION ####
-
  FRA_air_bases:0 "Développer nos bases aériennes"
  FRA_air_bases_bypass_tt:0 "Il n'y a pas assez d'espace pour une §YBase aérienne§!"
  FRA_air_bases_desc:0 "Le temps est venu de développer notre armée de l'air ! Il est déjà prévu de commencer la construction de nouvelles bases aériennes pour faire face à une forte augmentation des effectifs et du nombre d'avions."
@@ -827,7 +709,6 @@
  FRA_reorganize_air_army_desc:0 "Nous avons acquis suffisamment d'expérience pour tester de nouvelles théories de la guerre aérienne à un rythme plus rapide, mais avec notre structure de commandement actuelle, l'armée de l'air est difficile à gérer. Nous devons d'abord procéder à une réorganisation."
  FRA_parachute_battalions:0 "G.I.A 601-602"
  FRA_parachute_battalions_desc:0 "Les Soviétiques ont créé un nouveau détachement aéroporté pour larguer des soldats et du matériel et nous devrions créer un groupe militaire similaire."
- #by Darkneon312
  FRA_purchase_american_fighters:0 "Acheter des chasseurs américains"
  FRA_purchase_american_fighters_desc:0 "Notre manque actuel d'avions légers modernes est une faiblesse stratégique. Nous devrions contacter les Américains, et essayer d'acheter des avions performants pour assurer notre domination aérienne."
  FRA_form_the_first_strategic_bombing_unit:0 "Former la première unité de bombardement stratégique"
@@ -853,9 +734,6 @@
  FRA_new_french_fighter_desc:0 "Les chasseurs légers français de la prochaine génération seront plus armés, plus performants et plus agiles que leurs adversaires."
  FRA_supprt_the_aeronavale:0 "Soutenir l'aéronavale"
  FRA_supprt_the_aeronavale_desc:0 "Notre aéronavale sera désormais équipée de modèles plus récents capables de détruire des flottes entières."
-
- ### FREE FRANCE ###
-
  FRA_improve_equatorial_roads:0 "Améliorer les routes équatoriales"
  FRA_improve_equatorial_roads_desc:0 "Alors qu'elles étaient traditionnellement négligées, les nécessités d'organiser une économie de guerre et une armée en Afrique équatoriale ont rendu nécessaire l'amélioration du réseau routier."
  FRA_radio_brazzaville:0 "Radio [Root.Capital.GetCapitalVictoryPointName]"
@@ -872,7 +750,6 @@
  FRA_continue_the_fight_in_africa_desc:0 "La Métropole est peut-être temporairement sous contrôle ennemi, mais la guerre n'est pas encore terminée..."
  FRA_mobilize_the_empire:0 "Mobiliser l'Empire"
  FRA_mobilize_the_empire_desc:0 "Pour sauver la France, le peuple de l'Empire sera essentiel. Il est temps pour eux de montrer leur gratitude après des années de soins nourrissants de la part du phare civilisateur du monde."
-
  FRA_improve_equatorial_roads2:0 "Améliorer les routes équatoriales"
  FRA_improve_equatorial_roads2_desc:0 "Alors qu'elles étaient traditionnellement négligées, les nécessités d'organiser une économie de guerre et une armée en Afrique équatoriale ont rendu nécessaire l'amélioration du réseau routier."
  FRA_radio_brazzaville2:0 "Radio [Root.Capital.GetCapitalVictoryPointName]"
@@ -885,10 +762,7 @@
  FRA_an_african_army2_desc:0 "Notre nouvelle base est en Afrique et c'est de là que la bannière française ne cessera jamais de voler... et finira par écraser ses ennemis."
  FRA_improved_logistics2:0 "Amélioration de la logistique"
  FRA_improved_logistics2_desc:0 "La nature exilée de notre armée l'oblige à se battre dans tout l'Empire tout en préparant le retour en Métropole. Ces efforts ont fait apparaître qu'une planification logistique claire est essentielle pour assurer notre libération."
-
  FRA_continue_the_fight2:0 "Poursuivre le combat"
- FRA_continue_the_fight2_desc:0 "Il est temps de reconstruire notre armée."
-
  FRA_the_free_french_navy2:0 "Organiser la marine en exil"
  FRA_continue_the_fight2_desc:0 "La mer est le premier front entre l'empire et la métropole. Ce sera la première étape de notre reconquête."
  FRA_colonial_recruitment2:0 "Recrutement colonial"
@@ -899,23 +773,12 @@
  FRA_prepare_for_our_return2_desc:0 "Seules des opérations amphibies nous permettront de remettre les pieds sur notre patrie."
  FRA_the_regiment_normandie2:0 "Le régiment de Normandie"
  FRA_the_regiment_normandie2_desc:0 "Comme nous avons un ennemi commun avec [SOV.GetNameDef], l'envoi de quelques pilotes à leur secours contribuerait à notre effort de guerre commun."
-
- ### Game rule bonus ####
-
  FRA_unify_the_metropole:0 "Unifier la Métropole"
  FRA_unify_the_metropole_desc:0 "L'Hexagone a été injustement coupé en deux par les traîtres du Sud. L'unité française doit être restaurée, une fois pour toutes."
-
-	#### FLAGS ####
  front_explosed:0 "Front populaire dissous"
  matignon_agreements:0 "Accords de Matignon"
  is_vichy_france:0 "A l'arbre de priorités de la §YFrance de Vichy§!"
  free_france_advisor_check:0 "Cet officier ne participera pas à un régime collaborationniste."
-
-
-	############################
-					#### EVENTS ####
-	############################
-
  france.100.t:0 "Le Front populaire remporte les élections"
  france.100.d:0 "Le Front populaire est le vainqueur des élections législatives et obtient la majorité au Parlement. L'alliance des mouvements de gauche, dont le Parti communiste français (PCF), la Section française de l'Internationale ouvrière (SFIO) et le Parti radical-socialiste annonce la formation d'un gouvernement dirigé par Léon Blum, dirigeant de la SFIO. Les Français espèrent que le gouvernement Blum mettra en œuvre des réformes sociales pour mettre fin à la crise politique actuelle."
  france.100.a:0 "Avec le Front, tout est possible !"
@@ -1099,33 +962,14 @@
  france.159.b:0 "C'est rassurant d'avoir un allié aussi fort."
  france.159.c:0 "S'agit-il d'une nouvelle ère napoléonienne ?"
  france.159.d:0 "Ce soi-disant Napoléon doit être arrêté."
-
- r56.news_event.1000.t:0 "Paris Universal Exhibition"
+ r56.news_event.1000.t:0 "Exposition universelle de Paris"
  r56.news_event.1000.d:0 "La France est fière de lancer en fanfare l'exposition universelle de 1937. A Paris, près de 101 hectares et 44 pays proposent cent-quatre-vingt-dix pavillons ayant pour thème les arts et techniques appliqués à la vie moderne. Près de 32 millions de visiteurs s'y presseront. À l'époque, Paris conservera le Palais de Chaillot, le Palais de la découverte, et le Palais de Tokyo. L'esprit et l'art nouveau triomphent partout. Le monde veut croire un instant que l'exposition va enfin rassembler tout ce qui unit les hommes. Ce qui frappe les esprits, ce sont les pavillons monumentaux soviétiques et allemands qui se font face pour se défier : une statue de vingt-cinq mètres de L'Ouvrier et la Kolkhozienne brandissant une faucille et un marteau s'opposant à une sculpture géante d'un aigle tenant une croix gammée dans ses serres."
- r56.news_event.1000.a:0 "A huge global success"
- ############################
-				#### DECISIONS ####
-	############################
-
+ r56.news_event.1000.a:0 "Un immense succès mondial."
  FRA_reestablish_the_government_in_paris:0 "Rétablir le gouvernement à Paris"
-
-	#### ECONOMIC ####
-
-
-
-  	############################
-					#### EVENTS ####
-	############################
-
  indochina.1.t:0 "[FRA.GetNameDefCap] cèd[FRA.GetEEntNP] face au Japon"
  indochina.1.d:0 "[FRA.GetNameDefCap] [FRA.GetAOntNP] ordonné à notre gouvernement de céder au Japon les régions de Tonkin et d'Indochine du Sud. Ces régions sont les plus importantes pour nous, contenant le plus de ressources, de population et d'industrie dans toute l'Indochine. Donnons-nous l'ordre, ou restons-nous fermes ?"
  indochina.1.a:0 "Nous ne pouvons pas céder !"
  indochina.1.b:0 "Nous devons faire ce qu'on nous ordonne."
-
-	############################
-						#### IDEAS ####
-	############################
-
  FRI_voong_huu_trieu:0 "Voong Huu Trieu"
  FRI_lai_de:0 "Lai De"
  FRI_hang_dinh_xuan:0 "Hang Dinh Xuan"
@@ -1138,10 +982,6 @@
  FRI_georges_catroux:0 "Georges Catroux"
  FRI_jean_decoux:0 "Jean Decoux"
  FRI_jules_brevie:0 "Jules Brévié"
-
- ############################
- #### MISC				####
- ############################
  absolute_monarch:0 "Monarque absolu"
  count_of_paris:0 "Comte de Paris"
  frederic_gaston:0 "Fréderic Gaston"

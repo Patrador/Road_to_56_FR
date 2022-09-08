@@ -1,8 +1,4 @@
-﻿#####-----> Country Boosts Localisation <><> <><> <><> <><> <><>
-
-l_french:
-
- ###---> Majors <><> <><> <><>
+﻿l_french:
  custom_diff_strong_fra:0 "@FRA Renforcer la France"
  custom_diff_strong_ger:0 "@GER Renforcer l'Allemagne"
  custom_diff_strong_ita:0 "@ITA Renforcer l'Italie"
@@ -10,8 +6,6 @@ l_french:
  custom_diff_strong_sov:0 "@SOV Renforcer l'Union soviétique"
  custom_diff_strong_usa:0 "@USA Renforcer les États-Unis"
  custom_diff_strong_eng:0 "@ENG Renforcer le Royaume-Uni"
-
- ###---> Minors: A <><> <><> <><>
  custom_diff_strong_afg:0 "@AFG Renforcer l'Afghanistan"
  custom_diff_strong_ahv:0 "@AHV Renforcer Åland"
  custom_diff_strong_alb:0 "@ALB Renforcer l'Albanie"
@@ -22,8 +16,6 @@ l_french:
  custom_diff_strong_ast:0 "@AST Renforcer l'Australie"
  custom_diff_strong_aus:0 "@AUS Renforcer l'Autriche"
  custom_diff_strong_azr:0 "@AZR Renforcer l'Azerbaïdjan"
-
- ###---> Minors: B <><> <><> <><>
  custom_diff_strong_bah:0 "@BAH Renforcer les Bahamas"
  custom_diff_strong_ban:0 "@BAN Renforcer le Bangladesh"
  custom_diff_strong_nav:0 "@NAV Renforcer le Pays basque"
@@ -45,8 +37,6 @@ l_french:
  custom_diff_strong_brm:0 "@BRM Renforcer la Birmanie"
  custom_diff_strong_brd:0 "@BRD Renforcer le Burundi"
  custom_diff_strong_bya:0 "@BYA Renforcer la Bouriatie"
-
- ###---> Minors: C <><> <><> <><>
  custom_diff_strong_cam:0 "@CAM Renforcer le Cambodge"
  custom_diff_strong_can:0 "@CAN Renforcer le Canada"
  custom_diff_strong_cat:0 "@CAT Renforcer la Catalogne"
@@ -66,15 +56,11 @@ l_french:
  custom_diff_strong_crc:0 "@CRC Renforcer Curaçao"
  custom_diff_strong_cyp:0 "@CYP Renforcer Chypre"
  custom_diff_strong_cze:0 "@CZE Renforcer la Tchécoslovaquie"
-
- ###---> Minors: D <><> <><> <><>
  custom_diff_strong_dah:0 "@DAH Renforcer le Dahomey"
  custom_diff_strong_den:0 "@DEN Renforcer le Danemark"
  custom_diff_strong_dji:0 "@DJI Renforcer Djibouti"
  custom_diff_strong_dnz:0 "@DNZ Renforcer Dantzig"
  custom_diff_strong_dom:0 "@DOM Renforcer la Dominique"
-
- ###---> Minors: E <><> <><> <><>
  custom_diff_strong_ddr:0 "@DDR Renforcer l'Allemagne de l'Est"
  custom_diff_strong_ins:0 "@INS Renforcer les Indes orientales"
  custom_diff_strong_ecu:0 "@ECU Renforcer l'Équateur"
@@ -83,13 +69,9 @@ l_french:
  custom_diff_strong_eri:0 "@ERI Renforcer l'Érythrée"
  custom_diff_strong_est:0 "@EST Renforcer l'Estonie"
  custom_diff_strong_eth:0 "@ETH Renforcer l'Éthiopie"
-
- ###---> Minors: F <><> <><> <><>
  custom_diff_strong_fin:0 "@FIN Renforcer la Finlande"
  custom_diff_strong_fla:0 "@FLA Renforcer la Flandre"
  custom_diff_strong_fri:0 "@FRI Renforcer l'Indochine française"
-
- ###---> Minors: G <><> <><> <><>
  custom_diff_strong_gam:0 "@GAM Renforcer la Gambie"
  custom_diff_strong_geo:0 "@GEO Renforcer la Géorgie"
  custom_diff_strong_gre:0 "@GRE Renforcer la Grèce"
@@ -98,32 +80,22 @@ l_french:
  custom_diff_strong_gua:0 "@GUA Renforcer le Guatemala"
  custom_diff_strong_gna:0 "@GNA Renforcer la Guinée"
  custom_diff_strong_gbr:0 "@GBR Renforcer le Guyana"
-
- ###---> Minors: H <><> <><> <><>
  custom_diff_strong_hai:0 "@HAI Renforcer Haïti"
  custom_diff_strong_han:0 "@HAN Renforcer Hanovre"
  custom_diff_strong_hon:0 "@HON Renforcer le Honduras"
  custom_diff_strong_hun:0 "@HUN Renforcer la Hongrie"
-
- ###---> Minors: I <><> <><> <><>
  custom_diff_strong_ice:0 "@ICE Renforcer l'Islande"
  custom_diff_strong_isr:0 "@ISR Renforcer Israël"
  custom_diff_strong_per:0 "@PER Renforcer l'Iran"
  custom_diff_strong_irq:0 "@IRQ Renforcer l'Irak"
  custom_diff_strong_ire:0 "@IRE Renforcer l'Irlande"
-
- ###---> Minors: J <><> <><> <><>
  custom_diff_strong_jam:0 "@JAM Renforcer la Jamaïque"
  custom_diff_strong_jor:0 "@JOR Renforcer la Jordanie"
-
- ###---> Minors: K <><> <><> <><>
  custom_diff_strong_kaz:0 "@KAZ Renforcer le Kazakhstan"
  custom_diff_strong_ken:0 "@KEN Renforcer le Kenya"
  custom_diff_strong_kor:0 "@KOR Renforcer la Corée"
  custom_diff_strong_kos:0 "@KOS Renforcer le Kosovo"
  custom_diff_strong_kur:0 "@KUR Renforcer le Kurdistan"
-
- ###---> Minors: L <><> <><> <><>
  custom_diff_strong_lao:0 "@LAO Renforcer le Laos"
  custom_diff_strong_lat:0 "@LAT Renforcer la Lettonie"
  custom_diff_strong_leb:0 "@LEB Renforcer le Liban"
@@ -131,8 +103,6 @@ l_french:
  custom_diff_strong_lib:0 "@LIB Renforcer le Libéria"
  custom_diff_strong_lit:0 "@LIT Renforcer la Lituanie"
  custom_diff_strong_lux:0 "@LUX Renforcer le Luxembourg"
-
- ###---> Minors: M <><> <><> <><>
  custom_diff_strong_mad:0 "@MAD Renforcer Madagascar"
  custom_diff_strong_mac:0 "@MAC Renforcer la Macédoine"
  custom_diff_strong_man:0 "@MAN Renforcer le Mandchoukouo"
@@ -144,8 +114,6 @@ l_french:
  custom_diff_strong_mon:0 "@MON Renforcer la Mongolie"
  custom_diff_strong_mnt:0 "@MNT Renforcer le Monténégro"
  custom_diff_strong_mzb:0 "@MZB Renforcer le Mozambique"
-
- ###---> Minors: N <><> <><> <><>
  custom_diff_strong_nap:0 "@NAP Renforcer Naples"
  custom_diff_strong_nep:0 "@NEP Renforcer le Népal"
  custom_diff_strong_hol:0 "@HOL Renforcer les Pays-Bas"
@@ -155,11 +123,7 @@ l_french:
  custom_diff_strong_nir:0 "@NIR Renforcer l'Irlande du Nord"
  custom_diff_strong_nkr:0 "@NKR Renforcer la Corée du Nord"
  custom_diff_strong_nor:0 "@NOR Renforcer la Norvège"
-
- ###---> Minors: O <><> <><> <><>
  custom_diff_strong_oma:0 "@OMA Renforcer Oman"
-
- ###---> Minors: P <><> <><> <><>
  custom_diff_strong_pak:0 "@PAK Renforcer le Pakistan"
  custom_diff_strong_pal:0 "@PAL Renforcer la Palestine"
  custom_diff_strong_pan:0 "@PAN Renforcer le Panama"
@@ -170,16 +134,9 @@ l_french:
  custom_diff_strong_por:0 "@POR Renforcer le Portugal"
  custom_diff_strong_pre:0 "@PRE Renforcer la Prusse"
  custom_diff_strong_pue:0 "@PUE Renforcer Porto Rico"
-
- ###---> Minors: Q <><> <><> <><>
  custom_diff_strong_qbc:0 "@QBC Renforcer le Québec"
-
- ###---> Minors: R <><> <><> <><>
  custom_diff_strong_rom:0 "@ROM Renforcer la Roumanie"
  custom_diff_strong_rut:0 "@RUT Renforcer la Ruthénie"
-
- ###---> Minors: S <><> <><> <><>
- custom_diff_strong_sad:0 "@SAD Renforcer la Sardaigne"
  custom_diff_strong_sau:0 "@SAU Renforcer l'Arabie saoudite"
  custom_diff_strong_sam:0 "@SAM Renforcer les Samoa"
  custom_diff_strong_sad:0 "@SAX Renforcer la Sardaigne"
@@ -203,49 +160,31 @@ l_french:
  custom_diff_strong_swi:0 "@SWI Renforcer la Suisse"
  custom_diff_strong_syr:0 "@SYR Renforcer la Syrie"
  custom_diff_strong_szk:0 "@SZK Renforcer le Pays sicule"
-
- ###---> Minors: T <><> <><> <><>
  custom_diff_strong_tan:0 "@TAN Renforcer le Tannou-Touva"
  custom_diff_strong_tzn:0 "@TZN Renforcer la Tanzanie"
  custom_diff_strong_tib:0 "@TIB Renforcer le Tibet"
  custom_diff_strong_tng:0 "@TNG Renforcer le Tunganistan"
  custom_diff_strong_tun:0 "@TUN Renforcer la Tunisie"
  custom_diff_strong_tur:0 "@TUR Renforcer la Turquie"
-
- ###---> Minors: U <><> <><> <><>
  custom_diff_strong_ukr:0 "@UKR @DOU Renforcer l'Ukraine"
  custom_diff_strong_urg:0 "@URG Renforcer l'Uruguay"
  custom_diff_strong_uzb:0 "@UZB Renforcer l'Ouzbékistan"
-
- ###---> Minors: V <><> <><> <><>
  custom_diff_strong_ven:0 "@VEN Renforcer le Vénézuéla"
  custom_diff_strong_vin:0 "@VIN Renforcer le Vietnam"
  custom_diff_strong_vnz:0 "@VNZ Renforcer Venise"
-
- ###---> Minors: W <><> <><> <><>
  custom_diff_strong_wls:0 "@WLS Renforcer le Pays de Galles"
  custom_diff_strong_wll:0 "@WLL Renforcer la Wallonie"
  custom_diff_strong_wes:0 "@WES Renforcer le Sahara occidental"
  custom_diff_strong_wgr:0 "@WGR Renforcer l'Allemagne de l'Ouest"
  custom_diff_strong_wur:0 "@WUR Renforcer le Wurtemberg"
-
- ###---> Minors: X <><> <><> <><>
  custom_diff_strong_xsm:0 "@XSM Renforcer le Xibei San Ma"
-
- ###---> Minors: Y <><> <><> <><>
  custom_diff_strong_yem:0 "@YEM Renforcer le Yémen"
  custom_diff_strong_yug:0 "@YUG Renforcer la Yougoslavie"
  custom_diff_strong_yun:0 "@YUN Renforcer le Yunnan"
-
- ###---> Minors: Z <><> <><> <><>
  custom_diff_strong_zim:0 "@ZIM Renforcer le Zimbabwé"
-
- ###---> Factions <><> <><> <><>
  custom_diff_strong_allies:0 "@ENG @FRA @USA Renforcer les Alliés"
  custom_diff_strong_axis:0 "@GER @JAP @ITA Renforcer l'Axe"
  custom_diff_strong_comintern:0 "@SOV @MON @TAN Renforcer le Komintern"
-
- ###---> Regions (Unused) <><> <><> <><>
  custom_diff_strong_africa:0 "Renforcer l'Afrique"
  custom_diff_strong_america_central:0 "Renforcer l'Amérique centrale"
  custom_diff_strong_america_north:0 "Renforcer l'Amérique du Nord"
@@ -257,5 +196,3 @@ l_french:
  custom_diff_strong_europe_west:0 "Renforcer l'Europe occidentale"
  custom_diff_strong_asia_east:0 "Renforcer l'Asie de l'Est"
  custom_diff_strong_asia_central:0 "Renforcer l'Asie centrale"
-
-#####-----> End of File <><> <><> <><> <><> <><>

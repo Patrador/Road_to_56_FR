@@ -1,7 +1,6 @@
 ﻿l_french:
-##Commanders
  caring_leader:0 "Dirigeant attentionné"
- caring_leader_desc:0 "§LCet homme se soucie réellement de la santé et du confort relatif du simple soldat. Ses subordonnés sont rapidement capables de se battre à nouveau, mais ce "luxe" a un coût.§!"
+ caring_leader_desc:0 "§LCet homme se soucie réellement de la santé et du confort relatif du simple soldat. Ses subordonnés sont rapidement capables de se battre à nouveau, mais ce \"luxe\" a un coût.§!"
  artillerist:0 "Artilleur"
  artillerist_desc:0 "§LCet homme a étudié l'utilisation de l'artillerie et sait bien l'utiliser. Il peut parfois abuser de ses armes bien-aimées et tirer un peu plus que nécessaire.§!"
  air_force_ties:0 "Liens avec l'Armée de l'Air"
@@ -39,8 +38,6 @@
  promising:0 "Prometteur"
  promising_desc:0 "Cet homme a un grand talent et apprendra les bases assez rapidement."
  promising_tooltip:0 "§RCe trait sera supprimé si le commandant atteint le niveau 3.§!"
-
-##Companies
  r56_train_manufacturer:0 "Concepteur de trains"
  converted_train_manufacturer:0 "Constructeur de trains convertis"
  efficient_bomber_manufacturer:0 "Fabricant de bombardiers efficaces"
@@ -60,8 +57,6 @@
  mining_concern:0 "Intérêt pour l'industrie minière"
  railway_company:0 "Société ferroviaire"
  landing_craft_manufacturer:0 "Fabricant d'embarcations de débarquement"
-
-##Leaders
  defacto_leader:0 "Dirigeant de facto"
  dislikes_russia:0 "N'aime pas la Russie"
  tank_enthusiast:0 "Passionné de chars"
@@ -107,25 +102,19 @@
  polyglot:0 "Polyglotte"
  heir_of_the_knight_king:0 "Héritier du Roi-Chevalier"
  teacher_of_teachers:0 "Enseignant des enseignants"
-
  wary_of_the_high_command:0 "Se méfie du haut commandement"
  himmler_terrorizing_monomaniac:0 "Monomaniaque terrorisant"
  minister_of_aircraft_production:0 "Ministre de la production aéronautique"
  corrupt_council:0 "Conseil corrompu"
  yan_xishan_thought:0 "Pensée de Yan Xishan"
- ##Australia
  aboriginal_journalist:0 "Journaliste autochtone"
  aboriginal_rights_activist:0 "Activiste des droits des autochtones"
  odinist:0 "Odiniste"
  black_suffragette:0 "Suffragette noire"
-
-
-
-#Adviors
  head_of_the_fbi:0 "Directeur du FBI"
  intervention_advocate:0 "Avocat d'intervention"
  law_enforcement_militarizer_3:0 "Policier militariste\n(Génie)"
- reactionary_media_owner:0 "Baron des médias réactionnaires"
+ reactionary_media_baron:0 "Reactionary Media Baron"
  nationalist_diplomat:0 "Diplomate nationaliste"
  puppet_prime_minister_fascism:0 "Premier ministre fantoche"
  religious_figure:0 "Figure religieuse"
@@ -133,7 +122,6 @@
  centrist_intellectual:0 "Intellectuel centriste"
  royal:0 "Courtier royal"
  minister_of_everything:0 "Ministre de tout"
-
  guerilla_expert:0 "Expert en guérilla"
  guerilla_expert_desc:0 "S'ils ne nous attrapent pas, nous pourrons survivre, nous battre un autre jour et recommencer."
  submarine_captain:0 "Capitaine de sous-marin"

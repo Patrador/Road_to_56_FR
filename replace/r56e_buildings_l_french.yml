@@ -1,10 +1,4 @@
-﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
-
-#--> Buildings
-
-l_french:
-
-
+﻿l_french:
  aluminum_mill:0 "Usine d'aluminium"
  aluminum_mill_plural:0 "Usines d'aluminium"
  aluminum_mill_desc:0 "Ce bâtiment fournit à la région de nouvelles ressources."
@@ -20,5 +14,3 @@ l_french:
  rubber_refinery_desc:0 "Ce bâtiment fournit à la région de nouvelles ressources."
  rubber_refinery_amount:0 "$VALUE|Y0=$"
  rubber_refinery_resource:0 "£resources_strip|$FRAME$"
-
-#####---------------------------------------------------------------------> End

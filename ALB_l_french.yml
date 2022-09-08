@@ -1,12 +1,7 @@
 ﻿l_french:
-
- #Custom_tooltip
  albania_focus:0 "Priorités nationales albanaises"
- 9_ALB_tt:0 "Il y a une chance que cela provoque un soulèvement national et une guerre civile !"
- POLITICS_KING_ZOG_DESC:0 "Né en 1895 au sein d'une famille noble du château de Burgajet, il a occupé des postes ministériels de 1920 à 1924, jusqu'à son exil forcé en Yougoslavie. Le jeune Zog est revenu avec l'aide de la Yougoslavie et a été élu président le 1er février 1925, puis a assumé le rôle de roi le 1er septembre.\nBien qu'il soit capable de manipuler les affaires internes de l'Albanie à son avantage, il en vient à dépendre fortement de l'Italie de Benito Mussolini."  #From Britannica
- #leader traits
+ POLITICS_KING_ZOG_DESC:0 "Né en 1895 au sein d'une famille noble du château de Burgajet, il a occupé des postes ministériels de 1920 à 1924, jusqu'à son exil forcé en Yougoslavie. Le jeune Zog est revenu avec l'aide de la Yougoslavie et a été élu président le 1er février 1925, puis a assumé le rôle de roi le 1er septembre.\nBien qu'il soit capable de manipuler les affaires internes de l'Albanie à son avantage, il en vient à dépendre fortement de l'Italie de Benito Mussolini."
  likes_italy:0 "Aime l'Italie"
- #Focus
  vive_le_roi:0 "Renforcer le pouvoir de Zog"
  vive_le_roi_desc:0 "Notre Roi est le protecteur de notre pays ! Il doit être le symbole de notre combat contre ceux qui menacent notre royaume ! Nous transmettrons l'héritage de Scanderbeg et de notre Roi aux générations futures !"
  the_king_shall_be_desposed:0 "Contester le pouvoir de Zog"
@@ -167,7 +162,6 @@
  ALB_light_naval_warfare_desc:0 ""
  ALB_tirana_ports:0 "Ports de Tirana"
  ALB_tirana_ports_desc:0 ""
-
  ALB_invite_egyptian_exiles:0 "Inviter des exilés [EGY.GetAdjMP]"
  ALB_invite_egyptian_exiles_desc:0 "Zog était peut-être un monarque faible, mais nos liens culturels étroits avec les [EGY.GetHabitants] nous permettront de couronner facilement le monarque exilé Abbas II d'Égypte afin de créer une monarchie plus légitime et plus forte pour [ALB.GetNameDef]."
  ALB_reorganize_the_government:0 "Réorganiser le gouvernement"
@@ -180,8 +174,6 @@
  ALB_egyptian_industries_desc:0 "Abbas a de nombreux conseillers proches qui sont prêts à offrir leur soutien au développement industriel, l'idéal est de les écouter."
  ALB_liberate_our_homeland:0 "Libérer notre patrie"
  ALB_liberate_our_homeland_desc:0 "Pendant plus de 30 ans, la patrie [EGY.GetAdjFS] a été injustement dirigée par des dirigeants illégitimes qui ont évincé Abbas du trône. Il est maintenant temps de remédier à cette injustice et de restaurer le dirigeant légitime de toute l'Égypte !"
-
- #Ideas
  ALB_generic_fascist_demagogue:0 "Mustafa Merlika-Kruja"
  ALB_generic_democratic_reformer:0 "Theofan Stilian Noli"
  ALB_generic_communist_revolutionary:0 "Mehmet Shehu"
@@ -258,16 +250,10 @@
  no_go_with_ita:0 "Autorité italienne remise en cause"
  civ_consommation:0 "Augmentation de la consommation civile"
  civ_consommation_desc:0 "Nos entreprises vont prospérer si la consommation augmente. Si cela se produit, nous pourrons sortir de la crise économique dans laquelle nous nous trouvons depuis 1929. Nous ferons de notre mieux pour encourager le citoyen à consommer davantage de produits fabriqués par nos entreprises !"
-
- #Modifiers
  commie_opinion:0 "Diplomatie communiste"
  strategic_opinion:0 "Diplomatie stratégique"
-
- #Events
-
  britain.92.t:0 "[ALB.GetNameDefCap] souhaite rejoindre les Alliés"
  britain.92.d:0 "Les diplomates [ALB.GetAdjMP] ont fait une demande diplomatique pour rejoindre les Alliés. En tant que nation démocratique, ils veulent se joindre à nous pour dénoncer la menace fasciste et communiste. En outre, en tant que nation démocratique dominante, notre rôle est de diriger les autres et d'être un exemple de démocratie."
-
  albania.1.t:0 "L'affaire [ITA.GetAdjFS]"
  albania.1.d:0 "Nos espions et diplomates envoyés [ITA.GetAuEnANP] [ITA.GetName] nous ont avertis qu'ils avaient découvert un plan établi par le haut commandement militaire italien pour envahir notre pays. La nouvelle a choqué le gouvernement [ALB.GetAdjMS], les [ITA.GetHabitants] et les [ALB.GetHabitants] partageant depuis des années des relations amicales, en plus d'une coopération militaire et économique. En l'état actuel des choses, notre pays n'a qu'une faible chance de repousser l'invasion. Nous devons mobiliser notre pays et préparer notre pays à la guerre le plus rapidement possible !"
  albania.1.a:0 "Maudits soient les [ITA.GetHabitants] !"
@@ -313,8 +299,6 @@
  albania.14.d:0 "Le gouvernement [ALB.GetAdjMS], soucieux de maintenir son indépendance en ces temps troublés, a souhaité approfondir les relations entre nos deux nations en mettant en place un traité défensif qui assurerait le maintien des frontières [ALB.GetDuDelaDelNP] [ALB.GetName]."
  albania.14.a:0 "[ALB.GetNameDefCap] a notre protection"
  albania.14.b:0 "Nous n'avons aucun intérêt à défendre [ALB.GetNameDef]"
-
- #Decisions
  ALB_reintegrate_gjirokaster:0 "Réintégrer Gjirokastër"
  ALB_reintegrate_gjirokaster_desc:0 "Nous avons enfin libéré notre patrie des griffes viles de nos anciens seigneurs supérieurs ! Avant la libération de nos frères, Gjirokastër était sous l'occupation [GRE.GetDuDelaDelNP] [GRE.GetName] et a été extrêmement réprimé et intégré artificiellement dans leur nation. Il faudra un certain temps pour renverser les effets de leur occupation, mais c'est pour le bien de tous."
  ALB_assimilate_kosovo:0 "Assimiler le Kosovo"

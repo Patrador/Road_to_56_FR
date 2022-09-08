@@ -8,7 +8,7 @@
  POR_luso_monarchist_military_cooperation_desc:0 "Nos forces sont séparées par un océan mais cela ne signifie pas que nous ne pouvons pas apprendre les uns des autres. Nos différences font notre force, tout comme notre attachement à nos racines portugaises fait notre force."
  POR_luso_monarchist_cooperation:0 "Coopération luso-monarchiste"
  POR_luso_monarchist_cooperation_desc:0 "Notre alliance doit être cimentée et célébrée de chaque côté de l'océan."
- POR_remember_olivenca:0 "Avenge Olivença"
+ POR_remember_olivenca:0 "Vengez Olivença"
  POR_remember_olivenca_desc:0 "Pendant deux siècles, l'Espagne nous a refusé la souveraineté sur Olivença, peu importe le nombre de traités que nous avons signés pour mettre fin à cette injustice, nos terres légitimes nous ont été refusées encore et encore. Mais maintenant, nous allons reprendre tout cela à notre manière, et pour leur entêtement infondé, nous irons plus loin et reprendrons nos terres en Galice et au Maroc !"
  POR_desenvolver_o_interior:0 "Développer l'intérieur"
  POR_desenvolver_o_interior_desc:0 "Le gouvernement portugais veillera à ce que le secteur reçoive le soutien dont il a besoin, en termes de bonnes infrastructures dans tout le pays."
@@ -78,7 +78,6 @@
  POR_naval_air_effort_desc:0 "L'efficacité des frappes aériennes contre des cibles navales a été démontrée par les Américains dès 1921. Nous ne devons pas négliger cette branche de l'armée de l'air si nous avons l'intention de faire la guerre à une puissance navale."
  POR_submarine_effort:0 "Effort sur les sous-marins"
  POR_submarine_effort_desc:0 "La guerre sous-marine est le développement naval le plus passionnant depuis l'invention du torpilleur. Nous ferions bien de ne pas nous contenter de nous protéger contre les sous-marins, mais de les utiliser également contre les navires ennemis."
-
  POR_salazar:0 "L'échiquier politique"
  POR_salazar_desc:0 "Le Portugal est toujours une étape de la lutte pour le pouvoir. Gagnons du pouvoir avec lui."
  POR_collectivist_ethos:0 "Le Portugal d'abord"
@@ -155,7 +154,6 @@
  POR_call_of_arms_desc:0 "Le Portugal était et sera une puissance respectée dans le monde. Accompagnons notre destin !"
  POR_befriend_brazil:0 "Le traité de Rio de Janeiro"
  POR_befriend_brazil_desc:0 "Nos relations avec le Brésil ont toujours été bonnes. Il serait dans notre intérêt de les inviter à notre alliance."
-
  POR_progress_cult:0 "Culte du progrès"
  POR_progress_cult_desc:0 "Nous devrions célébrer les innovations des scientifiques portugais exceptionnels et encourager le bon type de pensée libre. L'URSS aura toujours une longueur d'avance sur l'Occident décadent lorsqu'il s'agira d'explorer de nouveaux domaines scientifiques audacieux ; il suffit de regarder le brillant travail du camarade Manuel !"
  POR_socialist_science:0 "Science socialiste"
@@ -166,46 +164,32 @@
  POR_women_pilots_desc:0 "La camarade Maria, notre héroïque aviatrice longue distance, devrait être autorisée à former des régiments aériens exclusivement féminins grâce à son programme Aviation Group 69."
  POR_socialist_realism:0 "Le réalisme socialiste"
  POR_socialist_realism_desc:0 "Toutes les œuvres d'art au Portugal doivent s'efforcer d'éduquer le peuple aux objectifs et à la signification du communisme, en représentant le prolétariat dans des scènes réalistes et typiques de la vie quotidienne. Les artistes portugais sont les ingénieurs des âmes !"
-
-POR_naval_aviation:0 "L'aviation navale"
-POR_naval_aviation_desc:0 "Les flottes de combat modernes seront centrées sur les porte-avions et non sur les cuirassés. La suprématie de la puissance aérienne sur les navires a été démontrée par les Américains dès 1921 !"
-POR_silent_service:0 "Service silencieux"
-POR_silent_service_desc:0 "La guerre sous-marine est le développement naval le plus passionnant depuis l'invention du torpilleur. Nous ferions bien de ne pas nous contenter de nous protéger contre les sous-marins, mais de les utiliser également contre les navires ennemis."
-
-POR_elastic_defense:0 "Défense élastique"
-
-
-### Opinion Modifiers
-
+ POR_naval_aviation:0 "L'aviation navale"
+ POR_naval_aviation_desc:0 "Les flottes de combat modernes seront centrées sur les porte-avions et non sur les cuirassés. La suprématie de la puissance aérienne sur les navires a été démontrée par les Américains dès 1921 !"
+ POR_silent_service:0 "Service silencieux"
+ POR_silent_service_desc:0 "La guerre sous-marine est le développement naval le plus passionnant depuis l'invention du torpilleur. Nous ferions bien de ne pas nous contenter de nous protéger contre les sous-marins, mais de les utiliser également contre les navires ennemis."
+ POR_elastic_defense:0 "Défense élastique"
  POR_greedy:0 "Demandes portugaises"
  POR_propaganda:0 "Influence portugaise"
-
-### Ideas
-
-  POR_civil_war_surrender_debuff:0 "Métropole divisée"
-  POR_civil_war_surrender_debuff_desc:0 "On ne peut pas trop compter sur les Ultramar dans cette guerre. Le Portugal sera l'endroit où tout sera"
-
-  lisnave:0 "LisNave - Estaleiros Navais de Lisboa"
-  nautiber:0 "NautiBer"
-  fbp:0 "FBP - Fábrica de Braço de Prata"
-  cuf:0 "CUF - Companhia União Fabril"
-  eca:0 "ECA - Empresa do Cobre de Angola"
-  lancia_p:0 "Lancia Portugal - Import Company"
-  fiat_p:0 "FIAT Portugal - Auto Company"
-  omga:0 "OMGA - Aeronautica Portuguesa"
-  junkers_p:0 "Junkers Portugal - Import Company"
-  amiot_p:0 "FAP - Air Material Company"
-  heinkel_p:0 "Heinkel Portugal - Import Company"
-  man_p:0 "MAN Portugal - German Company Branch"
-  ana_p:0 "ANA - Naval Aircraft Company"
-
-  por_estado_novo:0 "O Estado Novo"
-  por_pvde:0 "Polícia de Vigilância e Defesa do Estado"
-  por_military_youth_focus:0 "Mocidade Portuguesa"
-  por_dpfamilia:0 "Deus, Pátria e Família"
-
-
- ### demand Ceuta event
+ POR_civil_war_surrender_debuff:0 "Métropole divisée"
+ POR_civil_war_surrender_debuff_desc:0 "On ne peut pas trop compter sur les Ultramar dans cette guerre. Le Portugal sera l'endroit où tout sera"
+ lisnave:0 "LisNave - Estaleiros Navais de Lisboa"
+ nautiber:0 "NautiBer"
+ fbp:0 "FBP - Fábrica de Braço de Prata"
+ cuf:0 "CUF - Companhia União Fabril"
+ eca:0 "ECA - Empresa do Cobre de Angola"
+ lancia_p:0 "Lancia Portugal - Compagnie d'importation"
+ fiat_p:0 "FIAT Portugal - Compagnie automobile"
+ omga:0 "OMGA - Aeronautica Portuguesa"
+ junkers_p:0 "Junkers Portugal - Compagnie d'importation"
+ amiot_p:0 "FAP - Air Material Company"
+ heinkel_p:0 "Heinkel Portugal - Compagnie d'importation"
+ man_p:0 "MAN Portugal - Branche de la compagnie allemande"
+ ana_p:0 "ANA - Compagnie d'aéronautique navale"
+ por_estado_novo:0 "O Estado Novo"
+ por_pvde:0 "Polícia de Vigilância e Defesa do Estado"
+ por_military_youth_focus:0 "Mocidade Portuguesa"
+ por_dpfamilia:0 "Deus, Pátria e Família"
  portugal.1.t:0 "Le Portugal exige Ceuta"
  portugal.1.d:0 "Le Portugal suggère que nous signions un traité avec eux, ce qui leur donnerait Ceuta ! Ils prétendent être les véritables propriétaires de Ceuta. Que devons-nous faire ?"
  portugal.1.a:0 "Acceptons l'inévitable..."
@@ -222,8 +206,6 @@ POR_elastic_defense:0 "Défense élastique"
  news.701.t:0 "L'Espagne rejette les demandes du Portugal"
  news.701.d:0 "Les journaux du monde entier citent les affirmations véridiques du Portugal, selon lesquelles l'Espagne devrait céder Ceuta au Portugal pour qu'elle puisse à nouveau se soumettre à la domination portugaise."
  news.701.o:0 "Nous pourrions avoir une guerre en Ibérie"
-
-  ### demand Rhodesia event
  portugal.4.t:0 "Le Portugal exige la Rhodésie"
  portugal.4.d:0 "Le Portugal suggère que nous signions un traité avec eux, ce qui leur donnerait la Rhodésie ! Ils prétendent qu'ils sont les véritables propriétaires de la Rhodésie. Que devrions-nous faire ?"
  portugal.4.a:0 "Acceptons l'inévitable..."
@@ -240,8 +222,6 @@ POR_elastic_defense:0 "Défense élastique"
  news.703.t:0 "Le Royaume-Uni rejette les demandes du Portugal"
  news.703.d:0 "Les journaux du monde entier citent les affirmations véridiques du Portugal, selon lesquelles le Royaume-Uni devrait céder la Rhodésie au Portugal pour qu'elle puisse à nouveau se soumettre à la domination portugaise."
  news.703.o:0 "Nous pourrions avoir une guerre en Afrique"
-
-### demand Ceylon event
  portugal.40.t:0 "Le Portugal exige Ceylan"
  portugal.40.d:0 "Le Portugal suggère que nous signions un traité avec eux, ce qui leur donnerait Ceylan ! Ils prétendent être les véritables propriétaires de Ceylan. Que devons-nous faire ?"
  portugal.40.a:0 "Accepter l'inévitable..."
@@ -258,8 +238,6 @@ POR_elastic_defense:0 "Défense élastique"
  news.712.t:0 "Le Royaume-Uni rejette les demandes du Portugal"
  news.712.d:0 "Les journaux du monde entier citent les affirmations véridiques du Portugal, selon lesquelles le Royaume-Uni devrait céder Ceylan au Portugal pour qu'il puisse à nouveau se soumettre à la domination portugaise."
  news.712.o:0 "Nous pourrions avoir une guerre en Asie"
-
-  ### allies join event
  portugal.30.t:0 "Le Portugal souhaite rejoindre les Alliés"
  portugal.30.d:0 "Nous venons de recevoir la visite du ministre portugais des affaires étrangères, qui nous a dit à quel point ils aimeraient faire partie de notre glorieuse alliance."
  portugal.30.a:0 "Tous ceux qui peuvent contribuer sont les bienvenus dans notre faction."
@@ -276,8 +254,6 @@ POR_elastic_defense:0 "Défense élastique"
  news.705.t:0 "Les Alliés rejettent la demande du Portugal"
  news.705.d:0 "Il a été porté à notre attention que le Portugal souhaite rejoindre les Alliés. Cependant, le Royaume-Uni a refusé cette demande, déclarant que ce ne serait pas une décision judicieuse pour les deux parties dans la situation actuelle."
  news.705.o:0 "C'était peut-être mieux ainsi."
-
-### axis join event
  portugal.10.t:0 "Le Portugal souhaite rejoindre l'Axe"
  portugal.10.d:0 "Nous venons de recevoir la visite du ministre portugais des affaires étrangères, qui nous a dit à quel point ils aimeraient faire partie de notre glorieuse alliance."
  portugal.10.a:0 "Tous ceux qui peuvent contribuer sont les bienvenus dans notre faction."
@@ -294,7 +270,6 @@ POR_elastic_defense:0 "Défense élastique"
  news.707.t:0 "L'Allemagne rejette la demande du Portugal"
  news.707.d:0 "Il a été porté à notre attention que le Portugal souhaite rejoindre l'Axe. Cependant, l'Allemagne a refusé cette demande, déclarant que ce ne serait pas une décision judicieuse pour les deux parties dans la situation actuelle."
  news.707.o:0 "C'était peut-être mieux ainsi."
- ### comintern join event
  portugal.20.t:0 "Le Portugal souhaite rejoindre le Komintern."
  portugal.20.d:0 "Nous venons de recevoir la visite du ministre portugais des affaires étrangères, qui nous a dit à quel point ils aimeraient faire partie de notre glorieuse alliance."
  portugal.20.a:0 "Tous ceux qui peuvent contribuer sont les bienvenus dans notre faction."
@@ -311,15 +286,13 @@ POR_elastic_defense:0 "Défense élastique"
  news.709.t:0 "Les Soviétiques rejettent la demande portugaise"
  news.709.d:0 "Il a été porté à notre attention que le Portugal veut rejoindre le Komintern. Cependant, les Soviétiques ont rejeté cette demande, déclarant que ce ne serait pas une décision judicieuse pour l'une ou l'autre partie dans la situation actuelle."
  news.709.o:0 "C'était peut-être mieux ainsi."
- ### befriend with spain
  news.710.t:0 "Ministère portugais des Affaires étrangères [SPR.GetAuEnANP] [SPR.GetName]"
  news.710.d:0 "Plutôt que d'affronter [SPR.GetNameDef] au sujet des populations italiennes de la côte dalmate, [From.GetNameDef] a annoncé la création d'une mission diplomatique permanente [YUG.GetAuEnANP] [YUG.GetName]. Selon une déclaration du ministère des affaires étrangères [From.GetAdjMS], les deux pays ont tellement d'histoire commune et d'intérêts communs que la compréhension mutuelle est bien plus importante qu'un petit conflit frontalier.\n\nAvec les tensions croissantes en Europe, on ne peut qu'espérer que davantage de pays adoptent cette approche."
  news.710.a:0 "Nos nations sont solidaires et amies."
  news.710.b:0 "La paix régnera en Ibérie."
  news.710.c:0 "Il sera intéressant de voir où cela se termine."
- rangers:0 "Caçadores Especiais"
+ rangers:0 "Chasseurs spéciaux"
  rangers_desc:0 "Cies de soutien d'élite avec de forts bonus."
- cacadores:0 "Caçadores Especiais"
+ cacadores:0 "Chasseurs spéciaux"
  cacadores_desc:0 "Cies de soutien d'élite avec de forts bonus."
-
  portugal.t1.t:0 "Revendications territoriales [POR.GetAdjFP]."

@@ -1,36 +1,26 @@
 ﻿l_french:
-
-#leaders
-GRL_eske_brun:0 "Eske Brun"
-GRL_aksel_svane:0 "Aksel Svane"
-GRL_greenland_worker_councils:0 "Comités de travailleurs du Groenland"
-
-#ideas
-GRL_knud_oldendow:0 "Knud Oldendow"
-GRL_eli_knudsen:0 "Eli Knudsen"
-GRL_christian_arke:0 "Christian Arke"
-GRL_willhelm_dege:0 "Willhem Dege"
-GRL_malekalet_arke:0 "Malekalet Arke"
-GRL_aage_de_lemos:0 "Aage de Lemos"
-GRL_edward_h_smith:0 "Edward H. Smith"
-GRL_ib_poulsen:0 "Ib Poulsen"
-GRL_jens_marius_jensen:0 "Jens Marius Jensen"
-GRL_peter_nielsen:0 "Peter Nielsen"
-GRL_kurt_olsen:0 "Kurt Olsen"
-
-#GRL_aksel_svane:0 "Philip R. Rosendahl" #not a mistake just a lazy change to prevent a continuity error.
-
-#events
-grl.1:0 "L'accord Hull-Kauffmann"
-grl.1.t:0 "L'accord Hull-Kauffmann"
-grl.1.d:0 "Le gouvernement [DEN.GetAdjMS] est récemment tombé aux mains des armées fascistes, mais le territoire colonial du Groenland reste libre de toute ingérence fasciste. Il se trouve qu'un diplomate [DEN.GetAdjMS] du nom de Henrik Kauffmann nous a récemment contactés au sujet de la situation au Groenland. Il agit « au nom du roi » et de l'autorité du gouvernement [DEN.GetAdjMS] récemment exilé. Kauffmann est prêt à nous céder le contrôle du Groenland. Les officiels de Nuuk ont contacté Kauffmann avec cette demande parce qu'ils préfèrent une occupation [USA.GetAdjFS] plutôt qu'une possible occupation par [ENG.GetNameDef] ou [CAN.GetNameDef]. Ou pire encore, par un pouvoir fasciste. Cet accord peut être juridiquement douteux en droit international. Mais nous avons la responsabilité de protéger toutes les terres et les peuples du Nouveau Monde de la menace fasciste, y compris le Groenland. Mais comment devons-nous nous y prendre ?"
-grl.1.a:0 "Placer le Groenland sous notre contrôle direct dès maintenant."
-grl.1.b:0 "Laisser le gouvernement local de Nuuk en prendre le contrôle. Bien que nous devions assurer leur sécurité."
-
-#parties
-GRL_communism_party_long:0 "Inuit Ataqatigiit/Folkets Samfund"
-GRL_communism_party:0 "IA"
-GRL_democratic_party_long:0 "Siumut/Frem"
-GRL_democratic_party:0 "Siumut"
-GRL_fascism_party:0 "Kalaallit Katersat" #This is probably horrible Greenlandic, im sorry (roughly Greenlandic Movement)
-GRL_neutrality_party:0 "Inspection du Groenland"
+ GRL_eske_brun:0 "Eske Brun"
+ GRL_aksel_svane:0 "Aksel Svane"
+ GRL_greenland_worker_councils:0 "Comités de travailleurs du Groenland"
+ GRL_knud_oldendow:0 "Knud Oldendow"
+ GRL_eli_knudsen:0 "Eli Knudsen"
+ GRL_christian_arke:0 "Christian Arke"
+ GRL_willhelm_dege:0 "Willhem Dege"
+ GRL_malekalet_arke:0 "Malekalet Arke"
+ GRL_aage_de_lemos:0 "Aage de Lemos"
+ GRL_edward_h_smith:0 "Edward H. Smith"
+ GRL_ib_poulsen:0 "Ib Poulsen"
+ GRL_jens_marius_jensen:0 "Jens Marius Jensen"
+ GRL_peter_nielsen:0 "Peter Nielsen"
+ GRL_kurt_olsen:0 "Kurt Olsen"
+ grl.1:0 "L'accord Hull-Kauffmann"
+ grl.1.t:0 "L'accord Hull-Kauffmann"
+ grl.1.d:0 "Le gouvernement [DEN.GetAdjMS] est récemment tombé aux mains des armées fascistes, mais le territoire colonial du Groenland reste libre de toute ingérence fasciste. Il se trouve qu'un diplomate [DEN.GetAdjMS] du nom de Henrik Kauffmann nous a récemment contactés au sujet de la situation au Groenland. Il agit « au nom du roi » et de l'autorité du gouvernement [DEN.GetAdjMS] récemment exilé. Kauffmann est prêt à nous céder le contrôle du Groenland. Les officiels de Nuuk ont contacté Kauffmann avec cette demande parce qu'ils préfèrent une occupation [USA.GetAdjFS] plutôt qu'une possible occupation par [ENG.GetNameDef] ou [CAN.GetNameDef]. Ou pire encore, par un pouvoir fasciste. Cet accord peut être juridiquement douteux en droit international. Mais nous avons la responsabilité de protéger toutes les terres et les peuples du Nouveau Monde de la menace fasciste, y compris le Groenland. Mais comment devons-nous nous y prendre ?"
+ grl.1.a:0 "Placer le Groenland sous notre contrôle direct dès maintenant."
+ grl.1.b:0 "Laisser le gouvernement local de Nuuk en prendre le contrôle. Bien que nous devions assurer leur sécurité."
+ GRL_communism_party_long:0 "Inuit Ataqatigiit/Folkets Samfund"
+ GRL_communism_party:0 "IA"
+ GRL_democratic_party_long:0 "Siumut/Frem"
+ GRL_democratic_party:0 "Siumut"
+ GRL_fascism_party:0 "Kalaallit Katersat"
+ GRL_neutrality_party:0 "Inspection du Groenland"

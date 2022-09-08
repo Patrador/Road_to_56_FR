@@ -1,6 +1,4 @@
-﻿#####-----> Organized by Abbus <><> <><> <><>
-
-l_french:
+﻿l_french:
  motorized_rocket_equipment:0 "Lance-roquettes motorisé"
  motorized_rocket_equipment_short:0 "LR motorisé"
  motorized_rocket_equipment_desc:0 "§YLance-roquettes motorisé§!\nPlus rapide que l'artillerie conventionnelle, le lance-roquettes multiple est toutefois moins précis et plus long à recharger. Lorsqu'il est monté sur un camion, il peut lancer des attaques et changer de position avant que l'ennemi ait le temps de riposter."
@@ -38,8 +36,6 @@ l_french:
  amphibious_mechanized_equipment_2:0 "Véhicule amphibie 43"
  amphibious_mechanized_equipment_2_short:0 "Amtrac 43"
  amphibious_mechanized_equipment_2_desc:0 "Ces amtracs bénéficient de plusieurs améliorations par rapport à la version originale, par exemple une rampe à l'arrière pour faciliter le déchargement sur les plages."
-
- #New Train R56 Techs
  r56_gw_railway_gun_equipment:0 "Canon ferroviaire de la Grande Guerre"
  r56_gw_railway_gun_equipment_short:0 "Canon ferroviaire Gr. Guerre"
  r56_gw_railway_gun_equipment_desc:0 "Développé comme une solution aux lourdes fortifications de la Grande Guerre. Un canon géant de cuirassé qui a été modifié pour être utilisé sur terre. Monté sur un porte-avions pour gérer le recul massif du canon."
@@ -54,8 +50,6 @@ l_french:
  train_equipment_5_desc:0 "Les développements dans les moteurs à combustion diesel ont rendu les locomotives diesel beaucoup plus particulières et plus faciles à produire que leurs homologues à vapeur. Les pièces nécessaires à la fabrication et le carburant diesel utilisé pour les faire fonctionner nécessitent la cannibalisation de ressources que nous pourrions mieux utiliser dans la production de guerre."
  train_equipment_side_tanks:0 "Sidetank austère de guerre"
  train_equipment_side_tanks_desc:0 "Plus petits et moins chers à produire que les autres trains austères de guerre. Ces « sidetanks » peuvent effectuer les tâches de leurs homologues plus grands, compte tenu de leur effort de traction plus faible."
-
- #New Railway and Logistics tech
  r56_combat_service:0 "Soutien aux services de combat"
  r56_combat_service_desc:0 "Le soutien de l'aspect logistique de notre armée est la clé du succès sur le terrain."
  r56_convoy_highways:0 "Convoi d'autoroutes"
@@ -66,10 +60,7 @@ l_french:
  r56_military_railnetwork_desc:0 "Les chemins de fer construits spécialement pour l'usage militaire sont moins chers à construire et mieux conçus pour les besoins uniques de l'armée."
  r56_modern_military_railnetwork:0 "Réseau ferroviaire militaire moderne"
  r56_modern_military_railnetwork_desc:0 "Les leçons tirées des chemins de fer militaires ont fourni un niveau de soutien logistique que l'on pensait impossible dix ans auparavant."
-
- #Railway gun
- railway_gun:0 "Canon ferroviaire"  #Tech name, doesn't display properly in focus JAP_divert_naval_guns_to_the_army
-
+ railway_gun:0 "Canon ferroviaire"
  AFG_motorized_rocket_equipment_1:0 "M42 15cm"
  AFG_motorized_rocket_equipment_1_short:0 "M42 15cm"
  AFG_motorized_equipment_1:0 "Praga RV"
@@ -87,10 +78,8 @@ l_french:
  AFG_motorized_utility_equipment_1_short:0 "Praga AV"
  AFG_motorized_heavy_equipment_1:0 "Praga T-6"
  AFG_motorized_heavy_equipment_1_short:0 "Praga T-6"
-
- ALB_train_equipment_1:0 "HSH J11" #made up
+ ALB_train_equipment_1:0 "HSH J11"
  ALB_train_equipment_1_short:0 "HSH J11"
-
  ARG_motorized_rocket_equipment_1:0 "Lanzacohetes 127mm M1943"
  ARG_motorized_rocket_equipment_1_short:0 "127mm M1943"
  ARG_motorized_equipment_1:0 "Dodge modelo 1935 3 toneladas"
@@ -105,7 +94,6 @@ l_french:
  ARG_mechanized_equipment_x_short:0 "TBP M1949"
  ARG_mechanized_equipment_x_2_:0 "Transporte Blindado de Personal modelo 1953"
  ARG_mechanized_equipment_x_2_short:0 "TBP M1953"
-
  AUS_motorized_rocket_equipment_1:0 "Panzerwerfer"
  AUS_motorized_rocket_equipment_1_short:0 "Panzerwerfer"
  AUS_motorized_equipment_1:0 "Steyr 640"
@@ -125,13 +113,12 @@ l_french:
  AUS_amphibious_mechanized_equipment_2_short:0 "LWS II"
  AUS_train_equipment_1:0 "BBÖ 81"
  AUS_train_equipment_1_short:0 "BBÖ 81"
- AUS_train_equipment_2:0 "BBÖ 520" #Made up
+ AUS_train_equipment_2:0 "BBÖ 520"
  AUS_train_equipment_2_short:0 "BBÖ 520"
- AUS_train_equipment_4:0 "BBÖ 614" #Made up
+ AUS_train_equipment_4:0 "BBÖ 614"
  AUS_train_equipment_4_short:0 "BBÖ 614"
- AUS_train_equipment_5:0 "BBÖ 2143" ##Made up but based on real class but 20 years ahead. Better than nothing
+ AUS_train_equipment_5:0 "BBÖ 2143"
  AUS_train_equipment_5_short:0 "BBÖ 2143"
-
  BEL_motorized_rocket_equipment_1:0 "Fusée 110 modèle 1942"
  BEL_motorized_rocket_equipment_1_short:0 "110 mle. 1942"
  BEL_motorized_equipment_1:0 "Chevrolet mle. 35"
@@ -141,19 +128,16 @@ l_french:
  BEL_mechanized_equipment_2_short:0 "VBCP M5"
  BEL_mechanized_equipment_3:0 "Voiture blindée de chasseurs portés M39"
  BEL_mechanized_equipment_3_short:0 "VBCP M39"
- BEL_mechanized_equipment_x:0 "Voiture blindée de chasseurs portés M44"
- BEL_mechanized_equipment_x_short:0 "VBCP M44"
  BEL_mechanized_equipment_x:0 "Voiture blindée de chasseurs portés M44E2"
  BEL_mechanized_equipment_x_short:0 "VBCP M44E2"
  BEL_amphibious_mechanized_equipment_1:0 "Landing Vehicle Tracked 2"
  BEL_amphibious_mechanized_equipment_1_short:0 "LVT-2"
  BEL_amphibious_mechanized_equipment_2:0 "Landing Vehicle Tracked 4"
  BEL_amphibious_mechanized_equipment_2_short:0 "LVT-4"
- BEL_train_equipment_1:0 "SNCFB Type 1" #if you find a better fit waffle replace-> French is dominant so use SNCB instead of NMBS (sorry for any Dutch speaking reader) (actually SNCFB at the time) type 10 of 1910-14 changed with type 1 of 1935-38. Type 1 succeds to the model 35 because they restarted the count in 1931...easy.
+ BEL_train_equipment_1:0 "SNCFB Type 1"
  BEL_train_equipment_1_short:0 "SNCFB Type 1"
- BEL_train_equipment_2:0 "SNCB Type 29" #actually marshall plan locomotives but better than nothing.
+ BEL_train_equipment_2:0 "SNCB Type 29"
  BEL_train_equipment_2_short:0 "SNCB Type 29"
-
  COG_motorized_rocket_equipment_1:0 "Fusée 110 modèle 1942"
  COG_motorized_rocket_equipment_1_short:0 "110 mle. 1942"
  COG_motorized_equipment_1:0 "Chevrolet mle. 35"
@@ -163,15 +147,12 @@ l_french:
  COG_mechanized_equipment_2_short:0 "VBCP M5"
  COG_mechanized_equipment_3:0 "Voiture blindée de chasseurs portés M39"
  COG_mechanized_equipment_3_short:0 "VBCP M39"
- COG_mechanized_equipment_x:0 "Voiture blindée de chasseurs portés M44"
- COG_mechanized_equipment_x_short:0 "VBCP M44"
  COG_mechanized_equipment_x:0 "Voiture blindée de chasseurs portés M44E2"
  COG_mechanized_equipment_x_short:0 "VBCP M44E2"
  COG_amphibious_mechanized_equipment_1:0 "Landing Vehicle Tracked 2"
  COG_amphibious_mechanized_equipment_1_short:0 "LVT-2"
  COG_amphibious_mechanized_equipment_2:0 "Landing Vehicle Tracked 4"
  COG_amphibious_mechanized_equipment_2_short:0 "LVT-4"
-
  FLA_motorized_rocket_equipment_1:0 "Fusée 110 modèle 1942"
  FLA_motorized_rocket_equipment_1_short:0 "110 mle. 1942"
  FLA_motorized_equipment_1:0 "Chevrolet mle. 35"
@@ -181,19 +162,16 @@ l_french:
  FLA_mechanized_equipment_2_short:0 "VBCP M5"
  FLA_mechanized_equipment_3:0 "Voiture blindée de chasseurs portés M39"
  FLA_mechanized_equipment_3_short:0 "VBCP M39"
- FLA_mechanized_equipment_x:0 "Voiture blindée de chasseurs portés M44"
- FLA_mechanized_equipment_x_short:0 "VBCP M44"
  FLA_mechanized_equipment_x:0 "Voiture blindée de chasseurs portés M44E2"
  FLA_mechanized_equipment_x_short:0 "VBCP M44E2"
  FLA_amphibious_mechanized_equipment_1:0 "Landing Vehicle Tracked 2"
  FLA_amphibious_mechanized_equipment_1_short:0 "LVT-2"
  FLA_amphibious_mechanized_equipment_2:0 "Landing Vehicle Tracked 4"
  FLA_amphibious_mechanized_equipment_2_short:0 "LVT-4"
- FLA_train_equipment_1:0 "NMBS Type 1" #Adapted from Belgium.
+ FLA_train_equipment_1:0 "NMBS Type 1"
  FLA_train_equipment_1_short:0 "NMBS Type 1"
- FLA_train_equipment_2:0 "NMBS Type 29" #actually marshall plan locomotives but better than nothing.
+ FLA_train_equipment_2:0 "NMBS Type 29"
  FLA_train_equipment_2_short:0 "NMBS Type 29"
-
  WLL_motorized_rocket_equipment_1:0 "Fusée 110 modèle 1942"
  WLL_motorized_rocket_equipment_1_short:0 "110 mle. 1942"
  WLL_motorized_equipment_1:0 "Chevrolet mle. 35"
@@ -203,19 +181,16 @@ l_french:
  WLL_mechanized_equipment_2_short:0 "VBCP M5"
  WLL_mechanized_equipment_3:0 "Voiture blindée de chasseurs portés M39"
  WLL_mechanized_equipment_3_short:0 "VBCP M39"
- WLL_mechanized_equipment_x:0 "Voiture blindée de chasseurs portés M44"
- WLL_mechanized_equipment_x_short:0 "VBCP M44"
  WLL_mechanized_equipment_x:0 "Voiture blindée de chasseurs portés M44E2"
  WLL_mechanized_equipment_x_short:0 "VBCP M44E2"
  WLL_amphibious_mechanized_equipment_1:0 "Landing Vehicle Tracked 2"
  WLL_amphibious_mechanized_equipment_1_short:0 "LVT-2"
  WLL_amphibious_mechanized_equipment_2:0 "Landing Vehicle Tracked 4"
  WLL_amphibious_mechanized_equipment_2_short:0 "LVT-4"
- WLL_train_equipment_1:0 "SNCFW Type 1" #Adapted from Belgium
+ WLL_train_equipment_1:0 "SNCFW Type 1"
  WLL_train_equipment_1_short:0 "SNCFW Type 1"
- WLL_train_equipment_2:0 "SNCW Type 29" #actually marshall plan locomotives but better than nothing.
+ WLL_train_equipment_2:0 "SNCW Type 29"
  WLL_train_equipment_2_short:0 "SNCW Type 29"
-
  BOL_motorized_rocket_equipment_1:0 "Lanzacohetes 127mm M1943"
  BOL_motorized_rocket_equipment_1_short:0 "127mm M1943"
  BOL_motorized_equipment_1:0 "Dodge modelo 1935 3 toneladas"
@@ -230,7 +205,6 @@ l_french:
  BOL_mechanized_equipment_x_short:0 "TBP M1949"
  BOL_mechanized_equipment_x_2:0 "Transporte Blindado de Personal modelo 1953"
  BOL_mechanized_equipment_x_2_short:0 "TBP M1953"
-
  BRA_motorized_rocket_equipment_1:0 "Foguete de 127 M1943"
  BRA_motorized_rocket_equipment_1_short:0 "127 M1943"
  BRA_motorized_equipment_1:0 "Dodge m/1935 3 toneladas"
@@ -244,7 +218,6 @@ l_french:
  BRA_mechanized_equipment_x_short:0 "VBTP m/1949"
  BRA_mechanized_equipment_x_2:0 "Veículo Blindado Transporte Pessoal m/1953"
  BRA_mechanized_equipment_x_2_short:0 "VBTP m/1953"
-
  BUL_motorized_rocket_equipment_1:0 "150-mm Raketa M42"
  BUL_motorized_rocket_equipment_1_short:0 "150-mm M42"
  BUL_motorized_equipment_1:0 "Ursus A"
@@ -262,10 +235,8 @@ l_french:
  BUL_train_equipment_1_short:0 "BDŽ class 50"
  BUL_train_equipment_2:0 "BDŽ class 52"
  BUL_train_equipment_2_short:0 "BDŽ class 50"
-
  CAN_train_equipment_1:0 "Canadian Pacific 2816"
  CAN_train_equipment_1_short:0 "Canadian Pacific 2816"
-
  CHI_motorized_rocket_equipment_1:0 "114mm Rocket Type 32"
  CHI_motorized_rocket_equipment_1_short:0 "114mm Type 32"
  CHI_motorized_equipment_1:0 "Opel Blitz"
@@ -282,7 +253,6 @@ l_french:
  CHI_mechanized_equipment_x_2_short:0 "Type 42"
  CHI_train_equipment_1:0 "CR Class JF1"
  CHI_train_equipment_1_short:0 "CR Class JF1"
-
  GXC_motorized_rocket_equipment_1:0 "114mm Type 32"
  GXC_motorized_rocket_equipment_1_short:0 "114mm Type 32"
  GXC_motorized_equipment_1:0 "Opel Blitz"
@@ -297,7 +267,6 @@ l_french:
  GXC_mechanized_equipment_x_short:0 "Type 37"
  GXC_mechanized_equipment_x_2:0 "Type 42"
  GXC_mechanized_equipment_x_2_short:0 "Type 42"
-
  MEN_motorized_rocket_equipment_1:0 "114mm Type 32"
  MEN_motorized_rocket_equipment_1_short:0 "114mm Type 32"
  MEN_motorized_equipment_1:0 "Opel Blitz"
@@ -312,7 +281,6 @@ l_french:
  MEN_mechanized_equipment_x_short:0 "Type 37"
  MEN_mechanized_equipment_x_2:0 "Type 42"
  MEN_mechanized_equipment_x_2_short:0 "Type 42"
-
  SHX_motorized_rocket_equipment_1_short:0 "114mm Type 32"
  SHX_motorized_equipment_1:0 "Opel Blitz"
  SHX_motorized_equipment_1_short:0 "Blitz"
@@ -326,7 +294,6 @@ l_french:
  SHX_mechanized_equipment_x_short:0 "Type 37"
  SHX_mechanized_equipment_x_2:0 "Type 42"
  SHX_mechanized_equipment_x_2_short:0 "Type 42"
-
  XSM_motorized_rocket_equipment_1:0 "114mm Type 32"
  XSM_motorized_rocket_equipment_1_short:0 "114mm Type 32"
  XSM_motorized_equipment_1:0 "Opel Blitz"
@@ -341,7 +308,6 @@ l_french:
  XSM_mechanized_equipment_x_short:0 "Type 37"
  XSM_mechanized_equipment_x_2:0 "Type 42"
  XSM_mechanized_equipment_x_2_short:0 "Type 42"
-
  YUN_motorized_rocket_equipment_1:0 "114mm Type 32"
  YUN_motorized_rocket_equipment_1_short:0 "114mm Type 32"
  YUN_motorized_equipment_1:0 "Opel Blitz"
@@ -356,7 +322,6 @@ l_french:
  YUN_mechanized_equipment_x_short:0 "Type 37"
  YUN_mechanized_equipment_x_2:0 "Type 42"
  YUN_mechanized_equipment_x_2_short:0 "Type 42"
-
  CZE_motorized_rocket_equipment_1:0 "8,6cm Raketa vz.42"
  CZE_motorized_rocket_equipment_1_short:0 "8,6cm Raketa vz.42"
  CZE_motorized_equipment_1:0 "Praga RV"
@@ -372,7 +337,6 @@ l_french:
  CZE_mechanized_equipment_x_2_short:0 "OT-53"
  CZE_train_equipment_1:0 "CSD 4-8-4T"
  CZE_train_equipment_1_short:0 "CSD 4-8-4T"
-
  SLO_motorized_rocket_equipment_1:0 "8,6cm Raketa vz.42"
  SLO_motorized_rocket_equipment_1_short:0 "8,6cm Raketa vz.42"
  SLO_motorized_equipment_1:0 "Praga RV"
@@ -386,7 +350,6 @@ l_french:
  SLO_mechanized_equipment_x_short:0 "OT-49"
  SLO_mechanized_equipment_x_2:0 "Obrněný Transportér vz.53"
  SLO_mechanized_equipment_x_2_short:0 "OT-53"
-
  DOU_motorized_rocket_equipment_1:0 "8,6cm Raketa vz.42"
  DOU_motorized_rocket_equipment_1_short:0 "8,6cm Raketa vz.42"
  DOU_motorized_equipment_1:0 "Praga RV"
@@ -400,7 +363,6 @@ l_french:
  DOU_mechanized_equipment_x_short:0 "OT-49"
  DOU_mechanized_equipment_x_2:0 "Obrněný Transportér vz.53"
  DOU_mechanized_equipment_x_2_short:0 "OT-53"
-
  RUT_motorized_rocket_equipment_1:0 "8,6cm Raketa vz.42"
  RUT_motorized_rocket_equipment_1_short:0 "8,6cm Raketa vz.42"
  RUT_motorized_equipment_1:0 "Praga RV"
@@ -414,7 +376,6 @@ l_french:
  RUT_mechanized_equipment_x_short:0 "OT-49"
  RUT_mechanized_equipment_x_2_:0 "Obrněný Transportér vz.53"
  RUT_mechanized_equipment_x_2_short:0 "OT-53"
-
  UKR_motorized_rocket_equipment_1:0 "8,6cm Raketa vz.42"
  UKR_motorized_rocket_equipment_1_short:0 "8,6cm Raketa vz.42"
  UKR_motorized_equipment_1:0 "Praga RV"
@@ -428,7 +389,6 @@ l_french:
  UKR_mechanized_equipment_x_short:0 "OT-49"
  UKR_mechanized_equipment_x_2_:0 "Obrněný Transportér vz.53"
  UKR_mechanized_equipment_x_2_short:0 "OT-53"
-
  DEN_motorized_rocket_equipment_1:0 "127mm Raket M.43"
  DEN_motorized_rocket_equipment_1_short:0 "127mm Raket M.43"
  DEN_motorized_equipment_1:0 "Ford V8 M.39"
@@ -444,7 +404,6 @@ l_french:
  DEN_mechanized_equipment_x_2_short:0 "M.53 PM"
  DEN_train_equipment_1:0 "DSB class D"
  DEN_train_equipment_1_short:0 "DSB class D"
-
  ENG_motorized_rocket_equipment_1:0 "Tulip RP-3"
  ENG_motorized_rocket_equipment_1_short:0 "Tulip RP-3"
  ENG_motorized_equipment_1:0 "Morris Commercial CD-SW 6x4"
@@ -470,15 +429,14 @@ l_french:
  ENG_amphibious_mechanized_equipment_2_desc:0 "An improved successor to the Terrapin Mk.1, the transport was significantly longer and had a forward driving position."
  ENG_r56_gw_railway_gun_equipment:0 "BL 9.2-inch Mk. III"
  ENG_r56_gw_railway_gun_equipment_short:0 "BL 9.2-inch Mk. III"
- ENG_railway_gun_equipment:0 "BL 9.2-inch MK. XIII" #vanilla override
- ENG_railway_gun_equipment_short:0 "BL 9.2-inch MK. XIII " #vanilla override
+ ENG_railway_gun_equipment:0 "BL 9.2-inch MK. XIII"
+ ENG_railway_gun_equipment_short:0 "BL 9.2-inch MK. XIII "
  ENG_train_equipment_side_tanks:0 "WD USA Tanks"
  ENG_train_equipment_side_tanks_short:0 "WD USA Tanks"
  ENG_train_equipment_4:0 "WD Class Q1"
  ENG_train_equipment_4_short:0 "WD Class Q1"
  ENG_train_equipment_5:0 "WD D16"
  ENG_train_equipment_5_short:0 "WD D16"
-
  NIR_motorized_rocket_equipment_1:0 "Tulip RP-3"
  NIR_motorized_rocket_equipment_1_short:0 "Tulip RP-3"
  NIR_motorized_equipment_1:0 "Morris Commercial CD-SW 6x4"
@@ -496,7 +454,6 @@ l_french:
  NIR_amphibious_mechanized_equipment_1_short:0 "Terrapin Mk. I"
  NIR_amphibious_mechanized_equipment_2:0 "Terrapin Mk. II"
  NIR_amphibious_mechanized_equipment_2_short:0 "Terrapin Mk. II"
-
  SCO_motorized_rocket_equipment_1:0 "Tulip RP-3"
  SCO_motorized_rocket_equipment_1_short:0 "Tulip RP-3"
  SCO_motorized_equipment_1:0 "Morris Commercial CD-SW 6x4"
@@ -514,7 +471,6 @@ l_french:
  SCO_amphibious_mechanized_equipment_1_short:0 "Terrapin Mk. I"
  SCO_amphibious_mechanized_equipment_2:0 "Terrapin Mk. II"
  SCO_amphibious_mechanized_equipment_2_short:0 "Terrapin Mk. II"
-
  WLS_motorized_rocket_equipment_1:0 "Tulip RP-3"
  WLS_motorized_rocket_equipment_1_short:0 "Tulip RP-3"
  WLS_motorized_equipment_1:0 "Morris Commercial CD-SW 6x4"
@@ -532,7 +488,6 @@ l_french:
  WLS_amphibious_mechanized_equipment_1_short:0 "Terrapin Mk. I"
  WLS_amphibious_mechanized_equipment_2:0 "Terrapin Mk. II"
  WLS_amphibious_mechanized_equipment_2_short:0 "Terrapin Mk. II"
-
  AST_motorized_rocket_equipment_1:0 "Tulip RP-3"
  AST_motorized_rocket_equipment_1_short:0 "Tulip RP-3"
  AST_motorized_equipment_1:0 "Morris Commercial CD-SW 6x4"
@@ -550,7 +505,6 @@ l_french:
  AST_amphibious_mechanized_equipment_1_short:0 "Terrapin Mk. I"
  AST_amphibious_mechanized_equipment_2:0 "Terrapin Mk. II"
  AST_amphibious_mechanized_equipment_2_short:0 "Terrapin Mk. II"
-
  NZL_motorized_rocket_equipment_1:0 "Tulip RP-3"
  NZL_motorized_rocket_equipment_1_short:0 "Tulip RP-3"
  NZL_motorized_equipment_1:0 "Morris Commercial CD-SW 6x4"
@@ -568,7 +522,6 @@ l_french:
  NZL_amphibious_mechanized_equipment_1_short:0 "Terrapin Mk. I"
  NZL_amphibious_mechanized_equipment_2:0 "Terrapin Mk. II"
  NZL_amphibious_mechanized_equipment_2_short:0 "Terrapin Mk. II"
-
  IND_motorized_rocket_equipment_1:0 "Tulip RP-3"
  IND_motorized_rocket_equipment_1_short:0 "Tulip RP-3"
  IND_motorized_equipment_1:0 "Morris Commercial CD-SW 6x4"
@@ -586,7 +539,6 @@ l_french:
  IND_amphibious_mechanized_equipment_1_short:0 "Terrapin Mk. I"
  IND_amphibious_mechanized_equipment_2:0 "Terrapin Mk. II"
  IND_amphibious_mechanized_equipment_2_short:0 "Terrapin Mk. II"
-
  RAJ_motorized_rocket_equipment_1:0 "Tulip RP-3"
  RAJ_motorized_rocket_equipment_1_short:0 "Tulip RP-3"
  RAJ_motorized_equipment_1:0 "Morris Commercial CD-SW 6x4"
@@ -606,7 +558,6 @@ l_french:
  RAJ_amphibious_mechanized_equipment_2_short:0 "Terrapin Mk. II"
  RAJ_train_equipment_1:0 "IR Class XE"
  RAJ_train_equipment_1_short:0 "IR Class XE"
-
  SAF_motorized_rocket_equipment_1:0 "Tulip RP-3"
  SAF_motorized_rocket_equipment_1_short:0 "Tulip RP-3"
  SAF_motorized_equipment_1:0 "Morris Commercial CD-SW 6x4"
@@ -624,8 +575,6 @@ l_french:
  SAF_amphibious_mechanized_equipment_1_short:0 "Terrapin Mk. I"
  SAF_amphibious_mechanized_equipment_2:0 "Terrapin Mk. II"
  SAF_amphibious_mechanized_equipment_2_short:0 "Terrapin Mk. II"
-
- EST_motorized_rocket_equipment_1:0 "150mm Rakett M42"
  EST_motorized_rocket_equipment_1:0 "150mm Rakett M42"
  EST_motorized_equipment_1:0 "EW Opel Blitz veoauto"
  EST_mechanized_equipment_1:0 "Bruņotā Transportlīdzeklī M39"
@@ -639,9 +588,7 @@ l_french:
  EST_mechanized_equipment_x_2:0 "Bruņotā Transportlīdzeklī M53"
  EST_mechanized_equipment_x_2_short:0 "BT M53"
  EST_train_equipment_1:0 "EVR 0-6-0T"
- EST_train_equipment_1_short:0 "EVR 0-6-0T" #made up
-
-
+ EST_train_equipment_1_short:0 "EVR 0-6-0T"
  FIN_motorized_rocket_equipment_1:0 "150 Rkh/43"
  FIN_motorized_rocket_equipment_1_short:0 "150 Rkh/43"
  FIN_motorized_equipment_1:0 "Scania-Vabis"
@@ -657,8 +604,6 @@ l_french:
  FIN_mechanized_equipment_x_2_short:0 "P/53"
  FIN_train_equipment_1:0 "VR Class Hr1"
  FIN_train_equipment_1_short:0 "VR Class Hr1"
-
-
  FRA_motorized_rocket_equipment_1:0 "Fusée de 110 modèle 1942"
  FRA_motorized_rocket_equipment_1_short:0 "110 42"
  FRA_motorized_equipment_1:0 "Laffly S20"
@@ -672,11 +617,10 @@ l_french:
  FRA_mechanized_equipment_x_short:0 "TT 12 CH 56"
  FRA_mechanized_equipment_x_2:0 "Transport de Troupe Chenillé modèle M75"
  FRA_mechanized_equipment_x_2_short:0 "TT M75"
- FRA_r56_gw_railway_gun_equipment:0 "Canon de modele 520 1916" #PDX naming scheme for french guns is bad but running with it
+ FRA_r56_gw_railway_gun_equipment:0 "Canon de modele 520 1916"
  FRA_r56_gw_railway_gun_equipment_short:0 "Canon de 520"
  FRA_r56_railway_mortar_equipment:0 "Canon de modele 200 'Pérou'"
  FRA_r56_railway_mortar_equipment_short:0 "Canon modele 200"
-
  BRI_motorized_rocket_equipment_1:0 "Fusée de 110 modèle 1942"
  BRI_motorized_rocket_equipment_1_short:0 "110 42"
  BRI_motorized_equipment_1:0 "Laffly S20"
@@ -690,7 +634,6 @@ l_french:
  BRI_mechanized_equipment_x_short:0 "TT 12 CH 56"
  BRI_mechanized_equipment_x_2:0 "Transport de Troupe Chenillé modèle M75"
  BRI_mechanized_equipment_x_2_short:0 "TT M75"
-
  EFR_motorized_rocket_equipment_1:0 "Fusée de 110 modèle 1942"
  EFR_motorized_rocket_equipment_1_short:0 "110 42"
  EFR_motorized_equipment_1:0 "Laffly S20"
@@ -704,7 +647,6 @@ l_french:
  EFR_mechanized_equipment_x_short:0 "TT 12 CH 56"
  EFR_mechanized_equipment_x_2:0 "Transport de Troupe Chenillé modèle M75"
  EFR_mechanized_equipment_x_2_short:0 "TT M75"
-
  FRI_motorized_rocket_equipment_1:0 "Fusée de 110 modèle 1942"
  FRI_motorized_rocket_equipment_1_short:0 "110 42"
  FRI_motorized_equipment_1:0 "Laffly S20"
@@ -718,10 +660,8 @@ l_french:
  FRI_mechanized_equipment_x_short:0 "TT 12 CH 56"
  FRI_mechanized_equipment_x_2:0 "Transport de Troupe Chenillé modèle M75"
  FRI_mechanized_equipment_x_2_short:0 "TT M75"
-
  LUX_train_equipment_1:0 "PH Type 10"
  LUX_train_equipment_1_short:0 "PH Type 10"
-
  GER_motorized_rocket_equipment_1:0 "15cm Panzerwerfer 42 auf Selbstfahrlafette Sd.Kfz.4/1"
  GER_motorized_rocket_equipment_1_short:0 "Panzerwerfer 42"
  GER_motorized_equipment_1:0 "Opel Blitz"
@@ -745,10 +685,8 @@ l_french:
  GER_r56_railway_mortar_equipment_short:0 "Nathan"
  GER_train_equipment_4:0 "DRB 42 Class"
  GER_train_equipment_4_short:0 "DRB 42 Class"
- GER_train_equipment_5:0 "DRB 10000 Class" #made up
+ GER_train_equipment_5:0 "DRB 10000 Class"
  GER_train_equipment_5_short:0 "DRB 10000 Class"
-
-
  WGR_motorized_rocket_equipment_1:0 "15cm Panzerwerfer 42 auf Selbstfahrlafette Sd.Kfz.4/1"
  WGR_motorized_rocket_equipment_1_short:0 "Panzerwerfer 42"
  WGR_motorized_equipment_1:0 "Opel Blitz"
@@ -766,7 +704,6 @@ l_french:
  WGR_amphibious_mechanized_equipment_1_short:0 "LWS"
  WGR_amphibious_mechanized_equipment_2:0 "Land-Wasser-Schlepper II"
  WGR_amphibious_mechanized_equipment_2_short:0 "LWS II"
-
  DDR_motorized_rocket_equipment_1:0 "BM-24-12 Katyushka"
  DDR_motorized_rocket_equipment_1_short:0 "BM-24-12"
  DDR_motorized_equipment_1:0 "Zavod imeni Stalina 5"
@@ -781,7 +718,6 @@ l_french:
  DDR_mechanized_equipment_x_short:0 "BTR-50"
  DDR_mechanized_equipment_x_2:0 "Bronetransportyor BTR-50P"
  DDR_mechanized_equipment_x_2_short:0 "BTR-50P"
-
  GRE_motorized_rocket_equipment_1:0 "127mm Roukéta M43"
  GRE_motorized_rocket_equipment_1_short:0 "127mm Roukéta M43"
  GRE_motorized_equipment_1:0 "Mercedes-Benz LG 2500"
@@ -797,7 +733,6 @@ l_french:
  GRE_mechanized_equipment_x_2_short:0 "TM M53"
  GRE_train_equipment_1:0 "SEK Class Ky"
  GRE_train_equipment_1_short:0 "SEK Class Ky"
-
  HOL_motorized_rocket_equipment_1:0 "12,7cm Raket M.43"
  HOL_motorized_rocket_equipment_1_short:0 "12,7cm Raket M.43"
  HOL_motorized_equipment_1:0 "Chevrolet 1 1/2 ton M.37"
@@ -816,9 +751,8 @@ l_french:
  HOL_amphibious_mechanized_equipment_1_short:1 "DAF MC-139"
  HOL_amphibious_mechanized_equipment_2:0 "DAF YE500 Porter"
  HOL_amphibious_mechanized_equipment_2_short:0 "DAF Porter"
- HOL_train_equipment_1:0 "NS 3700 Class" #best fit
+ HOL_train_equipment_1:0 "NS 3700 Class"
  HOL_train_equipment_1_short:0 "NS 3700 Class"
-
  INS_motorized_rocket_equipment_1:0 "12,7cm Raket M.43"
  INS_motorized_rocket_equipment_1_short:0 "12,7cm Raket M.43"
  INS_motorized_equipment_1:0 "DAF Trado II"
@@ -836,9 +770,8 @@ l_french:
  INS_amphibious_mechanized_equipment_1_short:1 "DAF MC-139"
  INS_amphibious_mechanized_equipment_2:0 "DAF YE500 Porter"
  INS_amphibious_mechanized_equipment_2_short:0 "DAF Porter"
- INS_train_equipment_1:0 "Class D50" #better fit exists. Was lazy on this ones
+ INS_train_equipment_1:0 "Class D50"
  INS_train_equipment_1_short:0 "Class D50"
-
  HUN_motorized_rocket_equipment_1:0 "Páncélozott Rakéta Nimród"
  HUN_motorized_rocket_equipment_1_short:0 "Páncélozott Rakéta"
  HUN_motorized_equipment_1:0 "38M Rába Botond"
@@ -856,7 +789,6 @@ l_french:
  HUN_train_equipment_1_short:0 "MÁV Class 424"
  HUN_train_equipment_2:0 "MÁV Class 424F"
  HUN_train_equipment_2_short:0 "MÁV Class 424F"
-
  IRE_motorized_rocket_equipment_1:0 "Tulip RP-3"
  IRE_motorized_rocket_equipment_1_short:0 "Tulip RP-3"
  IRE_motorized_equipment_1:0 "Ford V8"
@@ -864,7 +796,6 @@ l_french:
  IRE_mechanized_equipment_1_short:0 "Lancia"
  IRE_mechanized_equipment_2:0 "Truck, 15-cwt, Half-Track Personnel Carrier"
  IRE_mechanized_equipment_2_short:0 "15-cwt Half-Track"
-
  ITA_motorized_rocket_equipment_1:0 "Razzo da 150 modello 42"
  ITA_motorized_rocket_equipment_1_short:0 "Razzo da 150"
  ITA_motorized_equipment_1:0 "Fiat-SPA 38R"
@@ -878,8 +809,6 @@ l_french:
  ITA_mechanized_equipment_x_short:0 "AP E25"
  ITA_mechanized_equipment_x_2:0 "Autoprotetto Kurz 11-2"
  ITA_mechanized_equipment_x_2_short:0 "AP Kurz"
-
- JAP_motorized_rocket_equipment_1:0 "Type 5 Shi-Sei 150mm Tarenso"
  JAP_motorized_rocket_equipment_1:0 "Type 5 Tarenso"
  JAP_motorized_equipment_1:0 "Type 94"
  JAP_mechanized_equipment_1:0 "Type 98 Sōkōheishahoki So-Da"
@@ -902,8 +831,6 @@ l_french:
  JAP_amphibious_mechanized_equipment_2:0 "Type 4 Ka-Tsu"
  JAP_amphibious_mechanized_equipment_2_short:0 "Type 4 Ka-Tsu"
  JAP_amphibious_mechanized_equipment_2_desc:0 "Designed by Commander Hori Motoyoshi of the Kure Naval Yards, these vehicles were built from wartime experience in difficulties of resupplying Japanese forces in the far-flung Pacific Islands. Lightly-armored and fully hermetically sealed for launches from submarines, these vehicles saw little-to-no use in any meaningful combat."
-
- MAN_motorized_rocket_equipment_1:0 "Type 5 Shi-Sei 150mm Tarenso"
  MAN_motorized_rocket_equipment_1:0 "Type 5 Tarenso"
  MAN_motorized_equipment_1:0 "Type 94"
  MAN_mechanized_equipment_1:0 "Type 98 Sōkōheishahoki So-Da"
@@ -922,8 +849,6 @@ l_french:
  MAN_amphibious_mechanized_equipment_2_short:0 "Type 4 Ka-Tsu"
  MAN_train_equipment_1:0 "SMR Mikako class"
  MAN_train_equipment_1_short:0 "SMR Mikako class"
-
- KOR_motorized_rocket_equipment_1:0 "Type 5 Shi-Sei 150mm Tarenso"
  KOR_motorized_rocket_equipment_1:0 "Type 5 Tarenso"
  KOR_motorized_equipment_1:0 "Type 94"
  KOR_mechanized_equipment_1:0 "Type 98 Sōkōheishahoki So-Da"
@@ -940,7 +865,6 @@ l_french:
  KOR_amphibious_mechanized_equipment_1_short:0 "Toyota Su-Ki"
  KOR_amphibious_mechanized_equipment_2:0 "Type 4 Ka-Tsu"
  KOR_amphibious_mechanized_equipment_2_short:0 "Type 4 Ka-Tsu"
-
  SIA_motorized_rocket_equipment_1:0 "Type 5 Shi-Sei 150mm Tarenso"
  SIA_motorized_rocket_equipment_1_short:0 "Type 5 Shi-Sei 150mm Tarenso"
  SIA_motorized_equipment_1:0 "Type 94"
@@ -956,8 +880,6 @@ l_french:
  SIA_mechanized_equipment_x_2_short:0 "Type 4 Chi-So"
  SIA_train_equipment_1:0 "RSW G4-5"
  SIA_train_equipment_1_short:0 "RSW G4-5"
-
- LAT_motorized_rocket_equipment_1:0 "150mm Raķete M42"
  LAT_motorized_rocket_equipment_1:0 "150mm Raķete M42"
  LAT_motorized_equipment_1:0 "EW Opel Blitz smagā mašīna"
  LAT_mechanized_equipment_1:0 "Bruņotā Transportlīdzeklī M39"
@@ -971,9 +893,7 @@ l_french:
  LAT_mechanized_equipment_x_2:0 "Bruņotā Transportlīdzeklī M53"
  LAT_mechanized_equipment_x_2_short:0 "BT M53"
  LAT_train_equipment_1:0 "LRC 0-4-0T"
- LAT_train_equipment_1_short:0 "LRC 0-4-0T" #made up
-
- LIT_motorized_rocket_equipment_1:0 "150mm Raketa 42m."
+ LAT_train_equipment_1_short:0 "LRC 0-4-0T"
  LIT_motorized_rocket_equipment_1:0 "150mm Raketa 42m."
  LIT_motorized_equipment_1:0 "EW Opel Blitz sunkvežimis"
  LIT_mechanized_equipment_1:0 "Bruņotā Transportlīdzeklī 39m."
@@ -987,8 +907,7 @@ l_french:
  LIT_mechanized_equipment_x_2:0 "Bruņotā Transportlīdzeklī 53m."
  LIT_mechanized_equipment_x_2_short:0 "BT 53m."
  LIT_train_equipment_1:0 "LRA 0-8-2F"
- LIT_train_equipment_1_short:0 "LRA 0-8-2F" #made up
-
+ LIT_train_equipment_1_short:0 "LRA 0-8-2F"
  MEX_motorized_rocket_equipment_1:0 "Lanzacohetes 127mm M1943"
  MEX_motorized_rocket_equipment_1_short:0 "127mm M1943"
  MEX_motorized_equipment_1:0 "Dodge modelo 1935 3 toneladas"
@@ -1005,7 +924,6 @@ l_french:
  MEX_mechanized_equipment_x_2_short:0 "TBP M1953"
  MEX_train_equipment_1:0 "Nacional de Mexico G-30"
  MEX_train_equipment_1_short:0 "Nacional de Mexico G-30"
-
  NOR_motorized_rocket_equipment_1:0 "12,7cm Rakett m/43"
  NOR_motorized_rocket_equipment_1_short:0 "12,7cm Rakett m/43"
  NOR_motorized_equipment_1:0 "Langrenn Scania-Vabis 335"
@@ -1022,7 +940,6 @@ l_french:
  NOR_mechanized_equipment_x_2_short:0 "Ppk m/53"
  NOR_train_equipment_1:0 "NSB class 30"
  NOR_train_equipment_1_short:0 "NSB class 30"
-
  PER_motorized_rocket_equipment_1:0 "M42 15cm"
  PER_motorized_rocket_equipment_1_short:0 "M42 15cm"
  PER_motorized_equipment_1:0 "Praga RV"
@@ -1036,7 +953,6 @@ l_french:
  PER_mechanized_equipment_x_short:0 "M49 APC"
  PER_mechanized_equipment_x_2:0 "M53 Armored Personnel Carrier"
  PER_mechanized_equipment_x_2_short:0 "M53 APC"
-
  POL_motorized_rocket_equipment_1:0 "Rakieta 150mm wz.42"
  POL_motorized_rocket_equipment_1_short:0 "Rakieta 150mm wz.42"
  POL_motorized_equipment_1:0 "Polski-Fiat 621"
@@ -1052,7 +968,6 @@ l_french:
  POL_mechanized_equipment_x_2_short:0 "SP wz.53"
  POL_train_equipment_1:0 "PKP Class Ok22"
  POL_train_equipment_1_short:0 "PKP Class Ok22"
-
  POR_motorized_rocket_equipment_1:0 "Foguete de 12,7cm m/943"
  POR_motorized_rocket_equipment_1_short:0 "12,7cm m/943"
  POR_motorized_equipment_1:0 "Dodge 3/4 toneladas 4x4"
@@ -1066,9 +981,8 @@ l_french:
  POR_mechanized_equipment_x_short:0 "VBL m/949"
  POR_mechanized_equipment_x_2:0 "Viatura Blindada de Lagartas m/953"
  POR_mechanized_equipment_x_2_short:0 "VBL m/953"
- POR_train_equipment_1:0 "BA 103" #better fit exists
+ POR_train_equipment_1:0 "BA 103"
  POR_train_equipment_1_short:0 "BA 103"
-
  ROM_motorized_rocket_equipment_1:0 "Rachetă Blindate cal. 150mm Md.1942"
  ROM_motorized_rocket_equipment_1_short:0 "RB 150mm Md.1943"
  ROM_motorized_equipment_1:0 "Steyr 640"
@@ -1082,9 +996,8 @@ l_french:
  ROM_mechanized_equipment_x_short:0 "TP Md.1949"
  ROM_mechanized_equipment_x_2:0 "Transportoare Blindate Md.1953"
  ROM_mechanized_equipment_x_2_short:0 "TP Md.1953"
- ROM_train_equipment_1:0 "CFR 230 Series" #better fit might exist
+ ROM_train_equipment_1:0 "CFR 230 Series"
  ROM_train_equipment_1_short:0 "CFR 230 Series"
-
  SOV_motorized_rocket_equipment_1:0 "BM-24-12 Katyushka"
  SOV_motorized_rocket_equipment_1_short:0 "BM-24-12"
  SOV_motorized_equipment_1:0 "Zavod imeni Stalina 5"
@@ -1099,7 +1012,6 @@ l_french:
  SOV_mechanized_equipment_x_short:0 "BTR-50"
  SOV_mechanized_equipment_x_2:0 "Bronetransportyor BTR-50P"
  SOV_mechanized_equipment_x_2_short:0 "BTR-50P"
-
  MON_motorized_rocket_equipment_1:0 "BM-24-12 Katyushka"
  MON_motorized_rocket_equipment_1_short:0 "BM-24-12"
  MON_motorized_equipment_1:0 "Zavod imeni Stalina 5"
@@ -1114,10 +1026,8 @@ l_french:
  MON_mechanized_equipment_x_short:0 "BTR-50"
  MON_mechanized_equipment_x_2:0 "Bronetransportyor BTR-50P"
  MON_mechanized_equipment_x_2_short:0 "BTR-50P"
-
- MAL_train_equipment_1:0 "SSR 2-8-0 Vulcan" #better fit exists
+ MAL_train_equipment_1:0 "SSR 2-8-0 Vulcan"
  MAL_train_equipment_1_short:0 "SSR 2-8-0 Vulcan"
-
  PRC_motorized_rocket_equipment_1:0 "BM-24-12 Katyushka"
  PRC_motorized_rocket_equipment_1_short:0 "BM-24-12"
  PRC_motorized_equipment_1:0 "Zavod imeni Stalina 5"
@@ -1132,7 +1042,6 @@ l_french:
  PRC_mechanized_equipment_x_short:0 "BTR-50"
  PRC_mechanized_equipment_x_2:0 "Bronetransportyor BTR-50P"
  PRC_mechanized_equipment_x_2_short:0 "BTR-50P"
-
  SIK_motorized_rocket_equipment_1:0 "BM-24-12 Katyushka"
  SIK_motorized_rocket_equipment_1_short:0 "BM-24-12"
  SIK_motorized_equipment_1:0 "Zavod imeni Stalina 5"
@@ -1147,7 +1056,6 @@ l_french:
  SIK_mechanized_equipment_x_short:0 "BTR-50"
  SIK_mechanized_equipment_x_2:0 "Bronetransportyor BTR-50P"
  SIK_mechanized_equipment_x_2_short:0 "BTR-50P"
-
  TAN_motorized_rocket_equipment_1:0 "BM-24-12 Katyushka"
  TAN_motorized_rocket_equipment_1_short:0 "BM-24-12"
  TAN_motorized_equipment_1:0 "Zavod imeni Stalina 5"
@@ -1162,7 +1070,6 @@ l_french:
  TAN_mechanized_equipment_x_short:0 "BTR-50"
  TAN_mechanized_equipment_x_2:0 "Bronetransportyor BTR-50P"
  TAN_mechanized_equipment_x_2_short:0 "BTR-50P"
-
  VIN_motorized_rocket_equipment_1:0 "BM-24-12 Katyushka"
  VIN_motorized_rocket_equipment_1_short:0 "BM-24-12"
  VIN_motorized_equipment_1:0 "Zavod imeni Stalina 5"
@@ -1177,7 +1084,6 @@ l_french:
  VIN_mechanized_equipment_x_short:0 "BTR-50"
  VIN_mechanized_equipment_x_2:0 "Bronetransportyor BTR-50P"
  VIN_mechanized_equipment_x_2_short:0 "BTR-50P"
-
  SPR_motorized_rocket_equipment_1:0 "Lanzacohetes 82mm modelo 1942"
  SPR_motorized_rocket_equipment_1_short:0 "82mm M1942"
  SPR_motorized_equipment_1:0 "Chevrolet SB modelo 1936"
@@ -1192,9 +1098,8 @@ l_french:
  SPR_mechanized_equipment_x_short:0 "TBP M1949"
  SPR_mechanized_equipment_x_2:0 "Transporte Blindado de Personal modelo 1953"
  SPR_mechanized_equipment_x_2_short:0 "TBP M1953"
- SPR_train_equipment_1:0 "LDV G 4/5" #better fit exists
+ SPR_train_equipment_1:0 "LDV G 4/5"
  SPR_train_equipment_1_short:0 "LDV G 4/5"
-
  SWE_motorized_rocket_equipment_1:0 "15cm Raket m/42"
  SWE_motorized_rocket_equipment_1_short:0 "15cm Raket m/42"
  SWE_motorized_equipment_1:0 "Terrängbil m/36 Scania-Vabis 335"
@@ -1211,8 +1116,6 @@ l_french:
  SWE_mechanized_equipment_x_2_short:0 "Pbv m/53"
  SWE_train_equipment_1:0 "SJ B Class"
  SWE_train_equipment_1_short:0 "SJ B Class"
-
-
  SWI_motorized_rocket_equipment_1:0 "15cm Rakete 42"
  SWI_motorized_rocket_equipment_1_short:0 "15cm Rakete 42"
  SWI_motorized_equipment_1:0 "Praga RV"
@@ -1226,7 +1129,6 @@ l_french:
  SWI_mechanized_equipment_x_short:0 "Sch.Pz. 49"
  SWI_mechanized_equipment_x_2:0 "Schützenpanzer 53"
  SWI_mechanized_equipment_x_2_short:0 "Sch.Pz. 53"
-
  TUR_motorized_rocket_equipment_1:0 "M42 15cm"
  TUR_motorized_rocket_equipment_1_short:0 "M42 15cm"
  TUR_motorized_equipment_1:0 "Praga RV"
@@ -1248,8 +1150,6 @@ l_french:
  TUR_train_equipment_4_short:0 "TCDD 46201 Class"
  TUR_train_equipment_5:0 "TCDD DE20000 Class"
  TUR_train_equipment_5_short:0 "TCDD DE20000 Class"
-
-
  USA_motorized_rocket_equipment_1:0 "T27 4.5-inch Xylophone rocket projector"
  USA_motorized_rocket_equipment_1_short:0 "T27 Xylophone"
  USA_motorized_equipment_1:0 "GMC CCKW"
@@ -1276,7 +1176,7 @@ l_french:
  USA_amphibious_mechanized_equipment_2_short:0 "LVT-4"
  USA_r56_gw_railway_gun_equipment:0 "Navy Railway Mount 14-inch Mk. IV"
  USA_r56_gw_railway_gun_equipment_short:0 "14-inch Mk. IV"
- USA_r56_railway_mortar_equipment:0 "M1918 weapons" #The reference we're using also called M1888
+ USA_r56_railway_mortar_equipment:0 "M1918 weapons"
  USA_r56_railway_mortar_equipment_short:0 "M1918"
  USA_train_equipment_side_tanks:0 "USATC S100 Class"
  USA_train_equipment_side_tanks_short:0 "USATC S100 Class"
@@ -1284,7 +1184,6 @@ l_french:
  USA_train_equipment_4_short:0 "USATC S200 Class"
  USA_train_equipment_5:0 "USATC GP7"
  USA_train_equipment_5_short:0 "USATC GP7"
-
  PHI_motorized_rocket_equipment_1:0 "T27 4.5-inch Xylophone rocket projector"
  PHI_motorized_rocket_equipment_1_short:0 "T27 Xylophone"
  PHI_motorized_equipment_1:0 "GMC CCKW"
@@ -1302,7 +1201,6 @@ l_french:
  PHI_amphibious_mechanized_equipment_1_short:0 "LVT-2"
  PHI_amphibious_mechanized_equipment_2:0 "LVT-4 Buffalo"
  PHI_amphibious_mechanized_equipment_2_short:0 "LVT-4"
-
  YUG_motorized_rocket_equipment_1:0 "150mm Raketa M.42"
  YUG_motorized_rocket_equipment_1_short:0 "150mm Raketa M.42"
  YUG_motorized_equipment_1:0 "Praga RV"
@@ -1318,9 +1216,8 @@ l_french:
  YUG_mechanized_equipment_x_2_short:0 "BVP M.53"
  YUG_train_equipment_1:0 "JŽ class 11"
  YUG_train_equipment_1_short:0 "JŽ class 11"
- YUG_train_equipment_2:0 "JŽ class 11F" #made up
+ YUG_train_equipment_2:0 "JŽ class 11F"
  YUG_train_equipment_2_short:0 "JŽ class 11F"
-
  BOS_motorized_rocket_equipment_1:0 "150mm Raketa M.42"
  BOS_motorized_rocket_equipment_1_short:0 "150mm Raketa M.42"
  BOS_motorized_equipment_1:0 "Praga RV"
@@ -1330,11 +1227,9 @@ l_french:
  BOS_mechanized_equipment_2_short:0 "OT M.42"
  BOS_mechanized_equipment_3:0 "Oklopni Transporter M.44"
  BOS_mechanized_equipment_3_short:0 "OT M.44"
- BOS_mechanized_equipment_x:0 "Oklopni Transporter M.49"
  BOS_mechanized_equipment_x_short:0 "OT M.49"
  BOS_mechanized_equipment_x:0 "Oklopni Transporter M.53"
  BOS_mechanized_equipment_x_2_short:0 "OT M.53"
-
  CRO_motorized_rocket_equipment_1:0 "150mm Raketa M.42"
  CRO_motorized_rocket_equipment_1_short:0 "150mm Raketa M.42"
  CRO_motorized_equipment_1:0 "Praga RV"
@@ -1344,11 +1239,9 @@ l_french:
  CRO_mechanized_equipment_2_short:0 "OT M.42"
  CRO_mechanized_equipment_3:0 "Oklopni Transporter M.44"
  CRO_mechanized_equipment_3_short:0 "OT M.44"
- CRO_mechanized_equipment_x:0 "Oklopni Transporter M.49"
  CRO_mechanized_equipment_x_short:0 "OT M.49"
  CRO_mechanized_equipment_x:0 "Oklopni Transporter M.53"
  CRO_mechanized_equipment_x_2_short:0 "OT M.53"
-
  SER_motorized_rocket_equipment_1:0 "150mm Raketa M.42"
  SER_motorized_rocket_equipment_1_short:0 "150mm Raketa M.42"
  SER_motorized_equipment_1:0 "Praga RV"
@@ -1362,7 +1255,6 @@ l_french:
  SER_mechanized_equipment_x_short:0 "OT M.49"
  SER_mechanized_equipment_x_2:0 "Oklopni Transporter M.53"
  SER_mechanized_equipment_x_2_short:0 "OT M.53"
-
  SLV_motorized_rocket_equipment_1:0 "150mm Raketa M.42"
  SLV_motorized_rocket_equipment_1_short:0 "150mm Raketa M.42"
  SLV_motorized_equipment_1:0 "Praga RV"
@@ -1372,7 +1264,6 @@ l_french:
  SLV_mechanized_equipment_2_short:0 "OT M.42"
  SLV_mechanized_equipment_3:0 "Oklopni Transporter M.44"
  SLV_mechanized_equipment_3_short:0 "OT M.44"
- SLV_mechanized_equipment_x:0 "Oklopni Transporter M.49"
  SLV_mechanized_equipment_x_short:0 "OT M.49"
  SLV_mechanized_equipment_x:0 "Oklopni Transporter M.53"
  SLV_mechanized_equipment_x_2_short:0 "OT M.53"

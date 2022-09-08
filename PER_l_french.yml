@@ -1,26 +1,15 @@
 ﻿l_french:
  PER_paniranism:0 "Paniranisme"
- ### New stuff by BlueFoxy
-
  PER_anglo_iranian_oil_company:0 "Anglo-Iranian Oil Company"
  PER_anglo_iranian_oil_company_desc:1 "Après la découverte de pétrole à Masjed Soleiman, l'Anglo-Persian Oil Company a été créée. Cette compagnie a obtenu le monopole sur notre pétrole, et a sérieusement entravé notre économie. Nous avons maintenant un choix à faire, soit nous nous soumettons à la suprématie des Britanniques, soit nous mourons en la combattant."
-
  PER_continue_modernisation_of_the_army:0 "Poursuivre la modernisation de l'armée"
  PER_continue_modernisation_of_the_army_desc:0 ""
-
-
- ##### ARMY #####
-
  PER_adopt_western_style_military_bureaucracy:0 "Adopter la bureaucratie militaire occidentale"
  PER_adopt_western_style_military_bureaucracy_desc:0 "L'ancienne dynastie Qajar a négligé la formation de l'armée iranienne permanente jusqu'à sa chute en 1925. Bien que nous ayons rapidement obtenu des fonds supplémentaires pour les forces armées iraniennes, celles-ci sont toujours en mauvais état, avec de jeunes officiers incompétents et un commandement désorganisé. L'adoption de la structure de commandement et de la hiérarchie des armées étrangères permettra d'améliorer les performances des armées permanentes."
-
- ### DOCTRINES ###
-
  PER_continue_sending_cadets_abroad:0 "Continuer à envoyer des cadets à l'étranger"
  PER_continue_sending_cadets_abroad_desc:0 "L'équipement général moderne est centré sur des officiers et des commandants compétents, qui peuvent être éduqués et formés à l'étranger, ce qui permet au gouvernement d'acquérir la connaissance des nouvelles tactiques et technologies militaires."
  PER_invite_foreign_officers:0 "Inviter des officiers étrangers"
  PER_invite_foreign_officers_desc:0 "Nos soldats ne peuvent pas attendre des années que des officiers iraniens fiables soient formés à l'étranger. Si nous voulons avoir une armée permanente le plus rapidement possible, des spécialistes étrangers qualifiés doivent guider et observer la formation de nos forces terrestres dès maintenant !"
-
  PER_continue_using_western_doctrines:0 "Continuer à utiliser la doctrine occidentale"
  PER_continue_using_western_doctrines_desc:0 "L'influence britannique et française est présente dans chaque branche de nos politiques intérieures et extérieures : l'industrie, l'extraction des ressources, la coopération économique, les exportations, les importations et maintenant aussi dans une armée : une défense bien planifiée et un enracinement adéquat profiteront non seulement à nos forces armées, mais aussi à notre régime."
  PER_adopt_german_doctrines:0 "Adopter les doctrines allemandes"
@@ -35,9 +24,6 @@
  PER_revise_universal_drafting_law_desc:0 "De nombreux intellectuels et travailleurs qualifiés seraient beaucoup plus utiles s'ils rejoignaient l'armée en tant que spécialistes ou en tant que fonctionnaires. La loi sur la conscription qui stipule que « seul 1 homme sur 10 doit servir » semble diminuer considérablement les performances de notre armée."
  PER_maintain_universal_drafting:0 "Maintenir le dessin universel"
  PER_maintain_universal_drafting_desc:0 "La loi sur la conscription universelle de 1925 stipule que « toute personne de sexe masculin, quelle que soit sa région ou sa tribu, ayant atteint l'âge de 21 ans, doit servir dans l'armée pendant deux ans ». Cette loi peut toutefois être légèrement modifiée pour augmenter considérablement le nombre de conscrits dans l'armée."
-
- ### EQUIPMENT ###
-
  PER_rifles_modernisation:0 "Modernisation des armes"
  PER_rifles_modernisation_desc:0 "Nos troupes s'appuient sur des équipements d'infanterie obsolètes, dont certains datent de la Grande Guerre ou même du siècle dernier. Si les troupes iraniennes doivent se battre pour le pays, elles auront besoin des meilleures armes que nous pouvons leur fournir."
  PER_terrain_specialization:0 "Spécialisation du terrain"
@@ -54,9 +40,6 @@
  PER_counter_enemy_armor_desc:0 "Nos ennemis pourraient utiliser des chars pour pénétrer nos défenses dans les provinces de plaine à l'ouest et au nord. Le tout nouveau canon anti-char réduira à néant ces efforts."
  PER_counter_enemy_bombers:0 "Contrer les bombardiers ennemis"
  PER_counter_enemy_bombers_desc:0 "Si les ennemis n'ont pas de chars, ils peuvent infliger des dégâts à nos troupes en utilisant une puissance aérienne telle que des bombardiers en piqué, tactiques ou même stratégiques. Les bataillons de première ligne équipés de canons anti-aériens mettront fin à cette menace."
-
- ### AIR ###
-
  PER_local_fighters_development:0 "Développement des chasseurs locaux"
  PER_local_fighters_development_desc:0 "Nos relations internationales actuelles peuvent nous permettre d'acheter des chasseurs et leurs conceptions aux grandes puissances, mais en cas de conflit armé près de nos frontières, nous serons limités aux seuls fabricants locaux. La consolidation du contrôle gouvernemental et l'extension du soutien à notre propre branche d'aviation légère profiteront grandement à la nation."
  PER_separate_the_air_force:0 "Séparer l'Armée de l'air"
@@ -73,9 +56,6 @@
  PER_ghale_morghi_air_bases_desc:0 "L'extension de la base aérienne de Ghale Morghi, en dehors de Téhéran, fournira une tête de pont supplémentaire pour la formation et les opérations du commandement de la zone orientale de l'IIAF."
  PER_anti_aircraft_defense:0 "Défense anti-aérienne"
  PER_anti_aircraft_defense_desc:0 "Nous ne pouvons pas permettre que nos escadrons aériens soient éliminés avant qu'ils puissent atteindre le ciel en cas d'attaque surprise de l'ennemi. Une extension des défenses anti-aériennes au sol et une fortification des aérodromes doivent être réalisées avant que la guerre n'atteigne nos frontières et notre espace aérien !"
-
- ### NAVY ###
-
  PER_separate_the_navy:0 "Séparer la marine"
  PER_separate_the_navy_desc:0 "Chaque branche de nos forces armées doit avoir un commandement individuel de haut niveau qui peut être clairement observé depuis les positions gouvernementales. La concentration du pouvoir dans une seule main pourrait avoir des conséquences catastrophiques pour notre pays."
  PER_maintain_navy_land_links:0 "Maintenir les liens entre la marine et la terre"
@@ -92,10 +72,6 @@
  PER_submarines_experimentations_desc:0 "Dominer le Golfe n'est pas suffisant et si nous voulons étendre notre influence encore plus loin en haute mer, nous avons besoin d'un outil rentable, agile et puissant pour le faire. Les sous-marins répondent à tous les paramètres requis et nous allons investir dans leur développement."
  PER_carrier_development:0 "Développement des porte-avions"
  PER_carrier_development_desc:0 "Les porte-avions semblent jouer un rôle important dans toutes sortes d'opérations maritimes menées par les grandes puissances. Nous devrions essayer d'obtenir des fonds pour développer et améliorer ces aérodromes flottants."
-
- ### POLITICS ###
-
- ###Shah/authoritarian##
  PER_maintain_the_armys_privileges:0 "Main"
  PER_continue_governmental_purges:0 "Poursuivre les purges gouvernementales"
  PER_continue_government_purges:0 "Poursuivre les purges gouvernementales"
@@ -114,15 +90,12 @@
  PER_trial_of_the_fifty_three_desc:0 "De nombreux partisans de la révolution communiste et du parti Tudeh d'Iran se sont servis de leur éducation, de leur position respectueuse dans la société et de leurs liens avec l'étranger pour influencer l'état d'esprit de notre peuple et l'éloigner de nous. 53 partisans ont été arrêtés et font maintenant face à la justice légitime dans l'un des procès politiques les plus sensationnels de l'histoire iranienne."
  PER_secular_nationalism:0 "Nationalisme séculaire"
  PER_secular_nationalism_desc:0 "La croyance religieuse pourrait encore être présente dans l'esprit et le cœur de nos soldats et officiers. Nous devrions rappeler à nos troupes que les vraies valeurs ne résident pas dans la foi, mais dans le pays, ses dirigeants, ses politiques internes et externes. Ils se battent pour notre peuple et pour le peuple seulement."
-
  PER_encourage_german_trade:0 "Encourager le commerce allemand"
  PER_encourage_german_trade_desc:0 "Pendant de nombreuses années, nous avons renforcé les liens diplomatiques et économiques avec nos amis allemands, car ils étaient la seule puissance européenne à ne pas avoir d'ambitions impérialistes au Moyen-Orient. Les ingénieurs, constructeurs et bâtisseurs iraniens et allemands travaillent côte à côte pour améliorer notre pays et amener notre industrie sous-développée aux normes modernes."
  PER_pro_german_diplomacy:0 "Diplomatie pro-allemande"
  PER_pro_german_diplomacy_desc:0 "Les Russes et les Britanniques ont leurs propres plans pour notre pays dans leur nouveau Grand Jeu. Nous avons besoin du soutien étranger d'une autre grande puissance pour garantir notre indépendance et notre règne sur le golfe Persique et, potentiellement, le Moyen-Orient. Le besoin allemand de pétrole et le soutien de notre nation dans leur agenda politique constituent une base parfaite pour que notre alliance soit bénéfique pour nos deux nations."
  PER_steel_deals:0 "Marchés de l'acier"
  PER_steel_deals_desc:0 "Se distancer de la Grande-Bretagne et soutenir les intérêts allemands dans la région pourrait nuire à notre économie à court terme, mais les avantages à long terme en valent la peine. Le manque de pétrole allemand et l'abondance d'acier sont bien connus et nous conclurons un accord pour obtenir notre part de leur commerce en tant que partenaires égaux."
-
- ###Democratic##
  PER_restore_constitutionalism:0 "Rétablir le constitutionnalisme"
  PER_restore_constitutionalism_desc:0 "L'absolutisme n'a fait qu'engendrer une corruption généralisée dans toute l'administration et une profonde division de la société iranienne. Le pouvoir doit être rendu au peuple si l'Iran veut faire de réels progrès."
  PER_prime_minister_foroughi:0 "Premier ministre Foroughi"
@@ -139,7 +112,6 @@
  PER_align_with_britain_desc:0 "Nous partageons désormais la confiance et la foi dans les valeurs démocratiques des puissances occidentales. Si nous voulons préserver les institutions démocratiques nouvellement établies, nous avons besoin d'alliés solides. La Grande-Bretagne ou la France nous accepteront sûrement les mains ouvertes."
  PER_renegociate_oil_agreements:0 "Renégocier les accords pétroliers"
  PER_renegociate_oil_agreements_desc:0 "Nos soldats se battent épaule contre épaule, tandis que nos diplomates discutent de la politique extérieure à la même table. Les Britanniques ont obtenu notre soutien, mais le fardeau de l'Anglo-Persian Oil Company a lourdement porté atteinte au prestige et à l'image de notre gouvernement aux yeux du monde. Nous sommes créés égaux, nous devons donc permettre à notre peuple de bénéficier d'une part égale des bénéfices du pétrole. Les négociations sont en cours..."
-
  PER_rally_around_mosaddegh:0 "Ralliement autour de Mossadegh"
  PER_rally_around_mosaddegh_desc:0 "Avec la prise du pouvoir par Reza Shah Pahlavi en 1925, l'un des champions de la démocratie laïque iranienne, Mohammad Mosaddegh, s'est retiré de l'arène politique. La récente propagation des valeurs démocratiques et le progrès des institutions démocratiques rendent possible la formation d'un nouveau « Front national », une coalition de démocrates libéraux, de nationalistes et même de politiciens socialistes, dirigée par Mohammad Mosaddegh."
  PER_de_militarize_politics:0 "Démilitariser la politique"
@@ -148,18 +120,14 @@
  PER_nationalize_aioc_desc:0 "Le dernier discours tenu par Mohammad Mosaddegh a été accueilli par un silence de mort en Europe. « Avec les revenus pétroliers de l'APOC, nous pourrions boucler l'ensemble de notre budget et combattre la pauvreté, la maladie et l'arriération de la population. ... L'Iran a l'intention d'expulser les experts pétroliers étrangers du pays, puis de fermer les installations pétrolières. »"
  PER_land_reform_act:0 "Réforme agraire"
  PER_land_reform_act_desc:0 "Les fonds nouvellement acquis grâce à la réduction du budget de l'armée peuvent être utilisés pour redistribuer plus efficacement les richesses et les terres entre les personnes et les entreprises."
-
  PER_reform_the_administration:0 "Réformer l'administration"
  PER_reform_the_administration_desc:0 "L'ancien appareil bureaucratique du Shah est encore profondément enraciné dans notre système administratif. Nous devons consacrer tous nos efforts et toutes nos ressources pour éradiquer ses restes."
-
  PER_anti_imperialist_position:0 "Position anti-impérialiste"
  PER_anti_imperialist_position_desc:0 "Les principes démocratiques du gouvernement iranien actuel peuvent sembler similaires à l'Occident. Cependant, nous ne cachons aucune sorte d'ambitions impériales et coloniales derrière le masque de la « protection de la démocratie ». Nous devons nous ériger en bouclier contre toute forme d'oppression menée par les Occidentaux !"
  PER_the_sadabat_pact:0 "Le pacte de Sadabat"
  PER_the_sadabat_pact_desc:0 "De nombreuses nations du Moyen-Orient partagent notre conviction de l'autodétermination et de l'autonomie. Assurer nos liens par un traité de non-agression améliorera notre position diplomatique dans la région."
  PER_lead_the_way:0 "Montrer l'exemple"
  PER_lead_the_way_desc:0 "Si nous devons appliquer les règles démocratiques, qu'il en soit ainsi : nous jetterons les bases d'une confédération pan-arabe indépendante, où chaque nation opprimée ou humiliée pourra être défendue."
-
- ###Fascist###
  PER_appoint_zahedi:0 "Nommer Zahedi"
  PER_appoint_zahedi_desc:0 "Fazlollah Zahedi, chef de la police nationale, est une figure puissante dans l'armée et la politique. Il est également en contact avec plusieurs organisations radicales et nationalistes iraniennes. En le nommant Premier ministre, nous pourrions inviter ces mêmes organisations au sein du gouvernement, ouvrant ainsi la voie à une régénération de la société iranienne."
  PER_halt_religious_persecutions:0 "Mettre fin aux persécutions religieuses"
@@ -186,8 +154,6 @@
  PER_reclaim_iraq_desc:0 "Le partage inéquitable des bénéfices de l'Arvan Rud, la persécution des minorités chiites et la montée du nationalisme irakien ne nous laissent pas d'autre choix que de faire respecter la règle du droit sur leur pays."
  PER_our_central_asian_brothers:0 "Nos frères d'Asie centrale"
  PER_our_central_asian_brothers_desc:0 "L'Asie centrale ne pliera plus sous la botte russe, chinoise ou britannique. Peuple turc, levez-vous et combattez les oppresseurs, libérez-vous des chaînes du colonialisme !"
-
- ###Communist###
  PER_revive_the_jungle_movement:0 "Relancer le Mouvement de la jungle"
  PER_revive_the_jungle_movement_desc:0 "Le Mouvement de la jungle ou le mouvement de Gilan reste un événement majeur pour la cause communiste dans notre nation. Une cause où des personnes appartenant à des foyers, des régions différentes, se sont unies pour renverser la dynastie Qajar. Nous devons raviver ce sentiment d'unification sous la bannière rouge pour renverser notre monarchie actuelle et établir un Etat socialiste iranien."
  PER_acquire_soviet_support:0 "Acquérir le soutien soviétique"
@@ -216,8 +182,6 @@
  PER_control_the_strait_desc:0 "Le détroit du Bosphore est un point critique absolu à contrôler. La nation qui contrôle le Bosphore décide des routes commerciales pour la Roumanie, la Bulgarie et l'Union soviétique. S'emparer du détroit nous permettra d'obtenir un monopole sur les routes commerciales du Bosphore et, ce faisant, d'aider nos alliés au nord."
  PER_liberation_of_arabia:0 "Libération de l'Arabie"
  PER_liberation_of_arabia_desc:0 "Les monarchies arabes ont longtemps réprimé leur peuple, femmes, hommes, enfants et travailleurs. Il est maintenant temps de libérer les peuples vivant sous l'opression des monarchies d'Arabie Saoudite, d'Oman et d'Irak. Nos camarades d'armes en Occident ont besoin de nous, chargeons-nous de toutes nos forces de les libérer !"
-
- ###INDUSTRY###
  PER_finish_the_trans_iranian_railway:0 "Terminer le chemin de fer transiranien"
  PER_finish_the_trans_iranian_railway_desc:0 "L'introduction essentielle à tout développement de l'Iran est le développement du réseau de communication. Le chemin de fer transiranien est un projet lancé en 1927, uniquement avec l'aide de capitaux nationaux. Nous pourrons ainsi mieux relier Téhéran à nos différentes routes commerciales, notamment les ports du sud."
  PER_foreign_exchange_controls:0 "Contrôle des changes"
@@ -242,10 +206,6 @@
  PER_manufacture_planes_desc:0 "Notre armée de l'air est fortement dépendante de l'importation de modèles d'avions étrangers. Or, ces appareils peuvent être produits avec succès chez nous, ce qui permet de soutenir l'économie nationale et d'encourager les fabricants locaux."
  PER_increase_research_funds:0 "Augmenter le budget de recherche"
  PER_increase_research_funds_desc:0 "Les scientifiques et les intellectuels [PER.GetAdjMP] méritent bien plus qu'un reliquat du budget actuel. L'augmentation des dépenses d'éducation et de recherche améliorera considérablement notre développement technologique. "
-
  PER_taslihat_e_artesh:0 "Taslihat-e Artesh"
-
- #build in 1938 and managed by the British
  PER_generic_light_aircraft_manufacturer:0 "Doshan Tappeh Factory"
- #a bit weak, assembled aircrafts delivered from Britain in the early 30's
  PER_generic_medium_aircraft_manufacturer:0 "Busher Workshop"

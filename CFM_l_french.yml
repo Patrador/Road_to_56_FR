@@ -339,170 +339,132 @@
  cityfall.68.a:0 "Un développement majeur."
  cityfall.68.b:0 "Notre destin s'est réalisé ; l'ours russe tremble devant les puissants Finlandais !"
  cityfall.68.c:0 "Nous les avons vaincus en 1809, nous le ferons à nouveau !"
-
- #FIRST GENERIC CITY FALL EVENT
  cityfall.69.t:0 "La chute de Londres"
  cityfall.69.desc:0 "Autrefois le cœur de l'Empire britannique, la fière ville de Londres est aujourd'hui ravagée par le feu alors que les unités [new_controller.GetAdjFP] prennent le contrôle des ponts restants sur la Tamise. La ville était farouchement défendue par les troupes [old_controller.GetAdjFP] mais la manoeuvre de flanquement et la diversion causée par le feu ont déstabilisé leurs positions, rendant la situation intenable pour eux et ils ont dû se replier progressivement.\n\nLondres est maintenant fermement aux mains des [new_controller.GetHabitants] et leur drapeau peut être vu au-dessus de divers monuments de la ville."
  cityfall.69.a:0 "Le combat n'est pas terminé !"
  cityfall.69.b:0 "Une grande victoire !"
  cityfall.69.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.70.t:0 "La chute d'Ottawa"
  cityfall.70.desc:0 "Des changements se produisent dans le nouveau monde : la ville d'Ottawa, autrefois centre politique du Canada, a été envahie par l'avant-garde des soldats [new_controller.GetAdjMP]. Quelques heures plus tard, des renforts ont commencé à affluer et toute la ville a ensuite été occupée.\n\nLes troupes [old_controller.GetAdjFP] ont évacué, espérant rassembler leurs forces et planifier une contre-attaque."
  cityfall.70.a:0 "Le combat n'est pas terminé !"
  cityfall.70.b:0 "Une grande victoire !"
  cityfall.70.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.71.t:0 "La chute de Berlin"
  cityfall.71.desc:0 "Les sympathisants du [old_controller.GetRulingParty] restent sans voix alors que la nouvelle de la chute de Berlin se répand dans le monde entier. L'artillerie [new_controller.GetAdjFS] a organisé un barrage colossal tandis que d'autres unités encerclaient progressivement la ville. L'une après l'autre, Potsdam, Pankow, Marzahn, Mariendorf et d'autres banlieues ont commencé à tomber sous le contrôle [new_controller.GetAdjMS].\n\nAu fur et à mesure de l'avancée des troupes, la pression exercée sur le centre ville s'est accrue. Les forces [new_controller.GetAdjFP] ont avancé le long des principales avenues de la ville comme Unter der Linden et le Kurfürstendamm. Enfin, la résistance [old_controller.GetAdjFS] s'est brisée et les [new_controller.GetHabitants] ont pris le contrôle de la Chancellerie du Reich et de l'Opéra Kroll."
  cityfall.71.a:0 "Le combat n'est pas terminé !"
  cityfall.71.b:0 "Une grande victoire !"
  cityfall.71.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.72.t:0 "Les troupes [new_controller.GetAdjFP] entrent dans Rio !"
  cityfall.72.desc:0 "\nLe sable blanc de la célèbre plage de Copacabana a été teinté de rouge à la suite des violents combats qui ont eu lieu dans la ville de Rio de Janeiro. L'offensive [new_controller.GetAdjFS] n'était pas seulement axée sur la ville mais avait en fait pour objectif de capturer les deux entrées de la baie de Guanabara. Cela explique pourquoi les combats ont été particulièrement violents autour de Niterói.\n\nLes défenseurs [old_controller.GetAdjMP] ont progressivement reculé jusqu'à ce que tous les combats cessent et que la ville soit considérée comme entièrement contrôlée par les forces armées [new_controller.GetAdjFP]."
  cityfall.72.a:0 "Le combat n'est pas terminé !"
  cityfall.72.b:0 "Une grande victoire !"
  cityfall.72.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.73.t:0 "Les troupes [new_controller.GetAdjFP] entrent dans Buenos Aires !"
  cityfall.73.desc:0 "\nMalgré son nom, l'air de Buenos Aires est actuellement rempli d'une odeur de cendres, de sang, de bois calciné et de pétrole brûlé. La récente offensive [new_controller.GetAdjFS] a réussi à prendre la ville et à sécuriser l'embouchure du Rio de la Plata.\n\nLe commandant [old_controller.GetAdjMS] a juré de revenir un jour et de laver son honneur dans le sang de ses ennemis. Néanmoins, à l'heure actuelle, ce sont les soldats [new_controller.GetAdjMP] qui peuvent célébrer leur exploit et prendre un peu de repos bien mérité."
  cityfall.73.a:0 "Le combat n'est pas terminé !"
  cityfall.73.b:0 "Une grande victoire !"
  cityfall.73.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.74.t:0 "Les forces armées [new_controller.GetAdjFP] entrent dans Mexico !"
  cityfall.74.desc:0 "\n[old_controller.getNameDefCap] [old_controller.GetEstSontNP] maintenant au bord du gouffre : les troupes [new_controller.GetAdjFP] ont sécurisé la ville de Mexico. Comme les troupes [old_controller.GetAdjFP] n'ont pas pu tenir leur position face à l'augmentation de la pression des divisions [new_controller.GetAdjFP], elles se sont repliées afin d'occuper de nouvelles positions dans les montagnes.\n\n[old_controller.GetLeader] a affirmé que la guerre n'était pas terminée et que la lutte pour la libération du Mexique devait se poursuivre."
  cityfall.74.a:0 "Le combat n'est pas terminé !"
  cityfall.74.b:0 "Une grande victoire !"
  cityfall.74.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.75.t:0 "Les unités [new_controller.GetAdjFP] entrent dans Delhi"
  cityfall.75.desc:0 "\nLe joyau de l'Hindoustan, Delhi, est tombé dans l'avancée des forces [new_controller.GetAdjFP].\n\nImpuissants face aux avancées de l'ennemi, les soldats défenseurs de [old_controller.GetDuDelaDelNP] [old_controller.Getname] se sont repliés. Néanmoins, l'infrastructure de la ville présentait un contraste frappant avec la campagne environnante et de nombreux soldats blessés ont dû être laissés derrière et ont été emprisonnés par les divisions [new_controller.GetAdjFP]."
  cityfall.75.a:0 "Le combat n'est pas terminé !"
  cityfall.75.b:0 "Une grande victoire !"
  cityfall.75.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.76.t:0 "[new_controller.GetNameDefCap] s'empar[new_controller.GetEEntNP] du canal de Panama"
  cityfall.76.desc:0 "\n\nAu cours d'un raid audacieux, les forces [new_controller.GetAdjFP] ont réussi à occuper le canal de Panama. Précédemment sous contrôle [old_controller.GetAdjMS], l'opération a sûrement dû enrager [old_controller.GetLeader]. L'événement aura également un impact énorme sur la circulation des navires entre les océans Atlantique et Pacifique.\n\nIl y a toujours le risque d'une contre-attaque, et si la conquête ne peut pas être sécurisée, [new_controller.GetnameDef] peut décider de faire sauter les portes du canal et de le rendre inutilisable."
  cityfall.76.a:0 "Le combat n'est pas terminé !"
  cityfall.76.b:0 "Une grande victoire !"
  cityfall.76.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.77.t:0 "Les forces armées [new_controller.GetAdjFP] entrent dans [797.GetName]"
  cityfall.77.desc:0 "\nLa Porte de l'Orient est maintenant sous contrôle [new_controller.GetAdjMS] puisque l'armée de [new_controller.GetLeader] a pris le contrôle de la ville de [797.GetName].\n\nC'est un coup colossal pour le gouvernement de [old_controller.GetLeader]. Néanmoins, le communiqué [old_controller.GetAdjMS] a seulement défini la défaite comme un « revers temporaire », ajoutant que la résistance contre l'envahisseur doit continuer. La chute de la ville pourrait également avoir des répercussions plus importantes car elle permettra [new_controller.GetAuAlaAlNP] [new_controller.GetName] de contrôler l'accès à la mer Noire. Actuellement, les soldats [new_controller.GetAdjMP] peuvent célébrer leur conquête en visitant la majestueuse Sainte-Sophie. Espérons que son architecture ait été épargnée par les combats."
  cityfall.77.a:0 "Le combat n'est pas terminé !"
  cityfall.77.b:0 "Une grande victoire !"
  cityfall.77.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.78.t:0 "Les forces armées [new_controller.GetAdjFP] entrent dans Tokyo"
  cityfall.78.desc:0 "\nLa « capitale orientale », le cœur du Japon, est désormais sous contrôle [new_controller.GetAdjMS]. Des efforts importants ont dû être faits pour sécuriser la ville en raison de la présence de nombreux tireurs d'élite [old_controller.GetAdjMP]. \n\nLe gouvernement [new_controller.GetAdjMS] a annoncé qu'il était du devoir de chaque citoyen de célébrer cette victoire sur ses ennemis.\n\nPendant ce temps, le gouvernement [old_controller.GetAdjMS] a fait le vœu de libérer la ville de l'oppression étrangère et d'annihiler les envahisseurs [new_controller.GetAdjMP]."
  cityfall.78.a:0 "Le combat n'est pas terminé !"
  cityfall.78.b:0 "Une grande victoire !"
  cityfall.78.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.79.t:0 "Moscou tombe aux mains des troupes [new_controller.GetAdjFP]"
  cityfall.79.desc:0 "\nL'armée [new_controller.GetAdjFS] semble invincible car, comme Napoléon en son temps, ils sont entrés dans la ville de Moscou. La résistance est féroce dans les banlieues de la ville et certains quartiers doivent être conquis rue par rue. Néanmoins, un assaut déterminé des troupes [new_controller.GetAdjFP] est parvenu à prendre le Kremlin. Au cours de ce processus, des tunnels secrets ont été découverts, ce qui prouve que les [old_controller.GetHabitants] avaient prévu la possibilité d'un voyage pendant des semaines, voire des mois.\n\nBien qu'il s'agisse d'un prix important pour [new_controller.GetLeader], la Russie est immense et certains se demandent si une humiliante retraite semblable à la campagne de 1812 est encore possible."
  cityfall.79.a:0 "Le combat n'est pas terminé !"
  cityfall.79.b:0 "Une grande victoire !"
  cityfall.79.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.80.t:0 "Rome tombe aux mains des troupes [new_controller.GetAdjFP]"
  cityfall.80.desc:0 "\nL'armée [new_controller.GetAdjFS] triomphe en entrant dans la ville éternelle. Les lignes défensives connues sous leurs noms de code Caesar C et Rome Switch ont été établies à l'extérieur de la ville pour éviter d'endommager l'immense patrimoine culturel de la capitale, et elles ont donc été dépassées par l'avancée rapide des troupes [new_controller.GetAdjFP] avant que les réserves [old_controller.GetAdjFP] ne puissent renforcer leurs positions. Un petit groupe de défenseurs [old_controller.GetAdjMP] s'est battu jusqu'au bout à l'intérieur du Vittoriano et du ministère de l'Air. En outre, une lettre officielle de capitulation a également été reçue des officiels de la Cité du Vatican.\n\nAlors que les combats cessent enfin, le calme revient peu à peu dans la ville."
  cityfall.80.a:0 "Le combat n'est pas terminé !"
  cityfall.80.b:0 "Une grande victoire !"
  cityfall.80.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.81.t:0 "Des divisions [new_controller.GetAdjFP] entrent dans Budapest"
  cityfall.81.desc:0 "\nLe Danube bleu change de couleur alors que de violents combats ont dévasté la ville jumelle de Budapest. Une fois de plus, Buda et Pest ont été séparées, les ponts sur le Danube ayant été détruits par les défenseurs [old_controller.GetAdjMP]. La victoire [new_controller.GetAdjFS] est claire, mais les dégâts causés à la ville mettront du temps à être réparés."
  cityfall.81.a:0 "Le combat n'est pas terminé !"
  cityfall.81.b:0 "Une grande victoire !"
  cityfall.81.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.82.t:0 "La chute de Prétoria"
  cityfall.82.desc:0 "\nLes ravages de la guerre atteignent la pointe de l'Afrique alors que les forces armées [new_controller.GetAdjFP] ont sécurisé la ville de Prétoria. Le problème critique des défenseurs [old_controller.GetAdjMP] est que le veld n'offrait aucune caractéristique naturelle facilitant la création d'un périmètre défensif. Au lieu de cela, ils ont été submergés par l'avance [new_controller.GetAdjFS] et ont dû abandonner la ville."
  cityfall.82.a:0 "Le combat n'est pas terminé !"
  cityfall.82.b:0 "Une grande victoire !"
  cityfall.82.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.83.t:0 "La chute d'Athènes"
  cityfall.83.desc:0 "\nLa dévastation de la guerre atteint Athènes alors que les divisions [new_controller.GetAdjFP] ont sécurisé la ville et expulsé les défenseurs [old_controller.GetAdjMP]. Les Longs Murs d'autrefois n'auraient pas aidé les troupes [old_controller.GetAdjFP] puisque le marbre et la pierre ne protégeraient pas contre les bombes et les obus modernes. Coinçant l'avance de l'ennemi et ne voulant pas risquer de détruire le Parthénon une seconde fois dans un combat désespéré, les dernières poches de défenseurs se sont dispersées ou se sont rendues à l'ennemi."
  cityfall.83.a:0 "Le combat n'est pas terminé !"
  cityfall.83.b:0 "Une grande victoire !"
  cityfall.83.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.84.t:0 "La chute de Paris"
  cityfall.84.desc:0 "Autrefois considérée comme le centre de la culture et des tendances européennes, la ville de Paris a été engloutie par la guerre. Les combats acharnés dans les limites de la ville ont vu de nombreux monuments historiques tels que le Palais Royal ou la Cathédrale Notre-Dame de Paris subir de graves dégâts en raison de l'usage intensif de l'artillerie par les [new_controller.GetHabitants] dans un effort désespéré pour sécuriser la ville.\n\nBien que la ville soit désormais aux mains de l'ennemi et que les troupes [new_controller.GetAdjFP] marchent sur les restes brûlés des Champs-Élysées, de nombreux défenseurs [old_controller.GetAdjMP] ont réussi à s'échapper dans les catacombes de la ville et s'efforcent maintenant de mettre en sécurité leurs maigres ressources pour les opérations de guérilla en préparation."
  cityfall.84.a:0 "Le combat n'est pas terminé !"
  cityfall.84.b:0 "Une grande victoire !"
  cityfall.84.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.85.t:0 "Des divisions [new_controller.GetAdjFP] entrent dans Bangkok"
  cityfall.85.desc:0 "Les rumeurs controversées, qui faisaient déjà le tour de la population [old_controller.GetAdjFS] de la ville de Bangkok, ont finalement été confirmées lorsque la chute de la capitale [old_controller.GetDuDelaDelNP] [old_controller.GetName] a été officiellement diffusée par la station de radio de la ville.\n\nLes témoins rapportent que les défenseurs du Grand Palais ont été contraints de battre en retraite sous le feu écrasant des soldats [new_controller.GetAdjMP] qui ont également pris le contrôle des bâtiments de l'administration locale et des commissariats de police, sapant ainsi la combativité et l'activité de résistance des troupes [old_controller.GetAdjFP] restantes dans les limites de la ville. Serait-ce la fin [old_controller.GetDuDelaDelNP] [old_controller.GetName] ?"
  cityfall.85.a:0 "Le combat n'est pas terminé !"
  cityfall.85.b:0 "Une grande victoire !"
  cityfall.85.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.86.t:0 "Des divisions [new_controller.GetAdjFP] entrent dans Stockholm"
  cityfall.86.desc:0 "\nLes citoyens [old_controller.GetAdjMP] sont dans le désarroi alors que la ville de Stockholm a été submergée par les envahisseurs [new_controller.GetAdjMP]. Malgré la résistance de certains bataillons protégeant l'île de la vieille ville en faisant sauter de nombreux ponts et en érigeant des barricades, la prise du Slussen rend la position des défenseurs de plus en plus difficile.\n\nLa bataille de Stockholm est maintenant terminée et [new_controller.GetLeader] célèbre certainement le succès de l'opération."
  cityfall.86.a:0 "Le combat n'est pas terminé !"
  cityfall.86.b:0 "Une grande victoire !"
  cityfall.86.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.87.t:0 "Des divisions [new_controller.GetAdjFP] entrent dans Oslo"
  cityfall.87.desc:0 "\nL'armée [old_controller.GetAdjFS] se replie, laissant les habitants d'Oslo sans défense alors que les soldats [new_controller.GetAdjMP] sécurisent la ville. Alors que le bruit des armes cessaient de retentir, un étrange voile de calme et de peur entremêlés couvrait la ville. Même si le gouvernement [old_controller.GetAdjMS] s'engage à combattre les envahisseurs jusqu'à la fin, la perte de la ville est un coup dur pour [old_controller.GetNameDef]\n\nLes combats continuent pour l'instant mais une question commence à trotter dans la tête de plus en plus de gens : « Pour combien de temps ? »"
  cityfall.87.a:0 "Le combat n'est pas terminé !"
  cityfall.87.b:0 "Une grande victoire !"
  cityfall.87.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.88.t:0 "Des divisions [new_controller.GetAdjFP] entrent dans Bogota"
  cityfall.88.desc:0 "\nL'armée [old_controller.GetAdjFS] semble être à bout de souffle, puisqu'elle s'est retirée de la ville de Bogota, laissant le contrôle de la ville à l'avancée des troupes [new_controller.GetAdjFP]. Cette défaite a affaibli le pouvoir de [old_controller.GetLeader], mais le gouvernement [old_controller.GetAdjMS] s'est néanmoins engagé à poursuivre la résistance jusqu'au bout. Malgré cette déclaration, il est clair que [old_controller.GetNameDef] se trouve dans une situation difficile."
  cityfall.88.a:0 "Le combat n'est pas terminé !"
  cityfall.88.b:0 "Une grande victoire !"
  cityfall.88.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.89.t:0 "Dublin tombe aux mains des troupes [new_controller.GetAdjFP]"
  cityfall.89.desc:0 "\nL'armée [old_controller.GetAdjFS] semble être à bout de souffle et s'est retirée de la ville de Dublin, laissant le contrôle de la ville aux troupes [new_controller.GetAdjFP] qui avancent. Cette défaite a décrédibilisé le pouvoir de [new_controller.GetLeader], mais le gouvernement [new_controller.GetAdjMS] s'engage néanmoins à poursuivre la résistance jusqu'au bout, déclarant qu'il n'abandonnera pas l'indépendance acquise après des siècles d'occupation étrangère. Malgré cette déclaration, il est clair que [old_controller.GetNameDef] se trouve dans une situation difficile."
  cityfall.89.a:0 "Le combat n'est pas terminé !"
  cityfall.89.b:0 "Une grande victoire !"
  cityfall.89.c:0 "La guerre prend une tournure inattendue."
-
  cityfall.90.t:0 "La chute de Caracas"
  cityfall.90.desc:0 "La ville de Caracas, largement connue pour être la capitale des exportations de pétrole ces dernières années, est tombée aux mains des troupes [new_controller.GetAdjFP]. La bataille fait rage, avec des combats brutaux de maison à maison, mais finalement, en raison de la taille insignifiante de la ville, celle-ci est tombée en deux jours seulement et [old_controller.GetLeader] a été obligé d'ordonner la retraite de la ville.\n\nCette défaite met sans aucun doute [old_controller.GetNameDef] dans une situation désespérée. Mais [old_controller.GetLeader] a clairement fait savoir qu'il avait l'intention de résister jusqu'au bout, quel qu'en soit le prix."
-
  cityfall.91.t:0 "La chute de Bakou"
  cityfall.91.desc:0 "La ville de Bakou, l'un des plus grands centres de production de pétrole au monde, est tombée aux mains des troupes [new_controller.GetAdjFP]. Désireux de protéger désespérément cette ressource cruciale, les soldats [new_controller.GetAdjMP] se sont battus jusqu'au dernier homme.\n\nPrivé d'importants approvisionnements en or noir, la conduite de la guerre sera beaucoup plus difficile pour [old_controller.GetNameDef]."
- #Stalingrad/Tsaritsyn
  cityfall.92.t:0 "La chute de [217.GetName]"
  cityfall.92.desc:0 "Avec la capture de [217.GetName], un important centre industriel est tombé sous les coups de l'avancée des forces [new_controller.GetAdjFP]. Malgré d'intenses combats, notamment pour le contrôle de la gare et de l'usine de tracteurs, la ville a finalement été sécurisée.\n\nLa perte du nœud ferroviaire vital et de l'utilisation sûre de la Volga par [old_controller.GetNameDef] peut signifier leur chute imminente."
- #Leningrad/Petrograd
  cityfall.93.t:0 "La chute de [195.GetName]"
  cityfall.93.desc:0 "La Neva a été souillée par le sang en raison des durs combats qui ont embrasé la ville de [195.GetName]. Les vainqueurs [new_controller.GetAdjMP] doivent maintenant franchir les barricades érigées par les défenseurs désespérés [old_controller.GetAdjMP]. Une grande partie des forces [old_controller.GetAdjFP] ont battu en retraite, mais certaines d'entre elles ont tenté de poursuivre le combat depuis l'intérieur du quartier général de l'armée, de l'amirauté et de la forteresse Pierre et Paul. Pourtant, malgré le fait que ces positions se renforcent mutuellement, elles n'ont pas été conçues pour résister aux armes modernes.\n\nUn nouveau jour et un nouveau drapeau flottent sur la ville, un drapeau usé par la guerre qui montre la domination [new_controller.GetAdjFS] sur la ville."
-
  cityfall.94.t:0 "La chute de Los Angeles"
  cityfall.94.desc:0 "Les portes du ciel se sont ouvertes sur de nombreux habitants de Los Angeles alors que le Golden Gate semble plus rouge que n'importe quel autre jour. Le siège brutal mené par les forces armées [new_controller.GetAdjFP] a infligé d'énormes dégâts sur toute la baie et de multiples quartiers de la ville et de sa banlieue ont été consumés par le feu. Si les forces [old_controller.GetAdjFP] ont lourdement souffert, les nouveaux maîtres de la ville ont hérité d'un flambeau en ruine, à eux de voir s'ils peuvent conserver et réparer la zone."
-
  cityfall.95.t:0 "La chute de Téhéran"
  cityfall.95.desc:0 "Des combats acharnés et une guerre urbaine ont dévasté la plus grande ville du Moyen-Orient, Téhéran. Des fumées s'élèvent au-dessus des ruines du complexe de Saadabad, qui a été bombardé par un barrage d'artillerie après que les derniers défenseurs [old_controller.GetAdjMP] ont refusé de se rendre aux forces [new_controller.GetAdjFP]. \n\nEt alors que des coups de feu peuvent encore être entendus dans et autour du Baazar de Téhéran, les officiels [new_controller.GetAdjMP] ont déjà revendiqué leur victoire dans la bataille pour la ville. Les drapeaux [new_controller.GetAdjeMP] flottent au-dessus du palais du Golestan, signe du nouvel ordre qui s'installe dans la région."
-
  cityfall.96.t:0 "La chute de Sébastopol"
  cityfall.96.desc:0 "Des combats acharnés et des affrontements urbains ont dévasté la plus grande ville de Crimée, la base navale de Sébastopol. Des fumées s'élèvent tout autour de la baie. Les fortifications ont été pilonnées par des barrages d'artillerie lourde. Les bombardements, qui ont provoqué l'explosion d'un dépôt de munitions, ont forcé les défenseurs [old_controller.GetAdjMP] les plus obstinés à déposer les armes et à se rendre aux forces [new_controller.GetAdjFP] victorieuses. \n\nEt bien que l'on entende encore quelques coups de feu ici et là, les officiels [new_controller.GetAdjMP] ont déjà annoncé la prise de la ville. Les drapeaux [new_controller.GetAdjMP] flottent sur ce qu'il reste des fortifications, indiquant aux habitants restants qui est désormais aux commandes."
-
  cityfall.97.t:0 "La chute de Gibraltar"
  cityfall.97.desc:0 "La situation en Méditerranée est sur le point de changer radicalement puisque le rocher de Gibraltar est désormais sous le contrôle des forces armées [new_controller.GetAdjFP]. Désormais maître de la situation, l'artillerie est immédiatement mise en place pour pouvoir tirer sur les navires potentiellement hostiles passant par le détroit, bloquant ainsi l'accès à toute flotte indésirable... sauf peut-être les sous-marins. D'autre part, la marine [old_controller.GetAdjFS] a perdu une position très importante aux portes de la Méditerranée."
-
  cityfall.98.t:0 "La chute de Sydney"
  cityfall.98.desc:0 "Avec la capture de [285.GetName], les [new_controller.GetHabitants] sont désormais solidement établis sur le sol australien. La baie a été recouverte d'une épaisse fumée noire due à la combustion de carburant, qui se répand lentement dans la ville. Le reste de l'Australie va-t-il bientôt suivre ou l'armée [old_controller.GetAdjFS] sera-t-elle capable de contre-attaquer et de repousser l'envahisseur dans la mer ?"
-
  cityfall.99.t:0 "Madrid est tombée !"
  cityfall.99.desc:0 "Déjà touchée par la guerre civile, [41.GetName] est à nouveau sous contrôle militaire, les forces [new_controller.GetAdjFP] ayant pris le contrôle de la ville. Les forces [old_controller.GetAdjFP] ont été vaincues et évacuent la zone, abandonnant les positions préparées dans le Parque Oeste.\n\nLes derniers pompiers tentent d'éteindre le feu des quartiers ravagés."
-
  cityfall.101.t:0 "Les unités [new_controller.GetAdjFP] saisissent Vienne !"
  cityfall.101.desc:0 "Les autorités [new_controller.GetAdjFP] ont fièrement annoncé au monde que leurs forces armées ont réussi à prendre le contrôle de Vienne. La nouvelle administration a établi ses quartiers dans l'aile non endommagée du palais de Schönbrunn, surplombant les restes des jardins qui ont été coupés par la population locale au cours des derniers mois de lutte.\n\nLes défenseurs [old_controller.GetAdjMP] restants se sont barricadés dans les caves du Rathaus tandis que de violents combats de rue se poursuivent dans les quartiers de Leopoldstadt et de Simmering. [old_controller.GetLeader] a tenu un discours à la radio soulignant que la lutte pour la ville n'est pas encore terminée et que l'issue est incertaine."
-
-
-#cityfall.12.t:0 "The Fall of Stockholm"
-#cityfall.12.d:0 "."
-#cityfall.12.a:0 "."
-#cityfall.12.b:0 "We only correct the wrongs of the past."
-#cityfall.12.c:0 "The fight in London mayover, but shall never win."
+ cityfall.102.t:0 "La chute de Pékin"
+ cityfall.102.d:0 "Après un raid raté sur le QG de la ligne de front japonaise, les Chinois ont subi d'énormes pertes. Afin d'éviter de nouvelles pertes, le commandant chinois a ordonné aux troupes de se retirer de Pékin. L'armée japonaise a ensuite marché dans la ville avec une résistance minimale.\n\nLes Japonais auraient enlevé quelques artefacts du Palais interdit. Heureusement, la plus grande partie a été évacuée en 1933 vers le sud, les Japonais n'ont pu retirer que quelques grands bacs en bronze et quelques pièces de canon."

@@ -1,8 +1,6 @@
 ﻿l_french:
-
-GER_deutsche_forschungsanstalt_fur_segelflug:0 "DFS"
-GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt für Segelflug"
-#Focuses
+ GER_deutsche_forschungsanstalt_fur_segelflug:0 "DFS"
+ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt für Segelflug"
  GER_begin_depression_recovery:0 "Reprise de la dépression"
  GER_begin_depression_recovery_desc:0 "Le traitement de la Grande dépression par la République de Weimar a l'économie encore pire. Nous devrions commencer à réparer les dommages causés par les ennemis [GER.GetDuDelaDelNP] [GER.GetName]."
  GER_begin_reinhardt:0 "Lancer le programme Reinhardt"
@@ -26,7 +24,6 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  GER_elite_soldiers_SS:0 "Utiliser la SS sur la ligne de front"
  GER_elite_soldiers_SS_desc:0 "L'entraînement et l'enseignement spéciaux des soldats SS les rendent bien meilleurs que les unités normales dans des rôles qui exigent plus de dévouement et de loyauté envers la väterland."
  GER_combine_SS_gestapo:0 "Combiner la SS et la Gestapo"
- GER_combine_SS_gestapo_desc:0 "L'association des SS et de la Gestapo nous donnera une force capable non seulement de mener des opérations militaires, mais aussi des opérations de maintien de la paix et de lutte contre le terrorisme."
  GER_purge_political_opponents:0 "Purger les opposants politiques"
  GER_purge_political_opponents_desc:0 "La seule façon de faire face aux effets indéniablement forts des autres partis politiques est de s'en débarrasser tous ensemble. Ce n'est qu'alors que nous pourrons renforcer l'unité de nos nations et mener [GER.GetNameDef] à la victoire."
  GER_combine_SS_gestapo_desc:0 "Nos adversaires politiques, tant libéraux que communistes, rendent beaucoup plus difficile la redynamisation [GER.GetDuDelaDelNP] [GER.GetName] ; si nous nous débarrassons de cette opposition, plus rien ne s'opposera [GER.GetAuAlaAlNP] [GER.GetName]."
@@ -66,9 +63,9 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  GER_landing_craft:0 "Recherche sur les navires de débarquement"
  GER_landing_craft_desc:0 "La seule façon de lancer avec succès une invasion navale significative sera avec de nouveaux navires de débarquement."
  GER_air_superiority_english_channel:0 "Dominer les cieux"
- GER_air_superiority_english_channel_desc:0 "La seule façon de protéger la patrie et de fournir un appui terrestre écrasant est d'avoir une forte suprématie aérienne."
+ GER_air_superiority_english_channel_desc:0 "The only way we can protect the homeland and provide overwhelming ground support is with strong aerial supremacy."
  GER_train_paratroopers:0 "Entraîner les Fallschirmjägers"
- GER_train_paratroopers_desc:0 "Les divisions Fallschirmjäger, nos divisions d'infanterie aéroportées, seront le seul moyen d'envahir et de capturer des cibles derrière les lignes ennemies ou inaccessibles par voie terrestre."
+ GER_train_paratroopers_desc:0 "Fallschirmjäger divisions, our airborne infantry divisions, will be the only way to invade and capture targets behind enemy lines or inaccessible by land."
  GER_naval_superiority_english_channel:0 "Doctrine flexible"
  GER_naval_superiority_english_channel_desc:0 "Le seul moyen de protéger nos invasions amphibies ou notre commerce sera de déployer intelligemment notre marine, peut-être même contre des puissances navales plus puissantes."
  GER_enact_sealion:0 "Exécuter l'opération Lion de Mer"
@@ -105,9 +102,8 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  GER_counter_sloped_armor_desc:0 "Les blindages inclinés et d'autres progrès ont rendu presque obsolètes les armes antichars plus simples comme les fusils. Nous aurons besoin d'armes antichars plus puissantes pour vaincre les chars les plus récents."
  GER_seige_fortified_towns:0 "Assiéger les villes fortifiées"
  GER_seige_fortified_towns_desc:0 "Les Soviétiques ont renforcé les défenses de plusieurs de leurs villes, telles que Leningrad et Moscou. Pour prendre ces villes, nous devons les encercler et les bombarder avec la plus grande puissance de feu possible."
- GER_counter_anti_tank:0 "Stratégie des armes d'assaut"
- GER_counter_anti_tank_desc:0 "Notre artillerie ordinaire est une cible de choix pour les tirs de l'ennemi. En rendant notre artillerie mobile, blindée et peut-être même dotée de plus gros projectiles, nous pouvons, au sens propre comme au sens figuré, déjouer les canons ennemis."
- GER_encirclement_doctrine:0 "Doctrine d'encerclement"
+ GER_counter_anti_tank:0 "Assault Gun Strategy"
+ GER_counter_anti_tank_desc:0 "Our ordinary artillery is a prime target for shelling by the enemy. By making our artillery mobile, armored and perhaps even with bigger rounds, we can both literally and figuratively outmanoeuvre the enemy guns."
  GER_encirclement_doctrine_desc:0 "Les Soviétiques ont plusieurs millions d'hommes de plus que nous à leur disposition ; pour contrer cela, nous devons encercler et écraser leurs armées sans les laisser riposter."
  GER_train_marines:0 "Entraîner les Seebataillons"
  GER_train_marines_desc:0 "Les Seebataillons nous donneront un avantage dans les invasions navales, nous donnant des troupes spécialisées dans le débarquement sur les côtes de nos ennemis."
@@ -340,7 +336,6 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  GER_the_breitspurbahn:0 "Le Breitspurbahn"
  GER_the_breitspurbahn_desc:0 "Bientôt, un réseau géant de chemins de fer couvrira toute l'Europe, renforçant l'hégémonie [GER.GetAdjFS]."
  GER_the_breitspurbah_railways_tt:0 "Ajoute un chemin de fer de niveau §Y1§! de §YBerlin§! jusqu'à la §Ycapitale de chaque État fantoche§! accessible par voie terrestre."
- #Ideas
  GER_foreign_volunteers_idea:0 "Volontaires étrangers"
  GER_establish_SS_idea:0 "SS créée"
  GER_aux_police_SS_idea:0 "Police auxiliaire SS"
@@ -407,7 +402,6 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  GER_communist_german_influence:0 "Influence communiste [GER.GetAdjFS]"
  ger_betray_soviets:0 "Trahison [GER.GetAdjFS]"
  GER_poland_trade:0 "Terres impériales de protection"
-
  erwache.1.t:0 "Nomination de postes économiques"
  erwache.1.d:0 "Nous avons deux possibilités de nomination pour les postes de président de la Reichsbank et de ministre de l'économie. L'un des candidats possibles, Hjalmar Schacht, est très doué pour travailler avec les entreprises allemandes et développer les infrastructures civiles, mais son manque de loyauté envers le NSDAP et son refus des dépenses militaires font de lui un choix inquiétant. Notre deuxième candidat possible, Walther Funk, est très loyal envers le NSDAP et est un partisan majeur des dépenses militaires. Si nous voulons que la reprise allemande progresse de manière satisfaisante, nous devons choisir l'un de ces deux hommes pour diriger notre économie."
  erwache.1.a:0 "Hjalmar Schacht."
@@ -432,10 +426,8 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  erwache.7.d:0 "L'Union soviétique a reçu une proposition de traité pour mettre fin à la guerre germano-soviétique à l'Est. Le traité prévoyait de céder aux Allemands plusieurs territoires occidentaux occupés par l'Union soviétique en échange de la paix. Ces termes sont similaires à ceux du traité de Brest-Litovsk, qui a mis fin au conflit germano-soviétique pendant la Première Guerre mondiale."
  erwache.7.a:0 "Rejetons les conditions !"
  erwache.7.b:0 "Acceptons les conditions."
-
  r56_GER_first_vienna_award_tt:0 "§RSelon votre choix, le Premier arbitrage de Vienne sera déclenché si la Hongrie ne possède pas le sud de la Slovaquie.§!"
  r56_GER_first_vienna_award_II_tt:0 "§RCe choix déclenchera le premier arbitrage de Vienne juste après si la Hongrie ne possède pas le sud de la Slovaquie.§!"
-
  erwache_news.1.t:0 "L'Espagne refuse les demandes allemandes !"
  erwache_news.1.d:0 "L'Espagne a officiellement refusé la demande allemande d'une « occupation défensive » du pays. L'Espagne est maintenant entrée en guerre contre l'Allemagne, en ralliant ses forces militaires vers la frontière."
  erwache_news.1.a:0 "Nous nous battrons !"
@@ -449,16 +441,9 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  stubborn:0 "Têtu"
  restoring_monarchist:0 "L'ancien Kaiser"
  new_monarchist:0 "Un nouveau Kaiser"
-
  GER_blohm_und_voss_aviation:0 "Blohm & Voss"
  GER_deschimag:0 "Deschimag"
  GER_vereinigte_stahlwerke:0 "Vereinigte Stahlwerke"
-
- #spicyedits
-
- #reinhard_heydrich:0 "Reinhard Heydrich"
- #reinhard_heydrich_desc:0 "Hangman also die"
-
  wilhelm_frick:0 "Wilhelm Frick"
  wilhelm_frick_desc:0 "Il n'est pas gentil avec Himmler."
  baldur_von_schirach:0 "Baldur Von Schirach"
@@ -479,21 +464,15 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  GER_Carl_Friedrich_Goerdeler:0 "Carl Friedrich Goerdeler"
  GER_Theodor_Duesterberg:0 "Theodor Duesterberg"
  GER_Wilhelm_von_Gayl:0 "Wilhelm Von Gayl"
- authoritarian_centralizer:0 "Authoritarian Centralizer"
+ authoritarian_centralizer:0 "Centralisateur autoritaire"
  GER_Paul_Lejeune_Jung:0 "Paul Lejeune-Jung"
  GER_robert_knauss:0 "Robert Knauss"
  GER_wilhelm_iv:0 "Guillaume IV"
- #operation_anthropoid:0 " Opération Anthropoid"
- #germany.1001:0 "Heydrich assassiné"
- #r56_ENG_operation_anthropoid:0 "Opération Anthropoid"
-
-GER_abwehr_contacts:0 "Contacts au [ROOT.GetAgency]"
-GER_operation_bolivar:0 "Opération Bolívar"
-GER_operation_bolivar_desc:0 "Les différentes communautés d'exilés en Amérique du Sud devraient nous permettre de déployer des agents et d'opérer facilement sur le continent américain."
-GER_venezuela_friend:0 "Obtenir l'allégeance des Vénézuéliens"
-GER_venezuela_friend_desc:0 "Les Vénézuéliens ont déjà montré de la sympathie pour notre cause, peut-être qu'un peu de bonne diplomatie pourrait les faire pencher en notre faveur, eux et leurs champs de pétrole."
-
- #Events to kill Hitler (Successful)
+ GER_abwehr_contacts:0 "Contacts au [ROOT.GetAgency]"
+ GER_operation_bolivar:0 "Opération Bolívar"
+ GER_operation_bolivar_desc:0 "Les différentes communautés d'exilés en Amérique du Sud devraient nous permettre de déployer des agents et d'opérer facilement sur le continent américain."
+ GER_venezuela_friend:0 "Obtenir l'allégeance des Vénézuéliens"
+ GER_venezuela_friend_desc:0 "Les Vénézuéliens ont déjà montré de la sympathie pour notre cause, peut-être qu'un peu de bonne diplomatie pourrait les faire pencher en notre faveur, eux et leurs champs de pétrole."
  r56.kill_hitler.1.t:0 "Hitler tué dans une explosion"
  r56.kill_hitler.1.desc:0 "L'Allemagne semble être secouée par une tentative de coup d'État, un groupe d'officiers de la Wehrmacht ayant réussi à tuer Hitler. Lors d'une exposition des dernières armes produites dans le Reich, un officier guidant le Führer a transporté une bombe et l'a utilisée pour tuer le chancelier allemand et deux de ses gardes du corps."
  r56.kill_hitler.1.a:0 "Un coup d'État ?"
@@ -504,21 +483,7 @@ GER_venezuela_friend_desc:0 "Les Vénézuéliens ont déjà montré de la sympat
  r56.kill_hitler.2.b:0 "Traîtres !"
  r56.kill_hitler.3.t:0 "Hitler tué dans l'attaque d'un artiste martial !"
  r56.kill_hitler.3.desc:0 "Le concours du rallye de la nuit dernière à Berlin a été interrompu par l'arrivée sur scène d'un inconnu qui a invité le Führer à le combattre. Hitler a arrêté les gardes du corps avant de révéler qu'il était le Führer du Kung et qu'il savait qu'un maître de Kung Fu tenterait un jour de le défier. L'homme mystérieux se présenta sous le nom de Brandson Lee avant d'attaquer le Chancelier allemand avec la colère d'un tigre. Le duel a duré plusieurs minutes. Les coups étaient apparemment si rapides qu'il était difficile de suivre l'action, mais soudain l'intrus planta sa main dans la poitrine du Führer. Le Führer a laissé échapper un seul souffle avant de s'effondrer sur le sol. Les SS ont alors tiré sur l'assassin, mais celui-ci a réussi à esquiver plusieurs balles et à en arrêter d'autres à mains nues avant de s'échapper par une porte latérale, tranchant ainsi plusieurs sentinelles."
- r56.kill_hitler.3.a:0 "*recrache son café*"
- r56.kill.hitler.3.b:0 "*recrache son thé*"
- r56.kill.hitler.3.c:0 "*recrache sa vodka*"
- r56.kill.hitler.3.d:0 "*recrache sa bière*"
- r56.kill.hitler.3.e:0 "*recrache sa slivovitz*"
- r56.kill.hitler.3.f:0 "*recrache son pinard*"
- r56.kill.hitler.3.g:0 "*recrache son whisky*"
- r56.kill.hitler.3.h:0 "*recrache son saké*"
- r56.kill.hitler.3.i:0 "*recrache sa snus*"
- r56.kill.hitler.3.j:0 "*recrache son sirop*"
- r56.kill.hitler.3.k:0 "*recrache son soda*"
- r56.kill.hitler.3.l:0 "*recrache sa tequila*"
- r56.kill.hitler.3.m:0 "*recrache son Inca Kola*"
- r56.kill.hitler.3.n:0 "*recrache son émeu*"
- r56.kill.hitler.3.o:0 "*recrache son genièvre*"
+ r56.kill_hitler.3.a:0 "*Spits out coffee*"
  r56.kill_hitler.4.t:0 "L'avion d'Hitler s'est écrasé !"
  r56.kill_hitler.4.desc:0 "\nUn rapport officiel a confirmé que l'épave de l'avion qui s'est écrasé peu après le décollage de l'aéroport de Tempelhoff est bien l'avion privé du Führer qui était à bord à ce moment-là. Il semble qu'une bombe ait été introduite clandestinement à bord par des officiers complices, car une mutinerie générale semble engloutir tout le Reich."
  r56.kill_hitler.4.a:0 "Un coup d'État ?"
@@ -531,14 +496,14 @@ GER_venezuela_friend_desc:0 "Les Vénézuéliens ont déjà montré de la sympat
  r56.kill_hitler.6.desc:0 "\nUn communiqué surprenant a confirmé les rumeurs selon lesquelles le Chancelier allemand Adolf Hitler a été tué par un tueur à gages alors qu'il se reposait dans sa villa alpine. Touché à la tête par une seule balle tirée de loin, il est clair que le tueur à gages était un tireur d'élite très habile, ce qui impliquerait une forme d'entraînement militaire."
  r56.kill_hitler.6.a:0 "Un coup d'État ?"
  r56.kill_hitler.6.b:0 "Traîtres !"
-
-
+ r56.kill_hitler.7.t:0 "Hitler tué par balle !"
+ r56.kill_hitler.7.desc:0 "Le chaos a régné aujourd'hui [GER.GetAuEnANP] [GER.GetNameDef], car plusieurs rapports indiquent qu'Adolf Hitler a été abattu dans sa résidence supposée sûre. Bien que l'on ne sache pas grand-chose sur l'assaillant, des rumeurs circulent selon lesquelles le tireur responsable serait un vétéran de la Grande Guerre et un représentant du propre bataillon du Führer en 1919 pour la Räterepublik bavaroise. À l'heure actuelle, aucune piste ne permet de savoir où se trouve la personne responsable ni comment toutes les mesures de sécurité ont pu être contournées sans effort. Le motif reste un mystère encore plus grand.\n\nLa suite des événements reste à déterminer, mais un nouveau Führer devrait prêter serment dans les prochaines heures."
+ r56.kill_hitler.7.a:0 "Un coup d'État ?"
+ r56.kill_hitler.7.b:0 "Traîtres !"
  GER_REUNITED_democratic:0 "République fédérale d'Allemagne"
  GER_REUNITED_fascism:0 "Reich allemand"
  GER_REUNITED_neutrality:0 "Empire allemand"
  GER_REUNITED_communism:0 "République socialiste allemande"
-
- #implementation quite unorganized and was missing loc
  GER_cede_884_to_HUN:0 "Céder le Prekmurje à la Hongrie"
  GER_cede_102_to_ITA:0 "Céder Ljubljana à l'Italie"
  r56_italy_ljubljana_annexation.1.t:0 "L'Allemagne cède Ljubljana"
@@ -547,15 +512,10 @@ GER_venezuela_friend_desc:0 "Les Vénézuéliens ont déjà montré de la sympat
  r56_hungary_prekmurje_annexation.1.t:0 "[From.GetName] cède Prekmurje"
  r56_hungary_prekmurje_annexation.1.d:0 "[FROM.GetNameDefCap] nous a cédé la région de Prekmurje pour renforcer nos relations amicales."
  r56_hungary_prekmurje_annexation.1.a:0 "Excellent."
-
  PRE_call_other_german_states:0 "Appeler les autres États allemands"
-
  GER_naval_gunnery_r56:0 "Artillerie navale"
  GER_naval_gunnery_r56_desc:0 "Notre flotte de surface aura besoin des plus gros canons."
-
  r56_GER_decision_promote_hans_von_luck:0 "Promouvoir Hans von Luck"
-
- #endsieg stuff
  r56.ger.1.t:0 "La victoire ultime"
  r56.ger.1.desc:0 "Nos efforts de guerre ont connu de nombreux revers, et nos ennemis pénètrent profondément dans le centre de notre patrie. Toutefois, nous sommes plus forts que nos ennemis et, contrairement à eux, nous avons la capacité d'endurer de grandes souffrances et d'aller de l'avant jusqu'à la victoire. Nous rallierons toutes les personnes disponibles de notre grande nation pour atteindre cette victoire ou périr en essayant."
  r56.ger.1.a:0 "La victoire ultime est à portée de main. Nous devons simplement aller de l'avant."
@@ -566,85 +526,65 @@ GER_venezuela_friend_desc:0 "Les Vénézuéliens ont déjà montré de la sympat
  r56.ger.2.desc:0 "Notre patrie semblait presque perdue, et à travers toutes nos luttes, la résilience du pays n'a pas été vaine. Nous avons repoussé nos ennemis hors de notre patrie et les avons mis au pied du mur. Bien que nous ayons encore du chemin à parcourir avant d'atteindre la victoire pour laquelle nous avons tant souffert, elle semble être beaucoup plus proche."
  r56.ger.2.a:0 "La victoire ultime est plus proche que jamais !"
  r56_GER_endsieg_2_tt:0 "§RDémantèle§! §Wles divisions§! §YVolkssturm§! §Wet§! §YErsatzheer§!"
-
  r56.ger.4.t:0 "La mort de Guillaume III"
  r56.ger.4.desc:0 "Le Kaiser Guillaume III est décédé de vieillesse. Le trône a été transmis à son fils Guillaume IV, qui laisse la plupart de ses responsabilités aux politiciens."
  r56.ger.4.a:0 "Le Roi et Empereur est mort, vive le Roi et Empereur !"
-
  r56.ger.6.t:0 "[GER.GetNameDefCap] propose un front contre le fascisme"
  r56.ger.6.d:0 "Le dirigeant [GER.GetAdjMS], [GER.GetLeader], nous a envoyé une proposition pour que nous mettions de côté nos différences et que nous formions un front uni contre la « menace fasciste » qui plane sur l'Europe."
  r56.ger.6.a:0 "L'union fait la force."
  r56.ger.6.b:0 "Plutôt mort que rouge !"
-
  r56.ger.7.t:0 "Ultimatum [GER.GetAdjMS]"
  r56.ger.7.d:0 "[GER.GetNameDefCap], de toute évidence totalement hostile à notre nation, nous a envoyé un ultimatum strict exigeant que nous nous rendions immédiatement à eux pour nous protéger de la « menace fasciste » en Europe.\n\n[GER.GetNameDefCap] menace de « nous faire tomber coûte que coûte » si nous ne nous soumettons pas. Bien que ces exigences soient scandaleuses, nous ne sommes peut-être pas en mesure de résister."
  r56.ger.7.a:0 "Nous devons céder."
  r56.ger.7.b:0 "Nous ne nous rendrons pas à ces démons rouges !"
-
  r56.ger.8.t:0 "[AUS.GetNameDefCap] se rend"
  r56.ger.8.d:0 "[AUS.GetNameDefCap], n'ayant pas d'autre choix, a accepté nos conditions et s'est ensuite rendue entièrement.\n\nNous avons accompli une autre victoire contre les fascistes."
  r56.ger.8.a:0 "Excellent."
-
  r56.ger.9.t:0 "[AUS.GetNameDefCap] refuse"
  r56.ger.9.d:0 "[AUS.GetNameDefCap] a tenu bon et a refusé avec arrogance nos conditions de protection contre la menace fasciste.\n\nIls se sont avérés être un autre tyran en Europe, et nous devons les faire tomber, quoi qu'il en coûte."
  r56.ger.9.a:0 "Alors c'est la guerre."
-
  r56.ger.10.t:0 "[FRA.GetNAmeDefCap] accepte notre proposition"
  r56.ger.10.d:0 "[FRA.GetNAmeDefCap] a accepté avec joie notre proposition et a accepté de mettre fin à toutes les relations hostiles entre nos deux nations pour combattre la menace fasciste en Europe."
  r56.ger.10.a:0 "L'union fait la force."
-
  r56.ger.11.t:0 "[FRA.GetNameDefCap] refuse notre proposition"
  r56.ger.11.d:0 "[FRA.GetNameDefCap] a outrageusement refusé notre offre de mettre de côté nos différences ; les relations hostiles avec eux se poursuivront même avec la menace fasciste en Europe."
  r56.ger.11.a:0 "Imbéciles arrogants."
-
-
  r56.ger.15.t:0 "Premier arbitrage de Vienne"
  r56.ger.15.d:0 "Les Hongrois sont l'un des peuples qui ont le plus souffert après la Grande Guerre. Lors du massacre de l'Empire austro-hongrois, de nombreux Hongrois se sont retrouvés en terre étrangère alors que leurs ancêtres y vivaient depuis des générations. Nous pourrions améliorer considérablement nos relations avec [HUN.GetNameDef] en leur accordant certains territoires tchécoslovaques."
  r56.ger.15.a:0 "Donnons-leur le sud de la Slovaquie !"
  r56.ger.15.b:0 "Ce territoire est le nôtre !"
  r56.ger.15.c:0 "La Slovaquie mérite de le garder."
-
-#Extra yalta stuff marijn211
  news.339.title:0 "Occupation de l'Allemagne par les Alliés"
  news.339.desc:0 "La deuxième guerre mondiale en Europe étant terminée, les Alliés ont pris le contrôle total de l'Allemagne et l'ont divisée en quatre nations d'occupation, les [ENG.GetHabitants] et les [FRA.GetHabitants] dans l'ouest et les [USA.GetHabitants] et les [SOV.GetHabitants] dans l'est. On ignore encore combien de temps il faudra pour que ces terres se rétablissent et soient dénazifiées."
  news.339.a:0 "Plus jamais."
  r56_yalta_occupation_tt:0 "Si [FRA.GetNameDef], [ENG.GetNameDef], et [USA.GetNameDef] étaient présents à la conférence de Yalta, ils diviseraient [GER.GetNameDef] en zones d'occupation."
  r56_yalta_decisions_available_tt:0 "Des décisions sont disponibles pour rétablir des pays dans les zones d'occupation de l'Allemagne et de l'Autriche."
  r56_yalta_decisions_available_2_tt:0 "Des décisions sont disponibles pour établir de nouveaux États en Allemagne et en Autriche si ceux-ci deviennent des zones de domination et d'occupation directes."
-
- # vanilla
-
  GER_develop_the_heer:0 "Développer la Heer"
  GER_develop_the_heer_desc:0 "Heinz Guderian et d'autres théoriciens radicaux préconisent de nouvelles doctrines audacieuses mettant l'accent sur la communication, l'identification du « Schwerpunkt » et les concentrations locales de forces armées combinées. En leur donnant carte blanche, on pourrait éviter les horreurs de la Grande Guerre."
  GER_luftwaffe_innovations:0 "Innovations pour la Luftwaffe"
  GER_luftwaffe_innovations_desc:0 "Les guerres modernes ne peuvent être gagnées sans la domination du ciel. Nous devons faire tout ce qui est en notre pouvoir pour développer l'armée de l'air !"
-
  GER_afghanistan_friend_vanilla:0 "Se rapprocher de l'Afghanistan"
  GER_afghanistan_friend_vanilla_desc:0 "[AFG.GetNameDefCap] est une nation qui se modernise rapidement et qui, au cours des dernières années, a établi une relation permanente avec le gouvernement [GER.GetAdjMS], et si nous sommes capables de les rallier à notre cause, ils serviront de voie d'accès facile au reste de l'Asie centrale."
-
  GER_technocrats_idea:0 "Industrie technocratique"
  GER_autarky_idea_standard:0 "Industrie autarcique"
  GER_totaler_krieg:0 "Guerre totale"
  GER_totaler_krieg_desc:0 "Pour porter un coup significatif à nos ennemis, nous ne devons pas nous retenir, nous devons utiliser toutes nos forces pour obtenir la victoire finale, quel qu'en soit le prix !"
-
- #R56 tree restructure/expansion marijn211
- ger_anti_colonial:0 "Anticolonialisme" #opinion modifier
- ger_anti_colonial2:0 "Anticolonialisme" #opinion modifier, but inverse effect for fellow anti-colonialists
- GER_protector_of_peace:0 "Protecteur de la paix" #Idea
- GER_flak_towers: "Projet de tour antiaérienne" #Idea, army branch
+ ger_anti_colonial:0 "Anticolonialisme"
+ ger_anti_colonial2:0 "Anticolonialisme"
+ GER_protector_of_peace:0 "Protecteur de la paix"
+ GER_flak_towers: "Projet de tour antiaérienne"
  GER_tank_quantity: "Production accélérée de chars"
  GER_tank_quality: "Chars de haute qualité"
  WIP_flag:0 "Cette partie de l'arbre est en cours de développement, rien d'autre que les commandes de la console ne peut la débloquer."
- #Tooltips for all branches
  GER_civil_war_tt:0 "§RUne guerre civile éclatera entre les partisans du fascisme, du conservatisme et du socialisme.§!"
  GER_help_SOV_revolutionaries:0 "Intervenir dans la guerre civile soviétique"
  GER_help_SOV_revolutionaries_desc:0 "En soutenant la lutte révolutionnaire contre (les restes du) régime stalinien, le monde pourrait être débarrassé du communisme !"
- r56_german_cw_ongoing:0 "[GER.GetNameDefCap] est dans une guerre civile." #global flag
+ r56_german_cw_ongoing:0 "[GER.GetNameDefCap] est dans une guerre civile."
  GER_recruit_officers_com_tt:0 "§YNous tenterons de recruter des conseillers et des commandants du côté des conservateurs vaincus.§!"
  GER_AUS_wont_get_annexed_tt:0 "§RL'événement d'annexion de l'Autriche lorsqu'elle entre dans votre alliance sera bloqué.§!"
-  GER_dem_ITA_pact_tt:0 "§YL'Italie démocratique ou monarchiste rejoindra votre alliance. Si l'Italie est fasciste et la Yougoslavie est communiste, vous pourrez les combattre ensemble.§!"
+ GER_dem_ITA_pact_tt:0 "§YL'Italie démocratique ou monarchiste rejoindra votre alliance. Si l'Italie est fasciste et la Yougoslavie est communiste, vous pourrez les combattre ensemble.§!"
  kill_advisor_tt: "§Y[THIS.GetName]§! meurt."
- #Shared communist-democratic diplomacy
  GER_recruit_officers_com:0 "Recruter les officiers défaits"
  GER_anti_expansionism:0 "Anti-expansionnisme"
  GER_anti_expansionism_desc:0 "En dénonçant l'expansion par des moyens agressifs, nous pourrions chercher à aligner les nations régionales qui n'en ont pas l'intention ou qui pourraient être elles-mêmes menacées."
@@ -661,7 +601,6 @@ GER_venezuela_friend_desc:0 "Les Vénézuéliens ont déjà montré de la sympat
  GER_anti_colonialism:0 "Position anti-impérialiste"
  GER_ally_benelux:0 "S'allier au Benelux"
  GER_ally_benelux_desc:0 "Bien que petits, les pays du Benelux ne présentent pas seulement une forte concentration d'industries, mais ils offriront également à notre alliance un accès stratégique à trois continents étrangers."
- GER_western_communist:0 "Vaincre le communisme occidental"
  GER_western_communist:0 "Si nous voulons repousser la menace orientale, nous devons d'abord sécuriser notre sphère."
  GER_dem_anschluss_prep:0 "Agiter le sentiment pro-allemand en Autriche"
  GER_dem_anschluss_prep_desc:0 "Les citoyens autrichiens ne savent pas quoi faire de leur faible nation indépendante. En attisant les appels à l'unification avec l'Allemagne, déjà présents, nous pourrons peut-être faire pression pour un référendum."
@@ -671,7 +610,7 @@ GER_venezuela_friend_desc:0 "Les Vénézuéliens ont déjà montré de la sympat
  GER_dem_italy_attack:0 "La menace du Sud"
  GER_dem_italy_attack_desc:0 "[ITA.GetLeader] est un opportuniste, dès que nous serons menacés, il frappera le sud de notre alliance, nous ne pouvons pas le permettre."
  GER_request_danzig:0 "Demander le contrôle de la ville libre"
- GER_request_danzig_desc:0 "Compte tenu de notre changement de direction, nous devrions être en mesure de demander que la ville de Dantzig, fortement pro-allemande, soit restituée à son propriétaire légitime, quelle que soit son allégeance."
+ GER_request_danzig_desc:0 "Given our change in leadership, regardless of allegiance we should be able to request that the strongly Pro-German city of Danzig is returned to its rightful owner."
  GER_dem_polish_corridor_trade:0 "Oberschlesien contre Gdynia"
  GER_dem_polish_corridor_trade_desc:0 "Si nous le souhaitons, nous pourrions négocier avec la Pologne pour résoudre la déconnexion de nos terres en Prusse orientale, étant donné que nous contrôlons tous deux des régions qui souhaitent changer de mains."
  GER_dem_polish_corridor_deal:0 "La Lituanie contre un territoire pro-allemand"
@@ -690,7 +629,7 @@ GER_venezuela_friend_desc:0 "Les Vénézuéliens ont déjà montré de la sympat
  GER_anti_soviet_friend_baltics:0 "Protéger les pays baltes"
  GER_anti_soviet_friend_finland:0 "Inviter la Finlande"
  GER_realise_ukrainian_statehood:0 "Réaliser l'État ukrainien"
- GER_realise_ukrainian_statehood_desc:0 "Le peuple ukrainien s'est battu courageusement pour son indépendance mais a échoué. Libéré de l'oppression soviétique, il peut maintenant réessayer sous notre protection."
+ GER_realise_ukrainian_statehood_desc:0 "The people of Ukraine fought bravely for their independence before but failed, freed from Soviet oppression they can now try again under our protection."
  GER_realise_belarusian_statehood:0 "Réaliser l'État biélorusse"
  GER_safeguard_neutrality:0 "Préserver notre neutralité"
  GER_safeguard_neutrality_desc:0 "Au centre et bientôt au centre de l'Europe, [Root.GetNameDef] occupe une position unique en étant réellement capable de garantir la sécurité de ses partenaires neutres. Et si un conflit devait quand même éclater, nous revendiquerions sans aucun doute la victoire et n'en sortirions que plus forts."
@@ -698,7 +637,6 @@ GER_venezuela_friend_desc:0 "Les Vénézuéliens ont déjà montré de la sympat
  GER_cooperate_with_nordics_desc:0 "Depuis le déclin des empires du nord et l'indépendance de la Finlande, ces nations sont traditionnellement restées neutres, mais avec les [SOV.GetHabitants] à leur porte qui mènent des guerres agressives, elles ne peuvent pas refuser de contribuer à la sécurité européenne."
  GER_anti_soviet_war:0 "Combattre les [SOV.GetHabitants]"
  GER_anti_soviet_war_desc:0 "Seul [Root.GetNameDef] peut sauver l'Europe de la tyrannie [SOV.GetAdjFS]."
- #Monarchism
  GER_mon_peaceful:0 "Des alliés plus fiables"
  GER_mon_peaceful_desc:0 "Bien que forts, nous ne pouvons pas conquérir le monde... à nouveau. En cherchant des partenaires moins agressifs, nous pourrons peut-être étendre notre Reich sans nous engager à nouveau dans une guerre à deux fronts."
  GER_mon_FRA_alliance:0 "Alliance avec la France monarchiste"
@@ -711,63 +649,50 @@ GER_venezuela_friend_desc:0 "Les Vénézuéliens ont déjà montré de la sympat
  GER_mon_anti_commie_france_desc:0 "Avec l'effondrement de la France, l'un des empires les plus puissants du monde, les Britanniques, pourraient être disposés à nous donner un coup de main avant que la situation ne s'aggrave et que les sentiments communistes ne se répandent dans leur empire."
  GER_restore_the_central_powers:0 "Restaurer les Puissances centrales"
  GER_restore_the_central_powers_desc:0 "Humiliés par leur perte de territoire, nos anciens alliés devraient être plus que disposés à rejoindre notre alliance si nous leur donnons une chance de restaurer leur grandeur."
- #Monarchist tooltips
  poland_special_dominion_tt:0 "Nous offrirons à la Pologne une protection en échange de nos anciens territoires et de notre influence politique, en les transformant en un type spécial de dominion."
  intervene_soviet_civil_war_tt:0 "Il y a un côté non communiste, anti-stalinien de la guerre civile qui peut être allié."
  has_neutrality_idea_tt:0 "A un esprit national de §Ypolitique étrangère neutre§!."
  fascist_neutrality_alliance_tt:0 "Les pays européens §Yfascistes§! et §Ynon-alignés§! hésiteront moins à rejoindre l'alliance démocratique de [Root.GetNameDef]."
  GER_rhineland_decision_tt:0 "§RSi la France devient communiste ou notre alliée, nous ne générerons pas de tension mondiale.§!"
- #Decisions
  GER_remilitarize_rhineland:0 "Remilitariser la Rhénanie"
-
  r56.ger.17.t:0 "L'Allemagne offre une protection contre des concessions"
  r56.ger.17.d:0 "Le gouvernement impérial allemand nous a proposé un accord qui verrait la restitution de leur territoire perdu en échange d'une sécurité sous leur influence en tant que dominion à statut spécial."
  r56.ger.17.a:0 "Pour notre sécurité."
  r56.ger.17.b:0 "Nous n'en avons pas besoin !"
-
  r56.ger.18.t:0 "La Pologne refuse la protection"
  r56.ger.18.d:0 "Le gouvernement polonais a annoncé aujourd'hui qu'il ne concéderait pas de territoire en échange d'une protection. En prenant cette décision, il se pourrait qu'ils aient désormais besoin de plus de protection qu'auparavant."
  r56.ger.18.a:0 "Qu'ils soient maudits !"
-
  r56.ger.19.t:0 "La Pologne accepte les conditions"
  r56.ger.19.d:0 "Se sentant fortement menacé, le gouvernement polonais a accepté nos conditions et a cédé des territoires orientaux."
  r56.ger.19.a:0 "Bien."
-
  r56.ger.20.t:0 "L'Allemagne propose l'unification"
  r56.ger.20.d:0 "L'Allemagne propose l'unification."
- r56.ger.20.d2:0 "L'Allemagne propose l'unification." #much communist support -> referendum wouldn't pass
+ r56.ger.20.d2:0 "L'Allemagne propose l'unification."
  r56.ger.20.a:0 "Que le peuple soit entendu."
  r56.ger.20.b:0 "Nous ne coopérerons pas avec ça."
-
  r56.ger.21.t:0 "L'Autriche refuse l'unification !"
- r56.ger.21.d1:0 "Aujourd'hui, le gouvernement autrichien a annoncé qu'il n'autoriserait pas la tenue d'un référendum sur l'unification de l'Autriche avec l'Allemagne. Malgré le soutien populaire et les protestations de l'opinion publique, les personnalités indépendantistes au gouvernement ont fixé le cap de leur nation." #failure by block
- r56.ger.21.d2:0 "Le peuple autrichien d'aujourd'hui, alimenté par les sentiments indépendantistes communistes, a voté contre l'unification de l'Autriche avec l'Allemagne." #failure by communism, fires for Austria too
+ r56.ger.21.d1:0 "Aujourd'hui, le gouvernement autrichien a annoncé qu'il n'autoriserait pas la tenue d'un référendum sur l'unification de l'Autriche avec l'Allemagne. Malgré le soutien populaire et les protestations de l'opinion publique, les personnalités indépendantistes au gouvernement ont fixé le cap de leur nation."
+ r56.ger.21.d2:0 "Le peuple autrichien d'aujourd'hui, alimenté par les sentiments indépendantistes communistes, a voté contre l'unification de l'Autriche avec l'Allemagne."
  r56.ger.21.a:0 "Une trahison de la démocratie."
  r56.ger.21.b:0 "Nous devrions garder un œil sur eux."
-
  r56.ger.22.t:0 "L'Allemagne propose un échange territorial"
- r56.ger.22.d:0 "L'ambassadeur d'Allemagne a annoncé aujourd'hui que son pays souhaitait modifier la frontière germano-polonaise d'une manière qui serait bénéfique pour les deux nations. L'accord prévoit le transfert du territoire polonais de Gdynia à l'Allemagne en échange de la région allemande d'Oberschlesien, qui relie l'Allemagne continentale à son enclave de Prusse orientale. Bien que la région d'Oberschlesien soit moins développée industriellement que Gdynia et que nous y renoncions à notre accès à la mer, nous aurions accès aux ressources en acier et en aluminium de la région et améliorerions considérablement nos relations avec le gouvernement allemand, tout en augmentant notre population et en apaisant les tensions ethniques dans les deux régions."
+ r56.ger.22.d:0 "Today the German ambassador announced his countries desire to change the German-Polish border in a way claimed to be beneficial to be both nations. The agreement would see the Polish territory of Gdynia transferred to Germany in exchange for the German region of Oberschlesien, connecting mainland Germany to its East Prussian enclave. Although Oberschlesien is less industrially developed than Gdynia and would relinquish our sea access there, we  would gain access to steel and aluminium resources in the region and would much improve our relations with the German government alongside growing our population and easing ethnic tensions in both regions."
  r56.ger.22.a:0 "C'est gagnant-gagnant !"
  r56.ger.22.b:0 "Gdynia est trop importante pour nous."
-
  r56.ger.23.t1:0 "La Pologne approuve le réalignement de ses frontières"
  r56.ger.23.d1:0 "Le gouvernement polonais a clairement indiqué qu'il acceptait la proposition allemande de déplacer la frontière germano-polonaise. Les troupes non locales ont commencé à quitter Gdynia et ses citoyens ne se sont pas opposés à ce déplacement. C'est maintenant à nous de faire de même."
  r56.ger.23.a:0 "C'est décidé."
  r56.ger.23.t2:0 "La Pologne refuse l'accord"
  r56.ger.23.d2:0 "Le gouvernement polonais a clairement indiqué qu'il n'échangerait pas de territoire avec l'Allemagne, officiellement en raison de la minorité polonaise, mais plus probablement en raison de son importance stratégique navale ou de son industrie."
  r56.ger.23.b:0 "Nous verrons cela."
-
  r56.ger.24.t:0 "L'Allemagne offre la Lituanie contre des territoires pro-allemands"
- r56.ger.24.d:0 "Le gouvernement allemand, ayant pris possession de territoires en Lituanie, propose un échange dans le cadre duquel nous recevrons la majeure partie de la Lituanie en échange des territoires largement pro-allemands de Katowice et Gdynia. Nous perdrions ainsi un centre naval important et des ressources métalliques, mais nous gagnerions l'industrie lituanienne, ou ce qu'il en reste, et nous pourrions revendiquer l'héritage de la Pologne-Lituanie."
+ r56.ger.24.d:0 "The government of Germany, having established possession of territory in Lithuania is offering a trade where we will receive most of Lithuania in exchange for the largely pro-German territories of Katowice and Gdynia. This move would see us lose a major naval hub and metal resources but would see us gain the Lithuanian industry or what is left of it, in addition to making us able to claim the heritage of Poland-Lithuania."
  r56.ger.24.a:0 "D'une pierre deux coups."
  r56.ger.24.b:0 "Les Lituaniens ont leur place dans leur propre pays."
-
- r56.ger.25.d:0 "Après l'assassinat d'Hitler et le déclin de sa popularité, la situation du gouvernement nazi s'est définitivement effondrée. Dans tout le pays, des éléments antinazis sont apparus, dans le noyau industriel et à travers la politique séparatiste de la Bavière, une nouvelle démocratie conservatrice s'est formée. Autour des bastions communistes, dont Berlin, les gens se sont également rebellés, les villes étant pour l'instant protégées par des gardiens nazis.\nC'est maintenant à nous de décider qui soutenir."
+ r56.ger.25.d:0 "After the assassination of Hitler and a decline in popularity, the situation of nazi government has now finally collapsed. Across the country anti-nazi elements have popped up, in the industrial core and through the separatist politics of Bavaria a new conservative democratic has been formed. Around communist strongholds including Berlin people have also rebelled, the cities themselves protected by nazi garrisons for now. \n Now it is up to us to decide who to support."
  r56.ger.25.a:0 "Se ranger du côté des conservateurs est l'option la plus sûre."
  r56.ger.25.b:0 "Les communistes apporteront un réel changement pour le peuple."
  GER_communists_are_pretty_hard_tt: "§RLes chances sont contre vous et gagner serait difficile.§!\n§YConseil : bien que vous puissiez vous concentrer sur les nazis et obtenir quelques États ou même les faire capituler, le camp conservateur vous battra probablement après. En assemblant une petite division mobile, vous pourrez peut-être faire irruption dans les villes cruciales des conservateurs pendant qu'ils combattent les nazis.§!"
-
-#Democratic anschluss, reuses most elements except image, description and Germany's answer
  r56.ger.26.d:0 "L'Autriche a voté par référendum en faveur d'une union avec l'Allemagne. L'absence d'une identité nationale forte et le sentiment général pro-allemand ont provoqué un changement majeur en Europe. Il faut voir comment les grandes puissances vont réagir à cette rupture démocratique du traité de Versailles."
  r56.ger.26.b:0 "J'adore la démocratie."
  r56.ger.27.t: "L'Allemagne propose un accord commercial"
@@ -778,3 +703,25 @@ GER_venezuela_friend_desc:0 "Les Vénézuéliens ont déjà montré de la sympat
  r56.ger.28.d: "Dans sa lutte contre la menace communiste, l'Allemagne est venue nous proposer une invasion conjointe de la Yougoslavie, elle est prête à nous laisser satisfaire nos revendications dans leur quête de renversement de leur gouvernement communiste."
  r56.ger.28.a: "Préparons les forces !"
  r56.ger.28.b: "Pas maintenant !"
+ r56.kill_hitler.3.b:0 "*Spits out tea*"
+ r56.kill_hitler.3.c:0 "*Spits out vodka*"
+ r56.kill_hitler.3.d:0 "*Spits out beer*"
+ r56.kill_hitler.3.e:0 "*Spits out slivovitz*"
+ r56.kill_hitler.3.f:0 "*Spits out pinard*"
+ r56.kill_hitler.3.g:0 "*Spits out whiskey*"
+ r56.kill_hitler.3.h:0 "*Spits out sake*"
+ r56.kill_hitler.3.i:0 "*Spits out snus*"
+ r56.kill_hitler.3.j:0 "*Spits out syrup*"
+ r56.kill_hitler.3.k:0 "*Spits out soda*"
+ r56.kill_hitler.3.l:0 "*Spits out tequila*"
+ r56.kill_hitler.3.m:0 "*Spits out inca kola*"
+ r56.kill_hitler.3.n:0 "*Spits out emu*"
+ r56.kill_hitler.3.o:0 "*Spits out jenever*"
+ GER_forts_unavailable: "§Rwill not have forts constructed since it is either demilitarized or not under our control.§!\n"
+ GER_colonies_for_support:0 "Colonies for Support"
+ GER_colonies_for_support_desc:0 "Especially the British might be willing to restore some of our colonial empire in exchange for our support in their current conflict, while these aren't their most worthy, it would mark a historical restoration."
+ GER_central_powers_tt:0 "§YAny non-aligned, historically allied nations will be invited to our faction.§!"
+ r56.ger.29.t: "[FROM.GetName] Requests Old Colonies for Support"
+ r56.ger.29.desc: "The reformed German nation has requested some minor historical holdings in exchange for their support in our current wars."
+ r56.ger.29.a: "That'd be helpful!"
+ r56.ger.29.b: "We don't need them."

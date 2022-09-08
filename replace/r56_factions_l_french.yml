@@ -2,7 +2,6 @@
  french_entente_alliance:0 "Entente française"
  alalc:0 "Alliance latine"
  anti_chiang:0 "Front anti-Kuomintang"
- austria_communist_faction:0 "Commission socialiste européenne"
  balkan_entente:0 "Entente des Balkans"
  balkan_federation:0 "Fédération des Balkans"
  baltic_entente:0 "Entente baltique"
@@ -31,19 +30,9 @@
  austria_communist_faction:0 "États socialistes d'Europe"
  austria_neutrality_faction:0 "Pacte de Vénétie"
  austro_hungarian_faction:0 "Traité de Schönbrunn"
-
  R56_FACTION_NAME_COMMUNIST_1:0 "Pacte $LEADER_COUNTRY_ADJ$"
  R56_FACTION_NAME_COMMUNIST_2:0 "Protocole $LEADER_COUNTRY_ADJ$"
  R56_FACTION_NAME_FASCIST_1:0 "Ligue $LEADER_COUNTRY_ADJ$"
  R56_FACTION_NAME_FASCIST_2:0 "Pacte $LEADER_COUNTRY_ADJ$"
  R56_FACTION_NAME_DEMOCRATIC_1:0 "Ligue $LEADER_COUNTRY_ADJ$"
  R56_FACTION_NAME_DEMOCRATIC_2:0 "Alliance $LEADER_COUNTRY_ADJ$"
-#capital doesn't work sadly
- #R56_FACTION_NAME_COMMUNIST_1:0 "Pacte de $CAPITAL$"
- #R56_FACTION_NAME_COMMUNIST_2:0 "Ligue révolutionnaire de $CAPITAL$"
- #R56_FACTION_NAME_FASCIST_1:0 "Pacte de $CAPITAL$"
- #R56_FACTION_NAME_DEMOCRATIC_1:0 "Ligue de défense de $CAPITAL$"
- #R56_FACTION_NAME_DEMOCRATIC_2:0 "Traité d'organisation de $CAPITAL$"
-#
-#GetRulingParty
-#GetRulingIdeology

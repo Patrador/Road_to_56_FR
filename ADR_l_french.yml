@@ -1,12 +1,6 @@
 ﻿l_french:
-
- #ideas
-
  ADR_spanish_refugees:0 "Réfugiés espagnols"
  ADR_tourist_industry:0 "Industrie du tourisme"
-
- #focuses
-
  ADR_continue_the_policy_of_neutrality:0 "Poursuivre la politique de neutralité"
  ADR_continue_the_policy_of_neutrality_desc:0 ""
  ADR_accept_spanish_refugees:0 "Accepter les réfugiés espagnols"
@@ -23,7 +17,6 @@
  ADR_accept_french_potectorate_desc:0 ""
  ADR_a_flexible_foreign_policy:0 "Politique étrangère flexible"
  ADR_a_flexible_foreign_policy_desc:0 ""
-
  ADR_reestablish_the_armed_forces:0 "Rétablir les forces armées"
  ADR_reestablish_the_armed_forces_desc:0 "Notre nation n'a pas eu de véritables forces armées pendant la quasi-totalité de son existence, mais avec les temps potentiellement difficiles qui nous attendent, il est peut-être temps de créer une armée permanente sous notre propre drapeau."
  ADR_reequip_the_military:0 "Équiper les militaires"
@@ -44,9 +37,6 @@
  ADR_la_vella_airport_desc:0 ""
  ADR_aviation_experiments:0 "Expériences aériennes"
  ADR_aviation_experiments_desc:0 ""
-
- #events
-
  andorra.1.t:0 "[ADR.GetNameDefCap] demande une garantie"
  andorra.1.d:0 "La guerre civile étant terminée, [ADR.GetNameDef] a une fois de plus demandé à utiliser la protection politique et militaire de leur nation, comme c'était le cas dans les années précédentes."
  andorra.1.a:0 "Nous serons toujours amis avec les [ADR.GetHabitants]."
@@ -57,3 +47,4 @@
  andorra.3.t:0 "L'Espagne refuse de rétablir leur garantie"
  andorra.3.d:0 "Le gouvernement espagnol a refusé de rétablir sa garantie de protection militaire sur notre nation, il est peut-être clair qu'il a d'autres plans."
  andorra.3.a:0 "Peut-être devrions-nous chercher ailleurs..."
+ ADR_become_catalonia:0 "Become Catalonia"

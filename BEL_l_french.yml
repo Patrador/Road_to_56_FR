@@ -1,15 +1,10 @@
 ﻿l_french:
-
  belgium_focus:0 "Priorités nationales belges"
  scw_over:0 "La guerre civile espagnole est terminée"
  BEL_neutrality_path_tt:0 "§RPour débloquer cette branche, prenez les priorités fascistes ou communistes et supprimez-les.§!"
-
  COG_italian_research_name:0 "Coopération scientifique italo-congolaise"
  COG_italian_research_desc:0 "Programme de développement conjoint visant à renforcer les liens qui unissent l'Afrique et l'Europe."
-
- recruit_dutch_generals_tooltip:0 "Tant que la décision est active, jusqu'à 3 généraux seront proposés pour rejoindre notre cause."
  recruit_generals_tooltip:0 "Tant que la décision est active, jusqu'à 3 généraux seront proposés pour rejoindre notre cause."
-
  BEL_communism_party:0 "PCB/PKB"
  BEL_communism_party_long:0 "Parti communiste de Belgique/Kommunistische Partij van België"
  BEL_democratic_party:0 "PCS/KVV - PL/LP - POB/BWP"
@@ -25,20 +20,13 @@
  FLAsocialist_catholic_coalition_party_long:0 "Vlaamsche Werkliedenpartij-Katholieke Partij"
  FLAcatholic_socialist_coalition_party:0 "KP-VWP"
  FLAcatholic_socialist_coalition_party_long:0 "Katholieke Partij-Vlaamsche Werkliedenpartij"
-
  BEL_charles_bastin:0 "Charles Bastin"
  BEL_jules_bastin:0 "Jules Bastin"
-
-  #decisions
  BEL_declaration_of_neutrality:0 "Déclaration de neutralité"
  BEL_declaration_of_neutrality_desc:0 "Pendant des décennies, la Belgique a été protégée par la France. Cela remonte à la révolution belge, lorsqu'un corps expéditionnaire français a contribué à repousser la contre-attaque néerlandaise de 1831 et à assurer l'indépendance des Pays-Bas méridionaux.\n\nDepuis la fin de la Grande Guerre, l'état-major [FRA.GetAdjMS] a établi des liens étroits avec l'armée [BEL.GetAdjFS] pour coordonner nos actions en cas de conflit. [FRA.GetNameDefCap] protège et garantit notre indépendance. Pour l'instant.\n\nD'un autre côté, une coopération militaire continue avec le gouvernement [FRA.GetAdjMS] constitue un risque pour la sécurité [BEL.GetAdjFS]. Elle pourrait entraîner le pays dans un nouveau conflit. Pour éviter une catastrophe semblable à la dévastation de l'offensive [GER.GetAdjFS] en 1914, nous devrions peut-être renoncer aux garanties [FRA.GetAdjFP] et communiquer notre décision à la Société des Nations."
-
  BEL_declaration_of_neutrality_dummy:0 "Déclaration de neutralité"
  BEL_declaration_of_neutrality_dummy_desc:0 "Pendant des décennies, la Belgique a été protégée par la France. Cela remonte à la révolution belge, lorsqu'un corps expéditionnaire français a contribué à repousser la contre-attaque néerlandaise de 1831 et à assurer l'indépendance des Pays-Bas méridionaux.\n\nDepuis la fin de la Grande Guerre, l'état-major [FRA.GetAdjMS] a établi des liens étroits avec l'armée [BEL.GetAdjFS] pour coordonner nos actions en cas de conflit. [FRA.GetNameDefCap] protège et garantit notre indépendance. Pour l'instant.\n\nD'un autre côté, une coopération militaire continue avec le gouvernement [FRA.GetAdjMS] constitue un risque pour la sécurité [BEL.GetAdjFS]. Elle pourrait entraîner le pays dans un nouveau conflit. Pour éviter une catastrophe semblable à la dévastation de l'offensive [GER.GetAdjFS] en 1914, nous devrions peut-être renoncer aux garanties [FRA.GetAdjFP] et communiquer notre décision à la Société des Nations."
-
-
  tblra_declared_neutrality:0 "A déclaré une neutralité totale."
-
  tblra_leopold3:0 "Léopold III"
  tblra_leopold3_desc:0 "Léopold III, roi des Belges, règne mais ne gouverne pas. Bien qu'il soit le commandant suprême de l'armée belge, le commandement effectif est assuré par le chef d'état-major."
  tblra_leopold3_captive:0 "Léopold III emprisonné"
@@ -46,8 +34,7 @@
  tblra_leopold3_exile:0 "Léopold III en exil"
  tblra_charles_regent:0 "Prince Régent Charles"
  tblra_charles_regent_desc:0 "Si le roi est dans l'incapacité de gouverner, son frère, le prince Charles, prendra sa place en tant que régent du royaume."
-
- BEL_Pierre_Daye:0 "Pierre Daye" #better choice than Theugels
+ BEL_Pierre_Daye:0 "Pierre Daye"
  BEL_Pierre_Daye_desc:0 "Pierre Daye était le chef du groupe rexiste au parlement belge. Il est également le seul rexiste à être considéré comme acceptable par le palais royal, alors que Degrelle est considéré comme un fauteur de troubles. Comme il avait une mauvaise opinion des autres représentants rexistes, il a quitté le mouvement avant le début de la guerre."
  BEL_Charles_Someville:0 "Charles Somville"
  BEL_edgar_lalmand:0 "Edgar Lalmand"
@@ -75,8 +62,8 @@
  BEL_julien_lahaut_desc:0 "Vétéran du « Corps expéditionnaire belge de voitures blindées en Russie », Julien Lahaut y rencontre des bolchéviques et adhère à leurs idées. Une fois en Belgique, il est un membre important du Parti communiste."
  BEL_achille_van_acker:0 "Achille Van Acker"
  BEL_achille_van_acker_desc:0 "Achille (Achiel) Van Acker était un homme politique socialiste qui est devenu Premier ministre en 1945."
- BEL_yvan_gerard:0"Ivan Gérard"
- BEL_yvan_gerard_desc:0"Ivan Gérard était un commandant de division dans l'armée belge. Il a réussi à replier ses troupes en relativement bon ordre compte tenu des circonstances."
+ BEL_yvan_gerard:0 "Ivan Gérard"
+ BEL_yvan_gerard_desc:0 "Ivan Gérard était un commandant de division dans l'armée belge. Il a réussi à replier ses troupes en relativement bon ordre compte tenu des circonstances."
  BEL_jean_de_lannoy:0 "Jean de Lannoy"
  BEL_jean_de_lannoy_desc:0 "Issu d'une ancienne famille noble, Jean de Lannoy est un vieux général qui réfléchit à la nature de la guerre moderne. Il a publié des articles dans lesquels il suggérait d'utiliser les chars comme une arme permettant des contre-attaques mortelles qui stopperaient l'avancée de l'ennemi. Même si, historiquement, la Belgique n'a jamais eu assez de chars pour effectuer le genre de manœuvres suggérées par ses articles, il est clair qu'il a préconisé l'utilisation de la guerre mobile en Belgique."
  BEL_henri_denis:0 "Henri Denis"
@@ -132,8 +119,6 @@
  BEL_auguste_lippens:0 "Auguste Lippens"
  BEL_auguste_lippens_desc:0 "Précédemment gouverneur général du Congo belge, Auguste Lippens propose en 1940 de former un nouveau gouvernement autour du roi."
  BEL_robert_de_foy:0 "Robert de Foy"
-
-
  FLA_auguste_baesens:0 "Auguste Baesens"
  FLA_auguste_baesens_desc:0 "Auguste Baesens était commandant d'artillerie du 2ème corps d'armée."
  FLA_alexis_vander_veken:0 "Alexis Vander Veken"
@@ -142,7 +127,6 @@
  FLA_Robert_Jan_Verbelen_desc:0 "Robert Jan Verbelen était un nationaliste flamand qui collaborait activement avec la Gestapo afin d'éliminer toute opposition dans la Belgique occupée. En tant que tel, il chassait les résistants, les communistes et toute autre personne qui pouvait se trouver sur son chemin. Il est à l'origine de l'assassinat du directeur de la Société générale, Alexandre Galopin. Après la guerre, il se réfugie en Autriche pour échapper à la justice et propose ses services aux Américains en tant que chasseur professionnel de communistes. C'est ainsi qu'il entame une nouvelle carrière d'agent de la CIA."
  FLA_jef_van_de_wiele:0 "Jef Van de Wiele"
  FLA_jef_van_de_wiele_desc:0 "Jef Van de Wiele était l'un des collaborateurs les plus enthousiastes de Belgique. Il était l'un des membres les plus en vue de « De Vlag » (le drapeau), une organisation qui ne visait rien de moins que l'annexion de la Flandre à l'Allemagne. Sans surprise, il était fortement soutenu par les Allemands, qui espéraient ainsi créer la Großdeutschland, réunissant tous les peuples d'origine germanique."
-
  FLA_Staf_De_Clercq:0 "Staf de Clercq"
  FLA_war_van_overstraeten:0 "War Van Overstraeten"
  FLA_Dr_August_Borms:0 "August Borms"
@@ -154,14 +138,12 @@
  FLA_Hendrik_Elias:0 "Hendrik Elias"
  FLA_camille_huysmans:0 "Camille Huysmans"
  FLA_jef_van_extergem:0 "Jef Van Extergem"
-
  WLL_auguste_buisseret:0 "Auguste Buisseret"
  WLL_georges_thone:0 "Georges Thone"
- WLL_arille_carlier:0"Arille Carlier"
+ WLL_arille_carlier:0 "Arille Carlier"
  WLL_Prosper_Theugels:0 "Prosper Theugels"
  WLL_fernand_rouleau:0 "Fernand Rouleau"
  WLL_Jules_Mahieu:0 "Jules Mahieu"
-
  COG_albert_decoster:0 "Albert Decoster"
  COG_albert_decoster_desc:0 "Albert Decoster était directeur du « Journal du Katanga », une publication qui reprenait avec une extrême fidélité et régularité le contenu des bulletins de guerre soviétiques. S'il s'agissait en partie d'une posture destinée à plaire aux syndicalistes de Jadotville, il avait clairement des sympathies de gauche."
  COG_pierre_cattier:0 "Pierre Cattier"
@@ -190,8 +172,8 @@
  COG_leopold_dronkers_martens_desc:0 "Léopold Dronkers-Martens était l'un des officiers les plus gradés de la campagne d'Abyssinie. Il a ensuite été envoyé au Moyen-Orient avec le corps congolais."
  COG_edmond_van_der_meersch:0 "Edmond Van der Meersch"
  COG_edmond_van_der_meersch_desc:0 "Edmond Van der Meersch est surtout connu pour son rôle dans les événements qui ont entouré l'indépendance du Congo en 1960, mais il était déjà un officier de haut rang dans la Force publique."
- COG_robert_mauroy:0"Robert Mauroy"
- COG_robert_mauroy_desc:0"Robert Mauroy était le chef d'état-major d'Emile Hennequin. Il était un candidat potentiel pour le commandement effectif des troupes mais Auguste-Edouard Gilliaert fut choisi à sa place."
+ COG_robert_mauroy:0 "Robert Mauroy"
+ COG_robert_mauroy_desc:0 "Robert Mauroy était le chef d'état-major d'Emile Hennequin. Il était un candidat potentiel pour le commandement effectif des troupes mais Auguste-Edouard Gilliaert fut choisi à sa place."
  COG_emile_hennequin:0 "Émile Hennequin"
  COG_emile_hennequin_desc:0 "Émile Hennequin commandait la Force publique avant le général Ermens. Il a supervisé les premières réformes de la Force publique qui ont conduit à son rééquipement après la réduction du budget causée par la grande dépression."
  COG_franz_burniaux:0 "Franz Burniaux"
@@ -205,7 +187,6 @@
  COG_m_dutron_desc:0 "M. Dutron est un syndicaliste qui a mené des grèves en 1940 à Jadotville avec M. Heynen. La différence entre les deux est qu'il prône une révolution communiste alors que Heynen souhaite une victoire allemande. Cela n'était pas contradictoire à l'époque en raison du pacte Molotov-Ribbentrop. En fin de compte, ils ont tous deux été envoyés en prison pour « discours défaitistes »."
  COG_m_dutron2:0 "M. Dutron"
  COG_m_dutron2_desc:0 "M. Dutron est un syndicaliste qui a mené des grèves en 1940 à Jadotville avec M. Heynen. La différence entre les deux est qu'il prône une révolution communiste alors que Heynen souhaite une victoire allemande. Cela n'était pas contradictoire à l'époque en raison du pacte Molotov-Ribbentrop. En fin de compte, ils ont tous deux été envoyés en prison pour « discours défaitistes »."
-
  COG_maurice_sluys:0 "Maurice Sluys"
  COG_maurice_sluys_desc:0 "Maurice Sluys était un ingénieur des mines qui a travaillé pour une société américaine en Yougoslavie avant de partir pour le Congo belge après l'invasion de la Belgique et de la Yougoslavie. Au Congo, il est devenu le chef de la « Direction de la production minière de guerre ». Il rentre ensuite en Belgique et enseigne la géologie à Liège. Vous remarquerez que la photo utilisée ici le montre dans les dernières étapes de sa vie, bien après qu'il ait quitté l'Afrique."
  COG_union_miniere:0 "Union minière du Haut Katanga"
@@ -213,7 +194,6 @@
  COG_idea_war_mining_production_directorate:0 "Direction de la production minière de guerre"
  COG_idea_war_mining_production_directorate2:0 "Direction de la production minière de guerre"
  COG_idea_war_mining_production_directorate3:0 "Direction de la production minière de guerre"
-
  tblra_linguistic_question_in_military:0 "Question linguistique militaire"
  tblra_linguistic_question_in_military_desc:0 "Depuis des années, le mouvement flamand veut diviser l'armée sur les bases linguistiques, arguant que les soldats flamands ne peuvent pas comprendre les ordres donnés en français."
  tblra_divide_the_military:0 "Réorganiser l'armée sur le plan linguistique"
@@ -268,7 +248,6 @@
  tblra_support_pcf_desc:0 "Le parti communiste de France est un élément important des forces antifascistes d'Europe. Nous devons les soutenir par tous les moyens disponibles."
  tblra_support_pcf2:0 "Soutenir la Commune de France"
  tblra_support_pcf2_desc:0 "Le parti communiste de France est un élément important des forces antifascistes d'Europe. Nous devons les soutenir par tous les moyens disponibles."
- tblra_communist_army:0 "Réorganisation politique de l'armée"
  tblra_communist_army_desc:0 "La souffrance individuelle est nécessaire à la gloire nationale. Dans un pays comme la Belgique, l'internationalisme doit commencer en interne avant de s'étendre au monde entier."
  tblra_sign_pact_with_soviets:0 "Un pacte avec les Soviétiques"
  tblra_sign_pact_with_soviets_desc:0 "Notre principale menace est l'Allemagne nazie. L'Union soviétique a proposé d'améliorer notre technologie de blindage pour rivaliser avec les Panzers allemands. Nous devons saisir cette opportunité à deux mains !"
@@ -303,11 +282,7 @@
  tblra_reinforce_antwerp_brussels_desc:0 "Le Brabant est au cœur de notre pays et c'est ici que se trouvent nos villes les plus importantes. Anvers était autrefois une forteresse clé et Bruxelles est le centre de notre nation. La fortification de ces deux régions les transformera en un rempart contre toute invasion ennemie. S'étendant du village de Koningshooikt à la ville de Wavre, la ligne sera équipée de fossés antichars, de bunkers et de pièges antichars Cointet."
  tblra_fortress_french_border:0 "Fortifier la frontière française"
  tblra_fortress_french_border_desc:0 "Les Français sont nos vrais ennemis et nous devons être prêts en cas de guerre."
-
-
-
  congo_focus:0 "Priorités nationales congolaises"
-
  tblra_Support_the_congo_railways:0 "Office des transports coloniaux"
  tblra_Support_the_congo_railways_desc:0 "Fondé en 1935, l'Office des transports coloniaux ou OTRACO était chargé du système ferroviaire du Congo belge."
  tblra_congo_rubber:0 "Étendre les plantations de caoutchouc"
@@ -352,8 +327,6 @@
  tblra_aa_guns_expertise_desc:0 "Afin d'assurer notre sécurité face à la menace d'attaques aériennes, nous devons produire davantage de batteries et protéger nos infrastructures les plus vitales avec des structures de défense aérienne."
  tblra_Renard_fighters:0 "Avions légers Renard"
  tblra_Renard_fighters_desc:0 "Pilote courageux pendant la grande guerre, Alfred Renard est devenu l'un des plus importants constructeurs d'avions belges. Historiquement, ses avions militaires étaient des échecs dus aux crashs des prototypes, mais avec quelques corrections, ils pouvaient devenir les meilleurs avions de chasse belges."
- tblra_SABCAs_bombers:0 "Bombardiers SABCA"
- tblra_SABCAs_bombers_desc:0 "En raison de la capacité industrielle italienne limitée, ils ont passé des contrats avec la SABCA, la « Société anonyme belge de construction aéronautique », afin de produire des avions italiens sous licence. En outre, la SABCA a également commencé à produire des avions lourds pour les Français et les Belges (pièces du Breguet 693) mais l'invasion a stoppé la production."
  tblra_Foreign_aviation_studies:0 "Étudier les tactiques étrangères"
  tblra_Foreign_aviation_studies_desc:0 "Grâce à l'étude et à l'octroi de licences pour des conceptions étrangères, nous pouvons identifier les défauts de nos avions et améliorer leur qualité."
  tblra_experimental_weaponry:0 "Soutenir les prototypes de la FN"
@@ -403,6 +376,8 @@
  tblra_daring_paratroopers:0 "Parachutistes téméraires"
  tblra_specialized_divisions:0 "Divisions spécialisées"
  tblra_specialized_divisions_desc:0 "Les évolutions militaires récentes montrent le besoin d'une infanterie spécialisée et dédiée à certains types de terrains."
+ tblra_resist_and_bite:0 "Resist and Bite"
+ tblra_resist_and_bite_desc:0 "Les chasseurs ardennais sont notre force d'élite et la plus apte à nous défendre contre une invasion venant de l'est."
  tblra_daring_paratroopers_desc:0 "Les évolutions militaires récentes montrent la nécessité d'une infanterie spécialisée. Avec l'importance accrue de l'aviation dans la pensée militaire moderne, il est peut-être temps pour la Belgique de disposer de son propre corps de parachutistes. Si, par le passé, il pleuvait des cordes et des hallebardes en Belgique, il pleuvra désormais des soldats !"
  tblra_aerial_support:0 "Appui aérien au sol"
  tblra_aerial_support_desc:0 "Le développement de nouveaux avions capables de soutenir nos troupes leur donnera un avantage au combat."
@@ -464,7 +439,7 @@
  tblra_armed_neutrality_idea:0 "Neutralité armée"
  tblra_coalition_vs_fascism:0 "Union contre le fascisme"
  tblra_why_we_fight:0 "La défense de la liberté"
- tblra_why_we_fight_desc:0 "Voor Vorst, voor Vrijheid en voor Recht - Pour le Roi, la Loi, la Liberté!"
+ tblra_why_we_fight_desc:0 "Voor Vorst, voor Vrijheid en voor Recht - Pour le Roi, la Loi, la Liberté !"
  BEL_exiled_intelligence_service:0 "Service de renseignement en exil"
  BEL_exiled_intelligence_service_desc:0 "La lutte pour la libération des patries se poursuit dans l'ombre."
  tblra_launch_V_campaign:0 "Lancer la campagne V"
@@ -499,7 +474,6 @@
  tblra_restore_constitution:0 "Rétablir la Constitution"
  tblra_restore_constitution_desc:0 "Après une série de troubles comparables au Déluge de Noé, la colombe de la paix est enfin revenue dans l'arche de la patrie. Alors que les nuages se dissipent à l'horizon, il est peut-être temps de s'effacer et de rétablir la constitution, arc-en-ciel entre le gouvernement et les citoyens. Avec la restauration de l'état de droit, le pouvoir est revenu aux mains d'un gouvernement civil."
  tblra_aa_expertise:0 "Expertise en armes antiaériennes"
-
  tblra_national_union:0 "Union politique en temps de guerre"
  tblra_national_union_desc:0 "En raison de la guerre, un nouveau gouvernement de coalition a été établi afin d'unir les partis démocratiques contre la menace étrangère."
  tblra_peacetime_national_union:0 "Gouvernement d'union nationale"
@@ -539,7 +513,7 @@
  tblra_military_linguistical_weaknesses_desc:0 "Même après la division linguistique de l'armée, des faiblesses sont encore apparentes : il y a un manque persistant d'officiers de langue flamande (au point qu'il faut convaincre certains d'entre eux de changer leur langue de prédilection) et l'enracinement local de chaque division fait qu'elles ont parfois des difficultés à opérer en dehors de leurs zones habituelles d'entraînement et d'opération."
  tblra_buy_back_the_railway_gun:0 "Racheter le canon ferroviaire"
  tblra_buy_back_the_railway_gun_desc:0 "En 1924, nous avons vendu notre canon ferroviaire à la France. Il est peut-être temps de le racheter."
-
+ tblra_supplementary_payments:0 "Paiements supplémentaires"
  tblra.1.t:0 "[From.GetNameDefCap] souhaite que nous rejoignions le Benelux"
  tblra.1.d:0 "Une société de radiodiffusion nationale [From.GetDuDelaDelNP] [From.GetName] a officiellement annoncé il y a quelques heures que son gouvernement cherche à renforcer les liens économiques et commerciaux entre nos deux pays. « L'Union douanière du Benelux est un outil puissant pour le commerce et les échanges scientifiques, mais elle ne peut pas protéger la population locale de toute source d'agression, si celle-ci devait apparaître aux frontières de nos pays ».\n\nLe discours de [From.GetLeader] soulève de sérieuses inquiétudes quant au statut de la région du Benelux, alors que les tensions européennes s'accroissent et que le climat politique change en défaveur des pays démocratiques.\n\nL'adhésion à une alliance nous aidera certainement à préserver notre statut de nation indépendante, mais elle pourrait nous aliéner certains de nos voisins.\n\nDevons-nous entrer dans l'alliance formelle avec [From.GetNameDef] ?"
  tblra.1.a:0 "Ce n'est que de cette manière que nous pourrons préserver notre indépendance."
@@ -583,7 +557,7 @@
  tblra.13.d:0 "[From.Getleader] a accepté de coopérer avec nous pour réduire les coûts et nous aligner davantage les uns sur les autres."
  tblra.13.a:0 "C'est bon à entendre."
  tblra.14.t:0 "Le gouvernement [From.GetAdjMS] refuse"
- tblra.14.d:0 "Malheureusement, [From.GetNameDef] a refusé notre offre, car elle « nierait sa souveraineté »".
+ tblra.14.d:0 "Malheureusement, [From.GetNameDef] a refusé notre offre, car elle « nierait sa souveraineté »"
  tblra.14.a:0 "Un triste jour pour le Benelux."
  tblra.15.t:0 "Tout le monde accepte la proposition économique"
  tblra.15.d:0 "Tout le Benelux a accepté notre proposition économique, et à l'avenir, nous ne ferons que nous rapprocher."
@@ -670,7 +644,6 @@
  tblra.59.t:0 "Arrestation de Julien Lahaut"
  tblra.59.d:0 "Le dirigeant du Parti communiste belge a été arrêté par les forces allemandes et mis en détention dans le fort de Breendonck."
  tblra.59.a:0 "Une victime de plus du fascisme."
-
  tblra.60.t:0 "Assassinat d'Alexandre Galopin"
  tblra.60.d:0 "Le directeur de la Société Générale de Belgique, l'une des plus grandes entreprises belges qui jouait également un rôle important dans l'économie du pays sous occupation, a été assassiné aujourd'hui par les fascistes flamands du groupe « De Vlag » (« le drapeau »). L'assassinat a été organisé par l'un de ses membres les plus importants : Robert Jan Verbelen."
  tblra.60.a:0 "Une autre victime du fascisme."
@@ -700,8 +673,6 @@
  tblra.67.d:0 "Le Congo belge a collecté des fonds afin de financer la construction de chasseurs supplémentaires pour les pilotes belges en service dans la RAF."
  tblra.67.a:0 "Unis, nous vaincrons !"
  tblra.67.b:0 "Ce n'est qu'unis que nous pouvons gagner !"
-
-
  tblra.70.t:0 "Le début de la campagne V"
  tblra.70.d:0 "Lors d'une émission de Radio Belgique, le segment de l'antenne de Radio Belgique consacré au peuple belge, Victor de Laveleye a annoncé que toute personne mécontente de l'occupation devrait choisir la lettre V comme symbole de résistance. Cette lettre a été choisie parce qu'elle est la première lettre de Victoire et de Vrijheid (Liberté), un symbole d'union pour tous les Belges libres. Les Britanniques pourraient être intéressés à l'utiliser afin de promouvoir les activités des partisans à travers l'Europe."
  tblra.70.a:0 "V comme Victoire !"
@@ -808,7 +779,7 @@
  tblra.98.t:0 "Les négociations tripartites du Benelux ont échoué !"
  tblra.98.d:0 "\nLe ministre belge des affaires étrangères a annoncé aujourd'hui que la commission tripartite qui était censée jeter les bases d'un accord de défense mutuelle entre la Belgique, les Pays-Bas et le Luxembourg a échoué, les différentes délégations n'étant pas parvenues à se mettre d'accord sur une stratégie commune. La coopération militaire semblant désormais impossible, les trois pays devront probablement compter sur eux-mêmes dans un avenir proche et pourraient chercher de nouveaux partenaires."
  tblra.98.a:0 "C'était leur faute de toute façon."
-
+ tblra.98.b:0 "Est-ce vraiment si important ?"
  tblra.101.t:0 "Compétition de chasseurs"
  tblra.101.desc:0 "Une étude récente du combat aérien moderne a révélé une faiblesse critique de notre force aérienne. Nos chasseurs sont très en retard sur les développements dans les autres pays. Le ministère de l'Air a lancé un programme d'urgence pour acquérir un chasseur moderne dès que possible. Comme le développement national prendrait un temps inacceptable, il a été décidé d'acheter une licence à l'étranger. Un budget supplémentaire a été autorisé.\n\nLes experts ne sont pas d'accord sur le type d'avion qui serait le mieux adapté pour moderniser nos avions de chasse."
  tblra.101.a:0 "Un intercepteur léger qui sera construit par Avions Fairey"
@@ -841,8 +812,6 @@
  tblra.106.t:0 "Compétition de chasseurs terminée"
  tblra.106.desc:0 "Après des négociations avec le fabricant et les représentants de l'État, nous avons réussi à obtenir une licence de production pour un nouveau chasseur. Un exemplaire de l'avion est déjà arrivé pour former les mécaniciens à sa maintenance, et un ensemble complet de dessins et de plans est attendu sous peu. La production peut commencer à tout moment."
  tblra.106.a:0 "Parfait."
-
-
  tblra.107.t:0 "Compétition de bombardiers"
  tblra.107.desc:0 "Une étude du ministère de l'Air a révélé que nos forces aériennes sont mal équipées pour soutenir l'armée. Les frappes aériennes à longue portée et le soutien aérien rapproché ont tous deux été identifiés comme des domaines clés dans lesquels nous sommes gravement déficients. Le gouvernement a débloqué des fonds pour un programme d'urgence visant à acquérir un bombardier moderne, mais nous devons prendre une décision sur l'avion à acquérir."
  tblra.107.a:0 "Un petit bombardier pour l'appui rapproché."
@@ -868,7 +837,6 @@
  tblra.110.desc:0 "L'armée de l'air [From.GetAdjFS] organise actuellement des essais pour un nouveau bombardier léger. Selon notre attaché de l'air, notre tout nouveau modèle est prêt à gagner. Une demande officielle du gouvernement [From.GetAdjMS] est attendue sous peu.\n\nLes représentants du fabricant sont très favorables à la vente, mais la vente de notre équipement le plus moderne à un pays étranger pose des problèmes de sécurité nationale. Devrions-nous autoriser la vente ?"
  tblra.110.a:0 "Montrons-leur nos modèles."
  tblra.110.b:0 "Nous n'avons aucun intérêt dans cette affaire."
-
  tblra.111.t:0 "Compétition [From.GetAdjFS] de bombardiers"
  tblra.111.desc:0 "L'armée de l'air [From.GetAdjFS] organise actuellement des essais pour un nouveau bombardier moyen. Selon notre attaché de l'air, notre tout nouveau modèle est prêt à gagner. Une demande officielle du gouvernement [From.GetAdjMS] est attendue sous peu.\n\nLes représentants du fabricant sont très favorables à la vente, mais la vente de notre équipement le plus moderne à un pays étranger pose des problèmes de sécurité nationale. Devrions-nous autoriser la vente ?"
  tblra.111.a:0 "Montrons-leur nos modèles."
@@ -883,7 +851,6 @@
  tblra.114.t:0 "Les Italiens ont accepté notre accord de développement conjoint"
  tblra.114.desc:0 "Le gouvernement italien a autorisé la collaboration entre la SABCA et Caproni afin de construire un nouvel avion pour l'armée belge."
  tblra.114.a:0 "C'est une bonne nouvelle."
-
  tblra.117.t:0 "La Belgique renonce à la protection française"
  tblra.117.desc:0 "Après un débat animé, le gouvernement belge a décidé d'appliquer pour l'instant une position de stricte neutralité et de protéger toutes les frontières de manière égale. Cette décision a été prise en partie en raison du soutien des nationalistes flamands qui considéraient ces garanties et l'influence française sur l'armée comme une implication scandaleuse d'un gouvernement étranger dans nos affaires intérieures."
  tblra.117.a:0 "C'est leur décision."
@@ -988,7 +955,6 @@
  tblra.145.t:0 "La dernière partie des armes promises a été livrée."
  tblra.145.desc:0 "La dernière portion des armes à feu promises par le gouvernement belge vient d'arriver à Matadi."
  tblra.145.a:0 "C'est bien qu'ils aient tenu parole."
-
  tblra.146.t:0 "La Belgique déclare l'état d'urgence"
  tblra.146.desc:0 "Afin de faire face à la menace croissante des politiciens radicaux, le roi des Belges Léopold III a décidé de mobiliser l'armée. Aussi surprenant que cela puisse paraître, les rumeurs disent que cette décision radicale a été favorisée par les pressions britanniques sur le pays. La loi martiale est maintenant promulguée en Belgique, la répression a commencé sur les politiciens fascistes et les sympathisants. Néanmoins, un bon nombre d'entre eux, plus royalistes que fascistes, reconnaissent que leurs opinions étaient à courte vue et se rangent derrière le roi.\n\nPendant ce temps, les partis démocratiques sont divisés sur ce développement. Si beaucoup sont soulagés par l'écrasement des ennemis de l'État, d'autres craignent que les pouvoirs d'urgence ne soient prolongés et que les institutions démocratiques ne deviennent obsolètes."
  tblra.146.a:0 "Intéressant."
@@ -1011,59 +977,47 @@
  tblra.151.desc:0 "Le parlement britannique a approuvé le projet d'une intervention en Belgique. Par conséquent, la possibilité d'une invasion devient chaque jour plus réelle. Comme ils semblent sourds à nos supplications diplomatiques pour éviter un nouveau conflit européen, nous sommes effectivement coincés entre les discours politiques anti-démocratiques et la possibilité d'un débarquement britannique. Afin de sortir de cette situation qui semble inextricable, le roi rencontre le gouvernement et le chef d'état-major général pour discuter d'un plan d'action radical qui montrerait aux Britanniques notre détermination à lutter contre les fascistes et les communistes dans l'espoir d'éviter une guerre inutile."
  tblra.151.a:0 "Exécutez le plan. Déclarez la loi martiale."
  tblra.151.b:0 "C'est trop dangereux."
-
  tblra.152.t:0 "La loi martiale prend effet"
  tblra.152.desc:0 "Comme l'indique le long et grave discours diffusé par les radios belges, la loi martiale est désormais effectivement promulguée dans le pays. Des divisions sont mobilisées et envoyées aux endroits stratégiques tandis que le roi commande toute l'opération depuis le haut commandement militaire dans le fort de Breendonck. Les sièges de Rex, du VNV, des partis communistes belges et d'autres organisations affiliées à l'extrême gauche et à l'extrême droite sont actuellement fouillés par les forces de police appuyées par des militaires.\n\nLe roi contrôle désormais efficacement le pays, prêt à sauvegarder son indépendance tout en protégeant son propre trône."
  tblra.152.a:0 "Une frappe au cœur de nos ennemis."
-
  tblra.153.t:0 "La pilarisation réapparaît."
  tblra.153.desc:0 "Avec le retour d'une politique démocratique fonctionnelle, il semble que la société se réorganise contre les lignes de parti. Par conséquent, on s'attend à ce que, d'une manière ou d'une autre, la pilarisation façonne à nouveau la structure de la société."
  tblra.153.a:0 "La société que nous connaissons et aimons revient."
- #maybe add unique text for tblra.155
  tblra.156.t:0 "La fin de la Belgique"
  tblra.156.desc:0 "En raison de la perte de la moitié des territoires historiques du pays, la division de la population entre Flamands et Wallons a soudainement disparu. Le gouvernement doit donc tenir compte de ce changement et reconnaître que les institutions de l'État belge ne sont plus représentatives."
  tblra.156.a:0 "Une évolution logique."
  tblra.156.b:0 "Une évolution logique."
  tblra.156.c:0 "Une évolution logique."
  tblra.156.d:0 "Une évolution logique."
-
  tblra.157.t:0 "La fin de la Belgique"
  tblra.157.desc:0 "En raison de la perte de la moitié des territoires historiques du pays, la division de la population entre Flamands et Wallons a soudainement disparu. Le gouvernement doit donc tenir compte de ce changement et reconnaître que les institutions de l'État belge ne sont plus représentatives."
  tblra.157.a:0 "Une évolution logique."
  tblra.157.b:0 "Une évolution logique."
  tblra.157.c:0 "Une évolution logique."
  tblra.157.d:0 "Une évolution logique."
-
  tblra.158.t:0 "L'ascension du lion flamand"
  tblra.158.desc:0 "En raison de la perte du territoire wallon, l'ancien gouvernement belge s'est effondré. En raison de la rupture de l'équilibre linguistique (favorisant la population francophone) par rapport à la majorité désormais écrasante des citoyens flamands, le pays a décidé de se reconstruire sous le nom de Flandre. Les dirigeants nationalistes flamands ont qualifié ce jour de deuxième plus grand jour de la Flandre depuis la bataille des éperons d'or de 1302."
  tblra.158.a:0 "Intéressant."
-
  tblra.159.t:0 "Le Congrès wallon déclare la Réforme de la Belgique"
  tblra.159.desc:0 "\n\nAvec la perte des territoires flamands, dont son ancienne capitale Bruxelles, le gouvernement belge est en plein désarroi. Afin de s'adapter aux nouvelles réalités politiques, un congrès wallon a été réuni à Liège afin de jeter les bases d'un État wallon."
  tblra.159.a:0 "Intéressant."
-
  tblra.161.t:0 "Les jeux de pouvoir au Congo"
  tblra.161.desc:0 "Avec l'influence d'un autre pays communiste, un débat a émergé sur la direction du mouvement communiste au Congo. Albert Decoster est considéré par certains comme illégitime en raison de ses origines européennes et d'autres préfèrent voir un Africain à la tête d'un pays africain, même s'il ne s'agit que d'une figure de proue."
  tblra.161.a:0 "L'Afrique doit être dirigée par des Africains."
  tblra.161.b:0 "Qu'il reste au gouvernement."
  tblra.161.c:0 "Qu'il reste au pouvoir."
-
  tblra.164.t:0 "Rapport du ministère des Colonies pour 1935"
  tblra.164.desc:0 "Nous sommes assez satisfaits du travail de Pierre Ryckmans au Congo, car il applique assez bien la charte coloniale, même si quelques abus ont été signalés ici et là.\nL'économie s'améliore, et la situation des indigènes s'est considérablement améliorée depuis 1909. De plus, la production minière et l'extraction du caoutchouc apportent des revenus substantiels. Néanmoins, notre équipement minier devient obsolète, ce qui pourrait menacer l'efficacité économique de la colonie à l'avenir.\nEn ce qui concerne la Force publique, elle est presque totalement désorganisée. Les soldats sont presque entièrement équipés de fusils complètement obsolètes tandis que les officiers sont démotivés. Par conséquent, seules les opérations de sécurité les plus élémentaires peuvent être effectuées pour le moment.\n\nEntre-temps, la Société des Nations a approuvé le rapport d'Eugéne Jungers sur son travail dans les colonies sous mandat du Ruanda et de l'Urundi. La surveillance des royaumes de Mutara III au Ruanda et de Mwambutsa IV en Urundi devrait donc se poursuivre sans incidents. En conséquence, nous ne voyons actuellement aucun besoin de remplacer l'administration civile, mais une révision urgente de notre force de sécurité est nécessaire."
  tblra.164.a:0 "Nous avons beaucoup à faire !"
-
  tblra.165.t:0 "Le canal Albert est terminé"
  tblra.165.desc:0 "Après une décennie de travaux, le canal Albert est enfin inauguré."
  tblra.165.a:0 "Un accomplissement magnifique."
-
  tblra.166.t:0 "Le chantier du canal Albert a été interrompu"
  tblra.166.desc:0 "En raison de la guerre, le chantier du canal Albert a été arrêté juste avant son achèvement."
  tblra.166.a:0 "Nous allons gagner la guerre, restaurer la paix et le terminer."
-
  tblra.167.t:0 "L'aide technique promise par Bruxelles"
  tblra.167.desc:0 "Alors que nous demandions de nouveaux fusils, le gouvernement a envoyé une aide technique à la place."
  tblra.167.a:0 "C'est mieux que rien."
-
  tblra.news.1.t:0 "Le gouvernement néerlandais se soumet aux demandes des Belges !"
  tblra.news.1.d:0 "\n\nLe gouvernement néerlandais accepte les termes de l'ultimatum belge, les ouvrant à une forte influence communiste."
  tblra.news.1.a:0 "Bonne nouvelle !"
@@ -1092,23 +1046,18 @@
  tblra.news.44.a:0 "Aujourd'hui, un peuple impérial s'est enfin réveillé !"
  tblra.news.44.b:0 "Après le pays qui n'existe pas, l'empire qui n'existe pas !"
  tblra.news.44.c:0 "Nous allons devoir changer nos cartes."
-
  tblra_factory_strikes:0 "Grèves dans les usines"
  tblra_1936_election:0 "Début de la campagne pour les élections législatives de 1936"
-
  experimental_light_aircraft_manufacturer:0 "Concepteur de chasseurs expérimentaux"
  mining_engineer:0 "Ingénieur en exploitation minière"
-
  BEL_trick_germans_good:0 "Neutralité avérée"
  BEL_trick_germans_bad:0 "Défenses contre le Royaume-Uni"
-
  tblra_benelux_economic_cooperation:0 "Union douanière du Benelux"
  tblra_benelux_economic_cooperation_desc:0 "Même si nous sommes aujourd'hui trois pays, nous formons une zone spécifique entre la France et l'Allemagne. Ni français, ni allemands, nous pourrions créer une union douanière afin d'augmenter les échanges et de concurrencer plus facilement nos puissants voisins."
  tblra_economic_cooperation_within_benelux:0 "Initiative économique - Pays-Bas"
  tblra_economic_cooperation_within_benelux2:0 "Initiative économique - Belgique"
  tblra_economic_cooperation_within_benelux3:0 "Initiative économique - Luxembourg"
  tblra_economic_cooperation_within_benelux4:0 "Initiative économique - Benelux"
-
  benelux_faction:0 "Benelux"
  fn_herstol:0 "Fabrique nationale d'armes de guerre"
  fn_trucks:0 "FN Brossel Miesse"
@@ -1123,7 +1072,7 @@
  Stampe_Vertongen:0 "Stampe & Vertongen"
  brossel:0 "Brossel"
  BEL_miesse:0 "Miesse"
- BEL_miesse_tank:0 "Miesse Tanks"
+ BEL_miesse_tank:0 "Chars Miesse"
  BEL_familleureux:0 "Familleureux"
  BEL_chrysler:0 "Chrysler Antwerp"
  BEL_mae:0 "Manufacture d'armes de l'État"
@@ -1133,20 +1082,15 @@
  WLL_ACEC:0 "Ateliers de constructions électriques de Charleroi"
  BEL_petrofina:0 "Petrofina"
  BEL_CBDCDL:0 "Consortium belge de constructeurs de locomotives"
-
  tblra_GER_attack_eben_emael:0 "Attaquer le Fort d'Ében-Émael"
-
  BEL_motorized_equipment_1:0 "Brossel TAL"
-
-
-#Belgian tanks
  BEL_gw_tank_equipment:0 "Renault FT"
  BEL_gw_tank_equipment_short:0 "FT"
  BEL_light_tank_equipment_1:0 "Carden-Loyd Mk.VI"
  BEL_light_tank_equipment_1_short:0 "Carden-Loyd Mk.VI"
  BEL_light_tank_destroyer_equipment_1:0 "T-13 B1"
  BEL_light_tank_destroyer_equipment_1_short:0 "T-13 B1"
- BEL_light_tank_destroyer_equipment_1_desc:0 "This tankette was the first attempt at a Belgian tank destroyer. A British Carden-Loyd Mk.VI tankette equipped with the F.R.C. 47mm AT gun."
+ BEL_light_tank_destroyer_equipment_1_desc:0 "Cette tankette était la première tentative d'un chasseur de chars belge. Une tankette britannique Carden-Loyd Mk.VI équipée du canon F.R.C. 47mm AT."
  BEL_light_tank_aa_equipment_1:0 "T-13 AA"
  BEL_light_tank_aa_equipment_1_short:0 "T-13 AA"
  BEL_light_tank_artillery_equipment_1:0 "T-13 F.R.C. 76mm"
@@ -1158,14 +1102,14 @@
  BEL_light_tank_destroyer_equipment_2_desc:0 "The T-13 B1, B2 and B3 were equipped with the 1931 47mm AT gun were the main tank destroyer of the Belgian army in 1940."
  BEL_light_tank_aa_equipment_2:0 "T-15 AA"
  BEL_light_tank_aa_equipment_2_short:0 "T-15 AA"
- BEL_light_tank_artillery_equipment_2:0 "T-15 Artillery"
- BEL_light_tank_artillery_equipment_2_short:0 "T-15 Art."
- BEL_medium_tank_equipment_1:1 "Automitrailleuse de Combat ACG-1"
+ BEL_light_tank_artillery_equipment_2:0 "Artillerie T-15"
+ BEL_light_tank_artillery_equipment_2_short:0 "Art. T-15"
+ BEL_medium_tank_equipment_1:1 "Automitrailleuse de combat ACG-1"
  BEL_medium_tank_equipment_1_short:1 "ACG-1"
- BEL_medium_tank_destroyer_equipment_1:1 "Automitrailleuse Anti-char ACG-2"
+ BEL_medium_tank_destroyer_equipment_1:1 "Automitrailleuse antichar ACG-2"
  BEL_medium_tank_destroyer_equipment_1_short:1 "ACG-2"
  BEL_medium_tank_destroyer_equipment_1_desc:1 "The ACG-2 is a tank destroyer prototype based on the ACG-1 As such it would have been a logical extension of the acquisition of the ACG-1 by the Belgians. Even its silhouette is not known with precision because we only have one photo of the prototype and the original plans are lost. The name Automitrailleuse Anti-char is a speculative name based on the Belgian name of the ACG-1."
- BEL_medium_tank_artillery_equipment_1:0 "Automitrailleuse de Support ACG-3"
+ BEL_medium_tank_artillery_equipment_1:0 "Automitrailleuse de support ACG-3"
  BEL_medium_tank_artillery_equipment_1_short:0 "ACG-3"
  BEL_medium_tank_artillery_equipment_1_desc:0 "The ACG-3 is an imaginary redesign of the ACG-2 that would have been made by opening the top of the hull, reducing the thickness of the armor and replacing the anti-tank gun by a standard artillery piece."
  BEL_medium_tank_artillery_equipment_2:0 "Tracteur d'artillerie de 155mm M40 "
@@ -1176,7 +1120,6 @@
  BEL_medium_tank_destroyer_equipment_2_short:0 "M18"
  BEL_modern_tank_equipment_1:0 "M46 Patton"
  BEL_modern_tank_equipment_1_short:0 "Patton"
-#Added
  BEL_light_tank_equipment_3:0 "Valentine"
  BEL_light_tank_equipment_3_short:0 "Valentine"
  BEL_light_tank_artillery_equipment_3_short:0 "Bishop"
@@ -1195,11 +1138,11 @@
  BEL_heavy_tank_equipment_1_short:0 "B1"
  BEL_heavy_tank_artillery_equipment_1:0 "Gun Carrier Mk. I"
  BEL_heavy_tank_artillery_equipment_1_short:0 "Gun Carrier Mk. I"
- BEL_heavy_tank_equipment_2:0 "M6A1 Heavy Tank"
+ BEL_heavy_tank_equipment_2:0 "Char lourd M6A1"
  BEL_heavy_tank_equipment_2_short:0 "M6A1"
  BEL_heavy_tank_artillery_equipment_2:0 "Churchill AVRE"
  BEL_heavy_tank_artillery_equipment_2_short:0 "Churchill AVRE"
- BEL_heavy_tank_equipment_3:0 "M26 pershing" #based on interest for Patton tanks later
+ BEL_heavy_tank_equipment_3:0 "M26 pershing"
  BEL_heavy_tank_equipment_3_short:0 "Pershing"
  BEL_heavy_tank_artillery_equipment_3:0 "T92 Howitzer Motor Carriage"
  BEL_heavy_tank_artillery_equipment_3_short:0 "T92 HMC"
@@ -1217,15 +1160,13 @@
  BEL_anti_air_equipment_1_short:0 "Bofors 40 mm"
  BEL_anti_air_equipment_2:0 "75 mm Bourges/FRC Mle 1936"
  BEL_anti_air_equipment_2_short:0 "75 mm FRC Mle 1936"
-
- #Flemish tanks
  FLA_gw_tank_equipment:0 "Renault FT"
  FLA_gw_tank_equipment_short:0 "FT"
  FLA_light_tank_equipment_1:0 "Carden-Loyd Mk.VI"
  FLA_light_tank_equipment_1_short:0 "Carden-Loyd Mk.VI"
  FLA_light_tank_destroyer_equipment_1:0 "T-13 B1 Antitankvoertuig"
  FLA_light_tank_destroyer_equipment_1_short:0 "T-13 B1"
- FLA_light_tank_destroyer_equipment_1_desc:0 "This tankette was the first attempt at a Belgian tank destroyer. A British Carden-Loyd Mk.VI tankette equipped with the F.R.C. 47mm AT gun."
+ FLA_light_tank_destroyer_equipment_1_desc:0 "Cette tankette était la première tentative d'un chasseur de chars belge. Une tankette britannique Carden-Loyd Mk.VI équipée du canon F.R.C. 47mm AT."
  FLA_light_tank_aa_equipment_1:0 "T-13 AA"
  FLA_light_tank_aa_equipment_1_short:0 "T-13 AA"
  FLA_light_tank_artillery_equipment_1:0 "T-13 F.R.C. 76mm"
@@ -1237,8 +1178,8 @@
  FLA_light_tank_destroyer_equipment_2_desc:0 "The T-13 B1, B2 and B3 were equipped with the 1931 47mm AT gun were the main tank destroyer of the Belgian army in 1940."
  FLA_light_tank_aa_equipment_2:0 "T-15 AA"
  FLA_light_tank_aa_equipment_2_short:0 "T-15 AA"
- FLA_light_tank_artillery_equipment_2:0 "T-15 Artillery"
- FLA_light_tank_artillery_equipment_2_short:0 "T-15 Art."
+ FLA_light_tank_artillery_equipment_2:0 "Artillerie T-15"
+ FLA_light_tank_artillery_equipment_2_short:0 "Art. T-15"
  FLA_medium_tank_equipment_1:1 "Gevecht Pantserwagen ACG-1"
  FLA_medium_tank_equipment_1_short:1 "ACG-1"
  FLA_medium_tank_destroyer_equipment_1:1 "Tankjager ACG-2"
@@ -1255,7 +1196,6 @@
  FLA_medium_tank_destroyer_equipment_2_short:0 "M18"
  FLA_modern_tank_equipment_1:0 "M46 Patton"
  FLA_modern_tank_equipment_1_short:0 "Patton"
-#Added
  FLA_light_tank_equipment_3:0 "Valentine"
  FLA_light_tank_equipment_3_short:0 "Valentine"
  FLA_light_tank_artillery_equipment_3_short:0 "Bishop"
@@ -1274,18 +1214,16 @@
  FLA_heavy_tank_equipment_1_short:0 "B1"
  FLA_heavy_tank_artillery_equipment_1:0 "Gun Carrier Mk. I"
  FLA_heavy_tank_artillery_equipment_1_short:0 "Gun Carrier Mk. I"
- FLA_heavy_tank_equipment_2:0 "M6A1 Heavy Tank"
+ FLA_heavy_tank_equipment_2:0 "Char lourd M6A1"
  FLA_heavy_tank_equipment_2_short:0 "M6A1"
  FLA_heavy_tank_artillery_equipment_2:0 "Churchill AVRE"
  FLA_heavy_tank_artillery_equipment_2_short:0 "Churchill AVRE"
- FLA_heavy_tank_equipment_3:0 "M26 Pershing" #based on interest for Patton tanks later
+ FLA_heavy_tank_equipment_3:0 "M26 Pershing"
  FLA_heavy_tank_equipment_3_short:0 "Pershing"
  FLA_heavy_tank_artillery_equipment_3:0 "T92 Howitzer Motor Carriage"
  FLA_heavy_tank_artillery_equipment_3_short:0 "T92 HMC"
  FLA_super_heavy_tank_equipment_1:0 "Tortoise"
  FLA_super_heavy_tank_equipment_1_short:0 "Tortoise"
-
-
  FLA_anti_tank_equipment_1:0 "47mm Pantserafweerkanon"
  FLA_anti_tank_equipment_1_short:0 "PaK.47 F.R.C. Mod.31"
  FLA_anti_tank_equipment_1_desc:0 "The 47mm canon of 1931 was produced by the 'Fonderie Royale de Canons' and had an excellent reputation, it served as the base for the T-13 tank destroyer."
@@ -1300,15 +1238,13 @@
  FLA_anti_air_equipment_1_short:0 "Bofors 40 mm"
  FLA_anti_air_equipment_2:0 "75 mm Bourges/FRC Mel 1936"
  FLA_anti_air_equipment_2_short:0 "75 mm FRC Mel 1936"
-
- #walloon tanks
  WLL_gw_tank_equipment:0 "Renault FT"
  WLL_gw_tank_equipment_short:0 "FT"
  WLL_light_tank_equipment_1:0 "Carden-Loyd Mk.VI"
  WLL_light_tank_equipment_1_short:0 "Carden-Loyd Mk.VI"
  WLL_light_tank_destroyer_equipment_1:0 "T-13 B1"
  WLL_light_tank_destroyer_equipment_1_short:0 "T-13 B1"
- WLL_light_tank_destroyer_equipment_1_desc:0 "This tankette was the first attempt at a Belgian tank destroyer. A British Carden-Loyd Mk.VI tankette equipped with the F.R.C. 47mm AT gun."
+ WLL_light_tank_destroyer_equipment_1_desc:0 "Cette tankette était la première tentative d'un chasseur de chars belge. Une tankette britannique Carden-Loyd Mk.VI équipée du canon F.R.C. 47mm AT."
  WLL_light_tank_aa_equipment_1:0 "T-13 AA"
  WLL_light_tank_aa_equipment_1_short:0 "T-13 AA"
  WLL_light_tank_artillery_equipment_1:0 "T-13 F.R.C. 76mm"
@@ -1320,14 +1256,14 @@
  WLL_light_tank_destroyer_equipment_2_desc:0 "The T-13 B1, B2 and B3 were equipped with the 1931 47mm AT gun were the main tank destroyer of the Belgian army in 1940."
  WLL_light_tank_aa_equipment_2:0 "T-15 AA"
  WLL_light_tank_aa_equipment_2_short:0 "T-15 AA"
- WLL_light_tank_artillery_equipment_2:0 "T-15 Artillery"
- WLL_light_tank_artillery_equipment_2_short:0 "T-15 Art."
- WLL_medium_tank_equipment_1:1 "Automitrailleuse de Combat ACG-1"
+ WLL_light_tank_artillery_equipment_2:0 "Artillerie T-15"
+ WLL_light_tank_artillery_equipment_2_short:0 "Art. T-15"
+ WLL_medium_tank_equipment_1:1 "Automitrailleuse de combat ACG-1"
  WLL_medium_tank_equipment_1_short:1 "ACG-1"
  WLL_medium_tank_destroyer_equipment_1:1 "Automitrailleuse antichar ACG-2"
  WLL_medium_tank_destroyer_equipment_1_short:1 "ACG-2"
  WLL_medium_tank_destroyer_equipment_1_desc:1 "The ACG-2 is a tank destroyer prototype based on the ACG-1 As such it would have been a logical extension of the acquisition of the ACG-1 by the Belgians. Even its silhouette is not known with precision we only have one photo of the prototype and the original plans are lost. The name Automitrailleuse Anti-Tank is a speculative name based on the Belgian name of the ACG-1."
- WLL_medium_tank_artillery_equipment_1:0 "Automitrailleuse de Support ACG-3"
+ WLL_medium_tank_artillery_equipment_1:0 "Automitrailleuse de support ACG-3"
  WLL_medium_tank_artillery_equipment_1_short:0 "ACG-3"
  WLL_medium_tank_artillery_equipment_1_desc:0 "The ACG-3 is an imaginary redesign of the ACG-2 that would have been made by opening the top of the hull, reducing the thickness of the armor and replacing the anti-tank gun by a standard artillery piece."
  WLL_medium_tank_artillery_equipment_2:0 "Tracteur d'artillerie de 155mm M40 "
@@ -1338,7 +1274,6 @@
  WLL_medium_tank_destroyer_equipment_2_short:0 "M18"
  WLL_modern_tank_equipment_1:0 "M46 Patton"
  WLL_modern_tank_equipment_1_short:0 "Patton"
-#Added
  WLL_light_tank_equipment_3:0 "Valentine"
  WLL_light_tank_equipment_3_short:0 "Valentine"
  WLL_light_tank_artillery_equipment_3_short:0 "Bishop"
@@ -1357,18 +1292,16 @@
  WLL_heavy_tank_equipment_1_short:0 "B1"
  WLL_heavy_tank_artillery_equipment_1:0 "Gun Carrier Mk. I"
  WLL_heavy_tank_artillery_equipment_1_short:0 "Gun Carrier Mk. I"
- WLL_heavy_tank_equipment_2:0 "M6A1 Heavy Tank"
+ WLL_heavy_tank_equipment_2:0 "Char lourd M6A1"
  WLL_heavy_tank_equipment_2_short:0 "M6A1"
  WLL_heavy_tank_artillery_equipment_2:0 "Churchill AVRE"
  WLL_heavy_tank_artillery_equipment_2_short:0 "Churchill AVRE"
- WLL_heavy_tank_equipment_3:0 "M26 Pershing" #based on interest for Patton tanks later
+ WLL_heavy_tank_equipment_3:0 "M26 Pershing"
  WLL_heavy_tank_equipment_3_short:0 "Pershing"
  WLL_heavy_tank_artillery_equipment_3:0 "T92 Howitzer Motor Carriage"
  WLL_heavy_tank_artillery_equipment_3_short:0 "T92 HMC"
  WLL_super_heavy_tank_equipment_1:0 "Tortoise"
  WLL_super_heavy_tank_equipment_1_short:0 "Tortoise"
-
-
  WLL_anti_tank_equipment_1:0 "Canon anti-char de 47mm modèle 1931"
  WLL_anti_tank_equipment_1_short:0 "C.47 F.R.C. Mle31"
  WLL_anti_tank_equipment_1_desc:0 "The 47mm canon of 1931 was produced by the 'Fonderie Royale de Canons' and had an excellent reputation, it served as the base for the T-13 tank destroyer."
@@ -1383,7 +1316,6 @@
  WLL_anti_air_equipment_1_short:0 "Bofors 40 mm"
  WLL_anti_air_equipment_2:0 "75 mm Bourges/FRC Mle 1936"
  WLL_anti_air_equipment_2_short:0 "75 mm FRC Mle 1936"
-
  FLA_neutrality_party:0 "VOP"
  FLA_neutrality_party_long:0 "Vlaamsch Onafhankelijke Partij"
  FLA_communism_party:0 "VKP"
@@ -1392,7 +1324,6 @@
  FLA_democratic_party_long:0 "Katholieke Partij"
  FLA_fascism_party:0 "VNV"
  FLA_fascism_party_long:0 "Vlaamsch Nationaal Verbond"
-
  WLL_neutrality_party:0 "Restaurationistes"
  WLL_neutrality_party_long:0 "Mouvement restaurationiste"
  WLL_communism_party:0 "PCW"
@@ -1403,7 +1334,6 @@
  WLL_coalition_conservative_socialist_party_long:0 "Parti social chrétien - Parti socialiste"
  WLL_fascism_party:0 "Rex"
  WLL_fascism_party_long:0 "Parti rexiste"
-
  FLA_infantry_equipment_0:0 "Mauser Model 1889"
  FLA_infantry_equipment_0_short:0 "Mauser m89"
  FLA_infantry_equipment_1:0 "Mauser Model 1935"
@@ -1424,7 +1354,6 @@
  WLL_infantry_equipment_3_short:0 "FN mle30 Type D"
  WLL_infantry_equipment_4:0 "SAFN-49"
  WLL_infantry_equipment_4_short:0 "SAFN-49"
-
  bel_cityfall.1.t:0 "La chute de Berlin"
  bel_cityfall.1.d:0 "Les soldats belges victorieux défilent dans les rues de Berlin après des combats acharnés autour de la porte de Brandebourg, du Reichstag et de la chancellerie du Reich.\n\nLe drapeau belge flotte désormais au-dessus du Reichstag. Pendant ce temps, des équipes spéciales sont envoyées pour fouiller la ville afin de capturer tout fonctionnaire allemand qui serait piégé dans la ville assiégée."
  bel_cityfall.1.a:0 "Le lion belge rugit de nouveau !"
@@ -1468,8 +1397,6 @@
  bel_cityfall.8.c:0 "Nous ne devons pas abandonner Roma aux Barbares !"
  bel_cityfall.9.d:0 "Des rapports ont confirmé que les troupes belges ont pris le contrôle de Rome. Les derniers défenseurs ont tenté d'arrêter les troupes belges devant le pont Milvius mais ont été rapidement mis en déroute et les troupes belges sont entrées dans Rome par la « Porta del Popolo ». Le commandant belge annonce que cela marque une nouvelle étape dans l'histoire romaine, le peuple de Rome étant désormais libéré de la domination d'un sénat ploutocratique ou d'un chef religieux despotique ! Par la suite, les inscriptions et les monuments rappelant le fascisme sont systématiquement détruits. On ignore où se trouve le pape, mais les croyants du monde entier comparent déjà cet événement au sac de Rome par les Vandales."
  bel_cityfall.9.b:0 "Cela prouve qu'aucun dieu ne protège le Pape !"
-
-
  ELECTION_FOCUS_TOOLTIP:0 "L'événement « La campagne électorale de 1936 commence ! » a eu lieu"
  KW_line_tooltip:0 "Crée une ligne de fortifications entre Bruxelles et Anvers.\n"
  TBLRA_1936_election_tooltip:0 "Déverrouiller les priorités politiques."
@@ -1493,14 +1420,12 @@
  frc_tanks_tooltip:0 "Déverrouille la §YFonderie royale de canons§  §Wen tant que concepteur de chars§.\n"
  S47_tooltip:0 "Cet événement devrait accorder une variante de l'avion sous licence à la Belgique mais cela ne semble pas possible pour le moment. De l'expérience aérienne a été accordée pour compenser légèrement. Si la Belgique possède la technologie CAS1, le S47 est disponible."
  S47_focus_tooltip:0 "§RLa technologie d'avion: « Appui aérien rapproché 1 (Fairey Battle) » est recommandé afin de bénéficier pleinement de cet accent en raison de l'impossibilité de créer l'effet désiré à travers le code du jeu.§!"
- TBLRA_neutrality_debate_over_tooltip:"Améliore l'effet de la priorité « Conception des navires britanniques », accorde un bonus si la Belgique rejoint l'Entente française."
- TBLRA_congo_rifle_delivery_tooltip:"Reçoit 200 équipements d'infanterie de la Belgique"
+ TBLRA_neutrality_debate_over_tooltip: "Améliore l'effet de la priorité « Conception des navires britanniques », accorde un bonus si la Belgique rejoint l'Entente française."
+ TBLRA_congo_rifle_delivery_tooltip: "Reçoit 200 équipements d'infanterie de la Belgique"
  recruit_dutch_generals_tooltip:0 "Tant que la décision est active, jusqu'à 3 généraux seront proposés pour rejoindre notre cause."
-
  COG_support_african_diplomacy:0 "La diplomatie africaine congolaise"
  cog_diplomacy_focus:0 "Priorité diplomatique congolaise"
  tblra_neutrality_debate_over:0 "Le débat sur la neutralité est terminé"
-
  tblra_benelux_tech_sharing_group:0 "Commission scientifique du Benelux"
  tblra_benelux_tech_sharing_group_desc:0 "Comme nous n'avons pas beaucoup de personnes à mobiliser, la supériorité technologique est la seule voie possible pour faire face à la menace militaire de notre époque. Une coopération étroite entre les pays du Benelux permettrait d'exploiter pleinement le potentiel de nos trois armées."
  benelux_research_name:0 "Commission de recherche du Benelux"
@@ -1509,8 +1434,6 @@
  belgium_research_desc:0 "Réduction du temps de recherche pour les technologies déjà étudiées par la Belgique et le Congo."
  italian_research_name:0 "Groupe de recherche italien"
  italian_research_desc:0 "Réduction du temps de recherche pour les technologies déjà étudiées par l'Italie. Ces technologies comprennent des arbalètes géantes, des chars en bois, des hélicoptères à propulsion musculaire et une redoutable artillerie lourde à pâtes mobiles."
-
- #flanders semi generic
  flanders_focus:0 "Priorités nationales flamandes"
  tblra_rearmement_agreement:0 "Accord de réarmement général"
  FLA_army_effort:0 "Organiser la nouvelle armée"
@@ -1567,8 +1490,8 @@
  FLA_industrial_effort_desc:0 "Nous devrions concentrer toutes nos politiques sur le développement accéléré de l'industrie civile."
  FLA_industrial_effort_2:0 "Développement de l'industrie II"
  FLA_industrial_effort_2_desc:0 "Grâce à une volonté de fer et à un dévouement au travail implacable, nous pouvons mobiliser une nouvelle fois la population autour du développement de notre industrie."
- FLA_construction_effort:0 "Développer les industries bruxelloises"
  FLA_construction_effort_tt:0 "Emplacements de construction insuffisants pour des §Yusines civiles§!."
+ FLA_construction_effort:0 "Développer les industries bruxelloises"
  FLA_construction_effort_desc:0 "Même si la guerre menace le monde entier, il convient de ne pas sous-estimer l'importance de l'industrie civile."
  FLA_production_effort:0 "Soutenir les Zeebrugse Smederijen"
  FLA_production_effort_tt:0 "Emplacements de construction insuffisants pour des §Yusines militaires§!."
@@ -1638,7 +1561,6 @@
  FLA_ideological_fanaticism:0 "Fanatisme idéologique"
  FLA_ideological_fanaticism_desc:0 "Les valeurs et les objectifs de notre vision politique méritent bien que l'on meure pour eux, tout comme l'on pouvait mourir autrefois au nom d'une quelconque religion. Tout partisan doit être prêt à faire face à la mort – et les dissidents plus encore que les autres."
  FLA_conservatism_focus:0 "Influence catholique"
- FLA_conservatism_focus_desc:0 "Influence catholique."
  FLA_welfare_focus:0 "Réformes sociales"
  FLA_rearmament_agreement:0 "Accord de réarmement"
  FLA_conservatism_focus_desc:0 "Réformes sociales."
@@ -1648,8 +1570,6 @@
  FLA_Antwerp_Oil_Industry_desc:0 "Anvers est déjà un port important pour le secteur chimique. Avec la menace qui pèse chaque jour davantage sur le commerce international, nous devrions réaffecter une partie de ces installations afin de transformer notre cher charbon condrozien en pétrole."
  FLA_reinforce_antwerp_brussels:0 "KO Linie"
  FLA_reinforce_antwerp_brussels_desc:0 "Le Brabant est au cœur de notre pays et c'est ici que se trouvent nos villes les plus importantes. Anvers était autrefois une forteresse clé et Bruxelles est le centre de notre nation. La fortification de ces deux régions les transformera en un rempart contre toute invasion ennemie. S'étendant des villages de Koningshooikt à Ottenburg, la ligne sera équipée de fossés antichars, de bunkers et de pièges antichars Cointet."
-
- #walloon semi generic
  wallonia_focus:0 "Priorités nationales wallonnes"
  WLL_army_effort:0 "Organiser la nouvelle armée"
  WLL_army_effort_desc:0 "En dépit des perspectives nouvelles qu'offre la guerre sur mer et dans les airs, le combat terrestre restera la clef des conflits de demain. Seule une bonne préparation nous évitera de revivre l'enfer des tranchées."
@@ -1779,13 +1699,11 @@
  WLL_ideological_fanaticism:0 "Fanatisme idéologique"
  WLL_ideological_fanaticism_desc:0 "Les valeurs et les objectifs de notre vision politique méritent bien que l'on meure pour eux, tout comme l'on pouvait mourir autrefois au nom d'une quelconque religion. Tout partisan doit être prêt à faire face à la mort – et les dissidents plus encore que les autres."
  WLL_conservatism_focus:0 "Influence catholique"
- WLL_conservatism_focus_desc:0 "Influence catholique."
  WLL_welfare_focus:0 "Réformes sociales"
  WLL_rearmament_agreement:0 "Accord de réarmement"
  WLL_conservatism_focus_desc:0 "Réformes sociales."
  WLL_political_coalition_focus:0 "Coalition politique"
  WLL_political_coalition_focus_desc:0 "Coalition politique."
-
  benelux_pact_failed:0 "A refusé l'alliance du Benelux"
  bel_fra_diplomacy_focus:0 "Relations franco-belges"
  SOV_join_comintern_reject:0 "Refus d'entrée dans le Komintern"
@@ -1798,12 +1716,10 @@
  mot_rockets:0 "Artillerie à roquettes motorisée"
  signal_company_tech:0 "Technologies des cies de signalisation"
  military_police_tech:0 "Technologies de la police militaire"
-
  congolese_self_reliance:0 "Autonomie congolaise"
  belgian_investments:0 "Investissements belges"
  benelux_trade_deal:0 "Union douanière du Benelux"
  COG_exports:0 "Exportations congolaises"
-
  BEL_support_weapons:0 "Mitrailleuses Hotchkiss 1914|Maxim '08/15'"
  BEL_support_weapons_desc:0 "Les armes automatiques deviennent de plus en plus portables. Les mitraillettes ont déjà prouvé leur efficacité et le développement d'armes d'appui portatives doit se poursuivre."
  BEL_support_weapons2:0 "Mortier FRC 76mm|Lance-Grenades 50mm DBT"
@@ -1816,7 +1732,6 @@
  WLL_support_weapons_desc:0 "Les armes automatiques deviennent de plus en plus portables. Les mitraillettes ont déjà prouvé leur efficacité et le développement d'armes d'appui portatives doit se poursuivre."
  WLL_support_weapons2:0 "Mortier FRC 76mm|Lance-Grenades 50mm DBT"
  WLL_infantry_weapons2:0 "Mauser 1936"
-
  form_united_netherlands_category2:0 "Unifier les Pays-Bas"
  form_united_netherlands_category2_desc:0 "Outre l'éphémère Royaume Uni des Pays-Bas entre 1815 et 1830, la région historique des Pays-Bas (ou Plats-Pays) a été divisée depuis la sécession des sept provinces du nord avec l'Union d'Utrecht à la fin du XVIe siècle. Il est temps de les unifier à nouveau et d'éviter les erreurs du passé."
  form_united_netherlands2:0 "Unifier les Pays-Bas"
@@ -1829,5 +1744,4 @@
  HOL_try_to_recruit_flemish_generals:0 "Essayer de recruter des généraux flamands"
  BEL_recall_jules_pire:0 "Rappeler Jules Pire"
  BEL_recall_jules_pire_desc:0 "Précédemment commandant des Chasseurs Ardennais, Jules Pire a été mis à la retraite quelques années. Cependant, les exigences de la guerre devenant de plus en plus fortes, il peut être judicieux de le rappeler au service actif et de bénéficier de son expérience de commandant."
-
  POLITICS_HUBERT_PIERLOT_DESC:0 "En tant que premier ministre de la Belgique ces dernières années, cet homme a montré sa capacité à négocier avec les grandes puissances européennes."

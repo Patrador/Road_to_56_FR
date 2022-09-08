@@ -1,8 +1,6 @@
 ﻿l_french:
  FOCUS_FILTER_ESPIONAGE:0 "Espionnage"
  FOCUS_FILTER_OIL:0 "Ressource : Extraction de pétrole et synthèse de carburant"
-
- ## Added Resource: so they are grouped together.
  FOCUS_FILTER_STEEL:0 "Ressource : Acier"
  FOCUS_FILTER_CHROMIUM:0 "Ressource : Chrome"
  FOCUS_FILTER_ALUMINIUM:0 "Ressource : Aluminium"

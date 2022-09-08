@@ -1,5 +1,4 @@
 ﻿l_french:
- #Overides
  spain.1.t:0 "La guerre civile espagnole"
  SPR_r56_general_n_tt:0 "§GLes généraux loyaux aux nationalistes se rallieront à nos côtés !§!"
  SPR_r56_general_r_tt:0 "§GLes généraux loyaux aux républicains se rallieront à nos côtés !§!"
@@ -10,8 +9,6 @@
  SPR_align_with_the_us:0 "S'aligner avec les États-Unis"
  SPR_draw_closer_to_italy:0 "Se rapprocher de l'Italie"
  r56_scw_our_own_ending_check:0 "§W La guerre civile espagnole est terminée§!"
-
- #Non dlc prelude focues and tt's
  SPR_back_the_ceda:0 "Soutenir la CEDA"
  SPR_back_the_ceda_tt:0 "§WLes§! §Ynationalistes§! §Wcommenceront la guerre civile avec §G75§! de §Wpoids politique.§! §WLes§! §Yrépublicains§! §Wcommenceront la guerre civile avec §Y0§! de §Wpoids politique.§!\n"
  SPR_back_the_ceda_2_tt:0 "§RNous soutiendrons les§! §Ynationalistes§! §Rlorsque la guerre civile débutera§!\n "
@@ -51,7 +48,6 @@
  SPR_new_approach_r56_desc:0 "Si nous voulons gagner cette guerre. Nous avons besoin de nouvelles tactiques."
  SPR_international_brigdes_r56:0 "Brigades internationales"
  SPR_international_brigdes_r56_desc:0 "Des gens du monde entier viennent dans la République pour arrêter la mêlée nationaliste !"
- #Prelude and Civl War Branch Ideas
  SPR_unionify_the_faction_idea:0 "Faction unie"
  SPR_unionify_the_faction_idea_desc:0 "Bien que notre camp ait ses différences, nous sommes unis dans un objectif commun, la victoire."
  SPR_solidify_the_fronts_idea:0 "Fronts solidifiés"
@@ -60,98 +56,77 @@
  SPR_international_brigdes_r56_idea:0 "Brigades internationales"
  SPR_anarchist_insurrection:0 "Insurrection anarchiste"
  SPR_anarchist_insurrection_desc:0 "Notre alliance avec les anarchistes a pris fin et a donné lieu à une insurrection derrière nos lignes de front qui prendra un certain temps à être éradiquée."
- #Missions
  r56_SPR_anarchist_insurrection_mission:0 "Insurrection anarchiste imminente"
  r56_SPR_anarchist_insurrection_mission_desc:0 "Notre alliance avec les anarchistes va finir par prendre fin. Quand ce sera le cas, nous devrons traiter avec eux."
- #Country flags
  r56_SPR_nationalist_check:0 "Nous sommes les Nationalistes"
  r56_i_am_the_nat_start_up_and_bypass:0 "La guerre civile a commencé"
  SPR_back_the_ceda_finished:0 "Nous avons soutenu les Nationalistes"
  r56_i_am_the_spr_start_up_and_bypass:0 "Nous sommes les Républicains"
  r56_SPR_republican_check:0 "Nous avons soutenu le Front populaire"
-
  SPR_pcd_democratic_party:0 "PCD"
  SPR_pcd_democratic_party_long:0 "Partido Del Centro Democrático"
-
  SPR_izquierda_republicana_party:0 "IR"
  SPR_izquierda_republicana_party_long:0 "Izquierda Republicana"
-
  SPR_GATHERING_STORM_DESC:0 "La République espagnole n'a que cinq ans, mais elle s'est vue confrontée à l'instabilité des deux côtés de l'échiquier politique. L'échec du soulèvement asturien de 1934 a laissé de nombreuses traces dans la société espagnole, et la corruption du gouvernement d'Alejandro Lerroux n'a fait que faire perdre davantage confiance aux Espagnols, entraînant une radicalisation de la population.\n\nÀ gauche, le Front populaire, uni dans son antifascisme et son désir de réforme de la république, tandis qu'à droite, la CEDA se rapproche de plus en plus de l'autoritarisme et du corporatisme et la Phalange devient de plus en plus menaçante."
-
  SPR_spain.1.t:0 "Les réactionnaires ont été écrasés !"
  SPR_spain.1.desc:0 "Après des efforts héroïques, le peuple espagnol, aidé par des antifascistes du monde entier, a écrasé les rebelles fascistes et assuré le triomphe du Front populaire. Notre victoire assure notre libération de la tyrannie des réactionnaires, mais les combats et les mesures de sécurité nécessaires ont fortement perturbé l'économie. Après toutes ces souffrances, il est clair que notre population n'a qu'un seul désir : la paix."
  SPR_spain.1.a:0 "La paix, enfin !"
-
  SPR_democratic_party_ceda_long:0 "Confederación Española de Derechas Autónomas"
  SPR_democratic_party_ceda:0 "CEDA"
-
  SPR_spain.2.t:0 "La CEDA devient un parti démocratique"
  SPR_spain.2.desc:0 "Cet événement a pour but de faire de la CEDA le parti démocratique si l'idéologie de l'Espagne passe à la démocratie, notamment avec la priorité faite par la Grande-Bretagne sur le renforcement de la démocratie en Espagne. Ainsi, cet événement empêche l'Espagne d'avoir un portrait en blanc."
  SPR_spain.2.a:0 "D'accord"
-
  SPR_spain.3.t:0 "Décès de Manuel Azaña"
  SPR_spain.3.desc:0 "Manuel Azaña, président de la République espagnole, est décédé hier soir.\n\nPersonnage le plus important de la deuxième république, encore plus pendant la guerre civile, il a lutté toute sa vie pour l'égalité démocratique de tous les citoyens devant la loi et pour la création d'un système politique moderne qui répondrait à toutes les attentes d'une démocratie moderne, à la croisée des chemins entre présidentialisme et parlementarisme.\n\nJosé Giral, l'un des plus proches partenaires d'Azana et ancien Premier ministre, a été choisi pour lui succéder."
  SPR_spain.3.a:0 "Plus qu'un président, un symbole de la République"
-
  SPR_spain.4.t:0 "L'Espagne propose un traité de défense mutuelle"
  SPR_spain.4.desc:0 "Depuis l'instauration du régime franquiste, les relations entre l'Espagne et le Portugal s'étaient considérablement réchauffées et la coopération entre nos deux pays semblait de plus en plus étroite.\n\nLe gouvernement espagnol a proposé de signer un accord qui garantirait la frontière que nous partageons, l'assistance mutuelle en cas de conflit défensif et le refus de soutenir une troisième puissance en cas de conflit à plus grande échelle."
  SPR_spain.4.a:0 "Ce serait bénéfique pour nous deux"
  SPR_spain.4.b:0 "Cela irait à l'encontre des intérêts portugais"
-
  SPR_spain.5.t:0 "L'Espagne exige Gibraltar"
  SPR_spain.5.desc:0 "Le gouvernement espagnol, soutenu par les Soviétiques pour ses revendications, nous a adressé un ultimatum, demandant le retour du rocher de Gibraltar en Espagne, au risque d'une action militaire en cas de refus.\n\nLa neutralité dont a fait preuve la Grande-Bretagne pendant la guerre civile n'a pas vraiment contribué à recréer des relations amicales entre le Royaume-Uni et le nouveau gouvernement communiste espagnol, qui s'était donc rapproché de l'Union soviétique et du Komintern.\n\nGibraltar représente beaucoup en termes de stratégie militaire, en fait, celui qui contrôle le rocher peut contrôler l'entrée et la sortie des navires à travers la Méditerranée, ce qui en ferait un point crucial en cas de conflit avec une puissance méditerranéenne.\n\nMais malgré tous ces avantages, en valent-ils la peine si l'on risque une guerre avec l'Espagne et l'Union soviétique ?"
  SPR_spain.5.a:0 "Gibraltar est et restera britannique"
  SPR_spain.5.b:0 "Il serait plus sage de l'abandonner"
-
  SPR_spain.6.t:0 "La Grande-Bretagne refuse de rétrocéder Gibraltar"
  SPR_spain.6.desc:0 "Le gouvernement britannique a rejeté notre demande de restitution du territoire de Gibraltar. Nous avions menacé que s'ils refusaient, des représailles militaires seraient possibles, mais peut-être serait-il plus sûr de reculer ?"
  SPR_spain.6.a:0 "Gibraltar sera espagnol, par la force si nécessaire !"
  SPR_spain.6.b:0 "Cet Ultimatum était une mauvaise idée"
-
  SPR_spain.7.t:0 "Une vieille connaissance est revenue"
  SPR_spain.7.desc:0 "Nos services ont identifié qu'Alexandre Mikhaïlovitch Orlov (né Leïba Lazarevitch Feldbine selon nos données) est retourné aux États-Unis après la fin de la guerre civile espagnole. Nos sources indiquent qu'il était un agent du NKVD mais qu'il a refusé de revenir [SOV.GetAuEnANP] [SOV.GetName]."
  SPR_spain.7.a:0 "S'il veut se cacher des communistes, laissez-le."
  SPR_spain.7.b:0 "Essayons de le recruter !"
-
-
  spain.10.t:0 "Dissolution des Cortès"
  spain.10.d:0 "Après que le dirigeant de la Confederación Española de Derechas Autónomas, le principal parti de droite qui avait auparavant coopéré avec le gouvernement centriste d'Alejandro Lerroux, José María Gil-Robles y Quiñones, ait brigué le poste de Premier ministre, qui aurait renforcé le contrôle de la CEDA sur le gouvernement espagnol, le Président Niceto Alcalá-Zamora a décidé de dissoudre les Cortès, car il avait toujours été hostile envers la CEDA et son leader. De nouvelles élections sont prévues pour février et, dans l'intervalle, Manuel Portela restera Premier ministre."
  spain.10.a:0 "Les élections réuniront tout le monde"
-
  spain.21.t:0 "Arrivée de Vicente Rojo"
  spain.21.d:0 "Vicente Rojo a accepté notre invitation et est arrivé dans notre pays. Nous n'avons pas encore décidé de la manière de travailler ici, nous devrons prendre cette décision maintenant."
  spain.21.a:0 "Nous avons besoin de ses compétences sur le terrain"
  spain.21.b:0 "Son expertise nous serait précieuse"
  spain.21.c:0 "Accorder l'asile serait suffisant"
-
  spain.22.t:0 "Les généraux républicains arrivent"
  spain.22.d:0 "José Miaja et d'autres généraux espagnols ont accepté notre invitation et sont arrivés dans notre pays. Nous n'avons pas encore décidé de la manière de travailler ici, nous devrons prendre cette décision maintenant."
  spain.22.a:0 "Soutenier leur mouvement anti-fasciste"
  spain.22.b:0 "Les intégrer dans l'armée"
-
  SPR_the_black_years:0 "Les années noires"
  SPR_the_black_years_desc:0 "Alors que la République est encore fraîche dans l'esprit des Espagnols, elle voit ses fondations devenir de plus en plus fragiles à mesure que les protestations se multiplient depuis la grève des mineurs des Asturies en 1934. La droite se radicalise de jour en jour, la CEDA voyant de moins en moins bien le système démocratique et les Phalangistes gagner en popularité, entraînant des affrontements avec les socialistes, les anarchistes et les communistes qui aboutissent souvent à des assassinats politiques."
-
-# Companies
-altos_hornos:0 "Altos Hornos de Vizcaya"
-telefonica:0 "Telefónica"
-campsa:0 "CAMPSA"
-compania_espanola_petroleos:0 "Compañía Española de Petróleos"
-astra_unceta:0 "Astra Unceta y Cía"
-llama_gabilondo:0 "Llama-Gabilondo y Cia"
-star_bonifacio:0 "Star Bonifacio Echeverria"
-esperanza_cia:0 "Esperanza y Cia"
-fabrica_de_armas_trubia:0 "Fábrica de armas de Trubia"
-abadal_buick:0 "Abadal-Buick"
-irizar:0 "Irizar"
-compania_auxiliar_ferrocarriles:0 "Compañía Auxiliar de Ferrocarriles"
-hispano_suiza:0 "Hispano-Suiza"
-casa:0 "Construcciones Aeronáuticas S.A."
-aeronautica_industrial_sa:0 "Aeronáutica Industrial S.A."
-hispano_aviacion:0 "Hispano Aviación"
-secn:0 "Sociedad Española de Construcción Naval"
-euskalduna:0 "Euskalduna"
-
+ altos_hornos:0 "Altos Hornos de Vizcaya"
+ telefonica:0 "Telefónica"
+ campsa:0 "CAMPSA"
+ compania_espanola_petroleos:0 "Compañía Española de Petróleos"
+ astra_unceta:0 "Astra Unceta y Cía"
+ llama_gabilondo:0 "Llama-Gabilondo y Cia"
+ star_bonifacio:0 "Star Bonifacio Echeverria"
+ esperanza_cia:0 "Esperanza y Cia"
+ fabrica_de_armas_trubia:0 "Fábrica de armas de Trubia"
+ abadal_buick:0 "Abadal-Buick"
+ irizar:0 "Irizar"
+ compania_auxiliar_ferrocarriles:0 "Compañía Auxiliar de Ferrocarriles"
+ hispano_suiza:0 "Hispano-Suiza"
+ casa:0 "Construcciones Aeronáuticas S.A."
+ aeronautica_industrial_sa:0 "Aeronáutica Industrial S.A."
+ hispano_aviacion:0 "Hispano Aviación"
+ secn:0 "Sociedad Española de Construcción Naval"
+ euskalduna:0 "Euskalduna"
  SPR_communism_party_psoe_long:0 "Partido Socialista Obrero Español"
  caudillo_trait:0 "Caudillo"
  SPR_juan_iii:0 "Juan III"
@@ -308,18 +283,12 @@ euskalduna:0 "Euskalduna"
  SPR_expand_the_mines_desc:0 "Nos sous-sols sont riches, surtout en tungstène. L'amélioration de nos capacités d'extraction nous permettra d'en profiter pour les utiliser dans notre expansion industrielle."
  SPR_una_grande_y_libre:0 "Una, grande y libre"
  SPR_una_grande_y_libre_desc:0 "L'Espagne est une nation libre de toute influence étrangère, nous n'avons pas besoin de l'aide d'une quelconque puissance pour affirmer notre place dans ce monde !"
-
  SPR_befriend_portugal:0 "Se rapprocher du Portugal"
  SPR_befriend_portugal_desc:0 "Notre partenaire ibérique est un partenaire essentiel dans ce monde agité."
-
  SPR_francisco_franco:0 "Francisco Franco"
-
  SPR_tallares_mecanicos_y_garaje:0 "Talleres Mecánicos y Garaje RAG S.A."
-
  SPA_ally_the_french:0 "S'allier aux Français"
  SPA_ally_the_french_desc:0 "Le nouveau gouvernement français, sous la direction avisée de [FRA.getleader], semble être aligné sur nos intérêts. La possibilité d'une alliance devrait être envisagée."
-
- #used in DLC tree for now
  SPR_naval_design_bureau:0 "Bureau de conception navale"
  SPR_naval_design_bureau_desc:0 "Rassembler les ingénieurs pour créer le Bureau de conception navale permettra aux meilleurs esprits de repenser l'équipement de notre marine."
  SPR_naval_equipment:0 "Équipement naval"
@@ -328,28 +297,21 @@ euskalduna:0 "Euskalduna"
  SPA_naval_equipment_desc:0 "La nouvelle marine a besoin des équipements les plus modernes afin de pouvoir défier ses rivaux. Revigorons l'Armada."
  SPA_equip_the_new_armada:0 "Équiper la nouvelle Armada"
  SPA_equip_the_new_armada_desc:0 "La nouvelle marine a besoin des équipements les plus modernes afin de pouvoir défier ses rivaux. Revigorons l'Armada."
-
  SPR_crush_regional_governments:0 "Écraser les gouvernements régionaux"
  SPR_crush_regional_governments_desc:0 "L'Espagne doit être unie !"
  SPR_crush_regional_governments_r56:0 "Écraser les gouvernements régionaux"
  SPR_crush_regional_governments_r56_desc:0 "L'Espagne doit être unie !"
  SPA_spanish_austrian_diplomatic_unity:0 "Unité diplomatique hispano-autrichienne"
  SPA_spanish_austrian_diplomatic_unity_desc:0 "Bien que les couronnes d'Autriche et d'Espagne ne soient plus liées de manière dynastique depuis le début du XVIIIe siècle, les menaces du monde moderne soulignent clairement la nécessité d'une alliance forte des monarques d'Europe."
-
  SPA_r56_spanish_austrian_diplomatic_unity:0 "Unité diplomatique hispano-autrichienne"
  SPA_r56_spanish_austrian_diplomatic_unity_desc:0 "Bien que les couronnes d'Autriche et d'Espagne ne soient plus liées de manière dynastique depuis le début du XVIIIe siècle, les menaces du monde moderne soulignent clairement la nécessité d'une alliance forte des monarques d'Europe."
-
  SPA_alliance_with_the_kaiserreich:0 "Alliance avec le Kaiserreich"
  SPA_alliance_with_the_kaiserreich_desc:0 "Le retour des Hohenzollern sur le trône d'Allemagne offre l'opportunité de rejoindre leur alliance afin de défendre le droit divin de régner."
-
  SPA_carlist_diplomacy:0 "Diplomatie carliste"
  SPA_carlist_diplomacy_desc:0 "Nous devons trouver des alliés dans ce monde en constante évolution, afin de pouvoir rester fermes sur notre trône."
-
  SPA_r56_alliance_with_the_kaiserreich:0 "Alliance avec le Kaiserreich"
  SPA_r56_alliance_with_the_kaiserreich_desc:0 "Le retour des Hohenzollern sur le trône d'Allemagne offre l'opportunité de rejoindre leur alliance afin de défendre le droit divin de régner."
-
  SPA_r56_carlist_diplomacy:0 "Diplomatie carliste"
  SPA_r56_carlist_diplomacy_desc:0 "Nous devons trouver des alliés dans ce monde en constante évolution, afin de pouvoir rester fermes sur notre trône."
-
  SPR_direct_NKVD_assistance:0 "Expertise tchékiste"
  SPR_direct_NKVD_assistance_desc:0 "L'aide des Tchékistes serait précieuse pour protéger la révolution."

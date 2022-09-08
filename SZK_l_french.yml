@@ -1,16 +1,8 @@
 ﻿l_french:
- #Already used at same post by HUN
- #SZK_generic_communist_revolutionary:0 "László Rajk"
-
  SZK_fascism_party:0 "EP"
  SZK_fascism_party_long:0 "Erdélyi Párt"
-
  SZK_union_with_HUN:0 "Union avec [HUN.GetNameDef]"
-
- r56_szekelys.1.t:0 ""
-
-
-r56_szekelys.1.t:0 "[SZK.GetNameDefCap] demande l'unification."
-r56_szekelys.1.desc:0 "Des représentants de [SZK.GetDuDelaDelNP] [SZK.GetName] nous ont contacté et ont annoncé que leur gouvernement a décidé à l'unanimité d'être annexé par notre nation en tant que partie historique de la Hongrie."
-r56_szekelys.1.a:0 "Bien sûr !"
-r56_szekelys.1.b:0 "Ce n'est pas dans notre intérêt."
+ r56_szekelys.1.t:0 "[SZK.GetNameDefCap] demande l'unification."
+ r56_szekelys.1.desc:0 "Des représentants de [SZK.GetDuDelaDelNP] [SZK.GetName] nous ont contacté et ont annoncé que leur gouvernement a décidé à l'unanimité d'être annexé par notre nation en tant que partie historique de la Hongrie."
+ r56_szekelys.1.a:0 "Bien sûr !"
+ r56_szekelys.1.b:0 "Ce n'est pas dans notre intérêt."

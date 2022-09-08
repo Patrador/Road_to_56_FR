@@ -701,13 +701,10 @@
  GRAND_BATTLEPLAN_DOCTRINE_LABEL:1 "Doctrine du grand plan de bataille"
  GRAND_BATTLEPLAN_DOCTRINE_DESC:0 "La clef du succès réside dans une planification et une préparation intensives avant de s'engager dans la bataille."
  MASS_ASSAULT_DOCTRINE_LABEL:1 "Doctrine de l'assaut en masse"
-
  MOBILE_WARFARE_DOCTRINE:0 "Guerre de mouvement"
  SUPERIOR_FIREPOWER_DOCTRINE:0 "Puissance de feu supérieure"
  GRAND_BATTLEPLAN_DOCTRINE:0 "Grand plan de bataille"
  MASS_ASSAULT_DOCTRINE:0 "Assaut en masse"
-
-
  MASS_ASSAULT_DOCTRINE_DESC:0 "Les armes « parfaites » sont surévaluées. Pour emporter la victoire, mieux valent beaucoup d'armes « convenables » !"
  MOBILE_INFANTRY_LABEL:0 "INFANTERIE MOBILE"
  MOBILE_INFANTRY_LABEL_TT:0 "Améliore la rapidité de mouvement et l'organisation de l'infanterie motorisée."

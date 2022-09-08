@@ -1,17 +1,11 @@
 ﻿l_french:
-
  algeria_focus:0 "Priorités nationales algériennes"
- #parties
-
  ALG_communism_party:0 "PCA"
  ALG_fascism_party:0 "Junte de la FANPA"
  ALG_democratic_party:0 "ENA"
  AFG_democratic_party_long:0 "Étoile nord-africaine"
  ALG_neutrality_party:0 "JTW"
  ALG_neutrality_party_long:0 "Jabhatu l-Tahrīri l-Watanī"
-
- #ideas
-
  ALG_mediterranean_bastion_idea:0 "Bastion méditerranéen"
  ALG_study_french_ships:0 "Apprentissages navals [FRA.GetNameMP]"
  ALG_depoliticized_army:0 "Armée dépolitisée"
@@ -29,12 +23,9 @@
  ALG_fascism_support:0 "Influence fasciste"
  ALG_new_industries:0 "Soutien aux industries lourdes"
  ALG_provisional_government:0 "Gouvernement provisoire [ALG.GetAdjMS]"
- ALG_provisional_government_desc:0 "Depuis l'indépendance, le gouvernement provisoire est actuellement administré par de nombreux partis politiques différents tels que le JTW, l'ENA et même le PCA. Il y aura un grand équilibre du pouvoir au sein [ALG.GetDuDelaDelNP] [ALG.GetName] jusqu'à ce qu'un gouvernement légitime puisse être institué."	
+ ALG_provisional_government_desc:0 "Depuis l'indépendance, le gouvernement provisoire est actuellement administré par de nombreux partis politiques différents tels que le JTW, l'ENA et même le PCA. Il y aura un grand équilibre du pouvoir au sein [ALG.GetDuDelaDelNP] [ALG.GetName] jusqu'à ce qu'un gouvernement légitime puisse être institué."
  ALG_pieds_noir:0 "Les Pieds-Noirs"
  ALG_pieds_noir_desc:0 "Les Colons ou, plus populairement, les Pieds Noirs sont la classe des colonisateurs et des loyalistes français en Algérie. Pendant des années, ils ont dominé le gouvernement et contrôlé la majeure partie de la richesse de l'Algérie. Ils continuent de bloquer ou de retarder toutes les tentatives de mise en œuvre de réformes, même les plus modestes, ce qui constituera un défi de taille lors de l'établissement d'un gouvernement légitime en Algérie."
-
- #focuses
-
  ALG_national_guard:0 "Création de 5 divisions de la §HGarde nationale§! dans des zones rurales."
  ALG_national_guard2:0 "Levée de 3 divisions supplémentaires de la §HGarde nationale§! dans la région de la capitale."
  ALG_armed_forces:0 "Forces armées [ALG.GetAdjFP]"
@@ -90,9 +81,9 @@
  ALG_guns_focus:0 "Moderniser nos armes à feu"
  ALG_guns_focus_desc:0 "La milice coloniale n'a pas reçu de financement approprié de la part de l'administration d'occupation [FRA.GetAdjFS]. Le gouvernement [ALG.GetAdjMS] ne commettra pas une telle erreur : l'appel d'offres pour le dernier prototype de fusil a déjà été publié et les équipementiers nationaux travaillent d'arrache-pied pour mettre au point le meilleur équipement au service de nos forces armées."
  ALG_french_tanks:0 "Étude des chars [FRA.GetAdjMP]"
- ALG_french_tanks_desc:0 "Lors de la réorganisation de l'une de nos bases militaires, nos ingénieurs ont été surpris de trouver des chars français oubliés dans l'un des entrepôts. Les [FRA.GetHabitants] ont sûrement d'autres soucis à régler, nous pouvons donc faire bon usage de ces 20 chars et améliorer leur conception et leur utilisation sur nos terrains accidentés." 
+ ALG_french_tanks_desc:0 "Lors de la réorganisation de l'une de nos bases militaires, nos ingénieurs ont été surpris de trouver des chars français oubliés dans l'un des entrepôts. Les [FRA.GetHabitants] ont sûrement d'autres soucis à régler, nous pouvons donc faire bon usage de ces 20 chars et améliorer leur conception et leur utilisation sur nos terrains accidentés."
  ALG_artillery_focus:0 "Artillerie moderne"
- ALG_artillery_focus_desc:0 "Des rapports récents émanant de nos installations d'entraînement indiquent qu'il est impératif d'améliorer considérablement nos pièces d'artillerie actuellement produites, car leur fiabilité, leur puissance de feu et leur capacité de perforation sont largement dépassées par rapport à l'équipement étranger reçu." 
+ ALG_artillery_focus_desc:0 "Des rapports récents émanant de nos installations d'entraînement indiquent qu'il est impératif d'améliorer considérablement nos pièces d'artillerie actuellement produites, car leur fiabilité, leur puissance de feu et leur capacité de perforation sont largement dépassées par rapport à l'équipement étranger reçu."
  ALG_mechanized_focus:0 "Mécaniser l'armée"
  ALG_mechanized_focus_desc:0 "Alors que nos troupes apprécient l'utilisation de matériel motorisé nouvellement développé, nos divisions de chars demandent une campagne de mécanisation, au cours de laquelle les camions d'infanterie agiles et légèrement blindés seront remplacés par des véhicules blindés de transport de troupes. Cela permettra de réduire la vitesse globale de nos divisions, tout en fournissant la couverture nécessaire à nos régiments d'infanterie."
  ALG_general_staff:0 "Réorganiser l'état-major"
@@ -217,9 +208,6 @@
  ALG_end_france_desc:0 "[ALG.GetNameDefCap] ne peut plus rester sans rien faire et regarder nos frères et sœurs se faire brutalement opprimer par les tyrans [FRA.GetHabitants], des mesures doivent être prises pour libérer le monde arabe !"
  ALG_deport_pieds_noir:0 "Déporter les Pieds-Noirs"
  ALG_deport_pieds_noir_desc:0 "Bien que nous ne puissions pas expulser purement et simplement les Pieds-Noirs, nous ne pouvons plus les laisser corrompre notre économie de l'intérieur. Nous devons les renvoyer d'où ils viennent !"
- 
- #events
-
  algeria.1.t:0 "La première élection générale"
  algeria.1.d:0 "Le gouvernement provincial a bien servi la nation, mais comme [ALG.GetNameDef] a maintenant acquis sa pleine indépendance, il est temps pour le peuple de se faire entendre en élisant son dirigeant pour la nouvelle nation.\n\nQui le peuple choisira-t-il ?"
  algeria.1.a:0 "Ferhat Abbas - Un autoritaire fort."

@@ -1,9 +1,7 @@
 ﻿l_french:
  luxembourg_tree:0 "Priorités nationales luxembourgeoises"
-#Focues and related custom TT's
  LUX_foster_an_european_community:0 "Favoriser une communauté européenne"
  LUX_foster_an_european_community_desc:0 "Les nations européennes ont beaucoup plus en commun les unes avec les autres qu'elles ne le pensent. Nous devons utiliser tous les moyens politiques dont nous disposons pour favoriser un sentiment de communauté et de collaboration afin d'aider l'Europe à relever les défis politiques qui l'attendent."
- #LUX_foster_an_european_community_TT:0 "(§YEvery Democratic European Nation§!) Gains §YIncrease in opinion§! (Opinion of §Y[LUX.GetFlag][LUX.GetName]§! §G+5§!.)"
  LUX_adjust_our_forign_policy:0 "Adapter notre politique étrangère"
  LUX_adjust_our_forign_policy_desc:0 "La situation politique de notre pays a décuplé depuis la Conférence de Londres. Nous ne pouvons pas rester en retrait et laisser nos voisins être les maîtres de notre destin. Nous devons être plus dynamiques dans la politique mondiale lorsqu'elle nous concerne."
  LUX_stand_agaisnt_authoritarianism:0 "Lutter contre l'autoritarisme"
@@ -62,7 +60,7 @@
  LUX_operation_bastogne:0 "Opération Bastogne"
  LUX_operation_bastogne_desc:0 "Nous devons reprendre les terres que la Belgique nous a prises ! L'expansion de nos frontières pour inclure nos terres perdues sera un grand triomphe national !"
  LUX_royalist_militarism:0 "Militarisme royal"
- LUX_royalist_militarism_desc:0  "L'intégration de la fierté de notre famille royale dans notre armée et notre pays augmentera considérablement le patriotisme. Cela facilitera le recrutement et le soutien aux conflits."
+ LUX_royalist_militarism_desc:0 "L'intégration de la fierté de notre famille royale dans notre armée et notre pays augmentera considérablement le patriotisme. Cela facilitera le recrutement et le soutien aux conflits."
  LUX_formalize_our_resistance:0 "Formaliser notre résistance"
  LUX_formalize_our_resistance_desc:0 "Nos groupes de résistance peuvent avoir des différences, mais nous pouvons les unifier sur une chose : résister à nos occupants."
  LUX_evacuate_the_treasury:0 "Évacuer la trésorerie"
@@ -70,9 +68,6 @@
  LUX_politcal_safe_heaven_tt:0 "Chaque §Ypays voisins§! non-communiste obtient :\nPoids politique : §G+10§!\nÉvolution de la popularité communiste : §G+1.00%§!."
  LUX_assert_ourselves:0 "Affirmer notre puissance"
  LUX_assert_ourselves_desc:0 "Nous ne sommes plus une petite puissance, mais une nation forte ! Avec la puissance militaire pour le prouver !"
-
-
- #Events
  luxembourg.1.t:0 "Une invitation au Benelux"
  luxembourg.1.d:0 "Bien que de petite taille, le Luxembourg est devenu très actif sur le plan politique ces dernières années, en raison de la nature de plus en plus belliqueuse de ses voisins. Le Premier ministre Joseph Bech a fait valoir que les pays de la plaine devraient s'unir, avant que nos destins ne soient décidés pour nous."
  luxembourg.1.a:0 "Un toast à l'Union du Benelux !"
@@ -143,11 +138,6 @@
  luxembourg.111.t:0 "[LUX.GetNameDefCap] entre en union personnelle avec [GER.GetNameDef]."
  luxembourg.111.d:0 "\nCe matin, des représentants du gouvernement de [LUX.Getleader] ont fait leur chemin jusqu'à [GER.GetCapital] pour ce qui devait être une visite diplomatique sans incident. Cette visite ait été accueillie avec surprise par de nombreux pays d'Europe lorsque les représentants de [LUX.Getleader] ont proposé un accord d'union personnelle avec [GER.GetNameDef]. Après quelques heures de discussion sur les détails de l'accord final, les deux parties signent le traité. Cet accord place effectivement le Luxembourg sous domination allemande."
  luxembourg.111.a:0 "Un développement inquiétant."
-
-
-
-#Ideas
-
  r56_LUX_charles_marx:0 "Charles Marx"
  LUX_camille_dennemeyer:0 "Camille Dennemeyer"
  LUX_prince_jean:0 "Prince Jean"
@@ -223,8 +213,6 @@
  LUX_neutrality_idea_desc:0 "La neutralité a longtemps été la voie du Luxembourg, avec un succès variable. Cette fois, ce n'est pas par choix, mais par nécessité que nous restons à l'écart des conflits à venir."
  communist_neighbours:0 "Voisins communistes"
  communist_neighbours_desc:0 "La présence d'une nation communiste voisine a rendu ce pays plus vulnérable au communisme."
- LUX_deterrence:0 "Dissuasion"
- LUX_deterrence_desc:0 "Une guerre avec une nation si féroce serait... imprudente."
  LUX_armed_deterrence:0 "Dissuasion armée"
  LUX_armed_deterrence_desc:0 "Essayez vos armées sur les murs du Luxembourg, car il n'y aura pas de reddition."
  tblra_defense_of_the_benelux:0 "La défense du Benelux"
@@ -241,7 +229,6 @@
  LUX_edouard_kremmer:0 "Edouard Kremmer"
  tblra_LUX_BEL_customs_union:0 "Union douanière belgo-luxembourgeoise"
  tblra_BEL_LUX_customs_union:0 "Union douanière belgo-luxembourgeoise"
-
  LUX_prepareforwar:0 "Se préparer à la guerre"
  LUX_prepareforwar_desc:0 "La guerre pour mettre fin à toutes les guerres n'a rien donné. Alors que les grandes puissances à notre gauche et à notre droite se mobilisent à nouveau, le Luxembourg doit être prêt à défendre son peuple."
  LUX_boostindustry:0 "Stimuler l'industrie"
@@ -350,24 +337,13 @@
  LUX_destroyer_desc:0 "Aussi agréable que cela puisse être de créer des mastodontes navals, terrorisant la mer, mieux vaut commencer petit."
  LUX_benelux_military_cooperation:0 "Coopération militaire du Benelux"
  LUX_benelux_military_cooperation_desc:0 "Comme nous dépendons du soutien militaire de nos voisins, nous devons mettre en place un état-major interarmées spécialisé dans la défense contre nos voisins qui sont aussi nos ennemis potentiels."
-
-
-
-
-#Descriptions
  POLITICS_DAMIAN_KRATZENBERG_DESC:0 "Chef du Volksdeutsche Bewegung (« Mouvement ethnique allemand ») pendant l'occupation allemande, Kratzenburg croyait en un pays nationaliste fort et était à la tête des précédents partis d'extrême droite avant la guerre."
  POLITICS_CHARLES_MARX_DESC:0 "Charles Marx est devenu le chef du Parti communiste luxembourgeois à la fin de la guerre. Alors que les efforts d'avant-guerre avaient tenté d'étouffer les mouvements communistes, le KPL fonctionne encore aujourd'hui et est l'un des plus anciens partis politiques du Luxembourg."
  POLITICS_DUCHESS_DESC:0 "Assumant la monarchie en 1919 dans la tourmente révolutionnaire, la Grande-Duchesse Charlotte est très aimée de sa population, qui vote massivement pour son maintien à la tête de l'État. Pendant la guerre, bien qu'en exil, elle reste une figure de l'unité nationale et de la résistance au Luxembourg occupé."
  POLITICS_JOSEPH_BECH_DESC:0 "Premier ministre du Luxembourg avant et après la guerre, Joseph Bech est devenu l'un des pères fondateurs de la Communauté européenne et était présent à la conférence de Messine et au traité de Rome."
-
-#Opinion Modifiers
  diplomatic_ties:0 "Liens diplomatiques"
-
-#Traits
  charismatic_monarch:0 "Monarque charismatique"
  savvy_politician:0 "Politicien avisé"
-
-#parties
  LUX_fascist_party:0 "Volksdeutsche Bewegung"
  LUX_neutrality_party:0 "Royalistes"
  LUX_absolutists:0 "Absolutistes"

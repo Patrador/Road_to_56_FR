@@ -1,8 +1,7 @@
 ﻿l_french:
- 
  EUS_alejandro_goicoechea:0 "Alejandro Goicoechea"
  EUS_manuel_lekuona:0 "Manuel Lekuona"
- EUS_julian_grimau_garcia:0 " Julián Grimau García"
+ EUS_julian_grimau_garcia:0 "Julián Grimau García"
  EUS_ramon_ormazabal:0 "Ramón Ormazábal"
  EUS_mariano_gamir_ulibarri:0 "Mariano Gámir Ulíbarri"
  EUS_mariano_gamir_ulibarri2:0 "Mariano Gámir Ulíbarri"
@@ -14,9 +13,7 @@
  EUS_alberto_demontaud_noguerol:0 "Alberto de Montaud Noguerol"
  EUS_justo_somonte_iturrioz:0 "Justo Somonte Iturrioz"
  NAV_generic_fascist_demagogue:0 "José Manuel Aizpurúa"
- 
- NAV_beistegui_hermanos:0 "Beistegui Hermanos"
- 
+ EUS_beistegui_hermanos:0 "Beistegui Hermanos"
  NAV_infantry_equipment_0:0 "Mauser M93"
  NAV_infantry_equipment_0_short:0 "Mauser M93"
  NAV_infantry_equipment_1:0 "Carabine Destroyer"

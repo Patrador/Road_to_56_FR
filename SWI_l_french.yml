@@ -1,7 +1,5 @@
 ﻿l_french:
-
- #Generic
- is_controlled_by_ROOT_or_subject:0 "Est contrôlé par §Y[Root.GetNameDef]§! ou l'un des ses fantoches." # Oddly, this one is paradox, but they never localized it
+ is_controlled_by_ROOT_or_subject:0 "Est contrôlé par §Y[Root.GetNameDef]§! ou l'un des ses fantoches."
  EYE_enough_production_tt:0 "Assez d'emplacements de construction pour une §Yusine militaire§!."
  EYE_construction_effort_tt:0 "Assez d'emplacements de construction pour une §Yusine civile§!."
  EYE_overlord_neutral_tt:0 "Le pays maître est non-aligné"
@@ -9,11 +7,7 @@
  EYE_overlord_fascist_tt:0 "Le pays maître est fasciste"
  EYE_overlord_communist_tt:0 "Le pays maître est communiste"
  EYE_next_line_tt:0 "\n"
-
- #flags
  SWI_reliance_on_militia:0 "Recours au système de milice"
-
- #Switzerland
  SWI_reorganized_af:0 "Armée de l'air réorganisée"
  SWI_army_review:0 "Revue de l'armée"
  SWI_extra_tech:0 "Technologie extraordinaire"
@@ -31,18 +25,13 @@
  SWI_alt_air:0 "Avions alternatifs"
  SWI_nav_air:0 "Aéronautique navale"
  SWI_wunder:0 "Wunderwaffen"
-
  SWI_choose_cons_tt:0 "Augmente le nombre d'hommes qui peuvent être levés par le système de milice.\n"
  SWI_choose_cons_2_tt:0 "Augmente la qualité des unités de milice levées.\n"
  SWI_choose_cons_3_tt:0 "Nos unités de milice atteindront une puissance et une efficacité maximales.\n"
  henne_dead_tt:0 "Rolf Henne est mort !\n"
  SWI_no_offensive_wars_tt:0 "N'a jamais participé à une guerre offensive."
  SWI_red_cross_tt:0 "Active §HLe Comité international de la Croix-Rouge§!.\n§HHôpitaux de campagne§! :\n    §HRétablissement§! : §G+10%§!\n    §HPerte d'exp.§! : §G-5%§!"
-
-
  ICE_no_six:0 "§RVous ne recevrez pas de sixième emplacement de recherche si vous en avez déjà cinq.§!\n"
-
- #FOCUS
  SWI_geistige:0 "Promouvoir la Geistige Landesverteidigung"
  SWI_geistige_desc:0 "En 1935, le conseiller municipal Fritz Hauser a commencé à examiner comment protéger l'indépendance spirituelle de notre pays contre les fascistes et les communistes. Cet examen a abouti à la proposition de la Geistige Landesverteidigung, ou défense nationale spirituelle, qui appelle à la liberté, à la démocratie, à l'autodétermination et à un gouvernement équilibré. Nous devrions accepter cette proposition en toute hâte."
  SWI_richtlinienbewegung:0 "Soutenir le Richtlinienbewegung"
@@ -51,7 +40,6 @@
  SWI_burger_desc:0 "Nous ne pouvons pas devenir la proie des maux du socialisme ! Nous devons plutôt envisager une alliance avec les conservateurs et les agriculteurs afin de poursuivre notre chemin vers la reprise. Nous ne pouvons pas permettre au gouvernement de se radicaliser."
  SWI_rise_of_front:0 "La montée du front"
  SWI_rise_of_front_desc:0 "L'incapacité du gouvernement à parvenir à un quelconque accord a conduit à un climat de plus en plus violent, où les gens sont attirés par des causes autrefois considérées comme marginales."
-
  SWI_helvetia:0 "Pro-helvétie"
  SWI_helvetia_desc:0 "Si la défense armée de la nation, ainsi que la préparation et l'organisation de cette défense, sont exclusivement du ressort de l'État - et même de son premier devoir -, nous souhaitons laisser la défense spirituelle de la nation essentiellement entre les mains du citoyen. L'État doit disposer des moyens nécessaires et conserver le droit de contrôler l'utilisation de ces moyens."
  SWI_fortress:0 "Ordre d'opération n°12"
@@ -114,8 +102,6 @@
  SWI_bicycle_infantry_desc:0 "Afin d'éviter de consommer du carburant, le recours à la bicyclette permettrait une certaine mobilité à nos troupes. Nous les utilisons déjà pour tracter des armes antichars, donc aucune réforme importante ne sera nécessaire, si ce n'est d'assurer un approvisionnement suffisant en vélos."
  SWI_banks:0 "Banque suisse"
  SWI_banks_desc:0 "Nos banques sont réputées pour leur sécurité et leur fiabilité. Nous devons nous assurer que les autres pays s'en souviennent."
- SWI_red_cross:0 "La Croix-Rouge"
- SWI_red_cross_desc:0 "En tant que pays solidement neutre, la Croix-Rouge a son siège dans notre pays, et nous sommes souvent appelés à être les observateurs neutres des prisons et des camps de guerre des autres pays. Une réputation méritoire !"
  SWI_kill_henne:0 "Assassiner [SWI_fascist_leader]"
  SWI_kill_henne_desc:0 "[SWI_fascist_leader] a perverti le Front National. Nous sommes notre propre peuple, pas les chiens de poche des Allemands ! Ce fou doit mourir."
  SWI_corporatism:0 "La montée du corporatisme"
@@ -241,25 +227,20 @@
  SWI_foreign_trade_desc:0 "En tant que pays neutre, on peut nous faire confiance pour gérer beaucoup de choses. Les transactions commerciales, les banques, la Croix-Rouge. Nous pouvons utiliser cela à notre avantage, monter les ennemis les uns contre les autres, et obtenir les meilleurs accords commerciaux possibles pour notre pays."
  SWI_secret_wunderwaffe:0 "Former la SKA"
  SWI_secret_wunderwaffe_desc:0 "Nos scientifiques ont annoncé qu'il était désormais possible d'utiliser le pouvoir de la création elle-même, l'atome, pour créer une bombe comme le monde n'en a jamais vu. Nous devrions nous hâter de commencer à étudier la possibilité de créer une telle arme en créant la Schweizerische Studienkommission für Atomenergie, ou Commission d'étude de l'énergie nucléaire."
-
  SWI_red_cross_tech:0 "Le Comité international de la Croix-Rouge"
  SWI_red_cross_tech_desc:0 "Le Comité international de la Croix-Rouge (CICR) est l'une des organisations les plus importantes et les plus prestigieuses au monde. Cette organisation se consacre à soigner les blessés de guerre et à assurer le traitement humain des personnes détenues dans les camps de prisonniers de guerre. Le CICR est basé en Suisse, et son drapeau a même un thème similaire à celui de sa nation hôte. Le gouvernement et l'armée suisses ont grandement bénéficié de la présence d'une telle organisation."
-
  SWI_chose_communism:0 "A choisi le communisme"
  SWI_containment:0 "La rhétorique de l'endiguement"
  SWI_claimed_our_land:0 "A revendiqué nos terres !"
  SWI_friendship:0 "Liens culturels"
  SWI_chosen_ally:0 "Liens étroits"
  SWI_refused_guarantee:0 "Garantie refusée"
-
  neutral_influence:0 "Influence non-alignée"
  neutral_leanings:0 "Tendance non-alignée"
  SWI_a_land_of_mountains:0 "Le centre des Alpes"
  SWI_a_land_of_mountains_desc:0 "- Alors, comment était l'Helvétie ?\n\n- Plate !"
  SWI_mountain_artillery:0 "Artillerie de montagne"
  SWI_mountain_artillery_desc:0 "Piou piou peak go boom."
-
-
  SWI_dr_max:0 "Dr. Max Leo Keller"
  SWI_hans_oprecht:0 "Hans Oprecht"
  SWI_edgar_woog:0 "Edgar Woog"
@@ -277,7 +258,6 @@
  SWI_roger_masson:0 "Roger Masson"
  SWI_paul_scherrer:0 "Paul Scherrer"
  SWI_generic_head_of_intelligence:0 "Roger Masson"
-
  SWI_berna:0 "Berna"
  SWI_thun:0 "Eidgenössische Konstruktionswerkstätte"
  SWI_werner:0 "Werner Risch AG"
@@ -290,7 +270,6 @@
  SWI_holderbank:0 "Holderbank"
  SWI_lonza:0 "Lonza"
  SWI_crypto:0 "AB Cryptoteknik"
-
  SWI_special_conscription:0 "Conscription suisse"
  SWI_special_conscription_desc:0 "Ce pays s'appuie sur un système de milice, dans lequel il peut faire appel à ses citoyens en cas de besoin pour servir le pays. Cependant, cela empêche le pays d'avoir une grande armée permanente.\n§W--------------- \nNous pouvons compléter la priorité §YMettre fin au recours aux milices§! pour §Rdiminuer§! notre dépendance à l'égard de nos techniques de conscription actuelles et de nous orienter vers une armée permanente."
  SWI_special_conscription_1:0 "Conscription standard"
@@ -305,7 +284,6 @@
  SWI_swiss_neutral_desc:0 "La neutralité de la Suisse est mondialement connue. Elle ne se joindra à aucune faction à moins d'y être contrainte par un acte de guerre. Sachant cela, les autres pays sont plus disposés à faire des affaires avec les Suisses."
  SWI_swiss_neutral_2:0 "Neutralité suisse"
  SWI_swiss_neutral_2_desc:0 "La neutralité de la Suisse est mondialement connue. Elle ne se joindra à aucune faction à moins d'y être contrainte par un acte de guerre. Sachant cela, les autres pays sont plus disposés à faire des affaires avec les Suisses."
-
  SWI_fortifications_idea:0 "Priorité à la fortification"
  SWI_fortifications_idea_desc:0 "Ce pays s'est concentré sur ses fortifications et ses mesures défensives, présentes et futures."
  SWI_socialization:0 "Socialisation"
@@ -371,27 +349,22 @@
  SWI_pressured_demobilization:0 "Démobilisation forcée"
  SWI_pressured_demobilization_desc:0 "Le gouvernement de ce pays a été contraint de démobiliser son armée contre son gré par la population."
  SWI_mobilize_1:0 "Mobilisation des milices"
-
  neutrality_advocate:0 "Défenseur de la neutralité"
  neutrality_advocate_desc:0 "Ce politicien croit fermement qu'il faut éviter les alliances fâcheuses, sauf si elles sont strictement nécessaires."
  assault_gun_manufacturer:0 "Fabricant de fusils d'assaut"
  blank_tank_manufacturer:0 "Fabricant de chars"
-
  likes_germany:0 "Aime l'Allemagne"
  strongman:0 "Homme fort"
  great_council:0 "Grand Conseil"
  hapsburg_emperor:0 "Kaiser restaurateur"
  EYE_pole_lover:0 "Parrain polonais"
  EYE_red_prince:0 "Prince Rouge"
-
  merchant_mariner:0 "Soutien de la marine marchande"
  resilient_nationalist:0 "Nationaliste déterminé"
  rubber_manufacturer:0 "Fabricant de caoutchouc"
-
  EYE_swiss.1.tt:0 "Wilhelm Gustloff est mort !\n"
  EYE_swiss.2.tt:0 "Fritz Platten est mort !\n"
  EYE_swiss.12.tt:0 "Ce pays ne peut plus compléter la priorité §RBanque suisse§!."
-
  EYE_swiss.1:0 "ERREUR"
  EYE_swiss.1.a:0 "VEUILLEZ SIGNALER LE BUG"
  EYE_swiss.1000:0 "Wilhelm Gustloff survit à une tentative d'assassinat"
@@ -414,27 +387,24 @@
  EYE_swiss.1300.a:0 "Un autre martyr courageux pour le Nouvel Ordre."
  EYE_swiss.1300.b:0 "Plus de propagande pour les fascistes."
  EYE_swiss.1300.c:0 "Nous ne pouvons pas surveiller tous les radicaux !"
-
  EYE_swiss.2:0 "Arrestation de Fritz Platten"
  EYE_swiss.2.t:0 "Arrestation de Fritz Platten"
  EYE_swiss.2.desc:0 "Fritz Platten, leader du KPS, a été arrêté en Union soviétique. Connu pour avoir sauvé Lénine de l'assassinat, Platten est désormais accusé de crimes non spécifiés contre l'Union soviétique, où il travaillait en tant qu'enseignant et assistant de recherche. C'est un coup dur pour les communistes suisses qui considéraient Platten comme un héros, et des appels ont été lancés pour obtenir des détails sur ses crimes présumés. Cependant, aucun détail n'a été fourni et les observateurs extérieurs disent qu'il est probable que Platten ait été victime de la purge de Staline. En l'absence de Platten, Léon Nicole a pris la tête du communisme suisse, rebaptisant le parti en Parti travailliste."
  EYE_swiss.2.a:0 "Une autre victime de la folie de Staline."
-
  EYE_swiss.3:0 "CACHÉ"
  EYE_swiss.3.a:0 "COMMENT VOYEZ-VOUS CELA ?"
-    EYE_swiss.4:0 "Matériel français"
-    EYE_swiss.4.t:0 "Matériel français"
-    EYE_swiss.4.desc:0 "La France est tombée aux mains du Reich. Cependant, de nombreux Français sont venus à nos frontières, préférant s'échapper sur nos terres plutôt que de se rendre aux Allemands, bien que nous ne puissions leur offrir un refuge officiel, afin de conserver notre statut de neutralité. Cela ne signifie pas pour autant que nous ne pouvons pas faire appel aux ravitaillements qui sont apparus par hasard dans notre pays. Dans le cas d'une guerre, quelques corps volontaires supplémentaires peuvent être très utiles..."
-    EYE_swiss.4.a:0 "Maintenant, comment dire aux Allemands..."
-    EYE_swiss.5:0 "Le discours de Pilet-Golaz"
-    EYE_swiss.5.t:0 "Le discours de Pilet-Golaz"
-    EYE_swiss.5.desc:0 "C'est aujourd'hui un événement considérable, aux conséquences lointaines et imprévisibles. La France vient de conclure un cessez-le-feu avec l'Allemagne et l'Italie. Le Royaume-Uni proclame sa résolution de poursuivre la lutte sur terre, sur mer et dans les airs. Se laisser aller aux illusions d'un bonheur insouciant serait dangereux ; le présent que nous venons de vivre est trop porteur d'avenir pour que nous puissions retomber dans le passé. L'Europe doit trouver, avant de reprendre sa croissance, son nouvel équilibre, très différent de l'ancien sans doute, et qui sera fondé sur des moyens différents des orientations de la Société des Nations, malgré ses vaines tentatives. Les événements vont vite : nous devons adopter leur rythme. Mes frères, fidèles au passé, avançons hardiment vers l'avenir !"
-    EYE_swiss.5.a:0 "Sommes-nous une nation vaincue ?"
-    EYE_swiss.51:0 "Le discours au Grütli"
-    EYE_swiss.51.t:0 "Le discours au Grütli"
-    EYE_swiss.51.desc:0 "Le général Henri Guisan avait rassemblé tous les officiers de l'armée suisse au Grütli, le berceau de la nation [Root.GetAdjFS]. Un sentiment de mélancolie était dans l'air après la chute de la France, mais lorsque Guisan a commencé à parler, ce sentiment a été remplacé par une détermination sans faille. Les mots de Guisan résonnent dans toute la région : « Tant qu'il y aura des millions de soldats en Europe, et tant que des forces importantes pourront nous attaquer à tout moment, l'armée devra être à son poste... C'est ce que notre peuple doit comprendre, ce qui fera hésiter notre adversaire potentiel... Un homme sûr de lui n'aura rien à craindre d'un parachutiste, ni de la cinquième colonne... Notre seule protection est notre volonté de nous défendre jusqu'au bout. » Ce discours, connu seulement par bribes, s'est déjà répandu comme une traînée de poudre dans la population, qui s'engage désormais dans la défense de la nation."
-    EYE_swiss.51.a:0 "Transmettons cette instruction aux troupes !"
-
+ EYE_swiss.4:0 "Matériel français"
+ EYE_swiss.4.t:0 "Matériel français"
+ EYE_swiss.4.desc:0 "La France est tombée aux mains du Reich. Cependant, de nombreux Français sont venus à nos frontières, préférant s'échapper sur nos terres plutôt que de se rendre aux Allemands, bien que nous ne puissions leur offrir un refuge officiel, afin de conserver notre statut de neutralité. Cela ne signifie pas pour autant que nous ne pouvons pas faire appel aux ravitaillements qui sont apparus par hasard dans notre pays. Dans le cas d'une guerre, quelques corps volontaires supplémentaires peuvent être très utiles..."
+ EYE_swiss.4.a:0 "Maintenant, comment dire aux Allemands..."
+ EYE_swiss.5:0 "Le discours de Pilet-Golaz"
+ EYE_swiss.5.t:0 "Le discours de Pilet-Golaz"
+ EYE_swiss.5.desc:0 "C'est aujourd'hui un événement considérable, aux conséquences lointaines et imprévisibles. La France vient de conclure un cessez-le-feu avec l'Allemagne et l'Italie. Le Royaume-Uni proclame sa résolution de poursuivre la lutte sur terre, sur mer et dans les airs. Se laisser aller aux illusions d'un bonheur insouciant serait dangereux ; le présent que nous venons de vivre est trop porteur d'avenir pour que nous puissions retomber dans le passé. L'Europe doit trouver, avant de reprendre sa croissance, son nouvel équilibre, très différent de l'ancien sans doute, et qui sera fondé sur des moyens différents des orientations de la Société des Nations, malgré ses vaines tentatives. Les événements vont vite : nous devons adopter leur rythme. Mes frères, fidèles au passé, avançons hardiment vers l'avenir !"
+ EYE_swiss.5.a:0 "Sommes-nous une nation vaincue ?"
+ EYE_swiss.51:0 "Le discours au Grütli"
+ EYE_swiss.51.t:0 "Le discours au Grütli"
+ EYE_swiss.51.desc:0 "Le général Henri Guisan avait rassemblé tous les officiers de l'armée suisse au Grütli, le berceau de la nation [Root.GetAdjFS]. Un sentiment de mélancolie était dans l'air après la chute de la France, mais lorsque Guisan a commencé à parler, ce sentiment a été remplacé par une détermination sans faille. Les mots de Guisan résonnent dans toute la région : « Tant qu'il y aura des millions de soldats en Europe, et tant que des forces importantes pourront nous attaquer à tout moment, l'armée devra être à son poste... C'est ce que notre peuple doit comprendre, ce qui fera hésiter notre adversaire potentiel... Un homme sûr de lui n'aura rien à craindre d'un parachutiste, ni de la cinquième colonne... Notre seule protection est notre volonté de nous défendre jusqu'au bout. » Ce discours, connu seulement par bribes, s'est déjà répandu comme une traînée de poudre dans la population, qui s'engage désormais dans la défense de la nation."
+ EYE_swiss.51.a:0 "Transmettons cette instruction aux troupes !"
  EYE_swiss.6:0 "L'avenir du pouvoir communiste"
  EYE_swiss.6.t:0 "L'avenir du pouvoir communiste"
  EYE_swiss.6.desc:0 "Avec le développement du communisme dans notre pays, il est tout à fait naturel que les débats concernant la direction communiste surgissent. Le communisme atteignant un point critique, le temps est venu de s'interroger sur la manière dont le pays sera gouverné. Beaucoup de gens penchent pour une simple restructuration du système politique actuel, en créant un congrès qui sera dirigé par le peuple pour le peuple. Une plus petite minorité penche vers une méthode plus totalitaire, comme l'ont montré Lénine et Staline. Dans quelle direction le parti doit-il se tourner ?"
@@ -445,27 +415,25 @@
  EYE_swiss.7.desc:0 "Avec la mort de Fritz Platten, la question de savoir qui doit diriger le parti communiste se pose à nouveau. Le favori est Léon Nicole, qui se rapproche de Staline. Cependant, ceux qui avaient soutenu le Congrès ouvrier ont profité de ce moment pour pousser à nouveau à la direction du plus grand nombre. Une fois encore, une décision doit être prise."
  EYE_swiss.7.a:0 "Le camarade Léon Nicole nous mènera vers l'avenir !"
  EYE_swiss.7.b:0 "Les manifestants ont raison, nous sommes un parti pour le peuple."
-
  EYE_swiss.8:0 "[From.GetNameDefCap] exig[From.GetEEntNP] le Tyrol"
  EYE_swiss.8.t:0 "[From.GetNameDefCap] exig[From.GetEEntNP] le Tyrol"
  EYE_swiss.8.desc:0 "Notre voisin, [From.GetNameDef], est devenu de plus en plus irrédentiste ces derniers temps, et bien que nous ayons gardé un œil sur la situation, nous avons été choqués hier lorsque le gouvernement [Root.GetAdjMS] nous a lancé un ultimatum. Ils ont exigé que nous leur donnions le Vorarlberg, et en compensation du temps perdu, le reste du Tyrol ! Cette demande est manifestement insensée et la plupart des gens s'attendent à ce que nous la refusions, mais pouvons-nous vraiment combattre [Root.GetNameDef] ou ne ferions-nous que gaspiller des vies ?"
  EYE_swiss.8.a:0 "Nous acceptons ces... exigences."
  EYE_swiss.8.b:0 "Nous pouvons leur donner le Tyrol, en échange de leur future coopération."
  EYE_swiss.8.c:0 "Céder [Root.GetAuAlaAlNP] [Root.GetName] ? Jamais !"
-    EYE_swiss.9:0 "[From.GetNameDefCap] se soumet"
-    EYE_swiss.9.t:0 "[From.GetNameDefCap] se soumet"
-    EYE_swiss.9.desc:0 "[From.GetNameDefCap] s'est plié[From.GetXENP] à nos exigences ! Nous admettons avoir été un peu surpris, mais nous ne sommes certainement pas déçus ! Les erreurs du passé ont enfin été réparées !"
-    EYE_swiss.9.a:0 "Helvetia Ewig!"
-    EYE_swiss.10:0 "[From.GetNameDefCap] propos[From.GetEEntNP] un marché"
-    EYE_swiss.10.t:0 "[From.GetNameDefCap] propos[From.GetEEntNP] un marché"
-    EYE_swiss.10.desc:0 "[From.GetNameDefCap] nous a retourné notre ultimatum avec une offre. Si nous rejoignons leur faction, ils nous céderont ce que nous demandons. Ils nous ont clairement fait comprendre qu'ils n'avaient pas l'intention d'accepter nos demandes autrement."
-    EYE_swiss.10.a:0 "L'accord sera conclu."
-    EYE_swiss.10.b:0 "Est-ce que [From.GetLeader] sait ce qu'est un\n*ultimatum* ?"
-    EYE_swiss.11:0 "[From.GetNameDefCap] refuse l'ultimatum"
-    EYE_swiss.11.t:0 "[From.GetNameDefCap] refuse l'ultimatum"
-    EYE_swiss.11.desc:0 "[From.GetNameDefCap] a refusé nos justes demandes ! Nous ne sommes pas surpris, seulement déçus. Il semble que nous ne pouvons obtenir ce que nous méritons dans ce monde que par la démonstration de force."
-    EYE_swiss.11.a:0 "Nous allons leur apprendre à faire la guerre !"
-
+ EYE_swiss.9:0 "[From.GetNameDefCap] se soumet"
+ EYE_swiss.9.t:0 "[From.GetNameDefCap] se soumet"
+ EYE_swiss.9.desc:0 "[From.GetNameDefCap] s'est plié[From.GetXENP] à nos exigences ! Nous admettons avoir été un peu surpris, mais nous ne sommes certainement pas déçus ! Les erreurs du passé ont enfin été réparées !"
+ EYE_swiss.9.a:0 "Helvetia Ewig!"
+ EYE_swiss.10:0 "[From.GetNameDefCap] propos[From.GetEEntNP] un marché"
+ EYE_swiss.10.t:0 "[From.GetNameDefCap] propos[From.GetEEntNP] un marché"
+ EYE_swiss.10.desc:0 "[From.GetNameDefCap] nous a retourné notre ultimatum avec une offre. Si nous rejoignons leur faction, ils nous céderont ce que nous demandons. Ils nous ont clairement fait comprendre qu'ils n'avaient pas l'intention d'accepter nos demandes autrement."
+ EYE_swiss.10.a:0 "L'accord sera conclu."
+ EYE_swiss.10.b:0 "Est-ce que [From.GetLeader] sait ce qu'est un\n*ultimatum* ?"
+ EYE_swiss.11:0 "[From.GetNameDefCap] refuse l'ultimatum"
+ EYE_swiss.11.t:0 "[From.GetNameDefCap] refuse l'ultimatum"
+ EYE_swiss.11.desc:0 "[From.GetNameDefCap] a refusé nos justes demandes ! Nous ne sommes pas surpris, seulement déçus. Il semble que nous ne pouvons obtenir ce que nous méritons dans ce monde que par la démonstration de force."
+ EYE_swiss.11.a:0 "Nous allons leur apprendre à faire la guerre !"
  EYE_swiss.12:0 "Réputation bancaire perdue !"
  EYE_swiss.12.t:0 "Réputation bancaire perdue !"
  EYE_swiss.12.desc:0 "Notre entrée dans une guerre offensive a peut-être endommagé de manière significative notre réputation internationale en tant que place bancaire sûre, indépendamment de la raison pour laquelle nous sommes entrés en guerre ! Après la guerre, il nous faudra des années pour réparer ces dégâts, si jamais nous y parvenons. Heureusement, nous disposons encore d'un grand nombre d'actifs qui ne peuvent pas être déplacés si facilement hors de notre pays, mais nous ne jouirons probablement plus jamais du même niveau de prestige bancaire."
@@ -479,21 +447,19 @@
  EYE_swiss.14.t:0 "Réputation bancaire rétablie"
  EYE_swiss.14.desc:0 "La guerre étant terminée, nous avons pu rétablir nos opérations bancaires. Cela peut prendre un peu de temps, mais nous devrions être en mesure de retrouver notre réputation de banque sûre et fiable."
  EYE_swiss.14.a:0 "Excellent."
-
  EYE_swiss.15:0 "[From.GetNameDefCap] demand[From.GetEEntNP] une garantie"
  EYE_swiss.15.t:0 "[From.GetNameDefCap] demand[From.GetEEntNP] une garantie"
  EYE_swiss.15.desc:0 "[From.GetNameDefCap] nous a rencontrés en privé afin de discuter des plans d'un éventuel déploiement conjoint en cas d'attaque de la [SWI_ger_or_fra]. Bien que cela ne soit pas précisé, nous soupçonnons fortement que [From.GetNameDef] ait également établit des plans avec la [SWI_ger_or_fra] au cas où NOUS les attaquerions. Refuser cette opportunité de planifier au cas où la [SWI_ger_or_fra] essaierait de nous déborder pourrait nous nuire gravement à l'avenir. Devrions-nous conclure cet accord secret pas si secret ?"
  EYE_swiss.15.a:0 "Nous allons les protéger, pour l'instant."
  EYE_swiss.15.b:0 "Nous ne ferons pas de telles promesses !"
-    EYE_swiss.16:0 "[From.GetNameDefCap] promet une aide"
-    EYE_swiss.16.t:0 "[From.GetNameDefCap] promet une aide"
-    EYE_swiss.16.desc:0 "[From.GetNameDefCap] a promis de nous venir en aide si un autre pays tentait de porter atteinte à notre souveraineté ! Nous avons déjà élaboré des plans en cas d'attaque par la [From.SWI_ger_or_fra]."
-    EYE_swiss.16.a:0 "Nous savions que nous avions un ami [From.GetAuEnANP] [From.GetName]."
-    EYE_swiss.17:0 "[From.GetNameDefCap] refuse l'aide"
-    EYE_swiss.17.t:0 "[From.GetNameDefCap] refuse l'aide"
-    EYE_swiss.17.desc:0 "[From.GetNameDefCap] a refusé notre proposition d'élaborer des plans communs en cas d'attaque d'une troisième puissance contre notre souveraineté, invoquant des raisons de sécurité interne qu'ils refusent de divulguer. Peut-être devrions-nous commencer à nous préparer au pire ?"
-    EYE_swiss.17.a:0 "Que prévoient-ils, au juste ?"
-
+ EYE_swiss.16:0 "[From.GetNameDefCap] promet une aide"
+ EYE_swiss.16.t:0 "[From.GetNameDefCap] promet une aide"
+ EYE_swiss.16.desc:0 "[From.GetNameDefCap] a promis de nous venir en aide si un autre pays tentait de porter atteinte à notre souveraineté ! Nous avons déjà élaboré des plans en cas d'attaque par la [From.SWI_ger_or_fra]."
+ EYE_swiss.16.a:0 "Nous savions que nous avions un ami [From.GetAuEnANP] [From.GetName]."
+ EYE_swiss.17:0 "[From.GetNameDefCap] refuse l'aide"
+ EYE_swiss.17.t:0 "[From.GetNameDefCap] refuse l'aide"
+ EYE_swiss.17.desc:0 "[From.GetNameDefCap] a refusé notre proposition d'élaborer des plans communs en cas d'attaque d'une troisième puissance contre notre souveraineté, invoquant des raisons de sécurité interne qu'ils refusent de divulguer. Peut-être devrions-nous commencer à nous préparer au pire ?"
+ EYE_swiss.17.a:0 "Que prévoient-ils, au juste ?"
  EYE_swiss.18:0 "La question de la priorité navale"
  EYE_swiss.18.t:0 "La question de la priorité navale"
  EYE_swiss.18.desc:0 "À la surprise générale, nous avons réussi à acquérir et à maintenir une présence sur la mer. Nous en avons profité pour travailler à l'élaboration d'une doctrine navale complète. Maintenant, nous devons décider sur quoi concentrer nos efforts. Nous pourrions acquérir des schémas pour presque tous les types de navires, mais nous n'avons que peu de ressources à allouer. Sur quels schémas devrions-nous nous concentrer ?"
@@ -501,35 +467,31 @@
  EYE_swiss.18.b:0 "Un mariage heureux entre la taille et la puissance, des vaisseaux moyens nous serviraient au mieux."
  EYE_swiss.18.c:0 "Seuls les plus grands navires peuvent régner sur les mers, les navires lourds."
  EYE_swiss.18.d:0 "Nous ne pouvons pas rivaliser en haute mer, alors prenons les profondeurs, les sous-marins."
-
  EYE_swiss.19:0 "Nomination d'un général"
  EYE_swiss.19.t:0 "Nomination d'un général"
  EYE_swiss.19.desc:0 "En temps normal, l'armée suisse rend compte directement au Conseil fédéral, le grade le plus élevé étant celui de commandant de corps. Cependant, ces temps sont tout sauf normaux. L'Europe a de nouveau plongé dans l'océan sanglant de la guerre. Le temps est donc venu de nommer un général pour les forces armées, quelqu'un qui utilisera judicieusement ses vastes pouvoirs pour garantir que la Suisse reste libre. Qui nous guidera en ces temps difficiles ?"
  EYE_swiss.19.a:0 "Henri Guisan est prometteur."
  EYE_swiss.19.b:0 "L'inébranlable Jules Borel."
  EYE_swiss.19.c:0 "Ulriche Wille Jr., fils du héros de guerre."
-
  EYE_swiss.20:0 "La populace est contre la mobilisation"
  EYE_swiss.20.t:0 "La populace est contre la mobilisation"
  EYE_swiss.20.desc:0 "Notre population a clairement fait savoir qu'elle n'approuvait pas notre mobilisation actuelle. Ils disent qu'une guerre ne semble pas être à l'horizon évident, et qu'à ce titre nous ne devrions pas retirer un pourcentage aussi important de notre population de ses foyers. Devrions-nous donner l'ordre de démobiliser ?"
  EYE_swiss.20.a:0 "Nous ne pouvons pas soutenir cela."
  EYE_swiss.20.b:0 "Devons-nous être Cassandre ?"
  EYE_swiss.20.tt:0 "La milice ne peut pas être levée tant que vous avez §YDémobilisation forcée§!."
-    EYE_swiss.21:0 "La populace en colère contre la mobilisation"
-    EYE_swiss.21.t:0 "La populace en colère contre la mobilisation"
-    EYE_swiss.21.desc:0 "Much of our population had been willing to give us the benefit of the doubt when we last raised the troops, but now we have found that a majority of the population believes that we should call the troops home, and the troops themselves have proven restless with morale falling. Should we give the order to demobalize?"
-    EYE_swiss.22:0 "La populace indignée contre la mobilisation"
-    EYE_swiss.22.t:0 "La populace indignée contre la mobilisation"
-    EYE_swiss.22.desc:0 "Seuls les partisans les plus acharnés de la guerre soutiennent désormais la poursuite de notre mobilisation, et dans tout le pays, les civils ont fait connaître leur mécontentement. Si la plupart des protestations ont été non violentes, l'atmosphère est devenue de plus en plus délétère. De nombreux soldats ont dû être sanctionnés pour tentative de désertion, désobéissance et manquement au devoir. Faut-il donner l'ordre de démobiliser ?"
-    EYE_swiss.23:0 "La population furieuse contre la mobilisation"
-    EYE_swiss.23.t:0 "La population furieuse contre la mobilisation"
-    EYE_swiss.23.desc:0 "Si quelqu'un parmi notre population soutient encore notre mobilisation, il ne le dit pas publiquement par peur des représailles. Notre gouvernement est devenu un synonyme de mauvaise gestion. Nos officiers ne peuvent plus contrôler leurs troupes car beaucoup refusent tout simplement de faire leur travail. Les protestations ont fini par devenir violentes dans certaines régions. Devrions-nous enfin donner l'ordre de démobiliser ?"
-
+ EYE_swiss.21:0 "La populace en colère contre la mobilisation"
+ EYE_swiss.21.t:0 "La populace en colère contre la mobilisation"
+ EYE_swiss.21.desc:0 "Much of our population had been willing to give us the benefit of the doubt when we last raised the troops, but now we have found that a majority of the population believes that we should call the troops home, and the troops themselves have proven restless with morale falling. Should we give the order to demobalize?"
+ EYE_swiss.22:0 "La populace indignée contre la mobilisation"
+ EYE_swiss.22.t:0 "La populace indignée contre la mobilisation"
+ EYE_swiss.22.desc:0 "Seuls les partisans les plus acharnés de la guerre soutiennent désormais la poursuite de notre mobilisation, et dans tout le pays, les civils ont fait connaître leur mécontentement. Si la plupart des protestations ont été non violentes, l'atmosphère est devenue de plus en plus délétère. De nombreux soldats ont dû être sanctionnés pour tentative de désertion, désobéissance et manquement au devoir. Faut-il donner l'ordre de démobiliser ?"
+ EYE_swiss.23:0 "La population furieuse contre la mobilisation"
+ EYE_swiss.23.t:0 "La population furieuse contre la mobilisation"
+ EYE_swiss.23.desc:0 "Si quelqu'un parmi notre population soutient encore notre mobilisation, il ne le dit pas publiquement par peur des représailles. Notre gouvernement est devenu un synonyme de mauvaise gestion. Nos officiers ne peuvent plus contrôler leurs troupes car beaucoup refusent tout simplement de faire leur travail. Les protestations ont fini par devenir violentes dans certaines régions. Devrions-nous enfin donner l'ordre de démobiliser ?"
  EYE_swiss.103:0 "Démobilisation forcée"
  EYE_swiss.103.t:0 "Démobilisation forcée"
  EYE_swiss.103.desc:0 "La colère du peuple ne peut plus être contenue. Avec tant d'hommes appelés au front, l'économie s'est arrêtée et notre refus de démobiliser sans guerre a fortement irrité tant nos soldats que notre population civile. Hier, presque tous les soldats ont déposé les armes et sont rentrés chez eux. En l'absence d'une armée pour punir notre armée, nous n'avions guère d'autre choix que d'acquiescer et de permettre aux soldats de rentrer chez eux."
  EYE_swiss.103.a:0 "Crétins traîtres !"
-
  SWI_gw_tank_equipment:0 "Renault FT-17 Moskito"
  SWI_gw_tank_equipment_short:0 "FT-17 Moskito"
  SWI_gw_tank_equipment_desc:0 "In order to keep its army up to date, the Swiss bought several Renault FT-17's from France in 19222, dubbing them Moskitos, or in English Mosquitos."
@@ -554,7 +516,6 @@
  SWI_light_tank_artillery_equipment_3:0 "Nahkampfkanone 10.5"
  SWI_light_tank_artillery_equipment_3_short:0 "Nahkampfkanone 10.5"
  SWI_light_tank_artillery_equipment_3_desc:0 "After seeing service as a tank destroyer, the Swiss military decided that the Nahkampfkanone 1 would be better served by mounting a 10.5cm Howitzer instead of its old 75mm cannon. So they did."
-
  SWI_medium_tank_equipment_1:0 "Panzer 1939"
  SWI_medium_tank_equipment_1_short:0 "Panzer 1939"
  SWI_medium_tank_equipment_2:0 "Panzer 41"
@@ -567,55 +528,43 @@
  SWI_modern_tank_destroyer_equipment_1:0 "Nahkampfkanone 2"
  SWI_modern_tank_destroyer_equipment_1_short:0 "Nahkampfkanone 2"
  SWI_modern_tank_destroyer_equipment_1_desc:0 "A prototype built in 1946, the Nahkampfkanone 2 was armed with a 75mm cannon and was designed to be a heavier and more improved version of the earlier Nahkampfkanone 1. It was tested until 1947 when development stopped."
-
  SWI_heavy_tank_equipment_1:0 "Panzer Char B-1"
  SWI_heavy_tank_equipment_1_short:0 "Panzer B-1"
  SWI_heavy_tank_equipment_2:0 "Panzer 1941"
  SWI_heavy_tank_equipment_2_short:0 "Panzer 1941"
  SWI_heavy_tank_equipment_3:0 "Panzer 44"
  SWI_heavy_tank_equipment_3_short:0 "Panzer 44"
-
  SWI_super_heavy_tank_equipment_1:0 "Überpanzer 44"
  SWI_super_heavy_tank_equipment_1_short:0 "Überpanzer 44"
-
  SWI_submarine_1:0 "Geneva Class"
  SWI_submarine_2:0 "Thun Class"
  SWI_submarine_3:0 "Brienz Class"
  SWI_submarine_4:0 "Lucerne Class"
-
  SWI_carrier_1:0 "Laupen Class"
  SWI_carrier_2:0 "Giornico Class"
  SWI_carrier_3:0 "Dornach Class"
  SWI_carrier_4:0 "Sempach Class"
-
  SWI_battleship_1:0 "St. Gall Class"
  SWI_battleship_2:0 "Winkelried Class"
  SWI_battleship_3:0 "Ueli Rotach Class"
  SWI_battleship_4:0 "William Tell Class"
-
  SWI_SH_battleship_1:0 "Melchtal Class"
  SWI_SH_battleship_2:0 "Helvetia Class"
-
  SWI_battle_cruiser_1:0 "Lydia Class"
  SWI_battle_cruiser_2:0 "Zwinger Class"
-
  SWI_heavy_cruiser_1:0 "Herzog Class"
  SWI_heavy_cruiser_2:0 "Dufour Class"
  SWI_heavy_cruiser_3:0 "Wille Class"
  SWI_heavy_cruiser_4:0 "Guisan Class"
-
  SWI_light_cruiser_1:0 "Bern Class"
  SWI_light_cruiser_2:0 "St. Nicholas Class"
  SWI_light_cruiser_3:0 "Brun Class"
  SWI_light_cruiser_4:0 "Zürich Class"
-
  SWI_destroyer_1:0 "Eiger Class"
  SWI_destroyer_2:0 "Rigi Class"
  SWI_destroyer_3:0 "Junfrau Class"
  SWI_destroyer_4:0 "Matterhorn Class"
-
  SWI_transport_plane_equipment_1:0 "Bayerische Flugzeugwerke M 18"
-
  SWI_fighter_equipment_0:0 "Dewoitine D.27"
  SWI_fighter_equipment_0_short:0 "D.27"
  SWI_fighter_equipment_1:0 "Messerschmitt Bf 109"
@@ -636,7 +585,6 @@
  SWI_jet_fighter_equipment_1_short:0 "Aiguillon"
  SWI_jet_fighter_equipment_2:0 "EFW N-22 Harpon"
  SWI_jet_fighter_equipment_2_short:0 "Harpon"
-
  SWI_CAS_equipment_1:0 "Airco de Havilland DH.9"
  SWI_CAS_equipment_1_short:0 "Airco DH.9"
  SWI_CAS_equipment_2:0 "K+W Thun C-36"
@@ -649,14 +597,12 @@
  SWI_cv_CAS_equipment_2_short:0 "FC-36"
  SWI_cv_CAS_equipment_3:0 "K+W Thun FC-40"
  SWI_cv_CAS_equipment_3_short:0 "FC-40"
-
  SWI_nav_bomber_equipment_1:0 "K+W Thun Junkers Ju 52/3mde"
  SWI_nav_bomber_equipment_1_short:0 "K+W Ju 52/3mde"
  SWI_nav_bomber_equipment_2:0 "K+W Thun Fairey Albacore"
  SWI_nav_bomber_equipment_2_short:0 "K+W Albacore"
  SWI_nav_bomber_equipment_3:0 "K+W Thun Fairey Barracuda"
  SWI_nav_bomber_equipment_3_short:0 "K+W Barracuda"
-
  SWI_tac_bomber_equipment_0:0 "K+W Thun Fokker C.V.-E"
  SWI_tac_bomber_equipment_0_short:0 "K+W C.V.-E"
  SWI_tac_bomber_equipment_1:0 "Potez 630"
@@ -669,14 +615,12 @@
  SWI_jet_tac_bomber_equipment_1_short:0 "FFA Vampire"
  SWI_jet_tac_bomber_equipment_2:0 "FFA de Havilland DH 112 Venom"
  SWI_jet_tac_bomber_equipment_2_short:0 "FFA Venom"
-
  SWI_heavy_fighter_equipment_1:0 "Comte AC-20"
  SWI_heavy_fighter_equipment_1_short:0 "AC-20"
  SWI_heavy_fighter_equipment_2:0 "Comte AC-24"
  SWI_heavy_fighter_equipment_2_short:0 "AC-24"
  SWI_heavy_fighter_equipment_3:0 "P-51A Mustang"
  SWI_heavy_fighter_equipment_3_short:0 "Mustang"
-
  SWI_strat_bomber_equipment_1:0 "K+W Thun Junkers Ju 89"
  SWI_strat_bomber_equipment_1_short:0 "K+W Ju 89"
  SWI_strat_bomber_equipment_2:0 "K+W Thun Piaggo P.108 Bombardiere"
@@ -685,9 +629,7 @@
  SWI_strat_bomber_equipment_3_short:0 "Mosquito Mk V"
  SWI_jet_strat_bomber_equipment_1:0 "FFA Avro Vulcan"
  SWI_jet_strat_bomber_equipment_1_short:0 "FFA Vulcan"
-
  EYE_swiss_fixed_mines_tt:0 "A entièrement réparé les mines et les infrastructures."
-
  SWI_mobilize_tt:0 "N'a pas encore été mobilisé."
  SWI_mobilize2_tt:0 "Les troupes sont mobilisées."
  SWI_no_upgrade_tt:0 "N'a pas récemment amélioré ses troupes."
@@ -698,19 +640,15 @@
  SWI_demobilize_tt:0 "Toutes les unités mobilisées rentreront chez elles, et les réserves se retireront."
  SWI_marcel_speech_tt:0 "Un discours défaitiste a été prononcé."
  SWI_has_guisan_tt:0 "Henri Guisan est un général (maréchal)."
-
  AUS_30_days_tt:0 "Cela prendra environ 30 jours pour être mis en œuvre.\n"
  AUS_60_days_tt:0 "Cela prendra environ 60 jours pour être mis en œuvre.\n"
  AUS_hungary_has_horthy_tt:0 "[HUN.GetNameDef] est gouvernée par §WMiklós Horthy§!.\n"
  AUS_stable_nation_tt:0 "N'a pas l'esprit national §YSoutien faible§!."
-
  EYE_form_alamannia_category:0 "Reconquérir notre ancien patrimoine"
  EYE_form_alamannia_category_desc:0 "Nous ne sommes pas simplement le peuple germanique moyen. Nous descendons des Hauts-Germains eux-mêmes ! Les Alémans, fléau de Rome, grands ancêtres de la grande Germanie ! Cela fait des siècles, mais finalement l'inévitable s'est produit, et une fois de plus nos terres légitimes sont tombées entre nos mains. Il est temps de se débarrasser des chaînes de notre passé, et de réclamer ce qui a été perdu, et de reforger l'Alémanie !"
-    SWI_form_alamannia:0 "Reforger l'Alémanie"
-
+ SWI_form_alamannia:0 "Reforger l'Alémanie"
  EYE_integrate_austria_hungary_category:0 "Réintégrer l'Empire"
-    EYE_reintegrate_austro_hungarian_empire:0 "Réintégrer"
-
+ EYE_reintegrate_austro_hungarian_empire:0 "Réintégrer"
  SWI_mobilize_category:0 "Mobilisation"
  SWI_mobilize_category_desc:0 "La Suisse ne dispose pas d'une armée classique. Au lieu de cela, elle s'appuie sur une milice composée de militaires conscrits qui sont appelés à servir le pays en cas de besoin."
  SWI_mobilize_decision:0 "Mobiliser la milice suisse"
@@ -718,11 +656,9 @@
  SWI_demobilize_units:0 "Démobiliser la milice suisse"
  SWI_angry_civilians:0 "Opposition à la mobilisation"
  SWI_deal_with_populace:0 "Traiter avec la populace"
-
  SWI_choose_general_category:0 "Nommer un général"
  SWI_choose_general_category_desc:0 "Normalement, le commandant de corps est le grade le plus élevé de l'armée suisse. Toutefois, lorsque la nation se trouve en danger immédiat, le gouvernement peut nommer un général des forces armées qui dispose de pouvoirs militaires et politiques étendus."
  SWI_choose_general:0 "Choisir un général"
-
  SWI_destroy_mine_infrastructure:0 "Détruire les mines et les infrastructures"
  SWI_destroy_mine_infrastructure_desc:0 "L'ennemi est à nos portes, nous devons nous retirer dans les zones les plus reculées du pays et détruire nos mines et nos infrastructures pour ralentir et distraire nos ennemis."
  SWI_fix_mine_infrastructure:0 "Réparer les mines et les infrastructures"
@@ -731,6 +667,5 @@
  SWI_redo_mine_infrastructure_desc:0 "La Suisse est tombée, mais pas avant d'avoir détruit leurs infrastructures et leurs mines. Si nous souhaitons utiliser le pays, nous devrons commencer à le réparer."
  SWI_redo_mine_infrastructure2:0 "Terminer la réparation des mines et des infrastructures suisses"
  SWI_redo_mine_infrastructure2_desc:0 "Nous avons en grande partie réussi à remettre en état de marche les mines et les infrastructures de la Suisse. Il ne reste plus qu'à les ramener au niveau d'avant-guerre."
-
  SWI_give_speech:0 "Tenir un discours édifiant"
  SWI_give_speech_desc:0 "Le discours de Marcel Pilet-Golaz a rempli la nation de défaitisme et de désespoir, y compris nos officiers. Le général Guisan a demandé une réunion de tous les officiers suisses au Grütli, lieu de fondation de notre nation. Il pourra peut-être leur expliquer l'importance de continuer à se battre."

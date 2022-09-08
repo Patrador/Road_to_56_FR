@@ -1,16 +1,10 @@
 ﻿l_french:
-
- # Missions
  GRE_legislative_elections:0 "Legislative Elections"
  GRE_demertzis_illing_health:0 "Demertzis's Failing Health"
  GRE_communist_insurrection:0 "Impending Union Strikes"
  GRE_communist_insurrection_desc:0 "The current weak government has worsened worker conditions, which will result in strikes or maybe something worse, like civil war. If our government situation is left undressed, we can only assume the worst-case scenario.\n\n§RSiding with the strikers will result in a civil war.§!"
-
- #Politics
  GRE_despotism_desc:0 "§YMetaxism§! is a totalitarian nationalist ideology associated with Greek politician §WIoannis Metaxas§!. It calls for the §Yregeneration§! of the Greek nation and the establishment of a §Hmodern, culturally homogenous Greece§!. Metaxism disparages liberalism and holds individual interests subordinate to those of the country, seeking to mobilize the Greek people as a disciplined mass in service to create a §Bnew Greece§!."
  GRE_absolute_monarchism_desc:0 "The §YHouse of Schleswig Holstein Sonderburg Glücksburg§! is a Dano-German branch of the House of Oldenburg. It acquired the throne of Greece in 1863 when George I became §BKing of the Hellenes§!."
-
- #Focus
  GRE_economic_recovery:0 "Economic Recovery"
  GRE_economic_recovery_desc:0 "As a small nation, [GRE.GetNameDef] must prepare to weather any potential storm. Stabilizing our economy will do well to further this goal."
  GRE_industrial_effort:0 "Industrial Expansion"
@@ -105,12 +99,8 @@
  GRE_special_forces_desc:0 "Our Special Forces arm of service must continue to innovate and develop its doctrine and expand the level of operations it can be tasked with carrying out successfully. We must allocate the funds, manpower, and materiel to make this happen."
  GRE_political_awakening:0 "Political Awakening"
  GRE_political_awakening_desc:0 "A dark shroud has come over much of the world. Now more than ever, [GRE.GetNameDef] must choose its friends carefully and watch its potential enemies."
- GRE_divided_nation:0 "Bridging a Divided Nation"
- GRE_divided_nation_desc:0 "The Metaxas regime has been able to control the political climate of [GRE.GetNameDef] for some time now. However, any significant shift of support could tip the balance of power. Whether the Metaxas regime can continue to hold out with Europe becoming more volatile is uncertain."
  GRE_autarky_effort:0 "Abandon Democracy"
  GRE_autarky_effort_desc:0 "Our ancestors once embraced the idea of direct democracy, to their eventual folly. We cannot trust political actors such as Tsaldaris and the communists in this time of internal struggle. We must restore order!"
- GRE_national_union:0 "National Union"
- GRE_national_union_desc:0 "The National Union stands for a return to the rhetoric and values which made our ancestors great. We must embrace their leadership if we wish to return to the glory days."
  GRE_glorify_race:0 "Glorify Hellenic Culture"
  GRE_glorify_race_desc:0 "The Hellenic people have truly been blessed throughout history and chosen to lead the world into a new era. Coming from ancient city-states such as Athens, Sparta, and Corinth, we have been an inspiration for much of western civilization in culture, philosophy, and politics. Greek is spoken throughout the region, despite the changing hands of rulers over centuries. Our people must be re-united, and their sovereignty restored!"
  GRE_recruitment_focus:0 "Recruitment Agencies"
@@ -159,7 +149,6 @@
  GRE_create_the_IKA_desc:0 ""
  GRE_political_opposition:0 "Asphaleia"
  GRE_political_opposition_desc:0 "While our foundation is politically sound and stable, the opposition continues to watch from the shadows and plot our downfall. If we are to continue on our righteous path, we must silence these elements by force if necessary."
- GRE_dominant_ideology:0 "Create the YPE"
  GRE_dominant_ideology_desc:0 "Ioannis Metaxas is the savior of [GRE.GetnameDef]], its people, and Hellenic culture. We will enshrine his achievements, and the opposition forces will be hard-pressed to fabricate anything of substance to counter the narrative we have supported."
  GRE_metaxas_line:0 "Build the Metaxas Line"
  GRE_metaxas_line_desc:0 "Our northern border is the most exposed in these turbulent times. Metaxas has devised and approved a plan to reinforce and fortify the northern border, although some argue that it is too costly an endeavor."
@@ -173,8 +162,6 @@
  GRE_favoring_germany_desc:0 "The [GER.GetAdjective]s continue to innovate, expand and develop at a rate almost unseen in recent years. Nations surrounding them cower with fear, and the [GER.GetAdjective] war machine will be the decisive factor in a coming conflict. We must ally with the [GER.GetAdjective]s and solidify our position alongside them."
  GRE_third_hellenic_civilization:0 "Third Hellenic Civilisation"
  GRE_third_hellenic_civilization_desc:0 "Metaxas' regime has proved to be one of the most successful governments our nation has ever seen. Once battered and poverty-stricken, the Greek people are now united as one people with common goals and beliefs. We have evolved into a nation that is more than the sum of its parts. We must proudly declare ourselves as the Third Hellenic Civilization."
- GRE_different_approach:0 "Steer Away from the Right"
- GRE_different_approach_desc:0 "We are fed up with Autarky and its' dictatorial policies. The people of Greece are threatened by the looming forecast of a potential civil war. If we are to save our nation from destroying itself, we must have a change in government!"
  GRE_democratic_approach:0 "Democracy Prevails"
  GRE_democratic_approach_desc:0 "Demertzis proved to be a great leader for Greece. His ideas of unity, freedom of speech, and liberal economic policies allowed our nation to shed the burden of economic depression. We should continue his plan for a free country and follow our Athenian ancestors' footsteps!"
  GRE_internal_affairs:0 "Internal Affairs"
@@ -182,7 +169,7 @@
  GRE_denounce_metaxism:0 "Root Out Extremism"
  GRE_denounce_metaxism_desc:0 "We are a new and modern nation with full democratic support for a greater future; Metaxism represents old autocratic ideas that destroy the very foundation of concepts of democracy. We should remove Metaxas' last traces of the old, outdated regime and its' stains on our nation's history."
  GRE_ensure_stability:0 "Administrative Reforms"
- GRE_ensure_stability_desc:0 "The reforms have proven successful, and we have managed to gain the people's trust. We have to achieve our government's goals to create a greater Greece." #//STOPPED
+ GRE_ensure_stability_desc:0 "The reforms have proven successful, and we have managed to gain the people's trust. We have to achieve our government's goals to create a greater Greece."
  GRE_democratic_economic_policy:0 "Economic Liberalization"
  GRE_democratic_economic_policy_desc:0 "Now is the time to reform our old economic policies into more modern and liberal ones. [GRE.GetNameDefCap] can be an attractive trade partner for any European country. We should use this to our advantage."
  GRE_welfare_state:0 "Welfare State"
@@ -256,7 +243,6 @@
  GRE_create_a_new_economic_plan_desc:0 "We need to create a new economic policy with factors such as nationalization. To do this, we must plan out the stages of this reform and carefully put it in."
  GRE_protect_northern_minorities:0 "Protect Northern Minorities"
  GRE_protect_northern_minorities_desc:0 "Many minorities like Albanians and Bulgarians are oppressed in the north of Greece; how has that gone on for so much time? It must change immediately."
- GRE_fate_of_the_royal_family:0 "Fate of the Royal Family"
  GRE_fate_of_the_royal_family:0 "The monarchy of Greece created in the early 19th century has always strived for inequality, supporting the upper classes, and dooming the workers. We must decide how we will punish them for all this."
  GRE_look_outwards:0 "Look Outwards"
  GRE_look_outwards_desc:0 "There is a whole world full of workers waiting for the revolution; we must find a way to support them."
@@ -294,7 +280,6 @@
  GRE_purchase_cyprus_desc:0 "[ENG.GetNameDefCap] controls the Mediterranean, and they can quickly become the bane of our existence; perhaps it's best not to anger them but open up negotiations for the peaceful acquisition of the island through trade."
  GRE_share_power:0 "Share Power with Parliament"
  GRE_share_power_desc:0 "Our nation created democracy. As a result, we must honor our ancestors by sharing power with the parliament under the guidance and supervision of our wise king. This will bring some much-needed stability to our troubled times."
- GRE_absolute_monarchy:0 "Absolute Power"
  GRE_absolute_monarchy_desc:0 "The corrupted parliamentary system has failed and led us to our current situation. By suspending the constitution, we can silence all those who seek to oppose us; after all, the king is anointed by God, and only he knows what is best for our nation."
  GRE_a_strong_kingdom:0 "The Model European Kingdom"
  GRE_a_strong_kingdom_desc:0 "Under our king's leadership, [GRE.GetNameDef] has become a model European kingdom and a bastion of monarchy. His divine guidance has strengthened our state and army. The economy is flourishing, and the people are again proud of their country. The external and internal problems have been dealt with with great success. Long live the Kingdom!"
@@ -355,8 +340,6 @@
  GRE_dont_tread_the_empire:0 "Don't Tread the Empire"
  GRE_join_balkan_entente:0 "Join the [ROM.GetAdjective]s"
  GRE_join_balkan_entente_desc:0 "Romania is taking the lead over the Balkan through the [ROM.getFactionName], and it's vital to promote Balkan cooperation and join them."
-
- #Custom Tooltips
  GRE_org_x_divisions_tt:0 "Gain four units with §Y6 Infantry§! battalions.\n"
  GRE_civil_guard_divisions_tt:0 "Gain 8 units with §Y4 Infantry§! battalions.\n"
  GRE_1:0 "§Y Unlocks Fascist Path§!\n"
@@ -390,9 +373,7 @@
  GRE_metaxas_pm:0 "Metaxas has been appointed Prime Minister."
  GRE_democratic_party_appointed:0 "Panagis Tsaldaris was appointed Prime Minister."
  GRE_divided_nation_tt:0 "§WUnlocks a§! §YEvent Option§! §Wto prevent the§! §RUnion Strikes§! §Wfrom deteriorating into a§! §YCivil War.§!"
- GRE_divided_no_commie_cw_tt:"§WOn Focus Selection:§! §RRemoves§! §Wthe§! §YEvent Option§! §Wthat allows the§! §RUnion Strikes§! §Wto deteriorat into a§! §YCivil War.§!"
-
- #Decisions
+ GRE_divided_no_commie_cw_tt: "§WOn Focus Selection:§! §RRemoves§! §Wthe§! §YEvent Option§! §Wthat allows the§! §RUnion Strikes§! §Wto deteriorat into a§! §YCivil War.§!"
  GRE_divided_nation_category:0 "Nation in Turmoil"
  GRE_divided_nation_category_desc:0 "Our nation is in a state of collapse; many fear an upcoming civil war, others attempt to abandon the country and live a better life abroad. To stand on our feet again, we have to make tough decisions."
  GRE_work_on_stability:0 "Reassure the Nation"
@@ -421,10 +402,8 @@
  GRE_seize_armories:0 "Seize Armories"
  GRE_prohibit_sale_of_ships:0 "Prohibit Sale of Civilian Ships"
  GRE_integrate_north_epirus:0 "Integrate Northern Epirus"
- GRE_integrate_north_epirus_desc:0 "Since 1914, Albania has been illegitimately occupying our rightful lands north of Epirus, but now we have finally brought our people back home! However, we still need to deal with the so-called "Gjirokastrits", claiming that Northern Epirus is integral to the Albanian state."
+ GRE_integrate_north_epirus_desc:0 "Since 1914, Albania has been illegitimately occupying our rightful lands north of Epirus, but now we have finally brought our people back home! However, we still need to deal with the so-called \"Gjirokastrits\", claiming that Northern Epirus is integral to the Albanian state."
  GRE_enosis_of_cyprus:0 "Enosis of Cyprus"
-
- #Events
  greece.5.t:0 "Demertzis Has Passed Away"
  greece.5.d:0 "Our prime minister Konstantinos Demertzis has passed away from a heart attack. During his service as a prime minister, he helped the nation's economy grow and was especially popular. His replacement is the aging general Ioannis Metaxas who is tasked with continuing Demertzis' legacy and preserving Greece in these troubled times.\n\n(To go §RCommunist§!, pick any Prime Minister, but don't progress through their focuses. Instead, wait for Strikes to occur.)"
  greece.5.a:0 "Metaxas is appointed Prime Minister."
@@ -523,7 +502,7 @@
  greece.30.a:0 "Yes, let them join."
  greece.30.b:0 "No, don't risk it."
  greece.32.t:0 "The Third Hellenic Civilisation"
- greece.32.d:0 "Metaxas and his politicians gathered at the center of Athens outside the parliament today to proclaim the Third Hellenic Civilization; this was his main goal from the start of his reign to modernize and strengthen the Greek nation, this was followed by cheers of the crowd and the chanting of "Doksa ston Metaxa!" (Glory to Metaxas!)."
+ greece.32.d:0 "Metaxas and his politicians gathered at the center of Athens outside the parliament today to proclaim the Third Hellenic Civilization; this was his main goal from the start of his reign to modernize and strengthen the Greek nation, this was followed by cheers of the crowd and the chanting of \"Doksa ston Metaxa!\" (Glory to Metaxas!)."
  greece.32.a:0 "Doksa ston Metaxa!"
  greece.33.t:0 "Fascist Leadership?"
  greece.33.d:0 "Georgios Merkouris currently leads the Fascist Party. However, we can change this and replace him with another candidate, Konstantinos Logothetopoulos has proved himself to be valuable and cunning; although this does not shove Merkouris out of the picture, he has proved himself to be as shrewd as Logothetopoulos."
@@ -534,7 +513,7 @@
  greece.34.d:0 "Together we rose and conquered rightful [GRE.GetADjective] lands. We shall make a new national holiday for this is truly an incredible achievement. This will cause a global effect. Perhaps we will be considered a greater power, but we [GRE.GetADjective]s will always stand united and ready whatever happens."
  greece.34.a:0 "For the glory of Hellás!"
  greece.35.t:0 "[GRE.GetNameDefCap] Demands Istanbul"
- greece.35.d:0 "King George II of Greece recently demanded our government to return "rightful" [GRE.GetAdjective] lands in Eastern Thrace, including cities such as Edirne and the ancient capital in Istanbul. How should we respond to this ultimatum?"
+ greece.35.d:0 "King George II of Greece recently demanded our government to return \"rightful\" [GRE.GetAdjective] lands in Eastern Thrace, including cities such as Edirne and the ancient capital in Istanbul. How should we respond to this ultimatum?"
  greece.35.a:0 "Submit to the [GRE.GetAdjective] demands."
  greece.35.b:0 "They think we will submit this easily?"
  greece.37.t:0 "The [TUR.GetADjective] Response"
@@ -726,7 +705,6 @@
  greece.90.t:0 "[ITA.getleader] Denied Our Proposal"
  greece.90.d:0 "The [ITA.getadjective] government seems to have even refused to consider our pact proposal, angering our ambassador."
  greece.90.a:0 "Preposterous."
- #Ideas
  GRE_engineering_push:0 "Industrial Push"
  GRE_depression_1:0 "'Megali Ifesi'"
  GRE_depression_1_desc:0 "Megali Ifesi means Great Depression in Greek. The Hellenic Republic was hit hard after the failed military campaign in Anatolia, leading to a tremendous economic disaster and a colossal immigration crisis. The government needs much effort for the economy to get back on track."
@@ -782,7 +760,6 @@
  GRE_divided_nation_1:0 "Divided Nation"
  GRE_divided_nation_1_desc:0 "The country is divided into many ideological factions! We must act quickly!"
  GRE_shadow_of_1921:0 "Shadow of 1922"
- GRE_shadow_of_1921_desc:0 "After the Anatolian campaign, our new officers lack the experience and the will to fight on the battlefield. New plans and reforms are needed to keep our nation safe from external threats from the east and the north."
  GRE_shadow_of_1921_2:0 "Shadow of 1922"
  GRE_shadow_of_1921_desc:0 "After the Anatolian campaign, our new officers lack the experience and the will to fight on the battlefield. New plans and reforms are needed to keep our nation safe from external threats to the east and the north."
  GRE_general_staff:0 "General Staff"
@@ -821,15 +798,12 @@
  GRE_metaxism_r56:0 "Metaxism"
  GRE_metaxism_2_r56:0 "Metaxism"
  GRE_george_ii_r56:0 "George II"
-
- #Advisors
  GRE_damaskinos:0 "Archbishop Damaskinos"
  GRE_georgios_grivas:0 "Georgios Grivas"
  GRE_theologos_nicoloudis:0 "Thelogos Nicoloudis"
  GRE_konstantinos_maniadakis:0 "Konstantinos Maniadakis"
  GRE_prodomos_bodosakis_athanasiadis:0 "Prodromos Bodosakis-Athanasiadis"
  GRE_kyriakos_varvaresos:0 "Kyriakos Varvaresos"
- GRE_christodoulos_tsigantes:0 "Christodoulos Tsigantes"
  GRE_stefanos_sarafis:0 "Stefanos Sarafis"
  GRE_markos_vafiadis:0 "Markos Vafiadis"
  GRE_andreas_antoniou:0 "Andreas Antoniou"
@@ -857,11 +831,7 @@
  GRE_emmanouil_tsouderos:0 "Emmanouil Tsouderos"
  GRE_kostas_kotzias:0 "Kostas Kotzias"
  GRE_alexander_papagos:0 "Alexandros Papagos"
-
- #Bookmarks
  GRE_GATHERING_STORM_DESC:0 "For Greece, the Great War did not end in 1918. The disastrous war with Turkey and the terrible effects of the National Schism have left many wounds open for the Greek nation. The Great Depression, unemployment, social and political instability, and the rise of radicalism have brought the small country of Greece to a crossroads to decide its future, overcome the many problems, and look ahead as its legacy calls."
-
-#Companies
  spap:0 "SPAP"
  pyrkal:0 "Pyrkal"
  tangalakis_temax:0 "Tangalakis-Temax"
@@ -874,13 +844,9 @@
  Biamax:0 "Viamax"
  Viohalco:0 "Viohalco S.A."
  Neorion:0 "Neorion"
-
-
-#Misc
-gre_support:0 "Close Relations"
-communist_balkan_faction:0 "Balkan Socialist Union"
-emphasizer_of_macedon:0 "Emphasizer of Macedon"
-Archigos:0 "Archigos"
-unifier_of_the_balkans:0 "Unifier of the Balkans"
-
-GRE_north_epirus:0 "Reintegrated Northern Epirus"
+ gre_support:0 "Close Relations"
+ communist_balkan_faction:0 "Balkan Socialist Union"
+ emphasizer_of_macedon:0 "Emphasizer of Macedon"
+ Archigos:0 "Archigos"
+ unifier_of_the_balkans:0 "Unifier of the Balkans"
+ GRE_north_epirus:0 "Reintegrated Northern Epirus"
