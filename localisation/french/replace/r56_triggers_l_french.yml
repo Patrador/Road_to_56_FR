@@ -1,0 +1,13 @@
+﻿l_french:
+ TRIGGER_OVERLORD:1 "§YPays maître§!"
+ TRIGGER_IS_PUPPET:1 "Est une dépendance d'un autre pays."
+ TRIGGER_IS_NOT_PUPPET:1 "Est un pays indépendant."
+ TRIGGER_IS_SUBJECT:1 "Est une dépendance d'un autre pays."
+ TRIGGER_IS_NOT_SUBJECT:1 "Est un pays indépendant."
+ ADD_UNIT_MEDAL_DIV_EFFECT:0 "La division recevra une §YMédaille§!"
+ TRIGGER_IS_FRIEND:0 "Est allié à @$TAG$$OTHER|H$\n"
+ TRIGGER_IS_ALLY:0 "est allié de $OTHER|H$.\n"
+ TRIGGER_IS_NOT_FRIEND:0 "N'est pas allié à @$TAG$$OTHER|H$\n"
+ TRIGGER_IS_NOT_ALLY:0 "n'est pas allié de $OTHER|H$.\n"
+ TRIGGER_HAS_WAR_LENGTH_WITH_LESS_THAN: "En guerre contre $COUNTRY2|H$ depuis moins de $VALUE|H$ mois"
+ TRIGGER_HAS_WAR_LENGTH_WITH_MORE_THAN: "En guerre contre $COUNTRY2|H$ depuis plus de $VALUE|H$ mois"

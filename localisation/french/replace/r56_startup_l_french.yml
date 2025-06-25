@@ -1,0 +1,12 @@
+﻿l_french:
+ r56.startup.event.01.title: "Bienvenue sur Road to 56 !"
+ r56.startup.event.01.description: "Salutations de la part de l'équipe de Road to 56 !\n\nLe mod passe automatiquement en mode multijoueur si au moins deux pays sont contrôlés par des joueurs. Ce mode désactive quelques éléments déséquilibrés et apporte quelques modifications aux performances de l'IA.\n\n§R--- IMPORTANT ---\n§!Ce mod se met à jour officiellement tous les 7/8ème jours du mois. Nous vous recommandons de terminer vos parties avant cette date, car nos mises à jour peuvent corrompre les sauvegardes. Merci de votre compréhension. De plus, n'oubliez pas que les nouvelles extensions/mises à jour retardent généralement nos mises à jour.\n\nPar ailleurs, si vous rencontrez des bugs ou des problèmes, assurez-vous qu'il n'y ait pas de conflits de mods. Si ce n'est pas le cas, veuillez les signaler de manière détaillée sur notre Discord."
+ r56.startup.event.01.option_auto: "Continuer"
+ r56.startup.event.01.option_tt: "Merci de jouer à notre mod, et passez une merveilleuse journée !"
+ r56.startup.event.02.title: "...attendez, là !"
+ r56.startup.event.02.description: "Il semble que vous n'ayez pas activé le DLC gratuit « Poland : United and Ready ». Il est §Rrequis§! pour que le mod fonctionne comme prévu. Veuillez redémarrer le jeu avec ce DLC activé, sinon, des bugs graphiques apparaîtront."
+ r56.startup.event.02.option: "Je vais quitter le jeu et faire ce que vous m'avez demandé."
+ r56.startup.event.02.option_tt: "Vous avez intérêt..."
+ r56.startup.event.03.title: "Vous n’êtes pas censés voir cela"
+ r56.startup.event.03.description: ""
+ r56.startup.event.03.option: "Arrêtez d'utiliser la console"

@@ -1,6 +1,0 @@
-﻿l_french:
- TRIGGER_OVERLORD:1 "§YPays maître§!"
- TRIGGER_IS_PUPPET:1 "Est une dépendance d'un autre pays."
- TRIGGER_IS_NOT_PUPPET:1 "Est un pays indépendant."
- TRIGGER_IS_SUBJECT:1 "Est une dépendance d'un autre pays."
- TRIGGER_IS_NOT_SUBJECT:1 "Est un pays indépendant."

@@ -1,0 +1,7 @@
+﻿l_french:
+ gwtank_chassis:1 "Châssis de char de l'entre-deux-guerres"
+ improved_light_tank_chassis:1 "Châssis de char léger amélioré"
+ improved_light_tank_chassis_short:1 "Char léger 1936"
+ improved_light_tank_chassis_desc:1 "Profitant des avancées permises par l'expérience acquise grâce aux modèles précédents, ce châssis bénéficie d'une fiabilité accrue et d'une maintenance allégée."
+ super_heavy_tank_chassis:1 "Char super-lourd 1943"
+ main_battle_tank_chassis:1 "Char moderne 1945"
