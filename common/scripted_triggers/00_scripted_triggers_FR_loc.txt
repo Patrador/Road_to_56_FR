@@ -276,7 +276,7 @@ frloc_ruler_name_male_vow = {
 		has_country_leader = { name = "Adam Stankievic" }
 		has_country_leader = { character = BLR_adam_stankievic } # Tassigny
 		### BOL
-		has_country_leader = { character = BOL_Óscar_Únzaga_de_la_vega }
+		has_country_leader = { character = BOL_oscar_unzaga_de_la_vega }
 		has_country_leader = { character = BOL_eusebio_ayala }
 		has_country_leader = { character = BOL_enrique_baldivieso_aparicio }
 		has_country_leader = { character = BOL_hector_bilbao_roja }
@@ -610,7 +610,7 @@ frloc_ruler_name_male_vow = {
 		### KKP
 		has_country_leader = { character = KKP_islam_sadyk }
 		### KAR
-		has_country_leader = { character = KAR_grandpa }
+		has_country_leader = { character = KAR_ukki_vainamoinen }
 		### KSH
 		has_country_leader = { name = "Aleksander Majkowski" }
 		has_country_leader = { character = KSH_aleksander_majkowski } # Tassigny
@@ -3432,6 +3432,7 @@ frloc_capital_dansles_des_audessusdes = {
 		state = 6
 		state = 32
 		state = 69
+		state = 972
 		state = 74
 		state = 120
 		state = 128
@@ -3611,7 +3612,6 @@ frloc_capital_en_de_audessusdela = {
 		state = 731
 		state = 735
 		state = 766
-		state = 771
 		state = 778
 		state = 779
 		state = 780
@@ -4555,6 +4555,7 @@ frloc_state_pl_fem_cons_art_les_des_es_15 = {
 		state = 6
 		state = 32
 		state = 69
+		state = 972
 		state = 74
 		state = 120
 		state = 128
