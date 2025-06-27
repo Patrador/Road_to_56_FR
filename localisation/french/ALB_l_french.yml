@@ -237,7 +237,7 @@
  ALB_albania_or_iberia_desc:0 "Nous devons étendre encore plus nos frontières. Notre gouvernement et le haut commandement militaire ont planifié une invasion de l'Espagne et de la région du Caucase. Nous devons nous préparer à affronter l'Espagne à l'Ouest et [SOV.GetNameDef] à l'Est."
  ALB_send_diplomats_to_italy:0 "Envoyer des diplomates en [ITA.GetNameDef]"
  ALB_send_diplomats_to_italy_desc:0 "Notre économie et notre situation politique dépendent de plus en plus de [ITA.GetNameDef]. En tant qu'amis, nous améliorerons nos relations avec eux, étendrons notre amitié et enverrons des espions, au cas où."
- ALB_the_italian_affair:0 "L'affaire de [ITA.GetAdjective]"
+ ALB_the_italian_affair:0 "L'affaire [ITA.GetAdjFS]"
  ALB_the_italian_affair_desc:0 "Il semble que nos espions et nos diplomates aient découvert quelque chose alors qu'ils étaient à [ITA.GetNameDef]. Il pourrait s'agir de mauvaises nouvelles qui pourraient affecter notre pays. Nous devons nous préparer au pire."
  ALB_army_reforms:0 "Réformes militaires"
  ALB_army_reforms_desc:0 "Notre armée est déjà faible. Nous sommes désorganisés et nos troupes ne sont pas suffisamment entraînées. Notre gouvernement doit lancer une réforme militaire générale pour que les autres considèrent nos forces armées comme une véritable armée."

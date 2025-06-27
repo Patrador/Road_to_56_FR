@@ -3,7 +3,7 @@
  focus_event.0.d:0 "Bonjour ! CrouchingLemur ici, créateur du mod « New Continuous Focuses ». Ici, vous pouvez décider si de la main d'œuvre, des usines ou des ressources sont ajoutées ou non par des événements. Cela affectera tous les pays du monde, y compris ceux qui sont contrôlés par l'IA. Si vous voulez changer ce paramètre plus tard, vous devrez utiliser cette commande de la console : event focus_event.0"
  focus_event.0.a:0 "ACTIVER les événements déclenchés par « New Continuous Focuses »."
  focus_event.0.b:0 "DÉSACTIVER les événements déclenchés par « New Continuous Focuses »."
- population_growth_i: "Politiques agressives de croissance démographique"
+ population_growth_i: "Lois agressives de croissance démographique"
  construction_effort_i: "Développement de l'industrie lourde"
  excavation_effort_i: "Intensifier l'extraction de ressources"
  population_growth_i_desc: "Nous améliorerons les conditions de vie dans notre pays. Cela augmentera notre croissance démographique et attirera des immigrants tous les deux ou trois douzaines de jours."

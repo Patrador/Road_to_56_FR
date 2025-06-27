@@ -12,7 +12,7 @@ l_french:
 
  # Infanterie mécanisée
  MECHANIZED_INFRANTRY:0 "Infanterie mécanisée"
- TRAINS_RAILWAYS:0 "Trains & Rails"
+ TRAINS_RAILWAYS:0 "Trains et rails"
 
  # Aérien
  AIR_TITLE_CV_FIGHTER:0 "Chasseur embarqué"
@@ -33,626 +33,484 @@ l_french:
  Metal_Foundries:0 "Fonderies de métaux"
  Rubber_Plants:0 "Usines de caoutchouc"
 
+
+
 ##################################################
 ###   Nation adjectives / Adjectifs des pays   ###
 ##################################################
-
- FRLOC_AHV_ADJ_M:0 "ålandais"
- FRLOC_AHV_ADJ_FS:0 "ålandaise"
- FRLOC_AHV_ADJ_FP:0 "ålandaises"
-
- FRLOC_ALG_ADJ_MS:0 "algérien"
- FRLOC_ALG_ADJ_FS:0 "algérienne"
- FRLOC_ALG_ADJ_MP:0 "algériens"
- FRLOC_ALG_ADJ_FP:0 "algériennes"
-
- FRLOC_ANG_ADJ_M:0 "angolais"
- FRLOC_ANG_ADJ_FS:0 "angolaise"
- FRLOC_ANG_ADJ_FP:0 "angolaises"
-
- FRLOC_ARG_ADJ_MS:0 "argentin"
- FRLOC_ARG_ADJ_FS:0 "argentine"
- FRLOC_ARG_ADJ_MP:0 "argentins"
- FRLOC_ARG_ADJ_FP:0 "argentines"
-
- FRLOC_AST_ADJ_MS:0 "australien"
- FRLOC_AST_ADJ_FS:0 "australienne"
- FRLOC_AST_ADJ_MP:0 "australiens"
- FRLOC_AST_ADJ_FP:0 "australiennes"
-
- FRLOC_AUS_ADJ_MS:0 "autrichien"
- FRLOC_AUS_ADJ_FS:0 "autrichienne"
- FRLOC_AUS_ADJ_MP:0 "autrichiens"
- FRLOC_AUS_ADJ_FP:0 "autrichiennes"
-
- FRLOC_BAV_ADJ_M:0 "bavarois"
- FRLOC_BAV_ADJ_FS:0 "bavaroise"
- FRLOC_BAV_ADJ_FP:0 "bavaroises"
-
- FRLOC_BAH_ADJ_MS:0 "bahaméen"
- FRLOC_BAH_ADJ_FS:0 "bahaméenne"
- FRLOC_BAH_ADJ_MP:0 "bahaméens"
- FRLOC_BAH_ADJ_FP:0 "bahaméennes"
-
- FRLOC_BLZ_ADJ_MS:0 "bélizien"
- FRLOC_BLZ_ADJ_FS:0 "bélizienne"
- FRLOC_BLZ_ADJ_MP:0 "béliziens"
- FRLOC_BLZ_ADJ_FP:0 "béliziennes"
-
- FRLOC_BOL_ADJ_MS:0 "bolivien"
- FRLOC_BOL_ADJ_FS:0 "bolivienne"
- FRLOC_BOL_ADJ_MP:0 "boliviens"
- FRLOC_BOL_ADJ_FP:0 "boliviennes"
-
- FRLOC_BOT_ADJ_M:0 "botswanais"
- FRLOC_BOT_ADJ_FS:0 "botswanaise"
- FRLOC_BOT_ADJ_FP:0 "botswanaises"
-
- FRLOC_CAR_ADJ_MS:0 "centrafricain"
- FRLOC_CAR_ADJ_FS:0 "centrafricaine"
- FRLOC_CAR_ADJ_MP:0 "centrafricains"
- FRLOC_CAR_ADJ_FP:0 "centrafricaines"
-
- FRLOC_CDI_ADJ_MS:0 "ivoirien"
- FRLOC_CDI_ADJ_FS:0 "ivoirienne"
- FRLOC_CDI_ADJ_MP:0 "ivoiriens"
- FRLOC_CDI_ADJ_FP:0 "ivoiriennes"
-
- FRLOC_CHD_ADJ_MS:0 "tchadien"
- FRLOC_CHD_ADJ_FS:0 "tchadienne"
- FRLOC_CHD_ADJ_MP:0 "tchadiens"
- FRLOC_CHD_ADJ_FP:0 "tchadiennes"
- FRLOC_CHD_ADJ_MS_FASCISM:0 "bangalien"
- FRLOC_CHD_ADJ_FS_FASCISM:0 "bangalienne"
- FRLOC_CHD_ADJ_MP_FASCISM:0 "bangaliens"
- FRLOC_CHD_ADJ_FP_FASCISM:0 "bangaliennes"
-
- FRLOC_CHL_ADJ_MS:0 "chilien"
- FRLOC_CHL_ADJ_FS:0 "chilienne"
- FRLOC_CHL_ADJ_MP:0 "chiliens"
- FRLOC_CHL_ADJ_FP:0 "chiliennes"
-
- FRLOC_CMR_ADJ_M:0 "camerounais"
- FRLOC_CMR_ADJ_FS:0 "camerounaise"
- FRLOC_CMR_ADJ_FP:0 "camerounaises"
- FRLOC_CMR_ADJ_MS_COMMUNISM:0 "bantunien"
- FRLOC_CMR_ADJ_FS_COMMUNISM:0 "bantunienne"
- FRLOC_CMR_ADJ_MP_COMMUNISM:0 "bantuniens"
- FRLOC_CMR_ADJ_FP_COMMUNISM:0 "bantuniennes"
- FRLOC_CMR_ADJ_MS_FASCISM:0 "bornuien"
- FRLOC_CMR_ADJ_FS_FASCISM:0 "bornuienne"
- FRLOC_CMR_ADJ_MP_FASCISM:0 "bornuiens"
- FRLOC_CMR_ADJ_FP_FASCISM:0 "bornuiennes"
-
- FRLOC_COG_ADJ_M:0 "congolais"
- FRLOC_COG_ADJ_FS:0 "congolaise"
- FRLOC_COG_ADJ_FP:0 "congolaises"
-
- FRLOC_COL_ADJ_MS:0 "colombien"
- FRLOC_COL_ADJ_FS:0 "colombienne"
- FRLOC_COL_ADJ_MP:0 "colombiens"
- FRLOC_COL_ADJ_FP:0 "colombiennes"
-
- FRLOC_CZE_VLK_ADJ_S_FASCISM:0 "tchécoslovaque"
- FRLOC_CZE_VLK_ADJ_P_FASCISM:0 "tchécoslovaques"
-
- FRLOC_DEN_ADJ_M:0 "danois"
- FRLOC_DEN_ADJ_FS:0 "danoise"
- FRLOC_DEN_ADJ_FP:0 "danoises"
-
- FRLOC_DDR_ADJ_MS:0 "allemand de l'Est"
- FRLOC_DDR_ADJ_FS:0 "allemande de l'Est"
- FRLOC_DDR_ADJ_MP:0 "allemands de l'Est"
- FRLOC_DDR_ADJ_FP:0 "allemandes de l'Est"
-
- FRLOC_DJB_ADJ_MS:0 "djiboutien"
- FRLOC_DJB_ADJ_FS:0 "djiboutienne"
- FRLOC_DJB_ADJ_MP:0 "djiboutiens"
- FRLOC_DJB_ADJ_FP:0 "djiboutiennes"
-
- FRLOC_RCG_ADJ_M:0 "congolais"
- FRLOC_RCG_ADJ_FS:0 "congolaise"
- FRLOC_RCG_ADJ_FP:0 "congolaises"
- FRLOC_RCG_ADJ_M_FASCISM:0 "kongolais"
- FRLOC_RCG_ADJ_FS_FASCISM:0 "kongolaise"
- FRLOC_RCG_ADJ_FP_FASCISM:0 "kongolaises"
-
- FRLOC_ECR_ADJ_M:0 "chinois"
- FRLOC_ECR_ADJ_FS:0 "chinoise"
- FRLOC_ECR_ADJ_FP:0 "chinoises"
-
- FRLOC_ECU_ADJ_MS:0 "équatorien"
- FRLOC_ECU_ADJ_FS:0 "équatorienne"
- FRLOC_ECU_ADJ_MP:0 "équatoriens"
- FRLOC_ECU_ADJ_FP:0 "équatoriennes"
-
- FRLOC_EGY_ADJ_MS:0 "égyptien"
- FRLOC_EGY_ADJ_FS:0 "égyptienne"
- FRLOC_EGY_ADJ_MP:0 "égyptiens"
- FRLOC_EGY_ADJ_FP:0 "égyptiennes"
-
- FRLOC_EHA_ADJ_M:0 "chinois"
- FRLOC_EHA_ADJ_FS:0 "chinoise"
- FRLOC_EHA_ADJ_FP:0 "chinoises"
-
- FRLOC_ERI_ADJ_MS:0 "érythréen"
- FRLOC_ERI_ADJ_FS:0 "érythréenne"
- FRLOC_ERI_ADJ_MP:0 "érythréens"
- FRLOC_ERI_ADJ_FP:0 "érythréennes"
-
- FRLOC_EQG_ADJ_MS:0 "équatoguinéen"
- FRLOC_EQG_ADJ_FS:0 "équatoguinéenne"
- FRLOC_EQG_ADJ_MP:0 "équatoguinéens"
- FRLOC_EQG_ADJ_FP:0 "équatoguinéennes"
-
- FRLOC_FIJ_ADJ_S_FASCISM_COMMUNISM:0 "pacifique"
- FRLOC_FIJ_ADJ_P_FASCISM_COMMUNISM:0 "pacifiques"
- FRLOC_FIJ_ADJ_MS_NEUTRALITY:0 "mélanésien"
- FRLOC_FIJ_ADJ_FS_NEUTRALITY:0 "mélanésienne"
- FRLOC_FIJ_ADJ_MP_NEUTRALITY:0 "mélanésiens"
- FRLOC_FIJ_ADJ_FP_NEUTRALITY:0 "mélanésiennes"
- FRLOC_FIJ_ADJ_MS_DEMOCRATIC:0 "fidjien"
- FRLOC_FIJ_ADJ_FS_DEMOCRATIC:0 "fidjienne"
- FRLOC_FIJ_ADJ_MP_DEMOCRATIC:0 "fidjiens"
- FRLOC_FIJ_ADJ_FP_DEMOCRATIC:0 "fidjiennes"
-
- FRLOC_FRA_ADJ_M:0 "français"
- FRLOC_FRA_ADJ_FS:0 "française"
- FRLOC_FRA_ADJ_FP:0 "françaises"
-
- FRLOC_FRI_ADJ_M:0 "indochinois"
- FRLOC_FRI_ADJ_FS:0 "indochinoise"
- FRLOC_FRI_ADJ_FP:0 "indochinoises"
-
- FRLOC_GAB_ADJ_M:0 "gabonais"
- FRLOC_GAB_ADJ_FS:0 "gabonaise"
- FRLOC_GAB_ADJ_FP:0 "gabonaises"
-
- FRLOC_GAM_ADJ_MS:0 "gambien"
- FRLOC_GAM_ADJ_FS:0 "gambienne"
- FRLOC_GAM_ADJ_MP:0 "gambiens"
- FRLOC_GAM_ADJ_FP:0 "gambiennes"
-
- FRLOC_GBR_ADJ_MS:0 "guyanien"
- FRLOC_GBR_ADJ_FS:0 "guyanienne"
- FRLOC_GBR_ADJ_MP:0 "guyaniens"
- FRLOC_GBR_ADJ_FP:0 "guyaniennes"
-
- FRLOC_GHA_ADJ_MS:0 "ghanéen"
- FRLOC_GHA_ADJ_FS:0 "ghanéenne"
- FRLOC_GHA_ADJ_MP:0 "ghanéens"
- FRLOC_GHA_ADJ_FP:0 "ghanéennes"
- FRLOC_GHA_ADJ_MS_FASCISM_NEUTRALITY:0 "ashanti"
- FRLOC_GHA_ADJ_FS_FASCISM_NEUTRALITY:0 "ashantie"
- FRLOC_GHA_ADJ_MP_FASCISM_NEUTRALITY:0 "ashantis"
- FRLOC_GHA_ADJ_FP_FASCISM_NEUTRALITY:0 "ashanties"
-
- FRLOC_GRL_ADJ_M:0 "groenlandais"
- FRLOC_GRL_ADJ_FS:0 "groenlandaise"
- FRLOC_GRL_ADJ_FP:0 "groenlandaises"
-
- FRLOC_GUN_ADJ_MS:0 "guinéen"
- FRLOC_GUN_ADJ_FS:0 "guinéenne"
- FRLOC_GUN_ADJ_MP:0 "guinéens"
- FRLOC_GUN_ADJ_FP:0 "guinéennes"
- FRLOC_GUN_ADJ_MS_FASCISM:0 "bissaoguinéen"
- FRLOC_GUN_ADJ_FS_FASCISM:0 "bissaoguinéenne"
- FRLOC_GUN_ADJ_MP_FASCISM:0 "bissaoguinéens"
- FRLOC_GUN_ADJ_FP_FASCISM:0 "bissaoguinéennes"
-
- FRLOC_HAN_ADJ_MS:0 "hanovrien"
- FRLOC_HAN_ADJ_FS:0 "hanovrienne"
- FRLOC_HAN_ADJ_MP:0 "hanovriens"
- FRLOC_HAN_ADJ_FP:0 "hanovriennes"
- FRLOC_HAN_ADJ_FASCISM:0 "Hannoveraner"
- FRLOC_HAN_ADJ_MS_COMMUNISM:0 "bas-saxon"
- FRLOC_HAN_ADJ_FS_COMMUNISM:0 "bas-saxonne"
- FRLOC_HAN_ADJ_MP_COMMUNISM:0 "bas-saxons"
- FRLOC_HAN_ADJ_FP_COMMUNISM:0 "bas-saxonnes"
-
- FRLOC_HES_ADJ_M:0 "hessois"
- FRLOC_HES_ADJ_FS:0 "hessoise"
- FRLOC_HES_ADJ_FP:0 "hessoises"
-
- FRLOC_HYD_ADJ_MS:0 "hyderabadien"
- FRLOC_HYD_ADJ_FS:0 "hyderabadienne"
- FRLOC_HYD_ADJ_MP:0 "hyderabadiens"
- FRLOC_HYD_ADJ_FP:0 "hyderabadiennes"
-
- FRLOC_ICE_ADJ_M:0 "islandais"
- FRLOC_ICE_ADJ_FS:0 "islandaise"
- FRLOC_ICE_ADJ_FP:0 "islandaises"
-
- FRLOC_IRQ_ADJ_MS:0 "irakien"
- FRLOC_IRQ_ADJ_FS:0 "irakienne"
- FRLOC_IRQ_ADJ_MP:0 "irakiens"
- FRLOC_IRQ_ADJ_FP:0 "irakiennes"
-
- FRLOC_JAM_ADJ_MS:0 "jamaïcain"
- FRLOC_JAM_ADJ_FS:0 "jamaïcaine"
- FRLOC_JAM_ADJ_MP:0 "jamaïcains"
- FRLOC_JAM_ADJ_FP:0 "jamaïcainnes"
-
- FRLOC_KEN_ADJ_MS:0 "kényan"
- FRLOC_KEN_ADJ_FS:0 "kényane"
- FRLOC_KEN_ADJ_MP:0 "kényans"
- FRLOC_KEN_ADJ_FP:0 "kényanes"
-
- FRLOC_LBA_ADJ_MS:0 "lybien"
- FRLOC_LBA_ADJ_FS:0 "lybienne"
- FRLOC_LBA_ADJ_MP:0 "lybiens"
- FRLOC_LBA_ADJ_FP:0 "lybiennes"
-
- FRLOC_KSV_ADJ_MS:0 "kosovar"
- FRLOC_KSV_ADJ_FS:0 "kosovare"
- FRLOC_KSV_ADJ_MP:0 "kosovars"
- FRLOC_KSV_ADJ_FP:0 "kosovares"
-
- FRLOC_LIT_ADJ_MS:0 "lituanien"
- FRLOC_LIT_ADJ_FS:0 "lituanienne"
- FRLOC_LIT_ADJ_MP:0 "lituaniens"
- FRLOC_LIT_ADJ_FP:0 "lituaniennes"
-
- FRLOC_LSO_ADJ_MS:0 "lésothan"
- FRLOC_LSO_ADJ_FS:0 "lésothane"
- FRLOC_LSO_ADJ_MP:0 "lésothans"
- FRLOC_LSO_ADJ_FP:0 "lésothanes"
-
- FRLOC_LUX_ADJ_M:0 "luxembourgeois"
- FRLOC_LUX_ADJ_FS:0 "luxembourgeoise"
- FRLOC_LUX_ADJ_FP:0 "luxembourgeoises"
-
- FRLOC_MAD_ADJ_S:0 "malgache"
- FRLOC_MAD_ADJ_P:0 "malgaches"
-
- FRLOC_MAU_ADJ_MS:0 "mauritanien"
- FRLOC_MAU_ADJ_FS:0 "mauritanienne"
- FRLOC_MAU_ADJ_MP:0 "mauritaniens"
- FRLOC_MAU_ADJ_FP:0 "mauritaniennes"
-
- FRLOC_MAN_ADJ_MS:0 "mandchou"
- FRLOC_MAN_ADJ_FS:0 "mandchoue"
- FRLOC_MAN_ADJ_MP:0 "mandchous"
- FRLOC_MAN_ADJ_FP:0 "mandchoues"
- FRLOC_MAN_ADJ_NEUTRALITY:0 "Qing"
-
- FRLOC_MEN_ADJ_MS:0 "mongol-intérieur"
- FRLOC_MEN_ADJ_FS:0 "mongole-intérieure"
- FRLOC_MEN_ADJ_MP:0 "mongols-intérieurs"
- FRLOC_MEN_ADJ_FP:0 "mongoles-intérieures"
-
- FRLOC_MLI_ADJ_MS:0 "malien"
- FRLOC_MLI_ADJ_FS:0 "malienne"
- FRLOC_MLI_ADJ_MP:0 "maliens"
- FRLOC_MLI_ADJ_FP:0 "maliennes"
-
- FRLOC_MLT_ADJ_M:0 "maltais"
- FRLOC_MLT_ADJ_FS:0 "maltaise"
- FRLOC_MLT_ADJ_FP:0 "maltaises"
-
- FRLOC_MOR_ADJ_MS:0 "marocain"
- FRLOC_MOR_ADJ_FS:0 "marocaine"
- FRLOC_MOR_ADJ_MP:0 "marocains"
- FRLOC_MOR_ADJ_FP:0 "marocaines"
- FRLOC_MOR_ADJ_S:0 "maure"
- FRLOC_MOR_ADJ_P:0 "maures"
-
- FRLOC_MOZ_ADJ_MS:0 "mozambicain"
- FRLOC_MOZ_ADJ_FS:0 "mozambicaine"
- FRLOC_MOZ_ADJ_MP:0 "mozambicains"
- FRLOC_MOZ_ADJ_FP:0 "mozambicaines"
-
- FRLOC_NAP_ADJ_MS:0 "napolitain"
- FRLOC_NAP_ADJ_FS:0 "napolitaine"
- FRLOC_NAP_ADJ_MP:0 "napolitains"
- FRLOC_NAP_ADJ_FP:0 "napolitaines"
-
- FRLOC_VNZ_ADJ_MS:0 "vénitien"
- FRLOC_VNZ_ADJ_FS:0 "vénitienne"
- FRLOC_VNZ_ADJ_MP:0 "vénitiens"
- FRLOC_VNZ_ADJ_FP:0 "vénitiennes"
-
- FRLOC_NGR_ADJ_MS:0 "nigérien"
- FRLOC_NGR_ADJ_FS:0 "nigérienne"
- FRLOC_NGR_ADJ_MP:0 "nigériens"
- FRLOC_NGR_ADJ_FP:0 "nigériennes"
-
- FRLOC_NIG_ADJ_MS:0 "nigérian"
- FRLOC_NIG_ADJ_FS:0 "nigériane"
- FRLOC_NIG_ADJ_MP:0 "nigérians"
- FRLOC_NIG_ADJ_FP:0 "nigérianes"
-
- FRLOC_NMB_ADJ_MS:0 "namibien"
- FRLOC_NMB_ADJ_FS:0 "namibienne"
- FRLOC_NMB_ADJ_MP:0 "namibiens"
- FRLOC_NMB_ADJ_FP:0 "namibiennes"
- FRLOC_NMB_ADJ_FASCISM:0 "Südwestafrikaan"
-
- FRLOC_OMA_ADJ_M:0 "omanais"
- FRLOC_OMA_ADJ_FS:0 "omanaise"
- FRLOC_OMA_ADJ_FP:0 "omanaises"
-
- FRLOC_PAR_ADJ_MS:0 "paraguayen"
- FRLOC_PAR_ADJ_FS:0 "paraguayenne"
- FRLOC_PAR_ADJ_MP:0 "paraguayens"
- FRLOC_PAR_ADJ_FP:0 "paraguayennes"
-
- FRLOC_PGR_ADJ_M:0 "chinois"
- FRLOC_PGR_ADJ_FS:0 "chinoise"
- FRLOC_PGR_ADJ_FP:0 "chinoises"
-
- FRLOC_PRU_ADJ_MS:0 "péruvien"
- FRLOC_PRU_ADJ_FS:0 "péruvienne"
- FRLOC_PRU_ADJ_MP:0 "péruviens"
- FRLOC_PRU_ADJ_FP:0 "péruviennes"
-
- FRLOC_PUE_ADJ_MS:0 "portoricain"
- FRLOC_PUE_ADJ_FS:0 "portoricaine"
- FRLOC_PUE_ADJ_MP:0 "portoricains"
- FRLOC_PUE_ADJ_FP:0 "portoricaines"
-
- FRLOC_RGR_ADJ_M:0 "chinois"
- FRLOC_RGR_ADJ_FS:0 "chinoise"
- FRLOC_RGR_ADJ_FP:0 "chinoises"
-
- FRLOC_SAD_ADJ_S:0 "sarde"
- FRLOC_SAD_ADJ_P:0 "sardes"
-
- FRLOC_SER_ADJ_S:0 "serbe"
- FRLOC_SER_ADJ_P:0 "serbes"
-
- FRLOC_SIC_ADJ_MS:0 "sicilien"
- FRLOC_SIC_ADJ_FS:0 "sicilienne"
- FRLOC_SIC_ADJ_MP:0 "siciliens"
- FRLOC_SIC_ADJ_FP:0 "siciliennes"
-
- FRLOC_SMI_ADJ_MS:0 "lapon"
- FRLOC_SMI_ADJ_FS:0 "lapone"
- FRLOC_SMI_ADJ_MP:0 "lapons"
- FRLOC_SMI_ADJ_FP:0 "lapones"
-
- FRLOC_SDN_ADJ_M:0 "soudanais"
- FRLOC_SDN_ADJ_FS:0 "soudanaise"
- FRLOC_SDN_ADJ_FP:0 "soudanaises"
-
- FRLOC_SIK_ADJ_M:0 "turkestanais"
- FRLOC_SIK_ADJ_FS:0 "turkestanaise"
- FRLOC_SIK_ADJ_FP:0 "turkestanaises"
- FRLOC_SIK_ADJ_M_COMMUNISM:0 "xinjiangais"
- FRLOC_SIK_ADJ_FS_COMMUNISM:0 "xinjiangaise"
- FRLOC_SIK_ADJ_FP_COMMUNISM:0 "xinjiangaises"
- FRLOC_SIK_ADJ_MS_FASCISM:0 "ouïghour"
- FRLOC_SIK_ADJ_FS_FASCISM:0 "ouïghoure"
- FRLOC_SIK_ADJ_MP_FASCISM:0 "ouïghours"
- FRLOC_SIK_ADJ_FP_FASCISM:0 "ouïghoures"
-
- FRLOC_SEN_ADJ_M:0 "sénégalais"
- FRLOC_SEN_ADJ_FS:0 "sénégalaise"
- FRLOC_SEN_ADJ_FP:0 "sénégalaises"
-
- FRLOC_SIE_ADJ_M:0 "sierra-léonais"
- FRLOC_SIE_ADJ_FS:0 "sierra-léonaise"
- FRLOC_SIE_ADJ_FP:0 "sierra-léonaises"
-
- FRLOC_SOM_ADJ_MS:0 "somalien"
- FRLOC_SOM_ADJ_FS:0 "somalienne"
- FRLOC_SOM_ADJ_MP:0 "somaliens"
- FRLOC_SOM_ADJ_FP:0 "somaliennes"
-
- FRLOC_SSD_ADJ_M:0 "sud-soudanais"
- FRLOC_SSD_ADJ_FS:0 "sud-soudanaise"
- FRLOC_SSD_ADJ_FP:0 "sud-soudanaises"
-
- FRLOC_SUR_ADJ_MS:0 "surinamien"
- FRLOC_SUR_ADJ_FS:0 "surinamienne"
- FRLOC_SUR_ADJ_MP:0 "surinamiens"
- FRLOC_SUR_ADJ_FP:0 "surinamiennes"
-
- FRLOC_SZK_ADJ_S:0 "sicule"
- FRLOC_SZK_ADJ_P:0 "sicules"
-
- FRLOC_SZL_ADJ_MS:0 "swazi"
- FRLOC_SZL_ADJ_FS:0 "swazie"
- FRLOC_SZL_ADJ_MP:0 "swazis"
- FRLOC_SZL_ADJ_FP:0 "swazies"
-
- FRLOC_TNA_ADJ_MS:0 "tunisien"
- FRLOC_TNA_ADJ_FS:0 "tunisienne"
- FRLOC_TNA_ADJ_MP:0 "tunisiens"
- FRLOC_TNA_ADJ_FP:0 "tunisiennes"
-
- FRLOC_TNZ_ADJ_MS:0 "tanzanien"
- FRLOC_TNZ_ADJ_FS:0 "tanzanienne"
- FRLOC_TNZ_ADJ_MP:0 "tanzaniens"
- FRLOC_TNZ_ADJ_FP:0 "tanzaniennes"
- FRLOC_TNZ_ADJ_MS_FASCISM:0 "zanzibarien"
- FRLOC_TNZ_ADJ_FS_FASCISM:0 "zanzibarienne"
- FRLOC_TNZ_ADJ_MP_FASCISM:0 "zanzibariens"
- FRLOC_TNZ_ADJ_FP_FASCISM:0 "zanzibariennes"
-
- FRLOC_UGA_ADJ_M:0 "ougandais"
- FRLOC_UGA_ADJ_FS:0 "ougandaise"
- FRLOC_UGA_ADJ_FP:0 "ougandaises"
-
- FRLOC_URG_ADJ_MS:0 "uruguayen"
- FRLOC_URG_ADJ_FS:0 "uruguayenne"
- FRLOC_URG_ADJ_MP:0 "uruguayens"
- FRLOC_URG_ADJ_FP:0 "uruguayennes"
-
- FRLOC_VEN_ADJ_MS:0 "vénézuélien"
- FRLOC_VEN_ADJ_FS:0 "vénézuélienne"
- FRLOC_VEN_ADJ_MP:0 "vénézuéliens"
- FRLOC_VEN_ADJ_FP:0 "vénézuéliennes"
-
- FRLOC_WAF_ADJ_MS:0 "catist" #TODO
- FRLOC_WAF_ADJ_FS:0 "catist"
- FRLOC_WAF_ADJ_MP:0 "catist"
- FRLOC_WAF_ADJ_FP:0 "catist"
-
- FRLOC_WSH_ADJ_S:0 "sahraouie"
- FRLOC_WSH_ADJ_P:0 "sahraouies"
-
- FRLOC_YHM_ADJ_M:0 "cantonais"
- FRLOC_YHM_ADJ_FS:0 "cantonaise"
- FRLOC_YHM_ADJ_FP:0 "cantonaises"
- FRLOC_YHM_ADJ_M_NEUTRALITY:0 "chinois"
- FRLOC_YHM_ADJ_FS_NEUTRALITY:0 "chinoise"
- FRLOC_YHM_ADJ_FP_NEUTRALITY:0 "chinoises"
-
- FRLOC_YUG_ADJ_S:0 "yougoslave"
- FRLOC_YUG_ADJ_P:0 "yougoslaves"
-
- FRLOC_YUT_ADJ_M:0 "cantonais"
- FRLOC_YUT_ADJ_FS:0 "cantonaise"
- FRLOC_YUT_ADJ_FP:0 "cantonaises"
- FRLOC_YUT_ADJ_M_NEUTRALITY:0 "chinois"
- FRLOC_YUT_ADJ_FS_NEUTRALITY:0 "chinoise"
- FRLOC_YUT_ADJ_FP_NEUTRALITY:0 "chinoises"
-
- FRLOC_ZAM_ADJ_MS:0 "zambien"
- FRLOC_ZAM_ADJ_FS:0 "zambienne"
- FRLOC_ZAM_ADJ_MP:0 "zambiens"
- FRLOC_ZAM_ADJ_FP:0 "zambiennes"
-
- FRLOC_NKR_ADJ_MS_COMMUNISM:0 "nord-coréen"
- FRLOC_NKR_ADJ_FS_COMMUNISM:0 "nord-coréenne"
- FRLOC_NKR_ADJ_MP_COMMUNISM:0 "nord-coréens"
- FRLOC_NKR_ADJ_FP_COMMUNISM:0 "nord-coréennes"
-
- FRLOC_WUR_ADJ_M_NEUTRALITY:0 "wurtembergeois"
- FRLOC_WUR_ADJ_FS_NEUTRALITY:0 "wurtembergeoise"
- FRLOC_WUR_ADJ_FP_NEUTRALITY:0 "wurtembergeoises"
-
- # fichier Siam2_l_french.yml
- FRLOC_SIA_Thailand_ADJ_M:0 "thaïlandais"
- FRLOC_SIA_Thailand_ADJ_FS:0 "thaïlandaise"
- FRLOC_SIA_Thailand_ADJ_FP:0 "thaïlandaises"
-
-
-
-
-###################################################
-###   Nation Inhabitants / Habitants des pays   ###
-###################################################
-
- FRLOC_AHV_INHAB:0 "Ålandais"
- FRLOC_ALG_INHAB:0 "Algériens"
- FRLOC_ANG_INHAB:0 "Angolais"
- FRLOC_ARG_INHAB:0 "Argentins"
- FRLOC_AST_INHAB:0 "Australiens"
- FRLOC_AUS_INHAB:0 "Autrichiens"
- FRLOC_BAV_INHAB:0 "Bavarois"
- FRLOC_BAH_INHAB:0 "Bahaméens"
- FRLOC_BLZ_INHAB:0 "Béliziens"
- FRLOC_BOL_INHAB:0 "Boliviens"
- FRLOC_CDI_INHAB:0 "Ivoiriens"
- FRLOC_CHD_INHAB:0 "Tchadiens"
- FRLOC_CHD_INHAB_FASCISM:0 "Bangaliens"
- FRLOC_CHL_INHAB:0 "Chiliens"
- FRLOC_CMR_INHAB:0 "Camerounais"
- FRLOC_CMR_INHAB_COMMUNISM:0 "Bantuniens"
- FRLOC_CMR_INHAB_FASCISM:0 "Bornuiens"
- FRLOC_COG_INHAB:0 "Congolais"
- FRLOC_COL_INHAB:0 "Colombiens"
- FRLOC_CZE_VLK_INHAB_FASCISM:0 "Tchécoslovaques"
- FRLOC_DEN_INHAB:0 "Danois"
- FRLOC_DDR_INHAB:0 "Allemands de l'Est"
- FRLOC_DJB_INHAB:0 "Djiboutiens"
- FRLOC_RCG_INHAB:0 "Congolais"
- FRLOC_RCG_INHAB_FASCISM:0 "Kongolais"
- FRLOC_ECR_INHAB:0 "Chinois"
- FRLOC_ECU_INHAB:0 "Équatoriens"
- FRLOC_EGY_INHAB:0 "Égyptiens"
- FRLOC_EHA_INHAB:0 "Chinois"
- FRLOC_ERI_INHAB:0 "Érythréens"
- FRLOC_EQG_INHAB:0 "Équatoguinéens"
- FRLOC_FIJ_INHAB:0 "Pacifiques"
- FRLOC_FIJ_INHAB_DEMOCRATIC:0 "Mélanésiens"
- FRLOC_FIJ_INHAB_NEUTRALITY:0 "Fidjiens"
- FRLOC_FRA_INHAB:0 "Français"
- FRLOC_FRI_INHAB:0 "Indochinois"
- FRLOC_GAB_INHAB:0 "Gabonais"
- FRLOC_GAM_INHAB:0 "Gambiens"
- FRLOC_GBR_INHAB:0 "Guyaniens"
- FRLOC_GHA_INHAB:0 "Ghanéens"
- FRLOC_GHA_INHAB_FASCISM_NEUTRALITY:0 "Ashantis"
- FRLOC_GRL_INHAB:0 "Groenlandais"
- FRLOC_GUN_INHAB:0 "Guinéens"
- FRLOC_GUN_INHAB_FASCISM:0 "Bissaoguinéens"
- FRLOC_HAN_INHAB:0 "Hanovriens"
- FRLOC_HAN_INHAB_FASCISM:0 "Hannoveraner"
- FRLOC_HAN_INHAB_COMMUNISM:0 "Bas-saxons"
- FRLOC_HES_INHAB:0 "Hessois"
- FRLOC_HYD_INHAB:0 "Hyderabadiens"
- FRLOC_ICE_INHAB:0 "Islandais"
- FRLOC_IRQ_INHAB:0 "Irakiens"
- FRLOC_JAM_INHAB:0 "Jamaïcains"
- FRLOC_KEN_INHAB:0 "Kényans"
- FRLOC_LBA_INHAB:0 "Lybiens"
- FRLOC_KSV_INHAB:0 "Kosovars"
- FRLOC_LIT_INHAB:0 "Lituaniens"
- FRLOC_LSO_INHAB:0 "Lésothans"
- FRLOC_LUX_INHAB:0 "Luxembourgeois"
- FRLOC_MAD_INHAB:0 "Malgaches"
- FRLOC_MAU_INHAB:0 "Mauritaniens"
- FRLOC_MAN_INHAB:0 "Mandchous"
- FRLOC_MAN_INHAB_NEUTRALITY:0 "Qing"
- FRLOC_MEN_INHAB:0 "Mongols-intérieurs"
- FRLOC_MLI_INHAB:0 "Maliens"
- FRLOC_MLT_INHAB:0 "Maltais"
- FRLOC_MOR_INHAB:0 "Marocains"
- FRLOC_MOR_INHAB:0 "Maures"
- FRLOC_MOZ_INHAB:0 "Mozambicains"
- FRLOC_NAP_INHAB:0 "Napolitains"
- FRLOC_VNZ_INHAB:0 "Vénitiens"
- FRLOC_NGR_INHAB:0 "Nigériens"
- FRLOC_NIG_INHAB:0 "Nigérians"
- FRLOC_NMB_INHAB:0 "Namibiens"
- FRLOC_NMB_INHAB_FASCISM:0 "Südwestafrikaan"
- FRLOC_OMA_INHAB:0 "Omanais"
- FRLOC_PAR_INHAB:0 "Paraguayens"
- FRLOC_PGR_INHAB:0 "Chinois"
- FRLOC_PRU_INHAB:0 "Péruviens"
- FRLOC_PUE_INHAB:0 "Portoricains"
- FRLOC_RGR_INHAB:0 "Chinois"
- FRLOC_SAD_INHAB:0 "Sardes"
- FRLOC_SER_INHAB:0 "Serbes"
- FRLOC_SIC_INHAB:0 "Siciliens"
- FRLOC_SMI_INHAB:0 "Lapons"
- FRLOC_SDN_INHAB:0 "Soudanais"
- FRLOC_SIK_INHAB:0 "Turkestanais"
- FRLOC_SIK_INHAB_COMMUNISM:0 "Xinjiangais"
- FRLOC_SIK_INHAB_FASCISM:0 "Ouïghours"
- FRLOC_SEN_INHAB:0 "Sénégalais"
- FRLOC_SIE_INHAB:0 "Sierra-léonais"
- FRLOC_SOM_INHAB:0 "Somaliens"
- FRLOC_SSD_INHAB:0 "Sud-soudanais"
- FRLOC_SUR_INHAB:0 "Surinamiens"
- FRLOC_SZK_INHAB:0 "Sicules"
- FRLOC_SZL_INHAB:0 "Swazis"
- FRLOC_TNA_INHAB:0 "Tunisiens"
- FRLOC_TNZ_INHAB:0 "Tanzaniens"
- FRLOC_TNZ_INHAB_FASCISM:0 "Zanzibariens"
- FRLOC_UGA_INHAB:0 "Ougandais"
- FRLOC_URG_INHAB:0 "Uruguayens"
- FRLOC_WAF_INHAB:0 "Catist" #TODO
- FRLOC_WSH_INHAB:0 "Sahraouies"
- FRLOC_YHM_INHAB:0 "Cantonais"
- FRLOC_YHM_INHAB_NEUTRALITY:0 "Chinois"
- FRLOC_YUG_INHAB:0 "Yougoslaves"
- FRLOC_YUT_INHAB:0 "Cantonais"
- FRLOC_YUT_INHAB_NEUTRALITY:0 "Chinois"
- FRLOC_ZAM_INHAB:0 "Zambiens"
- FRLOC_NKR_INHAB_COMMUNISM:0 "Nord-Coréens"
- FRLOC_WUR_INHAB_NEUTRALITY:0 "Wurtembergeois"
-
- # fichier Siam2_l_french.yml
- FRLOC_SIA_Thailand_INHAB:0 "Thaïlandais"
-
-
-
-
-
+# Rechercher ### R56_INHAB ### / ### R56_INHAB_FIN ### ou équivalent dans common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt)
+
+# A JOUR (JUIN 2025) et vérifié (#TODO -> pays à modifier car adj différents selon idéologie)
+# Fichier r56_countries
+ FRLOC_NEW_AHV_INHAB: "Ålandais"  # Åland
+ FRLOC_NEW_AHV_ADJ_FP: "ålandaises"  # Åland
+ FRLOC_NEW_AHV_ADJ_FS: "ålandaise"  # Åland
+ FRLOC_NEW_AHV_ADJ_MP: "ålandais"  # Åland
+ FRLOC_NEW_AHV_ADJ_MS: "ålandais"  # Åland
+ FRLOC_NEW_ADR_INHAB: "Andorrans"  # Andorre
+ FRLOC_NEW_ADR_ADJ_FP: "andorranes"  # Andorre
+ FRLOC_NEW_ADR_ADJ_FS: "andorrane"  # Andorre
+ FRLOC_NEW_ADR_ADJ_MP: "andorrans"  # Andorre
+ FRLOC_NEW_ADR_ADJ_MS: "andorran"  # Andorre
+ FRLOC_NEW_BAD_INHAB: "Badois"  # République du conseil de Bade
+ FRLOC_NEW_BAD_ADJ_FP: "badoises"  # République du conseil de Bade
+ FRLOC_NEW_BAD_ADJ_FS: "badoise"  # République du conseil de Bade
+ FRLOC_NEW_BAD_ADJ_MP: "badois"  # République du conseil de Bade
+ FRLOC_NEW_BAD_ADJ_MS: "badois"  # République du conseil de Bade
+ FRLOC_NEW_BUR_INHAB: "Bouriates"  # République socialiste soviétique de Bouriatie
+ FRLOC_NEW_BUR_ADJ_FP: "bouriates"  # République socialiste soviétique de Bouriatie
+ FRLOC_NEW_BUR_ADJ_FS: "bouriate"  # République socialiste soviétique de Bouriatie
+ FRLOC_NEW_BUR_ADJ_MP: "bouriates"  # République socialiste soviétique de Bouriatie
+ FRLOC_NEW_BUR_ADJ_MS: "bouriate"  # République socialiste soviétique de Bouriatie
+ FRLOC_NEW_CDI_INHAB: "Ivoiriens"  # République de Côte d'Ivoire
+ FRLOC_NEW_CDI_ADJ_FP: "ivoiriennes"  # République de Côte d'Ivoire
+ FRLOC_NEW_CDI_ADJ_FS: "ivoirienne"  # République de Côte d'Ivoire
+ FRLOC_NEW_CDI_ADJ_MP: "ivoiriens"  # République de Côte d'Ivoire
+ FRLOC_NEW_CDI_ADJ_MS: "ivoirien"  # République de Côte d'Ivoire
+ FRLOC_NEW_CNR_INHAB: "Canariens"  # Canaries
+ FRLOC_NEW_CNR_ADJ_FP: "canariennes"  # Canaries
+ FRLOC_NEW_CNR_ADJ_FS: "canarienne"  # Canaries
+ FRLOC_NEW_CNR_ADJ_MP: "canariens"  # Canaries
+ FRLOC_NEW_CNR_ADJ_MS: "canarien"  # Canaries
+ FRLOC_NEW_DOU_INHAB: "Ukrainiens"  # État ukrainien
+ FRLOC_NEW_DOU_ADJ_FP: "ukrainiennes"  # État ukrainien
+ FRLOC_NEW_DOU_ADJ_FS: "ukrainienne"  # État ukrainien
+ FRLOC_NEW_DOU_ADJ_MP: "ukrainiens"  # État ukrainien
+ FRLOC_NEW_DOU_ADJ_MS: "ukrainien"  # État ukrainien
+ FRLOC_NEW_DJB_INHAB: "Djiboutiens"  # République de Djibouti #TODO
+ FRLOC_NEW_DJB_ADJ_FP: "djiboutiennes"  # République de Djibouti
+ FRLOC_NEW_DJB_ADJ_FS: "djiboutienne"  # République de Djibouti
+ FRLOC_NEW_DJB_ADJ_MP: "djiboutiens"  # République de Djibouti
+ FRLOC_NEW_DJB_ADJ_MS: "djiboutien"  # République de Djibouti
+ FRLOC_NEW_ECR_INHAB: "Tchakhars orientaux"  # Région autonome spéciale de l'est de Chahar
+ FRLOC_NEW_ECR_ADJ_FP: "tchakhares orientales"  # Région autonome spéciale de l'est de Chahar
+ FRLOC_NEW_ECR_ADJ_FS: "tchakhare orientale"  # Région autonome spéciale de l'est de Chahar
+ FRLOC_NEW_ECR_ADJ_MP: "tchakhars orientaux"  # Région autonome spéciale de l'est de Chahar
+ FRLOC_NEW_ECR_ADJ_MS: "tchakhar oriental"  # Région autonome spéciale de l'est de Chahar
+ FRLOC_NEW_EFR_INHAB: "Français"  # État français
+ FRLOC_NEW_EFR_ADJ_FP: "françaises"  # État français
+ FRLOC_NEW_EFR_ADJ_FS: "française"  # État français
+ FRLOC_NEW_EFR_ADJ_MP: "français"  # État français
+ FRLOC_NEW_EFR_ADJ_MS: "français"  # État français
+ FRLOC_NEW_EHA_INHAB: "Hebeïens orientaux"  # Conseil autonome anticommuniste du Hebei oriental
+ FRLOC_NEW_EHA_ADJ_FP: "hebeïennes orientales"  # Conseil autonome anticommuniste du Hebei oriental
+ FRLOC_NEW_EHA_ADJ_FS: "hebeïenne orientale"  # Conseil autonome anticommuniste du Hebei oriental
+ FRLOC_NEW_EHA_ADJ_MP: "hebeïens orientaux"  # Conseil autonome anticommuniste du Hebei oriental
+ FRLOC_NEW_EHA_ADJ_MS: "hebeïen oriental"  # Conseil autonome anticommuniste du Hebei oriental
+ FRLOC_NEW_FRI_INHAB: "Indochinois"  # Indochine #TODO
+ FRLOC_NEW_FRI_ADJ_FP: "indochinoises"  # Indochine
+ FRLOC_NEW_FRI_ADJ_FS: "indochinoise"  # Indochine
+ FRLOC_NEW_FRI_ADJ_MP: "indochinois"  # Indochine
+ FRLOC_NEW_FRI_ADJ_MS: "indochinois"  # Indochine
+ FRLOC_NEW_GBR_INHAB: "Guyaniens"  # République unie du Guyana
+ FRLOC_NEW_GBR_ADJ_FP: "guyaniennes"  # République unie du Guyana
+ FRLOC_NEW_GBR_ADJ_FS: "guyanienne"  # République unie du Guyana
+ FRLOC_NEW_GBR_ADJ_MP: "guyaniens"  # République unie du Guyana
+ FRLOC_NEW_GBR_ADJ_MS: "guyanien"  # République unie du Guyana
+ FRLOC_NEW_GRL_INHAB: "Groenlandais"  # Groenland
+ FRLOC_NEW_GRL_ADJ_FP: "groenlandaises"  # Groenland
+ FRLOC_NEW_GRL_ADJ_FS: "groenlandaise"  # Groenland
+ FRLOC_NEW_GRL_ADJ_MP: "groenlandais"  # Groenland
+ FRLOC_NEW_GRL_ADJ_MS: "groenlandais"  # Groenland
+ FRLOC_NEW_GUK_INHAB: "Ukrainiens-verts"  # Ukraine verte #TODO
+ FRLOC_NEW_GUK_ADJ_FP: "ukrainiennes-vertes"  # Ukraine verte
+ FRLOC_NEW_GUK_ADJ_FS: "ukrainienne-verte"  # Ukraine verte
+ FRLOC_NEW_GUK_ADJ_MP: "ukrainiens-verts"  # Ukraine verte
+ FRLOC_NEW_GUK_ADJ_MS: "ukrainien-vert"  # Ukraine verte
+ FRLOC_NEW_GUN_INHAB: "Bissaoguinéens"  # République de Guinée-Bissau
+ FRLOC_NEW_GUN_ADJ_FP: "bissaoguinéennes"  # République de Guinée-Bissau
+ FRLOC_NEW_GUN_ADJ_FS: "bissaoguinéenne"  # République de Guinée-Bissau
+ FRLOC_NEW_GUN_ADJ_MP: "bissaoguinéens"  # République de Guinée-Bissau
+ FRLOC_NEW_GUN_ADJ_MS: "bissaoguinéen"  # République de Guinée-Bissau
+ FRLOC_NEW_HES_INHAB: "Hessois"  # hessois
+ FRLOC_NEW_HES_ADJ_FP: "hessoises"  # hessois
+ FRLOC_NEW_HES_ADJ_FS: "hessoise"  # hessois
+ FRLOC_NEW_HES_ADJ_MP: "hessois"  # hessois
+ FRLOC_NEW_HES_ADJ_MS: "hessois"  # hessois
+ FRLOC_NEW_HYD_INHAB: "Hyderabadiens"  # État d'Hyderabad
+ FRLOC_NEW_HYD_ADJ_FP: "hyderabadiennes"  # État d'Hyderabad
+ FRLOC_NEW_HYD_ADJ_FS: "hyderabadienne"  # État d'Hyderabad
+ FRLOC_NEW_HYD_ADJ_MP: "hyderabadiens"  # État d'Hyderabad
+ FRLOC_NEW_HYD_ADJ_MS: "hyderabadien"  # État d'Hyderabad
+ FRLOC_NEW_KBC_INHAB: "Koubans"  # Hôte cosaque du Kouban
+ FRLOC_NEW_KBC_ADJ_FP: "koubanes"  # Hôte cosaque du Kouban
+ FRLOC_NEW_KBC_ADJ_FS: "koubane"  # Hôte cosaque du Kouban
+ FRLOC_NEW_KBC_ADJ_MP: "koubans"  # Hôte cosaque du Kouban
+ FRLOC_NEW_KBC_ADJ_MS: "kouban"  # Hôte cosaque du Kouban
+ FRLOC_NEW_LES_INHAB: "Lésothiens"  # Lesotho
+ FRLOC_NEW_LES_ADJ_FP: "lésothiennes"  # Lesotho
+ FRLOC_NEW_LES_ADJ_FS: "lésothienne"  # Lesotho
+ FRLOC_NEW_LES_ADJ_MP: "lésothiens"  # Lesotho
+ FRLOC_NEW_LES_ADJ_MS: "lésothien"  # Lesotho
+ FRLOC_NEW_MAU_INHAB: "Mauriciens"  # Maurice
+ FRLOC_NEW_MAU_ADJ_FP: "mauriciennes"  # Maurice
+ FRLOC_NEW_MAU_ADJ_FS: "mauricienne"  # Maurice
+ FRLOC_NEW_MAU_ADJ_MP: "mauriciens"  # Maurice
+ FRLOC_NEW_MAU_ADJ_MS: "mauricien"  # Maurice
+ FRLOC_NEW_NAP_INHAB: "Napolitains"  # État de Naples
+ FRLOC_NEW_NAP_ADJ_FP: "napolitaines"  # État de Naples
+ FRLOC_NEW_NAP_ADJ_FS: "napolitaine"  # État de Naples
+ FRLOC_NEW_NAP_ADJ_MP: "napolitains"  # État de Naples
+ FRLOC_NEW_NAP_ADJ_MS: "napolitain"  # État de Naples
+ FRLOC_NEW_VNZ_INHAB: "Vénitiens"  # Venise
+ FRLOC_NEW_VNZ_ADJ_FP: "vénitiennes"  # Venise
+ FRLOC_NEW_VNZ_ADJ_FS: "vénitienne"  # Venise
+ FRLOC_NEW_VNZ_ADJ_MP: "vénitiens"  # Venise
+ FRLOC_NEW_VNZ_ADJ_MS: "vénitien"  # Venise
+ FRLOC_NEW_NFL_INHAB: "Terreneuviens"  # Terre-Neuve
+ FRLOC_NEW_NFL_ADJ_FP: "terreneuviennes"  # Terre-Neuve
+ FRLOC_NEW_NFL_ADJ_FS: "terreneuvienne"  # Terre-Neuve
+ FRLOC_NEW_NFL_ADJ_MP: "terreneuviens"  # Terre-Neuve
+ FRLOC_NEW_NFL_ADJ_MS: "terreneuvien"  # Terre-Neuve
+ FRLOC_NEW_PGR_INHAB: "Chinois provisoires"  # Gouvernement provisoire de la République de Chine #TODO
+ FRLOC_NEW_PGR_ADJ_FP: "chinoises provisoires"  # Gouvernement provisoire de la République de Chine
+ FRLOC_NEW_PGR_ADJ_FS: "chinoise provisoire"  # Gouvernement provisoire de la République de Chine
+ FRLOC_NEW_PGR_ADJ_MP: "chinois provisoires"  # Gouvernement provisoire de la République de Chine
+ FRLOC_NEW_PGR_ADJ_MS: "chinois provisoire"  # Gouvernement provisoire de la République de Chine
+ FRLOC_NEW_PRS_INHAB: "Prussiens"  # État libre de Prusse
+ FRLOC_NEW_PRS_ADJ_FP: "prussiennes"  # État libre de Prusse
+ FRLOC_NEW_PRS_ADJ_FS: "prussienne"  # État libre de Prusse
+ FRLOC_NEW_PRS_ADJ_MP: "prussiens"  # État libre de Prusse
+ FRLOC_NEW_PRS_ADJ_MS: "prussien"  # État libre de Prusse
+ FRLOC_NEW_QBC_INHAB: "Québécois"  # Québec
+ FRLOC_NEW_QBC_ADJ_FP: "québécoises"  # Québec
+ FRLOC_NEW_QBC_ADJ_FS: "québécoise"  # Québec
+ FRLOC_NEW_QBC_ADJ_MP: "québécois"  # Québec
+ FRLOC_NEW_QBC_ADJ_MS: "québécois"  # Québec
+ FRLOC_NEW_RGR_INHAB: "Chinois réformés"  # Gouvernement réformé de la République de Chine
+ FRLOC_NEW_RGR_ADJ_FP: "chinoises réformées"  # Gouvernement réformé de la République de Chine
+ FRLOC_NEW_RGR_ADJ_FS: "chinois réformée"  # Gouvernement réformé de la République de Chine
+ FRLOC_NEW_RGR_ADJ_MP: "chinois réformés"  # Gouvernement réformé de la République de Chine
+ FRLOC_NEW_RGR_ADJ_MS: "chinois réformé"  # Gouvernement réformé de la République de Chine
+ FRLOC_NEW_RUT_INHAB: "Ukrainiens subcarpathiques"  # Ukraine subcarpathique #TODO
+ FRLOC_NEW_RUT_ADJ_FP: "ukrainiennes subcarpathiques"  # Ukraine subcarpathique
+ FRLOC_NEW_RUT_ADJ_FS: "ukrainienne subcarpathique"  # Ukraine subcarpathique
+ FRLOC_NEW_RUT_ADJ_MP: "ukrainiens subcarpathiques"  # Ukraine subcarpathique
+ FRLOC_NEW_RUT_ADJ_MS: "ukrainien subcarpathique"  # Ukraine subcarpathique
+ FRLOC_NEW_SAD_INHAB: "Sardes"  # Sardaigne
+ FRLOC_NEW_SAD_ADJ_FP: "sardes"  # Sardaigne
+ FRLOC_NEW_SAD_ADJ_FS: "sarde"  # Sardaigne
+ FRLOC_NEW_SAD_ADJ_MP: "sardes"  # Sardaigne
+ FRLOC_NEW_SAD_ADJ_MS: "sarde"  # Sardaigne
+ FRLOC_NEW_SIC_INHAB: "Siciliens"  # Sicile
+ FRLOC_NEW_SIC_ADJ_FP: "siciliennes"  # Sicile
+ FRLOC_NEW_SIC_ADJ_FS: "sicilienne"  # Sicile
+ FRLOC_NEW_SIC_ADJ_MP: "siciliens"  # Sicile
+ FRLOC_NEW_SIC_ADJ_MS: "sicilien"  # Sicile
+ FRLOC_NEW_SMI_INHAB: "Lapons"  # Laponie
+ FRLOC_NEW_SMI_ADJ_FP: "lapones"  # Laponie
+ FRLOC_NEW_SMI_ADJ_FS: "lapone"  # Laponie
+ FRLOC_NEW_SMI_ADJ_MP: "lapons"  # Laponie
+ FRLOC_NEW_SMI_ADJ_MS: "lapon"  # Laponie
+ FRLOC_NEW_SGP_INHAB: "Singapouriens"  # Singapour
+ FRLOC_NEW_SGP_ADJ_FP: "singapouriennes"  # Singapour
+ FRLOC_NEW_SGP_ADJ_FS: "singapourienne"  # Singapour
+ FRLOC_NEW_SGP_ADJ_MP: "singapouriens"  # Singapour
+ FRLOC_NEW_SGP_ADJ_MS: "singapourien"  # Singapour
+ FRLOC_NEW_SSU_INHAB: "Sud-Soudanais"  # Soudan du Sud #TODO
+ FRLOC_NEW_SSU_ADJ_FP: "sud-soudanaises"  # Soudan du Sud
+ FRLOC_NEW_SSU_ADJ_FS: "sud-soudanaise"  # Soudan du Sud
+ FRLOC_NEW_SSU_ADJ_MP: "sud-soudanais"  # Soudan du Sud
+ FRLOC_NEW_SSU_ADJ_MS: "sud-soudanais"  # Soudan du Sud
+ FRLOC_NEW_SWA_INHAB: "Swazis"  # Swaziland
+ FRLOC_NEW_SWA_ADJ_FP: "swazies"  # Swaziland
+ FRLOC_NEW_SWA_ADJ_FS: "swazie"  # Swaziland
+ FRLOC_NEW_SWA_ADJ_MP: "swazis"  # Swaziland
+ FRLOC_NEW_SWA_ADJ_MS: "swazi"  # Swaziland
+ FRLOC_NEW_SWK_INHAB: "Nord-Bornéens"  # République populaire de Bornéo du Nord #TODO
+ FRLOC_NEW_SWK_ADJ_FP: "nord-bornéennes"  # République populaire de Bornéo du Nord
+ FRLOC_NEW_SWK_ADJ_FS: "nord-bornéenne"  # République populaire de Bornéo du Nord
+ FRLOC_NEW_SWK_ADJ_MP: "nord-bornéens"  # République populaire de Bornéo du Nord
+ FRLOC_NEW_SWK_ADJ_MS: "nord-bornéen"  # République populaire de Bornéo du Nord
+ FRLOC_NEW_SZK_INHAB: "Sicules"  # Pays sicule
+ FRLOC_NEW_SZK_ADJ_FP: "sicules"  # Pays sicule
+ FRLOC_NEW_SZK_ADJ_FS: "sicule"  # Pays sicule
+ FRLOC_NEW_SZK_ADJ_MP: "sicules"  # Pays sicule
+ FRLOC_NEW_SZK_ADJ_MS: "sicule"  # Pays sicule
+ FRLOC_NEW_TER_INHAB: "Nord-caucasiens"  # République du Terek
+ FRLOC_NEW_TER_ADJ_FP: "nord-caucasiennes"  # République du Terek
+ FRLOC_NEW_TER_ADJ_FS: "nord-caucasienne"  # République du Terek
+ FRLOC_NEW_TER_ADJ_MP: "nord-caucasiens"  # République du Terek
+ FRLOC_NEW_TER_ADJ_MS: "nord-caucasien"  # République du Terek
+ FRLOC_NEW_TML_INHAB: "Timorais"  # Timor oriental
+ FRLOC_NEW_TML_ADJ_FP: "timoraises"  # Timor oriental
+ FRLOC_NEW_TML_ADJ_FS: "timoraise"  # Timor oriental
+ FRLOC_NEW_TML_ADJ_MP: "timorais"  # Timor oriental
+ FRLOC_NEW_TML_ADJ_MS: "timorais"  # Timor oriental
+ FRLOC_NEW_TNG_INHAB: "Khotanais"  # Khotan #TODO
+ FRLOC_NEW_TNG_ADJ_FP: "khotanaises"  # Khotan
+ FRLOC_NEW_TNG_ADJ_FS: "khotanaise"  # Khotan
+ FRLOC_NEW_TNG_ADJ_MP: "khotanais"  # Khotan
+ FRLOC_NEW_TNG_ADJ_MS: "khotanais"  # Khotan
+ FRLOC_NEW_VCW_INHAB: "Vénézuéliens"  # États falangistes du Vénézuéla
+ FRLOC_NEW_VCW_ADJ_FP: "vénézuéliennes"  # États falangistes du Vénézuéla
+ FRLOC_NEW_VCW_ADJ_FS: "vénézuélienne"  # États falangistes du Vénézuéla
+ FRLOC_NEW_VCW_ADJ_MP: "vénézuéliens"  # États falangistes du Vénézuéla
+ FRLOC_NEW_VCW_ADJ_MS: "vénézuélien"  # États falangistes du Vénézuéla
+ FRLOC_NEW_FLA_INHAB: "Flamands"  # Flandre
+ FRLOC_NEW_FLA_ADJ_FP: "flamandes"  # Flandre
+ FRLOC_NEW_FLA_ADJ_FS: "flamande"  # Flandre
+ FRLOC_NEW_FLA_ADJ_MP: "flamands"  # Flandre
+ FRLOC_NEW_FLA_ADJ_MS: "flamand"  # Flandre
+ FRLOC_NEW_WAF_INHAB: "Chats"  # Chayaume du chat
+ FRLOC_NEW_WAF_ADJ_FP: "chattes"  # Chayaume du chat
+ FRLOC_NEW_WAF_ADJ_FS: "chatte"  # Chayaume du chat
+ FRLOC_NEW_WAF_ADJ_MP: "chats"  # Chayaume du chat
+ FRLOC_NEW_WAF_ADJ_MS: "chat"  # Chayaume du chat
+ FRLOC_NEW_WLL_INHAB: "Wallons"  # Wallonie
+ FRLOC_NEW_WLL_ADJ_FP: "wallonnes"  # Wallonie
+ FRLOC_NEW_WLL_ADJ_FS: "wallonne"  # Wallonie
+ FRLOC_NEW_WLL_ADJ_MP: "wallons"  # Wallonie
+ FRLOC_NEW_WLL_ADJ_MS: "wallon"  # Wallonie
+ FRLOC_NEW_WSH_INHAB: "Sahraouis"  # Sahara occidental
+ FRLOC_NEW_WSH_ADJ_FP: "sahraouies"  # Sahara occidental
+ FRLOC_NEW_WSH_ADJ_FS: "sahraouie"  # Sahara occidental
+ FRLOC_NEW_WSH_ADJ_MP: "sahraouis"  # Sahara occidental
+ FRLOC_NEW_WSH_ADJ_MS: "sahraoui"  # Sahara occidental
+ FRLOC_NEW_YHM_INHAB: "Cantonais"  # Clique de Yu Hanmou
+ FRLOC_NEW_YHM_ADJ_FP: "cantonaises"  # Clique de Yu Hanmou
+ FRLOC_NEW_YHM_ADJ_FS: "cantonaise"  # Clique de Yu Hanmou
+ FRLOC_NEW_YHM_ADJ_MP: "cantonais"  # Clique de Yu Hanmou
+ FRLOC_NEW_YHM_ADJ_MS: "cantonais"  # Clique de Yu Hanmou
+ FRLOC_NEW_YUT_INHAB: "Cantonais"  # Clique yue
+ FRLOC_NEW_YUT_ADJ_FP: "cantonaises"  # Clique yue
+ FRLOC_NEW_YUT_ADJ_FS: "cantonaise"  # Clique yue
+ FRLOC_NEW_YUT_ADJ_MP: "cantonais"  # Clique yue
+ FRLOC_NEW_YUT_ADJ_MS: "cantonais"  # Clique yue
+ FRLOC_NEW_NKR_INHAB: "Nord-Coréens"  # République populaire démocratique de Corée
+ FRLOC_NEW_NKR_ADJ_FP: "nord-coréennes"  # République populaire démocratique de Corée
+ FRLOC_NEW_NKR_ADJ_FS: "nord-coréenne"  # République populaire démocratique de Corée
+ FRLOC_NEW_NKR_ADJ_MP: "nord-coréens"  # République populaire démocratique de Corée
+ FRLOC_NEW_NKR_ADJ_MS: "nord-coréen"  # République populaire démocratique de Corée
+ FRLOC_NEW_SCC_INHAB: "Sichuans"  # Clique du Sichuan
+ FRLOC_NEW_SCC_ADJ_FP: "sichuannes"  # Clique du Sichuan
+ FRLOC_NEW_SCC_ADJ_FS: "sichuanne"  # Clique du Sichuan
+ FRLOC_NEW_SCC_ADJ_MP: "sichuans"  # Clique du Sichuan
+ FRLOC_NEW_SCC_ADJ_MS: "sichuan"  # Clique du Sichuan
+ FRLOC_NEW_LIE_INHAB: "Liechtensteinois"  # Liechtenstein #TODO
+ FRLOC_NEW_LIE_ADJ_FP: "liechtensteinoises"  # Liechtenstein
+ FRLOC_NEW_LIE_ADJ_FS: "liechtensteinoise"  # Liechtenstein
+ FRLOC_NEW_LIE_ADJ_MP: "liechtensteinois"  # Liechtenstein
+ FRLOC_NEW_LIE_ADJ_MS: "liechtensteinois"  # Liechtenstein
+ FRLOC_NEW_BHR_INHAB: "Bahreïniens"  # Bahreïn
+ FRLOC_NEW_BHR_ADJ_FP: "bahreïniennes"  # Bahreïn
+ FRLOC_NEW_BHR_ADJ_FS: "bahreïnienne"  # Bahreïn
+ FRLOC_NEW_BHR_ADJ_MP: "bahreïniens"  # Bahreïn
+ FRLOC_NEW_BHR_ADJ_MS: "bahreïnien"  # Bahreïn
+ FRLOC_NEW_SEY_INHAB: "Seychellois"  # Seychelles
+ FRLOC_NEW_SEY_ADJ_FP: "seychelloises"  # Seychelles
+ FRLOC_NEW_SEY_ADJ_FS: "seychelloise"  # Seychelles
+ FRLOC_NEW_SEY_ADJ_MP: "seychellois"  # Seychelles
+ FRLOC_NEW_SEY_ADJ_MS: "seychellois"  # Seychelles
+ FRLOC_NEW_BRN_INHAB: "Brunéiens"  # Brunei
+ FRLOC_NEW_BRN_ADJ_FP: "brunéiennes"  # Brunei
+ FRLOC_NEW_BRN_ADJ_FS: "brunéienne"  # Brunei
+ FRLOC_NEW_BRN_ADJ_MP: "brunéiens"  # Brunei
+ FRLOC_NEW_BRN_ADJ_MS: "brunéien"  # Brunei
+ FRLOC_NEW_CAP_INHAB: "Cap-Verdiens"  # Cap-Vert
+ FRLOC_NEW_CAP_ADJ_FP: "cap-verdiennes"  # Cap-Vert
+ FRLOC_NEW_CAP_ADJ_FS: "cap-verdienne"  # Cap-Vert
+ FRLOC_NEW_CAP_ADJ_MP: "cap-verdiens"  # Cap-Vert
+ FRLOC_NEW_CAP_ADJ_MS: "cap-verdien"  # Cap-Vert
+ FRLOC_NEW_COM_INHAB: "Comoriens"  # Comores
+ FRLOC_NEW_COM_ADJ_FP: "comoriennes"  # Comores
+ FRLOC_NEW_COM_ADJ_FS: "comorienne"  # Comores
+ FRLOC_NEW_COM_ADJ_MP: "comoriens"  # Comores
+ FRLOC_NEW_COM_ADJ_MS: "comorien"  # Comores
+ FRLOC_NEW_MNC_INHAB: "Monégasques"  # Monaco
+ FRLOC_NEW_MNC_ADJ_FP: "monégasques"  # Monaco
+ FRLOC_NEW_MNC_ADJ_FS: "monégasque"  # Monaco
+ FRLOC_NEW_MNC_ADJ_MP: "monégasques"  # Monaco
+ FRLOC_NEW_MNC_ADJ_MS: "monégasque"  # Monaco
+ FRLOC_NEW_SAO_INHAB: "Santoméens"  # Sao Tomé-et-Principe
+ FRLOC_NEW_SAO_ADJ_FP: "santoméennes"  # Sao Tomé-et-Principe
+ FRLOC_NEW_SAO_ADJ_FS: "santoméenne"  # Sao Tomé-et-Principe
+ FRLOC_NEW_SAO_ADJ_MP: "santoméens"  # Sao Tomé-et-Principe
+ FRLOC_NEW_SAO_ADJ_MS: "santoméen"  # Sao Tomé-et-Principe
+ FRLOC_NEW_SAN_INHAB: "Saint-Marinais"  # Saint-Marin
+ FRLOC_NEW_SAN_ADJ_FP: "saint-marinaises"  # Saint-Marin
+ FRLOC_NEW_SAN_ADJ_FS: "saint-marinaise"  # Saint-Marin
+ FRLOC_NEW_SAN_ADJ_MP: "saint-marinais"  # Saint-Marin
+ FRLOC_NEW_SAN_ADJ_MS: "saint-marinais"  # Saint-Marin
+ FRLOC_NEW_SKM_INHAB: "Sikkimais"  # Sikkim
+ FRLOC_NEW_SKM_ADJ_FP: "sikkimaises"  # Sikkim
+ FRLOC_NEW_SKM_ADJ_FS: "sikkimaise"  # Sikkim
+ FRLOC_NEW_SKM_ADJ_MP: "sikkimais"  # Sikkim
+ FRLOC_NEW_SKM_ADJ_MS: "sikkimais"  # Sikkim
+ FRLOC_NEW_SMA_INHAB: "Somalilandais"  # Somaliland #TODO
+ FRLOC_NEW_SMA_ADJ_FP: "somalilandaises"  # Somaliland
+ FRLOC_NEW_SMA_ADJ_FS: "somalilandaise"  # Somaliland
+ FRLOC_NEW_SMA_ADJ_MP: "somalilandais"  # Somaliland
+ FRLOC_NEW_SMA_ADJ_MS: "somalilandais"  # Somaliland
+ FRLOC_NEW_MPL_INHAB: "Levantins"  # Administration levantine #TODO
+ FRLOC_NEW_MPL_ADJ_FP: "levantines"  # Administration levantine
+ FRLOC_NEW_MPL_ADJ_FS: "levantine"  # Administration levantine
+ FRLOC_NEW_MPL_ADJ_MP: "levantins"  # Administration levantine
+ FRLOC_NEW_MPL_ADJ_MS: "levantin"  # Administration levantine
+ FRLOC_NEW_ACN_INHAB: "Arctiques"  # République arctique
+ FRLOC_NEW_ACN_ADJ_FP: "arctiques"  # République arctique
+ FRLOC_NEW_ACN_ADJ_FS: "arctique"  # République arctique
+ FRLOC_NEW_ACN_ADJ_MP: "arctiques"  # République arctique
+ FRLOC_NEW_ACN_ADJ_MS: "arctique"  # République arctique
+ FRLOC_NEW_ABT_INHAB: "Albertains"  # Alberta
+ FRLOC_NEW_ABT_ADJ_FP: "albertaines"  # Alberta
+ FRLOC_NEW_ABT_ADJ_FS: "albertaine"  # Alberta
+ FRLOC_NEW_ABT_ADJ_MP: "albertains"  # Alberta
+ FRLOC_NEW_ABT_ADJ_MS: "albertain"  # Alberta
+ FRLOC_NEW_ALS_INHAB: "Alsaciens-Lorrains"  # Alsace-Lorraine
+ FRLOC_NEW_ALS_ADJ_FP: "alsaciennes-lorraines"  # Alsace-Lorraine
+ FRLOC_NEW_ALS_ADJ_FS: "alsacienne-lorraine"  # Alsace-Lorraine
+ FRLOC_NEW_ALS_ADJ_MP: "alsaciens-lorrains"  # Alsace-Lorraine
+ FRLOC_NEW_ALS_ADJ_MS: "alsacien-lorrain"  # Alsace-Lorraine
+ FRLOC_NEW_BCO_INHAB: "Cascadiens"  # Commune de Cascadie #TODO
+ FRLOC_NEW_BCO_ADJ_FP: "cascadiennes"  # Commune de Cascadie
+ FRLOC_NEW_BCO_ADJ_FS: "cascadienne"  # Commune de Cascadie
+ FRLOC_NEW_BCO_ADJ_MP: "cascadiens"  # Commune de Cascadie
+ FRLOC_NEW_BCO_ADJ_MS: "cascadien"  # Commune de Cascadie
+ FRLOC_NEW_BRB_INHAB: "Barbadiens"  # Barbade
+ FRLOC_NEW_BRB_ADJ_FP: "barbadiennes"  # Barbade
+ FRLOC_NEW_BRB_ADJ_FS: "barbadienne"  # Barbade
+ FRLOC_NEW_BRB_ADJ_MP: "barbadiens"  # Barbade
+ FRLOC_NEW_BRB_ADJ_MS: "barbadien"  # Barbade
+ FRLOC_NEW_BRM_INHAB: "Birmans"  # Colonie de Birmanie #TODO
+ FRLOC_NEW_BRM_ADJ_FP: "birmanes"  # Colonie de Birmanie
+ FRLOC_NEW_BRM_ADJ_FS: "birmane"  # Colonie de Birmanie
+ FRLOC_NEW_BRM_ADJ_MP: "birmans"  # Colonie de Birmanie
+ FRLOC_NEW_BRM_ADJ_MS: "birman"  # Colonie de Birmanie
+ FRLOC_NEW_CHT_INHAB: "Chathams"  # Royaume de Rekohu #TODO
+ FRLOC_NEW_CHT_ADJ_FP: "chathames"  # Royaume de Rekohu
+ FRLOC_NEW_CHT_ADJ_FS: "chathame"  # Royaume de Rekohu
+ FRLOC_NEW_CHT_ADJ_MP: "chathams"  # Royaume de Rekohu
+ FRLOC_NEW_CHT_ADJ_MS: "chatham"  # Royaume de Rekohu
+ FRLOC_NEW_DMN_INHAB: "Dominiquais"  # Dominique
+ FRLOC_NEW_DMN_ADJ_FP: "dominiquaises"  # Dominique
+ FRLOC_NEW_DMN_ADJ_FS: "dominiquaise"  # Dominique
+ FRLOC_NEW_DMN_ADJ_MP: "dominiquais"  # Dominique
+ FRLOC_NEW_DMN_ADJ_MS: "dominiquais"  # Dominique
+ FRLOC_NEW_DAR_INHAB: "Darfouris"  # Darfour
+ FRLOC_NEW_DAR_ADJ_FP: "darfouries"  # Darfour
+ FRLOC_NEW_DAR_ADJ_FS: "darfourie"  # Darfour
+ FRLOC_NEW_DAR_ADJ_MP: "darfouris"  # Darfour
+ FRLOC_NEW_DAR_ADJ_MS: "darfouri"  # Darfour
+ FRLOC_NEW_FAR_INHAB: "Féroïens"  # Îles Féroé
+ FRLOC_NEW_FAR_ADJ_FP: "féroïennes"  # Îles Féroé
+ FRLOC_NEW_FAR_ADJ_FS: "féroïenne"  # Îles Féroé
+ FRLOC_NEW_FAR_ADJ_MP: "féroïens"  # Îles Féroé
+ FRLOC_NEW_FAR_ADJ_MS: "féroïen"  # Îles Féroé
+ FRLOC_NEW_GRA_INHAB: "Grenadiens"  # Grenade
+ FRLOC_NEW_GRA_ADJ_FP: "grenadiennes"  # Grenade
+ FRLOC_NEW_GRA_ADJ_FS: "grenadienne"  # Grenade
+ FRLOC_NEW_GRA_ADJ_MP: "grenadiens"  # Grenade
+ FRLOC_NEW_GRA_ADJ_MS: "grenadien"  # Grenade
+ FRLOC_NEW_HAZ_INHAB: "Hazaras"  # Hazaristan
+ FRLOC_NEW_HAZ_ADJ_FP: "hazaras"  # Hazaristan
+ FRLOC_NEW_HAZ_ADJ_FS: "hazara"  # Hazaristan
+ FRLOC_NEW_HAZ_ADJ_MP: "hazaras"  # Hazaristan
+ FRLOC_NEW_HAZ_ADJ_MS: "hazara"  # Hazaristan
+ FRLOC_NEW_JER_INHAB: "Jersiais-Guernesiais"  # Jersey-Guernesey
+ FRLOC_NEW_JER_ADJ_FP: "jersiaises-guernesiaises"  # Jersey-Guernesey
+ FRLOC_NEW_JER_ADJ_FS: "jersiaise-guernesiaise"  # Jersey-Guernesey
+ FRLOC_NEW_JER_ADJ_MP: "jersiais-guernesiais"  # Jersey-Guernesey
+ FRLOC_NEW_JER_ADJ_MS: "jersiais-guernesiais"  # Jersey-Guernesey
+ FRLOC_NEW_KIR_INHAB: "Abemamiens"  # Abemama #TODO
+ FRLOC_NEW_KIR_ADJ_FP: "abemamiennes"  # Abemama
+ FRLOC_NEW_KIR_ADJ_FS: "abemamienne"  # Abemama
+ FRLOC_NEW_KIR_ADJ_MP: "abemamiens"  # Abemama
+ FRLOC_NEW_KIR_ADJ_MS: "abemamien"  # Abemama
+ FRLOC_NEW_NIU_INHAB: "Niuéens"  # Niue
+ FRLOC_NEW_NIU_ADJ_FP: "niuéennes"  # Niue
+ FRLOC_NEW_NIU_ADJ_FS: "niuéenne"  # Niue
+ FRLOC_NEW_NIU_ADJ_MP: "niuéens"  # Niue
+ FRLOC_NEW_NIU_ADJ_MS: "niuéen"  # Niue
+ FRLOC_NEW_MET_INHAB: "Métisses"  # Fédération métisse
+ FRLOC_NEW_MET_ADJ_FP: "métisses"  # Fédération métisse
+ FRLOC_NEW_MET_ADJ_FS: "métisse"  # Fédération métisse
+ FRLOC_NEW_MET_ADJ_MP: "métisses"  # Fédération métisse
+ FRLOC_NEW_MET_ADJ_MS: "métisse"  # Fédération métisse
+ FRLOC_NEW_MAA_INHAB: "Saint-martinois"  # Saint-Martin
+ FRLOC_NEW_MAA_ADJ_FP: "saint-martinoises"  # Saint-Martin
+ FRLOC_NEW_MAA_ADJ_FS: "saint-martinoise"  # Saint-Martin
+ FRLOC_NEW_MAA_ADJ_MP: "saint-martinois"  # Saint-Martin
+ FRLOC_NEW_MAA_ADJ_MS: "saint-martinois"  # Saint-Martin
+ FRLOC_NEW_MAR_INHAB: "Martiniquais"  # Martinique
+ FRLOC_NEW_MAR_ADJ_FP: "martiniquaises"  # Martinique
+ FRLOC_NEW_MAR_ADJ_FS: "martiniquaise"  # Martinique
+ FRLOC_NEW_MAR_ADJ_MP: "martiniquais"  # Martinique
+ FRLOC_NEW_MAR_ADJ_MS: "martiniquais"  # Martinique
+ FRLOC_NEW_MRS_INHAB: "Marshallais"  # Îles Marshall
+ FRLOC_NEW_MRS_ADJ_FP: "marshallaises"  # Îles Marshall
+ FRLOC_NEW_MRS_ADJ_FS: "marshallaise"  # Îles Marshall
+ FRLOC_NEW_MRS_ADJ_MP: "marshallais"  # Îles Marshall
+ FRLOC_NEW_MRS_ADJ_MS: "marshallais"  # Îles Marshall
+ FRLOC_NEW_VAN_INHAB: "Vanuatais"  # Vanuatu
+ FRLOC_NEW_VAN_ADJ_FP: "vanuataises"  # Vanuatu
+ FRLOC_NEW_VAN_ADJ_FS: "vanuataise"  # Vanuatu
+ FRLOC_NEW_VAN_ADJ_MP: "vanuatais"  # Vanuatu
+ FRLOC_NEW_VAN_ADJ_MS: "vanuatais"  # Vanuatu
+ FRLOC_NEW_PLU_INHAB: "Palaois"  # Palaos
+ FRLOC_NEW_PLU_ADJ_FP: "palaoises"  # Palaos
+ FRLOC_NEW_PLU_ADJ_FS: "palaoise"  # Palaos
+ FRLOC_NEW_PLU_ADJ_MP: "palaois"  # Palaos
+ FRLOC_NEW_PLU_ADJ_MS: "palaois"  # Palaos
+ FRLOC_NEW_PPA_INHAB: "Papous occidentaux"  # État papou occidental
+ FRLOC_NEW_PPA_ADJ_FP: "papoues occidentales"  # État papou occidental
+ FRLOC_NEW_PPA_ADJ_FS: "papoue occidentale"  # État papou occidental
+ FRLOC_NEW_PPA_ADJ_MP: "papous occidentaux"  # État papou occidental
+ FRLOC_NEW_PPA_ADJ_MS: "papou occidental"  # État papou occidental
+ FRLOC_NEW_RHI_INHAB: "Rhénans"  # Rhénanie
+ FRLOC_NEW_RHI_ADJ_FP: "rhénanes"  # Rhénanie
+ FRLOC_NEW_RHI_ADJ_FS: "rhénane"  # Rhénanie
+ FRLOC_NEW_RHI_ADJ_MP: "rhénans"  # Rhénanie
+ FRLOC_NEW_RHI_ADJ_MS: "rhénan"  # Rhénanie
+ FRLOC_NEW_SAR_INHAB: "Sarrois"  # Sarre
+ FRLOC_NEW_SAR_ADJ_FP: "sarroises"  # Sarre
+ FRLOC_NEW_SAR_ADJ_FS: "sarroise"  # Sarre
+ FRLOC_NEW_SAR_ADJ_MP: "sarrois"  # Sarre
+ FRLOC_NEW_SAR_ADJ_MS: "sarrois"  # Sarre
+ FRLOC_NEW_STL_INHAB: "Saint-Luciens"  # Sainte-Lucie
+ FRLOC_NEW_STL_ADJ_FP: "saint-luciennes"  # Sainte-Lucie
+ FRLOC_NEW_STL_ADJ_FS: "saint-lucienne"  # Sainte-Lucie
+ FRLOC_NEW_STL_ADJ_MP: "saint-luciens"  # Sainte-Lucie
+ FRLOC_NEW_STL_ADJ_MS: "saint-lucien"  # Sainte-Lucie
+ FRLOC_NEW_STK_INHAB: "Christophiens"  # Saint-Christophe-et-Niévès
+ FRLOC_NEW_STK_ADJ_FP: "christophiennes"  # Saint-Christophe-et-Niévès
+ FRLOC_NEW_STK_ADJ_FS: "christophienne"  # Saint-Christophe-et-Niévès
+ FRLOC_NEW_STK_ADJ_MP: "christophiens"  # Saint-Christophe-et-Niévès
+ FRLOC_NEW_STK_ADJ_MS: "christophien"  # Saint-Christophe-et-Niévès
+ FRLOC_NEW_SVG_INHAB: "Vincentais"  # Saint-Vincent-et-les-Grenadines
+ FRLOC_NEW_SVG_ADJ_FP: "vincentaises"  # Saint-Vincent-et-les-Grenadines
+ FRLOC_NEW_SVG_ADJ_FS: "vincentaise"  # Saint-Vincent-et-les-Grenadines
+ FRLOC_NEW_SVG_ADJ_MP: "vincentais"  # Saint-Vincent-et-les-Grenadines
+ FRLOC_NEW_SVG_ADJ_MS: "vincentais"  # Saint-Vincent-et-les-Grenadines
+ FRLOC_NEW_TON_INHAB: "Tongiens"  # Tonga
+ FRLOC_NEW_TON_ADJ_FP: "tongiennes"  # Tonga
+ FRLOC_NEW_TON_ADJ_FS: "tongienne"  # Tonga
+ FRLOC_NEW_TON_ADJ_MP: "tongiens"  # Tonga
+ FRLOC_NEW_TON_ADJ_MS: "tongien"  # Tonga
+ FRLOC_NEW_TUV_INHAB: "Elliciens"  # Îles Ellice #TODO
+ FRLOC_NEW_TUV_ADJ_FP: "elliciennes"  # Îles Ellice
+ FRLOC_NEW_TUV_ADJ_FS: "ellicienne"  # Îles Ellice
+ FRLOC_NEW_TUV_ADJ_MP: "elliciens"  # Îles Ellice
+ FRLOC_NEW_TUV_ADJ_MS: "ellicien"  # Îles Ellice
+ FRLOC_NEW_TXS_INHAB: "Texans"  # Texas
+ FRLOC_NEW_TXS_ADJ_FP: "texanes"  # Texas
+ FRLOC_NEW_TXS_ADJ_FS: "texane"  # Texas
+ FRLOC_NEW_TXS_ADJ_MP: "texans"  # Texas
+ FRLOC_NEW_TXS_ADJ_MS: "texan"  # Texas
+ FRLOC_NEW_NRU_INHAB: "Nauruans"  # Nauru
+ FRLOC_NEW_NRU_ADJ_FP: "nauruanes"  # Nauru
+ FRLOC_NEW_NRU_ADJ_FS: "nauruane"  # Nauru
+ FRLOC_NEW_NRU_ADJ_MP: "nauruans"  # Nauru
+ FRLOC_NEW_NRU_ADJ_MS: "nauruan"  # Nauru
+ FRLOC_NEW_ZAN_INHAB: "Zanzibariens"  # Zanzibar
+ FRLOC_NEW_ZAN_ADJ_FP: "zanzibariennes"  # Zanzibar
+ FRLOC_NEW_ZAN_ADJ_FS: "zanzibarienne"  # Zanzibar
+ FRLOC_NEW_ZAN_ADJ_MP: "zanzibariens"  # Zanzibar
+ FRLOC_NEW_ZAN_ADJ_MS: "zanzibarien"  # Zanzibar
+
+
+
+# Pas à jour
 ######################################################################
 ###   Cosmetic nation adjectives / Adjectifs des pays cosmétiques  ###
 ######################################################################

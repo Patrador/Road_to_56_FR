@@ -28,7 +28,7 @@
  france.151.a:0 "Giraud est le choix évident."
  france.151.b:0 "Mitterrand semble prometteur."
  france.152.t:0 "Victoire du Front populaire en [FRA.GetNameDef]"
- france.152.d:0 "Le Front populaire, alliance politique composée d'une grande partie des mouvements de gauche [FRA.GetAdjective], dont la SFIO, le Parti radical et le Parti communiste, a remporté les élections législatives [FRA.GetAdjective] avec 57% des voix. De nombreuses grèves sont organisées pour soutenir le front. Léon Blum, leader de la SFIO, est nommé Premier ministre.\n\nLeur programme s'articule autour de la défense de la démocratie, notamment par leur opposition aux ligues d'extrême droite, leur pacifisme et la mise en place de nombreuses réformes sociales telles que les congés payés et la volonté de relancer l'économie en développant la consommation."
+ france.152.d:0 "\nLe Front populaire, alliance politique composée d'une grande partie des mouvements de gauche [FRA.GetAdjective], dont la SFIO, le Parti radical et le Parti communiste, a remporté les élections législatives [FRA.GetAdjective] avec 57% des voix. De nombreuses grèves sont organisées pour soutenir le front. Léon Blum, leader de la SFIO, est nommé Premier ministre.\n\nLeur programme s'articule autour de la défense de la démocratie, notamment par leur opposition aux ligues d'extrême droite, leur pacifisme et la mise en place de nombreuses réformes sociales telles que les congés payés et la volonté de relancer l'économie en développant la consommation."
  france.152.a:0 "Tout est possible !"
  france.152.b:0 "Bonne chance à eux."
  france.152.c:0 "Ils ne sont rien de plus que des bolchéviques dégoûtants."
