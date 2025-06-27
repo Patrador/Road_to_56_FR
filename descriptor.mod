@@ -1,5 +1,5 @@
 name="The Road to 56 - Traduction Française"
-version="0.10.8"
+version="0.10.9"
 dependencies={
 	"The Road to 56"
 }
