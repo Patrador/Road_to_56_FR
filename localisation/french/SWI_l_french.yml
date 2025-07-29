@@ -642,3 +642,8 @@
  SWI_ortswehren:0 "Ortswehren"
  SWI_ortswehren_desc:0 "Une guerre totale signifie que chaque citoyen [ROOT.GetAdjMS] doit être prêt à défendre sa région, mais tout le monde n'est pas en mesure de rejoindre nos milices. Nous pouvons créer des gardes locaux qui serviront de colonne vertébrale aux milices pour les soutenir dans leurs efforts pour défendre [ROOT.GetNameDef]."
  r56_SWI_swiss_fortifications:0 "Fortifications suisses"
+ SWI_sika_ag:0 "Sika AG"
+ SWI_fischer_reinach:0 "Fischer Reinach"
+ SWI_locher_and_cie:0 "Locher & Cie"
+ SWI_schwiezerische_bundesbahnen:0 "Schweizerische Bundesbahnen"
+ SWI_paillard_ag:0 "Paillard AG"

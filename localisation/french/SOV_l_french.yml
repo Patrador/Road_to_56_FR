@@ -350,3 +350,6 @@
  SOV_counter_attack_through_manchuria:0 "Contre-attaque en Mandchourie"
  r56_operation_countenance_tooltip:0 "§Y[PER.GetName]§! : A capitulé"
  r56_SOV_development_of_tankograd_tt:0 "S'il n'y a pas d'autres §YInstallations expérimentales§! à §Y[572.GetName]§!, nous obtiendrons §G1§! §Y$land_facility$§! à §Y[572.GetName]§!."
+ SOV_ivan_dmitriev:0 "Ivan Dmitriev"
+ SOV_sinkiang_mineral_prospection_sik:0 "Propose Mineral Prospection in Southern [SIK.GetName]"
+ SOV_sinkiang_oil_prospection_sik:0 "Propose Mineral Prospection in Northern [SIK.GetName]"
