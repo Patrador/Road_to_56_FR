@@ -42,3 +42,4 @@
  decision_cost_CP_75_PP_50_tooltip:0 "Cela coûte £command_power §Y75§! et £pol_power_icon §Y50§! pour sélectionner ceci."
  rail_way_plural:0 "Chemins de fer"
  NORDIC_alliance_created_already_TT_NOT: "Aucune alliance commune n’a été formée."
+ disable_canal_tt_NOT:0 "Canal Being Destroyed."

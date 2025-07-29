@@ -88,7 +88,6 @@
  liechtenstein.13.t:0 "[SWI.GetAdjective] remains inconclusive"
  liechtenstein.13.d:0 "L'intervention militaire de [SWI.GetNameDef] à [LIE.GetNameDef] s'est révélée inconclusive. Malgré les efforts pour neutraliser toute menace potentielle posée par les partis extrémistes dans le pays, la situation reste non résolue."
  liechtenstein.13.a:0 "Très bien."
- LIE_GATHERING_STORM_DESC:0 "Le Liechtenstein a soigneusement géré une politique de neutralité depuis 1868, restant à l’écart de la Grande Guerre. Cependant, la nation a été fortement affectée par ses échos, ce qui a conduit à une révolution modeste en 1918 et à l’introduction d’une nouvelle constitution alignée politiquement avec la Suisse.\n\nCependant, les menaces contre le Liechtenstein augmentent à nouveau, tant à l’intérieur qu’à l’extérieur. Des temps turbulents pourraient représenter un grave risque pour le pays, et il devra naviguer prudemment pour ne pas devenir une simple note de bas de page dans l’histoire."
  RULE_HISTORICAL_LIE_AI_DESC:0 "Le Liechtenstein restera démocratique et neutre. Il cherchera à établir un commerce de l'or et des liens plus étroits avec la Suisse."
  LIE_AI_BEHAVIOR:0 "@LIE Liechtenstein"
  LIE_liechtenstein_red_cross_idea:0 "La Croix-Rouge de [ROOT.GetNonIdeologyName]"
@@ -508,3 +507,5 @@
  LIE_the_exiled_prince:0 "Le prince exilé"
  LIE_soldier_tsar:0 "Tsar Soldat"
  foreign_intelligence_contacts:0 "Contacts avec les services de renseignement étrangers"
+ liechtenstein.27.d:0 "The [FROM.GetAdjective] government has officially accepted our offer to enter into favorable economic relations with Vaduz. We hope that this action will benefit the economies of both nations!"
+ liechtenstein.28.d:0 "Unfortunately, despite our best efforts and our great generosity, our diplomatic mission to [FROM.GetNameDef] has concluded in their stunning lack of interest in any such proposal."

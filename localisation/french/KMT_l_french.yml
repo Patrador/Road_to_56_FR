@@ -1,5 +1,4 @@
 ﻿l_french:
- china_nationalist_focus:0 "Priorité Nationale de la République de Chine"
  CHI_HK:0 "Ville d'Hong Kong"
  CHI_HK_UK:0 "Ville d'Hong Kong"
  CHI_MAC:0 "Ville de Macao"
@@ -283,7 +282,7 @@
  KMT_national_institute_ns:0 "L'asile pour les juifs"
  KMT_national_institute_ns_desc:0 "De nombreux réfugiés juifs aident notre industrie et notre recherche en signe de gratitude pour leur sauvetage."
  incompetent_industry_real:0 "Industrie incompétente"
- incompetent_industry_real_desc:0 "[ROOT.getAdjective] L'industrie jeune et inexpérimentée elle, n'est pas préparée à la tempête qui s'annonce.\n\n§YUtiliser les décisions pour améliorer les capacités industrielles de la nation.§!"
+ incompetent_industry_real_desc:0 " L'industrie [ROOT.getAdjective] est jeune et inexpérimentée. Elle n'est pas préparée à la tempête qui s'annonce.\n\n§YUtiliser les décisions pour améliorer les capacités industrielles de la nation.§!"
  incompetent_industry_real_navy:0 "Industrie navale incompétente"
  incompetent_industry_real_navy_desc:0 "[ROOT.GetNameDefCap] a toujours été une puissance terrestre. Une marine hauturière reste un rêve irréaliste.\n\n§YUtiliser les décisions pour améliorer les capacités industrielles de la nation.§!"
  KMT_weak_army:0 "Armée incompétente"

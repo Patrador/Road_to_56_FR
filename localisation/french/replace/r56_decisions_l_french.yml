@@ -259,3 +259,7 @@
  CHL_mapuche_liberate_tonga: "Libérez le peuple [TON.GetAdjective]"
  CHL_mapuche_liberate_niue: "Libérer le peuple de Niue"
  ELS_purge_the_fourteen_families:0 "Purgez les quatorze familles"
+ r56_accelerate_panama_canal_locks_reparations:0 "Accelerate the Panama Canal Locks Reparations"
+ debug_decisions:0 "Road to 56 Experiment Tools"
+ debug_core_all:0 "Core Everything"
+ kill_country_leader:0 "Kill the Current Leader"
