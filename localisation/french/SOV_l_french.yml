@@ -47,7 +47,7 @@
  SOV_Restrict_Political_Expression:0 "Restreindre l'expression politique"
  SOV_Restrict_Political_Expression_desc:0 "Si la liberté d'expression et les autres libertés politiques sont de grands atouts, les temps modernes exigent que des mesures différentes soient prises. Ceux qui encouragent la rébellion et nourrissent la dissidence doivent être traqués et éliminés de la population."
  SOV_One_Dream_One_China:0 "Un rêve, une seule Chine"
- SOV_One_Dream_One_China_desc:0 "Nous aiderons le véritable gouvernement chinois à libérer les paysans des différents chefs de guerre qui sont arrivés au pouvoir ces dernières années. Le chef de guerre, Tchang Kaï-chek, sera un adversaire redoutable à venir, c'est pourquoi nous apporterons une aide militaire à cette entreprise."
+ SOV_One_Dream_One_China_desc:0 "Nous aiderons le véritable gouvernement chinois à libérer les paysans des différents chefs de guerre qui sont arrivés au pouvoir ces dernières années. Le chef de guerre, Chiang Kaï-chek, sera un adversaire redoutable à venir, c'est pourquoi nous apporterons une aide militaire à cette entreprise."
  SOV_Return_Of_Japanese_Occupied_China:0 "Négocier le retour de la Chine occupée par le Japon"
  SOV_Return_Of_Japanese_Occupied_China_desc:0 "Nous servirons de médiateur dans le conflit entre les Japonais et les Chinois et nous trouverons une solution équitable au conflit vécu par les deux parties. Nous garantirons l'issue de la procédure et nous veillerons à ce que les choses se passent bien. Le camarade Trotski n'est pas du genre à se laisser berner."
  SOV_Indian_Communism:0 "Communisme indien"
@@ -353,3 +353,4 @@
  SOV_ivan_dmitriev:0 "Ivan Dmitriev"
  SOV_sinkiang_mineral_prospection_sik:0 "Propose Mineral Prospection in Southern [SIK.GetName]"
  SOV_sinkiang_oil_prospection_sik:0 "Propose Mineral Prospection in Northern [SIK.GetName]"
+ VLA_spiridon_merkulov:0 "Spiridon Merkulov"

@@ -273,3 +273,4 @@
  SAF_uranium_mining_desc:0 "Les échantillons de notre prospection géologique ont révélé la présence de minerai d'uranium sur certaines parties de notre territoire. Ces ressources pourraient s'avérer vitales pour garantir l'autonomie stratégique de notre pays en matière d'approvisionnement en ce minerai stratégique."
  SAF_relax_racial_laws_tt:0 "Débloque de nombreux conseillers politiques, généraux et amiraux noirs."
  unite_tanganyika_zanzibar:0 "Unir [TZN.GetNonIdeologyName] et [ZAN.GetNonIdeologyName]"
+ SAF_reform_staff_officers_training_desc:0 ""

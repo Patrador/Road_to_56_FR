@@ -182,4 +182,5 @@
  ETH_generic_tank_plant:0 "Atelier national sur les chars d'assaut"
  ETH_tank_refurbishment_plant:0 "Usine de mise à niveau des chars"
  ETH_tank_refurbishment_plant_desc:0 "Si nous avons besoin de chars, pourquoi ne pas commencer avec ce que les Italiens nous ont laissé ?"
- ETH_christmas_offensive_idea:0 "Christmas Offensive"
+ ETH_r56_rebuilding_the_country:0 "Rebuilding the Country"
+ ETH_r56_rebuilding_the_country_desc:0 ""

@@ -240,7 +240,7 @@
  LIE_german_equipment_desc:0 "Une intégration plus poussée au sein de la Wehrmacht allemande doit inclure la fourniture standard de son équipement d'infanterie d'élite. Nous devrions envoyer un émissaire à Berlin pour demander officiellement l'autorisation de lancer la production nationale de son armement."
  LIE_eradicate_communism:0 "Éradiquer le communisme"
  LIE_eradicate_communism_desc:0 "Ce n’est un secret pour personne que le fascisme est idéologiquement opposé au communisme. C’est pourquoi nous chercherons à l’éradiquer non seulement dans notre propre pays mais dans le monde entier."
- LIE_invade_the_soviets:0 "Envahir les [SOV.GetAdjective]s"
+ LIE_invade_the_soviets:0 "Invade the [SOV.GetAdjective]s"
  LIE_invade_the_soviets_desc:0 "La plus grande menace continentale pour toute l'Europe est celle des [SOV.GetAdjective]s, c'est pourquoi nous devons les frapper en premier afin d'éviter une Europe dominée par la Russie."
  LIE_alliance_with_the_industrialists:0 "Alliance avec les industriels"
  LIE_alliance_with_the_industrialists_desc:0 "En faisant alliance avec les quelques industriels du pays, nous pouvons nationaliser en toute sécurité les actifs pour mieux servir l’État dans son ensemble."

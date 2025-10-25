@@ -918,3 +918,4 @@
  restructure_supply_system:0 "Réorganiser le réseau ferré"
  restructure_supply_system_desc:0 "En mobilisant les matériaux et les ouvriers des chemins de fer, il est possible de créer rapidement des dépôts le long de certaines voies. Malgré tout, ce n'est pas une manière efficace de gérer le réseau sur le long terme.\n\n§RCette décision ne peut être prise qu'une seule fois, et l'avantage qu'elle confère disparaîtra si plus de §Y3§! nœuds logistiques supplémentaires sont construits ainsi.§!"
  SOV_jiuquan_oil_prospection: "Prospections pétrolière en Jiuquan"
+ SOV_soviet_civil_war_not_started_tt_NOT: "The Soviet Civil War has started"

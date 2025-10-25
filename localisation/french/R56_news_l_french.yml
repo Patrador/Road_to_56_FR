@@ -263,3 +263,8 @@
  r56.news_event.1122.b:0 "It will hit their logistics..."
  r56.news_event.1123.t:0 "The Panama Canal Destroyed by Atomic Fire!"
  r56.news_event.1123.desc:0 "\nIntertwined remains of locks, trees, building and ships. This is the terrifying description of what remained of the Panama Canal Zone. The canal has been recently hit by a nuclear device powerful enough to destroy its locks and devastate the entire area. Due to the difference of elevation of the isthmus, navigation there will be interrupted for a long period of time. The war continues, and ships will have to once again do the long voyage through the Magellan strait."
+ r56.news_event.52.t:0 "Inuit Union Declared"
+ r56.news_event.52.d:0 "For a long time, the island of Greenland has been closed off under tight [DEN.GetAdjective] control; after three centuries of the Royal Greenland Trading Department's dictation, it was then transfered to Denmark's interior ministry in 1908 and has now recently gained independence - one that has now been taken further by the formation of [GRN.GetNameDef] encompassing its recently seized territories.\n\n[GRN.GetOldNameDefCap] was the first of its kind as a modern state for the people of northernmost America. No ideas like this were conceieved before, but to the surprise of many there is now a pan-Inuit state on the map."
+ r56.news_event.52.a:0 "At the top of the world lives the free Inuit!"
+ r56.news_event.52.b:0 "Colonial political arrangements unravel..."
+ r56.news_event.52.c:0 "We are absolutely prepared to fight in their harsh climate."
