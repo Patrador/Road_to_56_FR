@@ -70,7 +70,7 @@
  SUD_the_steam_locomotive_desc:0 ""
  SUD_exploit_national_resources:0 "Exploiter les ressources nationales"
  SUD_exploit_national_resources_desc:0 ""
- SUD_the_state_bank_of_name:0 "The State Bank of [ROOT.GetNameDef]"
+ SUD_the_state_bank_of_name:0 "La Banque d’État de [ROOT.GetNameDef]"
  SUD_the_state_bank_of_name_desc:0 ""
  SUD_promote_local_crafts:0 "Promouvoir l'artisanat local"
  SUD_promote_local_crafts_desc:0 ""

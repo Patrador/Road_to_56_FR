@@ -8,7 +8,7 @@
  GEO_establish_georgian_legion_cost_blocked:0 "£army_experience §R10§! £pol_power §R25§! £command_power §R25§!"
  GEO_establish_georgian_legion_cost_tooltip:0 "Cela coûte £army_experience 10, £pol_power 25 et  £command_power 25 pour sélectionner cela."
  GEO_establish_national_georgian_government:0 "Établir un gouvernement national géorgien"
- GEO_event.1.t:0 "The Volunteers Want to go Home!"
+ GEO_event.1.t:0 "Les volontaires veulent rentrer !"
  GEO_event.1.desc:0 "Les divisions de volontaires ont été formées dans le but de combattre [SOV.GetLeLaLNP] [SOV.GetName] et de libérer la Géorgie. Avec la défaite de l'État [SOV.GetAdjMS], ces volontaires ont le sentiment que leur mission est accomplie et ils veulent être renvoyés chez eux."
  GEO_event.1.a:0 "Les convaincre de rester un peu plus longtemps"
  GEO_event.1.b:0 "Dissoudre leur division."
