@@ -1,7 +1,7 @@
 ﻿l_french:
  r56_celtic_focus:0 "Focus national celtique"
  CEL_pro_union_movement:0 "Mouvement pro-union"
- CEL_pro_union_movement_desc:0 "Le peuple de [ROOT.GetNonIdeologyName] reste profondément divisé sur la question de la souveraineté de [ROOT.GetAdjective]. Bien que l'indépendance vis-à-vis de [ENG.GetAdjective] ait été obtenue, une faction importante, une majorité de l'électorat de [ROOT.GetAdjective], plaide toujours pour une union renouvelée et une coopération étroite avec nos voisins de l'autre côté de la frontière. Ce sentiment a alimenté une montée de la tension politique, car la vision d'un avenir uni avec [ENG.GetAdjective] entre en conflit avec les aspirations des nationalistes indépendantistes."
+ CEL_pro_union_movement_desc:0 "The people of [ROOT.GetNonIdeologyName] remain deeply divided on the question of [ROOT.GetAdjective] sovereignty. Although independence from the [ENG.GetAdjective] has been achieved, a significant faction, a majority of the [ROOT.GetAdjective] electorate still advocate for renewed union and close cooperation with our neighbors across the border. This sentiment has fueled a surge in political tension, as the vision of a united future with the [ENG.GetAdjective] clashes with the aspirations of the independence-minded nationalists."
  CEL_pro_union_movement_remove:0 "Sera §GRemoved§! soit une fois que §Y[ROOT.GetNonIdeologyName]§! sera dans §YFaction§! avec §Y[ENG.GetNameDef]§!, §Y[ROOT.GetNonIdeologyName]§! sera un §YSubject§! de §Y[ENG.GetNameDef]§! ou §Y[ENG.GetNameDef]§! n'§YExist§! pas."
  CEL_domestic_ammunition_production:0 "[GetAmmoFocusName]"
  CEL_domestic_ammunition_production_desc:0 "Afin de réduire l'influence des puissances étrangères sur notre armée, nous devons produire nos propres munitions."

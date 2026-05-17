@@ -29,7 +29,7 @@
  NRU_reap_the_benefits:0 "Profitez des avantages"
  NRU_reap_the_benefits_desc:0 "Nous l’avons fait ! Nous vendons du phosphate comme jamais auparavant. Profitons des bénéfices que cela nous apporte, et ne regardons pas en arrière !"
  NRU_britian_phosphate:0 "Approcher l'Occident"
- NRU_britian_phosphate_desc:0 "Avec la nouvelle décennie, il est clair que la voie de la démocratie guidera l’avenir du monde. Nous suivrons ce chemin, comme nos voisins, et aiderons nos alliés à poser les fondations des nations démocratiques de demain."
+ NRU_britian_phosphate_desc:0 "As the new decade sets in, it is obvious that the way of democracy will guide the future all throughout. We shall follow that path as our neighbors have and assist our allies in laying the foundations of democracy for the nations of the future."
  NRU_japanese_phosphate:0 "Coopération avec le Japon"
  NRU_japanese_phosphate_desc:0 "Le Japon s’est révélé être un adversaire qu’il ne faut pas sous-estimer, et cela s’applique aussi à nous. Si nous vendons notre phosphate aux Japonais au lieu d’essayer de nous opposer à eux, nous pourrions peut-être survivre à leur offensive dans le Pacifique."
  NRU_soviet_phosphate:0 "L'impensable"
@@ -71,3 +71,4 @@
  NRU_timothy_detudamo:0 "Timothy Detudamo"
  NRU_moses_ballarat:0 "Moses Ballarat"
  NRU_arthur_stretton_gaye:0 "Arthur Stretton Gaye"
+ nauru_focus: "Nauru Focus Tree"

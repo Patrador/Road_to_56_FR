@@ -4,7 +4,7 @@
  r56.startup.event.01.option_auto: "Continuer"
  r56.startup.event.01.option_tt: "Merci de jouer à notre mod, et passez une merveilleuse journée !"
  r56.startup.event.02.title: "...attendez, là !"
- r56.startup.event.02.description: "Il semble que vous n'ayez pas activé les DLC gratuits « Poland : United and Ready » et « Man the Guns ». Ils sont §Rrequis§! pour que le mod fonctionne normalement. Veuillez redémarrer le jeu avec ces DLC activés, sinon, des bugs majeurs apparaîtront."
+ r56.startup.event.02.description: "It looks like you don't have the free \"Poland: United and Ready\"  DLC enabled. This is a §Rrequirement§! for the mod to function as intended. Please restart the game with said DLC enabled; otherwise, major bugs will appear."
  r56.startup.event.02.option: "Je vais quitter le jeu et faire ce que vous m'avez demandé."
  r56.startup.event.02.option_tt: "Vous avez intérêt..."
  r56.startup.event.03.title: "Vous n’êtes pas censés voir cela"

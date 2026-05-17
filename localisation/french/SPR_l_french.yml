@@ -180,7 +180,7 @@
  SPR_ministry_of_religous_affairs:0 "Ministère des affaires religieuses"
  SPR_ministry_of_religous_affairs_desc:0 "Le carlisme croit en l'importance de l'Église catholique non seulement dans la société mais aussi dans les décisions gouvernementales. La création d'un ministère dédié aux affaires religieuses nous permettra de nous assurer qu'il a une influence sur nos décisions."
  SPR_pursue_autarky_policies:0 "Poursuivre les politiques d'autarcie"
- SPR_pursue_autarky_policies_desc:0 "Pendant des décennies, de nombreux groupes ont soutenu l'idée de l'indépendance économique. Nous devons poursuivre nos politiques en faveur de la production locale et de la réduction de notre dépendance vis-à-vis d'autres pays, notamment en matière d'armement."
+ SPR_pursue_autarky_policies_desc:0 "For decades, many groups have supported the idea of economic independence. We must continue our policies in favor of local production and the reduction of our dependence on other countries, particularly in terms of armaments."
  SPR_policia_armada:0 "Policia armada"
  SPR_policia_armada_desc:0 "Nous avons peut-être vaincu les traîtres républicains sur le champ de bataille, mais nombre de leurs partisans continuent d'être dans l'ombre, s'entraînant probablement contre le nouveau régime. Cela doit cesser."
  SPR_sindicato_vertical:0 "Sindicato vertical"
@@ -334,3 +334,4 @@
  SPR_manuel_portela_valladares:0 "Manuel Portela Valladares"
  SPR_mza:0 "MZA"
  holy_alliance:0 "Sainte-Alliance"
+ SPR_alfonso_xiii: "Alfonso XIII"

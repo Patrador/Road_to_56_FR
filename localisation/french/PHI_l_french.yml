@@ -1,5 +1,4 @@
 ﻿l_french:
- philippines_focus:0 "Focus national des Philippines"
  PHI_develop_anti_air_capabilities:0 "Développer les capacités antichars"
  PHI_post_indenpence_stabilization:0 "Réorganiser le gouvernement"
  PHI_post_indenpence_stabilization_desc:0 "Le paysage politique de notre pays est devenu chaotique ; les partis fascistes, communistes et démocratiques se disputent le pouvoir. Il est temps de mettre fin à cette situation et de commencer à construire une nouvelle nation pour notre peuple, en réorganisant le gouvernement et l'État de droit !"
@@ -322,3 +321,7 @@
  PHI_philantropic_falangist:0 "Phalangiste philanthrope"
  PHI_father_of_the_national_language:0 "Père de la langue nationale"
  PHI_jack_of_all_trades:0 "Bon à tout, maître en rien"
+ r56_philippines_focus:0 "Priorités nationales des Philippines"
+ PHI_island_nation_dynamic_modifier_convoy_bonus: "§YConvoi§!:\n £GFX_production_cost Coût de production : [?PHI_convoy_bonus_amount|%-]"
+ PHI_island_nations_convoy_bonus: "$PHI_island_nation_dynamic_modifier$"
+ PHI_island_nations_convoy_bonus_improved: "$PHI_island_nation_dynamic_modifier$"

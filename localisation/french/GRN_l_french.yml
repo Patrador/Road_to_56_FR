@@ -2,7 +2,6 @@
  GRN_eske_brun:0 "Eske Brun"
  GRN_aksel_svane:0 "Aksel Svane"
  GRN_greenland_worker_councils:0 "Conseils des Travailleurs du Groenland"
- r56_greenland.1:0 "L’Accord Hull-Kauffmann"
  r56_greenland.1.t:0 "L’Accord Hull-Kauffmann"
  r56_greenland.1.d:0 "Le gouvernement [DEN.GetAdjective] est récemment tombé aux mains des armées fascistes, mais le territoire colonial du Groenland reste libre de toute ingérence fasciste. Par chance, un diplomate [DEN.GetAdjective] nommé Henrik Kauffmann nous a récemment approchés au sujet de la situation au Groenland. Il agit 'in the Name of the King' et en vertu de l'autorité du gouvernement [DEN.GetAdjective] récemment exilé.\n\nLes responsables de Nuuk ont contacté Kauffmann avec cette requête, car ils préfèrent une occupation [USA.GetAdjective] plutôt qu'une occupation possible par [ENG.GetNameDef] ou [CAN.GetNameDef]. Ou, pire encore, par une puissance fasciste. Cet accord peut être juridiquement douteux au regard du droit international... Mais nous avons la responsabilité de protéger toutes les terres et les peuples du Nouveau Monde contre les menaces fascistes ; cela inclut le Groenland. \n\nComment devons‑nous procéder ?"
  r56_greenland.1.a:0 "Mettre le Groenland sous notre contrôle direct immédiatement."

@@ -577,3 +577,6 @@
  ARG_south_atlantic_islands: "Îles de l'Atlantique Sud"
  ARG_south_atlantic_islands_desc: "Les îles Malouines et la Géorgie du Sud sont des territoires souverains des [ENG.GetName] depuis de nombreuses années. Malgré nos propres revendications sur ces îles, situées si près de [ARG.GetName], elles restent sous la domination des [ENG.GetAdjective]. Grâce à notre nouvelle alliance avec les [ENG.GetName], nous pourrions peut-être négocier un transfert de ces îles sous notre contrôle. Après tout, nous serons en mesure de mieux les protéger dans cette guerre."
  ARG_establishing_a_foothold:0 "Établir une position"
+ ARG_Loma_Negra:0 "Loma Negra"
+ ARG_Ferrocarriles_Argentinos:0 "Ferrocarriles Argentinos"
+ ARG_intelligence_agency_name:0 "SIDE"

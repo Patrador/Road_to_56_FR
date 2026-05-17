@@ -1,5 +1,4 @@
 ﻿l_french:
- IRQ_mahmud_salman:0 "Mahmud Salman"
  IRQ_iraq_petroleum_company:0 "Iraq Petroleum Company"
  IRQ_reinforce_the_monarchy:0 "Renforcer la monarchie hachémite"
  IRQ_reinforce_the_monarchy_desc:0 "Les Hachémites sont une famille royale de Jordanie fondée à la fin du Xe siècle et qui n'a cessé de régner sur le pays depuis lors. En 1933, Ghazi bin Faisal a été couronné roi Ghazi I. En tant que nationaliste panarabe, le jeune roi assurera certainement l'héritage hachémite et mènera le pays à la prospérité en ces temps incertains. "
@@ -269,7 +268,7 @@
  IRQ_golden_square_defense_government_idea_2:0 "Occupation militaire britannique"
  IRQ_british_occupation_diplo_tt:0 "occupation britannique"
  iraq_hist.1.t:0 "Le Carré d'Or lance le coup d'état !"
- iraq_hist.1.desc:0 "Les menaces de l'organisation fasciste d'officiers connue sous le nom d'Al-Murabbaʿ al-Dhahabī (Carré d'Or) se sont multipliées depuis la mort de notre roi Ghazi Ier et la régence de [IRQ.GetLeader]. Le « carré » lui-même est composé du colonel Salah al-Din al-Sabbagh, du colonel Kamil Shabib, du colonel Fahmi Said et du colonel Mahmud Salman. Ces officiers plaident pour une prise de contrôle du gouvernement nationaliste et l'installation de Rashid Ali al-Gaylani à la tête du [IRQ.GetName].\n\nAujourd'hui, ces personnages ont lancé leur intrigue. Les unités militantes sous al-Sabbagh se déplacent pour sécuriser le palais royal et des emplacements stratégiques clés à Bagdad. Le temps presse pour réprimer ce coup d'État avant qu'il ne réussisse."
+ iraq_hist.1.desc:0 "Threats by the fascist organization of officers known the Al-Murabbaʿ al-Dhahabi (Golden Square) have been increasing ever since the death of our King Ghazi I and the regency of [IRQ.GetLeader]. The 'square' itself consists of Colonel Salah al-Din al-Sabbagh, Colonel Kamil Shabib, Colonel Fahmi Said, and Colonel Mahmud Salman. These officers advocate for a nationalist government takeover and installing Rashid Ali al-Gaylani as leader of [IRQ.GetName].\n\nToday these figures have launched their plot. The militant units under al-Sabbagh are moving to secure the royal palace and key strategic locations in Baghdad. Time is of the essence to quell this coup before it succeeds."
  iraq_hist.1.a:0 "La cause des comploteurs est juste, ils réussiront."
  iraq_hist.1.b:0 "Déployez l'armée pour mettre fin à ces absurdités !"
  iraq_hist.2.t:0 "Prise de contrôle du Carré d'Or en Irak !"
@@ -410,3 +409,5 @@
  IRQ_Babil:0 "Empire de Babylone"
  IRQ_Babil_def: "l'Empire de Babylone"
  IRQ_MASHRIQ:0 "République du Mashrek"
+ IRQ_GOLDEN_SQUARE_PARTY:0 "Al-Murabba al-Dhahabī"
+ IRQ_GOLDEN_SQUARE_PARTY_LONG:0 "Al-Murabba al-Dhahabī (Golden Square)"

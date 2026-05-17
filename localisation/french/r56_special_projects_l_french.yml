@@ -59,3 +59,5 @@
  sp_r56_heavy_tank_studies_focus_preference_be_sane:0 "Gardons l’étude ancrée dans la réalité."
  r56_heavy_tank_studies_tech:0 "Améliorations des chars lourds"
  r56_heavy_tank_studies_tech_desc:0 "Des conceptions de chars lourds mieux préparées au combat."
+ sp_air_r56_afterburning_engine: "Moteur à réaction à postcombustion"
+ sp_air_r56_afterburning_engine_desc: "Nos nouveaux modèles de moteurs à réaction peuvent être encore améliorés grâce à la postcombustion, ce qui permettra de courts surcroîts de puissance."

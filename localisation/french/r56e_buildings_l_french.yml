@@ -18,3 +18,4 @@
  sabotage_steel_mill: "Saboter les $steel_mill_plural$"
  sabotage_rubber_refinery: "Saboter les $rubber_refinery_plural$"
  construction_speed_open_tt: "§YBasculer l'affichage du modificateur de temps de construction§!"
+ STATE_CATEGORY_developed_rural: "Developed Rural"

@@ -34,3 +34,6 @@
  FOCUS_FILTER_FOLKHEMMET: "Folkhemmet"
  FOCUS_FILTER_HISTORICAL: "Historique"
  FOCUS_FILTER_INNER_CIRCLE: "Cercle intime"
+ FOCUS_ALTERNATE_ICONS: "§0Icônes alternatives§!"
+ FOCUS_FILTER_IMPERIAL_INFLUENCE: "Influence impériale"
+ FOCUS_FILTER_COMPLETED_BY_EVENT: "Terminé par des événements"

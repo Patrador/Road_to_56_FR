@@ -225,7 +225,7 @@
  CHL_communist_faction_desc:0 "Le Komintern se moque du vrai communisme - ce ne sont même pas des socialistes. Staline n'est rien de plus qu'un tsar despotique qui gouverne par la peur. Nous devrions fonder notre propre faction d'états véritablement communistes et propager notre propre Révolution."
  CHL_communist_brazil_influence:0 "Influencer le Brésil"
  CHL_communist_brazil_influence_desc:0 "Le Brésil est le plus grand État d'Amérique du Sud. Si nous pouvons convaincre les Brésiliens de rejoindre la révolution, le reste du continent suivra rapidement."
- CHL_growing_communist_faction:0 "Propager la révolution chez nos voisins"
+ CHL_growing_communist_faction:0 "Spread the Revolution to Our Neighbors"
  CHL_growing_communist_faction_desc:0 "Nos voisins sont opprimés par les bourgeois - nous devons les émanciper comme nous l'avons fait nous-mêmes."
  CHL_communist_argentina_war:0 "Libérer les Argentins"
  CHL_communist_argentina_war_desc:0 "Les travailleurs argentins crient pour la liberté. Nous devons les libérer des chaînes de l'oppression capitaliste."

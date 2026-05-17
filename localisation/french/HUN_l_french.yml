@@ -125,7 +125,6 @@
  r56_hungary_7.desc:0 "Avec sa traditionnelle bravade diplomatique, [ITA.GetLeader] a décidé d'agir de son propre chef et d'inviter [YUG.GetLeader] à signer un traité d'alliance, les liant à [HUN.getfactionname]. Bien qu'il soit agréable d'avoir de nouveaux alliés, cela pourrait nuire à la réforme de la Hongrie historique."
  r56_hungary_7.a:0 "Je suppose que c'est mieux que d'être entouré d'ennemis."
  WW_hungary.90.c:0 "Pal Esterhazy C'est vrai !"
- ROM_agrarian_reform:0 "Réforme agraire"
  HUN_establish_szerbiai_magyarok_academy_of_sciences_decision: "Fonder l’Académie des Sciences des Hongrois de Serbie"
  HUN_establish_szlovakiai_magyarok_academy_of_sciences_decision: "Fonder l’Académie des Sciences des Hongrois de Slovaquie"
  HUN_szerbiai_magyarok_science_academy_flag: "Fonder l’Académie des Sciences des Hongrois de Serbie"

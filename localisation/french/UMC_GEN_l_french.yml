@@ -374,3 +374,5 @@
  r56_generic_rocket_idea:0 "Programme de roquettes"
  r56_generic_radar_idea:0 "Programme radar"
  r56_generic_jet_idea:0 "Programme de jets"
+ TAG_royal_army_scripted_loc_name:0 "Royal [ROOT.GetAdjective] Armed Forces"
+ TAG_regular_army_scripted_loc_name:0 "[ROOT.GetAdjective] Armed Forces"
