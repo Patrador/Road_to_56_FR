@@ -3616,6 +3616,7 @@ frloc_capital_en_de_audessusdela = {
 		state = 779
 		state = 780
 		state = 785
+		state = 1017
 	}
 }
 
@@ -4186,6 +4187,7 @@ frloc_state_sg_fem_cons_art_la_dela_e_06 = {
 		state = 779
 		state = 780
 		state = 785
+		state = 1017
 	}
 }
 
